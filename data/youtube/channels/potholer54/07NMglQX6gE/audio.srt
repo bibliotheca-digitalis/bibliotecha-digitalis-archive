@@ -1,0 +1,996 @@
+1
+00:00:00,000 --> 00:00:04,720
+I was going to do something on quotes as part of my series on science and the media, and
+
+2
+00:00:04,720 --> 00:00:09,800
+I was particularly keen on showing a few tricks of the trade by which people can be misquoted.
+
+3
+00:00:09,800 --> 00:00:13,400
+I wasn't quite sure how much you all knew about this already.
+
+4
+00:00:13,400 --> 00:00:18,140
+But then two almost identical claims dropped into my message box, which made it clear that
+
+5
+00:00:18,140 --> 00:00:23,120
+maybe these techniques aren't well understood, because the people who messaged me swore that
+
+6
+00:00:23,120 --> 00:00:29,300
+Ben Santa, lead author of a chapter in an IPCC report in 1995, had admitted to deleting
+
+7
+00:00:29,300 --> 00:00:35,120
+a crucial part of the report that said humans were not responsible for recent climate change.
+
+8
+00:00:35,120 --> 00:00:40,700
+The admission came, they told me, in an interview on the Jesse Ventura conspiracy show.
+
+9
+00:00:40,700 --> 00:00:45,340
+But it's funny, because after they gave me the link, I watched exactly the same interview
+
+10
+00:00:45,340 --> 00:00:47,380
+and saw no such admission.
+
+11
+00:00:47,380 --> 00:00:48,380
+Here's the clip.
+
+12
+00:00:48,380 --> 00:00:52,700
+Lord Monckton points to deletions from the chapter, and there were deletions from the
+
+13
+00:00:52,700 --> 00:00:53,780
+chapter.
+
+14
+00:00:53,780 --> 00:00:57,820
+To be consistent with the other chapters, we dropped the summary at the end.
+
+15
+00:00:58,060 --> 00:01:02,460
+Now how can we all watch the same thing and come away with a completely different understanding
+
+16
+00:01:02,460 --> 00:01:03,820
+of what was said?
+
+17
+00:01:03,820 --> 00:01:06,900
+Well, welcome to the wonderful world of television.
+
+18
+00:01:06,900 --> 00:01:12,780
+After ten years of experiment, television, first shown to the public at the World's Fair,
+
+19
+00:01:12,780 --> 00:01:17,140
+now takes its place as a new American art and industry.
+
+20
+00:01:17,140 --> 00:01:21,700
+I guess I saw things differently, because I've conducted scores of interviews for television,
+
+21
+00:01:21,700 --> 00:01:25,920
+so when I watch an interview now, I'm not just listening to what's said, I'm looking
+
+22
+00:01:25,920 --> 00:01:29,740
+to see where the cuts are made and where the cameras are positioned.
+
+23
+00:01:29,740 --> 00:01:32,720
+And it's these insights I want to share with you.
+
+24
+00:01:32,720 --> 00:01:37,280
+But television is just one journalistic medium, so let's start with the medium I started in,
+
+25
+00:01:37,280 --> 00:01:39,000
+which is print.
+
+26
+00:01:39,000 --> 00:01:43,720
+And let's take this 60 Minutes interview with WikiLeaks founder Julian Assange as an example
+
+27
+00:01:43,720 --> 00:01:44,960
+of a typical interview.
+
+28
+00:01:44,960 --> 00:01:50,280
+There is a special set of rules in the United States for disclosing classified information.
+
+29
+00:01:50,280 --> 00:01:51,280
+There is.
+
+30
+00:01:51,280 --> 00:01:52,280
+There's a special...
+
+31
+00:01:52,280 --> 00:01:53,280
+Long standing.
+
+32
+00:01:53,640 --> 00:02:01,800
+There's a special set of rules for soldiers, for members of the State Department who are
+
+33
+00:02:01,800 --> 00:02:02,800
+disclosing classified information.
+
+34
+00:02:02,800 --> 00:02:08,500
+There's not a special set of rules for publishers who disclose classified information.
+
+35
+00:02:08,500 --> 00:02:12,920
+Clearly Assange is saying that there's no special set of rules for publishers disclosing
+
+36
+00:02:12,920 --> 00:02:17,980
+classified information, which is the argument he uses to claim that publishing leaked material
+
+37
+00:02:17,980 --> 00:02:20,120
+is perfectly legal.
+
+38
+00:02:20,120 --> 00:02:23,260
+Now this is how the verbatim quote actually looks.
+
+39
+00:02:23,260 --> 00:02:27,540
+But if I was writing a story for print, this would be too long and too cumbersome to put
+
+40
+00:02:27,540 --> 00:02:29,520
+directly into a story.
+
+41
+00:02:29,520 --> 00:02:34,300
+So I'd cut it down to Assange's basic point and quote him like this.
+
+42
+00:02:34,300 --> 00:02:39,120
+The ellipse shows that I've cut some words, and the parenthesis shows that I've substituted
+
+43
+00:02:39,120 --> 00:02:42,960
+a shorter word, again without changing the meaning.
+
+44
+00:02:42,960 --> 00:02:47,640
+If Assange saw this edited quote, he'd probably agree that it's in perfect accord with his
+
+45
+00:02:47,640 --> 00:02:49,740
+intent and meaning.
+
+46
+00:02:49,740 --> 00:02:54,440
+But if I was a less honest journalist working for a newspaper intent on pushing a political
+
+47
+00:02:54,440 --> 00:02:59,640
+line, I could quite easily make a cut that changes Assange's meaning completely.
+
+48
+00:02:59,640 --> 00:03:03,760
+And if I wanted to erase all trace of the edit I made, I wouldn't bother putting in
+
+49
+00:03:03,760 --> 00:03:05,160
+the ellipse.
+
+50
+00:03:05,160 --> 00:03:09,760
+This is what people would read in my newspaper, and they'd assume it's exactly what Assange
+
+51
+00:03:09,760 --> 00:03:10,980
+said.
+
+52
+00:03:10,980 --> 00:03:15,580
+So without knowing what the interviewee actually said, how can you spot the difference between
+
+53
+00:03:15,580 --> 00:03:20,520
+editing that's done to save space while retaining the meaning, and dishonest editing that's
+
+54
+00:03:20,520 --> 00:03:22,320
+done to manipulate the meaning?
+
+55
+00:03:22,320 --> 00:03:26,400
+Well, there are lots of ways to tell from the wording, something I won't have time to
+
+56
+00:03:26,400 --> 00:03:27,860
+go into here.
+
+57
+00:03:27,860 --> 00:03:31,760
+But your suspicions should be aroused when an interviewee suddenly says something that
+
+58
+00:03:31,760 --> 00:03:35,540
+completely contradicts everything he said before.
+
+59
+00:03:35,540 --> 00:03:40,400
+For Assange to declare that publishing classified material is illegal, when for months he's
+
+60
+00:03:40,400 --> 00:03:43,960
+been insisting it's legal, would be extraordinary.
+
+61
+00:03:43,960 --> 00:03:48,020
+And only a journalist with a brain the size of a donut would let an admission like that
+
+62
+00:03:48,020 --> 00:03:51,620
+slip by without pushing for more details.
+
+63
+00:03:51,620 --> 00:03:56,020
+If Assange was doing this interview for radio, then a different technique is used.
+
+64
+00:03:56,020 --> 00:03:58,680
+Obviously, ellipses don't work here.
+
+65
+00:03:58,680 --> 00:04:03,820
+A long quote can simply be pieced together from bits of sentences throughout the interview.
+
+66
+00:04:03,820 --> 00:04:07,820
+That's fine if it's done for time purposes and retains the meaning.
+
+67
+00:04:07,820 --> 00:04:11,080
+But in unscrupulous hands, often it's not.
+
+68
+00:04:11,080 --> 00:04:15,940
+Let's start with what Assange actually said, this time using sound editing software.
+
+69
+00:04:15,940 --> 00:04:24,940
+There's a special set of rules for soldiers, for members of the State Department who are
+
+70
+00:04:24,940 --> 00:04:25,940
+disclosing classified information.
+
+71
+00:04:25,940 --> 00:04:31,500
+There's not a special set of rules for publishers who disclose classified information.
+
+72
+00:04:31,500 --> 00:04:37,660
+Now with a bit of judicious editing, here's what we can make him say.
+
+73
+00:04:37,660 --> 00:04:44,020
+There's a special set of rules for publishers who disclose classified information.
+
+74
+00:04:44,020 --> 00:04:48,920
+The same sort of thing can be done with TV, but with television there's a problem.
+
+75
+00:04:48,920 --> 00:04:53,680
+If I simply take one part of Assange's quote and paste it together with another part, the
+
+76
+00:04:53,680 --> 00:04:58,200
+sound might be seamless, but there would be an obvious jump in the picture.
+
+77
+00:04:58,200 --> 00:05:04,080
+There's a special set of rules for publishers who disclose classified information.
+
+78
+00:05:04,080 --> 00:05:08,220
+Now some TV networks are okay with this, and it's an honest admission that something
+
+79
+00:05:08,220 --> 00:05:11,540
+has been cut, just like the newspaper ellipse.
+
+80
+00:05:11,540 --> 00:05:15,860
+But if a lot of edits have to be made, as so often happens, just to get a continuous
+
+81
+00:05:15,860 --> 00:05:21,140
+sentence, and since television likes to cast an illusion that hates this kind of interruption,
+
+82
+00:05:21,140 --> 00:05:24,300
+TV journalists have a trick to get around it.
+
+83
+00:05:24,300 --> 00:05:29,660
+Now watch my dishonest edit again, this time the way it would be presented on a TV show.
+
+84
+00:05:29,660 --> 00:05:35,840
+There's a special set of rules for publishers who disclose classified information.
+
+85
+00:05:35,840 --> 00:05:40,380
+To the casual viewer it looks as though Assange has continued talking without a break.
+
+86
+00:05:40,380 --> 00:05:44,240
+This is called a cutaway, or specifically a reverse.
+
+87
+00:05:44,240 --> 00:05:50,440
+A cutaway could be anything from Assange walking in the garden to a shot of a WikiLeaks page.
+
+88
+00:05:50,440 --> 00:05:54,920
+But the most common type of cutaway is the reverse, or what Australian TV journalists
+
+89
+00:05:54,920 --> 00:06:00,340
+call noddies, because they're quick and easy, and make the cut less obvious.
+
+90
+00:06:00,340 --> 00:06:04,860
+You can go to the cutaway, do the audio edit, and then come back to the interviewee and
+
+91
+00:06:04,860 --> 00:06:06,900
+it sounds as though nothing has been skipped.
+
+92
+00:06:06,900 --> 00:06:13,140
+There's a special set of rules for publishers who disclose classified information.
+
+93
+00:06:13,140 --> 00:06:17,140
+But in half a second we've changed Assange's meaning completely.
+
+94
+00:06:17,140 --> 00:06:23,700
+These reverses happen so often in TV interviews a passive viewer would hardly notice them.
+
+95
+00:06:23,700 --> 00:06:27,760
+How many cuts can you see in this short clip from the 60 Minutes interview?
+
+96
+00:06:27,760 --> 00:06:29,440
+What statements are you referring to?
+
+97
+00:06:29,440 --> 00:06:37,440
+The statements by the Vice President, Biden, saying, for instance, that I was a high-tech
+
+98
+00:06:37,440 --> 00:06:38,840
+terrorist.
+
+99
+00:06:38,840 --> 00:06:43,320
+Sarah Palin calling to our organisation to be dealt with like the Taliban and be hunted
+
+100
+00:06:43,320 --> 00:06:44,320
+down.
+
+101
+00:06:44,320 --> 00:06:49,720
+There's calls either for my assassination or the assassination of my staff, or for us
+
+102
+00:06:49,720 --> 00:06:54,820
+to be kidnapped and renditioned back to the United States to be executed.
+
+103
+00:06:54,820 --> 00:06:58,800
+If you said three, congratulations, you'd be wrong.
+
+104
+00:06:58,800 --> 00:07:00,340
+There were actually six.
+
+105
+00:07:00,340 --> 00:07:03,280
+Okay, three of them were in the cutaways.
+
+106
+00:07:03,280 --> 00:07:07,380
+The editor isn't cutting to Steve Croft here, because he's reacting to something Assange
+
+107
+00:07:07,380 --> 00:07:11,160
+said, or because he's interjecting, or because he's got such a pretty face.
+
+108
+00:07:11,160 --> 00:07:13,100
+We just can't get enough of it.
+
+109
+00:07:13,100 --> 00:07:15,280
+This is an edit of the audio.
+
+110
+00:07:15,280 --> 00:07:18,100
+But let me explain the other three.
+
+111
+00:07:18,100 --> 00:07:22,440
+Cameras and camera crews are expensive, much more so in the past when networks used to
+
+112
+00:07:22,440 --> 00:07:26,720
+cut costs by having just one camera focused on the interviewee.
+
+113
+00:07:26,720 --> 00:07:29,620
+The interviewer would be filmed when the interview was over.
+
+114
+00:07:29,620 --> 00:07:33,880
+It meant he had to sit in front of the camera, staring at nothing and looking interested,
+
+115
+00:07:33,880 --> 00:07:37,960
+even repeating the same questions that were put during the interview, in order to get
+
+116
+00:07:37,960 --> 00:07:39,660
+some cutaways.
+
+117
+00:07:39,660 --> 00:07:44,040
+But these days it's common to have two cameras, and with the Assange interview, a third camera
+
+118
+00:07:44,040 --> 00:07:49,080
+was taking a wide shot, allowing more variety in the way the cuts are made.
+
+119
+00:07:49,080 --> 00:07:53,920
+Here we go from a close-up to a wide shot, and that's where something's been cut.
+
+120
+00:07:53,920 --> 00:07:57,240
+When we go back to the close-up, that's another edit.
+
+121
+00:07:57,240 --> 00:08:01,040
+This one is so obvious it can even be heard in the audio alone.
+
+122
+00:08:01,040 --> 00:08:06,680
+Or for us to be kidnapped and renditioned back to the United States to be executed.
+
+123
+00:08:06,680 --> 00:08:11,060
+One reason for that is that an audio recording isn't consistent throughout an interview.
+
+124
+00:08:11,060 --> 00:08:15,300
+The tone of an interviewee's voice will change, and even the quality of the recording will
+
+125
+00:08:15,300 --> 00:08:19,580
+change as he shifts his head slightly in relation to the microphone.
+
+126
+00:08:19,580 --> 00:08:24,060
+Or his words might be so close together that even a precise edit will push one word too
+
+127
+00:08:24,060 --> 00:08:26,340
+close to the edit point.
+
+128
+00:08:26,340 --> 00:08:30,300
+That's obviously the case with the sixth edit, where the camera cuts to Assange at the end
+
+129
+00:08:30,300 --> 00:08:38,380
+of Steve Croft's question, leaving out the first part of his opening line.
+
+130
+00:08:38,380 --> 00:08:42,300
+So how would an unscrupulous journalist get around the problem of one word butting right
+
+131
+00:08:42,300 --> 00:08:44,260
+up against another?
+
+132
+00:08:44,260 --> 00:08:48,760
+Let's use another 60 Minutes interview, this time with a faster-talking Mark Zuckerberg,
+
+133
+00:08:48,760 --> 00:08:51,000
+to see how this could be done.
+
+134
+00:08:51,000 --> 00:08:55,500
+By the way, the cutaway here to Lesley Stahl isn't done to cut anything Zuckerberg said.
+
+135
+00:08:55,500 --> 00:08:57,180
+It's a reaction shot.
+
+136
+00:08:57,180 --> 00:09:02,260
+Without it, you'd just hear Stahl's reaction off-camera, which would sound a little weird.
+
+137
+00:09:02,260 --> 00:09:05,900
+Now what I'll show you in the text are the words I want to extract from the Zuckerberg
+
+138
+00:09:05,900 --> 00:09:22,500
+interview for my fabricated quote.
+
+139
+00:09:22,500 --> 00:09:26,740
+So here's the clip I want to end up with, deleting a large chunk of what Zuckerberg
+
+140
+00:09:26,740 --> 00:09:28,340
+said in between.
+
+141
+00:09:28,340 --> 00:09:32,140
+Now if we go to the audio and make the cut I want, you can see the problem.
+
+142
+00:09:32,140 --> 00:09:37,140
+However precisely I make the cut, one word will always butt up against another.
+
+143
+00:09:37,140 --> 00:09:45,280
+Even with the benefit of a cutaway, you can clearly hear the edit.
+
+144
+00:09:45,280 --> 00:09:49,780
+Most ethical networks would just let that go, just as 60 Minutes did with Assange's
+
+145
+00:09:49,780 --> 00:09:54,020
+obvious edits, because the only way to get around it is to do something that has to be
+
+146
+00:09:54,020 --> 00:09:56,860
+regarded as deliberately deceptive.
+
+147
+00:09:56,860 --> 00:10:00,740
+Let's go to the Zuckerberg audio track again to see how it's done.
+
+148
+00:10:00,740 --> 00:10:04,380
+Since the problem is that the words come too close together, I could of course just
+
+149
+00:10:04,380 --> 00:10:14,000
+separate them with a fraction of a second's silence, a simple pause.
+
+150
+00:10:14,000 --> 00:10:17,580
+But this sounds artificial and makes the cut even more obvious.
+
+151
+00:10:17,580 --> 00:10:19,380
+So here's the trick.
+
+152
+00:10:19,380 --> 00:10:24,100
+Instead of silence, we copy a pause for breath from another part of the interview and simply
+
+153
+00:10:24,100 --> 00:10:27,020
+insert it where we made the edit.
+
+154
+00:10:27,020 --> 00:10:36,180
+Now listen to how natural that sounds.
+
+155
+00:10:36,180 --> 00:10:46,400
+And when we mask the audio with the cutaway, the cut is imperceptible to the casual viewer.
+
+156
+00:10:46,400 --> 00:10:50,900
+Editing interviews and using cutaways is something every television journalist does.
+
+157
+00:10:50,900 --> 00:10:55,780
+But every cut we make has to be weighed carefully to ensure it's done for time reasons alone
+
+158
+00:10:55,780 --> 00:10:59,460
+and doesn't change an interviewee's intent or meaning.
+
+159
+00:10:59,460 --> 00:11:10,120
+Which brings us back to Jesse Ventura's conspiracy programme.
+
+160
+00:11:10,120 --> 00:11:23,620
+Look again at that Santa interview with a more practised eye.
+
+161
+00:11:23,620 --> 00:11:25,180
+You see it now?
+
+162
+00:11:25,180 --> 00:11:32,660
+That's right, the explanation Santa gave about the deletions was, ironically, itself deleted.
+
+163
+00:11:32,660 --> 00:11:36,740
+Instead the programme goes to a cutaway and another part of Santa's interview is inserted
+
+164
+00:11:36,740 --> 00:11:38,380
+in its place.
+
+165
+00:11:38,380 --> 00:11:42,300
+If we listen to the first part of the clip before the edit, it sounds as though Santa's
+
+166
+00:11:42,300 --> 00:11:52,740
+about to explain what the deletions were.
+
+167
+00:11:52,740 --> 00:11:56,620
+What and what?
+
+168
+00:11:56,620 --> 00:11:58,660
+We already know there were deletions.
+
+169
+00:11:58,660 --> 00:12:02,280
+Santa said fifteen years ago that changes were made to the chapter.
+
+170
+00:12:02,280 --> 00:12:06,060
+The controversy is about what those deletions were.
+
+171
+00:12:06,060 --> 00:12:09,940
+But for some reason we don't get to hear the rest of Santa's sentence.
+
+172
+00:12:09,940 --> 00:12:12,940
+It's um deleted.
+
+173
+00:12:12,940 --> 00:12:17,100
+Now maybe Santa didn't go on to explain what the deletions were.
+
+174
+00:12:17,100 --> 00:12:20,740
+But if that's the case, then why didn't the interviewer ask him?
+
+175
+00:12:20,740 --> 00:12:23,080
+After all, that's the whole point of the interview.
+
+176
+00:12:23,080 --> 00:12:27,580
+It's the one thing the show and its audience want to know.
+
+177
+00:12:27,580 --> 00:12:31,820
+The result of this clever editing is that a lot of bloggers, completely oblivious to
+
+178
+00:12:31,820 --> 00:12:38,480
+the cutaway, are quoting Santa as if this is what he actually said.
+
+179
+00:12:38,480 --> 00:12:43,140
+And even adding things they thought he said.
+
+180
+00:12:43,140 --> 00:12:45,260
+That's the power of television.
+
+181
+00:12:45,260 --> 00:12:50,320
+Producers know what their target audience wants to hear and the film can be edited accordingly.
+
+182
+00:12:50,320 --> 00:12:55,180
+If you want to make a TV series called Quest for Lost Civilizations, for example, then
+
+183
+00:12:55,180 --> 00:12:59,260
+you really have to give your audience lost civilizations.
+
+184
+00:12:59,260 --> 00:13:02,000
+This one I have some personal experience with.
+
+185
+00:13:02,000 --> 00:13:07,400
+In 1999 I was asked by New Scientist magazine to investigate a strange underwater structure
+
+186
+00:13:07,400 --> 00:13:10,880
+called the Yonaguni Monument in the western Pacific.
+
+187
+00:13:10,880 --> 00:13:15,360
+It had featured in a television series by the author Graham Hancock, who postulated
+
+188
+00:13:15,360 --> 00:13:20,520
+that the structure, which consists of horizontal steps and occasional holes, could be man-made.
+
+189
+00:13:20,520 --> 00:13:23,160
+Here's how he introduced it.
+
+190
+00:13:23,160 --> 00:13:27,460
+On the other side of the Pacific Ocean there's exciting evidence of a civilization that could
+
+191
+00:13:27,460 --> 00:13:31,320
+have been lost in the cataclysm.
+
+192
+00:13:31,320 --> 00:13:36,000
+It lies off the most southerly Japanese island of Yonaguni.
+
+193
+00:13:36,000 --> 00:13:39,480
+Of course, Hancock isn't an expert, he's a journalist.
+
+194
+00:13:39,480 --> 00:13:48,160
+So for his documentary he consulted three real experts, Egyptologist John Anthony West,
+
+195
+00:13:48,160 --> 00:14:02,960
+geologist Dr Robert Schoch, and geologist Professor Masaaki Kimura.
+
+196
+00:14:02,960 --> 00:14:04,800
+When do you think that man made it?
+
+197
+00:14:04,800 --> 00:14:12,800
+Based upon the sea level change, the age is older than 9,000 years.
+
+198
+00:14:12,800 --> 00:14:15,720
+Somewhere between 9,000 and 10,000 years?
+
+199
+00:14:15,720 --> 00:14:16,720
+Yes.
+
+200
+00:14:16,720 --> 00:14:21,840
+So from the film it seems the experts and amateurs agree that Yonaguni is largely man-made
+
+201
+00:14:21,840 --> 00:14:27,520
+and built more than 9,000 years ago, thus supporting the idea of a lost civilization.
+
+202
+00:14:27,520 --> 00:14:29,340
+Or do they?
+
+203
+00:14:29,340 --> 00:14:32,980
+The reason I remember this story is because when it was published it caused quite a bit
+
+204
+00:14:32,980 --> 00:14:34,560
+of consternation.
+
+205
+00:14:34,560 --> 00:14:39,040
+Hancock complained to new scientists that my story unfairly cast doubt on the conclusion
+
+206
+00:14:39,040 --> 00:14:41,080
+of his documentary.
+
+207
+00:14:41,080 --> 00:14:45,500
+But as with the videos I make on this channel, I wasn't expressing my own opinion in the
+
+208
+00:14:45,500 --> 00:14:49,800
+new scientist's story, I simply consulted two experts.
+
+209
+00:14:49,800 --> 00:14:55,560
+Two of the same experts that Hancock had used in his film, Robert Schoch and Masaaki Kimura,
+
+210
+00:14:55,560 --> 00:14:59,060
+and I reported what they said based on their research.
+
+211
+00:14:59,060 --> 00:15:02,940
+Kimura told me he thought it was a natural rock formation that had been worked on by
+
+212
+00:15:02,940 --> 00:15:09,260
+humans when it rose above sea level due to tectonic uplift, between 5 and 2,000 years
+
+213
+00:15:09,260 --> 00:15:10,260
+ago.
+
+214
+00:15:10,260 --> 00:15:15,180
+And he sent me a review of his book, giving an age of just over 2,000 years based on carbon
+
+215
+00:15:15,180 --> 00:15:16,180
+dating.
+
+216
+00:15:16,180 --> 00:15:20,900
+Schoch thought the structure was entirely natural, and that the steps and holes were
+
+217
+00:15:20,900 --> 00:15:22,840
+erosion features.
+
+218
+00:15:22,840 --> 00:15:27,340
+And although I didn't interview or quote John Anthony West, he had already written about
+
+219
+00:15:27,340 --> 00:15:33,820
+the structure soon after visiting it, and also concluded that it was entirely natural.
+
+220
+00:15:33,820 --> 00:15:36,600
+So this was quite an editing feat.
+
+221
+00:15:36,600 --> 00:15:40,180
+Hancock consulted three experts about the Yonaguni monument.
+
+222
+00:15:40,180 --> 00:15:45,160
+One of them thought it was most likely worked on by humans a little over 2,000 years ago,
+
+223
+00:15:45,160 --> 00:15:48,700
+and two of them thought the structure was entirely natural.
+
+224
+00:15:48,700 --> 00:15:51,940
+Yet none of this expert opinion was conveyed to the viewer.
+
+225
+00:15:51,940 --> 00:15:57,500
+Instead, we're led exclusively to Hancock's conclusion that Yonaguni was probably carved
+
+226
+00:15:57,500 --> 00:16:00,820
+12,000 years ago by a lost civilization.
+
+227
+00:16:00,820 --> 00:16:07,460
+Its presence here suggests a very sophisticated civilization at an impossibly early date.
+
+228
+00:16:07,460 --> 00:16:11,780
+But one thing, didn't we hear Kimura tell Hancock quite clearly that humans made this
+
+229
+00:16:11,780 --> 00:16:14,180
+structure more than 9,000 years ago?
+
+230
+00:16:14,180 --> 00:16:16,180
+Actually, no.
+
+231
+00:16:16,180 --> 00:16:18,060
+When do you think that men made it?
+
+232
+00:16:18,060 --> 00:16:26,060
+Based upon the sea level change, the age is older than 9,000 years.
+
+233
+00:16:26,060 --> 00:16:28,660
+Somewhere between 9,000 and 10,000 years?
+
+234
+00:16:28,660 --> 00:16:29,660
+Yes.
+
+235
+00:16:29,660 --> 00:16:31,980
+The question put by Hancock was...
+
+236
+00:16:31,980 --> 00:16:33,460
+When do you think that men made it?
+
+237
+00:16:33,460 --> 00:16:38,140
+We then cut to something rather fuzzy from Kimura about sea level change, and then we
+
+238
+00:16:38,140 --> 00:16:44,380
+see another cut, and Kimura talking about something being older than 9,000 years.
+
+239
+00:16:44,380 --> 00:16:46,140
+Then Hancock adds another date.
+
+240
+00:16:46,140 --> 00:16:48,860
+Somewhere between 9,000 and 10,000 years?
+
+241
+00:16:48,860 --> 00:16:49,860
+Yes.
+
+242
+00:16:49,860 --> 00:16:54,580
+Whatever we think we heard, a lot is obviously missing between the question at the beginning
+
+243
+00:16:54,580 --> 00:16:56,900
+and the answer at the end.
+
+244
+00:16:56,900 --> 00:17:01,420
+If I ask people whether they trust what they see on television, I usually get a resounding
+
+245
+00:17:01,420 --> 00:17:02,880
+no.
+
+246
+00:17:02,880 --> 00:17:07,500
+Everyone seems to know that most television programs are in the business of entertainment.
+
+247
+00:17:07,500 --> 00:17:11,460
+Everyone knows TV producers can make you think you've seen something that never happened
+
+248
+00:17:11,460 --> 00:17:13,980
+or heard something that wasn't said.
+
+249
+00:17:13,980 --> 00:17:18,060
+Yes, we all know it, but boy, we still fall for it.
+

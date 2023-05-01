@@ -1,0 +1,135 @@
+start	end	text
+0	5160	Americans love their independence, a nation of pioneers living out from under the eye of government.
+5160	6640	Except for all the government.
+6640	10620	As such, unlike many other countries, Americans don't have a national ID card,
+10620	15800	and even the idea of creating one is a political hot topic every election cycle.
+15800	17460	The results are always the same.
+17460	19580	We don't need no ID card.
+19580	23300	But, suspiciously, US citizens do already have this.
+23300	27440	A card with a unique number that many places will ask for to prove who you are.
+27480	30120	This is the Social Security card and number,
+30120	35100	and it has become a quasi-ID stroke unique password to identify citizens.
+35100	37480	Though, that was never its intended use.
+37480	40480	For Americans, keeping this number secret is super important,
+40480	44880	because it's the key to the government and banks identifying you as you.
+44880	49160	And losing control of it is the worst kind of identity theft that can happen.
+49160	52520	So how did Americans end up with a national ID number that isn't one,
+52520	55400	and a card terribly unfit to identify?
+55400	58120	It all started in the Great Depression of long, long ago,
+58120	62240	when the government created the Social Security program, a kind of mandatory pension.
+62240	65120	Citizens would be required to pay in during their working lives,
+65120	66800	and withdraw in their retirement.
+66800	71160	The idea being that even if past you didn't save for the sunset years of future you,
+71160	75000	the eventually old current you would still have something to live on.
+75000	78000	Now, if you want to think of Social Security as a benefit the government provides,
+78000	81160	or as a bank account that's yours, is controversial.
+81160	86280	But either way, this number was created to track what you put in and what you take out.
+86280	90360	Now, because this was just one government program related only to your working life,
+90360	94760	you only needed to apply for a Social Security card when you actually started working.
+94760	97840	But over time, that changed, and the younger you are,
+97840	101080	the more likely you've had one from the moment of your birth,
+101080	103720	despite babies' worthlessness as child laborers.
+103720	104520	So why?
+104520	108760	Well, it goes back to Americans having no national identity card with a national number,
+108760	112960	which makes it harder for institutions to keep track of people over their lives.
+112960	116360	With hundreds of millions of citizens, names and birthdays aren't unique.
+116360	119080	People move, people marry, people change names.
+119080	121240	And if you're trying to keep track of everyone,
+121240	123640	as, say, the United States Tax Department might want to do,
+123640	127880	it can be a real problem, particularly in the pre-computer days.
+127880	132760	Hey, wait a minute, look at this number just lying around, the Tax Department said.
+132760	135680	It's not supposed to be used as an ID number, said the Social Security Department.
+135680	137440	There are security reasons you should yoink.
+137440	141160	Thus, the Tax Department piggybacked off of the work the Social Security Department did
+141160	145200	assigning working adults a number, which made tracking taxes easier,
+145200	150000	and they highly encouraged parents to get a Social Security number for their children
+150000	152320	by tying it to a tax discount.
+152320	156800	Crazily, counting children for tax rebates used to run on the honor system.
+156800	158320	The US Tax Department told people,
+158320	161440	1. We will give you a discount on your taxes for each child you have,
+161440	164400	and 2. Write down your number of children.
+164400	167160	Please be honest, we don't have a way to check.
+167160	170920	Which was just asking, nay, begging people to lie,
+170920	174920	which they did, birthing on paper millions of phantom children.
+174920	178520	But after requiring each kid to have a Social Security account number
+178520	182640	connected to a birth certificate before the parents could get the tax discount,
+182640	185160	all those phantoms faded away.
+185160	188320	This turned the Social Security number into a unique number
+188320	190760	that all citizens had right from the start,
+190760	192880	and that made it easy for lots of other places,
+192880	195280	like banks and schools and companies and landlords,
+195280	199160	to also piggyback on the number as an easy way to keep track of people
+199160	201480	without having to come up with their own systems,
+201480	206160	and to be able to exchange information about people between institutions.
+206160	208840	This is super useful for institutions,
+208840	212840	so the desire of Americans to not have a national identity card
+212840	217920	led, somewhat inevitably, to the nearest thing available being used as a substitute.
+217920	220240	Which ended up being worse because the Social Security number
+220240	223640	was never designed to be used this way in the long, long ago,
+223640	227160	and you can tell because it has no security built into it.
+227160	229600	Okay, so there's this neat trick that most ID numbers use,
+229600	232360	where they can check themselves to see if they're invalid.
+232360	235880	The simplest way is to have the last couple digits match the sum of the others.
+235880	238600	All kinds of ID cards and barcodes do this
+238600	242400	because it makes it impossible to enter an incorrect number in a computer,
+242400	245520	and makes it harder for fraudsters to guess valid numbers.
+245520	249640	This is why, if you try to buy something online by guessing a credit card number,
+249640	253320	the website knows it's invalid before you even click Buy.
+253320	256920	But because the Social Security number started life in the long, long ago,
+256920	260920	it's just a number with no self-checking security built in.
+260920	265880	Worse, if you're born pre-2011, it's not that hard to just guess most of the number.
+265880	269000	The first three digits are the state where the parents applied for the card,
+269000	271920	and the last four digits just count up in order,
+271920	274640	and the middle digits follow a regular pattern.
+274640	277800	So you can take your number, subtract one,
+277800	282800	and that's a valid number of someone who was probably born in the same hospital as you
+282800	284200	around the same time.
+284200	287040	Thus, a fraudster who knows your time and location of birth
+287040	290880	can probably get the first five digits by just looking them up on a chart.
+290880	295440	Institutions ask for the last four digits as a code to identify you as you,
+295440	300280	which means it's not that hard to put together your number from a security leak anywhere,
+300280	302760	or just by connecting a few puzzle pieces.
+302760	305640	The physical card itself is no help either,
+305640	310240	just a literal piece of cardboard, depending on when it was issued, not even laminated.
+310280	311960	The Social Security Department used to print
+311960	314080	not to be used for identification on the cards
+314080	317280	as a futile attempt to stop institutions for asking for them as IDs,
+317280	321160	because there's nothing identifying a person on the card.
+321160	323440	But eventually, they gave up and removed these words,
+323440	326160	because unlike passports or a driver's license,
+326160	330200	you can assume all Americans will have this one card.
+330200	332760	All this means your Social Security card and number
+332760	336240	probably have less security than your library card,
+336240	338560	while being vastly more important.
+338560	343160	So it fails at being a secure number, it fails at being a good ID card,
+343160	346400	but at least it is universal, which is why people use it.
+346400	348960	Oh, hello, asterisk, my old friend.
+348960	351920	No, of course not, this program isn't actually universal.
+351920	354400	Not everyone has a Social Security account number,
+354400	356520	and not everyone pays into the program.
+356520	358920	If you want to get out of paying, you'll just need to first
+358920	360760	never have received any Social Security benefits
+360760	363720	and give up your rights to getting any in the future, which seems fair.
+363720	367840	In addition, you must also be a member of a religion opposed to the idea of Social Security,
+367840	371520	usually because it's a kind of insurance, and insurance is a kind of gambling.
+371520	374840	That's harder, but you could always just start your own religion
+374840	377600	if you were really serious about avoiding taxes.
+377600	381840	But your new religion must also provide for its elderly and dependent members,
+381840	385880	which means you have to recreate a Social Security program of sorts in your religion,
+385880	387880	while also being against Social Security.
+387880	390320	But if creating a contradictory religion doesn't daunt you,
+390320	393840	lastly, it must have existed continuously since 1950,
+393840	396120	which is a giveaway that this exception was written
+396120	398880	pretty much exclusively for the Amish and Mennonites,
+398880	403920	and kills dead your plans unless you're willing to undergo a serious change in lifestyle.
+403920	405160	It doesn't stop there.
+405160	408600	Keep digging, and you'll find all sorts of other weird, weird exceptions,
+408600	413600	including some railroad workers, or firefighters, or police, or teachers, but only in Chicago.
+413600	415960	Usually these are groups that in the long, long ago
+415960	419320	were able to get out of the program at its creation date.
+419320	421440	So, nothing's ever straightforward.
+421440	424200	And that's the deal with this Social Security card,
+424200	426920	containing a national number for citizens that don't want one
+426920	429680	on an identification card that fails at identification,
+429680	431920	given to all citizens, except when it isn't,
+431920	435320	for a program that's universal, except when it's not.

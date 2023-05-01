@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "iDjh6PySVQUe-AjD5tp6a_e90PM",
+  "id": "UCG1h-Wqjtwz7uUANw6gazRw",
+  "snippet": {
+    "title": "Lindsay Ellis",
+    "description": "Lindsay Ellis is creating video essays and other nondescript content. You can find her latest miniseries \u201cIt\u2019s Lit!\u201d at PBS.org. Enjoy these hottest of takes on Disney, Transformers, and Musicals. All hail the Algorithm.\nLindsay is no longer uploading videos to this channel. Instead, you can now find all her recent and future new videos on Nebula, along with a few videos that have been removed from this channel: https://nebula.tv/lindsayellis\nFor access to her very old videos, join her Patreon for a list of private links to more than 100 videos that are no longer on YouTube: https://www.patreon.com/lindsayellis\n",
+    "customUrl": "@lindsayellisvids",
+    "publishedAt": "2013-10-10T23:33:30Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqN19VXz3JblD6TP-4zyHut7E9eWOxkCG6UqfrYCtw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqN19VXz3JblD6TP-4zyHut7E9eWOxkCG6UqfrYCtw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqN19VXz3JblD6TP-4zyHut7E9eWOxkCG6UqfrYCtw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Lindsay Ellis",
+      "description": "Lindsay Ellis is creating video essays and other nondescript content. You can find her latest miniseries \u201cIt\u2019s Lit!\u201d at PBS.org. Enjoy these hottest of takes on Disney, Transformers, and Musicals. All hail the Algorithm.\nLindsay is no longer uploading videos to this channel. Instead, you can now find all her recent and future new videos on Nebula, along with a few videos that have been removed from this channel: https://nebula.tv/lindsayellis\nFor access to her very old videos, join her Patreon for a list of private links to more than 100 videos that are no longer on YouTube: https://www.patreon.com/lindsayellis\n"
+    },
+    "country": "US"
+  },
+  "statistics": {
+    "viewCount": "136714086",
+    "subscriberCount": "1210000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "119"
+  }
+}

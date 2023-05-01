@@ -1,0 +1,121 @@
+start	end	text
+0	3740	Queen Lion is looking to make the elections in her animal kingdom more fair.
+3740	7800	Currently, she divides her citizens into ranges, each of which selects one representative to
+7800	10800	go to the Jungle Council, which makes laws for the kingdom.
+10800	13900	But her citizens are unhappy, and it's easy to see why.
+13900	15700	The council is full of monkeys.
+15700	18840	Of course, some of her citizens are monkeys, but not all of them.
+18840	21740	This council doesn't fairly represent her kingdom.
+21740	25480	Queen Lion visits one of the ranges to find out what's wrong and how to fix it.
+25480	30640	In this range, there are five monkeys, four tigers, three owls, two lynx, and one buffalo.
+30640	34860	One of each runs for representative, and all citizens vote for their own species.
+34860	38900	The election rule is that the candidate with the most votes wins, which is the monkey.
+38900	43380	But it's a pretty unsatisfying result considering that two-thirds of the citizens in this range
+43380	45740	aren't monkeys and wouldn't vote for monkeys.
+45740	48240	This is the same across all the ranges of the kingdom.
+48240	53020	The monkeys always happen to have more votes than anybody else, so they win all the elections
+53020	56020	even though they're a minority of the total population.
+56020	60040	Closer inspection reveals that the independent advisors hired to draw the range boundaries
+60040	63660	in the first place weren't as independent as they might have appeared.
+63660	67620	The result is unhappy citizens who don't trust the Jungle Council to make the fairest laws
+67620	69160	for all, quite rightly.
+69160	73500	Now Queen Lion wants to maximize the number of citizens happy with the election results.
+73500	77180	One way to do that is to abolish the ranges and use a proportional system.
+77180	79820	But her citizens want local representatives.
+79820	84100	So Queen Lion needs a system that both makes her citizens happier by having a more representative
+84100	87220	council while keeping the local elections in place.
+87220	89900	After doing a little research, she finds out how.
+89900	91640	Single transferable vote.
+91640	96340	The big change with STV is that ranges send more than one representative, which may seem
+96340	98820	weird, but Queen Lion decides to test it out.
+98820	102660	She takes three ranges which used to each send one representative and combines them
+102660	105380	into one bigger range that will send three.
+105380	109740	On election day, citizens go to the polls and the results in this new range are just
+109740	112040	the same as they were in the old ranges.
+112040	116700	So nothing seems better, but with STV to figure out the winners, take the total votes and
+116700	122180	divide them by the number of representatives needed, in this case three, which gives 33%
+122180	124560	as the amount a candidate needs to win.
+124560	128920	So all three candidates go to the council, which accurately represents the citizens in
+128920	129920	the range.
+129920	133880	Whereas under the old system, each individual range would have sent a monkey, leaving two
+133880	136320	thirds of the citizens without representation.
+136320	140600	A bigger range with multiple winners allows the results to be more proportional.
+140600	143880	This test turned out well, but it was also as simple as could be.
+143880	147880	Now Queen Lion wants to see what happens in a race where not everybody is a winner.
+147880	151280	The next big range she tests has five candidates running for office.
+151280	156260	Gorilla, Tarsier, Monkey, Tiger, and Lynx, three of which can be representatives.
+156260	160320	Election day comes and goes and here are the results of the citizens' first choices.
+160320	167720	Tarsier gets 5%, Gorilla gets 28%, Monkey gets 33%, Tiger gets 21%, and Lynx gets 13%.
+167720	170900	As before, a candidate needs 33% to win.
+170900	175060	Monkey has that and so is immediately selected as one of the three representatives.
+175060	179680	But no one else reached the winning 33%, so how are the other two representatives selected?
+179680	181800	Step one, get rid of the biggest loser.
+181800	184480	Sorry Tarsier, you really had no chance at all.
+184480	188040	When the citizens voted, they could have just put an X next to the candidate they liked
+188040	189040	best.
+189040	192480	But with STV, they can also rank their favorite candidates.
+192480	197000	This is important because it shows how the election would have turned out if one of the
+197000	198000	candidates hadn't run.
+198000	202720	Tiny and worried Tarsiers would have voted for the big calm Gorilla without Tarsier in
+202720	203720	the race.
+203720	208040	So if their candidate can't win, they want their votes to go to the Gorilla instead.
+208040	212480	This pushes Gorilla up to 33% and he becomes the next representative.
+212480	215640	Ranking allows citizens to support their favorite candidate without worrying.
+215640	218800	There's no point in strategizing about how everyone else is going to vote.
+218800	222080	The system works to maximize voter happiness with the result.
+222080	223080	Now back to the range.
+223080	226600	There's still one representative to select, so the next biggest loser is Lynx.
+226600	230160	His voters don't like Simeon's, but they do think Tiger's interests are similar to theirs
+230160	233440	and so if Lynx can't win, they want Tiger to get their votes.
+233440	237260	He reaches 33% and becomes the third and final representative.
+237260	241600	The election results look pretty good, especially considering the citizens' first and second
+241600	242600	choices.
+242600	246560	Citizens also have a local representative they can feel comfortable approaching, whereas
+246560	249240	using the old system, everybody gets a monkey.
+249240	253520	Lastly, Queenline wants to know what happens in a range with just two political parties.
+253520	257080	Under the most votes win system, multiple candidates from the same party would be a
+257080	258080	disaster.
+258080	261000	They'd split their voters and hand the win to their opposition.
+261000	265400	Queenline makes one last test range with two thirds Tiger's and one third Gorilla's that,
+265400	268000	as before, needs three representatives.
+268000	272140	Because citizens rank their candidates under STV, there can be more than one candidate
+272180	276340	from the same party running at the same time without any problems.
+276340	278980	The Tiger's run two candidates, as do the Gorilla's.
+278980	283700	On election day, White Tiger gets a massive amount of first choice votes, probably because
+283700	284820	he's so cool.
+284820	288820	Meanwhile, the Gorilla's are split between their new guy and the old silverback.
+288820	292900	White Tiger is selected as the first representative, but what happens next?
+292900	297040	While Tiger is the biggest loser and it seems like he should be eliminated, it's also obvious
+297040	301240	that he would have gotten way more votes if White Tiger wasn't in the race.
+301340	305840	If a candidate has more votes than they need, like White Tiger does, the first step is to
+305840	308780	give the extra votes to their second choice.
+308780	312720	This gets Tiger to 33% and he becomes the next representative.
+312720	315280	If that seems strange, there are two things to consider.
+315280	318620	If instead the extra votes were ignored and Tiger eliminated, then the Gorilla's would
+318620	323640	get the remaining two wins, which would obviously not be representing the range very well.
+323640	328380	And ignoring extra votes punishes citizens who back popular candidates, which gets us
+328380	332620	back to the problem where voters start thinking about how everyone else will vote rather than
+332620	334080	what they really want.
+334080	338280	If a candidate is able to get more votes than they really need, then it also means those
+338280	344260	who support him are a big section of the population and thus fairly should get more representation.
+344260	345260	Right.
+345260	348780	After the extra votes go to Tiger, the election finishes as before.
+348780	352960	Silverback came in last, is eliminated and his voters' second choice is the younger candidate,
+352960	354280	so Gorilla gets in.
+354280	355860	And the results look fair.
+355860	357880	Greenline has seen STV work.
+357880	362100	Whether a range has one party or lots of parties, the process is still always the same.
+362100	364420	First, citizens rank their favorite candidates.
+364420	367620	Second, any candidate above the threshold wins immediately.
+367620	369900	Extra votes then go to their next choice.
+369900	374020	If there's no winner, the last place is eliminated and the votes go to their next choice.
+374020	376600	Repeat until all the winners are found.
+376600	380680	This whole process is designed to maximize the number of citizens who are happy with
+380680	381680	the results.
+381680	386460	And it gives STV many advantages over the old most-votes-wins system.
+386460	389580	Citizens can honestly vote for their favorite candidate without worrying about what everyone
+389580	390980	else is going to do.
+390980	394400	It's more proportional, so monkeying with the borders matters less.
+394400	399200	And almost all citizens will have a local representative they actually voted for.
+399200	402960	In the end, Queenline decides to switch the council's elections to single transferable
+402960	405720	vote to make a better jungle council for all.

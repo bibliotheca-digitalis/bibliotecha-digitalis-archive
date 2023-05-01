@@ -1,0 +1,1396 @@
+1
+00:00:00,000 --> 00:00:03,820
+There are thousands of airports connecting cities, cross-countries and continents,
+
+2
+00:00:03,820 --> 00:00:08,720
+yet with just three letters from AAC and BBI to YYZ and ZZU,
+
+3
+00:00:08,720 --> 00:00:13,980
+both me and you and our bags root round the world as unambiguously as practically possible.
+
+4
+00:00:13,980 --> 00:00:15,100
+Airport codes!
+
+5
+00:00:15,100 --> 00:00:19,020
+If you fly, you know them as part of the planning on your tickets, trackers and tags,
+
+6
+00:00:19,020 --> 00:00:22,320
+and even as part of the port itself as big big branding.
+
+7
+00:00:22,320 --> 00:00:26,580
+It's impossible not to wonder bored on a long haul with only in-flight entertainment
+
+8
+00:00:26,580 --> 00:00:31,120
+about potential patterns peeking through, like all the Canadian Y airports.
+
+9
+00:00:31,120 --> 00:00:33,500
+Why Canada? And why everyone?
+
+10
+00:00:33,500 --> 00:00:35,180
+How do all these codes code?
+
+11
+00:00:35,180 --> 00:00:39,840
+Well, neighbour, to find the answer we need to divert this flight to YUL,
+
+12
+00:00:39,840 --> 00:00:44,100
+the Canadian city that's capital of codes, Montreal, where is headquartered IATA,
+
+13
+00:00:44,100 --> 00:00:46,720
+the International Air Transport Association.
+
+14
+00:00:46,720 --> 00:00:52,900
+It's not a governmental organization, more an independent aviation agency for airlines,
+
+15
+00:00:52,900 --> 00:00:56,320
+where they work to make airports and airplanes increasingly interoperable,
+
+16
+00:00:56,320 --> 00:01:01,740
+using humanity's most exciting and powerful yet oft-maligned-as-dull tool, standards.
+
+17
+00:01:01,740 --> 00:01:06,900
+One of which is the IATA airport code, three letters to identify every airport in the world,
+
+18
+00:01:06,900 --> 00:01:09,700
+from the most connected to the least.
+
+19
+00:01:09,700 --> 00:01:14,340
+All are coded so companies can communicate clearly and concisely complicated connections
+
+20
+00:01:14,340 --> 00:01:16,700
+to carry their customers and their bags.
+
+21
+00:01:16,700 --> 00:01:20,040
+And actually, the code IATA created isn't only for airports,
+
+22
+00:01:20,040 --> 00:01:24,960
+rather technically it's a location code for all kinds of transportation interchanges,
+
+23
+00:01:24,960 --> 00:01:28,780
+like plane stations that connect to train stations such as Amsterdam Shipple,
+
+24
+00:01:28,780 --> 00:01:31,660
+which is just so intermodally epic.
+
+25
+00:01:31,660 --> 00:01:35,220
+Okay, let's try not to get distracted by efficient infrastructure, easier said than done.
+
+26
+00:01:35,220 --> 00:01:37,860
+Here's how the IATA code is supposed to work.
+
+27
+00:01:37,860 --> 00:01:42,800
+One airport, one code, which is unique because airport names are not.
+
+28
+00:01:42,800 --> 00:01:44,300
+Booking passage to Portland?
+
+29
+00:01:44,300 --> 00:01:48,300
+Cool, that could be Oregon or Maine or Victoria, Australia.
+
+30
+00:01:48,300 --> 00:01:50,060
+Ambiguity is the enemy.
+
+31
+00:01:50,060 --> 00:01:54,460
+International flying creates communication connections between every language on Earth.
+
+32
+00:01:54,460 --> 00:01:57,640
+So the IATA code helps when you don't speak Greenlandic or Odia,
+
+33
+00:01:57,640 --> 00:02:03,280
+but still need to book a flight to Kangerlussac via Bainswar?
+
+34
+00:02:03,280 --> 00:02:04,720
+I'm so sorry Greenland and India.
+
+35
+00:02:04,720 --> 00:02:08,400
+Instead of mongoling pronunciation, it's just SFJ via BBI.
+
+36
+00:02:08,400 --> 00:02:13,000
+Much clearer, not just for you, but also for the ground crew getting the bags through.
+
+37
+00:02:13,000 --> 00:02:16,520
+Ideally, the IATA code comes from the first three letters of the location,
+
+38
+00:02:16,520 --> 00:02:20,280
+like with Gibraltar, where Gibraltar airport is given GIB.
+
+39
+00:02:20,280 --> 00:02:21,480
+Gib, Gibraltar.
+
+40
+00:02:21,480 --> 00:02:25,060
+So going to Cork, it'll be C-O-R, Coir, Ireland.
+
+41
+00:02:25,060 --> 00:02:26,360
+Oh, that didn't work.
+
+42
+00:02:26,360 --> 00:02:30,620
+Seems Córdoba, Argentina built their airport first and got C-O-R ahead of Cork,
+
+43
+00:02:30,620 --> 00:02:32,340
+so, uh, Ork for Cork.
+
+44
+00:02:32,340 --> 00:02:35,480
+Tufnugi's Ork, Germany, that's an adorable town name you've got there,
+
+45
+00:02:35,480 --> 00:02:38,020
+but you're going to need to pick something else for your code.
+
+46
+00:02:38,020 --> 00:02:41,320
+Thus, a single code collision kicks off a consistency cascade
+
+47
+00:02:41,320 --> 00:02:43,440
+as airports compete for clear codes.
+
+48
+00:02:43,440 --> 00:02:45,880
+So if your local airport has an odd three letters,
+
+49
+00:02:45,880 --> 00:02:48,720
+there's probably a rival port that picked previously.
+
+50
+00:02:48,720 --> 00:02:51,080
+This is one of the major things IATA does.
+
+51
+00:02:51,080 --> 00:02:53,180
+Coordinate everyone's code preferences,
+
+52
+00:02:53,180 --> 00:02:56,040
+which means dealing with not just individual airports,
+
+53
+00:02:56,040 --> 00:02:59,180
+but all the aviation agencies in different countries,
+
+54
+00:02:59,180 --> 00:03:02,660
+some with their own desires for intra-country code consistency,
+
+55
+00:03:02,660 --> 00:03:05,560
+such as Canada, who clearly claimed all the Y's.
+
+56
+00:03:05,560 --> 00:03:10,180
+Thus picking a Y1 at random, at least you know roughly where you're going to go.
+
+57
+00:03:10,180 --> 00:03:12,060
+Oops, no, that didn't work.
+
+58
+00:03:12,060 --> 00:03:14,540
+YKM brought us to Washington, USA,
+
+59
+00:03:14,540 --> 00:03:18,020
+and since we're here, we might as well talk about the FAA.
+
+60
+00:03:18,020 --> 00:03:20,620
+In America, the Federal Aviation Administration,
+
+61
+00:03:20,620 --> 00:03:22,120
+daughter of the Department of Transportation,
+
+62
+00:03:22,120 --> 00:03:27,340
+is given the job of assigning all American airports an American airport code.
+
+63
+00:03:27,340 --> 00:03:31,260
+Yes, the FAA actually has her own set of three letter codes,
+
+64
+00:03:31,260 --> 00:03:32,780
+but we're not going to talk about it,
+
+65
+00:03:32,780 --> 00:03:35,900
+because it means in America there's one airport, two codes,
+
+66
+00:03:35,900 --> 00:03:38,300
+and for simplicity, I'm sticking to this story.
+
+67
+00:03:38,300 --> 00:03:40,100
+One airport, one code.
+
+68
+00:03:40,100 --> 00:03:41,040
+Right?
+
+69
+00:03:41,040 --> 00:03:41,860
+Right.
+
+70
+00:03:41,860 --> 00:03:46,740
+Now, FAA has letters she'd really rather American airports not.
+
+71
+00:03:46,740 --> 00:03:49,940
+Please know N, Q, W, K, Z, or Y.
+
+72
+00:03:49,940 --> 00:03:53,620
+N is reserved for the Navy, for OMG, is it aircraft carriers?
+
+73
+00:03:53,620 --> 00:03:56,100
+No, they use an unrelated and additional system,
+
+74
+00:03:56,100 --> 00:03:57,460
+that we're also not going to talk about.
+
+75
+00:03:57,460 --> 00:04:00,740
+The Navy N is given to Navy bases with airports.
+
+76
+00:04:00,740 --> 00:04:04,500
+So American airports, like Nashville, that seem like they should start with the letter N,
+
+77
+00:04:04,500 --> 00:04:08,940
+were encouraged to pick something else, like B, for Banashville.
+
+78
+00:04:08,940 --> 00:04:12,700
+There is also A for the Army and the Air Force, although not all the A's,
+
+79
+00:04:12,700 --> 00:04:17,260
+so there's a bunch of A airports, like Albuquerque, Aberdeen, Anchorage, Amarillo, and Augusta.
+
+80
+00:04:17,260 --> 00:04:19,740
+Next, Q, FAA once avoided because of,
+
+81
+00:04:19,740 --> 00:04:22,180
+checks, notes, Morse code?
+
+82
+00:04:22,180 --> 00:04:23,420
+Wow, really?
+
+83
+00:04:23,420 --> 00:04:27,380
+There's a set of three letter international Morse codes that begin with Q,
+
+84
+00:04:27,380 --> 00:04:30,860
+for quickie communications, that are still used, I guess?
+
+85
+00:04:30,860 --> 00:04:34,220
+So, because of 1800's telegraph slang,
+
+86
+00:04:34,220 --> 00:04:37,340
+American airports shouldn't start with the letter Q.
+
+87
+00:04:37,340 --> 00:04:39,820
+Next, K and W, FAA advises against,
+
+88
+00:04:39,820 --> 00:04:42,420
+because FCC, the Federal Communications Commission,
+
+89
+00:04:42,420 --> 00:04:44,460
+daughter of no one, she's an independent agency,
+
+90
+00:04:44,460 --> 00:04:48,180
+assigns K and W for US civilian broadcast stations.
+
+91
+00:04:48,180 --> 00:04:50,380
+So, that thing where on the radio they say,
+
+92
+00:04:50,380 --> 00:04:54,860
+K-MAD, Action News, or WDUL, Public Airwaves.
+
+93
+00:04:54,860 --> 00:04:59,980
+Yeah, they all start with a K or W, which is actually location information.
+
+94
+00:04:59,980 --> 00:05:03,580
+K's are in the west, and W's in the east,
+
+95
+00:05:03,580 --> 00:05:05,940
+except for the middle, where it's both.
+
+96
+00:05:05,940 --> 00:05:08,460
+FCC, why did you do it this way?
+
+97
+00:05:08,460 --> 00:05:10,500
+Well, since you coded those codes first,
+
+98
+00:05:10,500 --> 00:05:13,780
+FAA discourages airports from starting with those letters.
+
+99
+00:05:13,780 --> 00:05:16,940
+Even though broadcast codes are four letters, not three,
+
+100
+00:05:16,940 --> 00:05:20,300
+and they're, you know, radio stations, not airports,
+
+101
+00:05:20,300 --> 00:05:22,540
+and definitely not weather stations.
+
+102
+00:05:22,540 --> 00:05:24,860
+Of course they're not weather stations, why would you even say that?
+
+103
+00:05:24,860 --> 00:05:26,780
+No reason, it won't come up later, don't worry.
+
+104
+00:05:26,780 --> 00:05:30,540
+Moving on, Z is reserved for air route traffic control centers themselves,
+
+105
+00:05:30,540 --> 00:05:31,940
+and why no why?
+
+106
+00:05:31,940 --> 00:05:33,460
+Because Canada, of course.
+
+107
+00:05:33,460 --> 00:05:35,740
+Yes, I understand, that's not an explanation, we'll get to it later.
+
+108
+00:05:35,740 --> 00:05:38,220
+That's America's preferences for airport codes,
+
+109
+00:05:38,220 --> 00:05:40,060
+but other countries exist,
+
+110
+00:05:40,060 --> 00:05:44,780
+and their aviation agencies don't care at all which letters the United States avoids,
+
+111
+00:05:44,780 --> 00:05:47,860
+so while Bonashville was building her big-big branding,
+
+112
+00:05:47,860 --> 00:05:51,300
+Nassau grabbed the N to get NAS for the Bahamian capital.
+
+113
+00:05:51,300 --> 00:05:56,020
+There's no shortage of airport codes that start outside the US with America's reluctant letters.
+
+114
+00:05:56,020 --> 00:05:59,460
+And also, because FAA's precedents aren't laws,
+
+115
+00:05:59,460 --> 00:06:04,180
+you can find American exceptions, like New Kekwa, Yakquig, and Ziv.
+
+116
+00:06:04,180 --> 00:06:07,140
+Boy, that was fun to say, let's end the video with more of that, shall we?
+
+117
+00:06:07,140 --> 00:06:10,540
+And that new must particularly burn Newark, New Jersey,
+
+118
+00:06:10,540 --> 00:06:13,460
+who had to go with Ewerk, U Jersey instead.
+
+119
+00:06:13,460 --> 00:06:14,700
+Right, finishing this thought,
+
+120
+00:06:14,700 --> 00:06:18,140
+every country and their agencies has their own wacky preferences for letters
+
+121
+00:06:18,140 --> 00:06:20,980
+and wants to ignore every other country's preferences,
+
+122
+00:06:20,980 --> 00:06:23,740
+and IATA's job is to coordinate between them.
+
+123
+00:06:23,740 --> 00:06:24,860
+The result of which is,
+
+124
+00:06:24,860 --> 00:06:29,260
+IATA airport codes have no satisfying system at all,
+
+125
+00:06:29,260 --> 00:06:32,300
+which is so sad for a standard.
+
+126
+00:06:32,300 --> 00:06:35,180
+And the story of one airport, one code,
+
+127
+00:06:35,220 --> 00:06:37,780
+also falls apart even within IATA,
+
+128
+00:06:37,780 --> 00:06:40,620
+because of mega codes for megacities.
+
+129
+00:06:40,620 --> 00:06:43,460
+Example, London, which has six international airports,
+
+130
+00:06:43,460 --> 00:06:45,740
+Heathrow, Gatwick City, Luton, Stansted, Southend,
+
+131
+00:06:45,740 --> 00:06:47,940
+LHR, LGW, LCY, LTN,
+
+132
+00:06:47,940 --> 00:06:49,140
+oh, they all start with L?
+
+133
+00:06:49,140 --> 00:06:51,260
+No, STN, SEN.
+
+134
+00:06:51,260 --> 00:06:54,620
+But there's a mega code for them all, LON,
+
+135
+00:06:54,620 --> 00:06:57,500
+which you can use while searching for flights landing in London,
+
+136
+00:06:57,500 --> 00:06:58,820
+but don't care where.
+
+137
+00:06:58,820 --> 00:07:01,780
+Even though these airports are ages apart.
+
+138
+00:07:01,780 --> 00:07:04,780
+LON is the International City, Mega Ist, Mega Code,
+
+139
+00:07:04,780 --> 00:07:07,700
+but there's also Moscow, MOW, and Stockholm STO
+
+140
+00:07:07,700 --> 00:07:09,060
+with four airports each,
+
+141
+00:07:09,060 --> 00:07:12,220
+and more with two or three, like NYC and BUE.
+
+142
+00:07:12,220 --> 00:07:15,380
+And then, code-wise, is the most exceptional airport.
+
+143
+00:07:15,380 --> 00:07:17,420
+Euro Airport, Basel, Mulhouse, Freiburg.
+
+144
+00:07:17,420 --> 00:07:19,820
+An airport so nice, they coded it thrice.
+
+145
+00:07:19,820 --> 00:07:21,620
+MLH, BSL, EAP.
+
+146
+00:07:21,620 --> 00:07:22,700
+How this happened is,
+
+147
+00:07:22,700 --> 00:07:25,780
+France and Switzerland both wanted an airport here-ish,
+
+148
+00:07:25,780 --> 00:07:27,740
+near the German border, and teamed up.
+
+149
+00:07:27,740 --> 00:07:30,060
+France provided the land, Switzerland the capital,
+
+150
+00:07:30,060 --> 00:07:31,580
+Germany has nothing to do with this,
+
+151
+00:07:31,580 --> 00:07:33,260
+and the pair co-built the port,
+
+152
+00:07:33,260 --> 00:07:35,620
+constructing duplicate and separate everythings.
+
+153
+00:07:35,620 --> 00:07:37,820
+So it was, effectively, two airports,
+
+154
+00:07:37,820 --> 00:07:40,060
+run by two countries, with two runways,
+
+155
+00:07:40,060 --> 00:07:43,340
+and two sets of rules, and thus needed two airport codes,
+
+156
+00:07:43,340 --> 00:07:46,180
+depending on which side passengers could connect through,
+
+157
+00:07:46,180 --> 00:07:48,660
+and one mega code if it didn't matter.
+
+158
+00:07:48,660 --> 00:07:50,500
+But all of this doesn't mega matter now,
+
+159
+00:07:50,500 --> 00:07:53,580
+because the two airports mostly act as one anyway,
+
+160
+00:07:53,580 --> 00:07:55,740
+thus one airport, three codes.
+
+161
+00:07:55,740 --> 00:07:57,700
+And there are plans to run a railway through
+
+162
+00:07:57,700 --> 00:07:59,100
+for epic intermodalness,
+
+163
+00:07:59,100 --> 00:08:02,340
+so it could become one airport, four codes, or five codes.
+
+164
+00:08:02,380 --> 00:08:04,140
+I mean, why not at this point?
+
+165
+00:08:04,140 --> 00:08:08,140
+So yeah, an airport isn't uniquely identified by one code,
+
+166
+00:08:08,140 --> 00:08:10,740
+and there's no location information
+
+167
+00:08:10,740 --> 00:08:12,860
+coded in this location code?
+
+168
+00:08:12,860 --> 00:08:14,660
+Not even a checksum letter?
+
+169
+00:08:14,660 --> 00:08:16,620
+What is this, a social security number?
+
+170
+00:08:16,620 --> 00:08:18,740
+Without a checksum, if you were planning a flight
+
+171
+00:08:18,740 --> 00:08:22,940
+to CGP Airport in Bangladesh, but typo the incorrect CPG,
+
+172
+00:08:22,940 --> 00:08:25,260
+you'll end up in Argentina instead.
+
+173
+00:08:25,260 --> 00:08:26,100
+Again.
+
+174
+00:08:26,100 --> 00:08:28,340
+But at least the chance of a switcheroo like that
+
+175
+00:08:28,340 --> 00:08:29,540
+must be pretty small.
+
+176
+00:08:29,540 --> 00:08:33,900
+After all, a three letter code means 17,000 permutations,
+
+177
+00:08:33,900 --> 00:08:36,580
+way more than the actual number of airports,
+
+178
+00:08:36,580 --> 00:08:41,500
+which is only 40,000 airports worldwide?
+
+179
+00:08:41,500 --> 00:08:44,060
+How can that possibly be true?
+
+180
+00:08:44,060 --> 00:08:46,940
+Well, it's time to introduce you to IKO,
+
+181
+00:08:46,940 --> 00:08:49,700
+the International Civil Aviation Organization,
+
+182
+00:08:49,700 --> 00:08:51,060
+daughter of the United Nations,
+
+183
+00:08:51,060 --> 00:08:53,500
+who also lives in Montreal with IATA.
+
+184
+00:08:53,500 --> 00:08:55,420
+And it might seem like they're the same,
+
+185
+00:08:55,420 --> 00:08:58,020
+but IATA actually only covers what we might call
+
+186
+00:08:58,020 --> 00:08:59,980
+the standard commercial airports
+
+187
+00:08:59,980 --> 00:09:01,980
+you'd find searching for flights normally.
+
+188
+00:09:01,980 --> 00:09:04,900
+While IKO covers what she calls aerodromes,
+
+189
+00:09:04,900 --> 00:09:07,340
+which is everything from the world's busiest
+
+190
+00:09:07,340 --> 00:09:09,940
+passenger airport in the always unlikely seeming
+
+191
+00:09:09,940 --> 00:09:12,300
+Atlanta, Georgia, down to rarely used runways
+
+192
+00:09:12,300 --> 00:09:13,700
+on ranches in Texas,
+
+193
+00:09:13,700 --> 00:09:16,900
+of which there are an absolutely absurd number.
+
+194
+00:09:16,900 --> 00:09:19,220
+So with all those aerodromes to account for,
+
+195
+00:09:19,220 --> 00:09:21,900
+IKO uses four letters, which gives, wow,
+
+196
+00:09:21,900 --> 00:09:23,620
+a lot more options, thanks Exponentials.
+
+197
+00:09:23,620 --> 00:09:25,860
+And she also uses the extra space
+
+198
+00:09:25,860 --> 00:09:28,220
+to add location information.
+
+199
+00:09:28,220 --> 00:09:30,100
+Finally, in IKO's system,
+
+200
+00:09:30,100 --> 00:09:31,860
+the first letter of an airport code
+
+201
+00:09:31,860 --> 00:09:33,860
+is roughly where on earth it is.
+
+202
+00:09:33,860 --> 00:09:36,340
+P is for airports in the Pacific,
+
+203
+00:09:36,340 --> 00:09:37,700
+one letter to cover flying over
+
+204
+00:09:37,700 --> 00:09:39,580
+the most terrifyingly empty half of the earth.
+
+205
+00:09:39,580 --> 00:09:41,100
+Try not to think about it as you look down
+
+206
+00:09:41,100 --> 00:09:44,140
+into the endless abyss before arriving at South America.
+
+207
+00:09:44,140 --> 00:09:46,900
+S, then M for middle America
+
+208
+00:09:46,900 --> 00:09:49,980
+and K for continental America.
+
+209
+00:09:49,980 --> 00:09:52,500
+C sensibly is Canadian America
+
+210
+00:09:52,500 --> 00:09:54,820
+and flying over the pole we get to U,
+
+211
+00:09:54,820 --> 00:09:56,940
+for used to be USSR.
+
+212
+00:09:56,940 --> 00:09:58,420
+Yes, that's actually the name.
+
+213
+00:09:58,420 --> 00:10:01,180
+Look, what makes standard standards is their stubbornness.
+
+214
+00:10:01,180 --> 00:10:03,420
+Just because a gigantic country collapsed
+
+215
+00:10:03,420 --> 00:10:06,460
+is no reason to change what millions of flight computers
+
+216
+00:10:06,460 --> 00:10:08,900
+know in their code and pilots in their brains.
+
+217
+00:10:08,900 --> 00:10:10,180
+After IKO's first letter,
+
+218
+00:10:10,180 --> 00:10:12,340
+there's also a bunch of second sub-letters.
+
+219
+00:10:12,340 --> 00:10:14,060
+Well, except for America and Canada,
+
+220
+00:10:14,060 --> 00:10:15,180
+who skipped that, but don't worry.
+
+221
+00:10:15,180 --> 00:10:16,460
+Moving on, as an example,
+
+222
+00:10:16,460 --> 00:10:19,940
+if your airport starts with an F, it's in Southern Africa.
+
+223
+00:10:19,940 --> 00:10:23,260
+And if the next letter is A, that's South Africa.
+
+224
+00:10:23,260 --> 00:10:25,500
+And the last two letters are for the airport.
+
+225
+00:10:25,500 --> 00:10:28,140
+So Cape Town gets CT for a fact.
+
+226
+00:10:28,140 --> 00:10:30,740
+Of course, there are some exceptions like Antarctica,
+
+227
+00:10:30,740 --> 00:10:32,060
+the continent no one owns,
+
+228
+00:10:32,060 --> 00:10:33,740
+but all the cool kids want to claim.
+
+229
+00:10:33,740 --> 00:10:35,820
+Aerodromes here are supposed to use the code
+
+230
+00:10:35,820 --> 00:10:37,540
+for the country's claim they're in,
+
+231
+00:10:37,540 --> 00:10:40,100
+such as Williams Field, which is American run,
+
+232
+00:10:40,100 --> 00:10:43,980
+but uses NZWD because it's in the Kiwi claim.
+
+233
+00:10:43,980 --> 00:10:47,500
+But also lots of Antarctic aerodromes use pseudocodes.
+
+234
+00:10:47,500 --> 00:10:48,980
+No, we're not gonna talk about what that means,
+
+235
+00:10:48,980 --> 00:10:52,260
+which start with a T and end with a number like 27
+
+236
+00:10:52,260 --> 00:10:54,900
+for Troll Airfield serving Troll Research Station,
+
+237
+00:10:54,900 --> 00:10:56,380
+which runs on troll time.
+
+238
+00:10:56,380 --> 00:10:58,100
+Norway, is that you?
+
+239
+00:10:58,100 --> 00:10:59,220
+I knew it was.
+
+240
+00:10:59,220 --> 00:11:02,380
+But you really should be using EN for Europe, Norway.
+
+241
+00:11:02,380 --> 00:11:03,980
+And TR is free.
+
+242
+00:11:03,980 --> 00:11:05,940
+Enter trolls, it's so perfect.
+
+243
+00:11:05,940 --> 00:11:09,220
+And yes, the 27 means there are at least 26 other runways
+
+244
+00:11:09,220 --> 00:11:10,740
+in Antarctica, I was surprised too,
+
+245
+00:11:10,740 --> 00:11:12,300
+but this along with all of the ranches
+
+246
+00:11:12,300 --> 00:11:14,500
+is how you get to crazy numbers of aerodromes.
+
+247
+00:11:14,500 --> 00:11:17,620
+And yes, ICAO has more exceptions to this system
+
+248
+00:11:17,620 --> 00:11:18,900
+that we're going to skip,
+
+249
+00:11:18,900 --> 00:11:22,140
+but I can't resist just one more,
+
+250
+00:11:22,140 --> 00:11:24,220
+which is Region J.
+
+251
+00:11:24,220 --> 00:11:26,300
+Looking at the map, you won't be able to find it
+
+252
+00:11:26,300 --> 00:11:28,900
+because J is Mars.
+
+253
+00:11:28,900 --> 00:11:31,340
+When the rover arrived at Jezero Crater,
+
+254
+00:11:31,340 --> 00:11:35,740
+ICAO gave the historic landing location the code JZRO.
+
+255
+00:11:35,740 --> 00:11:37,220
+Okay, but that's it for exceptions.
+
+256
+00:11:37,220 --> 00:11:40,380
+So to sum up, the story of one airport, one code
+
+257
+00:11:40,380 --> 00:11:41,860
+was just that, a story.
+
+258
+00:11:41,860 --> 00:11:43,820
+Tons of airports have at least two.
+
+259
+00:11:43,820 --> 00:11:46,180
+And when they do, the ICAO code
+
+260
+00:11:46,180 --> 00:11:47,820
+is what computers and pilots know
+
+261
+00:11:47,820 --> 00:11:49,620
+to plan where the plane needs to go.
+
+262
+00:11:49,660 --> 00:11:52,780
+And IATA is what passengers say to get on their way.
+
+263
+00:11:52,780 --> 00:11:56,780
+But if ICAO exists with a more comprehensive code,
+
+264
+00:11:56,780 --> 00:11:58,740
+why is IATA at all?
+
+265
+00:11:58,740 --> 00:12:02,980
+So IATA isn't about you, it's about your bags.
+
+266
+00:12:02,980 --> 00:12:06,580
+At an airport, you as a human walk to your connecting flight
+
+267
+00:12:06,580 --> 00:12:10,140
+but your bags below need a lot of logistical assistance.
+
+268
+00:12:10,140 --> 00:12:13,860
+Before IATA, there was just like a handwritten tag saying,
+
+269
+00:12:13,860 --> 00:12:16,820
+please get me where my owner is going,
+
+270
+00:12:16,820 --> 00:12:19,900
+written in potentially every language on earth.
+
+271
+00:12:19,900 --> 00:12:22,900
+So you can imagine how often that went wrong.
+
+272
+00:12:22,900 --> 00:12:26,260
+So IATA used codes to make life better for bags
+
+273
+00:12:26,260 --> 00:12:28,540
+with bag tags, with big clear codes
+
+274
+00:12:28,540 --> 00:12:30,980
+to get those bags cleanly through connections
+
+275
+00:12:30,980 --> 00:12:32,940
+across countries and companies.
+
+276
+00:12:32,940 --> 00:12:35,280
+And the original plan was that train stations
+
+277
+00:12:35,280 --> 00:12:38,380
+with IATA codes would also let you check in your bag there
+
+278
+00:12:38,380 --> 00:12:40,860
+and it would be part of the automatic connection too.
+
+279
+00:12:40,860 --> 00:12:43,180
+But that mostly doesn't happen now
+
+280
+00:12:43,180 --> 00:12:44,940
+because of logistical difficulties,
+
+281
+00:12:44,940 --> 00:12:48,460
+which is the same reason that the IATA code is a club
+
+282
+00:12:48,460 --> 00:12:50,940
+that excludes all the little aerodromes
+
+283
+00:12:50,940 --> 00:12:52,860
+too annoying to attend to.
+
+284
+00:12:52,860 --> 00:12:55,480
+So if your bag's final destination after connecting
+
+285
+00:12:55,480 --> 00:12:58,020
+at Austin is one of the many random ranch airstrips,
+
+286
+00:12:58,020 --> 00:13:00,780
+the ground crew is not going to swap your bags
+
+287
+00:13:00,780 --> 00:13:03,220
+onto the tiny crop duster for you.
+
+288
+00:13:03,220 --> 00:13:05,500
+Ditto if you're connecting through Argentina
+
+289
+00:13:05,500 --> 00:13:07,380
+to Antarctica, anywhere.
+
+290
+00:13:07,380 --> 00:13:10,260
+Those tiny airports, no IATA code for you.
+
+291
+00:13:10,260 --> 00:13:13,520
+And without an IATA code, your bag depends on you
+
+292
+00:13:13,520 --> 00:13:15,420
+to get it all the way through.
+
+293
+00:13:15,420 --> 00:13:18,040
+And that's what IATA is actually for.
+
+294
+00:13:18,040 --> 00:13:21,320
+That big, big branding you see is for your bags.
+
+295
+00:13:21,320 --> 00:13:24,840
+And because of the tag, it became what customers know,
+
+296
+00:13:24,840 --> 00:13:26,720
+which brings us back to the start.
+
+297
+00:13:26,720 --> 00:13:28,400
+And oh, sorry, Canada.
+
+298
+00:13:28,400 --> 00:13:30,740
+I know I've been avoiding answering the whys,
+
+299
+00:13:30,740 --> 00:13:34,240
+but it's just so much more complicated than expected.
+
+300
+00:13:34,240 --> 00:13:36,220
+There's a tale that the whys are an old system
+
+301
+00:13:36,220 --> 00:13:39,000
+for if Canadian airports had a weather station.
+
+302
+00:13:39,000 --> 00:13:42,280
+Y for yes, weather station and W without.
+
+303
+00:13:42,280 --> 00:13:44,600
+And since pilots want to know the weather,
+
+304
+00:13:44,600 --> 00:13:46,360
+that explains all the whys,
+
+305
+00:13:46,360 --> 00:13:49,520
+but also the few oddball Canadian Ws.
+
+306
+00:13:49,520 --> 00:13:52,580
+But investigating the truth of that story
+
+307
+00:13:52,580 --> 00:13:55,140
+took eight months of my life,
+
+308
+00:13:55,140 --> 00:13:56,960
+which I will now give to you
+
+309
+00:13:56,960 --> 00:14:00,200
+as an extremely compressed executive summary.
+
+310
+00:14:00,200 --> 00:14:03,340
+Working backwards, the American and Canadian IATA codes
+
+311
+00:14:03,340 --> 00:14:06,400
+created in the 1950s come from the last three letters
+
+312
+00:14:06,400 --> 00:14:09,080
+of ICAO codes created in the 1940s.
+
+313
+00:14:09,080 --> 00:14:12,360
+The first letter of ICAO codes come from the ITU,
+
+314
+00:14:12,360 --> 00:14:15,140
+the International Telecommunications Union's codes
+
+315
+00:14:15,140 --> 00:14:18,320
+created in the 1910s for radio stations,
+
+316
+00:14:18,320 --> 00:14:21,640
+which used K for America and CY for Canada.
+
+317
+00:14:21,640 --> 00:14:24,320
+So K and CY into four letters
+
+318
+00:14:24,320 --> 00:14:27,360
+and back down to three leaves Y for Canada.
+
+319
+00:14:27,360 --> 00:14:31,160
+Here is where you would reasonably ask why CY for Canada,
+
+320
+00:14:31,160 --> 00:14:35,480
+but that goes all the way back to telegraphs and beyond,
+
+321
+00:14:35,480 --> 00:14:38,440
+so is a story for another time.
+
+322
+00:14:38,440 --> 00:14:41,980
+But for now, for this video, why Y for Canada?
+
+323
+00:14:41,980 --> 00:14:43,880
+Because of radio call signs,
+
+324
+00:14:43,880 --> 00:14:45,060
+because of a lot of other things,
+
+325
+00:14:45,060 --> 00:14:47,280
+because of US and Canada coordinating
+
+326
+00:14:47,280 --> 00:14:49,840
+that four flights within North America,
+
+327
+00:14:49,840 --> 00:14:53,820
+it really would be Y for yes, Canada, mostly.
+
+328
+00:14:53,820 --> 00:14:55,440
+Well, that was a lot of bureaucratic history,
+
+329
+00:14:55,440 --> 00:14:57,720
+so let's finish with the final fun IATA codes
+
+330
+00:14:57,720 --> 00:14:59,960
+promised from before, starting with Sioux City
+
+331
+00:14:59,960 --> 00:15:02,800
+with the sensible-looking SUX until you say it out loud,
+
+332
+00:15:02,800 --> 00:15:04,500
+but to her credit totally owns
+
+333
+00:15:04,500 --> 00:15:06,160
+that branding for airport merch.
+
+334
+00:15:06,160 --> 00:15:07,160
+Good for you, Sioux.
+
+335
+00:15:07,200 --> 00:15:09,600
+And there's also Beaches International Airport,
+
+336
+00:15:09,600 --> 00:15:10,560
+Summer Break Central.
+
+337
+00:15:10,560 --> 00:15:12,200
+Their top two picks for codes were picked,
+
+338
+00:15:12,200 --> 00:15:16,540
+so to help the confused collegiates find their connections,
+
+339
+00:15:16,540 --> 00:15:21,320
+the agencies agreed on ECP to stand for Everyone Can Party,
+
+340
+00:15:21,320 --> 00:15:22,880
+which is awesome branding,
+
+341
+00:15:22,880 --> 00:15:25,980
+but you'd never know because Beaches doesn't bother.
+
+342
+00:15:25,980 --> 00:15:28,360
+Jeez, ECP, you could learn a thing or two from Sioux.
+
+343
+00:15:28,360 --> 00:15:29,880
+But now everyone can party
+
+344
+00:15:29,880 --> 00:15:32,360
+on this round-the-world flight of IATA codes
+
+345
+00:15:32,360 --> 00:15:34,240
+entertaining to say out loud.
+
+346
+00:15:34,240 --> 00:15:35,080
+Ready?
+
+347
+00:15:35,080 --> 00:15:37,080
+Boo, eek, cow, wow, poo, gag, bro,
+
+348
+00:15:37,080 --> 00:15:40,280
+but got hot pie, yum, um, mom, dad, mad, run, fun,
+
+349
+00:15:40,280 --> 00:15:42,840
+I-O-U-F-A-Q-O-M-G-L-O-L.
+

@@ -1,0 +1,3742 @@
+Ha, great play Mark, it's a real...
+KILLER!
+**Laughter**
+**Intro Music**
+**Explosion**
+Pathologic is one of the best and smartest games that's ever been made.
+And you know that's true because no one's played it.
+Okay, that's not quite accurate.
+A fair amount of people have tried to play it.
+The Steam release has achievements
+and there's an achievement for surviving the first of the twelve in-game days.
+A day lasts about two hours.
+According to its global gameplay stats page,
+just 13.2% of all players made it that far.
+The achievement for day one is called
+I'm Not Dead.
+It's just that kind of game.
+It occupies a certain kind of space in game criticism.
+Some game critics, mostly the ones who are...
+uh...good,
+will sing its praises day and night,
+call it the best game you've never played,
+argue it's a shining bastion of everything gaming could be but often isn't,
+and labor very intensely to explain why games don't have to be fun
+to be good.
+Journalist, board game critic,
+and wizard Quentin Smith
+wrote three incredible articles about it in 2008
+for Rock Paper Shotgun,
+which are probably hugely responsible
+for a lot of Western awareness of the game.
+But when someone reads articles like these,
+they might make the horrendous mistake
+of actually trying to play it,
+and we all know how that goes, don't we?
+The game's just not fun.
+It's not interesting to look at.
+It doesn't feel good to play mechanically.
+It's frustrating.
+The story is confusing and wordy
+and translated from Russian by a mystical rat
+who only speaks in riddles.
+It lacks almost anything
+that would normally keep a person playing a game,
+and yet people keep saying it's great.
+I think it's great too.
+It's an incredible game
+that barely anyone will have the resilience
+to actually play long enough to appreciate,
+and that's maybe even the point.
+So this time on the assorted mess of unrelated concepts
+that can scarcely be called a YouTube channel,
+I'm going to talk about all the things
+I find particularly interesting about this game
+and what they bring to making it so unique.
+I'm also going to talk about the problems it has
+that prevented it from seeing mainstream success
+and then give a spirited defense
+of half of those problems anyway
+in the name of their artistic value.
+It's not a bad game.
+It's an amazing game, but it's also a bad game.
+It's a major time investment too.
+In many ways, it's a more interesting game
+to discuss than play.
+It's possible that Pathologic only exists
+so that we may speculate about it.
+So in a way, making this video
+is really for my benefit more than yours.
+I played over 60 hours of this thing.
+I have almost 600 gigs
+of Pathologic footage on my hard drive.
+I get to make a video about it!
+That was the deal!
+♪ ♪
+Part one, what is Pathologic?
+Probably should've gone in the intro.
+On the surface, it's a very easy game to explain.
+Pathologic is a first-person survival horror RPG
+with story rich and atmospheric.
+Doesn't it look fun?
+It's set in a town deep in the Russian steppe
+at some ambiguous point in the last 100 years,
+and by ambiguous, I mean imaginary.
+There are guns, but they're kind of old-timey types.
+A lot of the decor ranges from the late 1800s
+to early 1900s,
+but there's some Baroque-looking buildings lying around.
+The town is built around its meat industry,
+so there's bowls everywhere, but the abattoir
+is some kind of huge ancient building
+fused with the earth,
+and its workers live in a huge housing complex
+that looks nothing like the rest of the town,
+and some buildings are actively impossible
+like these staircases to nowhere,
+and then there's the Polyhedron,
+a giant floating tower that cannot be
+sticking out of the earth suspended by unknown means
+and made partially out of its own blueprints,
+so, yeah, I'd say the time period's pretty ambiguous.
+You play as one of three different kinds of Doctor
+who each arrive in the town for their own reasons
+just at the beginning of the outbreak
+of a horrible plague that threatens the entire town
+and probably the world if it manages to spread.
+The Doctors have 12 days to get their shit together,
+save the town,
+and somehow survive long enough to do that.
+In some ways, it's kind of an immersive sim.
+You have an inventory, weapons, clothes, and items,
+but look at the wording of these items.
+It's not food. It's rations.
+It's not medicine or healing.
+It's drugs, and what is other?
+Well, that's where you keep less common stuff
+you can use or sell like hairpins and bracelets
+and flowers you picked, and are those human organs?
+As soon as you hit new game,
+it becomes clear that any simple description
+of its basic genre conventions
+doesn't capture how the game actually feels.
+The three playable characters,
+the Bachelor, the Haruspex, and the Changeling,
+aren't simply chosen by a menu.
+So it's all about trickery to you?
+Wherever have you come from?
+No. No.
+I detest trickery,
+but if we ourselves are to suffer deception,
+our hands are no longer tied.
+Where are we?
+We open in a theater,
+which you actually visit in the game world later,
+looking down on all three characters
+as they argue on stage over who is best suited
+to solving the problem.
+I can do miracles.
+Just let me.
+Will you please be quiet?
+The dialogue gets across each character's basic viewpoint.
+It's also written in a strangely theatrical way.
+The truth is my shepherd.
+I will perform the operation.
+Medica morbo adhibe.
+Don't you go all bossy on me, clever clogs.
+This calls for the gentle hand of a surgeon.
+Your gentle hands are used to killing,
+not giving life.
+You will inevitably do harm.
+As for Brainy,
+he has no regard for casualties at all.
+It sounds written.
+It's not even trying to be natural.
+It's like you're watching bad actors
+stumbling through their lines
+while rehearsing for a play,
+which you are.
+The actual play is about to begin
+with you playing as one of them.
+They conclude they can't work together
+and time is of the essence,
+and the house lights go down.
+We won't ever get along.
+I suggest we be on our way.
+The sooner the better.
+Off we go then?
+Let's go.
+The clock is ticking.
+When you go to leave the theater,
+then you get to choose which one you play.
+Even before the game started,
+the presentation is strangely off-kilter
+and brings in ideas of performance
+and the theatrical.
+It's definitely the weirdest character selection process
+I've ever experienced.
+You can't play as the changeling
+until you've finished the game
+as one of the first two,
+but frankly, if you're actually going
+to play the game more than once,
+you should play both of the first two first
+and really you ought to start with The Bachelor.
+He's regarded as the default pathologic experience.
+He's slightly easier,
+and his character is an outsider from the town,
+so you learn more about it from that perspective,
+and that's really helpful.
+The Bachelor, Daniil Dankovsky,
+is a bachelor of medicine
+and is working on the ultimate utopian project
+a doctor can aspire to,
+defeating death itself.
+It's not going well.
+The powers that be, and the government I guess,
+are shutting down his lab
+unless he can come up with something substantive
+to back up his ideas.
+He's come to the town because he's heard
+that a man who lives there, Simon Cain,
+has lived a remarkably long life,
+so maybe he can learn something
+about defeating death from him.
+Your quest log has the main mission for that day,
+the side quests for that day,
+and your overall mission,
+which for The Bachelor is saving his career
+and maybe all human life
+by learning how to defeat death from Simon.
+So you go to meet him,
+and you learn from Simon's brother Georgie
+that he died right before you got there.
+Oh.
+Well, Georgie asks you to help him find out
+who or what killed him.
+Luckily, you think you have a lead on how he died
+because he met with a town community leader,
+Isidor Burakh, right beforehand,
+and he was a respected local cultural figure
+and the town's head doctor of sorts,
+so they might have discussed his health
+or who might have wanted him dead.
+So you go to meet him, and he's dead too.
+People are speculating about a serial killer
+or a demonic step creature of myth,
+the Shabnackadir, being responsible,
+and then you start to notice signs of a plague,
+and it becomes clear it probably killed both of them
+and is about to kill everyone else.
+For days and days, as the lives of people in the town
+and your own odds of survival get worse and worse,
+that original quest,
+Dankovsky's bright-eyed, naive mission
+to defeat death itself on his way to meet a dead man,
+will stare you in the face every time you open your menu
+and check your mission.
+For Dankovsky, this message doesn't update
+when saving himself or the town become his priority.
+For the rest of your sad life,
+you have to deal with being reminded
+that you came here for something completely unrelated.
+So, yeah, get used to that.
+Pathologic's not a game about getting answers
+or resolutions to your personal quests
+or even about being heroic.
+It's not a game about feeling safe or having fun.
+It's a game about part two,
+futility and disempowerment.
+You might be wondering why I'm reading the words out
+when they're on the screen,
+and that's because some people like to listen
+to these videos instead of watch them.
+I put a lot of effort into my visuals,
+but, you know, that's fine.
+So I think an important way of explaining
+the features and effects of this game
+is to talk about the first thing
+that'll probably happen to a new player.
+You start the game in the house of Eva Yan,
+who's letting you sleep upstairs.
+She tells you that she's heard noises outside
+and there's some strange men hanging out in her garden.
+Oh, I know how games work. This is a tutorial quest.
+RPGs sometimes have easy early quests
+that act as a sort of microcosm of the game,
+a tutorial for how various mechanics work.
+So you go outside and you're greeted
+by these strange boys.
+These aren't the characters hanging out in her garden.
+These are more tutorial figures.
+These are characters that pop up a lot in the game,
+tragedians and executors.
+These are their costumes.
+They're actors at the local theater
+performing plays and so on,
+but executors also perform important roles
+during the plague, like getting posted up
+outside the houses of important sick people
+to relay messages.
+Given that the game is already being framed
+as one large theater performance
+with you as an actor,
+sometimes they break the fourth wall,
+like right now where they're telling you,
+a living human person,
+how to live in the world.
+These characters teach you how the basic mechanics work.
+Time advances no matter what,
+so if you don't do the important things
+you're supposed to be doing,
+other people will have to do them for you
+and might get sick,
+and you might need them not to get sick,
+so maybe don't let that happen.
+Your reputation is important,
+so don't start too many fights.
+Eat food so you don't starve and die,
+and so on.
+This game came out in, like, 2004,
+so the idea of having to eat to not die
+and time mechanics was actually pretty unique
+for the time.
+This is executed in an awesome way.
+Look at how this tutorial is framed.
+This conversation won't take too much of your time,
+especially since time stops during dialogues,
+and our dialogue is extremely important.
+You need to know how to play, after all.
+What are you talking about?
+I'm neither a gambler nor an actor.
+He doesn't understand what the Tragedian means by play.
+The Tragedian is talking past him to you
+so that you know the mechanics,
+but the Bachelor has no idea why someone's telling him this.
+Need I remind a wise man like you
+of the fact hunger is sated with food?
+Food can be found in shops.
+The Bachelor is having the weirdest conversation
+of his life.
+The fourth wall-breaking stuff in this game
+is genuinely the best.
+Anyway, what's next?
+Ah, yes, the side quest.
+So you go around to see about the men in Eva's garden
+and get a cutscene showing them,
+and you realize one of them is a creepy-looking,
+inhuman worm-man.
+Great, another thing I'll have to figure out later, I guess.
+If you try to make them leave in a threatening way in dialogue,
+a fight starts.
+The way fights work in this game
+is you get beaten to death in a matter of seconds
+and the game is over.
+♪
+Oh.
+Oh, jeez.
+Hello again, you two.
+Ah, no need to be so dramatic.
+Actually, no, that's your job, isn't it?
+In Pathologic, combat deliberately feels off.
+The game has fighting mechanics
+in the same sense that a car being driven off a cliff
+has flight mechanics.
+Punching is slow and plays a random animation
+with a different length before the attack actually goes off,
+and its range is highly deceptive.
+The range enemies have with their attacks
+is hard to decipher as well.
+It's very swimmy, like there's lag in a single-player game.
+You have to learn to intuit exactly when to close in
+for your attack to hit
+and when to step back and not get killed.
+It's quite hard to be good at fighting in this game.
+The game does everything it can
+to stack the deck against you if you get in a fight.
+The muggers who spawn at night open their combat with you
+by throwing a knife at your face,
+which, no joke, deals, like, 90% of your health
+in a single hit.
+No one gets distracted by guards once they pick a target.
+They just keep going for you
+while the guards chase them and hit them in the back,
+and they seem to only reliably drop loot
+if you're the one who kills them.
+You can right-click to trigger a blocking animation,
+which is pretty cool.
+It doesn't actually do anything, though.
+Guns are eventually an option.
+They kill in one or two hits,
+but bullets are super rare.
+They're really expensive, and you have a tendency to miss
+even when you're pointing the gun right at someone's head.
+I don't know. It just feels a little weird,
+but this actually works in the context of the gameplay
+because it further disincentivizes you
+in doing combat because even sure bets,
+like bringing a gun to a knife fight,
+are never really that sure.
+Fighting always feels like a risk,
+and it instills that you're not really supposed
+to live through this game while getting in tons of fights.
+You're never handed satisfaction or enjoyment from fighting,
+which normally is the sort of thing
+that's the most visceral part of a game experience.
+The game knows this, too, and likes to throw challenges
+designed to hurt you and not be satisfying
+right in your face.
+Once you're past the point in the game
+where you're very likely to have a revolver,
+a weapon with six shots,
+before a very slow and vulnerable reloading animation,
+a side quest pits you against seven guys,
+and you have to stand still to open the menu,
+which doesn't pause the game,
+to unequip it to switch to anything else.
+It's like the creators are laughing at you,
+seeing what deliberately weird, difficult thing
+they can put in front of you and have you still actually do.
+This whole fight is optional,
+so really it's your fault if you decide
+to try a dozen times to shoot seven people
+with a gun with six chambers.
+Remember how I said early quests in games
+are like a tutorial?
+The lesson of this tutorial is you're gonna die
+if you make bad decisions.
+Heck, you're still probably gonna die
+if you make good decisions.
+Fighting is hard and punishing,
+especially against more than one person,
+and realistically you wouldn't be seeking out
+fights like this.
+You should be trying not to get killed first.
+A two-on-one fight in the first two minutes of the game
+before you know all the quirks of its combat
+is a death sentence, and the developers know it.
+They put this fight in here to teach the player lessons
+about how they should be thinking
+about the idea of fighting
+or on the whole taking unnecessary risks.
+Death is cheap and your health is expensive.
+I mean that literally, too.
+How do you get health back?
+Simple, just rest in a bed for a few hours and...
+Oh.
+No, that does nothing.
+Actually, it just made everything worse.
+My hunger meter's gone up now.
+Okay, I'll eat an egg and...
+Oh, no, that's not gonna close my wounds.
+It's an egg.
+It made my hunger go down,
+but wait, it only made it go down a tiny amount,
+and that was all the food I could afford.
+Oh, I'm fucked.
+The only reliable way to heal
+is to take a painkiller like Meridorm or Novocaine.
+These are expensive, but they cause you to regain health
+over the course of a few in-game hours
+which is agonizingly slow, but it works.
+They also cause a lot of exhaustion
+which also raises over time while you're awake
+and causes you health damage if it maxes out
+just like hunger.
+There are items that heal you without any downsides,
+tourniquets and bandages,
+but they don't heal you that much.
+They're pretty hard to acquire,
+and they're worth enough money
+that you might as well just sell them
+and buy some more delicious eggs.
+Basically, in this game, taking damage hurts.
+After retrying a few times,
+if you manage to kill the two people in this fight,
+the items they drop are barely worth
+the health you lost to get them.
+You get a couple of bullets,
+like literally a handful,
+and you don't even have a gun to use them with yet.
+If you used the weapon you started with in the fight,
+your scalpel, it's taken durability damage
+and is now already less effective,
+and you'll have to pay to get that repaired.
+Oh, yeah, weapons lose durability
+and effectiveness in this game,
+and they do it super fast.
+This fight is barely worth doing.
+When I was playing, I just reloaded
+and let the guys get on with whatever they were doing.
+They're on the run from the law.
+Whatever. They'll be on their way soon.
+It's their problem, and they're not interested
+in you or Eva anyways.
+You can even ask them what the deal is with this guy.
+He's just one of the locals.
+Some of the people of this culture
+are just physically different for some reason.
+For me, the canon choice my bachelor made
+was to leave these guys alone
+and just let them go away.
+It's fine. It's not worth it.
+This opening is an exercise in disempowerment.
+You're not the main character of the story.
+I mean, first of all, there's literally two
+of the main characters, but on a deeper level,
+you're not special,
+and sometimes you have to keep your head down to survive.
+You are nobody's hero.
+Your character's stats page is a really helpful way
+of keeping up with all eight
+of the chokeholds the game has you in.
+Reputation goes down when you start fights,
+kill people, or other generally immoral things,
+and goes up when you do good things
+like in quests or killing muggers
+or giving money to the poor
+or medicine and alcohol to the sick.
+Not to cure them, but to help ease their pain
+so they can die in peace.
+A pretty morbid way of doing good.
+Despite being an RPG where you can get into fights
+with anyone you want in the street,
+a la Fallout or Elder Scrolls,
+the game has a very powerful ability
+to strongly incentivize that you don't do whatever you want.
+Not only do fights hurt,
+but your survival relies on you being accepted by society.
+If your reputation is too low,
+shopkeepers won't sell to you,
+and then you're kind of doomed to starve to death
+or to get sick to death or die to death.
+Exhaustion just goes up over time
+and is reduced by sleeping,
+but there are things like raw coffee beans and lemons
+which reduce exhaustion and give you more time
+to do things other than sleeping,
+but lemons increase your hunger
+and coffee decreases your health
+just like in real life,
+but what's immunity and infection?
+Well, immunity is your ability to resist the plague.
+Kind of? Not really.
+When the plague becomes a factor,
+if you walk into a cloud of plague
+or get touched by a plague carrier
+or bitten by a rat, you get the plague.
+Your immunity defaults to 50%.
+There's expensive medicines you can take
+which increase it temporarily,
+but these also hurt you to use,
+and you have to use quite a few
+to raise your meter a useful amount.
+If the meter's absurdly high,
+and I mean close to 100%,
+and you're wearing a couple of clothes
+that protect from infection,
+if you get hit by the plague,
+you might, might not get infected.
+It'll just lower your immunity a bunch
+so you get infected the next time you touch something.
+Hooray!
+Hooray!
+♪♪
+If you get infected,
+you start to lose health over time,
+and occasionally your camera gets all wobbly and distorted,
+and your infection level starts to raise nonstop,
+and as it gets higher, the effects will get worse,
+and if you get too infected,
+some NPCs will try to kill you with fire.
+There are antibiotics which decrease your infection level,
+but these also hurt you to take
+and are also expensive
+and don't actually stop the plague once you're infected.
+How do you cure the plague?
+You can't. Fuck you.
+Don't catch the plague, shithead!
+That's not really up for discussion, is it?
+It's a fucking plague.
+Plagues are really bad.
+Statistically, in Europe from 1200 to 1800,
+roughly 100% of all living people died of the plague.
+Okay, there are items that can cure the plague,
+but you really want to not be wasting those.
+The game's about curing the plague,
+so you kind of might want to not use those
+on your personal status effects.
+If you get infected, either load a save
+or prepare to have one extra thing to worry about
+for the rest of the entire game.
+There's one other important meter
+you'll need to keep a close eye on as well.
+Time. The clock doesn't wait for you.
+Every day has a main quest,
+and you have to complete the quest on time
+or someone else has to do your job for you,
+and they're not as good at your job, so...
+The night has come.
+The most pressing endeavors of the day
+were fulfilled at the expense
+of several lives of your bound.
+If you don't complete a quest in time,
+the story advances without you
+and one of your friends gets sick,
+which means you won't be able to talk to them
+unless you give up some of your medicine at the door
+to keep them upright for the day.
+Some quest lines take place at certain times, too,
+so you need to keep an eye on things and plan ahead.
+Between all this and reputation,
+the game imposes a horrible feeling of dread on the player,
+a pressure that never really lets off.
+There are so many things to manage, to think about,
+just to stay alive,
+and that's not even getting into the story
+you're trying to progress while you do all this.
+You're always on the clock
+and almost always need to be in two places at once,
+and as you navigate the town
+to get where you're supposed to be going,
+you get more and more aware of how slowly you walk.
+♪♪
+You can't run.
+♪♪
+It's just this.
+It's horrible.
+You're not a character in a fun RPG.
+You're a person traveling
+at frustratingly person-like speeds
+trying to outrun about eight different ways of dying.
+This is one of the first truly divisive things about the game.
+The walk speed is slow,
+and most of the game is about walking from place to place,
+walking to buy food, walking to buy medicine,
+walking to the trash can to find things to trade,
+walking to talk to people,
+and walking to the theater to see it predict
+all the walking you're gonna do.
+Speaking of the theater, every day after midnight,
+they rehearse a new play.
+These often comment on what happened that day
+or predict the future in quite interesting ways.
+People only fear bloodshed
+when it's their blood and their shed.
+Yeah, that's right. Stay out of my shed.
+What the fuck are you talking about?
+And as the plague spreads,
+you start having to either take longer routes
+to avoid infected districts
+or start risking infection and having to load saves
+and lose even more time.
+This is not fun or pretty.
+It's just walking.
+I've had people tell me that walking is what turned them off.
+It takes so long to get anywhere.
+Even if you're not in immediate danger
+because things are going well,
+you're still giving up a lot of your time going places,
+and the clock is still ticking down,
+so you're always racing,
+and you're always racing slowly.
+But this is also the point of the game in Microcosm.
+It's not supposed to be fun on its own.
+Here's a head-scratcher.
+Are games supposed to be fun?
+Maybe, but should they always be?
+Is that the only reaction games can
+or should explore creating in their players?
+Well, I think it's useful to at least experiment.
+This boredom isn't a bug.
+It's a feature.
+It adds even further to this sense of disempowerment.
+It also has a profound emotional effect.
+As you get increasingly aware of your impending doom
+and how limited your abilities to get things done really are,
+even walking around becomes tense and stressful.
+Pathologic is the subtlest survival horror experience
+I've ever played.
+The act of standing still in the game makes me nervous.
+I'm wasting time.
+Oh, shit, it's 3 o'clock. I have to be somewhere.
+After a while, even the process of the travel
+starts to really get its hooks in you.
+Once you get used to it, there's nothing quite like it.
+As the story deepens and becomes more complex,
+the travel becomes an opportunity
+to think about what's happening.
+If you're being played,
+why you're being asked to do this,
+who it really benefits,
+whether someone's messing you around to waste your time
+and stop you figuring out what's really going on.
+The walking becomes the most engaging thing in the world.
+I've never been more alone with my own thoughts
+than when I was playing Pathologic.
+I'm one of the two remaining defenders of No Man's Sky.
+The others were lost in the Great Purge,
+but when it came out, I liked it at the time
+almost primarily because it came closer
+than any other game to doing this.
+In fact, I made a reference to Pathologic
+in my little video about it, but in reality,
+Pathologic is still the absolute greatest of this
+and puts No Man's Sky to shame,
+especially when all the patches made it
+much more like what everyone else wanted
+and much less like what I had enjoyed.
+Man, I should revisit that game.
+Imagine a game holding your attention
+not because anything in particular is happening
+but entirely because it's got inside your head.
+Oh, and then, just to make sure you're paying attention,
+a plague cloud made of screaming skulls
+flies at you and you go,
+AHH!
+The constant racing against the multitudinous clocks
+of time, exhaustion, and hunger,
+trying to get enough surplus stuff done
+to afford to manage it all,
+and the many ways you can be killed easily or survive
+but with the game made even harder
+by taking damage or losing time or getting infected
+or getting so desperate you decide to kill a guy
+in a dark alley for his food
+is the exact opposite of a heroic fantasy story.
+At all times, the player feels powerless.
+Instead of the player being free,
+but with some survival mechanics to keep track of,
+it's flipped.
+The game is a large collection of things
+that will kill you unless you submit yourself
+to their whims.
+You're free, but you should be doing
+what you're supposed to be doing or you'll fail and die.
+You're placed under a level of constant stress
+maintaining your frail body while racing against time
+to actually get anything else done.
+You're always technically in control,
+but it's hard not to avoid the feeling
+that you're the one being played by the game,
+constantly reminded of all the things
+you don't have time to do,
+all the things you need to avoid,
+and worrying maybe the game's gonna come up
+with something new to stab you with on the next day,
+which, uh...
+Part 2.2, day two.
+I came up with the titles in this video to amuse myself.
+I don't really care what you think about them.
+Day one is kind of a walk in the park.
+You even have enough leeway to take a walk
+in some of the parks.
+You get used to the basic mechanics,
+buy and eat some food, progress the story a little,
+and meet some of the other characters,
+and at the end you realize that a plague
+might be about to hit.
+If you manage to survive day one and complete the quest,
+well, congratulations.
+You've done better than most players,
+but the real game hasn't started yet.
+Day two is the next big hurdle,
+and even less people make it past that.
+The Bachelor's day two is where players will decide
+if this game is for them or not,
+and the drop-offs in terms of achievements
+demonstrate this pretty well.
+You'll know if the game is something you're going
+to try to continue with after this,
+so you make it to bed on time
+with a decent amount of money prepared
+in case you need to buy more things
+and with all your meters sufficiently handled.
+Maybe everyone's warnings about how hard this game is
+were sufficient to prepare you,
+and you've got this in the bag now.
+♪ ♪
+On the morning of day two, prices rise tenfold.
+The money you started the game with
+is no longer enough to buy a single delicious egg.
+The plague hasn't properly hit yet,
+but word's got out there's an outbreak coming
+and people are stockpiling food and medicine.
+Not only is being able to afford food
+suddenly a much more pressing question than you expected,
+any food you do have on you
+doesn't seem like a good idea to eat.
+I mean, that's a lot of money you're holding.
+To make matters worse,
+the town's governor, Alexander Saburov,
+won't agree to do anything about the plague
+because he'll be seen to be overstepping the mark
+if the other rulers of the town
+don't agree on there being one.
+So a plague is starting,
+but no one with the power to take proper action
+will help because everyone has their own agenda.
+So you spend a good deal of the day
+with your hunger rising
+and no sure way to solve it
+because your money is worthless now
+running around trying to find enough proof
+to get all three of these groups
+to agree there is a plague
+and to give Saburov the power
+to start making emergency orders.
+Your main quest is getting these warring factions
+to agree that the obvious problem exists.
+Along the way, you pick up two side quests.
+In one of them, you meet up with a former buddy of yours,
+Andrei Stamatin, and upon agreeing
+that the shits hit the fan, or rather the town,
+you decide to get out while you can,
+but Andrei won't leave without his brother Peter
+who doesn't want to leave that much,
+but Saburov, the guy who will get emergency powers
+anytime soon, bears a long-standing grudge
+against Peter which will probably lead
+to him getting killed once that happens.
+And this isn't unfounded, by the way.
+When Saburov does get emergency powers later in the game,
+he uses them to try to get Peter killed.
+So you need to get proof this is the case
+to get Peter to agree to leave with you both,
+which you get from talking to Maria Kane,
+Simon's niece, about this issue.
+However, if you tell her why you need to know this,
+she intervenes and prevents either of them
+from leaving, failing the quest.
+Unbeknownst to you, Maria needs these guys
+in the town for her own reasons, so don't do that.
+So you go to give this information to Peter.
+Ah, fuck!
+This is an actual recording
+of the first time I saw this statue.
+You can see in the footage that I freeze up.
+Like, it's terrifying.
+This is the second game ever to jump scare me
+with a fucking still object.
+It's genius.
+I can't wait to show you the other one sometime.
+That one's great, too.
+You know which one I'm talking about.
+You all agree to meet at the train station at 10 p.m.,
+so you're starving and the town sucks,
+but at least you have an escape plan now.
+The second side quest is called
+The House of the Living.
+Several of the town's more charitable people
+have decided to establish a shelter
+for when the epidemic hits,
+and they each give you money to buy some food
+for the shelter before the prices rise any further.
+I will make the purchases.
+I have to do a lot of walking today anyway.
+Ah.
+The money they give you is not enough
+to buy all the food they want,
+so you actually have to use whatever spare money you have
+or sell some of your items to afford this.
+You give up all your remaining money
+and items to get food you also need
+just to give it away,
+and you have to watch your hunger go up
+and your time go down as you rush around
+trying to find the stores with any bread or meat left.
+When you get it all,
+you're told the location of the shelter
+so you can deliver it.
+Let's just break this down.
+Part of a quest on a day when food is incredibly scarce
+involves carrying a ton of food somewhere
+and not eating it.
+It's actual torture running around
+watching that hunger meter go up
+and not knowing how you're going to resolve it
+even though you're technically holding a solution
+the whole time.
+It's awkward and engaging and tense
+in a way that no game has achieved before or since.
+The game doesn't punish you for eating it either.
+You don't have to do this quest.
+You can just keep the food
+or the money you were given to buy it with
+and just ruin the chance to build the shelter,
+but you don't because that's hardly what a doctor
+would do preparing for the plague,
+and maybe there's a reward for doing it
+or it helps you further down the line.
+You're making a positive moral choice
+on a quest in a video game.
+You know how this works.
+There's something in it for you.
+So you go to deliver the food.
+♪♪
+The house has already been hit by the plague.
+Everyone there is sick and dying,
+and the plague clouds will actively hunt you
+through the house if you stay too long.
+There's an executor there who tells you
+this mission was obviously a failure,
+so you leave and go back to the quest giver
+and give her all the food intended for the shelter.
+She gives you some nuts to tide you over
+as thanks for your hard work.
+The reward for successfully following this quest
+to the end is dramatically worse
+than the money or food you could have just run away with.
+At the very least, this quest results
+in finding proof of the plague,
+so the part of the main quest where you go in search
+of a plague-ridden house is at least solved by this too.
+If you do the main quest instead, though,
+you get a genuinely terrifying encounter
+where as soon as you realize you've found a house
+filled with women who have the plague,
+once you try to leave, it spawns two more
+right where you just came from,
+and they try to grab you to appeal for help
+and give you the plague if they do,
+and you just have to dodge past them.
+It's genuinely super scary and just emotionally awful.
+You're just abandoning these women to die.
+It's a horrible nightmare which, thankfully,
+you cannot do if you did the house of the living.
+Finally, Saburov has the power he needs
+to start establishing hospitals under quarantine,
+rationing food, distributing medicine, and so on,
+and he even gives you a gun,
+so it's a day late, but things are finally
+where they should have been already,
+perhaps too late to prevent a full-on outbreak,
+but better than nothing at all.
+You can defend yourself a little better now at least.
+Luckily, you're getting out of here soon,
+so 10 p.m. rolls around.
+Your quests have been one major failure
+and one minor resolution to a power squabble
+that you're sure will heat up again tomorrow,
+and you haven't eaten anything,
+so you head to the train station.
+When you get there, you find guards blocking the trains.
+The Somatin brothers are nowhere to be seen.
+They just didn't show up, and according to the guards,
+no one can enter or leave the town now
+because it's under quarantine thanks to the emergency powers
+you helped Saburov get.
+You just trapped yourself in the town.
+If you try to talk your way out,
+all the guards attack you,
+and you lose reputation for killing them
+because these guys were just doing their job.
+Best of all, there's an executor standing there.
+This one doesn't say anything
+and seemingly can't be seen by the other characters.
+He just stares at you, letting you know
+he knows how dramatic the irony is,
+laughing at you for thinking you can just leave the town.
+So you're trapped, and you're starving.
+In the middle of the night, you go to see a play
+being rehearsed at the theater.
+The play's about how you're fucked.
+Bad news.
+The governor will abuse his power.
+When the morning hits, the game nonchalantly says,
+it all ends in less than ten days.
+Exhausted from a day's being a pawn
+in someone else's power grab and scrambling for resources
+for a quest that was doomed and starving half to death,
+you eat one of the nuts.
+♪♪
+Great. You're completely fucked,
+and you're on day three.
+Day two is excellent game design.
+It's deeply engaging.
+Watching your attempts to get anything at all done
+get frustrated,
+and it also sets a general tone for the game.
+It does the special game design trick
+that I like to call recontextualizing.
+Players come to games with their own expectations
+and understandings of how a game is supposed to work
+and feel and play,
+a certain general set of ideas
+about what all this is supposed to be like.
+If you're playing an open world RPG,
+you know what dialogue trees, shops,
+and trading and hunger and time mechanics
+and moral choices are,
+and you think you know how they work.
+Day one partially plays into this.
+It takes pains to show how fragile you are
+and all the work you have to do to not die,
+but it's doable. It makes sense.
+It doesn't feel that much different from a normal game.
+When the prices rise so massively
+that money is effectively worthless
+and you were given no warning this would happen,
+everything about how you relate to the game experience
+is thrown out the window,
+and you feel that happening in your brain
+as you play and realize what just happened.
+Walking around while slowly starving,
+getting rid of the rest of your own items
+to try to get the food for a doomed quest,
+carrying food you can't eat around,
+and wondering when you will get to eat,
+and watching your meters inevitably rise
+as you race to help the town
+and only barely achieve anything,
+you start to make realizations
+about the scope of this experience.
+You weren't playing a game with the mechanic
+where you have the option of using money to buy things.
+You were playing a game about having no money.
+You weren't playing a game where you have
+to eat food to survive.
+You were playing a game about starving.
+You weren't playing a game where you can choose
+what sort of morals you have.
+You were playing a game about how betraying
+the people who trust you is better for you
+than trying to be a hero, and doing the right thing
+is an exercise in getting your time
+and energy and money wasted.
+Survival horror RPG? Lies.
+You are playing a pain simulator.
+This is a deeply masterful trick
+I've seen very few developers pull,
+where commonly understood mechanics
+are twisted in such a fashion as to force the player
+into a specific mindset and relationship
+with those mechanics,
+and everything straightforward suddenly becomes
+different and off.
+Once day two happens,
+you no longer have any idea what's coming.
+Money turning out to be virtually useless?
+The growing threat of the plague?
+Who knows how bad things will get in the next few days?
+Even though the game doesn't get that much harder,
+and technically the game isn't that hard
+if you know what you're doing,
+this sequence of experiences fills you with dread
+for what might happen next,
+and the game doesn't stay this difficult forever.
+The point isn't how hard the game actually is
+if you measure it objectively.
+The point here is how the game makes you engage with it.
+The game has a reputation of being depressingly punishing
+and difficult, and while all this is true in places,
+and it does get very hard in brief bursts,
+the fact the game manages to create this reputation
+without always being that hard
+is a serious credit to its execution.
+Day two grinds you beneath its heel,
+and even if things pick up for you
+or you master the art of stabbing bad men
+for extra cash,
+you'll never really feel in control again,
+and that is genius design.
+One of the ways you can make surviving slightly easier
+is to sell your gun.
+The gun you just got is worth a lot of money,
+and so are bullets, which might be good
+for solving some of the more pressing issues of the game.
+You don't get in that many fights,
+especially if you're avoiding them,
+but being put in a position
+where the best chance of survival
+is getting rid of one of the main things
+a first-person shooter is known for,
+it's even in the name, that's a notable thing.
+Almost everyone I know who made it this far
+sold their first gun,
+allowed themselves to remain vulnerable
+for the chance to maybe not die of something else.
+You can also learn to hold on to certain objects
+to trade for better things.
+In trash cans, you can find all kinds of stuff.
+Sometimes people throw out jewelry
+or needles or empty bottles,
+which you can refill with water for free
+and drink to reduce hunger and increase exhaustion
+or save up to trade for bandages with the town drunks.
+The children in the town will trade flowers
+or nuts or blades for various useful things
+like medicine and bullets,
+so the nuts you got were useful.
+You just might not have learned their value,
+and this is another bigly clever thing the game does.
+The economy isn't as simple as
+I give you money and you give me my delicious egg.
+It's a web of needs and wants
+from a variety of NPCs
+which informs the value of myriad different items
+which you can benefit from if you pay attention and learn.
+The game never hands any of this to you,
+and that makes discovering and using these things
+feel good, like you've worked it out
+and solved something.
+One type of child in the town, this little girl,
+sometimes, very rarely,
+has an item on her called Shmowda.
+They're expensive to trade for, but they're worth it.
+If you use it, it reduces your health to almost nothing,
+but it cures the plague.
+There's a very limited amount of real cures
+available throughout the story,
+so getting your hands on some of these is a real help.
+Even if their downsides are too much for you to risk using,
+other people will pay thousands and thousands
+of rubles for them, almost $50 worth,
+and hey, maybe some of your friends
+might need curing later. Just saying.
+This all works in the context of the story too.
+The Bachelor is in a foreign town
+whose customs aren't like the ones he's used to,
+and so are you, and all this tension
+and storytelling happens largely
+while you're just walking from place to place in a town.
+It's quite an experience,
+and this experience is enhanced by the game's music,
+which is some of the best in the business.
+It takes a front seat during a lot of the walking,
+and it does excellently with that spotlight.
+♪ ♪
+It's intensely atmospheric and moody,
+and when it needs to be, it's strange and unsettling.
+♪ ♪
+It feels, at the same time, natural and alien,
+like you're witnessing a normality
+that isn't familiar to you personally.
+♪ ♪
+Synths are used alongside more naturalistic drums and rhythms
+to further destabilize the setting.
+The music even evolves with the story.
+Each main region of the town has a theme,
+and when that area gets infected,
+its theme changes and becomes even more strange and distorted.
+♪ ♪
+On top of the slightly remixed original music,
+you can now hear a distant and frenzied chanting.
+It's great, and some of the tracks
+sound subtly different for different characters,
+which is awesome.
+The opening theme is a real banger, too.
+♪ ♪
+Except it sounds oddly familiar.
+I can't quite put my finger on it.
+Oh.
+♪ ♪
+Aw, damn it!
+Part three, the writing.
+By now, if you've been pausing to read the text for some reason,
+you'll be very aware of how strange the writing is,
+and whenever you begin dialogue with someone,
+they actually say something out loud.
+When we do not find peace of mind in ourselves,
+it is useless to seek it elsewhere.
+Truth does not do as much good in the world
+as the appearance of truth does evil.
+Oh, wow, that's a good quote.
+I'm gonna use that in a future video
+and pretend a philosopher said it.
+Watch out for that.
+Everyone's very wordy and flowery,
+talking about their dreams and visions,
+and sometimes it's hard to tell if you're discussing philosophy
+instead of the task at hand.
+The game has a very specific writing style,
+one more evocative of your typical novel
+than other games,
+and it is, in my opinion, very well written.
+It succeeds in making you feel transported to a world
+where things aren't as simple as they seem,
+where dream and metaphor are entangled with reality.
+If a sentence feels strange or hard to follow,
+it's doing that on purpose to make you feel weird,
+like you have to put effort into understanding.
+Instead of simply telling you you're a small part
+of a strange universe,
+it makes you feel that way
+by refusing to pull its punches
+with the ideas it's meditating on.
+Try this on for size.
+Do you believe in prophecies, Andres de Matin?
+It depends.
+I agree this may seem inconsistent with materialism.
+On the other hand,
+when your own experience convinces you to their effectiveness,
+you have to take them into account.
+I wonder that myself.
+For a moment, I thought he was driven
+by the same feeling that I am.
+A great man, when unexpectedly betrayed
+by the people he loves,
+will often seek to fill the whole universe
+with his blind spite.
+Yes, the feeling is indeed familiar.
+No one talks out loud like this in real life,
+but that's not a mistake.
+It's part of the point.
+You're stuck in a world where people do talk like that
+and have to untangle it to make sense of things.
+It's very hard to call this game pretentious
+because not only does pretentious mean
+affecting a greater importance than is actually possessed,
+and the game definitely does say important things,
+but it's also too self-aware about how all this looks,
+and it loves to make fun of itself.
+The plays make fun of the characters
+and plot and writing style.
+The cool fourth-wall-breaking executors
+complain about how unwieldy their outfits are.
+It's lovely stuff.
+While this video is definitely going to spoil
+lots of the plot,
+there's lots of really interesting aspects
+I won't have time to go into detail about.
+If you want a more complete breakdown
+and analysis of the three characters' stories,
+YouTuber Sulmatul made a great video doing so
+linked in the description.
+There's such a ridiculous amount of depth and complexity
+that it still astounds me now,
+and even trying to cover all of it is beyond my powers.
+When I was talking about this with Mandalore Gaming,
+whose video on Pathologic is also really worth checking out,
+he offhand mentioned an entire aspect
+of one of the characters I'd completely forgotten about
+and isn't even in Sul's video either.
+This game is about as dense with story
+as a real novel with an equivalent amount
+of words to read.
+Obviously, really getting across
+the cumulative feel of the writing style
+is hard to do in video form,
+and I was never really good at book reports anyway,
+so instead I'll talk about some of the more specific
+storytelling techniques that help the game achieve
+what it's going for.
+Firstly, the constant use of deception.
+Other characters lie to you for all kinds of reasons
+or have access to incomplete information
+and then share it unreliably.
+There's lots of manipulation and hearsay going on,
+and it's left to you to figure out
+what's actually happening.
+Every character in this game has their own end.
+Why does Maria Kane want to keep the Stamatins in town?
+Why does the Inquisitor seem to always want
+to investigate the Polyhedron
+and find an excuse to destroy it?
+Did Olgimsky lock up the termitary
+to prevent the plague getting in
+or has it already struck the place
+and he was trying to prevent it spreading out?
+Are his complaints that you should be looking
+into the Kanes' business first
+a genuine concern for their power plays,
+or is he just trying to get you out of his hair
+by pretending to be?
+This goes the other way as well, of course.
+Sometimes you can play dumb to learn more about someone
+than they'd let on if they thought
+you weren't on their side,
+and sometimes you can lie for your own benefit,
+like you can get a second pistol
+if you tell Andrei you don't have one when he asks you.
+Figuring out and catching someone in a lie
+or successfully lying to someone else
+feels great because you really are gaining ground
+in a struggle for truth and control.
+It's very engaging getting lied to by a story
+and having to put the pieces together yourself.
+Secondly, there's the way you experience
+the same overall story
+from three very different perspectives.
+The Bachelor, for example,
+is a clever and rational-minded man,
+but he's so obsessed with pursuing
+his specific lines of inquiry
+that he spends a lot of time getting tricked
+into doing busy work or ignoring the real story,
+and when he is trying, he can be pretty bad at it.
+He's an outsider, but rather than working
+to gain people's trust and get on a decent footing,
+the player's text options relate that the character
+they're inhabiting can be a total asshole,
+but could I please offer you a piece of advice?
+I need no advice.
+I mean, look at this choice.
+This is something The Bachelor thought to say.
+You're supposed to be asking this guy for help, Daniel.
+What the fuck are you doing?
+Several characters in the story have the power
+to predict the future,
+and The Bachelor has the power
+to be a dismissive piece of shit to all of them.
+The Bachelor says things that he must think
+in his head sound really cool,
+but to say to another person is, like, super weird.
+You are broken, Lara.
+I, on the other hand, am used to winning.
+At numerous points in the game,
+you can just randomly say a Latin phrase
+to try and sound clever.
+Medica morbo adhibe.
+Asperty lies to The Bachelor about who's responsible
+for the town's water supply being destroyed,
+but the guy who actually did it just made a mistake.
+She's buying time for him to get to safety
+by sending you on a wild goose chase
+because she rightfully believes The Bachelor
+will try to fucking kill the guy if he gets the chance.
+The Bachelor is such a piece of shit.
+Look how he talks to this poor woman.
+This is incredible characterization.
+Like, you're just stuck in the body
+of this pretentious buffoon. It's great.
+In conversation with the Haruspex,
+Asperty casually refers to The Bachelor
+as the prickly prick that'll bury us all.
+Bachelor's plot is largely a struggle to do
+what seems obvious to him with his degree in medicine
+but which conflict with the values
+of the people of the town.
+He wants to inspect Simon's body,
+but the Kains have a family ritual
+where bodies are left unobserved for 24 hours.
+Then later he wants to dissect an infected body
+to study the plague, but the local culture
+forbids any kind of defilement of the body,
+including surgery and autopsies.
+It's a special right given only
+to special families of medicine men, the Menkhu.
+The Bachelor spends multiple days
+literally and figuratively fighting
+the people he's trying to save
+to the point of getting arrested,
+attempting to subvert their laws
+so he can help sort things out.
+By the end of this, Dankowski has a very low opinion
+of the townspeople and their traditions
+and decides he has to work within them
+to get anything done and turns to someone
+who can do the things he can't.
+Over the course of his story,
+Dankowski finds himself siding with the characters
+who appeal the most to his belief system
+about the world and against the more folksy wisdom
+of the Haruspex and the supposed miracle working
+of the Changeling.
+All three characters play through
+the same 12 days, and these stories aren't separate.
+Whichever character you play,
+the other characters are dropped in the world too
+and follow their stories as well.
+You even interact with them as part of your story.
+You cross paths with the other characters quite a lot,
+but you never really have an understanding
+of what the other character's path is.
+Early on, it sounds like the Haruspex is responsible
+for the deaths of both Simon and Isidore,
+though some people vouch for his innocence,
+but then you find out that Isidore is his father.
+Would he really just kill his dad like that?
+But then it turns out the plague
+might have killed those people,
+as far as you know anyway,
+but people seem to be saying he's going around
+killing people now.
+They're calling him the Ripper.
+I'd wondered if maybe you play a serial killer in his plot.
+When you talk to him, he seems reasonable
+and like he's trying to make a cure
+for the plague, a panacea,
+but both you and Dankowski seem wary of his methods.
+He's using a kind of medicine that seems kind of folksy
+and a bit made up, so you kind of ignore it.
+He's got his own shit to deal with,
+something about a guy called Foreman Oyun
+and what a big problem he poses.
+Dankowski never even meets that guy, whoever he is,
+but because he's a trusted member of this culture,
+you need him to do some stuff for you.
+For part of the main plot, you have to help
+break him out of a prison to help you
+because the governor doesn't believe he's innocent
+of all the shit he's heard about him at this point.
+Basically, when you're playing as the Bachelor,
+the Haruspex seems a whole lot like a dangerous weirdo
+whose help you happen to need,
+but when you're playing as the Haruspex,
+his side of the story actually starts to make sense,
+and that kind of asymmetrical storytelling
+isn't something you tend to get in video games.
+In keeping with the unsettling
+and anxiety-inducing design of the rest of the mechanics,
+the game's dialogue system deliberately frustrates
+your ability to fully understand the story too.
+When you're talking to someone, you often have the chance
+to ask questions or make observations,
+but often in a chain of dialogue you can't come back to.
+There aren't really dialogue trees here.
+You ask one of several things, and that's your lot.
+Sometimes dialogue choices exit out of the conversation
+with no way to go back and progress it.
+The only way to learn absolutely everything you can
+is to load a lot of quick saves around dialogue
+or try to only ask questions
+you think you don't already know the answer to.
+There is absolutely no way this wasn't intentional.
+The game wants you to feel trapped in dialogue,
+so you have to think carefully about what to ask
+and if you can trust those answers to ever learn anything,
+and you can't go back and ask the other
+without the inconvenience of loading a save.
+You have to figure out what thing your character should say
+which won't end the talking if you want to learn more
+about what's going on, so you learn to talk manipulatively
+instead of truthfully.
+Do you really need to tell someone
+you think their idea is bad when you can play along
+and learn more?
+It makes even dialogue somewhat tense,
+uncertain what option will end the talking.
+Take into account it's possible to fail quests
+by saying the wrong thing,
+and you have a great system nestled precisely
+in the fact it seems unforgiving and incomplete.
+The system only feels bad if you're trained to expect
+to be able to go back and learn everything you want,
+but as we've just spent over 40 minutes covering,
+the game's about not getting what you want
+and hating people for it.
+One thing that complicates discussions of the writing
+is the fact that the game has had
+two English translations now.
+The first, which came out when the game was released overseas
+in 2005, was notoriously so strange
+that some sections of the game are borderline impossible
+to understand without a guide or a philosophy degree,
+and some sections were even taken out completely
+for foreign releases because they just didn't make sense.
+The HD remaster has a new, improved translation
+and has the cut parts put back in.
+It also has new voice recordings,
+which is good because the last ones weren't great.
+Your sensitive hands kill more often than present life.
+You will inevitably cause harm,
+and this smartass won't consider the losses at all.
+You both lack mercy.
+See, that's just not fitting at all.
+The Changeling is an ambiguously magical little girl,
+not an evil, elderly crone witch.
+Simon, the land has cast out a monster
+from the bowels to bridle his impudence.
+Katharina. Oh, sorry, she's Katharina in this version.
+Is one of those clairvoyants I mentioned earlier,
+but she's also whacked out on morphine most of the time.
+This voice really isn't appropriate for her.
+I need morphine.
+Yeah, that's better.
+The new vocalists are much more fitting
+and better directed, too.
+They would have had to re-record the vocals anyway
+because the translation they were going from was pretty bad.
+For example, there's a cultural term
+the Haruspex uses a lot to refer to the Bachelor,
+uh, oinon.
+Go, oinon.
+I need time to pick up my tools.
+Um, the original vocalizations,
+well, they're left a little bit to be desired.
+Go, onion.
+I need to collect the tools.
+This epidemic acts as if it has a mind of its own.
+This disease behaves as though it has a mind of its own.
+Yeah, see, maybe they forgot to delete a sentence there.
+I don't know.
+Traces of the supernatural are found more often
+than most reasonable and wise people would like.
+Mmm, not really feeling it.
+Chimeras that had been...
+Ha ha ha ha!
+Chimeras worship...
+Okay, that's a little better.
+That sounds like it might even be a way of saying it.
+It's Chimera, right?
+Oh, God, I don't even know anymore how to pronounce...
+Chimera. Please be Chimera.
+Chimera.
+What? WHAT?!
+Screwed this one up.
+Needs fixing.
+That is not how you pronounce Chimera.
+It sounds like someone machine-translated
+the original Russian script into English
+then went through doing right-click thesaurus
+to make it sound smarter.
+It's tough to pass and it really throws me off.
+Every time a character's side of a conversation
+turns out to be three lines of this kind of text,
+my brain groans at me and I have to pause for a sec
+to mentally prepare to read it.
+The game's weird writing was like that
+in the original game too.
+Russians don't walk around talking like this.
+This is just how it was written.
+I originally thought this line in the old translation,
+immortal dragon, was weird,
+like they were trying to refer to Simon
+as a mythological creature
+but accidentally refer to him as a creature
+that we have a lot of visual connotations for.
+The new one says Leviathan,
+which seems more appropriate.
+If you call someone a Leviathan,
+it sounds metaphorical and less literal,
+but I checked and the original Russian version
+calls him an immortal dragon too,
+and dragon doesn't have any special metaphorical meaning
+in Russian. It just means dragon.
+It's just a weirdly written game
+that the old translation makes even weirder
+by taking it way too literally,
+but there's an interesting intersection going on here.
+You see, while the translation is improved,
+at least in my opinion, the sense of strangeness
+in the unforgiving and alien culture
+of the strange town was completely intended.
+Some people actually defend the older translation
+for adding to this feel.
+Like, some people will actually say
+that the worst translation is better
+at getting across the feel the game is going for.
+Now, we're gonna get into some subjective territory here.
+We're gonna have to peel away a few layers
+of the onion of interpretation,
+but while I can see that argument, I...
+Phony! You're a fucking phony!
+Okay, fine.
+I have something embarrassing to admit
+about my relationship with this game,
+which really throws my pretentious hipster credentials
+into question.
+You telling him you're a phony yet?
+Yeah, I'm doing it now.
+Are you doing it?
+Y-y-yeah, I'm doing it.
+Are you doing it?
+Get out of my fucking video!
+You see, I have two failed prior attempts
+to make it through this game.
+In 2013, I found the Rock Paper Shotgun articles
+by Quentin Smith, hallowed be his name,
+and found them really convincing on the subject
+of how games could be.
+They really opened my eyes and changed
+how I think about gaming,
+so I decided to try the game for myself.
+The original translation bounced me right off.
+It was a little too much for me to want to sit down
+and put time into when I bought it in 2013
+and had a degree to pretend to work for
+and Gundam to watch,
+and I actually took a picture on my phone
+of the funniest thing about this experience,
+which was when the most understandable sentence
+I'd read so far was a character apologizing
+for if they don't make much sense.
+I was like, yeah, thanks,
+so I stopped.
+Then a couple of years later, I tried again,
+pushed past my initial problems,
+hated being alone with my thoughts
+when I was walking around the town
+because most of my thoughts were about
+how good Turn A Gundam was,
+and basically did such a bad job
+I was dying over and over on day two
+and realized I'd have to go back
+and gave up.
+So I spent years agreeing with critics,
+convinced of their arguments
+that games could do more things
+than be viscerally entertaining or mechanically fun,
+despite failing to play the central game
+many used in their example
+of the value of negative experiences.
+It was too negative for me, apparently.
+Only now, with the HD edition
+and the new translation,
+did I finally stick with it long enough
+to truly enter into the experience,
+and I'm glad I finally got to do that,
+and I think I really needed the better translation
+to help bring me in.
+That older version probably has its charms,
+and I'm sure it must considering the game had defenders
+for almost a decade before the fixed version came out,
+but it was certainly too much for me.
+However, even the new and improved version
+of the game still has its problems.
+We've already covered aspects of the game
+that are just not gonna be for everyone.
+The slow pace, the tone,
+the feel of the gameplay and mechanics.
+Now let's talk about the actual problems.
+♪♪
+Part four, the jank.
+One thing that's absolutely necessary
+to successfully progressing the story
+is to read your mail.
+You get letters from people over the course of the day,
+and the only way to know you get them
+is to know you get them,
+and the only way to read them is to hit the L key
+on your keyboard to open up the letters menu.
+The game doesn't tell you this.
+The game's tutorial, amazing in its own way as it is,
+fails to tell you one of the most critical things
+you need to know. If you don't read your mail,
+you straight up will not know what to do on some days,
+and as far as I can tell, nothing in the game tells you
+unless you check your keyboard options.
+This is a huge oversight.
+The game does do interesting things
+with not giving you proper information,
+like it never tells you that food prices
+are about to ruin your life, or it doesn't tell you
+that some of your quests will end in disaster
+and you maybe shouldn't have bothered
+or run away with the money,
+and if someone's not going to get to those moments
+because they didn't understand
+what they were supposed to be doing
+or got annoyed they hadn't even been told
+a core feature by the game,
+it's a genuine flaw.
+Speaking of the flaw...
+Hear that thud?
+When you have too many items in your inventory,
+the item drops on the ground in a bag
+and you have to drop something else to pick it up.
+If this is a plot-important item,
+not hearing that and looking down to swap something out
+could cause a lot of problems.
+Ha ha ha.
+I think the game could have done a much better job
+of letting you know when you don't have room for something.
+This is a section from the changeling story later on.
+I can't pick up this bag because my inventory is full,
+but the game has no way of telling me,
+so I'm just sitting here getting stabbed to death
+and then I have to load a save and drop something
+in order to pick this up.
+This isn't as critical,
+but it showcases the problem in a funny way.
+If you sneak up on a rat
+instead of letting them see you and chase you,
+you can pick them up and actually use them
+in rat races later on,
+but if your inventory is full,
+they just turn into a bag with a rat in it.
+If you can't progress the story
+because you dropped something
+or you're too busy micromanaging what's in your inventory
+in case you get given something important,
+then you're being made to miss out
+on what's good about the game
+by a poorly implemented mechanic.
+Pathologic is already not for everybody
+and the mechanical stuff like this only detracts...
+Oh, fuck!
+The mechanical stuff like this
+only detracts from what makes it truly unique.
+There's a lot of jank in the game.
+AI bugs out if you stand in the wrong place
+during fights, spins in circles,
+or stands still and waits to die.
+You can get stuck in level geometry sometimes.
+The physics like to explode.
+The thing is, a lot of these sorts of problems
+are a result of the game existing at all.
+Like, you could spend a ton of man hours
+making the AI work perfectly in fights
+that aren't on completely flat ground,
+or you can get the game out
+before your team goes bust,
+and in many ways, much like Eye Divine Cybermancy
+or Vampire the Masquerade Bloodlines,
+AI bugs are a good thing.
+They're a reminder of how much bloody work it took
+to whip this thing into existence
+with the available tools.
+I still shudder when I think about
+how to get the source engine to do things
+I or Vampire did, and Pathologic's engine
+seems like it was made out of whole cloth.
+Do you have any idea how hard that is?
+Video games are hard to program.
+It takes years of work to make something good.
+Games, as a rule, even the stable-looking ones,
+are usually at their core hugely hacked together
+to barely do whatever they do,
+and even what seems like simple, slight changes
+run the risk of absolutely obliterating
+everything you hold dear,
+so a lot of the game's weakest aspects
+feel like a compromise for the inability
+or instability of the engine.
+In the story, for example, sometimes characters interact.
+They talk or get one another to do things,
+but while you're present,
+characters are never doing anything.
+They're just standing where they're supposed to be standing
+and you go over and talk to them and you get the impression
+they're in the middle of doing it
+or taking a break or something.
+Sometimes characters meet up to discuss something
+or get attacked by soldiers and escape,
+but it's always just happened when you walk in
+and everything's already over whenever you're there.
+It's not super immersion-breaking,
+but a little more interaction
+or being able to watch the characters do the things
+you're told they did might have been nice.
+Also, characters sharing a space together
+don't seem to regard each other.
+They either do their idle animation
+and occasionally say lines like they normally do
+just next to each other...
+Yes? What is there to talk about now?
+Are you sick or something?
+How's my brother? Any news on him?
+...or they're completely frozen in place.
+You never even get to watch a conversation
+between two characters.
+Even when they're in the same room,
+you talk to each of them separately.
+Again, these aren't things I would really
+criticize the game for.
+These are reflective of the absolutely minuscule amount
+of budget and time the developers had
+and the limitations of their engine.
+These are things that it would have been nice
+to see working better but aren't a huge problem
+when you're actually playing.
+There's other technical problems too.
+There's this weird bug where the screen's
+entire color palette shifts when certain effects are playing
+like fires or blood splatters during combat.
+I'm sure there's a fix for this,
+but I decided to just live with it.
+It felt in the spirit of things to do that,
+but it's still very distracting
+and definitely not intentional.
+All in all, all the little things like this
+contribute to the overall feeling
+that the creators had lofty ideas
+for their story and world full of characters
+to interact with and environments to explore
+but were limited in what they could accomplish.
+However, it's important not to confuse limitation
+with artistic choice because some things
+in the game are easy to dismiss as problems
+but work in the context of the story that's being told
+and the overall effect being attempted.
+On that note, we haven't really talked
+about the graphics yet.
+Visually, even for the time, the game
+was regarded as pretty ugly.
+Everything is a weird angular facsimile
+of what it's supposed to be.
+The color palette is drab.
+Infected and dying districts tint things
+even uglier shades, and all the minor NPCs
+look the same as each other.
+However, I think that ugliness was deliberate
+and actually serves a purpose.
+Oh, no, it's the pretentious police!
+They found me!
+Oh, Jesus Christ!
+The game is set in a dying rural town.
+The sky is never clear, everyone's sick,
+everything is depressing, and the filters
+that turn up in infected areas make everything
+even more sickly.
+The fairly low texture detail and polygon count
+do end up contributing to this look
+and feel in their own way.
+By being not much to look at,
+the downer tone set by the story and mechanics
+isn't thrown away by looking pretty.
+The game's art design when it comes to characters
+or the more interesting locations is imaginative enough
+that even if it doesn't look visually great,
+you can see what they're going for
+and understand what it's supposed to be at least.
+So, at least in my opinion,
+the art style contributes to the feel.
+I think it works that it looks like this
+and not other ways, but I'm not sure
+if I'm happy with saying that because if the game
+had looked better, like if it was on par with Half-Life 2,
+I don't think I'd have been saying,
+this should have looked worse, would I?
+It's one of those things where because it works
+well enough for what it is, I don't feel a need
+to complain that the graphics are bad
+even though obviously they could be better.
+People can decide for themselves
+where the experience is improved or worsened
+by things like bugs or inventory stuff
+or the combat or graphics or translation
+and ultimately the game is what you get out of it,
+and for some people the line of what makes a game good
+is very far away from anything
+any version of this game is doing.
+It's completely understandable why some people
+don't engage with the game or want to and bounce off it.
+I certainly did that the first two times
+so I can respect that.
+Like I said, it's not fun.
+I can't really recommend you play it.
+That's why I'm here sharing what I think is interesting
+about the experience and not telling you
+to play it for yourself.
+I suffered so you didn't have to.
+["Bloodborne"]
+Once you get over the initial humps
+and learn to deal with the difficult elements,
+cope with the survival mechanics and get good at walking,
+wow, what a phrase, get good at walking.
+Learn to do a repetitive, unsatisfying thing
+on your way to a goal.
+Walking in Pathologic reminds me a little bit
+of doing exercise or cleaning my kitchen.
+It's not fun, but it's important to learn how to do it
+or the empty cans of kidney beans that still have some juice
+and a bean or two in them you left on the side
+to figure out which bin to throw them out in
+start to smell after getting left there
+for a week and a half.
+That's not a real story.
+Once you figure out what the game is demanding of you,
+it doesn't stay as difficult as it seems.
+I think people tend to overstate the game's unpleasantness
+when it's not a constant.
+It's just an early spike as it teaches you
+what the experience is going to be like.
+Once you get into the swing of things,
+The Bachelor is a cake walk but without the cake.
+I mean, you aren't exactly given no help.
+Almost everyone important trusts The Bachelor,
+and he starts out with some useful items,
+a weapon, decent money, some medicine,
+and he can make a whole lot more during the game
+doing quests for the rich people who trust him.
+It is possible to get on top of the game's economy
+and survival mechanics as The Bachelor.
+It gets hard at times and even harder
+if you insist on doing the good guy things in quests
+like not running away with all the money
+or food you bought for that one quest
+or giving away literally all the money you have
+saving six random people from getting wrongly executed,
+which I didn't do.
+I loaded my save after this cutscene played
+and kept the money, and I'm a bad person for it,
+but even if you do all the good guy things,
+if you know what you're doing and take the opportunities
+that are given to you, you can make it through alive
+even while being a good person.
+The Bachelor's story is technically quite hard
+but ultimately forgiving.
+It's a pretty balanced experience all in all.
+Anyway, the Haruspex's story begins with you
+bleeding to death.
+Upon arriving at his hometown via the train station
+after ten years away studying surgery,
+the Haruspex, Artemy Burakh,
+has been stabbed repeatedly in a fight
+with multiple people who believed him to be a murderer
+trying to escape via the station.
+Artemy's just got here and he's already bleeding out
+while wanted for his own father's murder,
+and this isn't just a cutscene that happens
+before the game starts. Oh, no.
+You begin the game at the train station
+surrounded by corpses with your health low,
+your reputation even lower,
+and your hunger and exhaustion meters
+already half full.
+Now if you were wondering why the Haruspex
+did what he did in his playthrough,
+here's the first of many reasons why.
+It turns out that for Artemy,
+everything was fucked all the time.
+Yeah, sure, the Bachelor playthrough was pretty hard.
+You maybe even figured out how to play it
+and not die too much.
+I bet you thought you were good at this game.
+That's where you're wrong.
+Daniil Dankovsky's fun step vacation
+was just the tutorial
+for Artemy Burakh's tormentous nightmare.
+♪♪
+Some people refer to playing the Haruspex as hard mode,
+and I must admit, at the beginning,
+it is a little bit like getting stabbed in the dick,
+but after that it gets much worse.
+Remember that horrifying moral quandary
+as Dankovsky where you could risk
+six innocent people getting executed
+if you choose not to get involved in something
+that isn't your business anyway?
+The Haruspex has a moral quandary
+a million billion times harder,
+and it's his first quest.
+After getting chased into the warehouse territory
+by an angry mob, you go inside
+and meet a gang of children.
+This gang was there in the Bachelor's playthrough,
+but you only really visited them, like, once.
+They weren't really very interested in talking to you,
+and the Bachelor was too busy sucking up
+to the important people to care about a bunch of children.
+When you talk to Notkin, their leader,
+he says they have a rebel who stole something
+from them to defect to a rival gang.
+He says if you do him the favor of killing them for him,
+he'll give you a gun and some ammo.
+Now, I don't want to tip your hand as to whether
+a gun might be a useful item to have in this playthrough,
+but as soon as I left the building,
+a man tried to beat me to death.
+Remember that reputation mechanic?
+It turns out that when it's low enough,
+in addition to shopkeepers not trading with you,
+all regular NPCs will attack you in the street.
+Oh, and because these people are just law-abiding citizens
+attacking a wanted criminal,
+killing them in self-defense is a crime,
+and your reputation will drop even further.
+Ah.
+Mmm.
+So either you run away to preserve
+what reputation you have left
+and try to do good things to correct it
+or fight back and make everything worse.
+Good luck, fucker!
+Have those guys seen me?
+Yep, they've seen me.
+I feel very seen right now.
+Since fighting is more of a fact
+of the Haruspex's short life, yeah,
+having a gun would really help with that.
+So you go out into the steppe and...
+Oh. Oh, fuck off.
+Of course. This was a gang of children.
+Of course the rebel member is a kid.
+So you can tell him off and send him on his way
+for a minuscule reputation boost,
+and if you kill him, it drops a bunch
+because, you know, you've killed a child,
+but your reputation already can't get much worse,
+and Notkin's offer of a gun is a pretty big deal,
+and this kid has a schmowder on him.
+It's one of the critical items.
+It's basically the one thing in the game
+you can't pass up an opportunity to get.
+Plus he's in a gang, so he knew the risks.
+So you can get a gun super early on in Artemy's playthrough
+but at a significant moral cost.
+Obviously the kid is just polygons,
+but if you take the roleplaying seriously
+or even just stop for a moment and ask yourself
+if you would do this in real life if it meant survival,
+there's a lot of feelings to unpack here.
+I mean, let's recap.
+In many modern RPGs, child murder is still a thing
+that won't even go on the table.
+Get on the fucking table, MacReady!
+Oh, I'll be back for you in Fallout 4, fucker,
+when you're old enough to die!
+In Pathologic, one of the most taboo things
+there is in gaming is one character's first quest
+and there's significant personal justification
+for going through with it.
+You are dying and you need the stuff
+you get for it desperately.
+You just have to find a way to live with the fact
+that you are now wanted for a murder you definitely
+did commit along with the one murder you didn't.
+Now it's not all bad for the Haruspex.
+Okay, it is, but he gets one thing.
+As a Menkhu, he can also dissect corpses,
+a thing the Bachelor had to get you out of prison
+to do for him.
+Every corpse you come across carries a heart,
+a liver, one kidney,
+I don't know, just go with it,
+and some blood.
+These grisly items form a new kind of currency.
+Various characters in the game will trade you
+really useful stuff for these,
+opening up an entirely new black market economy.
+Characters who wouldn't even talk to the Bachelor
+are now an extra tool for survival
+if you know where to look.
+Give me the herbs, worm.
+Artemy's father's secret lab has tools to make medicines
+that can raise immunity and lower infection super easily
+making him infinitely more survivable
+when it comes to the plague than Dankovsky
+if you put effort into perfecting the recipes.
+They work like the medicine you've used before
+but much stronger and with much less downsides
+if you get them right.
+I really like the asymmetrical storytelling
+that's happening with this aspect of the gameplay.
+Not only is it just an extra layer of fun stuff
+to learn and master to survive in the town
+and it feels good getting it right,
+but you're also seeing the sides of the world
+that Dankovsky's beliefs just denied him access to.
+He thought that this medicine was made up
+and here it is keeping you alive
+even if you get infected as Artemy
+and actually it's really hard not to as him.
+It's much less of a problem
+because of all these herbal remedies you've got
+but that's about it, so you're fucked,
+but once the plague becomes a problem,
+you can live long enough to be killed by something else
+like this great bit where as soon as you leave a building
+it spawns two muggers outside
+and they both throw knives at you
+which kills you instantly.
+At the very least, if you have to defend yourself
+and lower your rep, you get to keep whatever
+was in their pockets and their meat pockets
+and with the new economy,
+maybe not being accepted by society
+isn't as much of a death sentence.
+I really do feel like Burak doesn't enjoy
+unnecessary violence.
+He's an educated man.
+He seems quite noble in a way.
+He wouldn't do it if he didn't have to.
+It's unbecoming of his station.
+Wait, does that guy have a shotgun?
+Oh-ho-ho-ho-ho-ho-ho!
+Getting a shotgun. One second.
+Gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme.
+Getting a shotgun on day one feels a little broken
+after how late I got one as the Bachelor,
+but what makes it extra engaging
+is the knowledge that I'll probably need it.
+Selling weapons as the Harrisbacks
+is even more nail-biting than before.
+Just because of the way his campaign is set up,
+you will need everything you could buy with that money
+even more desperately than before,
+but you also kinda need the g-
+Wha-come on! What the fuck?!
+There's five guys?!
+So it's about now that I realized why Artemy ended up
+with his reputation as the Ripper.
+He was in a desperate place,
+so he was forced to make difficult decisions,
+and the few options available to him
+involve getting his hands dirty.
+The story makes a lot of sense now.
+He wasn't a serial killer.
+He was a guy who was in the wrong place at the wrong time
+and has to fight to survive
+and solve his own father's murder
+and maybe help the town,
+and one of his skills happens to be surgical ability.
+Luckily, there are some chances to redeem yourself.
+You hear one of your attackers from the opening
+got away and is bleeding out in the graveyard.
+This guy needs a blood transfusion,
+and if I save his life, maybe he'll help clear my name.
+So you traipse all the way across the entire town
+to get to the hunchback who will draw some of your blood
+for you if you have enough health to spare.
+Pick it up.
+Don't forget to pick it up this time
+or you'll have to come all the way back again!
+And then take a long stroll all the way back.
+Did I say stroll? I meant to say...
+Seven guys are chasing me.
+Oh, God, stop it! Leave me alone!
+I'm a good person. It's just a misunderstanding.
+Oh, thank God, a sewing needle.
+Hey, kid, take it. Thanks for the medicine.
+I'll be needing that. Anyway, back to being chased.
+The walking in the easy mode, the bachelor's playthrough,
+was pretty tense at the best of times,
+but now it's an active fight for survival.
+Leave me alone, please!
+Just let me do a good thing!
+Why don't you try walking a mile in my shoes?
+You know what? Don't put your feet
+anywhere near my shoes.
+You can all put both of your feet
+in the grave.
+Look, don't criticize my one-liner, okay?
+I'm under a lot of stress.
+♪♪
+♪♪
+-♪♪
+-♪♪
+-♪♪
+-♪♪
+-♪♪
+Ooh, a lemon.
+-♪♪
+-♪♪
+-♪♪
+And blood transfusion. I did it!
+I saved a life!
+-♪♪
+-♪♪
+Yay!
+Now I'm well on my way to clearing my name,
+and I'm only mostly poor and exhausted
+and hungry and dead.
+Fuck!
+So remember the perspective thing I talked about?
+The Haruspex, as a former local of this culture,
+is trusted by the people who hate the bachelor
+and spends a lot more time in places
+the bachelor only got to go once
+and then got the shit kicked out of him for going to.
+Oh, yes, fucking get him, mate. Yeah!
+So you see a completely different side of the story
+and of the town since you spend time
+being public enemy number one.
+The reputation mechanics basically didn't come up
+in the bachelor's run unless you killed people for no reason,
+but now you have to face the problems
+having a low one poses and build it back up to survive.
+It's hyper-engaging, not just because it's hard
+but because you remember how it was before.
+It's the same conjuring trick as day two's food shortage.
+Everything is different and scary all over again.
+I love it. It's hard. It's punishing.
+Arguably, it's incredibly unfair, but I love it.
+You learn more about aspects of the plot
+the town jester had no idea about.
+For example, you are the reason the Stamatins
+never turned up on day two
+when cowardly little Dankowski tried to flee the town.
+Maria found out about the plan
+and got you to convince them to stay
+by telling them you'd invented some cool new alcohol.
+The Stamatins are really into the local drink,
+an absinthe-like spirit with possibly magical properties,
+and your medicines actually are derived
+from the same ingredients which you can trade
+with Andre for great stuff,
+and then just to keep you on your toes,
+once you get your reputation sorted,
+a few days later it all happens again.
+You get captured by Saburov's men and thrown in jail
+just like you did in Daniel's story,
+and here's where another aspect
+of the multi-character structure becomes clear
+by actively fucking you.
+When you aren't in control of a character,
+they make worse decisions than you did.
+When you talk to him, he talks like the worst
+of the options you could have chosen.
+He's naturally more of a dick.
+He even says random Latin phrases at you.
+It's great.
+I love this prickly little prick.
+He's just so well-characterized,
+and I love how much the game hammers home
+what an idiot he is in this version of the story.
+The big city guest jumps the gun too much.
+Not the mystery-solving type, really.
+But he doesn't know our traditions.
+He's bound to be deceived.
+Even the plays that you can go see
+call Dankowski a piece of shit.
+All in all, we can fight.
+You self-serving jerk.
+Dankowski believes the disease came from the wells.
+He's wrong.
+["Taps"]
+But more importantly,
+he never stages a prison break.
+You have to break yourself out.
+Then, later in the game,
+he fucks up a quest you did easily
+when you were playing as him,
+and then you have to break him out of prison.
+Nice going, Dankowski!
+Okay, okay, fine.
+Don't panic. I'll bargain for your release.
+30 clips of rifle ammo?
+Listen, there's a plague going on.
+We're kind of on the clock here,
+and I'm not giving bullets to a gang of violent kids.
+Someone could get hurt.
+["Taps"]
+["Crying"]
+["Taps"]
+I did it. I saved the Bachelor.
+["Taps"]
+The Haruspex's main quests are to develop a panacea,
+an actual cure for the plague,
+to figure out who killed his father, obviously,
+and to assume his father's duties in the Kin,
+the people of the steppe.
+To do this, he gets to go into the abattoir
+and talk a lot with Foreman Oyun,
+the guy who's currently in charge
+and the Bachelor barely heard anything about
+and who is also bad at his job
+and everyone hates and wants you to replace him.
+He starts giving you trials
+to prove your worth.
+Two of these trials are he gives you a poison
+and you have to do something for him before you die of it.
+I'm not gonna say the trials
+are just tricks to try and kill you,
+but I don't know. Hmm.
+The final trial is to jump into a big hole and die.
+Uh, I'm not really sure about this one, Chief.
+He says it's a spiritual experience
+and your father did this too to take his place in the Kin,
+but no one else says anything about any trials.
+By the way, uh, if you jump in the hole, you die.
+There is a spiritual aspect
+to Artemy's life in the town, though.
+When you're walking around out in the steppe,
+you can hear a cool distant chanting now.
+["chanting"]
+["chanting"]
+A character later tells you the voice you're hearing
+is your father's voice. That's really cool.
+You feel more in touch with the land in his story
+and you kind of are.
+Artemy's medicines are made from plants that grow in the town
+and he can actually pick them up
+when he sees them around the place.
+The wide open empty space you felt was kind of meaningless
+as the Bachelor is suddenly rife with items
+that can help you.
+You start to literally see the town differently
+as the Haruspex and that's just incredibly cool.
+All the least fun bits of the first playthrough
+are ramped up to 11.
+The walking is even more excruciating and circular.
+The survival mechanics are harder on account
+of having no money and low reputation a lot of the time
+and not having as many rich friends.
+Many of the quests are deliberate in-story attempts
+to waste your time and get you killed by Foreman Oyun,
+but you're invested now.
+The suffering is engaging
+and you want to know what happens,
+how it all shakes out for him.
+You take the hours of walking in stride.
+Ha ha.
+You see all the efforts you go to as proof
+that you're willing to go through hell and high water
+to save this town.
+If you didn't like this game,
+you wouldn't get to this point anyway,
+but if you somehow did, it's excruciating.
+It's awful.
+You're having a shit time being bored,
+but if you care about the story,
+if you've got immersed in the atmosphere
+and are engaged fully with the survival mechanics
+and your understanding of how much harder things are now,
+this is the best fucking time I've had in a game in years.
+It's still not fun.
+It's something else.
+This other thing I can't even describe.
+It's satisfying in a way I'm not used to games being.
+In a way, the game is asking you a serious question
+about whether you're willing to be punished to succeed.
+If you give up and close the game and stop playing it,
+you're basically letting the town die
+without your help, aren't you?
+Oyun is trying to make you give up and stop playing,
+and I'm not gonna let him.
+I'm gonna solve this shit, and I'm gonna cure the town.
+Just remember to pick up the quest items
+that drop at your feet or you have to come
+all the fucking way back again.
+You also learn how badly you'd accidentally
+messed a lot of things up as the Bachelor
+without even knowing it.
+Late in the game when you've learned a lot of the mystery
+and figured out at last how to make a cure for the plague,
+but only in extremely limited quantities
+whose source ingredient is almost impossible to get,
+there's one side quest where a giant bull
+mysteriously appears stuck to a giant steak.
+The giant bull's blood can be used as a source of the cure.
+You get some from the bull and make arrangements
+to get it pulled off the steak and rescued properly
+the next day, which might even give you enough
+to save the whole town.
+Then you remember that when you were the Bachelor,
+there was a side quest featuring a staked bull
+surrounded by people which was a clear health hazard.
+What if people congregating like that spreads the plague?
+Or what if they're planning a riot?
+So you nonchalantly ordered the bull to be burned
+and thought nothing of it.
+-♪♪♪
+-♪♪♪
+-♪♪♪
+-♪♪♪
+Dankowski, you prickly prick!
+You've buried us all!
+So make the most of the blood you got the day before
+because that's all you're getting.
+In any case, the Haruspex run is a spectacular playthrough.
+It's excellently designed.
+It forces you to relate to mechanics you felt like you knew
+but in even more knuckle-tightening ways,
+and every time you get one over on the world or Oyun
+and survive to the next day having learned more,
+it feels like a genuine victory.
+Having an in-depth understanding of the layout
+and purpose of each part of the town
+and then getting to be a fugitive from the lore in it
+is so cool.
+You get to see your previous character
+how other people saw him instead of how you probably felt
+while playing as him.
+You learn more about the mysteries of the town
+from a second perspective,
+and you finally have something of an idea
+of how everything slots together.
+All the problems the game has are even more glaring
+after another 20 hours of playing a story in it,
+but I had an even better time as the Haruspex overall,
+and I'm glad I sat through the grim,
+bloody nightmare of the story to the end.
+The bitterest end.
+Destruction is inevitable.
+There's no miraculous way out.
+There was nothing to hope for from the start.
+I can't really talk about Pathologic
+without showing you how it all shakes out.
+It's too cool not to talk about.
+By the final days, the town is a war zone.
+An Inquisitor and later the army have shown up
+to try to get things under control,
+but the commander hates the Inquisitor
+and they won't work with each other.
+He loses control of a bunch of his troops.
+Half of them die of the plague themselves,
+and all they've really added to the proceedings
+is now the army's shooting the diseased in the street,
+so I really hope that you have medicine
+because if you get too infected,
+God, this last section is hard.
+Actually, here's a weird thing.
+If you get hit by the flamethrower,
+it does a ton of damage,
+but it also reduces your infection level.
+I think it's meant to be a metaphor
+for burning out your infection.
+Usually this kills you, but due to a bug,
+if you somehow survive the fire
+because you got out of dodge super quick
+and had a lot of health,
+if it reduces your infection past zero,
+it cures you of the disease.
+Hey, thanks for that, you little fucker.
+The disease itself is chasing you down
+in an evolved, even faster form
+that looks like angels made of blood.
+It's a nightmare.
+The army's brought a giant cannon
+and has orders to shell the entire area to the ground
+to prevent the plague from spreading if it comes to that,
+and it is coming to that.
+However, after a lot of false starts
+and internal politicking
+and generally getting messed around,
+your characters manage to find a solution to the plague.
+The trouble is each character finds their own solution.
+The Bachelor has helped develop a vaccine
+which can protect the healthy from getting infected
+and falls in with the Kains,
+the utopian academics and elites
+who helped develop the Polyhedron,
+the impossible structure next to their house
+that has kept most of the town's children safe inside
+and may now house Simon's soul.
+It's a marvelous, miraculous thing
+that heralds a new and beautiful future.
+He also comes to think the town is a lost cause.
+He's sick of the babblings of its people
+whose customs have prevented him from helping them.
+Over the course of the game,
+the Bachelor's map of the town evolves
+as he learns new things
+and gets more and more disillusioned with his quest.
+To the Bachelor, the town is an ugly and disgusting thing,
+crammed on a hill where it shouldn't
+with its blood and darkness seeping into the soil,
+and eventually the beautiful, mathematical Polyhedron
+joins it, a wonderful thing,
+skewering through the dark earth
+and its corrupted blood,
+bigger and more important than anything else.
+He believes at this point the plague is caused
+by the backwater people's unsanitary practices
+causing animal blood to congeal in the earth
+for thousands of years.
+The Bachelor wants the commander to shell the town,
+destroying it and the plague
+and freeing the Polyhedron of its corruption,
+leaving the survivors to build a new town
+on the other side of the river
+governed by the visionary Kains.
+If the Bachelor gets his way,
+he really did bury them all.
+♪ ♪
+The Haruspex, however, is a local of the town
+and has gotten more involved in the internal struggles,
+assumed his rightful place as the leader of the Kin,
+and finally gained access to the source of blood
+he can use to make a panacea and cure the infected,
+a step closer to defeating the disease
+than the Bachelor's vaccine.
+He manages this after a, let's say,
+mildly tedious final boss fight with the Foreman.
+Yeah, the Haruspex run has a final boss fight in it?
+Punch him 30 times and he does a quarter
+of your health each hit.
+You finally get your revenge on the man who,
+it turns out, killed your father.
+His map screen evolves as he learns too,
+portraying the town as built on the back
+of a giant bull with the veins of the world
+portraying the town as a gigantic organism.
+Then the Polyhedron appears, tearing through the veins,
+injuring the earth itself.
+Blood pools at the base of the tower,
+myopic dreams of utopia
+scraping a nightmarish wound into the earth.
+To the Haruspex, the Polyhedron caused the plague
+and it should be destroyed so the town can heal.
+♪ ♪
+I like these two divergent climaxes.
+Both characters have such different perspectives
+and experiences that you can see how they came
+to the conclusions they did, and it highlights
+their differing philosophies about the world
+and how to live in it.
+Dankofsky wants to transcend the flesh
+to defeat death itself,
+to build wonderful and impossible things.
+He doesn't really care about average people.
+He feels like he's too important for them.
+He doesn't even like them, really.
+His ultimate medicine prevents infection,
+shields you from the plague,
+but doesn't actually stop it killing the people it gets to.
+An ounce of prevention might be worth a pound of cure,
+but what about all the people who need curing?
+They get written off, not just by his version of medicine,
+but the town itself has to die for him to be certain
+the plague is dead with it.
+He'd rather destroy something
+than risk it spreading the disease,
+a mistake that actually helped doom
+the creation of more actual cures.
+Every choice he made was understandable,
+and yet it was never enough to actually save
+most of the people of the town.
+Artemy is a polar opposite.
+He's more concerned with curing the sick
+than protecting the healthy.
+He gets down in the dirt, the bowels of the earth,
+and makes tough sacrifices,
+even killing innocent people,
+but he does it compassionately
+to try to end the suffering for real,
+and protecting the townspeople means protecting them
+from the high-minded idealism that led to the negligence
+that failed to prevent the plague early on
+and invented the structure
+that caused it all in the first place.
+A lot of this stuff is very ambiguous.
+There's a lot of ways of looking at it,
+but at least in my interpretation,
+the game seems very concerned with the tensions
+between the utopian dream of a better world
+and the actual people who have to build it
+and live through the follies that come with these projects.
+It's hard not to notice this Russian game's parallels
+with the history of the Soviet Union.
+As for the changeling, ah, I can't be bothered.
+I mean, come on, do I really need to do
+a third 20-hour playthrough and then explain all of that?
+I'm sure nothing that interesting happens in it.
+These endings don't just happen on their own, however.
+Left to its own devices, at the end of the 12th day,
+the army destroys everything and the bad ending happens.
+In order for your character to successfully get their ending,
+none of their bound can be sick.
+They have to prove that they're a good doctor,
+which means doing the main quest on time every day,
+and if you didn't, you have to cure the ones that got sick.
+You can do this by using the panaceas or schmowders
+you found over the course of the run,
+so if you didn't use them yourself
+or sell them for tons of cash,
+they're a kind of get-out-of-bad-ending-free card
+per person who got ill.
+If you prove you've done your duty as a doctor,
+you're let into the cathedral to argue your case,
+and when the day ends, you get your character's ending.
+Yay! The end.
+♪♪
+But on the same day, you also get letters
+from the other two characters.
+They both still have their own ideas
+for what needs to be done about the plague,
+but because you weren't in control of them,
+they kept messing up.
+Their plot lines weren't quite as successful
+as they could have been,
+and a bunch of their bound caught the plague.
+They plead with you to help cure them
+so they can argue their case too,
+and if you cure all of them,
+you can invite them to the cathedral
+and actually pick their ending instead of yours.
+You can tell the commander to go with someone else's idea
+if you get them a seat at the table.
+Then you get their ending instead,
+and in the classic HD edition,
+you get an achievement for it.
+That's nice. You get that ending instead.
+Cool.
+♪♪
+But if you do manage to invite someone else,
+something else happens too.
+You get a letter from the powers that be
+inviting you to the Polyhedron.
+You only go there, like, twice as the Bachelor
+and once as the Haruspex, and you never go very far in.
+Only those with young, unsullied, creative minds
+can see it for more than a series of small rooms.
+This time, you can descend to the very bottom
+to meet the gods of the world.
+Major spoilers from here on out, folks.
+This is the secret shit half the people
+who finished the game never even learn.
+Here we go.
+♪♪
+That model looks a whole lot like the town
+with the Polyhedron sticking out, doesn't it?
+Oh, fuck! It is the town!
+You're in a garden, and two giant children are there
+surprised that their doll has come to life.
+The town, everyone in it,
+and the plague are just an imaginary story
+told by two kids in a sandbox.
+They tell you you're a toy,
+and you can complain about your fate
+and how unfair being not real is at them,
+but it's all futile.
+You can't change anything.
+They're kids playing God,
+and you were their imaginary friend,
+a doll who briefly got to question his masters
+before returning to the game.
+So, uh, this ending is pretty divisive,
+to say the least.
+It really annoyed some people.
+There's plenty of posts out there
+about how much it messes with them.
+This happens 20 to 30 hours in
+to a story you've been super engrossed in,
+and if you do really good at the story,
+the secret extra revelation is that none of it was real.
+It was all in vain.
+In fact, as Dankovsky,
+your mission statement finally changes here
+to tell you it was all in vain.
+After a whole game of staring at Dankovsky's quest
+to defeat death,
+it finally changes to acknowledge
+all his quests were always pointless.
+He was never even real.
+I mean, this is equivalent to a movie
+all turning out to be a dream.
+It's a bit of a kick in the teeth, honestly.
+In a way, it's the ultimate depressing move
+to have worked this hard and suffered so much
+and then to be told you were just a toy.
+It's so much, so mean,
+and yet it's exactly what Pathologic
+has been doing the whole time.
+Even right at the end,
+they still managed to hurt you
+one last time.
+♪ ♪
+But guess what?
+There's an even more secret ending.
+There's an even twistier fucking twist.
+If you saved both other characters bound,
+which as either character is hard as hell
+since it requires all the panaceas you can possibly get
+in their quests and the couple schmowders you can get,
+which, let me remind you, requires child murder
+plus maybe a few extras from trading with this kid
+who barely turns up and rarely has a schmowder
+to trade for anyway.
+She wants, like, seven flowers for it too.
+I got one from her in 20 hours playing the Bachelor,
+and no, this isn't even the clip of me finding it.
+I can't remember where it is
+because there's, like, 23 hours of footage.
+Once you're done with the dogshit revelation
+offered by the powers that be,
+you get a second letter
+from the people who executed the whole thing
+inviting you to the theater.
+The theater, the place you started.
+It always meant something,
+and now it's going to show you what.
+Remember the first time you got to the end
+of the impossible quiz and it turned out
+you had to have kept all the skips?
+That's how getting here and realizing
+I needed to have never used any of these things was.
+I'm glad I didn't, but wow,
+they give you cures to the status effect
+that threatens you the most in the whole game,
+and the only way to truly win is to never use any
+and save them up for the end,
+and they don't even tell you you were supposed to do this.
+It's genius because it's so fucking mean.
+I mean, it's just...
+Ah.
+Pathologic, man.
+This close to the end
+with the town ghostly and empty
+awaiting the time of my final decision,
+getting a last minute secret invitation
+from the figures behind everything,
+even more behind everything than the gods
+who made the world,
+is so mysterious and satisfying and amazing.
+I can't tell you how cool that last trip
+from the Polyhedron to the theater was.
+In a town with no more dangers,
+no more threats, just me and the empty world,
+the walk to the theater
+is the most amazing journey of all.
+Are these the same guys from the tutorial?
+The ones no one but me could even see?
+Oh, my God.
+These aren't the people behind the events.
+Well, they are, but they're more than that.
+These are the developers of the game.
+Holy shit!
+The final secret is a chat with the developers.
+The first thing they do is point out
+the children aren't real either,
+and I mean they're right too.
+None of this is real.
+Why would you be annoyed by the
+it's all a game played by children twist ending?
+It is all a game.
+You always knew that.
+You're literally playing a game.
+The whole point is that games feel real
+even though they aren't.
+That's what suspension of disbelief is.
+You never really believe a game is real,
+but you briefly pretend you don't not believe
+to engage with it,
+and the game gave you a shitty twist
+just to make you wonder why that twist hurts
+when it's just telling you something you already knew.
+God, what a cool double twist.
+I love this so much.
+You even get to pick whether to talk
+as the character or as yourself.
+God, this is cool.
+In reality, all games are a conversation
+between you and the developers.
+All Pathologic does is rip down the curtain at the end
+and show you that's what it was
+and tell you that's okay.
+It's fun to spend time in a world
+someone else made for you.
+It never had to be real to be real.
+Oh, God, forgive me if my speech is unclear or absurd.
+I'm still reeling from this.
+Even writing the script after playing the game
+and even saying it now,
+I'm just, ah, I love this.
+I can't even communicate it,
+and that's what I've been trying to do
+It's so good.
+Anyway, time to go pick my ending.
+You can say a final goodbye
+to a bunch of the main characters on the last day
+and talk about what might happen next.
+Each of your bound has a thing to say to you.
+As the Haruspex, if you got to meet the creators,
+you can taunt the Inquisitor as the player
+with the knowledge that she's all pretend,
+and as the Bachelor, hey, changeling,
+you've been weird and talking about
+how transcendent and special you are this whole time,
+but did you know this is all just a game
+played by children?
+Wait, what?
+She knows?
+She knows?
+How long has she known?
+What the fuck was happening in the changeling story?
+So, it's all about trickery to you?
+No.
+No.
+I detest trickery,
+but if we ourselves are to suffer deception,
+our hands are no longer tied.
+Clara begins by waking up in a shallow grave.
+The executors tell you you're going to be mistaken
+for a murderer and a thief, but also a miracle worker,
+and your reputation is always going to drop.
+Clara is immediately adopted by Katerina Saburov,
+the semi-magical lady and wife of the governor.
+She sees her appearance as a sign of divine providence
+who will do great things for the town
+and believes you have magical healing powers.
+You also hear that someone with your description
+is thought of as a thief in the town,
+and someone matching your appearance
+was said to have killed Simon or Isidore.
+Clara replies, yes, she is a good person,
+and the bad things she'd heard
+must have been her identical twin sister.
+Huh. Is that an in-character fact about us?
+Or did our character just tell a lie?
+Well, it's both.
+How is that possible?
+Fuck you!
+The Saburovs task Clara
+with proving she has healing powers.
+You hear there's been some violence out in the steppe.
+Some guys tried to stop a murderer escaping the town
+and got fucked up.
+That sounds weirdly familiar.
+And while you're there, you probably get into a fight
+with the looters, and here's where you find out
+that Clara's combat is hilariously terrible.
+I mean that literally.
+I was cackling when I discovered how shit this is.
+Clara doesn't have a fist-fighting animation.
+Instead, she kind of waves her hands around
+all magic-like.
+It's a very slow attack, and it does even less damage
+than the previous character's attacks.
+Oh, and she has tiny hands,
+so she can't use any weapons or guns
+except for one shitty gun that sucks.
+So good luck in fights, says Clara.
+45 hours and two earth-shattering revelations in,
+and the game's still finding ways to destroy me.
+This is the devs saying,
+okay, we know you've probably figured out
+how to fight in this game now,
+so what if it was even harder?
+From any kind of typical design standpoint,
+this combat is horrendous, but it works
+because at this point, you know the developers
+are just messing with you for fun.
+It's like when a close friend is rude to you
+but in a cute way you both think is funny.
+That's the kind of friendship you have
+with the developers now.
+I mean, to even get here,
+you might have even met them already.
+You then find the injured man you're supposed to save,
+and you find out it's not a man.
+It's, hey, remember this guy?
+In this version of the story,
+the Haruspex tried to kill the kid,
+and the kid was injured but got away
+because, you know, he's not as good at stuff
+when you're not in control, that sort of thing.
+From the kid's perspective and Clara's,
+he's a monster who tried to kill a kid,
+but from being the Haruspex, you know what was on the line.
+It's cool storytelling.
+You see Artemy's side, but you also have to recognize
+that he's far from an innocent man here.
+Luckily, he doesn't have as much blood
+on his hands this time, it seems,
+especially since we're going to help the boy.
+Anyway, you lay on your hands to heal the kid
+and complete the quest for, oh, he's dead.
+So Clara's powers, if she has them at all,
+don't seem to quite work how you expect,
+at least not for healing traditional wounds.
+The man who was supposed to serve as a witness
+to your healing hands, far from assuming you're a charlatan
+or a demon or a murderer,
+actually still believes you're a hero though.
+He decides the kid had been judged by your power
+as a sinner and then killed instead of healed.
+He thinks your power is the divine working through you
+in mysterious ways.
+Consider yourself purified.
+You still have to prove you can heal people,
+but he's basically sold on you as a divine being.
+I'm not sure how to feel about this version of the story.
+In a really good way, Haruspex made a very tough choice
+and had to live with it, but I think it might actually
+be even more bleak to have a story
+where a character tries to heal the child of their wounds,
+accidentally kills them, and is heralded
+as a miraculous hero anyway.
+I love this stuff. It's horrible.
+It makes my skin crawl.
+With the harder fighting and the constantly
+lowering reputation you have to actively keep up
+by doing good things, the game is pathologic
+at its most pathologicist.
+You have to do good things all the time.
+Give money away, give up on your medicine,
+kill baddies with your awful attacks, and so on.
+Bachelor has a hard spike on day two,
+and Haruspex has two hard spikes at the beginning
+and partway through when he gets captured,
+but Clara is constantly swimming
+against a current of negative press.
+Someone who looks exactly like her
+has done a lot of bad things.
+You have a new set of Bound, of course,
+all the remaining main characters
+who weren't in the first two's care.
+As always, your job is to protect them
+from getting infected or dying.
+Wait, the Foreman of the Abattoir?
+Oh, that's not gonna end well.
+Clara's story has a lot of little extra things in it
+to learn about character relationships and choices.
+Lots of them are too small to go into depth about,
+but at times it was like a victory lap,
+the writers creating an extra post-playthrough story
+for a character with a magical ability
+that justifies them learning all kinds of new things.
+It's another way of exploring the richness of the story.
+You're still interacting with and causing the story
+to play out the way it does,
+but you have the strongest idea
+of why it all worked out now
+with two stories worth of hindsight.
+When you talk to the Foreman
+who gave the Haruspex so much trouble
+and help him verify Artemy is a legitimate heir
+to his position, this conversation causes him
+to devise the trials he tormented you with
+when you were playing the other story.
+He comes up with them on purpose to get rid of Artemy.
+Thanks, Clara, which is how it felt like as the Haruspex,
+but getting that confirmation is really something.
+On top of that, the thing where the other player characters
+are worse at their jobs is cranked all the way up.
+After the first few days,
+the Bachelor and Haruspex's relationship
+breaks down so bad,
+they're actively trying to hunt each other down
+for much of the story.
+You get letters from their allies asking you
+to find them and warn them the other is coming for them,
+and you can even rat their locations out to each other
+for money and medicine.
+It's fun seeing how the worst possible
+of their timelines plays out
+when you aren't stopping either of them
+from being jerks.
+That said, it's clear that Clara
+is the most rushed of the stories.
+You can tell mainly because a lot of the side quests
+are the same side quest each day.
+For the second half of the game,
+you have three side quests every day,
+and they're always the same.
+Two of them are to warn the Bachelor and Haruspex
+about each other, and the third, well,
+Clara starts getting letters
+or possibly dream messages,
+but it's in the letters menu, from her twin sister,
+the evil Clara who is hiding out
+somewhere new in the town each day.
+If you don't find her based on cryptic messages
+and get her to leave, which takes a lot of sleuthing
+and running around infected houses,
+the district she was hiding in
+will be permanently infected for the rest of the game.
+It's creepy talking to your own character too.
+Whenever you find her in a house,
+she's always facing away from you,
+and it's super weird.
+Dodging the plague in houses
+to find a weird copy of yourself is great stuff.
+You then also have to scare away her followers
+who are hiding out in very hidden places
+you won't think to look, and if you don't,
+that area gets infected too.
+So after the halfway point,
+every day these are your three side quests.
+They're always the same with the slight variation
+being the house that the Bachelor and Haruspex
+reach hiding in is a different place each day.
+You only get given vague ideas of where they are
+and you have to look around yourself,
+and Clara's letters are actually quite cool puzzles,
+I guess, to figure out where exactly she is in the town
+based on your intuition and knowledge of the town
+from two full playthroughs.
+It's quite interesting, but having all three side quests
+be the same one each day
+with no real advancement of the plot really gets to me.
+The other characters had serious cool subplot stuff,
+but Clara just gets busy work.
+I started to skip these quests after a few days.
+There's also very little communication
+that you can heal infected people as Clara.
+Oh, did I mention that?
+I didn't mention it earlier on purpose
+because the game sure didn't.
+When you use your hands on the infected,
+it plays a different animation
+and you get reputation back and they do a little bow.
+It costs some health too, I guess.
+So it's another thing you can do to keep your reputation up
+and it's also a cool trade-off
+because you lose health for doing it as well
+and there's a risk of getting infected
+while you're in those districts doing this,
+but I don't remember being tutorialized
+or told by the game you can do this.
+I only know about this from other videos mentioning it.
+I know Pathologic is a game that prides itself
+on not conveying stuff and letting you figure things out,
+but from a design perspective, this feels like a misstep.
+I feel like if they'd had more time or resources,
+they'd have made this much clearer.
+I mean, they seem to give the implication
+Clara's attack is an attack.
+You use it to kill people
+and it kills the first person you try to heal
+and the first person you actually heal
+happens in a cut scene.
+They do the opposite of letting you know you can do this
+and this only works on these characters too,
+not the people who appear to be in the early stages
+of infection. They just drop dead.
+Like I said earlier, for the HD edition,
+all the character audio was re-recorded,
+but in Clara's scenario, specifically for Katarina
+on around day three, for some reason,
+one of the old voice actor's lines is still in there.
+Nothing threatens your daughter.
+Everyone will die but you will remain.
+I feel like this sort of oversight probably happened
+because development of Clara was rushed
+even for the HD version
+and an old line slipped through and didn't get caught,
+which makes sense. A very small amount of players
+ever get to the point this could happen,
+and I'm glad they spent the time elsewhere
+instead of triple checking all the voice lines
+for every character for every character's story,
+but it's at least a good indicator
+of how generally rushed
+some of the changeling's stuff is.
+It's a minor thing but it points to the major thing
+or at the very least I noticed it and I want to pretend
+that I can make a point out of it.
+Overall, if you were interested in Pathologic's story,
+Clara's route is really satisfying.
+If you're not, it's just more text
+and combat even more frustrating than before
+and yet more walking, but it's much more rewarding
+in forthcoming with information than the others.
+You put the work in.
+You played 20 to 40 hours of story.
+Now lots of the missing pieces you were curious about
+can get filled in.
+The story isn't pulling its punches either.
+They know you've already played the game once.
+I love a lot of sequels to movies and games
+where they don't need to reestablish
+or explain the simpler stuff.
+They can just go nuts with established material
+and ideas and this really hits that spot.
+It gets kind of meta toward the end too,
+so it's all about trickery to you?
+Wherever have you come from?
+No, I detest trickery.
+If we ourselves are to suffer deception,
+our hands are no longer tied.
+It's like Clara kind of knows what's happening
+without having to be told.
+Some of her text options imply information
+she never even learns herself,
+but you know it from the other stories.
+This is some Malkavian shit right here.
+God, I should really make that vampire video
+I teased years ago.
+It's on the pile somewhere.
+Hey, you, what are you doing out of your cage?
+I'll get to you!
+It even starts to become clear what the story
+might really have been about all along.
+Like, what does the Polyhedron actually do?
+People say it can store dreams
+so people can revisit them and share them
+or trap a soul and keep a dead person alive,
+but what does that mean?
+Are souls literal things
+or an ephemeral conceptual thing?
+The idea of someone,
+the presence they can manifest
+through the effects of actions
+from while they were alive?
+Is a piece of my soul in this video?
+Perhaps even surviving after my death?
+I put a lot of myself in my work.
+Am I immortal now?
+In a sense, maybe I am.
+I'm going to say the word now.
+Now.
+When did I say that?
+Looking at the clock, it's 416 a.m.
+on the 9th of November, 2019,
+but when did I really say it?
+I, now, will be 27
+and talking about pathologic forever,
+even if you come back in another 27 years.
+Maybe I'm immortal and freed from earthly flesh
+by existing in the form of a video.
+Maybe the opposite is true.
+Maybe I'm trapped here forever
+and maybe this is worse than being dead.
+Ahem.
+Forgive me if my speech is unclear or absurd.
+You have a lot more in-depth conversations
+along these philosophical and spiritual lines,
+and to me now, the Polyhedron feels like a metaphor
+for video games themselves.
+The rest of the town represents
+the down-to-earth, day-to-day, boring reality
+of walking to places, talking to people,
+getting lied to, being a regular person,
+eating food, getting sick sometimes,
+and eventually dying, but in video games,
+in art, death isn't real.
+You can be whoever you like.
+Games are stories, but more than that,
+a way for people to share their stories
+with others forever, to take part in them
+and live on past the boundaries
+of their simple material existence.
+Everyone who made Pathologic will be dead one day,
+but they'll still be here in this world they made,
+staring out at you in eternal polygons,
+talking to you, sharing their ideas and feelings,
+a hand reaching from the grave to grasp you once more.
+Art is the road to awe, to permanent expression,
+and games are a collaborative expression too.
+You're playing it, interacting, being in it.
+This game is made for you.
+Aren't you a part of it?
+This game is a reminder of the immense
+spiritual value of games,
+to be somewhere else and move and act in it,
+to be a piece of someone else's vision for a moment.
+The Polyhedron represents the uplifting,
+unrealistic, and yet truly real power
+imbued upon us by our ability to have dreams,
+literally and figuratively.
+That's just how it reads to me, though.
+It certainly feels that way at times.
+Speaking of the Polyhedron,
+when you visit there as Clara partway through,
+you get to descend to the bottom
+and meet the gods of the world
+several days earlier than the other characters.
+They're genuinely shocked to see you this time.
+It's like Clara herself has more power
+than the creators thought she would,
+and here explains why Clara is the way she is,
+why there's such confusion about her nature,
+why there's two of her.
+The powers that be are in disagreement
+over who she is and what she's doing.
+One of them thinks she's a thief,
+and the other thinks that she is some kind
+of divine being in their story.
+I think this is actually really clever.
+The powers that be are having competing interpretations
+of this character they've made.
+Clara's quest eventually leads to the discovery
+of how her healing hands work.
+They transform people's blood,
+give them something that can protect them from the disease,
+and if she uses it on stronger people,
+for example, her bound, if they're sacrificed
+and their blood is taken,
+it can be used to make many cures for the plague,
+so she can get seven of her bound
+to agree to atone for their sins
+by being sacrificed to save the town.
+When you describe this to Foreman Oyun,
+he sees it as a chance to undo the damage he's caused
+and agrees wholeheartedly.
+He tells you to tell the Haruspex
+to not bother with the final trial,
+the one where he jumps into a hole and dies,
+since he no longer needs to kill him
+to protect his position in the kin.
+You can straight up ask him what happens
+if he'd gone in the hole,
+and he tells you he would have died
+because, yeah, it's a big hole.
+I left this out when I was talking about
+the Haruspex for dramatic effect,
+but I don't want to not mention it.
+As the Haruspex, you do get Clara cryptically offering
+to assist you, and if you agree,
+when you go in the hole, you instead get this cool scene
+where you can see your own corpse surrounded by executors
+and you can choose someone from Clara's bound
+to die in your place.
+Artemy survives by doing this and then fights the Foreman,
+so it really was a spiritual experience,
+if you let the Changeling into your life at least.
+I guess this is because Clara in the Haruspex's story
+doesn't get her shit together enough
+to realize she can use Oyun to solve
+the plague problem directly herself.
+Anyway, it's very funny to me that in Clara's run,
+the Haruspex is genuinely prepping
+to jump into a hole and die.
+So Oyun and six others agree to make this sacrifice,
+and that's her ending.
+The town and tower get preserved,
+but at the expense of people sometimes giving up
+their lives to maintain it.
+I like this ending. It feels like the reminder
+that for society to survive intact
+requires work and sacrifice to protect itself
+from its own internal tensions and contradictions.
+That sort of thing.
+Clara's map evolutions are suitably miraculous.
+Instead of either the town or the tower being monstrous,
+the tower is a part of the town harboring some new thing,
+a dream, a life, the future,
+and the town is feeding it.
+It's a symbiotic relationship which takes sacrifice
+but which might be worth preserving,
+and the sky is dreamlike reflecting either Clara's
+more miraculous, fantastical perspective
+or her knowledge that the world really is a dream of sorts.
+Clara's first extra ending is nothing special.
+You've already met them once in this playthrough,
+so there's no real revelation here.
+Hey, guys, it's me again.
+Third time round now. How's it going?
+Whoa, fuck.
+Okay, that's cool.
+The game keeps being meta about all the things
+I think it won't address.
+Like, just when meeting the developers
+was starting to become a repetitive idea,
+here it is getting one-upped by the third go-round
+making fun of how that's starting to feel,
+and here in the game, Clara kind of validates
+my thoughts about the town and the polyhedron,
+talking about these characters as if they're fragments
+of real people, and in a way,
+I really do feel like I know these people now.
+I've spent a lot of time with them in their world
+experiencing their creation.
+You can even ask them more directly
+what the other characters' stories
+were supposed to be about.
+It's a fantastic send-off getting to discuss the story
+with its creators.
+Holy shit, that's so fucking cool.
+I talked about this earlier. It is on purpose.
+Oh, man, this is great. I love this.
+I utterly love this. This is the best thing ever,
+and it's so tiny, so small.
+It's the devs showing you all the little tricks
+they used to make you frustrated and trapped
+right there being complained about by you.
+Ah, God, it's excellent.
+You can ask what their plan was with the changeling,
+and they make a joke about how rushed
+and slapped together it was.
+That's fun. I like that they're acknowledging things
+the player would definitely have noticed about this by now.
+It feels personal and real.
+They're not resting on their laurels
+and being pretentious about themes or ideas.
+They're apologizing for things they knew they got wrong
+and even making a joke at the expense
+of this own indulgent last part.
+What a great ending. God, I've loved the story of this.
+I wish I could have gone into more detail about it,
+but just talking about the things that jumped out to me
+the most has taken this long.
+It's been genuinely super awesome.
+Even though it's all fake, it's all just a kid's game,
+and on top of that, it's all just a video game,
+I feel a sense of achievement for having stuck with it
+in a strange way. Also, I quite like how hard
+you have to work to achieve the actual good ending.
+Like, the Bachelor's ending is just, like, fucked.
+He's such a shithead, and the Haruspex's ending
+does kind of destroy a really awesome, cool invention.
+It's only by actually playing through the whole game
+at least twice that you get the chance
+to really get a decent ending for people.
+Breathe it in.
+Actually, no, don't breathe it in.
+You didn't have to play the whole game.
+You just listened to me talk about it
+for a couple hours. Fuck you.
+There are fine things, old boy,
+which are more brilliant when unfinished
+than when finished too much.
+So Pathologic does a lot of very clever things
+to make you feel a way games rarely even try
+to make people feel,
+and I think it achieves its goals fairly well.
+It's an experience I have a hard time recommending
+and which I know to be flawed,
+but which I'm extremely glad I played in full.
+Pathologic is the antidote
+to the entire modern game design ethos.
+It isn't a skinner box that rewards you
+with simpler satisfactions like beautiful splatter graphics
+when you get a headshot or a quest
+that makes you feel heroic and powerful.
+It makes you stare at the abyss of human cruelty
+and ignorance and dares you to blink,
+to close the game and give up.
+I can't think of many other games that manage that.
+I super love this game and its world.
+Even though I don't think I'll ever want to touch it again
+I'm glad I did it all,
+and I feel like I've learned a lot
+about the potential of games
+and the many unique ways games can have
+all kinds of effects on you.
+All that said, and I've said it so much in this video,
+I'm not making this to recommend a 15-year-old game.
+I'm making it because I couldn't recommend
+this 15-year-old game.
+I could barely even recommend it to myself.
+It took years to get around to playing it
+past the first couple hours.
+I had a really interesting time,
+but 65 hours is a long time to spend
+to eventually have an interesting time,
+and I couldn't in good conscience
+inflict that on someone else by telling them to try it.
+Especially not now.
+["Hidamare"]
+["Hidamare"]
+["Hidamare"]
+So, yeah, love Pathologic.
+Amazing game.
+One of the best games ever.
+Artistic masterpiece, but don't play it.
+It sucks.
+Luckily, there exists a game that does everything
+Pathologic 1 does wrong right.
+A game I can recommend so, so much more.
+That game is Pathologic 2.
+You don't have to play one to understand two,
+especially not now that I've told you everything
+you need to know about it.
+When I sat down to play Pathologic 2,
+I cynically assumed it would be a compromised version of one,
+graphically and technically improved
+but lacking the sorts of bold design elements
+that contributed to making the original so unique.
+Like, making a game like Pathologic more accessible
+and understanding for a newer audience,
+making it more engaging to play even,
+would surely mitigate what it did best.
+I've never assumed so wrong.
+It's even more horrifying, even harder,
+and a massive step forward in every possible way.
+Except the music.
+The music in 1 is better in my opinion,
+but the music is still incredible stuff.
+Like, top 10 best music in games, no question.
+The creators made good on maintaining
+the atmosphere and feel while removing the bugs
+and elements that were truly bad
+and took away from the experience.
+They even threw in meta stuff
+for people who played the first
+or even people who knew the twists from the first.
+I learned painstakingly the hard way
+and you just learned easily over one video.
+Perhaps, finally, after all these long years,
+the deep game is here.
+Well, almost here because Pathologic 2 isn't done yet.
+It's not in early access per se
+but not only is it still getting
+what I'd say are critical bug fixes,
+for example, an update while I was making this video
+solved the performance problems
+I would have talked about right now,
+so nice one there,
+but only one of the game's original stories
+is in this version, at least right now.
+The Haruspex.
+It's still a full game because Pathologic
+was three full games already basically,
+but they're going to add more if they can afford to.
+I'd buy the others as DLC or expansions, frankly.
+There was a demo, the Marble Nest,
+a few years ago where you play as the Bachelor for a day
+and they just patched that into the main game
+as an improved version of itself
+and that's awesome too,
+and yes, the Bachelor is even more of a shit.
+I love him.
+Truth does not do as much good in the world
+as its counterfeits do evil.
+God, what a great character.
+I love him so much.
+He's just, he's so well written
+as an insufferable fucker.
+Oh, man, he's great.
+I swear to God I'm gonna cosplay as him
+first chance I get.
+Pathologic 2 isn't exactly a block puh...
+there.
+Sorry, I've spent hours and hours
+recording this voiceover.
+The game isn't exactly a blockbuster,
+smash hit.
+It's a niche sequel
+to a barely known cult classic from Russia
+a decade ago,
+loved mostly by native Russian speakers
+and Western pretentious nerd critics.
+That's not a jab at pretentious nerd critics.
+I'm one of those.
+Did you hear that fucking bit
+about this video having a soul?
+Come on, let's not pretend I'm any better,
+but even if we love it,
+we're not exactly a huge demographic.
+I don't tend to do calls to action in my videos.
+I like to let people make up their own minds
+about what to do with their lives
+or whether a game is for them.
+If you play Pathologic 1
+after I deliberately didn't recommend it,
+congratulations.
+You passed the true test
+by deciding to play the game for yourself,
+and I love you for that.
+Good luck with the fight with Bali,
+and on day one, you can find extra food
+left out on Nina's grave.
+Pretend I left that for you.
+Mwah. Keep the fact
+I didn't recommend the first game
+despite loving it in mind
+when I say you should buy Pathologic 2.
+It still might not be for you,
+but you absolutely must try it to find out,
+and in a world where mainstream games
+are starting to feel like they're converging
+upon the same Pavlovian uniform design
+with only minor branding variations,
+supporting independent work and true experiments
+with the form, even if they don't turn out
+to be something you personally like,
+seems like THE step forward for video games.
+The only other obvious step forward I can think of
+is starting a game developers union.
+Pathologic 1 is the best game you didn't play.
+It's the best game I almost didn't play,
+but Pathologic 2 is better,
+and you are going to play it.
+Go experience one of the most unique,
+satisfyingly hurtful experiences there is in gaming.
+I'd analyze it in detail,
+but that would require spoiling it,
+and you are going to play this,
+so I wouldn't do that to you.
+Not for a while, at least.
+I need time to collect data
+about other people's experiences
+and think about how it achieves the effects it does,
+and I want to play it all the way through three more times.
+Okay, everybody break.
+Go play Pathologic 2 and meet back here
+in, I don't know, six months to compare notes
+for my analysis of the sequel.
+Oh, and whatever you do,
+don't take the traveler's deal!
+You weren't supposed to take the deal, Brendan!
+♪♪
+Hey, thanks for watching all the way, friend.
+My videos are supported by my backers over on Patreon,
+and I love them for it.
+I used to do a thing where I read everyone out
+who backed a certain amount during the credits,
+but I have the best problem ever
+of there being too many people to do that,
+so I'm reading them out one last time
+before I change things over.
+In the future, people who back me $10 or more per video
+can vote on what my next video is.
+I'll have polls for what I feel like working on
+or based on ideas and suggestions you folks give me.
+I always want to do, like, four different things at once,
+so this will hopefully give me some more perspective.
+I'm amazed that I've somehow been
+as well-supported as I have,
+and I'm eternally thankful for being able
+to do ridiculous things like get covered in soy,
+build and destroy a set,
+or spend almost a month playing and reading
+and writing about an old Russian video game masterpiece.
+With your continued support, I hope to do
+even more ridiculous things.
+So for the last time,
+at least for the foreseeable future,
+if I ever finish any of the video games
+I'm trying to make, I'll hide a reading
+of all my patrons' names in there.
+In addition to all the names
+scrolling past the screen right now,
+I'd especially like to thank
+Gay Rosencrantz,
+Eight Goblins in a Trench Coat,
+AtCoinCellPro,
+A Bowl of Creamy Tomato Soup,
+A Cat with Shades and a New California Republic
+First Recon Beret,
+A Deathly Styled 4K Merkin HD Underscore 1080p,
+A Fish Named Nabby,
+A Psychologically Damaged Dragon,
+A. Blinken, Aaron D. Carter,
+Abby Ballinger, Acelyn,
+Ada Hall, Adam Appel, Adam Benzen,
+Adam Melby, Adam Tenku,
+Adam Warsong, A.D. Thornton-Smith,
+Adult Sword Owner, Aidan Crute,
+Al Swigert, Alan Orozco,
+Alicia Lemons, Alex Lemkovich,
+Alex Madsen, Alex Parkinson,
+Alex Walston-Rudolph, Alexis Shambrook,
+Alicia Parker-Martell, Allison Jay,
+Alan Smith, Alice Orris,
+Allison Sugar, All Thief, Amanda Beverly,
+Alistair Thankyouforplayinglifeisstrange,
+Amber Dorsey, Anakin Frywalker,
+Andrea Chen, Andrew Brannan,
+Andrew Gilley, Andrew Harding,
+Andrew Jackson, Andrew Scheimer,
+Andrew Wanker, Andy Karras,
+Anthony Ha, Anthony Paoni,
+Antonin E. Dumenc,
+Aoife O'Brien, April Marches On,
+Arsehole Tep, The Insufferable,
+Artefind Felcantamo, Ash,
+Asher Holy, Astrid Harper,
+August, Orin Shaw, Auspun,
+Avery P. Lookmum. He said my name.
+I'm famous now. Please love me.
+Avi Finkel, Az, Bad Kamish,
+Banjo Hits, Bardic College of Controversy,
+Basugasu Bakuhatsu Bakumatsu,
+Beatrix Williams, Bebo Sloth,
+Beekeeper Gal, Ben Slater,
+Bendic Crogson, Benjamin Davidson,
+Benjamin Roide Delnavoz, Bissot and Jenny,
+Billy Reed, Bleed Red, Bob from Accounting,
+Bongwater T, Bo Scar,
+Bjorn Lammers, Brandon Broughton,
+Brendan Dunsmuir Goss, Brendan Young,
+Brian Johnston, Brian Parr,
+Brianna Maria McKenzie, Bryce Pullen,
+Bridget Ganey, Buddy Sayles,
+Bush, Button, Byron Callan,
+Caden the Dingo, Kate Seath,
+Caleb Romo, Callum Meginson,
+Cameron Dillon, Cameron Ross,
+Charismatic, Casey Explosion,
+Cat Coupo, Kate, Chance Mims,
+Chard Botham, Charles Sizz,
+Charlie Hawley, Charlie Pepper,
+Chloe Coopers, Chris Ragnacci,
+Chrissy Dial, Christian Gatey,
+Christopher Petroni, Christopher Waltz,
+Christy Kamori, Chutney Ferret,
+Kieran, CJ is a hot boy, hot boy, hot boy,
+hot boy, hot boy, hot boy, hot boy,
+Claire the Shambler, Cleaver Bacon,
+Clown Shoes, Colin Andrew,
+Colin Poche, Conor Wilkinson,
+Conorain Keenan, Courtney Dewurst,
+Crazy Wee Monkey, Crittersmai,
+CT O'Connor, Daddy Corbin,
+Dagmar Markerer, Dammit Joe,
+Demousey, Dan Sparks,
+Danny G, Darragh Exton,
+Dark Lady Vanstar, Darkside Flame,
+Darwin Harris, David Barrell,
+David Christie, David Nguyen,
+David Rose, Definitely Not a Robot,
+Der Schilderich, Deus Ex Caffeine,
+Devon's Hands Melt, Darloth,
+Dubella Kaminsky, Dingus,
+Dr. Mike, Dog Summercamp,
+Domas Siodvitis, Dominic Gilfoyle,
+Dominic Rocchio, Donnan, Donovan,
+a person of interest, Doug Carroll,
+DeVoe, Drake Lazarus,
+Duncan Parker Newton Gaines,
+Dungeons and Randomness, Dylan New,
+Dylan Teagan, Dylan Wignall,
+Ayton Goldstrom, Ella Carr,
+LB, Eli Bosnick's favorite sex friend,
+EliJF Winnibs, Eliza Kogan,
+Elizabeth Hamilton, Elizabeth Kubiak,
+Ellie Rogers, Elyse Kennedy,
+Emily Crist, Emma, Emma McCartan,
+Eric Davies, Eric Hunter,
+Erica Oligas, Eric Wynn-Loll,
+Erika Sanwa Subarashi-Ningindes,
+Erin Almas, Etancel,
+Eugene Butler, Evan, Evan Hill,
+Evan Ritchie, Fantaboy15,
+FatboyLikesCake, Findley Bowick-Copley,
+Flagburner, Flarboo,
+Phlebzy, Flexter McSignals,
+Florian Nox, 40 Tentacles,
+Frick aka UnironicLove4Sonic,
+Gabriel Savita Ramirez,
+Garrett Gutierrez, Gary Marshall,
+Gottseinvater, Gracie Lipscomb,
+Greg Day, Haley,
+Haldur Olufsen, Handsome Unlimited,
+Hannah Rees, Happy Kitty,
+Hash Brown, Hattie Masters,
+Havelocks Miggles, Heal Al Gankovic,
+Henry Dolling, Hilary Thomas,
+Heal Webden, Hiram, Hero R. War,
+Hudson Haywood, Ian Earle,
+I Does Not, Imraft,
+Industrial Robot, I Rock As In Granite,
+Isaac Silbert, Izette the Transcripted
+Who Stole Your Bones,
+Jack Alderton, Jack Arnon,
+Jack Davies, Jackie Scroggs,
+Jacob Brood Shoemaker Hamblin Pike,
+Jacob Martinson, Jay Levy,
+Jake Nicholson, Jacob Bruins,
+Jacob Homan, James Adair,
+James Duncan Pfeiffer, James King,
+James Ronald, James Stowe,
+James Wormsley, James Williams,
+James Edwards, Jamie Wallace,
+Jane Lusby, Janet Computerface,
+Scruffy64, Jasmine,
+Jason Harris, Jason Walter,
+Jason's Rage, Jay Calder,
+Jeffrey Theobald, Jeffrey Wickstrom,
+Jelga, Jerry Terry, Jess Golt,
+J.I. Mendaro, Jimmy Alessandrini,
+Joe Tyler, Joanna Roy,
+Joe Rowe, Ulinksys, John Stevenson,
+John's Socks, John Cantwell,
+John Fortescue, who I personally believe
+to be a decent individual,
+John Kieran, John Carlos Rivera,
+Jonah Flam, Jonathan Wardill,
+Jordan Tullis, Jordan Brown,
+Joseph Earp, Josh,
+Josh Doctor of Purgeology Beach,
+Josh Thomas, Josh Watkins,
+Josh the Cellist, Joshua Braddy,
+Joshua Featherston, Joshua Hagen-Fenton,
+Joshua Misrach, Julia Bershawnd,
+Julian, Justin Dutch, Justin Whitney,
+Cameron Fall of the Patriarchy,
+Karl Marx Said Twink Writes,
+Kat McIntyre, Kate Brock,
+Kate J., Katherine Alma-Kaslin,
+Keno Kintany, Kenan Ward,
+Legolas underscore Katan,
+Kevin Thurber, Kit Foley,
+Cold Beans, Commissars,
+KP, Chris, Krista Wallace,
+K. Zvezdorov, Ladies Making Comics,
+Lance Manley, Sorcerer of Sin,
+Lauren, Laurence Hutton-Smith,
+Lavinia, Leftist Tech Support,
+Leah Schuster, Lina,
+Letters and Punctuation,
+Let the Loser Melt, Lester Alfruth,
+Lewis McDermott, Lightcraft Mini Paint Studio,
+Lindsey Bowser, Lint,
+Logan Mears, Loveling,
+Loan Deneve, Lucas Marcelli,
+Lucy X, Luke Swanson,
+Luz Foltex, M. Allen,
+Masill, Mackenzie,
+Malav Shah, Mallow,
+Malpertwee, Mar, Mario Babich,
+Mark Boules, Mark Smith,
+Matheson Bailey, Matt Feenan,
+Matthew E. Cooper, Matthew Maggs,
+Matthew Scalort, Max W.,
+McBrix, McMuster,
+Mechashiva, Megan Bond,
+Megan Cahill, Meg Mazel,
+Mel is my favorite fan especially because they're non-binary,
+Me Napfeast, Mert Ist Mein Baba,
+Michael Campbell, Michael Curtis,
+Michael H. Prey, Michal Jarns,
+Michelle Bearheart, Microsoftinator,
+Mike Jeffcott, Mike Wayne,
+Milo, Mippet, Mitt,
+Morpho Portis, Mother's Basement,
+My Waitin' Nudes, Nako Nakoni,
+Naoto Shirogane, Nathan Beam,
+Nazi Destroyer, Nathan Hoare,
+Nathaniel P. Graham, Niala Earnswer,
+Neverminder, Nick Abigail,
+Nick Fidion, Nick Pollard,
+Ugalinu Entufi, Ningen's Wit Attitudes,
+Nolan Segrist, Nullrush,
+Ocarina Solo, Octonian,
+Ushand, Omari Anthony,
+Otter, Owen Piper,
+Paige Dwight, Pandacaby,
+Parker Vincent, Parsnips,
+Patrick Brown, Patrick Morrison,
+Patrick Poitras, Paz Brook,
+Pelops, Pendrakan,
+Peng J. Howell, Perry Lewin,
+Pete Asick, Peter Brodeson,
+Peter Wunder, Petra McCartney,
+Philip Metzger, Phobos2390,
+Phoenix Moonbeam, Piss.gif,
+Poplar, Preston Michelizio,
+Previous Mammoth, Psy43,
+Quay, Team Alfk,
+Qui-Gon Jinn, Good Night Sweet Prince,
+Rachel Anne, Recovering Zombie,
+Red Rosa, Rhys Adams,
+Reginald Buttersfinkter,
+Renbymon, Rhythm, Richard Pearson,
+Riley Knight, Ro Morris,
+Rob Rose, Robert Ankeny,
+Robin Veitch, Rocket Owl,
+Rory Olek, Ross Schlieke,
+Ryan Meaney, Ryan Vienno,
+Rylan Hudson, S.M.,
+Sage Summer, Sace,
+Salem Alarak, Sam Glass,
+Sam M. Keane, Samael,
+Samuel Baker, Samuel Vergara Ekman,
+Sarah Yertkvist, Saria Melody,
+Scott Girton, Scramp Shortfriend,
+Seamus Usarian, A Serpent Perplexed,
+Sean Locke, Sebastian Emanuelson,
+Sebastian Lorenzo, Sebastian Simon,
+Seeker of Light, Shana Hansen,
+Shane Smith, Shane Boyles,
+Sheena Artrip, Shikon Neko,
+Shining Star Justice,
+Siegfried Pinzer, Silas Pumpkins,
+Sillabub Cosplay, Silverwolf,
+Sir Monday, SJ,
+Sly Bones, Snazgool,
+Sol, Spencer St. James,
+Spicy Fun Dip, Squid Heart,
+Starboy, Stardust Ultima,
+Steven Notley, Sugarcane,
+Summit Dreams, Super Depressing Lifestyle Championship Edition,
+Super Kate, Super Dark 33,
+Suppercut, Sven Lorenz,
+Swamp Selkie, Sidney Steverson,
+Sincione Breskell, Sebastian Demel,
+Taternator, Talk Gibberish,
+Tapio Unto Oskari Turonen,
+Tower and the Exile,
+Ted Teddington Tedsville,
+That Flying Scotsman,
+the 4,000th Yamaha DX7 Trent Reznor broke
+with his mic stand or foot,
+the Biophone, the D-Pad,
+the Derbinator, the immortal science
+of dialectical materialism,
+the specter of communism,
+the Cinemom, Thinkoplex,
+This Drawing of a Tiger,
+Thomas Frey, Thomas Kent,
+Thornton Prime, Three Possums in a Trench Coat
+Pretending to be a Human,
+Thunter, Tiaz, Timmy Elverton,
+Timothy Crowley, Tom Pinckney,
+Tom Thurigood, Torbjörn Auglund-Wilhelmsen,
+Translated Leek, Trix,
+Trikodin, Tristan Young,
+Tirpid, Tyler Nunes,
+Unsurpassed Travesty,
+Velastrius, Velath,
+V. Hoffman, Vesco,
+Vincit Omnia, Wackman,
+Wiebke, William Case,
+William Moore, William Nelson,
+Willow H., Wisk,
+XXEmoSamuraiXX,
+YGrek32, You're Good Boy,
+Yurix, Yvonne with a smiley face,
+Zachary Prokowski,
+Zach Radley, Zemmler,
+Zenny, Zero Anonymity,
+Zoe, Zoe Burke,
+Orn Magnus Palsson, and finally,
+honestly, I'm just curious what you'll do with my name.

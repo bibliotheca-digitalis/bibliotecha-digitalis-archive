@@ -1,0 +1,85 @@
+{
+  "_filename": "Nykytyne2： Conversations Episode 5 - Ethics, Mind, and Music [1NmC1i8eZU2T].mp4",
+  "_has_drm": null,
+  "_type": "video",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "aspect_ratio": null,
+  "audio_ext": "none",
+  "description": "None",
+  "display_id": "1NmC1i8eZU2T",
+  "dynamic_range": "SDR",
+  "epoch": 1682576116,
+  "ext": "mp4",
+  "extractor": "BitChute",
+  "extractor_key": "BitChute",
+  "filename": "Nykytyne2： Conversations Episode 5 - Ethics, Mind, and Music [1NmC1i8eZU2T].mp4",
+  "filesize": 25978252,
+  "format": "0 - unknown",
+  "format_id": "0",
+  "formats": [
+    {
+      "aspect_ratio": null,
+      "audio_ext": "none",
+      "dynamic_range": "SDR",
+      "ext": "mp4",
+      "filesize": 25978252,
+      "format": "0 - unknown",
+      "format_id": "0",
+      "height": null,
+      "http_headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-us,en;q=0.5",
+        "Referer": "https://www.bitchute.com/video/1NmC1i8eZU2T",
+        "Sec-Fetch-Mode": "navigate",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"
+      },
+      "protocol": "https",
+      "resolution": null,
+      "tbr": null,
+      "url": "https://seed163.bitchute.com/q2KcixYuqKdn/1NmC1i8eZU2T.mp4",
+      "vcodec": null,
+      "video_ext": "mp4",
+      "width": null
+    }
+  ],
+  "fulltitle": "Nykytyne2: Conversations Episode 5 - Ethics, Mind, and Music",
+  "height": null,
+  "http_headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-us,en;q=0.5",
+    "Referer": "https://www.bitchute.com/video/1NmC1i8eZU2T",
+    "Sec-Fetch-Mode": "navigate",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"
+  },
+  "id": "1NmC1i8eZU2T",
+  "original_url": "https://www.bitchute.com/video/1NmC1i8eZU2T",
+  "playlist": null,
+  "playlist_index": null,
+  "protocol": "https",
+  "requested_subtitles": null,
+  "resolution": null,
+  "tbr": null,
+  "thumbnail": "https://static-3.bitchute.com/live/cover_images/q2KcixYuqKdn/VXQzPqZVtyHOzwn4qkwTn11g_640x360.jpg",
+  "thumbnails": [
+    {
+      "id": "0",
+      "url": "https://static-3.bitchute.com/live/cover_images/q2KcixYuqKdn/VXQzPqZVtyHOzwn4qkwTn11g_640x360.jpg"
+    }
+  ],
+  "title": "Nykytyne2: Conversations Episode 5 - Ethics, Mind, and Music",
+  "upload_date": "20200818",
+  "uploader": "Contrapoints_Archive",
+  "url": "https://seed163.bitchute.com/q2KcixYuqKdn/1NmC1i8eZU2T.mp4",
+  "urls": "https://seed163.bitchute.com/q2KcixYuqKdn/1NmC1i8eZU2T.mp4",
+  "vcodec": null,
+  "video_ext": "mp4",
+  "webpage_url": "https://www.bitchute.com/video/1NmC1i8eZU2T",
+  "webpage_url_basename": "1NmC1i8eZU2T",
+  "webpage_url_domain": "bitchute.com",
+  "width": null
+}

@@ -1,0 +1,136 @@
+start	end	text
+0	8840	What's the fastest way to board an airplane?
+8840	12920	I mean, you can't just throw open the gates like funneling cattle into a chute.
+12920	14120	That's not for us.
+14120	15680	We're primates, after all.
+15680	20240	So let's put our monkey brains to work to tackle this cue, which is what boarding groups
+20240	21240	do.
+21240	23360	Prioritize plainly packing primates precisely.
+23360	24360	Primarily.
+24360	26120	Okay, we have a suggestion.
+26120	29080	Pour people into the plane back to front.
+29080	31980	This is an intuitive solution to fill a cylinder.
+31980	36140	But there's almost a law of the universe that solutions which are the first thing you think
+36140	42320	of and look sensible and are easy to implement are often terrible, ineffective solutions
+42320	46280	once implemented will drag on civilization forever.
+46280	47280	Cough.
+47280	49540	Voting systems cough.
+49540	53680	So it should come as no surprise that this method is not good.
+53680	57000	And also what most airlines use to board their planes.
+57000	58080	Let's watch it in action.
+58080	61000	The first boarding group walks to the back of the plane.
+61000	65720	Everything is smooth, right until the first to go reaches their row and starts to stow.
+65720	67120	So slow.
+67120	70800	And for passenger two, while their seat is in view, there's nothing to do.
+70800	71920	The aisle's one cue.
+71920	76240	We're all cannot but stew stuck like glue until this guy's through.
+76240	77280	Phew.
+77280	78640	It's bags.
+78640	81760	Bags cause most of the delay boarding a flight.
+81760	82760	Like with this.
+82760	84000	A full stop stow.
+84000	89820	When it happens, everyone boarding the plane within and without must wait until one person
+89820	92100	finishes stowing their bag.
+92100	93100	Can you feel it?
+93100	98120	The aggregate lost seconds of human life piling up like a bounty for a delighted reaper.
+98120	99360	Of course you can.
+99360	101600	You can feel it with every bag.
+101600	103280	Uh, what was I saying?
+103280	104280	Right.
+104280	109200	Back to front boarding groups have a lot of full stop stows and very few of what you want.
+109200	112000	Pullaways and parallels and parallels and pullaways.
+112000	117280	Pullaways turn one cue into two and parallels decrease total bag stow time and are super
+117280	118280	satisfying.
+118280	122240	The rare triple partner parallel invoking a double high five at the sheer pleasure of
+122240	123960	its efficiency.
+123960	126880	But loading back to front lets few of these happen.
+126880	132200	Now say you weren't just not good at designing boarding groups, but you were malicious and
+132200	136920	wanted to maximize the amount of human life wasted on a flight.
+136920	140900	What would you do?
+140900	143180	Not back to front, but front to back.
+143180	145280	The smaller the boarding group, the better.
+145280	150740	This makes almost every tedious shuffle forward result in a full stop stow because most of
+150740	155620	the line waits by rows already full or outside the plane.
+155620	156620	Look familiar?
+156620	160020	This is where we acknowledge the class structure of airplanes.
+160020	164420	Real planes look like this and first class boards first, front to back before the pro
+164420	166700	economy file in back to front.
+166700	171660	So excluding pre-boarding, all airlines start with a little of the slowest boarding method
+171660	173660	you could intentionally design.
+173660	178180	Now obviously this video will soon reveal faster boarding procedures, and you will wonder
+178180	180680	why don't airlines use the faster methods?
+180680	184140	One possible answer is economic incentives.
+184140	188660	First class pays for perks, sometimes breathtaking perks for breathtaking amounts.
+188660	190820	And boarding first is one of them.
+190820	195220	Also airlines give everyone loyalty points that move you up the class structure the more
+195220	196900	you fly with that airline.
+196900	201140	Which gives airlines another good reason to group people and probably helps explain why
+201140	211140	they switched away from the older, faster method you won't believe they used to use.
+211140	214860	Doing nothing and having people board the flight in whatever order they show up to get
+214860	218800	their assigned seat is faster than organizing tidy boarding groups.
+218800	222740	This is because random people are spread, well, randomly, increasing the chances of
+222740	227140	pullaways and parallels, unlike the more orderly methods airlines have switched to.
+227140	231380	Man, it's always frustrating to know that to literally have done nothing would be faster
+231380	233220	than the something that is done.
+233220	237580	But surely there's a better boarding group order to be found if we can just subtract
+237580	240340	malice and add thinking to this problem.
+240340	241860	Ah, three groups.
+241860	244100	Window, middle, aisle, in that order.
+244100	248820	This is really the same as doing random thrice, one for each column of the craft, but the
+248820	253860	reason it's a smidge faster is because it eliminates the other source of boarding delay.
+253860	254860	Seat shuffles.
+254860	258860	When people board randomly, seat shuffling is going to happen a bunch, and when people
+258860	261700	spill into the aisle, it slows the queue.
+261700	266200	Ordering everyone by window, middle, aisle ensures a seat shuffle will never happen.
+266200	270420	This seems like it should be a big improvement, but when you simulate boarding an aircraft
+270420	274660	with a ton of real math rather than just animating it in a dramatically simplified fashion, or
+274660	280220	do actual experiments, the seat shuffle just isn't a big deal compared to bag stowage.
+280220	284860	People wrangling their one bag that won't possibly fit, or trying to get on board with
+284860	288020	three bags because they don't think the rules should apply to them, who then also fiddle
+288020	291820	around with getting their laptops out after stowing them, those kinds of delays count
+291820	292900	for much more.
+292900	296780	So window, middle, aisle is maybe a smidge faster than random, which is good, and some
+296780	301220	airlines use this method, which gets their planes turned around faster than back to front
+301220	303860	while still giving them boarding groups to play games with.
+303860	308740	The vast majority of airlines use either back to front or window, middle, aisle, so
+308740	313020	keep an eye out next time you're boarding a flight, or which is happening to you.
+313020	318360	But can we go farther, leaving the real world with its class systems and people and untidiness
+318360	323620	and smells ascending to the platonic plane of physics, where cows are spheres and people
+323620	326900	cellular automaton who will execute instructions perfectly?
+326900	332520	Here in the Celestia, what is the theoretically fastest way to board a plane?
+332520	334960	On this level, here is what's possible.
+352840	358440	To achieve this ballet, there are no boarding groups, but everyone stands in an exact order.
+358440	363840	Back to front, in alternating rows, on alternating sides, windows in.
+363840	369160	This maximizes pullaways and parallels, pristinely packing people in a pinch.
+369160	373760	Witnessing such glory is too much for mortal minds to bear for long, so we are forced to
+373760	376680	descend back down into the meat world.
+376680	383080	The cacophony, the smell, where we must stuff monkeys into a tube, monkeys with families
+383080	388240	where separating their young invites chaos and cleanup, where economic incentives divide
+388240	393880	to profit, and where, even at their best, the human inability to follow instructions
+393880	396200	is breathtaking.
+396200	405840	Here, people upon seeing boarding group 123 would flip the hell out, let alone the impossibility
+405840	410760	of trying to get them to stand in line in order, and where, even if faster, like watching
+410760	415920	seconds of a clock, people would complain it was slower.
+415920	418160	Such gifts we were not meant to have.
+418160	423560	But is there a way we can modify this perfection to improve our lot on this plane?
+423560	424560	Yes.
+424560	429440	Instead of exact order, boarding group the first would be all one side of the plane in
+429440	430800	every other row.
+430800	434600	Boarding group the second, the other side, then back, and back again.
+434600	436600	One, two, three, four.
+436600	438720	We can't ask people for more.
+438720	444080	This shadow of the perfect method has a chance of working in the real world, with benefits
+444080	448780	like letting humans with families and friends board together, giving airlines boarding groups
+448780	453240	they can still play with, and still being faster than the current methods.
+453240	456520	Reaching for perfection, we will always come up short.
+456520	462760	But perhaps we can manage to get closer in the process.
+462760	467960	Oh, before you go, let me leave you with an annoying thought.
+467960	472720	You know how boarding a flight from front to back by row is the slowest possible method?
+472720	474080	The Reaper method?
+474080	479200	Well, after your flight, when the plane pulls into the gate, and everyone ignores the flight
+479200	483720	attendant's admonishment to wait until the fastened seatbelt is off to grab their bag,
+483720	486640	and the door opens, how do we deplane?
+486640	487640	That's right.
+487640	490260	Front to back, row by row.
+490260	491760	No slower could we go.
+502720	507720	TICK TICK TICK

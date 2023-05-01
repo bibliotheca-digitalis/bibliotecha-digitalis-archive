@@ -1,0 +1,98 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+The main video is talking about a genetic breeding model of how to make machines learn.
+
+00:05.000 --> 00:08.800
+This method is simpler to explain or just show.
+
+00:08.800 --> 00:13.100
+Here's a machine learning to walk or play Mario or jump real high.
+
+00:13.100 --> 00:16.600
+A genetic code is an older code but it still checks out
+
+00:16.600 --> 00:22.900
+and I personally suspect in the future genetic models will have a resurgence as compute power approaches crazy paths.
+
+00:22.900 --> 00:27.200
+However, the current hotness is deep learning and recursive neural networks
+
+00:27.200 --> 00:33.600
+and that's where the linear algebra really increases and explainability in a brief video really decreases.
+
+00:33.600 --> 00:39.500
+But if I had to kind of explain how they work in a footnote just for the record, it's like this.
+
+00:39.500 --> 00:42.200
+No infinite warehouse, just one student.
+
+00:42.200 --> 00:46.600
+TeacherBot has the same test but this time BuilderBot is Dial Adjustment Bot
+
+00:46.600 --> 00:51.600
+where each dial is how sensitive one connection in the student bot's head is.
+
+00:51.600 --> 00:55.600
+There's a lot of connections in its head so a lot of dials.
+
+00:55.600 --> 00:56.900
+A lot a lot.
+
+00:56.900 --> 01:02.400
+TeacherBot shows StudentBot a photo and Dial Adjustment Bot adjusts that dial stronger or weaker
+
+01:02.400 --> 01:05.100
+to get StudentBot closer to the answer.
+
+01:05.100 --> 01:07.500
+It's a bit like adjusting the dial on a radio.
+
+01:07.500 --> 01:10.500
+Is that still a thing? Do cars have radios still?
+
+01:10.500 --> 01:14.100
+I don't know. Anyway, you might not know the exact frequency of the station
+
+01:14.100 --> 01:17.500
+but you can tell if you're getting closer or further away.
+
+01:17.500 --> 01:22.400
+It's like that but with a hundred thousand dials and a lot of math.
+
+01:22.400 --> 01:24.800
+And that's just for one test question.
+
+01:24.800 --> 01:29.900
+When TeacherBot introduces the next photo, Dial Adjustment Bot needs to adjust all the dials
+
+01:29.900 --> 01:33.000
+so that StudentBot can answer both questions.
+
+01:33.000 --> 01:40.000
+As the test gets longer, this becomes an insane amount of math and fine-tuning for Dial Adjustment Bot.
+
+01:40.000 --> 01:46.500
+But when it's done, there's a StudentBot who can do a pretty good job at recognizing new photos
+
+01:46.500 --> 01:50.500
+though still suffers from some of the problems mentioned in the main video.
+
+01:50.600 --> 01:55.900
+Anyway, that's the most baby's first introduction to neural networks you will ever hear.
+
+01:55.900 --> 02:01.500
+If it sounds interesting to you and you like math and code, go dig into the details.
+
+02:01.500 --> 02:04.700
+Machines that learn are the future of everything.
+
+02:04.700 --> 02:08.000
+Maybe quite literally the future of everything.
+
+02:08.000 --> 02:12.600
+And given what we put them through, may the bots have mercy on us all.
+
+02:20.500 --> 02:22.500
+Thank you for watching!
+

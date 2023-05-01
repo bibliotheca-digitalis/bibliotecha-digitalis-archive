@@ -1,0 +1,1256 @@
+1
+00:00:00,000 --> 00:00:06,800
+So, in the Hercules video, I talked a lot about the three-act structure that is really common in Hollywood screenplays,
+
+2
+00:00:06,800 --> 00:00:11,300
+and someone in the comments linked to an article by Film Crit Hulk from 2013,
+
+3
+00:00:11,300 --> 00:00:15,300
+wherein Hulk argues against what he calls the myth of the three-act structure.
+
+4
+00:00:15,300 --> 00:00:18,300
+Now, Hulk has written some great film journalism over the years,
+
+5
+00:00:18,300 --> 00:00:22,600
+but on this, well, I pretty much disagree with most of his assertions,
+
+6
+00:00:22,600 --> 00:00:27,600
+and I think this stems from a disagreement on what an act even is and what purpose it serves in a narrative.
+
+7
+00:00:27,600 --> 00:00:32,900
+There is a misconception that an act in a screenplay pertains to where any given scene falls in the narrative.
+
+8
+00:00:32,900 --> 00:00:38,100
+Hulk even points this out, that most people, when asked, think it's an issue of placement rather than function.
+
+9
+00:00:38,100 --> 00:00:41,600
+Hulk contends that his fellow journalists, film students, writers, etc.,
+
+10
+00:00:41,600 --> 00:00:47,200
+can't actually define an act except for where it falls in the story, and that the idea of three acts is actually meaningless.
+
+11
+00:00:47,200 --> 00:00:51,700
+Now, applying a structure to a narrative is a form of theory, and people get confused by this all the time,
+
+12
+00:00:51,700 --> 00:00:54,400
+what we mean by theory, so in this context, it's this.
+
+13
+00:00:54,500 --> 00:01:00,900
+It's not a scientific theory, like theory of evolution, or like a colloquial theory, as in, like, a hypothesis,
+
+14
+00:01:00,900 --> 00:01:05,700
+but analytical theory is a form of academia that aims to frame a work, an artist, or a movement
+
+15
+00:01:05,700 --> 00:01:11,200
+in terms of history, meaning, interpretation, sociology, psychology, etc.
+
+16
+00:01:11,200 --> 00:01:17,100
+Film theory is distinct from, say, film criticism and film history, although there is some overlap.
+
+17
+00:01:17,100 --> 00:01:24,100
+For instance, applying feminist film theory or psychoanalytical film theory to, say, Hitchcock's North by Northwest,
+
+18
+00:01:24,100 --> 00:01:31,600
+vagina, will net you a different reading than if you were to apply auteur theory to the same, though not completely different.
+
+19
+00:01:31,600 --> 00:01:37,000
+Theory is taking a guideline of thought based on a comparable precedent to an already existing body of work.
+
+20
+00:01:37,000 --> 00:01:39,800
+So when we talk about theory as it applies to the three-act structure,
+
+21
+00:01:39,800 --> 00:01:43,400
+I do agree that it's not terribly useful for writers to start their own work,
+
+22
+00:01:43,400 --> 00:01:48,600
+be it a short story, a novel, a screenplay, or a web video, feeling the need to hit the points of a three-act structure.
+
+23
+00:01:48,600 --> 00:01:51,700
+When you're outlining something, it's best not to think about that sort of thing,
+
+24
+00:01:51,700 --> 00:01:56,100
+but when you come out the other side, you will probably find that you've unconsciously created a three-act structure
+
+25
+00:01:56,100 --> 00:02:00,400
+just by the nature of the way story structure has evolved throughout the history of Western civilization.
+
+26
+00:02:00,400 --> 00:02:04,500
+You have probably learned how to write a three-act structure simply by osmosis.
+
+27
+00:02:04,500 --> 00:02:10,300
+However, if you go online and look at forums where people try to find examples of movies that don't adhere to three-act structure,
+
+28
+00:02:10,300 --> 00:02:11,900
+most of their examples will.
+
+29
+00:02:11,900 --> 00:02:18,100
+I see movies like No Country for Old Men, Eternal Sunshine of the Spotless Mind, and Pulp Fiction as counterexamples.
+
+30
+00:02:18,100 --> 00:02:24,400
+The three-act structure is there in all of these movies, but it's hidden in storytelling that is less conventional than, say, Independence Day,
+
+31
+00:02:24,400 --> 00:02:28,700
+which has its three acts so carefully outlined that they are divided by date.
+
+32
+00:02:28,700 --> 00:02:33,800
+I was originally going to use Transformers Revenge of the Fallen as a counterexample, but nope.
+
+33
+00:02:33,800 --> 00:02:36,900
+All of these act points are there, even the twist in the third act,
+
+34
+00:02:36,900 --> 00:02:42,200
+but these points are so buried in plot clutter that it feels a lot more muddied and random than it actually is.
+
+35
+00:02:42,300 --> 00:02:46,100
+Hulk's main contention is that dividing stories into three parts is arbitrary
+
+36
+00:02:46,100 --> 00:02:50,600
+because a movie can have any number of breaks and therefore acts that create propulsion.
+
+37
+00:02:50,600 --> 00:02:55,800
+He cites the Shakespearean five-act structure as superior and uses 2008's Iron Man as an example,
+
+38
+00:02:55,800 --> 00:02:59,900
+which I find particularly odd as Iron Man uses a very rigid three-act structure.
+
+39
+00:02:59,900 --> 00:03:05,600
+The conventional wisdom contends Hulk is that an act marks the point where a character can't go back,
+
+40
+00:03:05,600 --> 00:03:08,700
+and I don't think that's an accurate or helpful assessment.
+
+41
+00:03:08,700 --> 00:03:13,500
+But story structure is not a myth, it is theory and can be interpreted in a variety of different ways
+
+42
+00:03:13,500 --> 00:03:15,800
+depending on what framework you're using.
+
+43
+00:03:15,800 --> 00:03:19,500
+You can argue that any narrative has three acts or five or nine,
+
+44
+00:03:19,500 --> 00:03:25,600
+but it is useful to keep in mind that while most feature-length movies will adhere to a fairly easy-to-recognize three-act structure,
+
+45
+00:03:25,600 --> 00:03:26,800
+not all do.
+
+46
+00:03:26,800 --> 00:03:32,300
+Psycho is a good, more well-known example of a Hollywood movie that doesn't use the classic three-act structure.
+
+47
+00:03:32,300 --> 00:03:36,000
+Hulk cites Malcolm X as an example, and on that I would have to agree,
+
+48
+00:03:36,000 --> 00:03:41,600
+but the simple three-act structure tends to be most popular because it lends itself well to a 90-minute-to-two-hour screenplay,
+
+49
+00:03:41,600 --> 00:03:45,500
+given the length of sequences that tend to be satisfying to a mainstream audience.
+
+50
+00:03:45,500 --> 00:03:48,000
+So I've provided a link to the article in question below,
+
+51
+00:03:48,000 --> 00:03:53,500
+and also the de-Hulkifier bookmarklet if you have a hard time reading Film Crit Hulk's all-caps mode of writing.
+
+52
+00:03:53,500 --> 00:03:58,100
+And again, being broken up into three acts doesn't mean acts need to adhere to any particular length.
+
+53
+00:03:58,100 --> 00:04:02,700
+Movies like The Lion King, The Hunger Games, and Spider-Man all have really long first acts,
+
+54
+00:04:02,700 --> 00:04:05,600
+and their midpoints are generally 60% to 70% through the movie.
+
+55
+00:04:05,600 --> 00:04:08,300
+Act breaks aren't a question of length, but function.
+
+56
+00:04:08,300 --> 00:04:13,400
+For another source, Todd Vanderwerf of Vox.com wrote a more recent article about the decay of the second act
+
+57
+00:04:13,400 --> 00:04:19,500
+we've seen in more recent Hollywood fare, like Independence Day Resurgence and Fan-for-stick.
+
+58
+00:04:19,500 --> 00:04:21,200
+That article is also linked below.
+
+59
+00:04:21,200 --> 00:04:25,500
+I don't think it's a question of which structure is superior, five acts versus three,
+
+60
+00:04:25,500 --> 00:04:28,700
+but which structure is most effective for the story it's trying to tell.
+
+61
+00:04:28,700 --> 00:04:32,800
+Formula can be used to great end or to not-so-great end.
+
+62
+00:04:32,800 --> 00:04:35,900
+So, needless to say, not all narratives adhere to this structure,
+
+63
+00:04:35,900 --> 00:04:39,300
+but the vast majority of Hollywood films and even smaller indie films do.
+
+64
+00:04:39,300 --> 00:04:43,000
+And obviously, the examples I've chosen have all pretty clear three-act structures,
+
+65
+00:04:43,000 --> 00:04:45,800
+because this is a video about three-act structures.
+
+66
+00:04:45,800 --> 00:04:48,100
+And also, spoilers for the following films.
+
+67
+00:04:48,100 --> 00:04:51,100
+So in this context, the operative word here is tension.
+
+68
+00:04:51,100 --> 00:04:55,100
+Individual acts and sequences have tension, and the narrative as a whole has tension.
+
+69
+00:04:55,100 --> 00:04:58,700
+The beginning and end of acts marks the changes or shift in the tension.
+
+70
+00:04:58,700 --> 00:05:01,500
+A typical screenplay features eight sequences.
+
+71
+00:05:01,500 --> 00:05:05,200
+Two in Act 1, four in Act 2, two in Act 3.
+
+72
+00:05:05,200 --> 00:05:08,900
+Sequences are defined by a build and release of minor tensions,
+
+73
+00:05:08,900 --> 00:05:10,900
+all while contributing to the main tension.
+
+74
+00:05:10,900 --> 00:05:14,600
+There are main act tensions, and there are individual sequence tensions.
+
+75
+00:05:14,600 --> 00:05:17,600
+An example of a sequence tension would be,
+
+76
+00:05:17,600 --> 00:05:21,100
+will Tony be able to build a suit that works?
+
+77
+00:05:21,100 --> 00:05:23,000
+Two...
+
+78
+00:05:23,000 --> 00:05:24,700
+One.
+
+79
+00:05:24,700 --> 00:05:27,800
+That tension is relieved when he successfully tests it.
+
+80
+00:05:27,800 --> 00:05:29,500
+The following sequence tension is,
+
+81
+00:05:29,500 --> 00:05:33,000
+is Tony's new suit capable of doing what he wants it to do?
+
+82
+00:05:33,000 --> 00:05:35,000
+The tension is relieved at the end of the sequence,
+
+83
+00:05:35,000 --> 00:05:38,600
+but also builds to the main tension of the bigger bad wanting to take him down.
+
+84
+00:05:38,600 --> 00:05:42,600
+There must be more than this provincial life!
+
+85
+00:05:42,600 --> 00:05:45,500
+A backstory establishes the status quo for the protagonist,
+
+86
+00:05:45,500 --> 00:05:47,300
+and sets the rules of the universe.
+
+87
+00:05:47,300 --> 00:05:51,100
+This usually happens at the very beginning of Act 1, but can be weaved throughout.
+
+88
+00:05:51,100 --> 00:05:53,000
+Sequence 1 usually explains the universe,
+
+89
+00:05:53,000 --> 00:05:55,600
+and will also usually give us some sort of flaw or desire
+
+90
+00:05:55,600 --> 00:05:58,100
+that's leaving the protagonist feeling incomplete.
+
+91
+00:05:58,100 --> 00:05:59,500
+Die!
+
+92
+00:05:59,500 --> 00:06:00,900
+You do not die!
+
+93
+00:06:00,900 --> 00:06:02,800
+Luke wants to go to flight academy.
+
+94
+00:06:02,800 --> 00:06:06,000
+Eddie is an alcoholic racist who hasn't mourned the loss of his brother.
+
+95
+00:06:06,000 --> 00:06:09,300
+Shia LaBeouf is a sh**ty human being.
+
+96
+00:06:09,300 --> 00:06:11,700
+Your point of attack is the thing that gets the ball rolling.
+
+97
+00:06:11,700 --> 00:06:14,000
+This probably has nothing to do with the protagonist,
+
+98
+00:06:14,000 --> 00:06:16,200
+and instead focuses on the universe.
+
+99
+00:06:16,200 --> 00:06:18,900
+This creates a story element for your protagonist to react to,
+
+100
+00:06:18,900 --> 00:06:21,100
+and that reaction becomes the inciting incident.
+
+101
+00:06:21,100 --> 00:06:24,500
+And yes, I did get the point of attack and inciting incident reversed in the Hercules video.
+
+102
+00:06:24,500 --> 00:06:27,400
+That's my bad. It's been a long time since I've taken this class. Shut up.
+
+103
+00:06:27,400 --> 00:06:31,600
+Your point of attack will probably be outside of the protagonist's control or even knowledge,
+
+104
+00:06:31,600 --> 00:06:34,900
+and the inciting incident is where the conflict comes home to roost for our protagonist,
+
+105
+00:06:34,900 --> 00:06:37,400
+meaning our protagonist needs to do something.
+
+106
+00:06:37,400 --> 00:06:39,900
+It can also be something that will eventually lead the main character
+
+107
+00:06:39,900 --> 00:06:42,000
+to making an important decision at the end of Act 1.
+
+108
+00:06:42,000 --> 00:06:45,800
+That inciting incident marks the end of the first sequence of the first act.
+
+109
+00:06:45,800 --> 00:06:51,100
+That first sequence tension is resolved by however the protagonist reacts to that inciting incident.
+
+110
+00:06:51,100 --> 00:06:53,700
+Be it finding a bag of money in the desert,
+
+111
+00:06:53,700 --> 00:06:55,600
+or volunteering as tribute.
+
+112
+00:06:55,600 --> 00:06:57,400
+I volunteer as tribute!
+
+113
+00:06:57,400 --> 00:07:00,100
+Realizing the satellite signal is a countdown,
+
+114
+00:07:00,100 --> 00:07:03,300
+or finding out that Roger Rabbit allegedly killed a guy.
+
+115
+00:07:03,300 --> 00:07:05,600
+Marvin Acme.
+
+116
+00:07:05,600 --> 00:07:07,600
+The rabbit cacked him last night.
+
+117
+00:07:07,600 --> 00:07:10,700
+In a film with a more passive protagonist, like Mad Max Fury Road,
+
+118
+00:07:10,700 --> 00:07:14,000
+the inciting incident is where Furiosa decides to go off-roading.
+
+119
+00:07:14,000 --> 00:07:15,700
+And yes, we all know it's Furiosa's story,
+
+120
+00:07:15,700 --> 00:07:18,600
+but Max is the point-of-view character and his growth defines the structure of the story,
+
+121
+00:07:18,600 --> 00:07:20,400
+and therefore he is the protagonist.
+
+122
+00:07:20,400 --> 00:07:23,100
+The inciting incident will also set up the central conflict,
+
+123
+00:07:23,100 --> 00:07:25,000
+which is displayed through character motivation.
+
+124
+00:07:25,000 --> 00:07:28,500
+That central conflict can be the desire to win over the princess,
+
+125
+00:07:28,500 --> 00:07:30,700
+the desire to win over the princess,
+
+126
+00:07:30,700 --> 00:07:32,700
+or the desire to win over the...
+
+127
+00:07:32,700 --> 00:07:33,800
+robo...
+
+128
+00:07:33,800 --> 00:07:35,000
+princess...
+
+129
+00:07:35,000 --> 00:07:36,800
+See, this one's compelling and easy to resolve,
+
+130
+00:07:36,800 --> 00:07:39,400
+which is why romance is such a common narrative device.
+
+131
+00:07:39,400 --> 00:07:42,700
+In super utmost simplest terms, the want will drive the main tension,
+
+132
+00:07:42,700 --> 00:07:44,900
+which is resolved at the end of the second act.
+
+133
+00:07:44,900 --> 00:07:48,100
+I'm here to erase Clementine Krasinski.
+
+134
+00:07:48,100 --> 00:07:50,600
+Max wants to survive and be alone.
+
+135
+00:07:50,600 --> 00:07:53,600
+Tony wants to take control of the weapons he's sold.
+
+136
+00:07:53,600 --> 00:07:56,800
+Eddie Valiant wants to find out who's made a patsy out of him.
+
+137
+00:07:56,800 --> 00:07:59,600
+Somebody's made a patsy out of me, and I'm gonna find a wife!
+
+138
+00:07:59,600 --> 00:08:02,900
+And the protagonist's need, which defines the character growth,
+
+139
+00:08:02,900 --> 00:08:04,700
+will resolve the tension of the third act.
+
+140
+00:08:04,700 --> 00:08:06,800
+Again, these are rules that don't apply to all films,
+
+141
+00:08:06,800 --> 00:08:11,200
+and you're more likely to see them in really conventional, easy-to-digest narratives like Disney movies.
+
+142
+00:08:11,200 --> 00:08:14,900
+The want is the protagonist's internal motivation and pushes the narrative forward.
+
+143
+00:08:14,900 --> 00:08:16,900
+There's this girl.
+
+144
+00:08:16,900 --> 00:08:20,200
+Even in ensemble pieces, where everyone gets their own subplot and character arc,
+
+145
+00:08:20,200 --> 00:08:24,600
+the momentum of the plot is generally going to be pushed by one character's central conflict.
+
+146
+00:08:24,600 --> 00:08:27,800
+In X-Men 2, for instance, it's Wolverine's search for his past,
+
+147
+00:08:27,800 --> 00:08:30,900
+which culminates in him turning his back on the one guy with the key to it.
+
+148
+00:08:30,900 --> 00:08:36,600
+So, the incident being incited, the second sequence of the first act builds to the creation of the main tension,
+
+149
+00:08:36,600 --> 00:08:40,300
+culminating with a lock-in, or the hero deciding to go on their quest.
+
+150
+00:08:40,300 --> 00:08:41,500
+You have my word.
+
+151
+00:08:41,500 --> 00:08:43,200
+Done!
+
+152
+00:08:43,200 --> 00:08:48,100
+The quest can be small and interpersonal, like deciding to go to France to get your cheating fiance back,
+
+153
+00:08:48,100 --> 00:08:50,900
+or to erase all memory of your ex-girlfriend,
+
+154
+00:08:50,900 --> 00:08:54,400
+or more epic, like volunteering to take the ring to Mordor,
+
+155
+00:08:54,400 --> 00:08:57,100
+or deciding to go with Obi-Wan to learn the ways of the Jedi,
+
+156
+00:08:57,100 --> 00:09:00,300
+or deciding to help Furiosa and the wives escape Immortan Joe.
+
+157
+00:09:00,300 --> 00:09:05,300
+It can also mean that your basic human decency means you are now stuck in a deadly game of cat and mouse.
+
+158
+00:09:05,300 --> 00:09:08,300
+The end of Act 1 establishes what's called the main tension.
+
+159
+00:09:08,300 --> 00:09:10,700
+We're going to the green place of many mothers.
+
+160
+00:09:10,700 --> 00:09:12,800
+Will Luke and Obi-Wan find Princess Leia?
+
+161
+00:09:12,800 --> 00:09:14,800
+Will Luella now smart Chigurh?
+
+162
+00:09:14,800 --> 00:09:17,700
+Will Jango succeed in rescuing his wife from Kandi?
+
+163
+00:09:17,700 --> 00:09:20,400
+Sequence 3 marks the first sequence of Act 2.
+
+164
+00:09:20,400 --> 00:09:22,700
+Usually, this will show the quest making some ground,
+
+165
+00:09:22,700 --> 00:09:26,500
+and culminate with our heroes achieving some milestone, or learning something.
+
+166
+00:09:26,500 --> 00:09:28,500
+Hercules competes his training.
+
+167
+00:09:28,500 --> 00:09:30,700
+Simba decides Hakuna Matata.
+
+168
+00:09:30,700 --> 00:09:33,300
+Tony begins to develop a new Iron Man suit.
+
+169
+00:09:33,300 --> 00:09:35,400
+Sequence 4 sees the build-up to the midpoint,
+
+170
+00:09:35,400 --> 00:09:40,700
+which most commonly shows us the protagonist working towards the first serious attempt to achieve their goal.
+
+171
+00:09:40,700 --> 00:09:42,300
+I'm erasing you, and I'm happy!
+
+172
+00:09:42,300 --> 00:09:45,500
+Megamind trains his replacement rival for their first battle.
+
+173
+00:09:45,500 --> 00:09:47,900
+Hercules goes looking for a fight to prove himself.
+
+174
+00:09:47,900 --> 00:09:49,900
+Simba begins to revisit his past.
+
+175
+00:09:54,100 --> 00:09:56,200
+Sequence 4 culminates with the midpoint.
+
+176
+00:09:56,200 --> 00:09:58,900
+Usually, this will change the aim of the hero's quest.
+
+177
+00:09:58,900 --> 00:10:01,300
+The midpoint marks some sort of disruption.
+
+178
+00:10:01,300 --> 00:10:03,900
+The protagonist runs into his childhood lion best friend,
+
+179
+00:10:03,900 --> 00:10:07,100
+disrupting his idyllic life and making him question his decisions.
+
+180
+00:10:07,100 --> 00:10:09,100
+Maybe our protagonist's little friend died,
+
+181
+00:10:09,100 --> 00:10:11,300
+showing them that they're not only fighting for themselves,
+
+182
+00:10:11,300 --> 00:10:13,500
+and also gaining them sympathy in the eyes of the masses.
+
+183
+00:10:13,500 --> 00:10:16,800
+Or maybe getting dumped makes them revert to their old, evil ways.
+
+184
+00:10:16,800 --> 00:10:19,900
+Joel realizes he doesn't want to have his memory of Clementine erased,
+
+185
+00:10:19,900 --> 00:10:21,800
+and begins trying to stop the process.
+
+186
+00:10:21,800 --> 00:10:25,900
+Can you hear me? I don't want this anymore! I want to call it off!
+
+187
+00:10:25,900 --> 00:10:28,200
+The main tension of the second act hasn't been resolved,
+
+188
+00:10:28,200 --> 00:10:30,100
+but something about it has changed.
+
+189
+00:10:30,100 --> 00:10:32,300
+The midpoint ups the tension for the final match
+
+190
+00:10:32,300 --> 00:10:35,700
+by shifting the focus of the main tension while not yet resolving it.
+
+191
+00:10:35,700 --> 00:10:38,600
+The fifth sequence following the midpoint will build on this change.
+
+192
+00:10:38,600 --> 00:10:41,700
+The challenge here is generally to keep from second act sag.
+
+193
+00:10:41,700 --> 00:10:44,100
+When someone says that there are problems in the second act,
+
+194
+00:10:44,100 --> 00:10:45,500
+that's probably what they mean.
+
+195
+00:10:45,500 --> 00:10:49,000
+The shift in focus from the midpoint doesn't follow through in a satisfactory manner,
+
+196
+00:10:49,000 --> 00:10:52,800
+where there's filler in the middle that lengthens the runtime or adds action scenes,
+
+197
+00:10:52,800 --> 00:10:55,400
+but doesn't really add any momentum or tension.
+
+198
+00:10:55,400 --> 00:10:59,800
+The fifth sequence will also usually focus on some subplot or secondary character backstory,
+
+199
+00:10:59,800 --> 00:11:03,700
+so as not to make the story too monolithic, and also to ease some tension.
+
+200
+00:11:03,700 --> 00:11:06,000
+Meg realizes she's falling in love with Hercules.
+
+201
+00:11:06,000 --> 00:11:10,200
+The war boy, who was our hero's enemy, now joins the side of the righteous.
+
+202
+00:11:10,200 --> 00:11:13,300
+The receptionist, while outwardly dating Mark Ruffalo,
+
+203
+00:11:13,300 --> 00:11:15,900
+begins to show an unusual interest in her boss.
+
+204
+00:11:15,900 --> 00:11:17,200
+Subplots are important.
+
+205
+00:11:17,200 --> 00:11:19,500
+They keep the story from feeling too episodic,
+
+206
+00:11:19,500 --> 00:11:22,600
+like one guy just encountering a series of obstacles,
+
+207
+00:11:22,600 --> 00:11:26,400
+and other characters can help resolve loose threads and expand on more universal themes.
+
+208
+00:11:26,400 --> 00:11:29,300
+The sixth sequence is the last sequence of the second act.
+
+209
+00:11:29,300 --> 00:11:33,300
+The end of act two shows us the main culmination, or the resolution of the main tension.
+
+210
+00:11:33,300 --> 00:11:37,400
+The end of act two will generally have the protagonist encounter their biggest challenge yet,
+
+211
+00:11:37,400 --> 00:11:41,400
+which is why the end of act two typically is when we see our hero at their lowest point.
+
+212
+00:11:41,400 --> 00:11:45,800
+Our hero's a zero! Our hero's a zero!
+
+213
+00:11:45,800 --> 00:11:49,400
+And is generally the preamble to some momentous decision that defines character growth,
+
+214
+00:11:49,400 --> 00:11:51,400
+and creates the new tension in act three.
+
+215
+00:11:51,400 --> 00:11:55,200
+We have set out to find the Green Place, only to find out it no longer exists.
+
+216
+00:11:55,200 --> 00:11:58,400
+Joel's memories of Clementine have now been all erased.
+
+217
+00:11:58,400 --> 00:12:01,500
+Jafar just golfed me into the Himalayas or something,
+
+218
+00:12:01,500 --> 00:12:03,400
+and now everything seems hopeless.
+
+219
+00:12:03,400 --> 00:12:07,100
+If it's a whodunit, generally this is where you will find out whodunit.
+
+220
+00:12:07,100 --> 00:12:10,900
+That's the gun that killed R.K. Maroon, and Doom pulled the trigger.
+
+221
+00:12:10,900 --> 00:12:13,600
+And act three will be about bringing whodunit to justice.
+
+222
+00:12:13,600 --> 00:12:18,100
+Also, if there is a big betrayal, or the plot is built on some character deceiving another,
+
+223
+00:12:18,100 --> 00:12:19,400
+that generally goes here.
+
+224
+00:12:19,400 --> 00:12:23,200
+Being your little chickie-poo here was working for me all the time.
+
+225
+00:12:23,200 --> 00:12:26,200
+Llewellyn dies at the end of act two of No Country for Old Men,
+
+226
+00:12:26,200 --> 00:12:29,300
+and act three is a much more thematic build and release of tension,
+
+227
+00:12:29,300 --> 00:12:32,000
+rather than being action-driven as the first two acts had been,
+
+228
+00:12:32,000 --> 00:12:34,600
+with the conclusion of the film being much more existential.
+
+229
+00:12:34,600 --> 00:12:39,300
+It is still very much three acts, as demonstrated by the build and release of different tensions.
+
+230
+00:12:39,300 --> 00:12:41,600
+Sequence seven marks the beginning of act three,
+
+231
+00:12:41,600 --> 00:12:46,000
+and begins with the protagonist making some momentous decision that creates act three's tension.
+
+232
+00:12:46,000 --> 00:12:48,300
+I suggest we go back the same way we came.
+
+233
+00:12:48,300 --> 00:12:52,600
+Act three's tension will be related to the main tension, but is now different.
+
+234
+00:12:52,600 --> 00:12:57,400
+The tension is no longer escape with Jango's wife, it's destroy Candyland completely.
+
+235
+00:12:57,400 --> 00:13:01,600
+It is no longer will Katniss save herself, but will Katniss and Peeta save each other.
+
+236
+00:13:01,600 --> 00:13:06,600
+It is no longer escape to the Green Place, but overthrow the existing power structure completely.
+
+237
+00:13:06,600 --> 00:13:10,300
+It is important to note that the third act tension can't come completely out of nowhere.
+
+238
+00:13:10,300 --> 00:13:12,700
+It can't simply be an extension of the main tension,
+
+239
+00:13:12,700 --> 00:13:15,900
+but must also build on it in order to be satisfying to the audience.
+
+240
+00:13:16,600 --> 00:13:18,500
+Holy smoke, he's a dude!
+
+241
+00:13:18,500 --> 00:13:21,600
+The twist in the third act is important because it makes the tension more interesting
+
+242
+00:13:21,600 --> 00:13:24,100
+than just straight fighting for 45 minutes.
+
+243
+00:13:24,100 --> 00:13:28,200
+Although just straight fighting for 45 minutes has become increasingly popular.
+
+244
+00:13:28,200 --> 00:13:31,700
+The twist in the third act also generally brings the focus of the third act tension
+
+245
+00:13:31,700 --> 00:13:34,000
+from something more grand, like saving the world,
+
+246
+00:13:34,000 --> 00:13:38,600
+to something more intimate and character-oriented, like saving a beloved character's life.
+
+247
+00:13:38,600 --> 00:13:40,200
+Furiosa gets stabbed.
+
+248
+00:13:40,200 --> 00:13:43,700
+This shifts the focus from overthrowing the Citadel to saving her life.
+
+249
+00:13:43,700 --> 00:13:45,000
+Wally gets squished.
+
+250
+00:13:45,000 --> 00:13:48,800
+This shifts the focus from bringing the humans home to saving Wally's life.
+
+251
+00:13:48,800 --> 00:13:50,400
+Same for Meg getting squished.
+
+252
+00:13:50,400 --> 00:13:55,400
+Or the MacGuffin being given to the physically weaker, but more central protagonist to go do the thing.
+
+253
+00:13:55,400 --> 00:13:58,600
+The twist in the third act isn't also necessarily a twist,
+
+254
+00:13:58,600 --> 00:14:02,900
+as Merelda's fake death in Hunchback of Notre Dame brings the conflict to a more intimate place,
+
+255
+00:14:02,900 --> 00:14:06,700
+but it doesn't really change anything, because she was always Quasimodo's focus.
+
+256
+00:14:06,700 --> 00:14:10,400
+But it is something that narrows or shifts the focus of the third act's main tension.
+
+257
+00:14:10,400 --> 00:14:11,700
+Stop!
+
+258
+00:14:11,700 --> 00:14:14,600
+The climax shows us the resolution to the final tension.
+
+259
+00:14:14,600 --> 00:14:17,000
+Eve races to save Wally and succeeds.
+
+260
+00:14:17,000 --> 00:14:20,200
+The magic spell is broken, Beast turns human, and Belle's like,
+
+261
+00:14:20,200 --> 00:14:21,800
+eh, you'll do.
+
+262
+00:14:21,800 --> 00:14:24,300
+Max gives his blood to save Furiosa's life,
+
+263
+00:14:24,300 --> 00:14:26,900
+symbolized by him finally telling her his name.
+
+264
+00:14:26,900 --> 00:14:29,400
+Max.
+
+265
+00:14:29,400 --> 00:14:30,700
+My name is Max.
+
+266
+00:14:30,700 --> 00:14:34,100
+In a romance, the couple finally gets together, and love conquers all,
+
+267
+00:14:34,100 --> 00:14:36,900
+though this does not necessarily preclude someone dying.
+
+268
+00:14:36,900 --> 00:14:39,800
+The climax usually pertains to some form of character growth,
+
+269
+00:14:39,800 --> 00:14:43,600
+such as Luke learning to trust his feelings, allowing him to destroy the Death Star,
+
+270
+00:14:43,600 --> 00:14:47,200
+or Megamind's goodness being defined by finally learning from his mistakes,
+
+271
+00:14:47,200 --> 00:14:48,500
+which he never did as a villain.
+
+272
+00:14:48,500 --> 00:14:50,700
+There's a benefit to losing.
+
+273
+00:14:50,700 --> 00:14:52,400
+You get to learn from your mistakes.
+
+274
+00:14:52,500 --> 00:14:56,300
+And the character growth we see in the third act was probably addressed in the first sequence.
+
+275
+00:14:56,300 --> 00:14:57,300
+The tomb runs.
+
+276
+00:14:57,300 --> 00:15:01,500
+Eddie has come to terms with his brother's death and no longer blames all of Toondam for it.
+
+277
+00:15:01,500 --> 00:15:05,400
+Aladdin realizes that pretending to be something he's not won't win him love.
+
+278
+00:15:05,400 --> 00:15:10,200
+Joel accepts that our memories, even painful ones, make us who we are and must be lived with.
+
+279
+00:15:10,200 --> 00:15:12,900
+Shia LaBeouf, well, he's still a s**t,
+
+280
+00:15:12,900 --> 00:15:16,600
+but now he's a s**t that stuck a cube in Megatron's chest, I guess.
+
+281
+00:15:16,600 --> 00:15:19,300
+But this resolution doesn't always have to be so conventional.
+
+282
+00:15:19,300 --> 00:15:22,800
+For instance, with Nightcrawler, where the growth is that he doesn't grow,
+
+283
+00:15:22,800 --> 00:15:24,600
+and that's what makes the narrative unsettling.
+
+284
+00:15:24,600 --> 00:15:28,400
+Hopefully, you don't notice structure elements while you're watching a movie for the first time,
+
+285
+00:15:28,400 --> 00:15:30,900
+unless you're bored and that's all you can focus on.
+
+286
+00:15:30,900 --> 00:15:32,100
+And I've definitely done that.
+
+287
+00:15:32,100 --> 00:15:35,600
+But they are there for us to learn from and to help us learn how tension and conflict
+
+288
+00:15:35,600 --> 00:15:38,700
+is created and maintained throughout a two-hour-ish narrative.
+
+289
+00:15:38,700 --> 00:15:41,900
+We don't study the three-act structure to learn how to be more creative,
+
+290
+00:15:41,900 --> 00:15:45,600
+but to be more critical of writing and aware of what drives momentum of a story.
+
+291
+00:15:45,600 --> 00:15:50,300
+Hulk asserts that learning about act structure is not instructing you how to actually write.
+
+292
+00:15:50,300 --> 00:15:53,900
+It provides none of the good stuff that is critical to understanding narrative.
+
+293
+00:15:53,900 --> 00:15:55,400
+And I would agree with the first part,
+
+294
+00:15:55,400 --> 00:15:58,700
+but not the assessment that it provides no basis for understanding narrative.
+
+295
+00:15:58,700 --> 00:16:01,200
+I don't think the study of story helps with the creative process
+
+296
+00:16:01,200 --> 00:16:05,300
+so much as it helps us to understand why what we've already created works.
+
+297
+00:16:05,300 --> 00:16:08,700
+But structure and tension also does not exist independent from character.
+
+298
+00:16:08,700 --> 00:16:09,600
+Far from it.
+
+299
+00:16:09,600 --> 00:16:12,500
+You need character motivation in order for narrative to have tension,
+
+300
+00:16:12,500 --> 00:16:15,300
+and you need to have plot stuff in order to have character motivation.
+
+301
+00:16:15,400 --> 00:16:19,100
+As a writer, if you think only in terms of ticking boxes for the sake of structure,
+
+302
+00:16:19,100 --> 00:16:21,900
+yeah, it's probably not going to be a very great story.
+
+303
+00:16:21,900 --> 00:16:24,500
+That, I think, is one of the biggest problems with Hercules.
+
+304
+00:16:24,500 --> 00:16:29,400
+But it can help us to understand where and how tension and conflict exist and can be bettered.
+
+305
+00:16:29,400 --> 00:16:34,200
+I also don't think of the three-act structure as necessarily something to advocate or not advocate,
+
+306
+00:16:34,200 --> 00:16:37,000
+but simply the most common and commercial style of narrative,
+
+307
+00:16:37,000 --> 00:16:38,700
+and therefore a good place to start learning.
+
+308
+00:16:38,700 --> 00:16:42,400
+I don't think it's mandatory for all film narratives to have a three-act structure,
+
+309
+00:16:42,400 --> 00:16:46,900
+but I do think it helps to understand how it works before one decides to expand upon that structure.
+
+310
+00:16:46,900 --> 00:16:50,400
+It is, after all, the most common and utilized for a reason.
+
+311
+00:16:50,400 --> 00:16:51,400
+Thank you for watching.
+
+312
+00:16:51,400 --> 00:16:57,700
+If you have any examples or discussions about movies that do or do not necessarily adhere to the three-act structure,
+
+313
+00:16:57,700 --> 00:16:59,600
+go ahead and leave them in the comments below.
+
+314
+00:16:59,600 --> 00:17:01,900
+Thanks for watching, and I will see you next time.
+

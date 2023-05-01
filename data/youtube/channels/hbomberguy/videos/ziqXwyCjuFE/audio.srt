@@ -1,0 +1,768 @@
+1
+00:00:00,000 --> 00:00:06,960
+While I wait for the votes on the previous video to tally up, I thought I'd make a
+
+2
+00:00:06,960 --> 00:00:09,800
+quick video about Darkest Dungeon.
+
+3
+00:00:09,800 --> 00:00:19,160
+Don't let the game's well-drawn, well-animated, well-voiced opening fool you.
+
+4
+00:00:19,160 --> 00:00:22,480
+This game's story isn't anything about reclaiming your old home and clearing your
+
+5
+00:00:22,480 --> 00:00:24,080
+family's debt to history.
+
+6
+00:00:24,080 --> 00:00:27,600
+This game's story is about being an HR manager for the worst business in the world.
+
+7
+00:00:27,600 --> 00:00:29,840
+Let's talk about Ludo Narrative.
+
+8
+00:00:29,840 --> 00:00:33,680
+Looks like a big, scary, pretentious word idiots use in think pieces, doesn't it?
+
+9
+00:00:33,680 --> 00:00:36,320
+Well, don't worry, let me translate it for you.
+
+10
+00:00:36,320 --> 00:00:40,480
+Narrative means narrative, and Ludo is Latin for I play.
+
+11
+00:00:40,480 --> 00:00:43,080
+Play story doesn't sound nearly as smart, does it?
+
+12
+00:00:43,080 --> 00:00:46,800
+Basically, it's when the emotional effect of the game on the player is the real story,
+
+13
+00:00:46,800 --> 00:00:49,420
+and the setting and plot amount mostly to set dressing.
+
+14
+00:00:49,420 --> 00:00:53,720
+All games have a Ludo narrative of sorts, but not all of them make it their actual focus.
+
+15
+00:00:53,720 --> 00:00:57,360
+Darkest Dungeon's typical loop is you build a party, venture forth into a dungeon, crawl
+
+16
+00:00:57,360 --> 00:01:01,360
+room-to-room fighting bad guys, get scared, get hurt, collect identical busts of the same
+
+17
+00:01:01,360 --> 00:01:04,680
+guy, accidentally walk into traps because the movement system's a little bit too finicky
+
+18
+00:01:04,680 --> 00:01:07,080
+sometimes, and make heroic speeches around a campfire.
+
+19
+00:01:07,080 --> 00:01:10,600
+Then you leave with your loot and use the money to upgrade your stuff and go to harder places.
+
+20
+00:01:10,600 --> 00:01:12,840
+But none of this is the actual game.
+
+21
+00:01:12,840 --> 00:01:16,360
+It looks nice, and the battle engine is fairly complex, but it's never really in doubt
+
+22
+00:01:16,360 --> 00:01:19,760
+what the best move is in any given circumstance, at least in my opinion.
+
+23
+00:01:19,760 --> 00:01:23,480
+The battles boil down to, do you want to deal a lot of damage to a guy, deal less damage
+
+24
+00:01:23,480 --> 00:01:27,280
+to several guys, inflict bleed on one or more guys, causing them to lose health over time,
+
+25
+00:01:27,280 --> 00:01:31,880
+inflict Blight on them, which does the same thing but better, or stun someone so they can't stab you.
+
+26
+00:01:31,880 --> 00:01:35,000
+If you know basic maths, there's always a pretty obvious choice.
+
+27
+00:01:35,000 --> 00:01:38,000
+If this was the game, it wouldn't be out of place on the iPhone App Store.
+
+28
+00:01:38,000 --> 00:01:42,080
+That's not an insult, it's just not that complex of an RPG if you take the battle system alone.
+
+29
+00:01:42,080 --> 00:01:44,600
+The real game is everything outside of the dungeons.
+
+30
+00:01:44,600 --> 00:01:48,560
+While it's always obvious what the best move is in any given battle, your band of mercenaries
+
+31
+00:01:48,560 --> 00:01:50,280
+have to be picked by you.
+
+32
+00:01:50,280 --> 00:01:53,640
+Their placement in the party order has to be picked, which affects what moves they can do
+
+33
+00:01:53,640 --> 00:01:54,800
+and who they can do them to.
+
+34
+00:01:54,800 --> 00:01:56,920
+The items they enter the dungeon with have to be picked.
+
+35
+00:01:56,920 --> 00:02:00,440
+It's possible to let a good party go completely to hell because you didn't give them enough
+
+36
+00:02:00,440 --> 00:02:04,720
+bandages or shovels or torches and they got stuck digging through the rock with their bare hands,
+
+37
+00:02:04,720 --> 00:02:06,360
+bleeding to death in the dark.
+
+38
+00:02:06,360 --> 00:02:09,760
+You can be really good at knowing when to do bleed, when to do Blight, when to stun,
+
+39
+00:02:09,760 --> 00:02:12,480
+and when to hit people with your axe, sword, mace, or dog,
+
+40
+00:02:12,480 --> 00:02:16,080
+but if you didn't bring enough torches, all of these poor people you sent in to do your work
+
+41
+00:02:16,080 --> 00:02:17,440
+are probably gonna die.
+
+42
+00:02:17,440 --> 00:02:20,040
+Oh, also, all of your employees get stressed.
+
+43
+00:02:20,040 --> 00:02:20,840
+Idiots.
+
+44
+00:02:20,840 --> 00:02:23,000
+Don't they know some people have to work three jobs?
+
+45
+00:02:23,000 --> 00:02:24,320
+God, they're so dramatic.
+
+46
+00:02:24,320 --> 00:02:25,960
+And guess what? If their stress gets too high,
+
+47
+00:02:25,960 --> 00:02:30,000
+they freak out and can develop some seriously messed-up reactions that make it really difficult to work with them.
+
+48
+00:02:30,480 --> 00:02:31,000
+Kevin!
+
+49
+00:02:31,440 --> 00:02:32,600
+Kev- Kev- Stop it!
+
+50
+00:02:33,280 --> 00:02:34,040
+Kevin!
+
+51
+00:02:34,040 --> 00:02:36,040
+And if they get too stressed out, they'll die.
+
+52
+00:02:36,040 --> 00:02:39,560
+So you can't bring your best, most experienced people into every fight because they'll go mad,
+
+53
+00:02:39,560 --> 00:02:42,520
+harass their friends, and die of a heart attack like me in Fast Forward.
+
+54
+00:02:42,520 --> 00:02:46,160
+So you have to put them on standby in a bar, getting drunk, or gambling away your money,
+
+55
+00:02:46,160 --> 00:02:50,440
+or praying in a church and donating your money to the church before deciding they want to pray forever
+
+56
+00:02:50,440 --> 00:02:51,960
+and now they're never gonna leave.
+
+57
+00:02:51,960 --> 00:02:55,160
+And even when you have all this under control, the characters all have quirks.
+
+58
+00:02:55,160 --> 00:02:56,840
+A lot of these are simple gameplay stuff.
+
+59
+00:02:56,840 --> 00:02:59,960
+Simpsons' Hentai is a ruins explorer, so she's better in the ruins levels,
+
+60
+00:02:59,960 --> 00:03:03,800
+and Mii is a wheeled adventurer, so he's 15% better in the...
+
+61
+00:03:03,800 --> 00:03:05,800
+wheeled... whatever that is.
+
+62
+00:03:05,800 --> 00:03:07,120
+What is a wheeled?
+
+63
+00:03:07,120 --> 00:03:09,040
+I have no idea what a wheeled is.
+
+64
+00:03:09,040 --> 00:03:10,960
+But a lot of these quirks are a little more personal.
+
+65
+00:03:10,960 --> 00:03:13,680
+Some people are known to cheat, so they can't gamble to reduce stress,
+
+66
+00:03:13,680 --> 00:03:16,880
+and some will only gamble, which is arguably an even worse problem in the long run,
+
+67
+00:03:16,880 --> 00:03:19,280
+and some are super religious, so they'll only meditate,
+
+68
+00:03:19,280 --> 00:03:24,200
+which is a huge problem if the one place you can meditate is taken up by someone who refuses to leave.
+
+69
+00:03:24,200 --> 00:03:29,200
+And as they fight, even if they do well when they level up, they don't always gain positive traits.
+
+70
+00:03:29,200 --> 00:03:31,120
+They can also gain negative ones.
+
+71
+00:03:31,120 --> 00:03:34,040
+So as your people get stronger, they get harder to work with,
+
+72
+00:03:34,040 --> 00:03:37,600
+and curing these negative traits costs money and time you don't have,
+
+73
+00:03:37,600 --> 00:03:42,080
+because you have to keep questing to get more stuff to make your blacksmith able to upgrade everyone's weapons
+
+74
+00:03:42,080 --> 00:03:46,400
+so your other guys who need rest will have the equipment to go on their quest when they get better from the last one.
+
+75
+00:03:46,400 --> 00:03:50,160
+So you have to bring a kleptomaniac along so they can carry the rest of the team
+
+76
+00:03:50,160 --> 00:03:54,200
+and just hope that their need to relentlessly touch everything doesn't get everyone killed.
+
+77
+00:03:54,200 --> 00:03:58,280
+And when someone does die, more people are always waiting in the winks to replace them,
+
+78
+00:03:58,280 --> 00:04:00,600
+bringing with them their own host of problems.
+
+79
+00:04:00,960 --> 00:04:02,200
+It's terrifying.
+
+80
+00:04:02,200 --> 00:04:04,760
+What is he gonna do with his dog?
+
+81
+00:04:04,760 --> 00:04:06,440
+This is the Ludonarrative.
+
+82
+00:04:06,440 --> 00:04:10,160
+It makes you feel like a real manager of people in a tense situation,
+
+83
+00:04:10,160 --> 00:04:12,200
+learning their intricacies and personal problems,
+
+84
+00:04:12,200 --> 00:04:14,640
+doing the best you can to patch them up, make them feel better,
+
+85
+00:04:14,640 --> 00:04:19,000
+and, with a little luck, keep them alive long enough to gain ground in the battle against darkness.
+
+86
+00:04:19,000 --> 00:04:21,880
+It's a long and difficult fight with highs and lows,
+
+87
+00:04:21,880 --> 00:04:26,240
+but for every time someone goes down or gets so stressed out they become a raging shitheel,
+
+88
+00:04:26,240 --> 00:04:29,480
+there are times when someone's stress gets tested, and they persevere,
+
+89
+00:04:29,480 --> 00:04:34,360
+and continue beyond the limits of your expectations and prove to be a true hero in the face of danger,
+
+90
+00:04:34,360 --> 00:04:36,000
+turning the tide completely.
+
+91
+00:04:36,000 --> 00:04:39,520
+You get invested in this struggle and learning to think like you're dealing with real people
+
+92
+00:04:39,520 --> 00:04:43,920
+marshalling this ever more insane workforce into performing a truly grueling task.
+
+93
+00:04:44,000 --> 00:04:47,280
+The dramatic tale of your ancestors' failings you unlock over the course of the game
+
+94
+00:04:47,280 --> 00:04:51,320
+pales in comparison to wondering if Tilly will ever come back from his drunken bender,
+
+95
+00:04:51,320 --> 00:04:54,840
+or wondering what the horrors of battle will have done to Simpsons' hentai this week.
+
+96
+00:04:54,840 --> 00:04:56,680
+Oh, great. What did you get this time?
+
+97
+00:04:57,960 --> 00:05:01,400
+Ha-ha-ha-ha-ha-ha-ha-ha!
+
+98
+00:05:02,040 --> 00:05:05,680
+Ha-ha-ha-ha-ha-ha-ha-ha-ha!
+
+99
+00:05:06,160 --> 00:05:13,200
+Oh, my God. Video games. Video games!
+
+100
+00:05:13,200 --> 00:05:17,040
+But seriously, this game makes you invested in these people's existence
+
+101
+00:05:17,040 --> 00:05:19,280
+and genuinely worry if they'll pull through.
+
+102
+00:05:19,280 --> 00:05:22,400
+All the stats and numbers and mechanics seem to melt away,
+
+103
+00:05:22,400 --> 00:05:25,440
+resulting in this personalized, freeform story.
+
+104
+00:05:25,440 --> 00:05:26,640
+It's great.
+
+105
+00:05:26,640 --> 00:05:29,680
+Rather than have a story of pre-planned character interactions
+
+106
+00:05:29,680 --> 00:05:32,480
+to passively troll through and make arbitrary decisions on,
+
+107
+00:05:32,480 --> 00:05:35,360
+the game spews forth an intricate web of mechanics
+
+108
+00:05:35,360 --> 00:05:38,640
+that forces you mentally into the role of a character.
+
+109
+00:05:38,640 --> 00:05:41,520
+It's a very rare game that even attempts this,
+
+110
+00:05:41,520 --> 00:05:45,600
+and seeing it achieved so well warms my cold, dead heart.
+
+111
+00:05:45,600 --> 00:05:48,080
+I have one major issue with Darkest Dungeon, though.
+
+112
+00:05:48,080 --> 00:05:52,320
+It does all this well enough that its problems become more glaring than in other games.
+
+113
+00:05:52,320 --> 00:05:55,120
+We've established that the actual game is about working with people
+
+114
+00:05:55,120 --> 00:05:59,120
+and getting that feeling on an emotional level of trying to manage a team, right?
+
+115
+00:05:59,120 --> 00:06:01,760
+Well, for a game that does this, it relies a little too much
+
+116
+00:06:01,760 --> 00:06:04,960
+on relating these people to you with cold, hard numbers and facts.
+
+117
+00:06:05,760 --> 00:06:07,360
+People aren't easy to pin down.
+
+118
+00:06:07,360 --> 00:06:09,280
+People are unexpected and surprising,
+
+119
+00:06:09,280 --> 00:06:12,640
+which is why some aspects of the quirk system feel underexplored.
+
+120
+00:06:12,640 --> 00:06:15,920
+Real-life people don't just have alcoholic written into their souls.
+
+121
+00:06:15,920 --> 00:06:17,760
+It's a little too mechanical and clunky
+
+122
+00:06:17,760 --> 00:06:20,320
+for a game that really focuses on these personal foibles.
+
+123
+00:06:20,960 --> 00:06:22,480
+It's also too easy to work around.
+
+124
+00:06:22,480 --> 00:06:24,400
+It just means you relieve their stress somewhere else,
+
+125
+00:06:24,400 --> 00:06:27,600
+or don't take them to the place where the thing that hurts them more lives.
+
+126
+00:06:27,600 --> 00:06:30,560
+It's still very good at creating the feeling of trying to work with people
+
+127
+00:06:30,560 --> 00:06:31,920
+with problems and get around them,
+
+128
+00:06:31,920 --> 00:06:34,400
+but at times it feels a little too mechanistic.
+
+129
+00:06:34,960 --> 00:06:37,440
+But even then, that's not all that negative.
+
+130
+00:06:37,440 --> 00:06:41,040
+That design decision brings a feeling of its own to the ludonarrative.
+
+131
+00:06:41,040 --> 00:06:43,680
+Perhaps treating people like they can be easily reduced
+
+132
+00:06:43,680 --> 00:06:45,440
+to a short list of good and bad points
+
+133
+00:06:45,440 --> 00:06:49,200
+is an effect of fighting in a war where people's lives are expendable.
+
+134
+00:06:49,200 --> 00:06:52,960
+In a sense, it replicates what it must be like to be in a situation like this,
+
+135
+00:06:52,960 --> 00:06:55,200
+and trying to just keep everyone going.
+
+136
+00:06:55,200 --> 00:06:57,760
+You start to treat humans a bit less like people,
+
+137
+00:06:57,760 --> 00:06:59,680
+and a bit more like statistics.
+
+138
+00:06:59,680 --> 00:07:02,160
+The game with arguably the best ludonarrative ever,
+
+139
+00:07:02,160 --> 00:07:04,480
+besides the otherwise underwhelming Bioshock games,
+
+140
+00:07:04,480 --> 00:07:07,360
+is Papers, Please, which manages this really well.
+
+141
+00:07:07,360 --> 00:07:10,000
+It's a game that teaches you to compromise your own morality
+
+142
+00:07:10,000 --> 00:07:11,360
+in favor of following the rules,
+
+143
+00:07:11,360 --> 00:07:14,080
+or simply trying to increase your own chances of survival,
+
+144
+00:07:14,080 --> 00:07:15,600
+but unlike Darkest Dungeon,
+
+145
+00:07:15,600 --> 00:07:18,480
+it manages to be messy and human at the same time.
+
+146
+00:07:18,480 --> 00:07:20,480
+This woman's passport has a misprint on it.
+
+147
+00:07:20,480 --> 00:07:22,880
+She's done nothing wrong, and you can just refuse her entry,
+
+148
+00:07:22,880 --> 00:07:24,960
+but you can also have her arrested,
+
+149
+00:07:24,960 --> 00:07:27,440
+and the guard who arrests people gets a bonus when you do it,
+
+150
+00:07:27,440 --> 00:07:29,360
+and he's offered to share his bonus with you
+
+151
+00:07:29,360 --> 00:07:30,400
+if you detain more people,
+
+152
+00:07:30,400 --> 00:07:32,640
+which you could use to keep your family warm and fed,
+
+153
+00:07:32,640 --> 00:07:33,280
+so you do it.
+
+154
+00:07:35,360 --> 00:07:37,760
+You let this poor woman get into a whole heap of trouble
+
+155
+00:07:37,760 --> 00:07:38,720
+for your own survival.
+
+156
+00:07:39,280 --> 00:07:41,600
+The next day, the guard tells you his wife was sick,
+
+157
+00:07:41,600 --> 00:07:43,280
+and he had to spend the money on the medicine
+
+158
+00:07:43,280 --> 00:07:45,520
+so he can't share his bonus with you this time.
+
+159
+00:07:45,520 --> 00:07:47,200
+You detained that woman for nothing.
+
+160
+00:07:47,920 --> 00:07:50,240
+I felt genuinely bad when this happened.
+
+161
+00:07:50,240 --> 00:07:53,440
+Like, bad on the inside, where my heart should be.
+
+162
+00:07:53,440 --> 00:07:54,480
+I made that choice.
+
+163
+00:07:54,960 --> 00:07:56,720
+I didn't have to, but I did.
+
+164
+00:07:56,720 --> 00:07:59,600
+The game avoids merely listing the rules out to you
+
+165
+00:07:59,600 --> 00:08:01,200
+for what money you can get and how,
+
+166
+00:08:01,200 --> 00:08:03,680
+and throws curveballs where sometimes
+
+167
+00:08:03,680 --> 00:08:05,360
+you don't get what you're told you'd get,
+
+168
+00:08:05,360 --> 00:08:08,160
+or a day suddenly gets cut short by a terrorist attack
+
+169
+00:08:08,160 --> 00:08:09,360
+so you don't make much money,
+
+170
+00:08:09,360 --> 00:08:11,360
+and you get stretched a little bit thinner.
+
+171
+00:08:12,080 --> 00:08:14,560
+In being willing to compromise its own rule set,
+
+172
+00:08:14,560 --> 00:08:17,760
+it accurately simulates the feeling of being in turbulent times
+
+173
+00:08:17,760 --> 00:08:19,440
+where nothing is certain.
+
+174
+00:08:19,440 --> 00:08:23,200
+Papers, Please is depressing and confusing and wonderful.
+
+175
+00:08:23,840 --> 00:08:25,840
+That's not to say that Darkest Dungeon is bad,
+
+176
+00:08:25,840 --> 00:08:28,320
+or even that I would change anything about it at all,
+
+177
+00:08:28,320 --> 00:08:31,280
+but I think there's also room for a game like Darkest Dungeon,
+
+178
+00:08:31,280 --> 00:08:32,720
+not necessarily an RPG,
+
+179
+00:08:32,720 --> 00:08:35,680
+where characters' flaws are all a little harder to pin down,
+
+180
+00:08:35,680 --> 00:08:38,400
+forcing you to detective out each character's deal
+
+181
+00:08:38,400 --> 00:08:41,200
+and react to it in ways that feel more natural.
+
+182
+00:08:41,200 --> 00:08:43,280
+If I wasn't already working on a game right now,
+
+183
+00:08:45,280 --> 00:08:49,040
+I would probably try to make something that incorporates that idea somewhere.
+
+184
+00:08:49,040 --> 00:08:49,920
+Maybe in the future.
+
+185
+00:08:54,080 --> 00:08:55,120
+Thanks very much for watching.
+
+186
+00:08:55,120 --> 00:08:57,760
+Uh, please check out—my knee just cracked.
+
+187
+00:08:57,760 --> 00:08:59,200
+Thanks very much for watching,
+
+188
+00:08:59,200 --> 00:09:05,840
+and, uh, please check out my previous video about the—the Braid game,
+
+189
+00:09:05,840 --> 00:09:10,400
+and at the end you can vote on it, on what the next video is.
+
+190
+00:09:10,400 --> 00:09:12,240
+You should probably go and do that if you haven't.
+
+191
+00:09:12,240 --> 00:09:12,880
+Thanks.
+
+192
+00:09:12,880 --> 00:09:14,880
+Bye!
+

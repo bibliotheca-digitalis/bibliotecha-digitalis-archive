@@ -1,0 +1,4556 @@
+1
+00:00:00,000 --> 00:00:05,700
+Austin Jorgensen's series Lisa is one of those cult hits,
+
+2
+00:00:05,700 --> 00:00:09,900
+the kind where it's quite genuinely formed a cult of people who are really into it,
+
+3
+00:00:09,900 --> 00:00:13,600
+but not many people outside the in-group really know that much about it.
+
+4
+00:00:13,600 --> 00:00:16,100
+This is probably because it's hard to talk about.
+
+5
+00:00:16,100 --> 00:00:17,900
+It's got a lot of really funny moments,
+
+6
+00:00:17,900 --> 00:00:21,900
+some excellent examples of great writing or perfect comedic timing,
+
+7
+00:00:21,900 --> 00:00:23,700
+but unlike, for example, Undertale,
+
+8
+00:00:23,700 --> 00:00:27,800
+the story's content has some pretty gruesome and uncomfortable material.
+
+9
+00:00:27,800 --> 00:00:31,400
+It enters into an artistic territory where you'd need to know someone pretty well
+
+10
+00:00:31,400 --> 00:00:33,200
+to feel okay recommending it to them.
+
+11
+00:00:33,200 --> 00:00:36,000
+It explores themes that can be quite difficult to talk about
+
+12
+00:00:36,000 --> 00:00:38,700
+and which plenty of people quite justifiably don't want to,
+
+13
+00:00:38,700 --> 00:00:42,100
+and the game is too good at focusing on what it wants to be about
+
+14
+00:00:42,100 --> 00:00:44,900
+that you can't ignore it and just focus on something else.
+
+15
+00:00:44,900 --> 00:00:48,500
+There's a process in modern game discourse I like to call memification.
+
+16
+00:00:48,500 --> 00:00:52,300
+To be a little bit cynical, if you wanted to for easy clicks,
+
+17
+00:00:52,300 --> 00:00:55,300
+there are some games you can invent reasons to talk about if you need to.
+
+18
+00:00:55,300 --> 00:00:58,900
+The game's story and themes are loose and friendly and open enough
+
+19
+00:00:58,900 --> 00:01:01,500
+that you can reapply the critical lens over and over
+
+20
+00:01:01,500 --> 00:01:05,300
+and always have a new, somewhat facile element to explore for an audience.
+
+21
+00:01:05,300 --> 00:01:07,700
+You can speculate for all time about some games
+
+22
+00:01:07,700 --> 00:01:10,100
+if they have certain features that make it easy to do so.
+
+23
+00:01:10,100 --> 00:01:12,800
+You could even do a needlessly in-depth analysis
+
+24
+00:01:12,800 --> 00:01:16,500
+of one character's relationship with anime.
+
+25
+00:01:16,500 --> 00:01:18,100
+No way, that one was mine, wasn't it?
+
+26
+00:01:18,100 --> 00:01:20,200
+But when someone like that attempts to play Lisa,
+
+27
+00:01:20,200 --> 00:01:25,100
+a game whose themes are unavoidable and specific and beautiful and horrific and sad,
+
+28
+00:01:25,100 --> 00:01:26,900
+the best one could say is,
+
+29
+00:01:26,900 --> 00:01:28,800
+this reminds me of Undertale.
+
+30
+00:01:28,800 --> 00:01:32,600
+The only way to relate the experience through such a critically dysfunctional perspective
+
+31
+00:01:32,600 --> 00:01:36,700
+is by using the lens of one of the two or three games you can talk about endlessly
+
+32
+00:01:36,700 --> 00:01:39,500
+before going back to talking about them endlessly.
+
+33
+00:01:39,500 --> 00:01:42,900
+Also, um, Lisa came out quite a bit before Undertale.
+
+34
+00:01:42,900 --> 00:01:43,700
+Just saying, man.
+
+35
+00:01:43,700 --> 00:01:47,600
+This is not a criticism of Undertale or the pretend-to-think-about-games economy,
+
+36
+00:01:47,600 --> 00:01:50,000
+although I guess on some level it kind of is both of those.
+
+37
+00:01:50,000 --> 00:01:53,100
+Rather, I'm laboring to point out that Lisa doesn't get talked about too much
+
+38
+00:01:53,100 --> 00:01:57,500
+because by its nature, the reasons why it's good can be hard to talk about.
+
+39
+00:01:57,500 --> 00:01:59,700
+With that in mind, I'm going to talk about it here
+
+40
+00:01:59,700 --> 00:02:02,600
+and spoil aspects of the plots of all three of the games
+
+41
+00:02:02,600 --> 00:02:05,800
+while not specifically summarizing them in explicit detail.
+
+42
+00:02:05,800 --> 00:02:09,700
+I would highly recommend pausing the video here and playing the games for yourself.
+
+43
+00:02:09,700 --> 00:02:11,500
+They're all either cheap or free,
+
+44
+00:02:11,500 --> 00:02:13,100
+so there isn't much of an excuse not to,
+
+45
+00:02:13,100 --> 00:02:16,000
+and I don't want to preemptively ruin your experience.
+
+46
+00:02:16,000 --> 00:02:18,400
+See you in, I don't know, 20 hours?
+
+47
+00:02:18,400 --> 00:02:21,900
+♪♪
+
+48
+00:02:21,900 --> 00:02:25,800
+Most people probably at least vaguely know of Yume Nikki or Dream Diary,
+
+49
+00:02:25,800 --> 00:02:28,400
+a free game made in an early version of RPG Maker
+
+50
+00:02:28,400 --> 00:02:31,800
+in which you control a girl named Madotsuki who refuses to leave her room.
+
+51
+00:02:31,800 --> 00:02:34,400
+Instead, she can go to bed and enter her dreams.
+
+52
+00:02:34,400 --> 00:02:36,100
+The game is light on plot,
+
+53
+00:02:36,100 --> 00:02:40,700
+instead relying on exploration and curiosity about the dream worlds you visit and how they work.
+
+54
+00:02:40,700 --> 00:02:43,000
+You can collect items which have some uses,
+
+55
+00:02:43,000 --> 00:02:46,100
+but I wouldn't really say the game has puzzles, per se.
+
+56
+00:02:46,100 --> 00:02:49,500
+It functions more as a dream itself, floating from area to area
+
+57
+00:02:49,500 --> 00:02:52,700
+as interesting and sometimes random events happen at you.
+
+58
+00:02:52,700 --> 00:02:55,500
+The game's well-known largely because of some of these events,
+
+59
+00:02:55,500 --> 00:02:58,700
+like when hitting a light switch sometimes makes this face appear.
+
+60
+00:02:58,700 --> 00:03:01,400
+♪♪
+
+61
+00:03:01,400 --> 00:03:04,800
+This face probably made Yume Nikki popular,
+
+62
+00:03:04,800 --> 00:03:07,500
+and this has a 1 in 64 chance of even happening.
+
+63
+00:03:07,500 --> 00:03:09,500
+I, uh, actually had to steal this footage.
+
+64
+00:03:09,500 --> 00:03:11,200
+While the game doesn't really have a plot,
+
+65
+00:03:11,200 --> 00:03:15,400
+it has buckets of story if you feel like interpreting the ideas it throws at you.
+
+66
+00:03:15,400 --> 00:03:17,600
+Consistent imagery of car crash victims,
+
+67
+00:03:17,600 --> 00:03:20,900
+grasping hands, staring eyes, being chased,
+
+68
+00:03:20,900 --> 00:03:24,100
+the sudden outbursts of quite scary visuals and music.
+
+69
+00:03:24,100 --> 00:03:27,000
+The reasons Madotsuki doesn't want to go out into the world for real
+
+70
+00:03:27,000 --> 00:03:29,400
+are made astonishingly clear in her dreams.
+
+71
+00:03:29,400 --> 00:03:32,800
+The game is, really, an exploration of one character's psyche
+
+72
+00:03:32,800 --> 00:03:35,700
+and what they think about in their most unguarded moments.
+
+73
+00:03:35,700 --> 00:03:38,100
+People think they can escape into their dreams,
+
+74
+00:03:38,100 --> 00:03:40,100
+but you bring your mind with you,
+
+75
+00:03:40,100 --> 00:03:43,700
+and if the thing you're trying to escape from had such a big impact on you,
+
+76
+00:03:43,700 --> 00:03:45,400
+you're not getting away so easily.
+
+77
+00:03:45,400 --> 00:03:48,600
+While the game is often praised for being weird or random,
+
+78
+00:03:48,600 --> 00:03:51,200
+Yume Nikki has a good deal of clarity of purpose
+
+79
+00:03:51,200 --> 00:03:52,600
+and probably resonates with people
+
+80
+00:03:52,600 --> 00:03:56,300
+because the experiences and ideas it explores are almost universal.
+
+81
+00:03:56,300 --> 00:04:00,400
+Almost everyone knows something bad could happen to them if they went outside,
+
+82
+00:04:00,400 --> 00:04:02,700
+so playing to the paranoia that can come from that
+
+83
+00:04:02,700 --> 00:04:04,900
+reaches a lot of people in parts of themselves
+
+84
+00:04:04,900 --> 00:04:06,400
+they don't often realize are there.
+
+85
+00:04:06,400 --> 00:04:09,500
+Yume Nikki was pretty impactful for a free RPG Maker game.
+
+86
+00:04:09,500 --> 00:04:13,400
+There's several fan games and even more original but overtly inspired works,
+
+87
+00:04:13,400 --> 00:04:16,400
+and one of them is Lisa, now called Lisa the First.
+
+88
+00:04:22,400 --> 00:04:26,900
+Lisa is a story about a girl trapped in an abusive home trying to imagine her escape,
+
+89
+00:04:26,900 --> 00:04:30,500
+but even in her own imagination, her experiences follow her everywhere.
+
+90
+00:04:30,500 --> 00:04:33,600
+The similarities are already clear, but the differences are interesting.
+
+91
+00:04:33,600 --> 00:04:37,600
+Trying to find an escape does involve collecting and using various items to progress,
+
+92
+00:04:37,600 --> 00:04:40,000
+which is a little more direct than how Yume Nikki does it,
+
+93
+00:04:40,000 --> 00:04:42,200
+but the themes are also much more direct,
+
+94
+00:04:42,200 --> 00:04:44,100
+making them somewhat more impactful.
+
+95
+00:04:44,100 --> 00:04:47,300
+Almost every character is portrayed by Lisa's abusive father,
+
+96
+00:04:47,300 --> 00:04:51,000
+and trying to play to the bizarre whims of this rather singular cast
+
+97
+00:04:51,000 --> 00:04:53,500
+is in its own way kind of depressing and scary.
+
+98
+00:04:53,500 --> 00:04:55,800
+I'd recommend people play as much of the game as they can
+
+99
+00:04:55,800 --> 00:04:57,900
+until they find a puzzle they don't know how to solve
+
+100
+00:04:57,900 --> 00:05:00,900
+or get sick of dying to the spiders with the father's face on them
+
+101
+00:05:00,900 --> 00:05:03,800
+and then watch a playthrough of someone who knows what they're doing on YouTube.
+
+102
+00:05:03,800 --> 00:05:05,500
+It doesn't really hold up as a game,
+
+103
+00:05:05,500 --> 00:05:09,000
+but as a story, as an exploration of a mind, as an atmosphere,
+
+104
+00:05:09,000 --> 00:05:11,200
+it's emotionally quite an experience.
+
+105
+00:05:11,200 --> 00:05:13,900
+An idea that starts here and prevails throughout the series
+
+106
+00:05:13,900 --> 00:05:17,400
+and is one of its best features is the reuse of music from previous areas,
+
+107
+00:05:17,400 --> 00:05:18,600
+but at different speeds.
+
+108
+00:05:27,200 --> 00:05:29,400
+These stories put you in the mind of characters
+
+109
+00:05:29,400 --> 00:05:31,800
+whose psyche is damaged by their experiences,
+
+110
+00:05:31,800 --> 00:05:35,200
+and having even the music second-guess your memory of how it sounds
+
+111
+00:05:35,200 --> 00:05:36,700
+is really disconcerting.
+
+112
+00:05:36,700 --> 00:05:39,100
+It's cool getting the opportunity to see a work
+
+113
+00:05:39,100 --> 00:05:41,200
+very openly inspired by something else,
+
+114
+00:05:41,200 --> 00:05:43,900
+but also full of elements unique to itself.
+
+115
+00:05:43,900 --> 00:05:46,400
+Or should I say you-may-neek to itself?
+
+116
+00:05:46,400 --> 00:05:47,400
+What am I talking about?
+
+117
+00:05:47,400 --> 00:05:50,600
+The ending terminates disturbingly with this game over screen,
+
+118
+00:05:50,600 --> 00:05:53,100
+and this is actually the last we ever physically see of Lisa
+
+119
+00:05:53,100 --> 00:05:55,100
+in a series named for her,
+
+120
+00:05:55,100 --> 00:05:57,000
+though characters have visions of her everywhere
+
+121
+00:05:57,000 --> 00:05:59,400
+and her presence looms large in the rest of the story.
+
+122
+00:06:09,100 --> 00:06:13,300
+♪
+
+123
+00:06:13,300 --> 00:06:16,400
+Lisa, the Painful, also made in a version of RPG Maker,
+
+124
+00:06:16,400 --> 00:06:18,800
+has a very different approach entirely to storytelling
+
+125
+00:06:18,800 --> 00:06:20,700
+and more traditional RPG elements,
+
+126
+00:06:20,700 --> 00:06:23,500
+and what's surprising about it is that this doesn't distract
+
+127
+00:06:23,500 --> 00:06:25,500
+from giving the player an emotional through-line.
+
+128
+00:06:25,500 --> 00:06:29,300
+RPGs have a tendency to sharply divide their gameplay and story.
+
+129
+00:06:29,300 --> 00:06:32,300
+You level your characters and gather equipment and items and fight
+
+130
+00:06:32,300 --> 00:06:35,300
+and then reach the next story beat in the form of a cutscene.
+
+131
+00:06:35,300 --> 00:06:39,000
+Quite often you see fans of the expansive scope and story of RPGs,
+
+132
+00:06:39,000 --> 00:06:41,800
+but who aren't hugely into the parts where they have to battle monsters
+
+133
+00:06:41,800 --> 00:06:43,600
+or level grind between those bits,
+
+134
+00:06:43,600 --> 00:06:46,100
+or the opposite where they might even skip the story
+
+135
+00:06:46,100 --> 00:06:48,000
+to get to the part that engages them better,
+
+136
+00:06:48,000 --> 00:06:49,300
+the actual gameplay.
+
+137
+00:06:49,300 --> 00:06:52,200
+If you like both, you kind of have to like them separately
+
+138
+00:06:52,200 --> 00:06:53,700
+on different levels from one another
+
+139
+00:06:53,700 --> 00:06:56,700
+because they're ultimately very disparate aspects of the game.
+
+140
+00:06:56,700 --> 00:06:59,600
+The Painful's greatest quality is that it does everything it can
+
+141
+00:06:59,600 --> 00:07:01,600
+to be a synthesis of both of these elements,
+
+142
+00:07:01,600 --> 00:07:03,700
+making them complement each other so directly
+
+143
+00:07:03,700 --> 00:07:06,100
+that you can no longer really delineate them at all.
+
+144
+00:07:06,200 --> 00:07:08,300
+All the most involving story moments
+
+145
+00:07:08,300 --> 00:07:10,700
+also have direct importance on gameplay.
+
+146
+00:07:10,700 --> 00:07:12,800
+Losing all your characters or a party member
+
+147
+00:07:12,800 --> 00:07:14,300
+or having to play Russian roulette
+
+148
+00:07:14,300 --> 00:07:15,900
+and risk literally losing characters
+
+149
+00:07:15,900 --> 00:07:18,900
+to random chance to continue can be devastating
+
+150
+00:07:18,900 --> 00:07:20,600
+in the same way that in several battles
+
+151
+00:07:20,600 --> 00:07:22,900
+it's possible for a character to straight-up get killed
+
+152
+00:07:22,900 --> 00:07:23,900
+instead of KO'd.
+
+153
+00:07:23,900 --> 00:07:27,800
+♪
+
+154
+00:07:27,800 --> 00:07:30,200
+♪
+
+155
+00:07:30,200 --> 00:07:33,300
+By inflicting all the deaths and loss of the story
+
+156
+00:07:33,300 --> 00:07:34,600
+on the player mechanically,
+
+157
+00:07:34,600 --> 00:07:37,200
+by genuinely taking away everything they'd found
+
+158
+00:07:37,200 --> 00:07:38,500
+or characters they play with,
+
+159
+00:07:38,500 --> 00:07:40,500
+they're forcing the player to experience
+
+160
+00:07:40,500 --> 00:07:43,100
+the story aspects of the game on a direct level.
+
+161
+00:07:43,100 --> 00:07:44,400
+When something bad happens,
+
+162
+00:07:44,400 --> 00:07:46,600
+it's not just bad because you theoretically care
+
+163
+00:07:46,600 --> 00:07:47,700
+about these characters.
+
+164
+00:07:47,700 --> 00:07:50,200
+It's bad because you need those people
+
+165
+00:07:50,200 --> 00:07:51,900
+and you want those things.
+
+166
+00:07:51,900 --> 00:07:53,600
+Stop taking my things!
+
+167
+00:07:53,600 --> 00:07:56,100
+Speaking of things, those things are important.
+
+168
+00:07:56,100 --> 00:07:57,400
+Take, for example, firebombs.
+
+169
+00:07:57,400 --> 00:07:58,500
+They do a ton of damage
+
+170
+00:07:58,500 --> 00:08:00,400
+and inflict the fire effect on your enemies
+
+171
+00:08:00,400 --> 00:08:02,300
+and are very useful in boss battles
+
+172
+00:08:02,300 --> 00:08:04,500
+or with bigger fights against larger groups
+
+173
+00:08:04,500 --> 00:08:06,900
+or if you've already lost a lot of party members.
+
+174
+00:08:06,900 --> 00:08:10,000
+You might actually genuinely need the items you can find
+
+175
+00:08:10,000 --> 00:08:11,400
+as opposed to a lot of RPGs
+
+176
+00:08:11,400 --> 00:08:13,200
+where most of the stuff feels optional
+
+177
+00:08:13,200 --> 00:08:15,400
+or just, like, another potion or something.
+
+178
+00:08:15,400 --> 00:08:17,200
+This causes the player to invest more
+
+179
+00:08:17,200 --> 00:08:18,700
+in trying to find these things
+
+180
+00:08:18,700 --> 00:08:20,200
+which makes the game more engaging
+
+181
+00:08:20,200 --> 00:08:22,700
+and very effectively puts you into the role
+
+182
+00:08:22,700 --> 00:08:24,900
+of someone scavenging a broken wasteland
+
+183
+00:08:24,900 --> 00:08:26,300
+for anything of value.
+
+184
+00:08:26,300 --> 00:08:28,900
+I made a video last year exploring ludonarrative,
+
+185
+00:08:28,900 --> 00:08:31,100
+the idea that while games can have stories,
+
+186
+00:08:31,100 --> 00:08:33,400
+the actual story was the player's experience
+
+187
+00:08:33,400 --> 00:08:35,300
+of the game itself through its mechanics
+
+188
+00:08:35,300 --> 00:08:38,500
+and really engaging games forge an emotional perspective
+
+189
+00:08:38,500 --> 00:08:39,600
+for the player to occupy
+
+190
+00:08:39,600 --> 00:08:41,500
+through good execution of those mechanics
+
+191
+00:08:41,500 --> 00:08:45,100
+and Lisa might be the best game I've ever seen at this.
+
+192
+00:08:45,100 --> 00:08:47,600
+It's one of few games where I've had a bad outcome,
+
+193
+00:08:47,600 --> 00:08:49,400
+lost someone permanently in a hard fight
+
+194
+00:08:49,400 --> 00:08:50,900
+a long way off from my last save
+
+195
+00:08:50,900 --> 00:08:53,700
+or almost all of my party to Russian roulette
+
+196
+00:08:53,700 --> 00:08:55,900
+and continued because I'd come so far
+
+197
+00:08:55,900 --> 00:08:57,600
+and didn't want to have to go all the way back
+
+198
+00:08:57,600 --> 00:09:00,400
+or worse off, had no idea how much worse it would be
+
+199
+00:09:00,400 --> 00:09:01,600
+if I tried again.
+
+200
+00:09:01,700 --> 00:09:04,000
+I save scum like a madman in games when I can,
+
+201
+00:09:04,000 --> 00:09:05,800
+like I have a folder on my hard drive
+
+202
+00:09:05,800 --> 00:09:08,800
+full of Darkest Dungeon and XCOM saves just in case
+
+203
+00:09:08,800 --> 00:09:11,800
+but Lisa makes pressing on despite what comes by you
+
+204
+00:09:11,800 --> 00:09:13,300
+feel like the right thing to do
+
+205
+00:09:13,300 --> 00:09:16,000
+and always makes it inconvenient enough
+
+206
+00:09:16,000 --> 00:09:18,000
+that the alternative, loading a save,
+
+207
+00:09:18,000 --> 00:09:20,700
+feels like a punishment itself that you want to avoid.
+
+208
+00:09:20,700 --> 00:09:22,700
+You have to press on because the last save point
+
+209
+00:09:22,700 --> 00:09:23,800
+was way back there
+
+210
+00:09:23,800 --> 00:09:26,500
+and who knows how many people you'll lose next time.
+
+211
+00:09:26,500 --> 00:09:28,200
+There are several points where the player is told
+
+212
+00:09:28,200 --> 00:09:30,600
+to make a choice between losing everything they have
+
+213
+00:09:30,600 --> 00:09:32,900
+or a person's life or one of Brad's arms.
+
+214
+00:09:32,900 --> 00:09:35,600
+These choices aren't reversible and can't be worked around.
+
+215
+00:09:35,600 --> 00:09:37,800
+Losing one or both arms permanently alters
+
+216
+00:09:37,800 --> 00:09:40,200
+the mechanics and abilities of the one party member
+
+217
+00:09:40,200 --> 00:09:41,400
+you'll always have,
+
+218
+00:09:41,400 --> 00:09:43,000
+losing a party member whose abilities
+
+219
+00:09:43,000 --> 00:09:44,800
+you probably need to survive,
+
+220
+00:09:44,800 --> 00:09:47,000
+losing all the firebombs and equipment
+
+221
+00:09:47,000 --> 00:09:48,300
+keeping you alive.
+
+222
+00:09:48,300 --> 00:09:50,100
+These are all choices that are difficult
+
+223
+00:09:50,100 --> 00:09:52,900
+and each genuinely make the game harder.
+
+224
+00:09:52,900 --> 00:09:55,400
+You actually want, because of the game's mechanics,
+
+225
+00:09:55,400 --> 00:09:57,200
+to keep all of these people
+
+226
+00:09:57,200 --> 00:09:59,700
+because they're relevant not to the game's story
+
+227
+00:09:59,700 --> 00:10:02,200
+but to your ability to get through the game
+
+228
+00:10:02,200 --> 00:10:04,200
+and this means being forced to choose
+
+229
+00:10:04,200 --> 00:10:07,500
+is more painful than most other decisions in video games.
+
+230
+00:10:07,500 --> 00:10:09,300
+If these characters were just other characters
+
+231
+00:10:09,300 --> 00:10:11,000
+in the story that was also happening
+
+232
+00:10:11,000 --> 00:10:13,800
+while I was playing an unrelated RPG in fights,
+
+233
+00:10:13,800 --> 00:10:15,100
+this wouldn't have mattered at all,
+
+234
+00:10:15,100 --> 00:10:17,200
+but when someone threatens Terry,
+
+235
+00:10:17,200 --> 00:10:19,700
+your best friend, more on Terry later,
+
+236
+00:10:19,700 --> 00:10:21,500
+that means something.
+
+237
+00:10:21,500 --> 00:10:23,900
+These characters have mechanical value to the player
+
+238
+00:10:23,900 --> 00:10:26,500
+who might well have come to rely on them in fights.
+
+239
+00:10:26,500 --> 00:10:28,700
+Fascinatingly, most of the characters in your party
+
+240
+00:10:28,700 --> 00:10:31,400
+in Lisa don't matter to the main story whatsoever,
+
+241
+00:10:31,400 --> 00:10:33,400
+but I cared more about their survival
+
+242
+00:10:33,400 --> 00:10:35,500
+because they were important to me.
+
+243
+00:10:35,500 --> 00:10:37,500
+Having to choose to go without items to keep them
+
+244
+00:10:37,500 --> 00:10:39,300
+or learn to press on without them
+
+245
+00:10:39,300 --> 00:10:41,200
+because losing all your healing items
+
+246
+00:10:41,200 --> 00:10:43,500
+and money and firebombs just isn't manageable
+
+247
+00:10:43,500 --> 00:10:46,100
+is a real choice that you have to account for.
+
+248
+00:10:46,100 --> 00:10:48,900
+I can imagine having characters or items taken away
+
+249
+00:10:48,900 --> 00:10:50,700
+being frustrating for some players,
+
+250
+00:10:50,700 --> 00:10:53,400
+but it's absolutely fitting to this one story
+
+251
+00:10:53,400 --> 00:10:56,700
+and I do think that frustration is itself compelling.
+
+252
+00:10:56,700 --> 00:10:59,100
+The same way that having to send Simpsons hentai
+
+253
+00:10:59,100 --> 00:11:01,000
+to the brothel to keep them from losing their mind
+
+254
+00:11:01,000 --> 00:11:03,000
+completely was in Darkest Dungeon.
+
+255
+00:11:03,000 --> 00:11:04,800
+There's also a lot of random events
+
+256
+00:11:04,800 --> 00:11:07,000
+that trigger when you sleep to recover your health,
+
+257
+00:11:07,000 --> 00:11:08,900
+events like losing party members
+
+258
+00:11:08,900 --> 00:11:10,000
+and having to get them back
+
+259
+00:11:10,000 --> 00:11:11,800
+or everyone getting badly poisoned
+
+260
+00:11:11,800 --> 00:11:13,200
+or just stuff getting stolen.
+
+261
+00:11:13,200 --> 00:11:15,800
+These sorts of things create a quite genuine paranoia
+
+262
+00:11:15,800 --> 00:11:18,800
+in the player because, again, you want all that stuff.
+
+263
+00:11:18,800 --> 00:11:21,800
+You learn to only take the risk when you really need to,
+
+264
+00:11:21,800 --> 00:11:24,300
+and this paranoia puts you into the same sort of mindset
+
+265
+00:11:24,400 --> 00:11:26,800
+as Brad who sees Lisa everywhere,
+
+266
+00:11:26,800 --> 00:11:28,400
+looking down and judging him.
+
+267
+00:11:28,400 --> 00:11:31,200
+This, again, builds on a mechanic from Yume Nikki.
+
+268
+00:11:31,200 --> 00:11:32,800
+Random events happened in that game,
+
+269
+00:11:32,800 --> 00:11:35,700
+but they didn't affect the gameplay all that much
+
+270
+00:11:35,700 --> 00:11:37,600
+and they didn't even really affect the story
+
+271
+00:11:37,600 --> 00:11:39,200
+unless you're a pretentious weirdo
+
+272
+00:11:39,200 --> 00:11:40,700
+who likes to read into things.
+
+273
+00:11:40,700 --> 00:11:43,200
+Lisa builds a universe where you can randomly lose
+
+274
+00:11:43,200 --> 00:11:46,500
+someone important to you and that's scary and threatening
+
+275
+00:11:46,500 --> 00:11:49,000
+and makes you afraid to go to sleep in the game,
+
+276
+00:11:49,000 --> 00:11:51,300
+and while that's not technically a fair mechanic,
+
+277
+00:11:51,300 --> 00:11:53,500
+it's a powerful mechanic
+
+278
+00:11:53,500 --> 00:11:55,300
+and that's actually more important
+
+279
+00:11:55,300 --> 00:11:57,200
+than the game being balanced or fair.
+
+280
+00:11:57,200 --> 00:12:00,000
+The gameplay and story exist to get across the same ideas
+
+281
+00:12:00,000 --> 00:12:01,500
+and do it by affecting each other
+
+282
+00:12:01,500 --> 00:12:03,900
+in much more direct ways than most RPGs.
+
+283
+00:12:03,900 --> 00:12:05,300
+There's even a section where,
+
+284
+00:12:05,300 --> 00:12:07,200
+upon being told to choose between losing
+
+285
+00:12:07,200 --> 00:12:09,700
+what will probably be at that point your second arm
+
+286
+00:12:09,700 --> 00:12:11,600
+or losing all your items,
+
+287
+00:12:11,600 --> 00:12:13,600
+you have the third option of asking the character
+
+288
+00:12:13,600 --> 00:12:15,100
+why they're doing this to you,
+
+289
+00:12:15,100 --> 00:12:17,300
+and while you're briefly offered the chance
+
+290
+00:12:17,300 --> 00:12:19,000
+of seeing past this facade,
+
+291
+00:12:19,000 --> 00:12:21,800
+he then takes both your arm and all your items
+
+292
+00:12:21,800 --> 00:12:24,100
+as a seemingly purposeful attack on games
+
+293
+00:12:24,100 --> 00:12:25,300
+that offer easy ways out,
+
+294
+00:12:25,300 --> 00:12:27,400
+where you can sweet-talk your way past a choice
+
+295
+00:12:27,400 --> 00:12:28,500
+that it should have been hard.
+
+296
+00:12:28,500 --> 00:12:30,100
+The player is punished for believing
+
+297
+00:12:30,100 --> 00:12:31,400
+it would be so simple.
+
+298
+00:12:31,400 --> 00:12:34,000
+While it would have been easy to load a save here,
+
+299
+00:12:34,000 --> 00:12:35,000
+the first time through the game,
+
+300
+00:12:35,000 --> 00:12:37,100
+it felt so right for this to have happened,
+
+301
+00:12:37,100 --> 00:12:40,200
+to be punished for trying to avoid making a hard decision,
+
+302
+00:12:40,200 --> 00:12:42,200
+that I pressed on to the end regardless.
+
+303
+00:12:42,200 --> 00:12:44,500
+The game's use of tons of different status effects
+
+304
+00:12:44,500 --> 00:12:45,800
+with their own particular challenges
+
+305
+00:12:45,800 --> 00:12:47,700
+is also really fun, by the way.
+
+306
+00:12:47,700 --> 00:12:49,100
+They can be devastating,
+
+307
+00:12:49,100 --> 00:12:51,000
+meaning the player has to work to deal with them
+
+308
+00:12:51,000 --> 00:12:52,400
+instead of trying to muscle through it
+
+309
+00:12:52,400 --> 00:12:53,900
+by being higher leveled
+
+310
+00:12:53,900 --> 00:12:55,700
+or dealing as much damage as they can
+
+311
+00:12:55,700 --> 00:12:56,700
+and hoping that's enough,
+
+312
+00:12:56,700 --> 00:12:58,700
+so fights become engaging questions
+
+313
+00:12:58,700 --> 00:13:00,100
+that demand an answer.
+
+314
+00:13:00,100 --> 00:13:01,900
+Do I do the most highly damaging attack,
+
+315
+00:13:01,900 --> 00:13:04,400
+or do I try and stun them or knock them down?
+
+316
+00:13:04,400 --> 00:13:06,500
+I played a lot of RPGs when I was a stupid kid
+
+317
+00:13:06,500 --> 00:13:08,300
+or still more as a stupid adult
+
+318
+00:13:08,300 --> 00:13:11,400
+without ever really bothering to deal with status effects,
+
+319
+00:13:11,400 --> 00:13:13,100
+using attacks that dealt the most damage
+
+320
+00:13:13,100 --> 00:13:15,500
+and maybe using health items or phoenix downs,
+
+321
+00:13:15,500 --> 00:13:17,300
+interacting less with the mechanics
+
+322
+00:13:17,300 --> 00:13:19,000
+and having less fun because the game
+
+323
+00:13:19,000 --> 00:13:21,100
+hadn't really made me, conditioning me
+
+324
+00:13:21,100 --> 00:13:23,300
+to play it in a less fun or interesting way.
+
+325
+00:13:23,300 --> 00:13:25,700
+Being made to plan around enemies
+
+326
+00:13:25,700 --> 00:13:27,300
+which deal interesting status effects
+
+327
+00:13:27,300 --> 00:13:29,400
+and learning to have to use your own effectively
+
+328
+00:13:29,400 --> 00:13:30,800
+because otherwise you'll die
+
+329
+00:13:30,800 --> 00:13:33,300
+makes this basically the best RPG experience
+
+330
+00:13:33,300 --> 00:13:34,600
+I've ever actually had.
+
+331
+00:13:34,600 --> 00:13:36,700
+The game teaches you the importance of statuses
+
+332
+00:13:36,700 --> 00:13:38,200
+in a really straightforward way.
+
+333
+00:13:38,200 --> 00:13:40,000
+Your first party member, Terry Hintz,
+
+334
+00:13:40,000 --> 00:13:42,700
+is so poor at fighting that it's played for a joke.
+
+335
+00:13:42,700 --> 00:13:45,100
+This means one of the two moves you get every turn
+
+336
+00:13:45,100 --> 00:13:48,100
+at the start of the game is free to be wholly concerned
+
+337
+00:13:48,100 --> 00:13:50,700
+with using items and abilities that involve healing,
+
+338
+00:13:50,700 --> 00:13:53,300
+restoring TP and SP, or verbal bash
+
+339
+00:13:53,300 --> 00:13:56,000
+which can make enemies start crying and deal 50% damage
+
+340
+00:13:56,000 --> 00:13:58,900
+or get pissed and become far less likely to hit people
+
+341
+00:13:58,900 --> 00:14:01,700
+but also much more likely to hit for critical damage.
+
+342
+00:14:01,700 --> 00:14:04,000
+Oh, and sometimes they can also hit themselves
+
+343
+00:14:04,000 --> 00:14:05,300
+for massive damage too.
+
+344
+00:14:05,300 --> 00:14:08,100
+Terry Hintz might be genuinely one of the best pieces
+
+345
+00:14:08,100 --> 00:14:10,100
+of game design in the last 10 years.
+
+346
+00:14:10,100 --> 00:14:11,800
+Instead of, as in lots of RPGs,
+
+347
+00:14:11,800 --> 00:14:13,300
+handing you decent damage dealers
+
+348
+00:14:13,300 --> 00:14:15,600
+and then making the player only consider status effects
+
+349
+00:14:15,600 --> 00:14:17,500
+and healing when it's absolutely necessary
+
+350
+00:14:17,500 --> 00:14:20,100
+or when a designated healer class comes along,
+
+351
+00:14:20,100 --> 00:14:22,000
+the second half of your starting party
+
+352
+00:14:22,000 --> 00:14:23,900
+is functionally unable to hurt anyone
+
+353
+00:14:23,900 --> 00:14:26,000
+so you're handed an opportunity to figure out
+
+354
+00:14:26,000 --> 00:14:28,200
+how to make effective use of status effects
+
+355
+00:14:28,200 --> 00:14:29,800
+and items as early on as possible
+
+356
+00:14:29,800 --> 00:14:31,700
+and because of the game's difficulty,
+
+357
+00:14:31,700 --> 00:14:33,500
+if you don't, you're basically screwed
+
+358
+00:14:33,500 --> 00:14:35,600
+so you're forced to learn how to play
+
+359
+00:14:35,600 --> 00:14:38,000
+but in a subtle and suggestive way.
+
+360
+00:14:38,000 --> 00:14:39,900
+You can see that sort of consideration happening
+
+361
+00:14:39,900 --> 00:14:41,600
+in other aspects of design too.
+
+362
+00:14:41,600 --> 00:14:43,500
+One of the first key items to continue,
+
+363
+00:14:43,500 --> 00:14:46,100
+a child's bicycle because this game's great,
+
+364
+00:14:46,200 --> 00:14:47,600
+is only accessible through an enemy
+
+365
+00:14:47,600 --> 00:14:48,800
+that you'll need a full party
+
+366
+00:14:48,800 --> 00:14:50,700
+and a couple of firebombs to defeat.
+
+367
+00:14:50,700 --> 00:14:52,300
+Beating the boss means teaching you
+
+368
+00:14:52,300 --> 00:14:53,800
+the value of these items,
+
+369
+00:14:53,800 --> 00:14:54,900
+which makes scrounging for them
+
+370
+00:14:54,900 --> 00:14:56,600
+and holding onto them feel worth it
+
+371
+00:14:56,600 --> 00:14:58,100
+and deciding to use one in a fight
+
+372
+00:14:58,100 --> 00:14:59,500
+becomes a calculated risk
+
+373
+00:14:59,500 --> 00:15:01,500
+because you might have needed that later.
+
+374
+00:15:01,500 --> 00:15:03,200
+It makes managing to find some hidden
+
+375
+00:15:03,200 --> 00:15:04,900
+in the wild feel incredible
+
+376
+00:15:04,900 --> 00:15:07,200
+and, yes, it makes being forced to choose
+
+377
+00:15:07,200 --> 00:15:09,400
+between losing an arm and all of your things
+
+378
+00:15:09,400 --> 00:15:11,600
+into a genuinely nail-biting decision
+
+379
+00:15:11,600 --> 00:15:13,600
+because they're so goddamn useful.
+
+380
+00:15:13,600 --> 00:15:15,300
+I don't think I've ever felt so attached
+
+381
+00:15:15,300 --> 00:15:17,600
+to an expendable resource in a video game before.
+
+382
+00:15:17,600 --> 00:15:20,100
+This is, quite simply, genius.
+
+383
+00:15:20,100 --> 00:15:21,700
+And then when you do get the bike,
+
+384
+00:15:21,700 --> 00:15:23,400
+you'll notice that you can't move left with it
+
+385
+00:15:23,400 --> 00:15:24,800
+and drop off because your way is blocked
+
+386
+00:15:24,800 --> 00:15:28,500
+by this, uh, sports...board on a stick.
+
+387
+00:15:28,500 --> 00:15:31,200
+♪
+
+388
+00:15:31,200 --> 00:15:32,600
+You have to move right again.
+
+389
+00:15:32,600 --> 00:15:34,100
+Now, you probably already equipped it
+
+390
+00:15:34,100 --> 00:15:35,100
+because it's a new item,
+
+391
+00:15:35,100 --> 00:15:36,800
+so you pass into the other screen
+
+392
+00:15:36,800 --> 00:15:38,700
+and you naturally go too quick to see this gap
+
+393
+00:15:38,700 --> 00:15:41,000
+and you go over it thinking you'll drop down
+
+394
+00:15:41,000 --> 00:15:42,300
+but instead you hop over it
+
+395
+00:15:42,300 --> 00:15:44,400
+teaching you instantly what the bike does.
+
+396
+00:15:44,500 --> 00:15:46,300
+This little section,
+
+397
+00:15:46,300 --> 00:15:48,300
+this little section with this guy
+
+398
+00:15:48,300 --> 00:15:51,200
+and this bike is a very subtle tutorial
+
+399
+00:15:51,200 --> 00:15:53,000
+not just for how to use this item
+
+400
+00:15:53,000 --> 00:15:54,700
+but for the entire gameplay loop
+
+401
+00:15:54,700 --> 00:15:56,000
+that leads to getting it,
+
+402
+00:15:56,000 --> 00:15:58,000
+making careful use of items,
+
+403
+00:15:58,000 --> 00:15:59,800
+party members best serve using items
+
+404
+00:15:59,800 --> 00:16:02,200
+instead of attacking, building a party,
+
+405
+00:16:02,200 --> 00:16:05,300
+and gathering the resources to afford to build a party.
+
+406
+00:16:05,300 --> 00:16:07,100
+The game makes a joke about tutorials
+
+407
+00:16:07,100 --> 00:16:09,200
+having silly signs Terry left up
+
+408
+00:16:09,200 --> 00:16:11,900
+that teach basic stuff and mostly glorify Terry
+
+409
+00:16:11,900 --> 00:16:13,400
+but then it goes one further
+
+410
+00:16:13,400 --> 00:16:16,600
+and teaches you how to play it seemingly effortlessly.
+
+411
+00:16:16,600 --> 00:16:18,900
+Honestly, game designers like this
+
+412
+00:16:18,900 --> 00:16:20,800
+should be running our school system.
+
+413
+00:16:20,800 --> 00:16:23,500
+There's also almost no fluff to the game's mechanics.
+
+414
+00:16:23,500 --> 00:16:25,500
+The game's currency, dirty magazines,
+
+415
+00:16:25,500 --> 00:16:26,900
+hey, it's a world without women.
+
+416
+00:16:26,900 --> 00:16:28,500
+What else is gonna represent value?
+
+417
+00:16:28,500 --> 00:16:29,800
+is pretty rare.
+
+418
+00:16:29,800 --> 00:16:31,300
+There's not many to find in the world
+
+419
+00:16:31,300 --> 00:16:32,200
+or through side quests
+
+420
+00:16:32,200 --> 00:16:34,100
+and outside of a few specific areas,
+
+421
+00:16:34,100 --> 00:16:36,100
+there's no real way to grind them either.
+
+422
+00:16:36,100 --> 00:16:38,700
+There's a finite amount of people and mutants to fight
+
+423
+00:16:38,700 --> 00:16:40,900
+and almost all of them are unique characters
+
+424
+00:16:40,900 --> 00:16:42,900
+so since outside of grinding,
+
+425
+00:16:42,900 --> 00:16:45,300
+there's basically a precise amount of mags,
+
+426
+00:16:45,300 --> 00:16:46,900
+you can't buy everything you want
+
+427
+00:16:46,900 --> 00:16:49,500
+and don't have easy access to infinite healing items.
+
+428
+00:16:49,500 --> 00:16:50,800
+You have to ration them out,
+
+429
+00:16:50,800 --> 00:16:53,600
+make careful use of characters with heal abilities,
+
+430
+00:16:53,600 --> 00:16:55,400
+occasionally risk sleeping,
+
+431
+00:16:55,400 --> 00:16:58,300
+use the very limited firebomb resources in tougher fights,
+
+432
+00:16:58,300 --> 00:17:00,400
+and somehow in the middle of all this
+
+433
+00:17:00,400 --> 00:17:02,900
+afford to get new items and party members.
+
+434
+00:17:02,900 --> 00:17:06,400
+There's basically no free or simple choices in Lisa
+
+435
+00:17:06,400 --> 00:17:07,900
+and this makes almost every decision
+
+436
+00:17:07,900 --> 00:17:10,100
+in every encounter nail-biting.
+
+437
+00:17:10,100 --> 00:17:12,000
+It's very rare that games come along
+
+438
+00:17:12,000 --> 00:17:14,600
+that invoke this kind of anxiety in players.
+
+439
+00:17:14,600 --> 00:17:17,500
+Design-wise, Lisa equals XCOM or Darkest Dungeon
+
+440
+00:17:17,500 --> 00:17:19,600
+for its mechanical tightness and deadliness
+
+441
+00:17:19,600 --> 00:17:22,200
+and for its emotional tautness too.
+
+442
+00:17:22,200 --> 00:17:24,400
+It's also incredibly thematically interesting
+
+443
+00:17:24,400 --> 00:17:25,700
+to have so many things threatened
+
+444
+00:17:25,700 --> 00:17:27,100
+to get in the way of survival.
+
+445
+00:17:27,100 --> 00:17:29,000
+Characters being unable to perform at their best
+
+446
+00:17:29,000 --> 00:17:31,500
+because they're crying or drunk or hungover
+
+447
+00:17:31,500 --> 00:17:32,900
+or bleeding or depressed
+
+448
+00:17:32,900 --> 00:17:34,700
+or going through withdrawal symptoms
+
+449
+00:17:34,700 --> 00:17:36,800
+ties directly into the story of the game,
+
+450
+00:17:36,800 --> 00:17:38,500
+a story about characters whose judgment
+
+451
+00:17:38,500 --> 00:17:40,400
+is poorly compromised by trauma
+
+452
+00:17:40,400 --> 00:17:42,900
+or bad experiences or drug abuse.
+
+453
+00:17:42,900 --> 00:17:45,700
+Taking a step forward always costs money or items
+
+454
+00:17:45,700 --> 00:17:47,200
+or often a character's life.
+
+455
+00:17:47,200 --> 00:17:49,000
+The Lisa games are all about this sense
+
+456
+00:17:49,000 --> 00:17:51,800
+of losing pieces of yourself to a traumatic world,
+
+457
+00:17:51,800 --> 00:17:53,000
+often literally,
+
+458
+00:17:53,000 --> 00:17:55,600
+and trying to escape the worst of its effects
+
+459
+00:17:55,600 --> 00:17:57,100
+to limited results.
+
+460
+00:17:57,100 --> 00:17:58,300
+Some of the characters you fight
+
+461
+00:17:58,300 --> 00:17:59,700
+are quite clearly manifestations
+
+462
+00:17:59,700 --> 00:18:01,600
+of Brad's joy-altered psyche
+
+463
+00:18:01,600 --> 00:18:03,300
+giving life to his imagination.
+
+464
+00:18:03,300 --> 00:18:05,000
+The spiders you fight quite a lot in the painful
+
+465
+00:18:05,000 --> 00:18:07,100
+are very similar to the ones Lisa had to face
+
+466
+00:18:07,100 --> 00:18:09,500
+with the same man's face on them, no less.
+
+467
+00:18:09,500 --> 00:18:12,100
+In a setting like this one with a story like this one,
+
+468
+00:18:12,100 --> 00:18:14,700
+it makes sense to be confronted very often with scenarios
+
+469
+00:18:14,700 --> 00:18:16,100
+where everyone's just a little bit
+
+470
+00:18:16,100 --> 00:18:17,400
+too out of their right mind
+
+471
+00:18:17,400 --> 00:18:19,200
+to deal with what's happening to them.
+
+472
+00:18:19,200 --> 00:18:20,300
+Speaking of trauma,
+
+473
+00:18:20,300 --> 00:18:22,100
+the story of the painful is fascinating
+
+474
+00:18:22,100 --> 00:18:24,200
+in how it tackles similar ideas to the original
+
+475
+00:18:24,200 --> 00:18:25,700
+but in a more active way.
+
+476
+00:18:25,700 --> 00:18:28,200
+The first was a very internal conflict,
+
+477
+00:18:28,200 --> 00:18:29,700
+the main characters trying and failing
+
+478
+00:18:29,700 --> 00:18:32,200
+in their own imagination to escape an abusive life
+
+479
+00:18:32,200 --> 00:18:34,900
+and try to at least find some peace and calm
+
+480
+00:18:34,900 --> 00:18:36,100
+within themselves,
+
+481
+00:18:36,100 --> 00:18:37,800
+but instead they're repeatedly confronted
+
+482
+00:18:37,800 --> 00:18:40,600
+with their abuser and horrific manifestations of them
+
+483
+00:18:40,600 --> 00:18:42,000
+and what they inflicted on them.
+
+484
+00:18:42,000 --> 00:18:44,000
+I think the painful takes a more interesting
+
+485
+00:18:44,000 --> 00:18:45,400
+and considered road.
+
+486
+00:18:45,400 --> 00:18:47,000
+While you're trapped almost completely
+
+487
+00:18:47,000 --> 00:18:48,800
+in Brad's perception of his world,
+
+488
+00:18:48,800 --> 00:18:50,200
+his actions are real
+
+489
+00:18:50,200 --> 00:18:52,200
+and have consequences that affect others.
+
+490
+00:18:52,200 --> 00:18:54,400
+His choices in how he dealt with his trauma,
+
+491
+00:18:54,400 --> 00:18:55,500
+how he raised Buddy,
+
+492
+00:18:55,500 --> 00:18:57,500
+and how he reacts when she's taken,
+
+493
+00:18:57,500 --> 00:18:59,600
+these are all reactions to his experiences
+
+494
+00:18:59,600 --> 00:19:01,100
+and how they shaped his view of the world
+
+495
+00:19:01,100 --> 00:19:02,200
+and how to act in it.
+
+496
+00:19:02,200 --> 00:19:04,200
+I've spoken about the game's difficult choices,
+
+497
+00:19:04,200 --> 00:19:05,500
+but what's equally informative
+
+498
+00:19:05,500 --> 00:19:07,900
+is the places where the game takes choice away from you
+
+499
+00:19:07,900 --> 00:19:09,600
+or presents you with false choices
+
+500
+00:19:09,600 --> 00:19:11,800
+or doesn't even point out the alternatives
+
+501
+00:19:11,800 --> 00:19:13,200
+that simply didn't occur to Brad
+
+502
+00:19:13,200 --> 00:19:14,900
+because of the person he's become,
+
+503
+00:19:14,900 --> 00:19:16,600
+not entirely of his own volition.
+
+504
+00:19:16,600 --> 00:19:19,100
+Brad blames himself for what happened to Lisa,
+
+505
+00:19:19,100 --> 00:19:22,100
+becomes a martial artist as a post-hoc self-defense mechanism
+
+506
+00:19:22,100 --> 00:19:23,300
+against the abuse he suffered,
+
+507
+00:19:23,300 --> 00:19:25,700
+and raises Buddy the best he can,
+
+508
+00:19:25,700 --> 00:19:27,300
+but the best he can is to shelter her
+
+509
+00:19:27,300 --> 00:19:29,400
+from a world of people that hurt him and his sister
+
+510
+00:19:29,400 --> 00:19:30,500
+when they were young.
+
+511
+00:19:30,500 --> 00:19:32,200
+This itself paves the way for Buddy
+
+512
+00:19:32,200 --> 00:19:34,100
+to become the person she ends up being.
+
+513
+00:19:34,200 --> 00:19:35,700
+When she's kidnapped from Brad's care,
+
+514
+00:19:35,700 --> 00:19:37,400
+or perhaps to put it a better way,
+
+515
+00:19:37,400 --> 00:19:39,200
+escapes from Brad's care,
+
+516
+00:19:39,200 --> 00:19:41,300
+Brad immediately takes this as a justification
+
+517
+00:19:41,300 --> 00:19:44,200
+for perhaps what he's been training for his entire life,
+
+518
+00:19:44,200 --> 00:19:46,000
+a rampage in which all he does
+
+519
+00:19:46,000 --> 00:19:48,900
+is try to protect someone he sees as vulnerable.
+
+520
+00:19:48,900 --> 00:19:51,100
+Many characters offer Brad other options
+
+521
+00:19:51,100 --> 00:19:53,300
+or question why he personally
+
+522
+00:19:53,300 --> 00:19:55,100
+should be the one deciding how to raise
+
+523
+00:19:55,100 --> 00:19:58,600
+or deal with the existence of the only girl left in the world,
+
+524
+00:19:58,600 --> 00:20:01,200
+and he doesn't even really consider these questions
+
+525
+00:20:01,200 --> 00:20:03,400
+because for him, the answer was obvious.
+
+526
+00:20:03,400 --> 00:20:04,900
+He pushes past these questions
+
+527
+00:20:04,900 --> 00:20:07,400
+all the way to what a game would normally position
+
+528
+00:20:07,400 --> 00:20:09,000
+as a heroic final stand
+
+529
+00:20:09,000 --> 00:20:11,700
+where he finally starts to quite literally transform
+
+530
+00:20:11,700 --> 00:20:14,500
+into a monster and enters a haze of violence
+
+531
+00:20:14,500 --> 00:20:17,600
+where the background is just a chaotic swirl of colors
+
+532
+00:20:17,600 --> 00:20:20,500
+and even an army of enemies are horrified.
+
+533
+00:20:20,500 --> 00:20:22,800
+Brad is unable to pursue other courses of action
+
+534
+00:20:22,800 --> 00:20:25,300
+because of who his experiences have made him into.
+
+535
+00:20:25,300 --> 00:20:27,000
+The joy that he's become addicted to
+
+536
+00:20:27,000 --> 00:20:29,600
+is described as making you feel nothing.
+
+537
+00:20:29,600 --> 00:20:31,400
+It's very clear why something like that
+
+538
+00:20:31,400 --> 00:20:34,000
+would become a crutch for someone who's lived Brad's life.
+
+539
+00:20:34,000 --> 00:20:35,500
+By doing this, the story positions
+
+540
+00:20:35,500 --> 00:20:37,200
+a lot of traditional heroism tropes
+
+541
+00:20:37,200 --> 00:20:39,300
+as the result of a warped perspective.
+
+542
+00:20:39,300 --> 00:20:40,700
+One of the last lines in the game
+
+543
+00:20:40,700 --> 00:20:42,700
+before the final battle starts is,
+
+544
+00:20:42,700 --> 00:20:45,900
+"'I've been dead for 35 years. Today I live.'"
+
+545
+00:20:45,900 --> 00:20:47,800
+This is the first time in most of Brad's life
+
+546
+00:20:47,800 --> 00:20:49,300
+that the world makes sense,
+
+547
+00:20:49,300 --> 00:20:51,900
+him against what he sees as an army of villains
+
+548
+00:20:51,900 --> 00:20:53,600
+preventing him from being a father.
+
+549
+00:20:53,600 --> 00:20:55,900
+It's the only narrative that makes sense to him,
+
+550
+00:20:55,900 --> 00:20:57,300
+and the game encourages the player
+
+551
+00:20:57,300 --> 00:20:58,700
+to think about what went wrong
+
+552
+00:20:58,700 --> 00:21:00,900
+and why he can't think about it.
+
+553
+00:21:00,900 --> 00:21:02,300
+There are also places where the player
+
+554
+00:21:02,300 --> 00:21:03,600
+is offered a direct choice,
+
+555
+00:21:03,600 --> 00:21:05,400
+such as fighting or sparing his father
+
+556
+00:21:05,400 --> 00:21:07,100
+once he finally encounters him again,
+
+557
+00:21:07,100 --> 00:21:08,700
+which is itself a false one.
+
+558
+00:21:08,700 --> 00:21:11,100
+While you can choose to try to spare him,
+
+559
+00:21:11,100 --> 00:21:12,900
+Brad cannot resist himself.
+
+560
+00:21:12,900 --> 00:21:14,500
+This is an important creative choice,
+
+561
+00:21:14,500 --> 00:21:15,900
+or at least an honest one.
+
+562
+00:21:15,900 --> 00:21:17,200
+Everyone wants to believe
+
+563
+00:21:17,200 --> 00:21:18,900
+they're in full control of themselves,
+
+564
+00:21:18,900 --> 00:21:21,200
+but quite simply, sometimes we aren't.
+
+565
+00:21:21,200 --> 00:21:22,800
+Humans aren't rational actors.
+
+566
+00:21:22,800 --> 00:21:25,200
+Brad's been fighting manifestations of this man
+
+567
+00:21:25,200 --> 00:21:26,900
+all his life already.
+
+568
+00:21:26,900 --> 00:21:27,900
+What's one more?
+
+569
+00:21:31,900 --> 00:21:34,900
+The Painful is, fittingly,
+
+570
+00:21:34,900 --> 00:21:36,600
+a game about pain.
+
+571
+00:21:36,600 --> 00:21:38,900
+It's about the suffering we can experience in our lives
+
+572
+00:21:38,900 --> 00:21:41,100
+and how it can stick with us whether we want it to or not
+
+573
+00:21:41,100 --> 00:21:43,800
+and influence us in ways we don't always want to see
+
+574
+00:21:43,800 --> 00:21:45,700
+and in turn go on to make us hurt others
+
+575
+00:21:45,700 --> 00:21:47,500
+even when we think what we're doing is right,
+
+576
+00:21:47,500 --> 00:21:49,700
+and the hurt we cause impacts them too.
+
+577
+00:21:49,700 --> 00:21:51,500
+It doesn't always offer an easy solution.
+
+578
+00:21:51,500 --> 00:21:54,900
+There's no magical pill that undoes childhood trauma
+
+579
+00:21:54,900 --> 00:21:57,100
+or allows complete control of one's actions.
+
+580
+00:21:57,100 --> 00:22:00,400
+It puts out the scary idea that none of us are free
+
+581
+00:22:00,400 --> 00:22:03,300
+because we're prisoners of the events and lives we've lived,
+
+582
+00:22:03,300 --> 00:22:05,800
+but there's a certain hopefulness to it too.
+
+583
+00:22:05,800 --> 00:22:09,000
+For all his mistakes and inabilities to make better choices
+
+584
+00:22:09,000 --> 00:22:11,200
+and drug or trauma-induced violence
+
+585
+00:22:11,200 --> 00:22:13,200
+he can't stop himself from committing,
+
+586
+00:22:13,200 --> 00:22:15,200
+there are still real choices to make,
+
+587
+00:22:15,200 --> 00:22:17,000
+and these choices still have meaning.
+
+588
+00:22:17,000 --> 00:22:19,500
+There are places where Brad is marginally making things better
+
+589
+00:22:19,500 --> 00:22:22,000
+for some people or at least tries to,
+
+590
+00:22:22,000 --> 00:22:24,200
+and there are often times when you can literally choose
+
+591
+00:22:24,200 --> 00:22:27,400
+to lose pieces of yourself to try and keep others alive.
+
+592
+00:22:27,400 --> 00:22:31,700
+These little choices are meaningful and valuable.
+
+593
+00:22:31,700 --> 00:22:34,800
+The game rightfully acknowledges this by having multiple endings.
+
+594
+00:22:34,800 --> 00:22:36,500
+If you manage to outside of cutscenes
+
+595
+00:22:36,500 --> 00:22:39,800
+never take the combat-enhancing but addictive item Joy,
+
+596
+00:22:39,800 --> 00:22:42,700
+an item designed to be used in harder fights
+
+597
+00:22:42,700 --> 00:22:44,800
+that's quite difficult to go without using,
+
+598
+00:22:44,800 --> 00:22:47,200
+the ending is very slightly different,
+
+599
+00:22:47,200 --> 00:22:49,300
+and if you manage to finish the game in pain mode
+
+600
+00:22:49,300 --> 00:22:52,300
+where everything is tougher and save points can only be used once,
+
+601
+00:22:52,300 --> 00:22:54,700
+the ending is again just a little bit different.
+
+602
+00:22:54,700 --> 00:22:56,200
+I think the point of these endings
+
+603
+00:22:56,200 --> 00:22:59,400
+is that things can be different, even a little, if we try,
+
+604
+00:22:59,400 --> 00:23:00,800
+and that makes trying worthwhile
+
+605
+00:23:00,800 --> 00:23:03,000
+even if it doesn't always amount to something.
+
+606
+00:23:03,000 --> 00:23:05,300
+The point isn't that Brad is a good person
+
+607
+00:23:05,300 --> 00:23:07,500
+but that he has the potential to do better,
+
+608
+00:23:07,500 --> 00:23:08,600
+as everyone does,
+
+609
+00:23:08,600 --> 00:23:11,500
+and start asking the right questions about himself,
+
+610
+00:23:11,500 --> 00:23:13,000
+and this is a hopeful thing.
+
+611
+00:23:13,000 --> 00:23:15,100
+The final choice in the game is buddies,
+
+612
+00:23:15,100 --> 00:23:17,300
+whether or not to hug Brad and empathize with him
+
+613
+00:23:17,300 --> 00:23:18,800
+in spite of the pain he's caused her
+
+614
+00:23:18,800 --> 00:23:21,400
+and the life she will live as a result of this.
+
+615
+00:23:21,400 --> 00:23:22,600
+This is a difficult choice
+
+616
+00:23:22,600 --> 00:23:25,400
+and arguably an ultimately meaningless one.
+
+617
+00:23:25,400 --> 00:23:27,200
+Do you hug a dying man or not?
+
+618
+00:23:27,200 --> 00:23:29,400
+It doesn't matter, but it's a real choice
+
+619
+00:23:29,400 --> 00:23:31,100
+in a world of many false ones.
+
+620
+00:23:31,100 --> 00:23:32,700
+Brad wasn't a good person,
+
+621
+00:23:32,700 --> 00:23:34,100
+but he didn't have as much of a say
+
+622
+00:23:34,100 --> 00:23:35,800
+in what kind of person he ended up being
+
+623
+00:23:35,800 --> 00:23:36,900
+as he'd have liked,
+
+624
+00:23:36,900 --> 00:23:40,300
+and the idea that things could maybe have turned out better
+
+625
+00:23:40,300 --> 00:23:42,600
+and helped him make better choices
+
+626
+00:23:42,600 --> 00:23:44,400
+is the real hope of the story.
+
+627
+00:23:44,400 --> 00:23:46,200
+It's a hard-won victory to tell a story
+
+628
+00:23:46,200 --> 00:23:48,000
+in which nothing good happens to anyone
+
+629
+00:23:48,000 --> 00:23:50,500
+and the character you play isn't a good person,
+
+630
+00:23:50,500 --> 00:23:53,300
+but you're left feeling like people still have the potential
+
+631
+00:23:53,300 --> 00:23:54,500
+to do better.
+
+632
+00:23:54,500 --> 00:23:56,000
+This is something the final game,
+
+633
+00:23:56,000 --> 00:23:57,100
+Lisa the Joyful,
+
+634
+00:23:57,100 --> 00:23:59,000
+does its best to call back into question
+
+635
+00:23:59,000 --> 00:24:01,000
+with somewhat mixed results.
+
+636
+00:24:12,700 --> 00:24:14,600
+Lisa the Joyful's first segments
+
+637
+00:24:14,600 --> 00:24:16,600
+are an excellent microcosm of the positives
+
+638
+00:24:16,600 --> 00:24:18,400
+and negatives of its overall story.
+
+639
+00:24:18,400 --> 00:24:20,100
+It opens incredibly strongly
+
+640
+00:24:20,100 --> 00:24:22,100
+with a revelation about what Buddy was learning
+
+641
+00:24:22,100 --> 00:24:24,600
+during the upbringing we only saw in fleeting glimpses
+
+642
+00:24:24,600 --> 00:24:26,400
+during the opening of the previous game.
+
+643
+00:24:26,400 --> 00:24:28,800
+Buddy is forced by Brad to kill someone
+
+644
+00:24:28,800 --> 00:24:31,200
+in order to begin to learn how to defend herself.
+
+645
+00:24:31,200 --> 00:24:33,600
+This shows us how she was able to escape capture
+
+646
+00:24:33,600 --> 00:24:35,000
+so easily in the previous games
+
+647
+00:24:35,000 --> 00:24:37,800
+and lets us a little into how she'll have come to see the world
+
+648
+00:24:37,800 --> 00:24:39,800
+and, of course, showcases Brad's own views
+
+649
+00:24:39,800 --> 00:24:41,700
+about that world in detail, too.
+
+650
+00:24:41,700 --> 00:24:44,100
+I always wondered who killed this guy on the counter here,
+
+651
+00:24:44,100 --> 00:24:45,900
+and the answer is probably Buddy.
+
+652
+00:24:46,400 --> 00:24:48,400
+♪♪
+
+653
+00:24:48,400 --> 00:24:51,200
+♪♪
+
+654
+00:24:51,200 --> 00:24:53,600
+But then, after a cool cut to the title,
+
+655
+00:24:53,600 --> 00:24:54,600
+it cuts to black,
+
+656
+00:24:54,600 --> 00:24:57,000
+and we get some regular expository dialogue
+
+657
+00:24:57,000 --> 00:25:00,000
+about what two characters were yet to really learn about are up to,
+
+658
+00:25:00,000 --> 00:25:02,500
+implying various things about character relationships
+
+659
+00:25:02,500 --> 00:25:04,700
+and the reasons why the world is the way it is.
+
+660
+00:25:04,700 --> 00:25:07,400
+We then cut to immediately after the ending of the previous game
+
+661
+00:25:07,400 --> 00:25:09,200
+where things continue in Media Res.
+
+662
+00:25:09,200 --> 00:25:11,200
+These twin openings are an indicator
+
+663
+00:25:11,200 --> 00:25:13,600
+of the two roles the Joyful has to fill.
+
+664
+00:25:13,600 --> 00:25:16,500
+The Joyful was a stretch goal for the Kickstarter for the Painful,
+
+665
+00:25:16,500 --> 00:25:18,700
+the mission statement being that you'll play as Buddy
+
+666
+00:25:18,700 --> 00:25:21,500
+and uncover the truth behind the world of Lisa,
+
+667
+00:25:21,500 --> 00:25:24,400
+but it turns out those are very separate things entirely
+
+668
+00:25:24,400 --> 00:25:26,900
+and actually quite jarring when done together.
+
+669
+00:25:26,900 --> 00:25:29,400
+The world of Lisa is interesting and mysterious,
+
+670
+00:25:29,400 --> 00:25:31,000
+but part of what made it those things
+
+671
+00:25:31,000 --> 00:25:33,000
+was that you were exploring it as a byproduct
+
+672
+00:25:33,000 --> 00:25:34,700
+of a much more personal story
+
+673
+00:25:34,700 --> 00:25:37,200
+where the apocalypse was just a way of putting these characters
+
+674
+00:25:37,200 --> 00:25:39,100
+into more extreme circumstances.
+
+675
+00:25:39,100 --> 00:25:41,900
+Exploring it in more detail or explaining it outright
+
+676
+00:25:41,900 --> 00:25:44,500
+would have detracted from the engaging personal story,
+
+677
+00:25:44,500 --> 00:25:46,000
+taken time away from it,
+
+678
+00:25:46,000 --> 00:25:48,400
+and, well, it would have ruined the mystery.
+
+679
+00:25:48,400 --> 00:25:50,400
+You can carve a really sharp divide
+
+680
+00:25:50,400 --> 00:25:52,800
+between the parts that are about kinda just expositing
+
+681
+00:25:52,800 --> 00:25:54,900
+what happened in the past involving Lisa
+
+682
+00:25:54,900 --> 00:25:57,600
+or implying what happened to the world and who's behind it
+
+683
+00:25:57,600 --> 00:26:00,600
+and retroactively explaining the events of the previous game
+
+684
+00:26:00,600 --> 00:26:03,100
+and the parts that make up this really interesting story
+
+685
+00:26:03,100 --> 00:26:05,400
+about the last girl in a world full of monsters
+
+686
+00:26:05,400 --> 00:26:06,900
+trying to become its new ruler
+
+687
+00:26:06,900 --> 00:26:09,600
+by crossing every other warlord off a giant list
+
+688
+00:26:09,600 --> 00:26:12,100
+and becoming a little bit of a monster herself on the way.
+
+689
+00:26:12,100 --> 00:26:15,100
+The latter is really new and unique and interesting
+
+690
+00:26:15,100 --> 00:26:17,800
+while building on the themes and story we already know,
+
+691
+00:26:17,800 --> 00:26:20,400
+but the former is unnecessary and explains things
+
+692
+00:26:20,400 --> 00:26:21,600
+that don't need explaining
+
+693
+00:26:21,600 --> 00:26:23,900
+because they're not really what the story was about.
+
+694
+00:26:23,900 --> 00:26:25,400
+This doesn't just mean half the story
+
+695
+00:26:25,400 --> 00:26:26,700
+isn't as good as it could be.
+
+696
+00:26:26,700 --> 00:26:29,100
+It also drags focus away from Buddy's story
+
+697
+00:26:29,100 --> 00:26:30,900
+and weakens that half a little too.
+
+698
+00:26:30,900 --> 00:26:32,300
+It's not the worst thing in the world,
+
+699
+00:26:32,300 --> 00:26:34,700
+but I think more focus on Buddy and her choices
+
+700
+00:26:34,700 --> 00:26:36,500
+would have resulted in a much more engaging
+
+701
+00:26:36,500 --> 00:26:38,200
+and tighter story overall.
+
+702
+00:26:38,200 --> 00:26:40,200
+That said, the story that is there for Buddy
+
+703
+00:26:40,200 --> 00:26:41,300
+is honestly great.
+
+704
+00:26:41,300 --> 00:26:43,600
+Where Brad decided that for the safety of himself
+
+705
+00:26:43,600 --> 00:26:45,600
+and his loved ones, he had to close his problems off
+
+706
+00:26:45,600 --> 00:26:48,000
+from the world and hide from the people who threatened them,
+
+707
+00:26:48,000 --> 00:26:49,900
+hoping to keep them a secret forever,
+
+708
+00:26:49,900 --> 00:26:52,000
+Buddy learned the exact opposite lesson
+
+709
+00:26:52,000 --> 00:26:54,000
+and concluded that the only way to be safe
+
+710
+00:26:54,000 --> 00:26:56,900
+was to kill everyone who could possibly pose a threat
+
+711
+00:26:56,900 --> 00:26:58,100
+and take control.
+
+712
+00:26:58,100 --> 00:27:00,700
+She's literally crossing names off a list
+
+713
+00:27:00,700 --> 00:27:03,500
+and slowly imagining more and more violence around her
+
+714
+00:27:03,500 --> 00:27:04,500
+as she does so.
+
+715
+00:27:04,500 --> 00:27:07,300
+The fun thing about stories with parental dynamics like this,
+
+716
+00:27:07,300 --> 00:27:09,600
+similar to some chapters of JoJo's Bizarre Adventure,
+
+717
+00:27:09,600 --> 00:27:11,500
+is through one character's behavior,
+
+718
+00:27:11,500 --> 00:27:14,000
+you simultaneously get to learn about that character
+
+719
+00:27:14,000 --> 00:27:16,100
+and the people who made them that way.
+
+720
+00:27:16,100 --> 00:27:18,600
+A good deal of Buddy's behavior reflects back onto Brad
+
+721
+00:27:18,600 --> 00:27:19,800
+and the lessons she'd have learned
+
+722
+00:27:19,800 --> 00:27:21,200
+either through his direct teachings
+
+723
+00:27:21,200 --> 00:27:23,300
+or through having to live with someone like him.
+
+724
+00:27:23,300 --> 00:27:26,000
+You're still learning about precisely what happened to Lisa
+
+725
+00:27:26,000 --> 00:27:29,300
+and what she did about it through how Brad and Buddy act,
+
+726
+00:27:29,300 --> 00:27:30,600
+and that's fascinating.
+
+727
+00:27:30,600 --> 00:27:32,800
+The massive cast of party members from the Painful
+
+728
+00:27:32,800 --> 00:27:34,000
+is not a feature here.
+
+729
+00:27:34,000 --> 00:27:36,200
+You just get Buddy and temporarily Rando
+
+730
+00:27:36,200 --> 00:27:38,100
+while Buddy levels up and the player gets the hang
+
+731
+00:27:38,100 --> 00:27:39,500
+of her new gameplay style.
+
+732
+00:27:39,500 --> 00:27:40,900
+While I said having lots of characters
+
+733
+00:27:40,900 --> 00:27:43,600
+that you could choose from and risk losing was cool,
+
+734
+00:27:43,600 --> 00:27:46,100
+having less characters isn't specifically a bad thing.
+
+735
+00:27:46,100 --> 00:27:48,100
+Instead, the focus is on having one character
+
+736
+00:27:48,100 --> 00:27:49,800
+whose moves are more mechanically dense
+
+737
+00:27:49,800 --> 00:27:52,200
+than any individual character previously,
+
+738
+00:27:52,200 --> 00:27:55,100
+giving her both the ability to induce numerous status effects
+
+739
+00:27:55,100 --> 00:27:57,300
+like Flustered, Sleep, Bleed, and Poison
+
+740
+00:27:57,300 --> 00:27:59,500
+and a slew of generally good attacks, too.
+
+741
+00:27:59,500 --> 00:28:01,700
+Buddy's stronger attacks have a timing minigame
+
+742
+00:28:01,700 --> 00:28:03,000
+which can be quite tough to master
+
+743
+00:28:03,000 --> 00:28:05,300
+but are highly necessary for persevering.
+
+744
+00:28:05,400 --> 00:28:08,300
+Joy makes a return and the game's hallucinatory tutorials
+
+745
+00:28:08,300 --> 00:28:11,600
+from Buddy's psyche even quite strongly advise you to use it.
+
+746
+00:28:11,600 --> 00:28:14,400
+Apparently, the use joy messages were added in a patch
+
+747
+00:28:14,400 --> 00:28:16,400
+when players had trouble proceeding without it,
+
+748
+00:28:16,400 --> 00:28:18,900
+committed to not using joy the way many did in the Painful
+
+749
+00:28:18,900 --> 00:28:20,100
+because they knew there was an ending
+
+750
+00:28:20,100 --> 00:28:21,700
+specifically for not using it.
+
+751
+00:28:21,700 --> 00:28:23,100
+There is no such ending here,
+
+752
+00:28:23,100 --> 00:28:25,400
+meaning the joy mechanic can be properly used
+
+753
+00:28:25,400 --> 00:28:27,600
+by folks who skipped out on it before like me.
+
+754
+00:28:27,600 --> 00:28:29,500
+The story isn't the only thing that's divided.
+
+755
+00:28:29,500 --> 00:28:32,700
+The gameplay and story suffer from a much sharper divide, too.
+
+756
+00:28:32,700 --> 00:28:35,400
+Where the previous game had the almost magical interaction
+
+757
+00:28:35,400 --> 00:28:38,100
+between story choices and their gameplay consequences,
+
+758
+00:28:38,100 --> 00:28:40,200
+no such choices pop up for Buddy.
+
+759
+00:28:40,200 --> 00:28:41,700
+There are a couple of moments where you're given
+
+760
+00:28:41,700 --> 00:28:44,100
+the sort of typical moral choice of little consequence
+
+761
+00:28:44,100 --> 00:28:45,700
+you would see in inferior RPGs
+
+762
+00:28:45,700 --> 00:28:48,100
+like deciding whether or not to drop Rando into the pit
+
+763
+00:28:48,100 --> 00:28:50,400
+or whether or not to attack the pacifists.
+
+764
+00:28:50,400 --> 00:28:51,800
+It's a bit disappointing.
+
+765
+00:28:51,800 --> 00:28:53,000
+Worse, with the Rando choice,
+
+766
+00:28:53,000 --> 00:28:54,600
+it doesn't matter which choice you make.
+
+767
+00:28:54,600 --> 00:28:56,500
+It results in slightly different exposition
+
+768
+00:28:56,500 --> 00:28:58,100
+and maybe lets you skip a fight,
+
+769
+00:28:58,100 --> 00:29:00,000
+but the same things play out no matter what
+
+770
+00:29:00,000 --> 00:29:02,400
+with no further impact on story or gameplay.
+
+771
+00:29:02,400 --> 00:29:04,700
+But with the pacifists, there's this chilling aspect
+
+772
+00:29:04,700 --> 00:29:06,100
+showing how far Buddy has gone
+
+773
+00:29:06,100 --> 00:29:07,700
+where you can't even talk to them
+
+774
+00:29:07,700 --> 00:29:10,100
+and attempting to or even walking past them
+
+775
+00:29:10,100 --> 00:29:12,700
+asks you once again if you want to fight them or not.
+
+776
+00:29:12,700 --> 00:29:16,400
+Every few steps, Buddy has to actively choose not to murder,
+
+777
+00:29:16,400 --> 00:29:18,100
+which, of course, is the highlighted option
+
+778
+00:29:18,100 --> 00:29:19,800
+like it's her first instinct.
+
+779
+00:29:19,800 --> 00:29:22,000
+You're never given any really difficult choices.
+
+780
+00:29:22,000 --> 00:29:24,200
+You never have to risk losing any useful items.
+
+781
+00:29:24,200 --> 00:29:26,400
+In fact, there aren't really any of the rarer items
+
+782
+00:29:26,400 --> 00:29:28,400
+from the painful that would relieve harmful effects
+
+783
+00:29:28,400 --> 00:29:30,700
+in a pinch like the poison-curing cigarettes
+
+784
+00:29:30,700 --> 00:29:32,500
+you find, like, six of in the whole game
+
+785
+00:29:32,500 --> 00:29:34,000
+because lots of the tougher effects
+
+786
+00:29:34,000 --> 00:29:35,900
+have been taken out entirely to support a game
+
+787
+00:29:35,900 --> 00:29:37,700
+with largely only one character.
+
+788
+00:29:37,700 --> 00:29:40,000
+There's basically no point to the shopkeeper at all
+
+789
+00:29:40,000 --> 00:29:41,200
+and the main path through the game
+
+790
+00:29:41,200 --> 00:29:42,800
+gives you an abundance of joy,
+
+791
+00:29:42,800 --> 00:29:44,800
+so item management is basically gone
+
+792
+00:29:44,800 --> 00:29:47,000
+and all the party member reviving perfume you get
+
+793
+00:29:47,000 --> 00:29:49,300
+only matters for a very short period anyway
+
+794
+00:29:49,300 --> 00:29:50,800
+because you're on your own.
+
+795
+00:29:50,800 --> 00:29:52,000
+This ruins what could have been
+
+796
+00:29:52,000 --> 00:29:54,300
+a much more delicate balance of items.
+
+797
+00:29:54,300 --> 00:29:56,100
+Honestly, my expectations for the joyful
+
+798
+00:29:56,100 --> 00:29:57,900
+in the first hour were super high.
+
+799
+00:29:57,900 --> 00:29:59,400
+I was imagining all the different ways
+
+800
+00:29:59,500 --> 00:30:00,900
+a version of this battle system
+
+801
+00:30:00,900 --> 00:30:02,500
+but mechanically based around having
+
+802
+00:30:02,500 --> 00:30:04,100
+just one character could work.
+
+803
+00:30:04,100 --> 00:30:05,700
+Status effects, item management,
+
+804
+00:30:05,700 --> 00:30:07,600
+TP management, learning the timing
+
+805
+00:30:07,600 --> 00:30:09,600
+of the better attacks, making the best use
+
+806
+00:30:09,600 --> 00:30:11,700
+of your one turn per round in a fight
+
+807
+00:30:11,700 --> 00:30:14,300
+could become scalpel-sharp concentrations
+
+808
+00:30:14,300 --> 00:30:17,200
+of important choices and a robust inventory system
+
+809
+00:30:17,200 --> 00:30:19,000
+where defense and armor have to be balanced
+
+810
+00:30:19,000 --> 00:30:20,700
+against resistance or speed
+
+811
+00:30:20,700 --> 00:30:23,600
+or trying not to get stunned or tripped or poisoned.
+
+812
+00:30:23,600 --> 00:30:24,900
+This could have made for a really
+
+813
+00:30:24,900 --> 00:30:26,500
+mechanically dense game.
+
+814
+00:30:26,500 --> 00:30:28,600
+I was fully prepared to say that the joyful
+
+815
+00:30:28,600 --> 00:30:30,600
+had the best gameplay of the three games,
+
+816
+00:30:30,600 --> 00:30:33,900
+and while this theoretical version of Lisa
+
+817
+00:30:33,900 --> 00:30:35,900
+does almost rear its head in a few
+
+818
+00:30:35,900 --> 00:30:37,700
+of the tougher fights against larger groups
+
+819
+00:30:37,700 --> 00:30:39,800
+or if you commit to not taking Joy,
+
+820
+00:30:39,800 --> 00:30:42,100
+it never really feels like you're being challenged
+
+821
+00:30:42,100 --> 00:30:43,900
+in any way other than nailing the timing
+
+822
+00:30:43,900 --> 00:30:45,500
+on Buddy's more damaging attacks.
+
+823
+00:30:45,500 --> 00:30:47,100
+I think the gameplay is still overall
+
+824
+00:30:47,100 --> 00:30:48,700
+very fun and really challenging,
+
+825
+00:30:48,700 --> 00:30:50,500
+but the awareness of how much better
+
+826
+00:30:50,500 --> 00:30:52,000
+this approach could have been
+
+827
+00:30:52,000 --> 00:30:54,300
+makes it feel like a missed opportunity at times.
+
+828
+00:30:54,300 --> 00:30:56,500
+One of the best and sadly only examples
+
+829
+00:30:56,500 --> 00:30:58,000
+of gameplay and story overlapping
+
+830
+00:30:58,000 --> 00:31:00,100
+is that your other party member Rando's attacks
+
+831
+00:31:00,100 --> 00:31:01,800
+are also called Armstrong-style
+
+832
+00:31:01,800 --> 00:31:03,600
+because Brad trained him as a kid.
+
+833
+00:31:03,600 --> 00:31:04,800
+That's just really cute.
+
+834
+00:31:04,800 --> 00:31:06,600
+The soundtrack, in addition to containing
+
+835
+00:31:06,600 --> 00:31:09,300
+even more heavily distorted and speed-shifted versions
+
+836
+00:31:09,300 --> 00:31:11,400
+of previous tracks, has a bunch of new ones
+
+837
+00:31:11,400 --> 00:31:13,000
+with an increased reliance on samples
+
+838
+00:31:13,000 --> 00:31:15,700
+including new instruments, vocals, and even air horns.
+
+839
+00:31:15,700 --> 00:31:17,800
+I remember putting a playlist of Lisa music
+
+840
+00:31:17,800 --> 00:31:20,000
+on at a friend's house, and once it transitioned
+
+841
+00:31:20,000 --> 00:31:22,800
+into tracks from the joyful, he made me stop.
+
+842
+00:31:22,800 --> 00:31:24,000
+I really like the music,
+
+843
+00:31:24,000 --> 00:31:25,700
+not just because I have horrible taste,
+
+844
+00:31:25,700 --> 00:31:28,500
+but because its use in the game is perfect.
+
+845
+00:31:28,500 --> 00:31:30,200
+Tracks like the almost abominable
+
+846
+00:31:30,200 --> 00:31:33,500
+666 Kill Chop Deluxe play during tougher boss fights,
+
+847
+00:31:33,500 --> 00:31:35,500
+and it's not just fitting but complementary
+
+848
+00:31:35,500 --> 00:31:38,700
+to the sense of being trapped in the hellish storm
+
+849
+00:31:38,700 --> 00:31:41,500
+of drug-infused violence Buddy has become.
+
+850
+00:31:41,500 --> 00:31:44,300
+This soundtrack is the most complementary to a game
+
+851
+00:31:44,300 --> 00:31:47,000
+since Fallout New Vegas or even Planescape Torment.
+
+852
+00:31:47,000 --> 00:31:49,400
+There's something to be said about the engagement
+
+853
+00:31:49,400 --> 00:31:50,700
+I felt with the joyful.
+
+854
+00:31:50,700 --> 00:31:52,100
+In Painful, my first time through,
+
+855
+00:31:52,100 --> 00:31:54,200
+I was almost afraid to open it back up again
+
+856
+00:31:54,200 --> 00:31:56,400
+and see how much worse things could get for Brad,
+
+857
+00:31:56,400 --> 00:31:58,200
+find out who in my party I'd become attached to
+
+858
+00:31:58,200 --> 00:31:59,800
+I'd lose trying to find Buddy.
+
+859
+00:31:59,800 --> 00:32:01,600
+Joyful, fittingly for its title,
+
+860
+00:32:01,600 --> 00:32:03,800
+makes you feel like you have nothing to lose.
+
+861
+00:32:03,800 --> 00:32:05,300
+I took a break partway through Joyful
+
+862
+00:32:05,300 --> 00:32:07,400
+and couldn't wait to open it back up and finish it
+
+863
+00:32:07,400 --> 00:32:09,300
+and continue crossing names off the list.
+
+864
+00:32:09,300 --> 00:32:10,900
+There's something incredibly appealing
+
+865
+00:32:10,900 --> 00:32:13,000
+about Buddy's journey in spite of everything negative
+
+866
+00:32:13,000 --> 00:32:14,200
+I've said about the story.
+
+867
+00:32:14,200 --> 00:32:16,000
+Spoilers for the plot in case you somehow made it
+
+868
+00:32:16,000 --> 00:32:17,200
+this far without playing.
+
+869
+00:32:17,200 --> 00:32:19,300
+Eventually, Buddy kills everyone on the list,
+
+870
+00:32:19,300 --> 00:32:21,000
+but then because the ending needs to explain
+
+871
+00:32:21,000 --> 00:32:22,300
+the universe of Lisa,
+
+872
+00:32:22,400 --> 00:32:24,500
+what follows is almost completely unrelated.
+
+873
+00:32:24,500 --> 00:32:26,900
+Buddy suddenly meets the man who's behind everything.
+
+874
+00:32:26,900 --> 00:32:29,200
+We get some exposition, a fairly easy fight,
+
+875
+00:32:29,200 --> 00:32:31,600
+a few genuinely fantastic character-exploring
+
+876
+00:32:31,600 --> 00:32:33,300
+hallucinations for a bit in the middle.
+
+877
+00:32:33,300 --> 00:32:35,800
+Bozo explains the plot you and Buddy
+
+878
+00:32:35,800 --> 00:32:37,400
+didn't really need to know about,
+
+879
+00:32:37,400 --> 00:32:40,200
+and then Buddy gets to choose whether to mutate like Brad
+
+880
+00:32:40,200 --> 00:32:42,400
+or cure herself using the Joy vaccine
+
+881
+00:32:42,400 --> 00:32:43,600
+we just learned about
+
+882
+00:32:43,600 --> 00:32:45,900
+and raise the next generation of humankind.
+
+883
+00:32:45,900 --> 00:32:48,400
+This ending really kind of disappointed me.
+
+884
+00:32:48,400 --> 00:32:51,500
+Like, mutating into a monster has so far been a metaphor
+
+885
+00:32:51,500 --> 00:32:53,800
+for being taken over by your worst instincts.
+
+886
+00:32:53,800 --> 00:32:55,800
+The transformation is fueled by joy,
+
+887
+00:32:55,800 --> 00:32:57,900
+but wanting joy is fueled by having something
+
+888
+00:32:57,900 --> 00:33:00,600
+eating you up inside until the joy ate you up
+
+889
+00:33:00,600 --> 00:33:02,300
+and turned you into a monstrous expression
+
+890
+00:33:02,300 --> 00:33:03,700
+of those feelings, for example,
+
+891
+00:33:03,700 --> 00:33:06,400
+turning Brad into a monster obsessed with protecting Lisa
+
+892
+00:33:06,400 --> 00:33:07,900
+and Buddy by proxy.
+
+893
+00:33:07,900 --> 00:33:09,800
+I wrote the part of the script covering the painful
+
+894
+00:33:09,800 --> 00:33:12,400
+a year ago before I finally decided to play Joyful,
+
+895
+00:33:12,400 --> 00:33:13,800
+and what I liked about the problems
+
+896
+00:33:13,800 --> 00:33:15,500
+that appeared in that game is that they're not something
+
+897
+00:33:15,500 --> 00:33:17,400
+you can choose to walk away from.
+
+898
+00:33:17,400 --> 00:33:19,000
+You take those parts of you everywhere,
+
+899
+00:33:19,000 --> 00:33:21,000
+and you can't just erase them from yourself.
+
+900
+00:33:21,000 --> 00:33:23,600
+I literally wrote that there is no magic cure,
+
+901
+00:33:23,600 --> 00:33:26,000
+so having the game end with Buddy able to quickly
+
+902
+00:33:26,000 --> 00:33:28,500
+and easily choose to get over the traumatic life
+
+903
+00:33:28,500 --> 00:33:30,200
+that led her to be the person she is
+
+904
+00:33:30,200 --> 00:33:32,200
+instead of having to learn to deal with it
+
+905
+00:33:32,200 --> 00:33:34,100
+in the sort of personal human way
+
+906
+00:33:34,100 --> 00:33:36,000
+I'd come to expect from the series
+
+907
+00:33:36,000 --> 00:33:37,600
+was really jarring to me.
+
+908
+00:33:37,600 --> 00:33:39,800
+The skeleton of a really good story is still here,
+
+909
+00:33:39,800 --> 00:33:42,100
+but it's obscured by having to be all the other things
+
+910
+00:33:42,100 --> 00:33:43,200
+that it had to be,
+
+911
+00:33:43,200 --> 00:33:44,800
+and this really deprives us of the chance
+
+912
+00:33:44,800 --> 00:33:46,800
+to really explore Buddy and her choices
+
+913
+00:33:46,800 --> 00:33:49,800
+and how she would even go about moving on from all this,
+
+914
+00:33:49,800 --> 00:33:51,500
+but at the same time, I'm really touched
+
+915
+00:33:51,500 --> 00:33:54,400
+that this series about sadness and tragedy and decline
+
+916
+00:33:54,400 --> 00:33:56,700
+ends with a victim of abuse achieving what amounts
+
+917
+00:33:56,700 --> 00:33:59,500
+to some sense of closure or even a happy ending
+
+918
+00:33:59,500 --> 00:34:02,000
+and, earned or not, getting to put aside
+
+919
+00:34:02,000 --> 00:34:04,000
+their sadness and depression and self-loathing
+
+920
+00:34:04,000 --> 00:34:06,400
+and escape into the possibilities of the future.
+
+921
+00:34:06,400 --> 00:34:08,700
+I think it could have been done a lot better,
+
+922
+00:34:08,700 --> 00:34:11,200
+but I really, really like what it did.
+
+923
+00:34:11,200 --> 00:34:13,400
+In a way, playing this game as someone
+
+924
+00:34:13,400 --> 00:34:14,800
+who thinks a lot about design
+
+925
+00:34:14,800 --> 00:34:17,300
+and occasionally tries to make games of their own,
+
+926
+00:34:17,300 --> 00:34:19,500
+there's something inspirational about it,
+
+927
+00:34:19,500 --> 00:34:21,700
+like, the theoretical really good game
+
+928
+00:34:21,700 --> 00:34:23,800
+I wanted it to be doesn't exist now,
+
+929
+00:34:23,800 --> 00:34:26,600
+which means someone else gets to make that one.
+
+930
+00:34:26,600 --> 00:34:28,600
+That someone else could even be you,
+
+931
+00:34:28,600 --> 00:34:30,700
+and I think the truly fascinating power
+
+932
+00:34:30,700 --> 00:34:33,100
+about really good games is they leave people
+
+933
+00:34:33,100 --> 00:34:35,600
+with ideas about what they could do next.
+
+934
+00:34:35,600 --> 00:34:38,000
+They spread the ideas and concepts further
+
+935
+00:34:38,000 --> 00:34:39,900
+by being so good even if sometimes
+
+936
+00:34:39,900 --> 00:34:40,900
+they leave you wanting
+
+937
+00:34:40,900 --> 00:34:43,200
+or perhaps even by leaving you wanting.
+
+938
+00:34:43,200 --> 00:34:46,700
+Lisa owes a debt of sorts to both Yume Nikki and EarthBound,
+
+939
+00:34:46,700 --> 00:34:48,700
+which, of course, has inspired lots of other games,
+
+940
+00:34:48,700 --> 00:34:49,900
+including Undertale,
+
+941
+00:34:49,900 --> 00:34:52,000
+itself made by someone who also started out
+
+942
+00:34:52,000 --> 00:34:54,300
+making what amounts to an EarthBound fangame.
+
+943
+00:34:54,300 --> 00:34:56,600
+Some games are just excellent at spawning
+
+944
+00:34:56,600 --> 00:34:58,100
+this desire to add to them,
+
+945
+00:34:58,100 --> 00:35:00,900
+to create something using the ideas it leaves with you,
+
+946
+00:35:00,900 --> 00:35:04,200
+and, fantastically, Lisa is doing just that.
+
+947
+00:35:04,200 --> 00:35:07,400
+There's already at least two really fleshed-out Lisa fangames,
+
+948
+00:35:07,400 --> 00:35:09,400
+Lisa the Hopeful and Lisa the Pointless,
+
+949
+00:35:09,400 --> 00:35:11,700
+and who knows what great designers in the future
+
+950
+00:35:11,700 --> 00:35:14,500
+might say Lisa was the inspiration for their own projects.
+
+951
+00:35:14,500 --> 00:35:16,800
+In my opinion, Lisa is already doomed
+
+952
+00:35:16,800 --> 00:35:18,600
+to enter the stream of history.
+
+953
+00:35:18,600 --> 00:35:20,600
+I guarantee you 100%,
+
+954
+00:35:20,600 --> 00:35:22,900
+one of the future best games ever made,
+
+955
+00:35:22,900 --> 00:35:25,000
+one of the next indie mega-hits on Steam
+
+956
+00:35:25,000 --> 00:35:27,500
+or whatever platform will make it into the next decade
+
+957
+00:35:27,500 --> 00:35:31,800
+will be made by someone upon whom this game has left its mark.
+
+958
+00:35:31,800 --> 00:35:33,100
+It's kind of funny.
+
+959
+00:35:33,100 --> 00:35:35,200
+The games are all about trying to get over something,
+
+960
+00:35:35,200 --> 00:35:37,300
+move on from it, forget about it,
+
+961
+00:35:37,300 --> 00:35:39,600
+but we're going to see Lisa again one day
+
+962
+00:35:39,600 --> 00:35:42,000
+in a new form we might not even recognize,
+
+963
+00:35:42,000 --> 00:35:44,500
+and, personally, I can't wait.
+
+964
+00:35:45,500 --> 00:35:51,700
+♪ Listen in my head ♪
+
+965
+00:35:51,700 --> 00:35:54,000
+Hey, congratulations for making it to the end.
+
+966
+00:35:54,000 --> 00:35:56,000
+This thing has been a really long time coming,
+
+967
+00:35:56,000 --> 00:35:58,300
+and I know I didn't make many jokes this time,
+
+968
+00:35:58,300 --> 00:36:01,100
+but I wanted to do the ideas the game presents justice.
+
+969
+00:36:01,100 --> 00:36:02,900
+Please let me know what you thought of this one in the comments.
+
+970
+00:36:02,900 --> 00:36:05,600
+I'm genuinely quite interested in how this will be received.
+
+971
+00:36:05,600 --> 00:36:07,300
+I'd quite like to cover Night in the Woods
+
+972
+00:36:07,300 --> 00:36:08,900
+with quite a similar format to this one,
+
+973
+00:36:08,900 --> 00:36:11,200
+but I'd like to know what people thought of this one first.
+
+974
+00:36:11,200 --> 00:36:14,400
+My patrons over on Patreon support me making work like this.
+
+975
+00:36:14,400 --> 00:36:16,400
+Tonight, I'd especially like to thank...
+
+976
+00:36:45,400 --> 00:36:47,200
+...Avi Finkel, Rue,
+
+977
+00:36:47,200 --> 00:36:49,700
+Christopher McDonald, Femininja,
+
+978
+00:36:49,700 --> 00:36:52,200
+Naoto, Daniel Sullivan,
+
+979
+00:36:52,200 --> 00:36:55,000
+Justin Partridge, David Craggs,
+
+980
+00:36:55,000 --> 00:36:57,700
+Jordan Barrett, Torin Schofield,
+
+981
+00:36:57,700 --> 00:37:00,000
+Sam Bayliss, Rosetti,
+
+982
+00:37:00,000 --> 00:37:02,000
+Zodak, Whackman,
+
+983
+00:37:02,000 --> 00:37:04,300
+James Adair, James Id,
+
+984
+00:37:04,300 --> 00:37:06,800
+Patrick the Breezy Pea Finnegan,
+
+985
+00:37:06,800 --> 00:37:09,100
+Ah, it's a meme, meme, meme,
+
+986
+00:37:09,100 --> 00:37:11,100
+meme, meme, me,
+
+987
+00:37:11,100 --> 00:37:14,500
+Orevoixus at Ataliciousness,
+
+988
+00:37:14,500 --> 00:37:16,100
+Starman Nabi,
+
+989
+00:37:16,100 --> 00:37:17,600
+Alexander Wendler,
+
+990
+00:37:17,600 --> 00:37:18,900
+Jason Derso,
+
+991
+00:37:18,900 --> 00:37:19,900
+Mark Harmon,
+
+992
+00:37:19,900 --> 00:37:20,800
+Big Boy,
+
+993
+00:37:20,800 --> 00:37:24,100
+several rats, each armed with unknowable arcane power,
+
+994
+00:37:24,100 --> 00:37:25,000
+Anna Soti,
+
+995
+00:37:25,000 --> 00:37:26,100
+Dave Kemp,
+
+996
+00:37:26,100 --> 00:37:27,400
+The Joke Daddy,
+
+997
+00:37:27,400 --> 00:37:28,300
+Kubiza,
+
+998
+00:37:28,300 --> 00:37:29,700
+Lucas Gottschalld,
+
+999
+00:37:29,700 --> 00:37:31,100
+Wouter de Hoogde,
+
+1000
+00:37:31,100 --> 00:37:32,400
+Christopher Wade,
+
+1001
+00:37:32,400 --> 00:37:33,500
+Tyler Howard,
+
+1002
+00:37:33,500 --> 00:37:34,400
+Isabelle,
+
+1003
+00:37:34,400 --> 00:37:35,500
+Geeky Apart,
+
+1004
+00:37:35,500 --> 00:37:37,600
+Hbomberguybutwithyaoihands,
+
+1005
+00:37:37,600 --> 00:37:39,000
+Vagabond2b,
+
+1006
+00:37:39,000 --> 00:37:40,200
+Al Swigert,
+
+1007
+00:37:40,200 --> 00:37:42,000
+Hbomberguypleasereadhomestuck,
+
+1008
+00:37:42,000 --> 00:37:42,800
+Okay, fine.
+
+1009
+00:37:42,800 --> 00:37:44,100
+Sure, I'll finally start.
+
+1010
+00:37:44,100 --> 00:37:45,800
+I still need to finish Problem Sleuth first,
+
+1011
+00:37:45,800 --> 00:37:47,000
+but I'll do it, I promise.
+
+1012
+00:37:47,000 --> 00:37:48,100
+Garrett Lathy,
+
+1013
+00:37:48,100 --> 00:37:50,400
+I don't know, like a butt or something,
+
+1014
+00:37:50,400 --> 00:37:52,000
+Kurt C. Yost,
+
+1015
+00:37:52,000 --> 00:37:53,300
+Samuel Butler,
+
+1016
+00:37:53,300 --> 00:37:54,500
+Gnostic Dude,
+
+1017
+00:37:54,500 --> 00:37:56,100
+Ace Jenny,
+
+1018
+00:37:56,100 --> 00:37:57,200
+Jenna Flynn,
+
+1019
+00:37:57,200 --> 00:37:58,400
+Luke Swanson,
+
+1020
+00:37:58,400 --> 00:37:59,800
+9D Guy,
+
+1021
+00:37:59,800 --> 00:38:01,000
+Jacqueline Merritt,
+
+1022
+00:38:01,000 --> 00:38:02,700
+Wargarble Smurf,
+
+1023
+00:38:02,700 --> 00:38:04,400
+Michael H. Prey,
+
+1024
+00:38:04,400 --> 00:38:05,900
+Elijah Scanlan,
+
+1025
+00:38:05,900 --> 00:38:06,800
+James,
+
+1026
+00:38:06,800 --> 00:38:08,000
+Feliz Den,
+
+1027
+00:38:08,000 --> 00:38:09,100
+Niflet,
+
+1028
+00:38:09,100 --> 00:38:10,300
+Gracie Lipscomb,
+
+1029
+00:38:10,300 --> 00:38:11,300
+Joan N.,
+
+1030
+00:38:11,300 --> 00:38:12,600
+I'm daddy's little bitch.
+
+1031
+00:38:12,600 --> 00:38:15,300
+Mm, rub my nipples harder, please.
+
+1032
+00:38:15,300 --> 00:38:16,000
+The words,
+
+1033
+00:38:16,000 --> 00:38:17,700
+My Gold Ball?
+
+1034
+00:38:17,700 --> 00:38:19,300
+But written in Japanese.
+
+1035
+00:38:19,300 --> 00:38:20,700
+Handsome Unlimited,
+
+1036
+00:38:20,700 --> 00:38:22,200
+Spunker McGraw,
+
+1037
+00:38:22,200 --> 00:38:24,700
+Niltiax, Dealer of Souls,
+
+1038
+00:38:24,700 --> 00:38:25,800
+Daniel Han,
+
+1039
+00:38:25,800 --> 00:38:26,700
+Dalton,
+
+1040
+00:38:26,700 --> 00:38:28,500
+Bee Movie, but every time they say bee,
+
+1041
+00:38:28,500 --> 00:38:30,700
+I donate $10 to Hbomberguy,
+
+1042
+00:38:30,700 --> 00:38:32,400
+Hero of Time 88,
+
+1043
+00:38:32,400 --> 00:38:33,500
+Cal Ashton,
+
+1044
+00:38:33,500 --> 00:38:34,800
+Andrew Gilley,
+
+1045
+00:38:34,800 --> 00:38:44,100
+Rundfleischetikerungüberwachlungsaufgabenübertragungsgesetz.
+
+1046
+00:38:44,100 --> 00:38:44,800
+Nailed it.
+
+1047
+00:38:44,800 --> 00:38:46,000
+Besotten Jenny,
+
+1048
+00:38:46,000 --> 00:38:47,500
+Aiden Yankovic-Sumar,
+
+1049
+00:38:47,500 --> 00:38:48,700
+Garrett Mitchell,
+
+1050
+00:38:48,700 --> 00:38:49,900
+Matthew Harris,
+
+1051
+00:38:49,900 --> 00:38:51,200
+Rie Mansell,
+
+1052
+00:38:51,200 --> 00:38:52,100
+MacArthur,
+
+1053
+00:38:52,100 --> 00:38:53,100
+Momi,
+
+1054
+00:38:53,100 --> 00:38:54,600
+Klil H. Neon,
+
+1055
+00:38:54,600 --> 00:38:55,500
+Rikami,
+
+1056
+00:38:55,500 --> 00:38:57,300
+Minty Freakin' Fresh,
+
+1057
+00:38:57,300 --> 00:38:58,700
+Gar Internet,
+
+1058
+00:38:58,700 --> 00:39:00,100
+Benjamin Davidson,
+
+1059
+00:39:00,100 --> 00:39:00,900
+Sol,
+
+1060
+00:39:00,900 --> 00:39:02,200
+Eytan Goldstrom,
+
+1061
+00:39:02,200 --> 00:39:03,300
+Klaw Su,
+
+1062
+00:39:03,300 --> 00:39:04,500
+Davis Remy,
+
+1063
+00:39:04,500 --> 00:39:05,800
+Elliot Soden,
+
+1064
+00:39:05,800 --> 00:39:07,200
+Aidan Bradley,
+
+1065
+00:39:07,200 --> 00:39:08,400
+Daniel Stewart,
+
+1066
+00:39:08,400 --> 00:39:10,200
+Chiboi Kami Kensei,
+
+1067
+00:39:10,200 --> 00:39:11,900
+Jan Anders Bremer,
+
+1068
+00:39:11,900 --> 00:39:13,400
+George Sorosh,
+
+1069
+00:39:13,400 --> 00:39:15,600
+A Bowl of Creamy Tomato Soup,
+
+1070
+00:39:15,600 --> 00:39:16,500
+Lauren,
+
+1071
+00:39:16,500 --> 00:39:17,600
+Nathan Hoare,
+
+1072
+00:39:17,600 --> 00:39:19,100
+Corwin Light-Williams,
+
+1073
+00:39:19,100 --> 00:39:20,300
+Sean Higgins,
+
+1074
+00:39:20,300 --> 00:39:21,600
+Richard Pearson,
+
+1075
+00:39:21,600 --> 00:39:23,100
+René Larchaug,
+
+1076
+00:39:23,100 --> 00:39:23,900
+Prokor,
+
+1077
+00:39:23,900 --> 00:39:27,600
+Fully Automated Luxury Space Post-Scarcity Communism,
+
+1078
+00:39:27,600 --> 00:39:29,000
+Poggington Jones,
+
+1079
+00:39:29,000 --> 00:39:30,200
+Shadowbag,
+
+1080
+00:39:30,200 --> 00:39:31,600
+Three-Fifths of a Brain,
+
+1081
+00:39:31,600 --> 00:39:32,900
+Thomas Kistner,
+
+1082
+00:39:32,900 --> 00:39:34,300
+David DeMazalou,
+
+1083
+00:39:34,300 --> 00:39:35,700
+Ricard Hevosmar,
+
+1084
+00:39:35,700 --> 00:39:37,000
+Zachary Clark,
+
+1085
+00:39:37,000 --> 00:39:38,100
+Jerry Terry,
+
+1086
+00:39:38,100 --> 00:39:39,100
+Garry Marshall,
+
+1087
+00:39:39,100 --> 00:39:40,100
+Tom Martell,
+
+1088
+00:39:40,100 --> 00:39:41,100
+Anna S.,
+
+1089
+00:39:41,100 --> 00:39:42,300
+Kay Plays Dota,
+
+1090
+00:39:42,300 --> 00:39:43,800
+Daniel Vincent Chilton,
+
+1091
+00:39:43,800 --> 00:39:45,100
+Mike Stanley,
+
+1092
+00:39:45,100 --> 00:39:46,700
+The Spectre of Communism,
+
+1093
+00:39:46,700 --> 00:39:48,000
+Lissy Roberts,
+
+1094
+00:39:48,000 --> 00:39:49,700
+Am I Edgy Yet, YouTube?
+
+1095
+00:39:49,700 --> 00:39:51,100
+Mackenzie Cockerill,
+
+1096
+00:39:51,100 --> 00:39:53,000
+Mon Silphoplatz Toonstrom,
+
+1097
+00:39:53,000 --> 00:39:54,100
+Sammy J.,
+
+1098
+00:39:54,100 --> 00:39:55,200
+Eugene Butler,
+
+1099
+00:39:55,200 --> 00:39:56,500
+Jordan Tullis,
+
+1100
+00:39:56,500 --> 00:39:57,600
+Owen Piper,
+
+1101
+00:39:57,600 --> 00:39:58,800
+Recovering Zombie,
+
+1102
+00:39:58,800 --> 00:40:00,000
+Jason Walter,
+
+1103
+00:40:00,000 --> 00:40:01,400
+Caleb McMurphy,
+
+1104
+00:40:01,400 --> 00:40:03,000
+Findley Bowick-Copley,
+
+1105
+00:40:03,000 --> 00:40:04,100
+Parker Anderson,
+
+1106
+00:40:04,100 --> 00:40:05,600
+Silas Pumpkins,
+
+1107
+00:40:05,600 --> 00:40:06,600
+Sean Kemp,
+
+1108
+00:40:06,600 --> 00:40:08,500
+David the Benevolent Malevolence,
+
+1109
+00:40:08,500 --> 00:40:09,600
+Amy Lech,
+
+1110
+00:40:09,600 --> 00:40:10,900
+Brennan Arts,
+
+1111
+00:40:10,900 --> 00:40:12,300
+Alexander Corbett,
+
+1112
+00:40:12,300 --> 00:40:13,500
+John Cantwell,
+
+1113
+00:40:13,500 --> 00:40:14,600
+Marco Shard,
+
+1114
+00:40:14,600 --> 00:40:15,500
+Eric Hunter,
+
+1115
+00:40:15,500 --> 00:40:17,800
+Siegfried Slayer of the Immortal Dragon,
+
+1116
+00:40:17,800 --> 00:40:18,900
+Robert Phillips,
+
+1117
+00:40:18,900 --> 00:40:20,000
+Hero of War,
+
+1118
+00:40:20,000 --> 00:40:21,000
+Cafxyle,
+
+1119
+00:40:21,000 --> 00:40:22,300
+Alex Lemkowicz,
+
+1120
+00:40:22,300 --> 00:40:23,600
+Graf and Blackpaw,
+
+1121
+00:40:23,600 --> 00:40:24,900
+Jeffrey Theobald,
+
+1122
+00:40:24,900 --> 00:40:26,000
+Jack Harvey,
+
+1123
+00:40:26,000 --> 00:40:27,100
+David Rose,
+
+1124
+00:40:27,100 --> 00:40:28,200
+Samael,
+
+1125
+00:40:28,200 --> 00:40:29,600
+Scott Gertin,
+
+1126
+00:40:29,600 --> 00:40:30,700
+That Was a Looski,
+
+1127
+00:40:30,700 --> 00:40:32,400
+Alicia Parker Martell,
+
+1128
+00:40:32,400 --> 00:40:33,900
+Kelly Mariella Kay,
+
+1129
+00:40:33,900 --> 00:40:35,000
+Jenny Angel,
+
+1130
+00:40:35,000 --> 00:40:36,200
+and Kieran.
+
+1131
+00:40:36,200 --> 00:40:37,400
+Thanks very much for watching,
+
+1132
+00:40:37,400 --> 00:40:38,700
+and have a great night.
+
+1133
+00:40:38,700 --> 00:40:40,100
+I hope you're watching this at night, by the way.
+
+1134
+00:40:40,100 --> 00:40:42,000
+If you're watching it in the morning, then...
+
+1135
+00:40:42,000 --> 00:40:43,600
+you might have a kind of sad day.
+
+1136
+00:40:43,600 --> 00:40:44,700
+At least it's not...
+
+1137
+00:40:44,700 --> 00:40:45,700
+It's not for the...
+
+1138
+00:40:45,700 --> 00:40:47,100
+It's not a morning thing.
+
+1139
+00:40:47,100 --> 00:40:50,100
+🔔
+

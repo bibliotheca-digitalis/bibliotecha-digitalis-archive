@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:07,960
+No, I'm not going to give you the latest pronouncements from Al Gore on the subject of climate change.
+
+2
+00:00:07,960 --> 00:00:12,460
+Al's not a scientist, let alone a geologist or a climatologist.
+
+3
+00:00:12,460 --> 00:00:13,920
+And neither are these guys.
+
+4
+00:00:13,920 --> 00:00:20,000
+However well-meaning they may be, most environmental activists don't know a schist from Shinola.
+
+5
+00:00:20,000 --> 00:00:24,700
+And the same goes for climate prognosticators like Rush Limbaugh and Paul Harvey.
+
+6
+00:00:24,700 --> 00:00:29,820
+This video is about science, and the debate between climate scientists.
+
+7
+00:00:29,820 --> 00:00:34,820
+I'm not going to descend into political jargon by talking about climate change believers,
+
+8
+00:00:34,820 --> 00:00:38,820
+as if the issue depends on faith rather than a strong body of evidence.
+
+9
+00:00:38,820 --> 00:00:41,820
+And I'm not going to talk about climate change deniers,
+
+10
+00:00:41,820 --> 00:00:47,480
+as if there's an absolute and unassailable truth that they're deliberately refusing to see.
+
+11
+00:00:47,480 --> 00:00:53,780
+No, there are climate scientists who are proponents of the idea that climate change is being driven by man-made causes,
+
+12
+00:00:53,780 --> 00:00:56,920
+and there are climate scientists who are skeptics.
+
+13
+00:00:56,920 --> 00:01:00,920
+So let's start by looking at how we got to the current state of debate.
+
+14
+00:01:00,920 --> 00:01:06,920
+Our atmosphere is composed mainly of nitrogen gas, a lot of oxygen, and then smaller amounts of other gases,
+
+15
+00:01:06,920 --> 00:01:09,920
+like water vapour, carbon dioxide and methane.
+
+16
+00:01:09,920 --> 00:01:15,920
+Most radiation from the sun passes right through these gases because it has a short wavelength.
+
+17
+00:01:15,920 --> 00:01:20,920
+The radiation heats up the ground and is re-emitted as long-wavelength radiation,
+
+18
+00:01:20,920 --> 00:01:25,920
+the kind of infrared heat you feel from a hot electric stove or a warm sidewalk.
+
+19
+00:01:25,920 --> 00:01:32,920
+But although water vapour, carbon dioxide and methane molecules allowed most of this short-wave radiation to pass right through them,
+
+20
+00:01:32,920 --> 00:01:35,920
+they absorb the long-wave radiation.
+
+21
+00:01:35,920 --> 00:01:39,920
+This causes them to vibrate, and of course vibration is heat.
+
+22
+00:01:39,920 --> 00:01:42,920
+They radiate this heat through the atmosphere.
+
+23
+00:01:42,920 --> 00:01:45,920
+This is the so-called greenhouse effect.
+
+24
+00:01:45,920 --> 00:01:49,920
+But in fact the physics is quite different to a greenhouse, so I dislike the term.
+
+25
+00:01:49,920 --> 00:01:54,920
+Of the three so-called greenhouse gases, two of them are being produced by human activity,
+
+26
+00:01:54,920 --> 00:01:58,920
+so it would be more accurate to describe these as carbon gases.
+
+27
+00:01:58,920 --> 00:02:04,920
+If none of these three gases was there, the long-wave radiation from the ground would simply radiate into space.
+
+28
+00:02:04,920 --> 00:02:08,920
+The earth would be a frigid planet, as cold as the moon.
+
+29
+00:02:08,920 --> 00:02:13,920
+So of course the opposite is true, that if these gases were abundant in the atmosphere,
+
+30
+00:02:13,920 --> 00:02:18,920
+most of the long-wave radiation would be trapped and the earth would heat up like a sauna.
+
+31
+00:02:18,920 --> 00:02:23,920
+Proponents and skeptics all agree on this because it is well-established basic physics.
+
+32
+00:02:23,920 --> 00:02:29,920
+Long-wave radiation absorption by carbon dioxide was first discovered over 150 years ago.
+
+33
+00:02:29,920 --> 00:02:34,920
+A hundred years ago the Swedish scientist Svante Arrhenius suggested that theoretically,
+
+34
+00:02:34,920 --> 00:02:40,920
+if carbon dioxide levels were to increase drastically in the atmosphere, the world would heat up.
+
+35
+00:02:40,920 --> 00:02:46,920
+In an age of horse-drawn carriages the idea was interesting, but not something to worry about.
+
+36
+00:02:46,920 --> 00:02:52,920
+But by the 1950s there was enough concern to begin the world's first monitoring of carbon dioxide levels.
+
+37
+00:02:52,920 --> 00:02:59,920
+And in the 1970s studies conducted by the US Department of Energy showed that increasing industrialisation
+
+38
+00:02:59,920 --> 00:03:03,920
+could very soon produce what's become known as the greenhouse effect.
+
+39
+00:03:03,920 --> 00:03:08,920
+The emphasis is on the word could, because there were two schools of thought.
+
+40
+00:03:08,920 --> 00:03:13,920
+One possibility was that tiny droplets of pollution in the atmosphere, so-called aerosols,
+
+41
+00:03:13,920 --> 00:03:21,920
+would reflect the sun's radiation back into space and that would tend to overcome any warming effect from increased carbon dioxide.
+
+42
+00:03:21,920 --> 00:03:28,920
+It could even cause the earth to cool down, sparking another ice age. This became known as global dimming.
+
+43
+00:03:28,920 --> 00:03:37,920
+The other possibility was that the build-up of carbon dioxide would be so great that global warming would overcome any cooling caused by reflective aerosols.
+
+44
+00:03:37,920 --> 00:03:45,920
+By the 1980s the contest between global warming and global dimming was pretty much settled by temperature readings on the ground.
+
+45
+00:03:45,920 --> 00:03:52,920
+The earth wasn't getting cooler, it was getting hotter, and the 1980s turned out to be the hottest decade on record.
+
+46
+00:03:52,920 --> 00:03:56,920
+By the way, we'll look at some of the flaws in temperature reading in a later video.
+
+47
+00:03:56,920 --> 00:04:02,920
+I began reporting on this issue in 1992 when new data threw a curveball.
+
+48
+00:04:02,920 --> 00:04:10,920
+Crucially, although temperatures on the earth's surface were rising, satellite measurements of temperatures in the lower troposphere showed a distinct cooling.
+
+49
+00:04:10,920 --> 00:04:18,920
+All the computer models showed that the earth should be warming in the lower troposphere, and since it was cooling the models had to be wrong.
+
+50
+00:04:18,920 --> 00:04:22,920
+But all the other evidence for a warming earth was clear and compelling.
+
+51
+00:04:22,920 --> 00:04:29,920
+Ice was rapidly melting in Greenland, glaciers were retreating, and Antarctic ice sheets were breaking away.
+
+52
+00:04:29,920 --> 00:04:36,920
+By 1997 there was more than enough evidence for the world to take concerted action, or at least try to.
+
+53
+00:04:36,920 --> 00:04:44,920
+That year I was sent to Kyoto to cover the Framework Convention on Climate Change, which resulted in what became known as the Kyoto Protocol.
+
+54
+00:04:44,920 --> 00:04:49,920
+Compared to the early 1990s I was struck by how a lot of attitudes had changed.
+
+55
+00:04:49,920 --> 00:05:01,920
+Most of the skeptics had become convinced by the increasing weight of evidence, and the majority opinion was that climate change was real, and that man-made carbon gases played a crucial role.
+
+56
+00:05:01,920 --> 00:05:11,920
+Then in 2005 scientists in California reanalysed the 1992 data that showed cooling in the lower troposphere, and they found a crucial error.
+
+57
+00:05:11,920 --> 00:05:16,920
+The orbit of the satellite taking the temperature readings had degraded.
+
+58
+00:05:16,920 --> 00:05:24,920
+It had started life taking temperatures over the equator at two o'clock in the afternoon, but by the late 1990s it was taking the readings at five o'clock.
+
+59
+00:05:24,920 --> 00:05:30,920
+Hardly surprising, then, that the satellite had been recording a decrease in temperature over the years.
+
+60
+00:05:30,920 --> 00:05:35,920
+The discovery knocked out the final piece of evidence that contradicted global warming.
+
+61
+00:05:35,920 --> 00:05:38,920
+The computer models had been right all along.
+
+62
+00:05:38,920 --> 00:05:45,920
+At last the models of how the climate should be performing with increased carbon dioxide matched how it was performing.
+
+63
+00:05:45,920 --> 00:05:54,920
+Even most skeptics now accepted that the earth was warming, but that didn't necessarily mean that the warming was caused by man-made carbon gases.
+
+64
+00:05:54,920 --> 00:06:02,920
+And just as the lower troposphere anomaly was resolved, another argument arose, the 800-year carbon dioxide lag time.
+
+65
+00:06:02,920 --> 00:06:09,920
+At the Vostok station in Antarctica, an ice core was drilled looking back 420,000 years in time.
+
+66
+00:06:09,920 --> 00:06:13,920
+You can see an explanation of how this works in my video The Ice Age.
+
+67
+00:06:13,920 --> 00:06:19,920
+Climatologists were able to measure both the temperature and the carbon dioxide content of the atmosphere.
+
+68
+00:06:19,920 --> 00:06:28,920
+In his film An Inconvenient Truth, Al Gore used a graph like this to show a correlation between carbon dioxide levels and increased temperatures.
+
+69
+00:06:28,920 --> 00:06:35,920
+But he obscured the fact that the carbon dioxide increases lag the temperature increases by 800 years.
+
+70
+00:06:35,920 --> 00:06:42,920
+If carbon dioxide is supposed to cause global warming, as Gore claims, the lag time would suggest it's the other way round.
+
+71
+00:06:42,920 --> 00:06:48,920
+Well, yes, and yes, let's look at the science, not the hype.
+
+72
+00:06:48,920 --> 00:06:56,920
+In my video The Ice Age, I said there was a trigger that set off a vicious circle of events, each tipping the earth into a cooling or a warming phase.
+
+73
+00:06:56,920 --> 00:07:04,920
+In scientific terms, the vicious circle is called positive feedback, and it's best explained by looking at some weights on a balanced plank.
+
+74
+00:07:04,920 --> 00:07:12,920
+If the weights are equidistant from the pivot point, the plank is in balance. A slight offset will tilt the plank, but it won't upset the balance.
+
+75
+00:07:12,920 --> 00:07:19,920
+But let's say one of the weights is round and is moved half an inch. This causes the plank to tilt slightly.
+
+76
+00:07:19,920 --> 00:07:29,920
+But the tilt causes the weight to roll a bit, and the shift in position causes the plank to tilt a bit more, until soon there's a runaway event and the plank comes crashing to the ground.
+
+77
+00:07:29,920 --> 00:07:43,920
+We know that similar positive feedback happened during the Ice Ages. Each cooling and warming phase is amplified, so that a tiny bit of cooling ends up freezing half the planet, and a tiny bit of warming ends up thawing it out again.
+
+78
+00:07:43,920 --> 00:07:51,920
+But each time something had to act as that initial trigger. Something had to nudge the round weight just a fraction.
+
+79
+00:07:51,920 --> 00:07:59,920
+A strong contender has always been regular cyclical deviation in the earth's position or orbit, changing the amount of sunlight the earth received.
+
+80
+00:07:59,920 --> 00:08:09,920
+Whatever it was, in the depths of the Ice Age this change melted a tiny part of the ice sheet and released carbon gases from the soil and from the warmer oceans.
+
+81
+00:08:09,920 --> 00:08:18,920
+The carbon gases that were released trapped more long-wave radiation and warmed the planet a bit more, and that released more carbon gases, and so on.
+
+82
+00:08:18,920 --> 00:08:29,920
+Climate change proponents have never suggested that a carbon dioxide increase was the trigger for past warming, only that the trigger released carbon gases, which set off this vicious circle of heating.
+
+83
+00:08:29,920 --> 00:08:36,920
+So the lag time shown in the Vostok ice core isn't disputed, and the reasons for it are part of the global warming model.
+
+84
+00:08:36,920 --> 00:08:41,920
+But without a trigger, this positive feedback wouldn't even begin.
+
+85
+00:08:41,920 --> 00:08:47,920
+So if the trigger was a cyclical variation in the earth's position, then we don't have anything to worry about, right?
+
+86
+00:08:47,920 --> 00:08:54,920
+Because, as we saw in the video The Ice Age, the earth's orbit will remain steady for another 16,000 years.
+
+87
+00:08:54,920 --> 00:09:00,920
+The problem is, anything that causes a tiny increase in temperature can trigger this vicious circle.
+
+88
+00:09:00,920 --> 00:09:07,920
+And the premise of the climate change proponents is that our industrial output of carbon dioxide itself is now the trigger.
+
+89
+00:09:07,920 --> 00:09:24,920
+They calculate that the dramatic rise we've seen in carbon dioxide levels over the last hundred years will increase temperatures just enough to trigger a positive feedback loop that will result in more greenhouse gases, causing more warming, causing the release of more greenhouse gases, and so on.
+
+90
+00:09:24,920 --> 00:09:34,920
+This is already being seen. For example, in Siberia, melting ice is thawing out millions of square miles of marsh, producing tons of methane gas.
+
+91
+00:09:34,920 --> 00:09:40,920
+Methane is a more potent greenhouse gas than carbon dioxide, but it's much less abundant in the atmosphere.
+
+92
+00:09:40,920 --> 00:09:49,920
+Even so, the methane which goes into the atmosphere adds to global warming, creating more marshland, which releases more methane.
+
+93
+00:09:49,920 --> 00:09:58,920
+The 800-year lag time may be a wonderful debating point in the ideological war, but it barely touches the real discussion going on among climate scientists.
+
+94
+00:09:58,920 --> 00:10:07,920
+So what is the debate going on in that field? To say that there's no debate is nonsense. There's always a debate about every scientific issue.
+
+95
+00:10:07,920 --> 00:10:21,920
+But to claim there's no consensus is equally false. There are many ways to measure the views of climate scientists, and as we'll see in a later video, it's clear that the overwhelming majority accept the role of man-made gases in global warming.
+
+96
+00:10:21,920 --> 00:10:27,920
+But however unequal the debate might be, there are still dissenting views of qualified skeptics.
+
+97
+00:10:27,920 --> 00:10:37,920
+In the next video, I want to look at some scientific papers that suggest two alternative hypotheses on climate change, neither of which has anything to do with carbon gases.
+

@@ -1,0 +1,4872 @@
+1
+00:00:00,000 --> 00:00:09,160
+Hello, and welcome to my first ever attempt at broadcasting a live debate. Fittingly,
+
+2
+00:00:09,160 --> 00:00:15,840
+the topic is, is it worthwhile to broadcast live debates? And my guest is Ollie, one of
+
+3
+00:00:15,840 --> 00:00:21,080
+my favorite YouTubers who runs a channel called Philosophy Tube. Link is in the description,
+
+4
+00:00:21,080 --> 00:00:24,880
+please go check it out. And Ollie, you want to introduce yourself?
+
+5
+00:00:25,840 --> 00:00:31,400
+Well, yeah, thank you very much for having me on, Nick. As you say, I run a channel called
+
+6
+00:00:31,400 --> 00:00:37,400
+Philosophy Tube. I do like a 10 minute or so video every week teaching philosophy. When
+
+7
+00:00:37,400 --> 00:00:41,080
+the British government tripled tuition fees, I decided I'd give away my degree for free
+
+8
+00:00:41,080 --> 00:00:45,160
+online. So that's what I do. And I'm a long time follower of your work as well, an admirer of it.
+
+9
+00:00:45,160 --> 00:00:49,920
+Thank you. Yeah, it's funny that you say give away your work for free, because in a sense,
+
+10
+00:00:49,920 --> 00:00:54,960
+that's also the way I think of what I do, is that I feel that I've been given this kind of
+
+11
+00:00:54,960 --> 00:01:01,040
+gift of an education from society. And I do feel some obligation to just like, give it out for
+
+12
+00:01:01,040 --> 00:01:06,760
+free. Because one of the frustrations I think of being in university is how elitist it is and how
+
+13
+00:01:06,760 --> 00:01:13,040
+much money you have to pay to get access to that information. But anyway, so we're talking about
+
+14
+00:01:13,040 --> 00:01:19,440
+whether debate is worthwhile. So I thought I'd start just by saying a little bit about why this
+
+15
+00:01:19,480 --> 00:01:27,600
+topic seems like it needs to be discussed. So I think debate is something that has kind of this
+
+16
+00:01:27,600 --> 00:01:33,640
+important role in our discourse. We think of it as this cornerstone of democracy. It's something
+
+17
+00:01:33,640 --> 00:01:39,800
+that we hold up as a way of finding out what is true. But I think in most of our personal
+
+18
+00:01:39,800 --> 00:01:44,960
+experiences, we know that that's not always the case. Debate seems to have this element of
+
+19
+00:01:44,960 --> 00:01:52,280
+performance. It seems to often rely on things like people's personal appearance and how likable a
+
+20
+00:01:52,280 --> 00:01:57,220
+person is, things that have nothing to do with what is true or who's correct. So the question
+
+21
+00:01:57,220 --> 00:02:04,000
+that's raised is debate as important as we say it is. And it's something that I've been asking
+
+22
+00:02:04,000 --> 00:02:10,640
+myself recently as I've been doing debates and discussions with conservatives or far-right people
+
+23
+00:02:10,640 --> 00:02:15,280
+on YouTube. And a lot of people on the left have kind of questioned whether I'm smart to do that.
+
+24
+00:02:15,280 --> 00:02:19,400
+And the criticism ranges from minor criticism, like you're putting yourself through a lot of
+
+25
+00:02:19,400 --> 00:02:23,960
+emotional agony for the sake of little benefit, to outright you're doing the wrong thing. You're
+
+26
+00:02:23,960 --> 00:02:32,120
+giving a platform to people who shouldn't have a platform. Stop doing this. So I don't know. Do
+
+27
+00:02:32,120 --> 00:02:38,240
+you come to this with a position that you hold in general on the utility of debate?
+
+28
+00:02:38,240 --> 00:02:45,800
+I don't know. I mean, I come to it with a little bit of personal experience. So I, at my uni,
+
+29
+00:02:45,800 --> 00:02:49,880
+we were talking about elite institutions, there was a fairly high-flying debate society that I
+
+30
+00:02:49,880 --> 00:02:54,480
+went along to occasionally, and didn't really find it a massively useful use of my Wednesday
+
+31
+00:02:54,480 --> 00:03:00,800
+nights. I did win a prize there once, because I deliberately gave a speech that contained an
+
+32
+00:03:00,800 --> 00:03:06,160
+argument that I knew didn't work. And then they gave me the prize for that speech. And I was like,
+
+33
+00:03:07,040 --> 00:03:12,160
+probably not going to come anymore, guys. So it was fun. But I don't know, it's interesting. I mean,
+
+34
+00:03:12,160 --> 00:03:19,480
+the kicker is, is it the way to truth? And I'm not sure it always is. It can be, certainly. But
+
+35
+00:03:19,480 --> 00:03:26,680
+yeah, I don't think it is always the way to truth for the reasons that you mentioned, because it is
+
+36
+00:03:26,680 --> 00:03:31,640
+kind of, it can become a grandstanding thing. People can sort of play to the audience a bit
+
+37
+00:03:31,640 --> 00:03:35,000
+too much. And it can be influenced by things that people have, sort of, that aren't really
+
+38
+00:03:35,000 --> 00:03:40,480
+relevant to the points, like dress and so on, and likeability and charisma. And so, yeah, I'd
+
+39
+00:03:40,480 --> 00:03:44,600
+certainly, I mean, if the question is, is it important? I'd say, yeah, yeah, it depends what
+
+40
+00:03:44,600 --> 00:03:49,800
+you mean by important. It's very important in some senses. But is it the way to truth always,
+
+41
+00:03:49,800 --> 00:03:57,280
+necessarily? I'm inclined to think maybe not. But I don't know. Maybe, yeah, I'm kind of,
+
+42
+00:03:57,280 --> 00:04:01,480
+because this is something I'm wondering about at the moment, rather than coming at it directly with
+
+43
+00:04:01,480 --> 00:04:07,040
+a point I want to argue. I'm living the question, as we say in acting. Because, yeah.
+
+44
+00:04:07,040 --> 00:04:12,200
+So hang on one second, I'm gonna respond to that. I feel that I may have somehow the
+
+45
+00:04:12,200 --> 00:04:16,400
+permalink to this debate may have gotten public because a couple people have suddenly added into
+
+46
+00:04:16,400 --> 00:04:20,760
+this Google Hangout. So I'm gonna make sure that I didn't tweet that link or something stupid like
+
+47
+00:04:20,760 --> 00:04:28,480
+that. Did I? Was that me? Oh, yeah, maybe it was you. Oops. You might want to delete that tweet.
+
+48
+00:04:28,960 --> 00:04:36,560
+Okay. Yeah. Okay. I think, okay, hopefully we're good. Otherwise,
+
+49
+00:04:36,560 --> 00:04:40,360
+we're gonna be inviting random people. Well, which could also be interesting. We can debate
+
+50
+00:04:40,360 --> 00:04:47,320
+them. But anyway, yeah, so I think bringing up the formal debate society is like, that is kind
+
+51
+00:04:47,320 --> 00:04:55,640
+of an important point to raise. Because when you have formal debates, people are often assigned
+
+52
+00:04:55,920 --> 00:05:02,040
+which position of the debate to take. So I know when the high school debate teams and so on,
+
+53
+00:05:02,040 --> 00:05:06,920
+you win by being the most persuasive. But of course, people don't choose what they're arguing.
+
+54
+00:05:06,920 --> 00:05:11,520
+So there's a kind of culture that revolves around debate societies or around a professional debate
+
+55
+00:05:11,520 --> 00:05:19,240
+that involves simply having the greatest rhetoric, not being true. So, I mean,
+
+56
+00:05:19,240 --> 00:05:24,760
+Classes and so on will sort of have classes in providing sample arguments rather than saying,
+
+57
+00:05:24,760 --> 00:05:30,320
+you find out whether or not you're correct. It's kind of, the classes are given in light,
+
+58
+00:05:30,320 --> 00:05:35,360
+as you say, in the rhetoric. And that's kind of weird and interesting. And the fact that,
+
+59
+00:05:35,360 --> 00:05:39,280
+and how do you measure how persuasive someone is? How do you do that without,
+
+60
+00:05:39,280 --> 00:05:43,040
+I mean, you have to have like a control group, like a blank audience who know nothing about
+
+61
+00:05:43,040 --> 00:05:47,520
+anything. And then it's kind of sent in and it's like, who do you agree with? I don't know,
+
+62
+00:05:47,520 --> 00:05:52,920
+the guy in the red tie, I don't know. So how do you measure how persuasive someone is?
+
+63
+00:05:53,720 --> 00:05:58,440
+I've actually never been involved in a formal debate team, like in that kind of competitive
+
+64
+00:05:58,440 --> 00:06:01,600
+environment or competitive debate. What my understanding of the way that works is,
+
+65
+00:06:01,600 --> 00:06:07,640
+they have judges and judges evaluate arguments. I assume that those evaluations include things
+
+66
+00:06:07,640 --> 00:06:12,880
+like checking for logical fallacies and things like that, so that the guidelines would include
+
+67
+00:06:12,880 --> 00:06:19,800
+that the reasoning is sound. But if, I mean, this is not how, for instance, a presidential debate
+
+68
+00:06:19,800 --> 00:06:24,480
+in the US on CNN gets judged. In fact, in the last few presidential elections, they've,
+
+69
+00:06:24,480 --> 00:06:28,040
+I don't know if they do this in the UK too, but in the televised coverage of the debates,
+
+70
+00:06:28,040 --> 00:06:34,040
+they'll include this feature where it sort of shows the audience reaction, like in live time.
+
+71
+00:06:34,040 --> 00:06:39,240
+So you'll have like, it's like a line graph that's plotted by like how much people agree or
+
+72
+00:06:39,240 --> 00:06:44,360
+disagree with what the person is saying. Right, right. So if someone starts saying like,
+
+73
+00:06:45,000 --> 00:06:51,080
+like, hooray for the troops, like I support the troops, the line graph starts going up and up and
+
+74
+00:06:51,080 --> 00:06:56,760
+up. And if they start saying like, I don't know, no politician would say this, but if they say,
+
+75
+00:06:58,200 --> 00:07:02,120
+just because you give someone a gun doesn't make them a hero. The graph bottoms out,
+
+76
+00:07:02,120 --> 00:07:08,040
+everyone hates them. But this purely empirical way of evaluating debate, but both based on
+
+77
+00:07:08,040 --> 00:07:15,240
+public perception, that seems like a real problem. Because, I mean, the famous instance in the US is
+
+78
+00:07:15,240 --> 00:07:23,320
+this JFK-Nixon debate, or the first debate where Nixon was like sweaty and not very appealing to
+
+79
+00:07:23,320 --> 00:07:29,480
+the TV audience. And JFK obviously is this handsome presidential charismatic figure. And so
+
+80
+00:07:30,760 --> 00:07:37,240
+the perception is very much of the JFP is more presidential and more, you know, so it's
+
+81
+00:07:38,680 --> 00:07:43,160
+there's a performance art to it. And some of it does have to do with the way you look and so on.
+
+82
+00:07:45,080 --> 00:07:52,920
+But it's maybe a useful performance, right? I mean, it's in a way, any kind of rhetoric
+
+83
+00:07:53,560 --> 00:07:58,600
+sometimes can go beyond, rhetoric can be evaluated independently of how true the rhetoric,
+
+84
+00:07:58,600 --> 00:08:03,240
+independent of the truth of what's being said. So, but you wouldn't want to say that don't have
+
+85
+00:08:03,240 --> 00:08:07,240
+good rhetoric, because it doesn't have to do with truth. So debating still might be a skill worth
+
+86
+00:08:07,800 --> 00:08:15,000
+cultivating. Oh, absolutely. And certainly, I've found, like, in acting, this was like what I do,
+
+87
+00:08:15,000 --> 00:08:20,520
+I'm an actor now. It's that the kind of experience I have of debating in formal debates was very
+
+88
+00:08:20,520 --> 00:08:25,480
+useful. And yeah, you're right, just because it's there's a sort of performance element to it
+
+89
+00:08:25,480 --> 00:08:30,920
+doesn't mean that it's not important. And that's kind of what I was into earlier on. And yeah,
+
+90
+00:08:30,920 --> 00:08:35,080
+it is interesting. I mean, one of the one of the things that's going on in the UK right now is that
+
+91
+00:08:35,080 --> 00:08:40,600
+we're about to have an election and then the current Prime Minister is not going to be
+
+92
+00:08:40,600 --> 00:08:46,840
+debating the leader of the main opposition party, Theresa May. She won't debate Jeremy Corbyn,
+
+93
+00:08:46,840 --> 00:08:51,240
+probably says what she says right now. And that, yeah, that's kind of very interesting.
+
+94
+00:08:51,240 --> 00:08:56,440
+I was like, why not? And everyone's wondering why she isn't. And some people are saying it's
+
+95
+00:08:56,440 --> 00:09:00,440
+because she's like, doesn't want to do like the Nixon thing of like, appearing to be a sort of
+
+96
+00:09:01,400 --> 00:09:07,080
+haunted mannequin. But you know, who knows? And yeah, it's very interesting.
+
+97
+00:09:08,120 --> 00:09:12,120
+Yeah, so I say when there's there's also something special that happens when someone refuses to
+
+98
+00:09:12,120 --> 00:09:17,960
+debate or they don't debate, this is usually taken to be like a sign that you Oh, like you,
+
+99
+00:09:17,960 --> 00:09:22,120
+your ideas won't hold up. Yeah, I get Yeah, I imagine you get that a lot.
+
+100
+00:09:23,080 --> 00:09:26,920
+I mean, I get it. Maybe less than other people get it, because I have a couple of times
+
+101
+00:09:26,920 --> 00:09:32,600
+shown up to do these debates. But I also think that there are legitimate reasons to not want
+
+102
+00:09:32,600 --> 00:09:36,920
+to debate and there are people who shouldn't be debated. So I think there's something to be said
+
+103
+00:09:36,920 --> 00:09:41,800
+for not debating, for instance, Milo Yiannopoulos. And I know that this is something that I'm
+
+104
+00:09:41,800 --> 00:09:49,320
+thinking of an article, this well known article by the feminists, Penny read about not debating
+
+105
+00:09:49,320 --> 00:09:56,280
+Milo, because he is someone who I think most of us think he doesn't really care. He's not interested
+
+106
+00:09:56,280 --> 00:10:01,320
+in what's true. He's a kind of performance artist. And if you're debating someone like that,
+
+107
+00:10:01,320 --> 00:10:05,480
+there's part of you that thinks that you've lost if you even show up, because you can't.
+
+108
+00:10:07,880 --> 00:10:12,280
+This idea of good faith comes up a lot to me too. For instance, as a criticism of my debating Blair
+
+109
+00:10:12,280 --> 00:10:17,960
+White, that there's a notion that she's someone who's not really willing to kind of meet halfway.
+
+110
+00:10:21,080 --> 00:10:24,680
+Or not necessarily meet halfway, but who's sort of not interested in
+
+111
+00:10:25,480 --> 00:10:29,400
+pursuing the truth in some sense. So there's some kind of performance art to it that goes beyond
+
+112
+00:10:29,400 --> 00:10:35,560
+that. So I think I retract saying meet halfway, because I think meet halfway is kind of a bullshit
+
+113
+00:10:35,560 --> 00:10:39,240
+thing to expect people to do, especially when you're debating people on the way far right.
+
+114
+00:10:39,240 --> 00:10:46,920
+You don't want to meet halfway on that. But I think that you use the term rap battle
+
+115
+00:10:47,720 --> 00:10:57,000
+to describe one way of thinking of debate as a kind of performance art. And this is something
+
+116
+00:10:57,000 --> 00:11:01,720
+I see on YouTube too, the idea of debate as this kind of like, pwnage contest.
+
+117
+00:11:01,720 --> 00:11:05,880
+Yeah, I mean, I remember that you had that video, you had a video, it was really good. I forget
+
+118
+00:11:05,880 --> 00:11:09,720
+which one it was actually, but like, we were like, oh, he came in and like tore you apart,
+
+119
+00:11:09,720 --> 00:11:16,520
+like went in Socrates and you have panties and so on. It's just like, what is that really?
+
+120
+00:11:16,520 --> 00:11:21,240
+Is that really the path to truth? Or is it? I've quite been, there's a channel I've been
+
+121
+00:11:21,240 --> 00:11:26,360
+watching recently, Sean and Jen. I've quite been enjoying Sean and Jen's videos recently. I put it
+
+122
+00:11:26,360 --> 00:11:29,400
+on while I'm cooking just because I really enjoy Sean's voice. It's a great channel.
+
+123
+00:11:29,400 --> 00:11:34,280
+Yeah, yeah. And I have to confess, I don't go and watch the videos that Sean's,
+
+124
+00:11:34,280 --> 00:11:38,360
+Sean admirably says go and watch the videos to make sure I'm not misrepresenting. I do actually
+
+125
+00:11:38,360 --> 00:11:44,680
+just listen to Sean and Jen because I like Sean's voice. And I put it on while I'm cooking. So I
+
+126
+00:11:44,680 --> 00:11:48,280
+guess there's even a performative aspect to somebody like that, sort of trying to engage
+
+127
+00:11:48,280 --> 00:11:52,440
+in this debate. And then maybe it's, I'm just kind of refusing to take it as what it's meant to be.
+
+128
+00:11:55,080 --> 00:12:00,280
+Yeah, that is kind of interesting. Yeah. So I think like a debate in particular,
+
+129
+00:12:00,280 --> 00:12:05,480
+so the goal, I guess, what is the goal of debate? I mean, it's not really to persuade the other
+
+130
+00:12:05,480 --> 00:12:10,280
+person. I don't think that this is a big mistake to think that that's the goal of a debate. So
+
+131
+00:12:10,280 --> 00:12:14,760
+sometimes people criticize me for doing debates by saying, oh, don't argue with this person. Like,
+
+132
+00:12:14,760 --> 00:12:19,640
+they'll never persuade them. Well, of course someone persuade them. It's for the sake of
+
+133
+00:12:19,640 --> 00:12:25,400
+the audience. And so I think that I heard someone's, I forget who, I think this was just
+
+134
+00:12:25,400 --> 00:12:30,920
+like a random YouTube comment or something I saw. They said that the only thing debate can
+
+135
+00:12:30,920 --> 00:12:36,680
+accomplish is to make sure that two people aren't straw manning each other. And I think there's some
+
+136
+00:12:36,680 --> 00:12:41,320
+truth to that. It's sort of what you're doing when you have a debate with someone some of the
+
+137
+00:12:41,320 --> 00:12:45,640
+time is you're saying, it sounds to me like you're saying this thing that I think is horrible. And
+
+138
+00:12:45,640 --> 00:12:49,320
+then they say either, yeah, that is what I'm saying, but that's not horrible. Or they say,
+
+139
+00:12:49,320 --> 00:12:54,040
+no, you've misunderstood me. So in a sense, one of the things debate accomplishes is it sort of,
+
+140
+00:12:55,640 --> 00:12:59,720
+it helps, it gives people a chance to say that a straw man version of their claim isn't what
+
+141
+00:12:59,720 --> 00:13:05,640
+their claim is. I suppose, yeah. That might be a good use of it. I quite like that.
+
+142
+00:13:06,680 --> 00:13:11,080
+I remember somebody said something very intelligent to me this morning when I was
+
+143
+00:13:11,080 --> 00:13:13,960
+telling them about what I was going to be doing this tonight. They said,
+
+144
+00:13:15,720 --> 00:13:20,440
+it's quite odd that people would, because I'm sure you get commenters as I do, like demanding
+
+145
+00:13:20,440 --> 00:13:26,040
+debate saying, oh, this must be debated. Or once you say, you've said this, other YouTubers said
+
+146
+00:13:26,040 --> 00:13:30,520
+this, you should debate them. And this person said to me this morning, those comments are very
+
+147
+00:13:30,520 --> 00:13:35,960
+interesting because an intelligent person could infer debate. Like if I'm claiming X and somebody
+
+148
+00:13:35,960 --> 00:13:40,440
+else is claiming Y, then it's like, well, as long as we understand both claims, then we understand
+
+149
+00:13:40,440 --> 00:13:44,760
+that there's a debate there. It doesn't need necessarily to be this performative clash,
+
+150
+00:13:44,760 --> 00:13:49,320
+like tonight at eight, that's a royal rumble between, yeah. It's just kind of not really
+
+151
+00:13:49,320 --> 00:13:55,960
+required. So, right. This is like definitely a kind of philosophy way of thinking about things
+
+152
+00:13:55,960 --> 00:14:01,240
+too, is that you should, if you're good, be able to build up an argument based on what you know
+
+153
+00:14:01,240 --> 00:14:05,560
+two people to say, and you should be able to build, you could sort of an imaginative argument
+
+154
+00:14:05,560 --> 00:14:09,960
+between two people. And I sort of try to do that in some of, I do some videos where I will do a
+
+155
+00:14:09,960 --> 00:14:14,440
+kind of dialogue, like I did this Nazi punching video, where I had two sides, each of which I
+
+156
+00:14:14,440 --> 00:14:19,480
+thought had something of value to say. And I kind of tried to, instead of having an actual debate
+
+157
+00:14:19,480 --> 00:14:25,000
+about it, just I made a fictional one, where I sort of tried to imagine what, how the two ideas
+
+158
+00:14:25,000 --> 00:14:29,720
+of a person will clash. And anyone should be able to do this, if you know enough about the side that
+
+159
+00:14:29,720 --> 00:14:35,400
+you're saying. And some ways that maybe, yeah. And some ways that maybe, go ahead, go ahead.
+
+160
+00:14:35,400 --> 00:14:39,800
+I said, I suppose the risk of doing yourself and playing both roles, although I kind of as an actor
+
+161
+00:14:39,800 --> 00:14:43,800
+really appreciate the kind of theatricality of that, I suppose the risk would be somebody saying,
+
+162
+00:14:43,800 --> 00:14:47,560
+ah, but if it's just one person behind it, then you kind of, you're avoiding the straw manning
+
+163
+00:14:47,560 --> 00:14:50,680
+thing. So you might still be straw manning them. And I love the video.
+
+164
+00:14:50,680 --> 00:14:55,480
+The risk with that is you're then speaking for someone else, and so you're definitely a risk
+
+165
+00:14:55,560 --> 00:15:01,800
+of straw manning. But what you also can do is you can avoid this kind of tonight at nine,
+
+166
+00:15:01,800 --> 00:15:08,680
+clash of personalities thing. And that is what, to me, one of the most discouraging things about
+
+167
+00:15:08,680 --> 00:15:12,760
+the way people respond to debates is that when I say, when I've posted that I'm going to have
+
+168
+00:15:12,760 --> 00:15:16,440
+a discussion with a roaming millennial or whoever I'm talking to on YouTube, a lot of people do
+
+169
+00:15:16,440 --> 00:15:20,600
+respond with popcorn eating gifts and like, you get the sense that like, oh, they just want to
+
+170
+00:15:20,600 --> 00:15:27,400
+see this like shit show, go down. Because to avoid the kind of tonight at nine,
+
+171
+00:15:27,400 --> 00:15:31,960
+clash thing, it's like, well, that's just pints. Like, just go for pints, like, or just do this,
+
+172
+00:15:31,960 --> 00:15:40,760
+just have this. Like, it's just a chat. It doesn't need to be sponsored by whoever.
+
+173
+00:15:41,720 --> 00:15:45,400
+Just go have pints. Like, it's fine. But then there are plenty of people I wouldn't want to
+
+174
+00:15:45,400 --> 00:15:48,760
+have pints with. And I've had plenty of pints with people where it's gotten pretty heated. So
+
+175
+00:15:49,320 --> 00:15:56,280
+yeah. So I think that I love the idea of it being pints. I mean, I think that's not,
+
+176
+00:15:56,280 --> 00:16:00,600
+I think that's actually sort of the difference between discussion and debate. And I think on
+
+177
+00:16:00,600 --> 00:16:06,680
+YouTube, although actually, the debate society at my uni were pretty heavy drinkers as well.
+
+178
+00:16:10,680 --> 00:16:14,680
+When I was at Georgetown, there was something called the Philodemic Society, which was like
+
+179
+00:16:14,680 --> 00:16:21,080
+a bunch of LARPing, bougie, pretentious people who wanted to roleplay that they were at Cambridge
+
+180
+00:16:21,080 --> 00:16:26,840
+in the 1950s. God, they sucked. But not all of them.
+
+181
+00:16:26,840 --> 00:16:28,520
+LARPing, bougie, Cambridge.
+
+182
+00:16:28,520 --> 00:16:32,360
+Yeah, it was awful. But yeah, there was also a lot of drinking.
+
+183
+00:16:34,040 --> 00:16:34,920
+A lot of people going, no!
+
+184
+00:16:35,720 --> 00:16:39,880
+A lot of people who just love just like wearing a suit and projecting their voice.
+
+185
+00:16:39,880 --> 00:16:44,760
+Oh yeah, the debate society that was at my uni. It was suits and ties and gowns.
+
+186
+00:16:47,000 --> 00:16:50,920
+I used to go along, because they used to allow floor speeches at the end of the night.
+
+187
+00:16:50,920 --> 00:16:54,440
+So I was doing quite a lot of stand up comedy at the time. And I used to go along and just
+
+188
+00:16:54,440 --> 00:16:58,760
+do like five minutes of new material, just because I had a cast of audience who weren't allowed to,
+
+189
+00:16:58,760 --> 00:17:03,640
+like, they're not allowed to boo. They're only allowed to either say shame or resign.
+
+190
+00:17:03,640 --> 00:17:08,760
+And I'm like, that's inherently hilarious. So I used to go along and test out my material
+
+191
+00:17:08,760 --> 00:17:13,480
+and try and work it into the topic of it, just to mess with them. It's good fun.
+
+192
+00:17:13,480 --> 00:17:17,560
+Yeah, so but if a discussion is more worth having than debate, I think there's also,
+
+193
+00:17:19,480 --> 00:17:23,880
+maybe there's an issue that comes up a lot lately. Are there people not worth having
+
+194
+00:17:23,880 --> 00:17:27,400
+discussions with? I think the answer to this is clearly yes.
+
+195
+00:17:29,080 --> 00:17:31,240
+Especially in London, where it's five quid a pint. There are plenty of people.
+
+196
+00:17:32,200 --> 00:17:40,760
+Yeah, that's absolutely not worth it. But so I think that there has to, you know,
+
+197
+00:17:40,760 --> 00:17:46,520
+so to build a bridge, there has to be something to build a bridge to. There has to be
+
+198
+00:17:49,080 --> 00:17:52,600
+another person who's sort of genuinely interested in it. And they can't just be interested in
+
+199
+00:17:52,600 --> 00:17:59,000
+bullying you. They can't just be interested in making money. They can't just be a propagandist.
+
+200
+00:17:59,080 --> 00:18:01,800
+So for instance, I think there's no point having discussion with Richard Spencer,
+
+201
+00:18:01,800 --> 00:18:04,680
+as I've discussed at length with this point, because I think there's good,
+
+202
+00:18:04,680 --> 00:18:09,720
+very good reasons to say that nothing he says is genuine. And it's all kind of Trojan horse.
+
+203
+00:18:11,400 --> 00:18:15,080
+That's the thing, isn't it? Is that there are some, there are some, I mean, I did this in my
+
+204
+00:18:15,080 --> 00:18:20,680
+video on kind of white on white supremacist propaganda, which is greatly informed by your
+
+205
+00:18:20,680 --> 00:18:25,720
+video on your super video on white nationalism. Yeah, there are some points of view where it's
+
+206
+00:18:25,720 --> 00:18:29,160
+like if somebody says it's raining all the time, even when it's not raining,
+
+207
+00:18:29,160 --> 00:18:33,320
+it's like, oh, good. It's raining morning. It's like, what exactly does that mean in there?
+
+208
+00:18:33,320 --> 00:18:37,720
+And after a while, it kind of makes me start to wonder, well, what is this person really saying
+
+209
+00:18:37,720 --> 00:18:42,200
+here? If no amount of evidence can sort of convince hardcore Nazis that there really isn't
+
+210
+00:18:42,200 --> 00:18:46,440
+a worldwide Jewish conspiracy, then what are they really saying when they put forward that idea?
+
+211
+00:18:46,440 --> 00:18:50,200
+It's not really the idea that it's true. In which case, I'm kind of wasting my breath trying to
+
+212
+00:18:50,200 --> 00:18:55,080
+show them that it's not. Yeah. And unfortunately, I mean, I completely agree with what you said.
+
+213
+00:18:55,080 --> 00:19:00,520
+Unfortunately, the struggle I've had lately with the whole Nazi issue is that it's a great,
+
+214
+00:19:00,520 --> 00:19:05,800
+it's very difficult convincing many people of this because the rhetoric kind of works.
+
+215
+00:19:06,440 --> 00:19:10,440
+Particularly, I think that someone like Richard Spencer is very good at persuading people. I mean,
+
+216
+00:19:10,440 --> 00:19:13,880
+this is exactly what his goal is. It's to persuade people that actually what he's saying is quite
+
+217
+00:19:13,880 --> 00:19:18,920
+reasonable and should at least be taken seriously. So you sort of get trapped into this position
+
+218
+00:19:18,920 --> 00:19:22,840
+where if you don't take it seriously, it seems like you're the one who hates free speech. You're
+
+219
+00:19:22,840 --> 00:19:29,400
+the real fascist. Well, Carl Schmitt saw this coming, didn't he? In the early 20th century,
+
+220
+00:19:29,400 --> 00:19:34,360
+he said liberalism would slide to the right. What's funny about this is that this notion
+
+221
+00:19:34,360 --> 00:19:37,720
+that liberalism slides to the right or that liberals will side with fascists is something
+
+222
+00:19:37,720 --> 00:19:42,920
+that I've heard this from leftists for years and have sort of vaguely sort of believed it,
+
+223
+00:19:42,920 --> 00:19:48,360
+but I didn't really feel it until recently. On YouTube recently, I honestly feel like
+
+224
+00:19:49,320 --> 00:19:55,080
+you know, Ionesco's play The Rhinoceros. I feel like I'm in The Rhinoceros. There's people turning
+
+225
+00:19:55,080 --> 00:20:00,360
+into rhinoceroses left and right and to see person after person who spent years calling people
+
+226
+00:20:00,360 --> 00:20:07,320
+femor-Nazis and black Hitler and then suddenly real ethno-nationalism comes along and they're
+
+227
+00:20:07,320 --> 00:20:12,680
+like, oh, well, these people are, I don't completely agree with them, but it's not called
+
+228
+00:20:12,680 --> 00:20:17,640
+them Nazis. They're ethno-nationalists. They believe in a peaceful redistribution of population
+
+229
+00:20:17,640 --> 00:20:27,480
+and you're just like, oh my God. It suddenly becomes horribly visible to me that if it comes
+
+230
+00:20:27,480 --> 00:20:32,200
+down to fascism versus anti-fascism, like I see what side these people are on and it's not
+
+231
+00:20:32,200 --> 00:20:37,560
+anti-fascism and it's a terrifying thing to watch happen. I was in a protest a while ago. I mean,
+
+232
+00:20:37,560 --> 00:20:41,960
+viewers in the UK might remember there was a bit of a thing going on in Trafalgar Square about a
+
+233
+00:20:41,960 --> 00:20:45,800
+month or a couple of weeks ago. It all got a bit heated. I was right there in the middle of that.
+
+234
+00:20:45,800 --> 00:20:50,360
+It was interesting because me and this one other guy who was just on his way at work or something,
+
+235
+00:20:50,360 --> 00:20:55,160
+he was in a suit and tie, reasonably elderly gent. We were pinned against the shop window
+
+236
+00:20:55,160 --> 00:20:59,720
+and I was there in my hoodie with my protest sign and he was there in a suit and his
+
+237
+00:21:00,280 --> 00:21:07,400
+very reasonable looking tie. The police were beating and arresting this Antifa guy in front
+
+238
+00:21:07,400 --> 00:21:13,480
+of us and the cry went up from the crowd, who defends the Nazis? Police defend the Nazis.
+
+239
+00:21:14,040 --> 00:21:17,480
+And this guy turned to me and said, it's a horrible thing to say. Why do they say that?
+
+240
+00:21:17,480 --> 00:21:23,320
+And I was like, look, they are. Like, that is what they're doing. And we had an interesting
+
+241
+00:21:23,320 --> 00:21:28,520
+discussion, actually me and him, about sort of people putting forward ideas that aren't really
+
+242
+00:21:28,520 --> 00:21:34,200
+supposed to be true. And so he's like, well, if you don't hear them out, aren't you kind of
+
+243
+00:21:34,200 --> 00:21:38,840
+censoring their viewpoint? And I was like, no, no, you haven't quite got it. Their viewpoint is not
+
+244
+00:21:39,800 --> 00:21:44,040
+like putting it forward as an idea to be true. That's them sort of broadcasting a secret message
+
+245
+00:21:46,120 --> 00:21:50,200
+like a value rather than a fact. So the idea that politics relies on facts,
+
+246
+00:21:51,000 --> 00:21:53,800
+always relies on facts. That's the dangerous thing because of course,
+
+247
+00:21:54,920 --> 00:21:57,880
+politics doesn't always rely on facts as well we know.
+
+248
+00:21:58,920 --> 00:22:02,840
+Yeah. And I think this is the point I have the most difficult persuading people of,
+
+249
+00:22:02,840 --> 00:22:08,600
+that the usual kind of approach that you would take to a conversation or to a political
+
+250
+00:22:08,600 --> 00:22:12,440
+discussion is not the right approach when you're dealing with someone like Richard Spencer.
+
+251
+00:22:14,840 --> 00:22:20,040
+This was basically the whole point of the Roman millennial discussion. And the point that I just
+
+252
+00:22:20,040 --> 00:22:27,560
+was unable to persuade her of is the idea that you're making a fundamental error of some kind
+
+253
+00:22:27,560 --> 00:22:33,400
+if you take what's said as an indication of what's, as like a series of factual propositions
+
+254
+00:22:33,400 --> 00:22:37,080
+about what's true. That's not actually the way this language is functioning.
+
+255
+00:22:37,080 --> 00:22:40,520
+But of course then the question, yeah, not the way the language is functioning. That's a good
+
+256
+00:22:40,520 --> 00:22:43,560
+way of putting it. Then the question becomes, and this is a question I got from some of my
+
+257
+00:22:43,560 --> 00:22:46,920
+commenters when I did my video on white supremacist propaganda, is how do you tell?
+
+258
+00:22:46,920 --> 00:22:50,520
+How do you tell who's really putting forward the kind of, oh, this is true. I really do believe
+
+259
+00:22:50,520 --> 00:22:55,000
+in the world of Jewish conspiracy. And who's putting forward the covert message on the news?
+
+260
+00:22:55,000 --> 00:22:59,240
+How do you tell? Which I suppose, you know, we'd have to do case by case.
+
+261
+00:23:01,480 --> 00:23:05,880
+Yeah, I keep returning to this idea, because it's a big part of my acting training, of living the
+
+262
+00:23:05,880 --> 00:23:10,920
+questions, which is something that I floated in a video recently, which commenters didn't really
+
+263
+00:23:10,920 --> 00:23:15,400
+like very much. Can you say something about that idea?
+
+264
+00:23:15,400 --> 00:23:22,680
+It's really quite fascinating. So the poet, maybe I can find the quote from Rilke, because
+
+265
+00:23:22,920 --> 00:23:27,400
+I'll kind of explain why it's important to the acting training. So a lot of actors,
+
+266
+00:23:27,400 --> 00:23:31,320
+in particular actors in training, face questions like, oh, am I good enough? Or am I too anxious?
+
+267
+00:23:31,320 --> 00:23:35,320
+Can I do this? Can I do that? And to try and sit down and answer that question and persuade
+
+268
+00:23:35,320 --> 00:23:41,080
+oneself of like, yes, I'm good enough to be an actor, is futile, because you can be able to maybe
+
+269
+00:23:41,080 --> 00:23:44,680
+spread yourself intellectually, but you'll still be nervous. So what we've been told is to really
+
+270
+00:23:44,680 --> 00:23:49,160
+take to heart this thing, this quote from Rilke, the poet, who said, be patient toward all that is
+
+271
+00:23:50,120 --> 00:23:56,200
+unsolved in your heart, questions like locked rooms and like books that are now written in a
+
+272
+00:23:56,200 --> 00:24:00,760
+very foreign tongue. Do not now seek the answers which cannot be given you, because you would not
+
+273
+00:24:00,760 --> 00:24:06,760
+be able to live them. And the point is to live everything. Live the questions now. Perhaps you
+
+274
+00:24:06,760 --> 00:24:12,120
+will then gradually, without noticing it, live along some distant day into the answer. And the
+
+275
+00:24:12,120 --> 00:24:17,800
+idea is that not every question can be sort of answered, cut and dry theoretically beforehand.
+
+276
+00:24:17,800 --> 00:24:23,000
+Some things have to be kind of felt out, which is a really interesting idea, because I came from
+
+277
+00:24:23,000 --> 00:24:27,640
+like a very academically theoretical background. And when I came across this idea and came across
+
+278
+00:24:27,640 --> 00:24:31,880
+people who sort of operate like that on the kind of living the questions route, rather than,
+
+279
+00:24:31,880 --> 00:24:36,200
+as I think out to many people who think about the questions and analyze them first,
+
+280
+00:24:36,840 --> 00:24:40,520
+that was very interesting to me. And I'm interested a lot at the moment in this
+
+281
+00:24:41,480 --> 00:24:46,440
+different approach to answering questions, which would seem to go against the kind of debate
+
+282
+00:24:46,440 --> 00:24:51,240
+theory, yes, let's sit down and talk about it, argue about it. Well, maybe let's just see how we go.
+
+283
+00:24:53,080 --> 00:24:56,600
+Yeah, that's interesting that you bring that up, because that also turns out to be a very important
+
+284
+00:24:56,600 --> 00:25:02,680
+point. And a lot of kind of social justice circles and feminism in particular, the idea that
+
+285
+00:25:02,680 --> 00:25:08,200
+there are some questions that you kind of need to rely on an experience to answer or to fully
+
+286
+00:25:08,200 --> 00:25:14,840
+comprehend that you can't just kind of like deduce the answer to these questions. And it's something
+
+287
+00:25:14,840 --> 00:25:23,080
+that—I mean, nothing could illustrate this more ridiculously than a recent incident on YouTube,
+
+288
+00:25:23,080 --> 00:25:30,920
+where a kind of pretty generic anti-SJW YouTuber named The Satiratician made a response to this
+
+289
+00:25:30,920 --> 00:25:36,760
+middle school girl teenager who had made this video. She made this video talking about her
+
+290
+00:25:36,760 --> 00:25:43,400
+experiences being catcalled as a 14, 15-year-old. And his response to this is, do you have any
+
+291
+00:25:43,400 --> 00:25:49,160
+evidence of being catcalled? How am I supposed to believe that you've been catcalled until
+
+292
+00:25:49,160 --> 00:25:55,400
+adequate evidence has been presented? And I'm just like, oh my god. Nothing exemplifies the worst of
+
+293
+00:25:55,400 --> 00:26:01,400
+what is meant by our ironic use of rationals than demanding that a teenage girl provide evidence of
+
+294
+00:26:01,400 --> 00:26:06,920
+having been catcalled. There's just no nuance in that. It's like, look, some conversations
+
+295
+00:26:06,920 --> 00:26:10,680
+acquire different standards of evidence. Like if you ask me for directions in the street and I go,
+
+296
+00:26:10,920 --> 00:26:15,400
+yeah, like, pub's down there. Are you not going to go, well, do you have a map or something?
+
+297
+00:26:16,280 --> 00:26:20,440
+Go and find out. Or maybe it doesn't matter. Maybe it's enough to just go on.
+
+298
+00:26:20,440 --> 00:26:22,760
+Is there any evidence that the pub is in that direction?
+
+299
+00:26:25,960 --> 00:26:27,640
+Testimony is, I guess, a kind of evidence.
+
+300
+00:26:28,680 --> 00:26:32,520
+It's like the misapplication of a scientific standard of evidence to a situation where that
+
+301
+00:26:32,520 --> 00:26:37,640
+standard of evidence has no place. Right. It's like, yeah, epistemic injustice is—
+
+302
+00:26:37,800 --> 00:26:43,800
+Yes. Epistemic injustice. So that's a phrase that's used in philosophy now.
+
+303
+00:26:44,840 --> 00:26:48,760
+I'm explaining because I don't think this concept is very well known outside of
+
+304
+00:26:49,480 --> 00:26:55,640
+academic philosophy. But it's the notion that some people's—I guess it's a complicated
+
+305
+00:26:55,640 --> 00:26:58,200
+notion. I haven't thought about this a while. But one facet of it that I understand
+
+306
+00:26:59,400 --> 00:27:03,480
+is that some people's testimony is privilege above others, for instance.
+
+307
+00:27:03,960 --> 00:27:12,840
+Yeah. Well, yeah, I did a video on it a while ago and to sum it up, it's the idea that we can
+
+308
+00:27:12,840 --> 00:27:19,240
+sometimes do wrongs to people, specifically in their capacities as knowers of things.
+
+309
+00:27:19,800 --> 00:27:25,160
+So if, for instance, I mean, the example that Fricka uses is from To Kill a Mockingbird,
+
+310
+00:27:25,160 --> 00:27:28,680
+where the jury doesn't believe Tom Robinson's testimony because he's black, right? But she
+
+311
+00:27:28,680 --> 00:27:33,400
+says, look, he's trying to give you an item of knowledge there that he is innocent. And the
+
+312
+00:27:33,400 --> 00:27:39,160
+jury's saying, no, we don't accept that because he's black. She says that's a kind of epistemic
+
+313
+00:27:39,160 --> 00:27:44,760
+injustice. You're denying his ability to add to the collective pool of human knowledge on
+
+314
+00:27:44,760 --> 00:27:50,680
+prejudicial grounds. Yeah. And I guess the most very formal and explicit statement of that would
+
+315
+00:27:50,680 --> 00:27:55,640
+be in traditional Islamic law, I think it's like, what is it, like two women's testimony are needed
+
+316
+00:27:55,720 --> 00:27:59,960
+or something to match the testimony of one man or something along those lines. But I think
+
+317
+00:28:01,560 --> 00:28:05,880
+informally, we have the same thing where a teenage girl says that she's being cackled.
+
+318
+00:28:05,880 --> 00:28:10,120
+And I mean, for the record, anyone over the age of 10 who looks remotely like a woman has been
+
+319
+00:28:10,120 --> 00:28:17,000
+cackled. And so the idea that this, for something that doesn't, it's not an extraordinary claim. In
+
+320
+00:28:17,000 --> 00:28:21,160
+other words, it doesn't require much in the way of evidence. And there's a kind of basic trust that
+
+321
+00:28:21,160 --> 00:28:25,880
+you're supposed to bring to conversations where you believe that what someone says is their
+
+322
+00:28:27,080 --> 00:28:31,960
+everyday experience. I remember my Christian theology teacher telling me something similar
+
+323
+00:28:31,960 --> 00:28:34,760
+about the way the Christian communities view the testimony of women as well.
+
+324
+00:28:35,640 --> 00:28:40,840
+Actually, yeah, it's a topic that's really of interest to, I know, like philosophers of
+
+325
+00:28:40,840 --> 00:28:48,440
+religion and to theologians in general, because so much of faith relies on testimony and relies
+
+326
+00:28:48,440 --> 00:28:54,120
+on people's accounts of subjective experiences. And so this turns out to be the revelation.
+
+327
+00:28:54,120 --> 00:28:59,320
+Yeah, it's a hot topic in philosophy of religion, because it seems like these kind of claims,
+
+328
+00:29:00,760 --> 00:29:05,240
+of course, for people who are secularists or atheists, we reject that kind of testimony.
+
+329
+00:29:07,880 --> 00:29:10,280
+At least not as revealing what it claims to reveal.
+
+330
+00:29:13,480 --> 00:29:16,120
+But of course, religious people need to take it seriously to some extent.
+
+331
+00:29:16,760 --> 00:29:22,040
+Yeah, I guess so. I remember being very interested. I studied Christian theology for a
+
+332
+00:29:22,040 --> 00:29:26,120
+year at uni. And alongside philosophy, I remember being very interested in how Revelation was
+
+333
+00:29:26,120 --> 00:29:32,840
+supposed to work. And back then I was very, I was in a big sort of like rationalist phase.
+
+334
+00:29:32,840 --> 00:29:34,840
+Yeah, I would stay with it.
+
+335
+00:29:34,840 --> 00:29:39,640
+Yeah, I think a lot of people do. Which is not, I know my commenters will jump down my throat and
+
+336
+00:29:39,640 --> 00:29:44,840
+say some people it's not a phase. It's Yes. Okay, fine. For me, it was. Yeah, it was really a lot
+
+337
+00:29:44,840 --> 00:29:49,160
+of Hitchens and Dawkins and so on. So I remember being very sort of critical in lectures. And
+
+338
+00:29:49,160 --> 00:29:53,480
+but then I suppose it's a it's a way of, of living the question. And I remember my,
+
+339
+00:29:54,600 --> 00:30:01,320
+one of my theology lectures, I suppose, I won't name his wife had died of cancer,
+
+340
+00:30:01,320 --> 00:30:07,160
+sort of 20 years prior to his coming to the uni. And he still, he'd kind of been with her this
+
+341
+00:30:07,160 --> 00:30:11,720
+whole time. And he's still very much believed in God. And I remember, I remember I didn't ask him
+
+342
+00:30:11,720 --> 00:30:17,560
+out loud, it would be quite rude. But I remember thinking, like, how do you kind of believe based
+
+343
+00:30:17,560 --> 00:30:21,400
+on that? And I suppose his answer would, having known him being something like lines, he just
+
+344
+00:30:21,400 --> 00:30:26,440
+comes does it one day at a time and sort of lives the question, I guess. And yeah, it's interesting.
+
+345
+00:30:26,440 --> 00:30:31,720
+How did we get on to that? I don't know. But I mean, let's see if I can circle it back around
+
+346
+00:30:31,720 --> 00:30:38,040
+to the debate thing. So sorry, I keep sort of no, no, no, all sorts of ridiculous. My inclination
+
+347
+00:30:38,040 --> 00:30:43,320
+is to go where, to go to whatever topic seems interesting. But, but, but so I think that,
+
+348
+00:30:44,200 --> 00:30:48,200
+so New Atheism, I think presents an interesting case for the argument about debate. Because I
+
+349
+00:30:48,200 --> 00:30:52,280
+think a lot of, so this is a theory that I'm constantly talking about online. A theory I have
+
+350
+00:30:52,280 --> 00:30:56,680
+is that current wave of like rationals is like the kind of direct, a lot of these people that
+
+351
+00:30:56,680 --> 00:31:03,000
+you run into online are in some ways the direct intellectual descendants of New Atheists. So this
+
+352
+00:31:03,000 --> 00:31:08,120
+was the, I mean, New Atheism was the hottest topic on the internet discussion, in the internet
+
+353
+00:31:08,120 --> 00:31:13,560
+political discussion world about, you know, nine or 10 years ago. Yeah, then it just seems to
+
+354
+00:31:13,560 --> 00:31:17,880
+sort of disappear. And then yeah, it disappeared or evolved into the horrible thing it has become.
+
+355
+00:31:17,880 --> 00:31:26,280
+But I think so, so Christopher Hitchens, for instance, is a man who I have many disagreements
+
+356
+00:31:26,280 --> 00:31:32,920
+with. But there's no question that he's one of the great debaters of his time. He was really good
+
+357
+00:31:33,160 --> 00:31:38,120
+he had this, and really good in particular at debating religious people, religious people who
+
+358
+00:31:38,120 --> 00:31:42,840
+are supposed to be this kind of like paradigm case of people who like, they, why would, you know,
+
+359
+00:31:42,840 --> 00:31:47,480
+you can't persuade them, like, why would you, why would you have an argument, you can't talk some
+
+360
+00:31:47,480 --> 00:31:53,720
+out of their faith is the usual idea. But I think a lot of people were persuaded by watching Hitchens
+
+361
+00:31:53,720 --> 00:31:58,840
+debate. And some of this has to do with his arguments being good, I think, I think certainly,
+
+362
+00:31:58,920 --> 00:32:07,960
+but also, this big, booming, single barrel voice that he had. And also just the fact that like,
+
+363
+00:32:09,400 --> 00:32:15,000
+I don't mean in any way to impugn your intellect, but I think that people with English accents in
+
+364
+00:32:15,000 --> 00:32:22,040
+the United States get a bit of an easy pass. Like, I think you're a very smart person,
+
+365
+00:32:22,040 --> 00:32:25,240
+but I believe that you could convince half the state of Ohio that you were the intellect of
+
+366
+00:32:25,240 --> 00:32:30,920
+the century. You know, you're not the first blonde American academic to say that to me.
+
+367
+00:32:30,920 --> 00:32:37,720
+Yeah. And, and, and like, I think that, you know, I think Milo Yiannopoulos benefits from this
+
+368
+00:32:37,720 --> 00:32:43,720
+absurd foolishness of Americans. And that's strange. I mean, sometimes when we when we come
+
+369
+00:32:43,720 --> 00:32:47,800
+to America, we have to play the villains and it's only evil. And sometimes we can just say any old
+
+370
+00:32:47,800 --> 00:32:51,560
+Ross and people will be like, Hmm, yes, very good. Yeah, I think it's I think it's benefited
+
+371
+00:32:51,560 --> 00:32:57,320
+Milo Yiannopoulos, for instance. The problem simply is that Americans have not spent enough
+
+372
+00:32:57,320 --> 00:33:05,400
+time around dumb English people. Yes, yes. I think honestly, a week in London is a cure.
+
+373
+00:33:05,400 --> 00:33:09,400
+A week in London is a cure. A week in London may be a cure for many things and it's
+
+374
+00:33:10,680 --> 00:33:15,640
+many others. Yeah, I moved to London from the north nine months ago and I'm still getting used
+
+375
+00:33:15,640 --> 00:33:25,160
+to it really. It's a terrible place. But so to me, that is this idea, part of the idea
+
+376
+00:33:25,720 --> 00:33:34,600
+that we have online that debate is the like, ultimate. It's kind of is this, this,
+
+377
+00:33:34,600 --> 00:33:40,120
+this fetishistic thing that is the arbiter of truth. I think it comes from the effectiveness
+
+378
+00:33:40,120 --> 00:33:46,840
+of the sort of last movement of sort of intellectuals that were popular on the internet,
+
+379
+00:33:46,840 --> 00:33:51,400
+the fact that debate was used to create advantage by people like Dawkins and Hitchens.
+
+380
+00:33:52,520 --> 00:33:57,400
+Yeah, that's a good point. And maybe not just in the sort of argumentative sort of establishing
+
+381
+00:33:57,400 --> 00:34:01,240
+truth sense, but also in the rhetoric sense, because Hitchens, yeah, he could he could turn
+
+382
+00:34:01,240 --> 00:34:07,720
+a phrase. And so that's maybe that's interesting that it's that it's maybe come out of that to a
+
+383
+00:34:07,720 --> 00:34:13,880
+certain extent. Where do you think it'll go then? I don't know, but I think it looks bad.
+
+384
+00:34:16,040 --> 00:34:22,280
+We talked about like, it seems to be going in this Schmidian direction, right? Like, it seems that
+
+385
+00:34:24,680 --> 00:34:29,080
+that people alleging themselves to be rationalists have kind of, again, applied
+
+386
+00:34:29,080 --> 00:34:35,640
+what they think of as rationalism to white nationalist rhetoric in a naive way and have
+
+387
+00:34:36,600 --> 00:34:41,000
+come to be sort of sympathetic towards it. Whereas, you know, and I think this has to
+
+388
+00:34:41,000 --> 00:34:48,040
+do with the way that that, so this is the most generic imaginable leftist talking point that
+
+389
+00:34:48,040 --> 00:34:55,720
+I'm about to repeat, but like the way that state or systemic violence or pressure or coercion
+
+390
+00:34:55,720 --> 00:35:02,200
+tends to go unseen, whereas any rupture with that tends to look like chaos and violence.
+
+391
+00:35:03,160 --> 00:35:06,760
+So, I mean, you have things to be violent against the backdrop.
+
+392
+00:35:06,760 --> 00:35:09,800
+Again, you're mentioning the fact that in a clash with Antifa and the police, like,
+
+393
+00:35:10,760 --> 00:35:14,840
+nine out of 10 people are going to see horrible Antifa thugs against an agent of law and order.
+
+394
+00:35:16,120 --> 00:35:22,600
+And I think that the same is true. This is something I, this is something that I sort
+
+395
+00:35:22,600 --> 00:35:27,480
+of want to explore in a future video. But I think that oftentimes in debate, you know,
+
+396
+00:35:27,480 --> 00:35:33,160
+if you put a slick white nationalist with a, I don't know, a Jewish person or a black person
+
+397
+00:35:33,160 --> 00:35:43,240
+or gay person, and the white nationalist sits there talking about peaceful ethnic cleansing,
+
+398
+00:35:43,240 --> 00:35:47,720
+and like he simply wants a white homeland, just like everyone else is entitled to.
+
+399
+00:35:47,720 --> 00:35:54,280
+And like, do you go to Japan and insist that they, you know, allow 45 million immigrants?
+
+400
+00:35:54,280 --> 00:35:57,880
+Do you go to Africa and insist that only white people, that they have to allow all
+
+401
+00:35:57,880 --> 00:36:01,160
+these white people? No. So why do you insist that we, you know, so they're making these
+
+402
+00:36:01,160 --> 00:36:07,320
+kinds of like reasonable arguments. And then, if the Jewish person, the black person,
+
+403
+00:36:07,320 --> 00:36:12,280
+the socialist, whoever is the other interlocutor kind of freaks out or calls them a Nazi,
+
+404
+00:36:13,160 --> 00:36:17,720
+the rationals or the liberals will see this, and they'll see like a reasonable person trying
+
+405
+00:36:17,720 --> 00:36:20,760
+to make a point and this unfair person calling them a Nazi.
+
+406
+00:36:21,160 --> 00:36:24,600
+If people only have like four minutes to make their points, the person on the other side
+
+407
+00:36:24,600 --> 00:36:29,240
+doesn't have like time to sit down and go, look, here's like the history of the world.
+
+408
+00:36:32,200 --> 00:36:39,320
+Yeah. And it's the blindness to the violence and the inherent in the idea of white nationalists,
+
+409
+00:36:39,320 --> 00:36:44,840
+or the idea in which this is sort of fundamentally incompatible with meeting, two people meeting in
+
+410
+00:36:44,840 --> 00:36:49,720
+an honest discussion. The idea that this person wants to purge all people like that from society.
+
+411
+00:36:49,720 --> 00:36:56,920
+That's an idea that you can't really meet in a back and forth discussion on even footing.
+
+412
+00:36:56,920 --> 00:37:00,440
+It's not something that can really be up for debate.
+
+413
+00:37:00,440 --> 00:37:05,320
+It's a good question of values, really. Yeah, and very fundamental values. I mean,
+
+414
+00:37:05,320 --> 00:37:14,600
+if you think that the meaning of society is not, you know, that humanity is not what unites us in
+
+415
+00:37:14,680 --> 00:37:19,800
+society and we're not coming to meet each other on terms of humanity, but rather it's race,
+
+416
+00:37:19,800 --> 00:37:24,440
+then you've excluded all people who don't belong to the race from even the discussion,
+
+417
+00:37:24,440 --> 00:37:28,920
+from even participation in the society. And so that's it. The game is up for having discussion
+
+418
+00:37:28,920 --> 00:37:32,920
+between those people. And it's not because the person called them a Nazi or because they got
+
+419
+00:37:32,920 --> 00:37:39,400
+emotional. It's because the race or ethno-nationalist's ideas fundamentally
+
+420
+00:37:39,400 --> 00:37:41,400
+involve the exclusion of that person from politics.
+
+421
+00:37:42,760 --> 00:37:47,080
+Well then, all right. I like the way I just put that better than I ever
+
+422
+00:37:47,080 --> 00:37:51,000
+said it on the roaming millennial thing. I wish I'd copy that.
+
+423
+00:37:52,120 --> 00:37:57,640
+I guess to put it on its head then, because I can anticipate what some of my commenters might say.
+
+424
+00:38:00,600 --> 00:38:05,240
+Your great video, the debate between the hard land left and the bougie liberal,
+
+425
+00:38:05,240 --> 00:38:10,520
+was if we go into it thinking that there definitely has to be violence,
+
+426
+00:38:10,520 --> 00:38:16,440
+then it's a foregone conclusion. I suppose if we start saying things like,
+
+427
+00:38:17,000 --> 00:38:21,720
+this is going to sound really bad, but if we start saying things like there are certain people that
+
+428
+00:38:21,720 --> 00:38:26,600
+we can't debate with, again, I guess the question becomes is how do we know which ones they are?
+
+429
+00:38:27,480 --> 00:38:30,840
+I think that's the question that a lot of my commenters will ask. I think my answer to that
+
+430
+00:38:30,840 --> 00:38:38,120
+might be that, well, that forces us to engage with the idea that actually probably at a bottom
+
+431
+00:38:38,120 --> 00:38:43,160
+level all politics involves violence of some kinds, so it probably forces us to engage with,
+
+432
+00:38:43,160 --> 00:38:47,400
+okay, who are the targets of our violence and why? It forces us to see the end of our
+
+433
+00:38:47,400 --> 00:38:50,520
+own ideological noses, I suppose, whereas normally we don't look at them.
+
+434
+00:38:51,960 --> 00:38:55,560
+Yeah, because there's a sense that any kind of politics that we have will be
+
+435
+00:38:55,560 --> 00:39:01,400
+exclusionary in some way. That doesn't mean they're all equal.
+
+436
+00:39:05,880 --> 00:39:11,800
+But it has to do with who you're excluding. The norms of a liberal society or a society based on
+
+437
+00:39:14,040 --> 00:39:21,800
+free speech, free values, based on separation of church and state, based on all these things,
+
+438
+00:39:21,800 --> 00:39:26,680
+this involves exclusion. So, for instance, in the US the separation clause is supposed to exclude
+
+439
+00:39:26,680 --> 00:39:34,360
+religion from politics in such a way that anyone who wants to make an argument about policy based
+
+440
+00:39:34,360 --> 00:39:41,560
+on their religious convictions, that's excluded. That's off the table. I'm making this as a John
+
+441
+00:39:41,560 --> 00:39:49,560
+Rawls point. You're not in the realm of public reason anymore, I guess, if you want to argue
+
+442
+00:39:49,560 --> 00:39:52,920
+from religious faith. It's interesting because we don't have that in the UK.
+
+443
+00:39:55,160 --> 00:40:01,720
+I guess it's a specifically American idea. If that's only in this election that's going
+
+444
+00:40:01,720 --> 00:40:06,040
+on at the moment, the leader of the liberal Democrats, Tim Farron, was getting brought
+
+445
+00:40:06,040 --> 00:40:10,360
+up on the idea that he was saying gay sex is a sin and so on, and that gay people, he said on
+
+446
+00:40:10,360 --> 00:40:14,840
+Twitter once, that gay people could be cured and so on. He was saying that based on religious
+
+447
+00:40:14,840 --> 00:40:18,920
+arguments. Yeah, we don't have separation of church and state here. In fact, the head of
+
+448
+00:40:18,920 --> 00:40:23,640
+state is also the head of the church. Yes, so I guess I should also clarify that, of course,
+
+449
+00:40:23,640 --> 00:40:26,920
+in practice in American politics, there's religious appeals constantly.
+
+450
+00:40:26,920 --> 00:40:30,280
+Yeah, explicit and coded ones, I understand it.
+
+451
+00:40:30,280 --> 00:40:36,440
+Yeah, explicit ones. The philosophical idea, the John Rawls idea anyway, is that
+
+452
+00:40:38,440 --> 00:40:45,240
+that's sort of not allowed in some moral or philosophical sense that you can't expect
+
+453
+00:40:45,240 --> 00:40:48,840
+because it excludes anyone who doesn't share your faith. You're not making an appeal to the
+
+454
+00:40:49,720 --> 00:40:52,680
+base of precepts that are supposed to be the things that we all agree on.
+
+455
+00:40:54,600 --> 00:40:59,000
+I suppose it's an argument, interestingly, it's an argument based on a kind of personal revelation,
+
+456
+00:40:59,000 --> 00:41:05,320
+I guess. It's an argument based on a kind of personal experience. But then we ourselves
+
+457
+00:41:05,320 --> 00:41:11,560
+were saying only a few minutes ago that sometimes that some people base things on experience and
+
+458
+00:41:11,560 --> 00:41:15,560
+that is very useful. So I guess what I would say what the difference is between listening to a
+
+459
+00:41:15,560 --> 00:41:19,720
+feminist based on their personal experience and appearing at the appeal of a theist on the basis
+
+460
+00:41:19,720 --> 00:41:25,080
+of a revelation has to do with the fact that I think a feminist can reasonably expect other
+
+461
+00:41:25,080 --> 00:41:33,000
+people to give some credence to their personal experience. Whereas I think that a religious
+
+462
+00:41:33,000 --> 00:41:39,240
+person sort of can't really expect people who aren't part of that faith to accept this as a
+
+463
+00:41:39,240 --> 00:41:43,560
+valid reason. Yeah, and I guess also it's to do with the sort of ordinariness and commonality of
+
+464
+00:41:43,640 --> 00:41:48,600
+experience. If somebody makes a video about how they've been cackled, then half of the world's
+
+465
+00:41:48,600 --> 00:41:52,440
+population might be like, yeah, that's a thing that can reasonably happen. Whereas if somebody
+
+466
+00:41:52,440 --> 00:41:56,680
+makes a video about having seen a divine vision in the sky, it's like, well, this is slightly more
+
+467
+00:41:56,680 --> 00:42:04,680
+rare. Yeah, or at least the divine vision claim. Again, it depends on what kind of society you're
+
+468
+00:42:04,680 --> 00:42:10,440
+living in. I'm sure in medieval Christendom, arguments were surely made all the time on the
+
+469
+00:42:10,440 --> 00:42:18,120
+basis of divine revelation. Demons were driven from a pig today. This was considered a valid
+
+470
+00:42:18,120 --> 00:42:25,000
+form of evidence, but because of the sort of philosophical underpinnings of our public reason
+
+471
+00:42:25,000 --> 00:42:30,040
+and our discourse, our society, we don't accept that kind of stuff as valid reasoning. It's not
+
+472
+00:42:30,040 --> 00:42:34,440
+universal enough. Only people who are in this specific faith will accept it. So it's sort of
+
+473
+00:42:34,440 --> 00:42:40,920
+excluded from the discourse of democracy because it's simply too specific to a certain group of
+
+474
+00:42:40,920 --> 00:42:47,400
+people. I suppose that might be why it's... So I guess one thing that follows from this,
+
+475
+00:42:47,400 --> 00:42:50,760
+maybe as concerns a debate topic, is that if you're going to have public discussions,
+
+476
+00:42:50,760 --> 00:43:00,680
+if you're going to have public debates, there's sort of rules that regulate what's allowed in
+
+477
+00:43:00,680 --> 00:43:08,200
+debate. And one of those rules is that you have to sort of appeal to shared precepts in some ways,
+
+478
+00:43:08,200 --> 00:43:13,720
+otherwise there's nothing productive that can happen. If you appeal to a basic value that
+
+479
+00:43:13,720 --> 00:43:19,800
+someone doesn't share, that argument has no sway. Yeah, but also it's interesting sometimes that
+
+480
+00:43:20,680 --> 00:43:26,440
+important matters can rest on facts that aren't always shared very equally. So I mean,
+
+481
+00:43:26,440 --> 00:43:31,640
+maybe going back to that white nationalist versus someone on the left hypothetical thing we're
+
+482
+00:43:31,640 --> 00:43:35,480
+talking about, the kind of white nationalist is banking on the fact that, and maybe
+
+483
+00:43:35,480 --> 00:43:39,160
+reliant themselves on the fact that people generally are ignorant of a lot of
+
+484
+00:43:39,800 --> 00:43:47,640
+facts of history because they just simply aren't taught. Like, I remember once I went on a walking
+
+485
+00:43:47,640 --> 00:43:58,600
+tour of an Irish city, and we were taught all about the history of Ireland on this walking tour,
+
+486
+00:43:59,320 --> 00:44:05,160
+and me and my English friends were like, what? We were just never taught this. It's just not taught
+
+487
+00:44:05,160 --> 00:44:10,360
+in British schools, the extent of the horrors that we did in Ireland. And therefore,
+
+488
+00:44:12,440 --> 00:44:16,280
+certain very important things don't come up in public political debates because of that. So for
+
+489
+00:44:16,280 --> 00:44:19,080
+instance, when we had the Brexit referendum, people were saying, oh, yeah, we're going to
+
+490
+00:44:19,080 --> 00:44:25,160
+close the borders with the EU. And it was not really, I saw very publicly acknowledged that
+
+491
+00:44:25,160 --> 00:44:29,080
+to close the border with the EU would involve building a militarized border across the middle
+
+492
+00:44:29,080 --> 00:44:33,800
+of Ireland, which of course, you can walk down the road being the EU in part to Ireland. And
+
+493
+00:44:33,800 --> 00:44:37,800
+nobody kind of said, hang on a minute, haven't we built enough militarized checkpoints across
+
+494
+00:44:37,800 --> 00:44:44,760
+Ireland? And so that kind of, that lacuna ends up really affecting the debates that are even allowed
+
+495
+00:44:44,760 --> 00:44:50,760
+to occur, never mind that progress in certain directions. Yeah, so I think I guess I'm saying
+
+496
+00:44:50,760 --> 00:44:55,240
+something, I'm trying to say something different, because I think that when you are not appealing,
+
+497
+00:44:55,240 --> 00:45:00,680
+if there is factual information that you want to rely on, that's not widely known, you can always
+
+498
+00:45:00,680 --> 00:45:09,400
+bring up these facts. Because, so, you know, it was Dublin, not Ireland before I get.
+
+499
+00:45:09,800 --> 00:45:15,560
+Yeah. So for the, you know, an American equivalent of this would be, for instance,
+
+500
+00:45:15,560 --> 00:45:20,760
+like people now, Americans are so bewildered as to like, why do North Koreans like hate us so much?
+
+501
+00:45:20,760 --> 00:45:24,440
+Like, they're just crazy. But like, for some reason, they just hate America. And like,
+
+502
+00:45:24,440 --> 00:45:28,040
+everyone forgets, like, no one really seems to have any consciousness of the fact that like,
+
+503
+00:45:28,040 --> 00:45:31,320
+we went to war with them and just bombed the hell out of them. And like, hundreds of thousands or
+
+504
+00:45:31,320 --> 00:45:35,240
+maybe millions of people died. And like, Americans just have never been bombed. We just have no
+
+505
+00:45:35,240 --> 00:45:39,560
+conception of what that feels like. So we just assume, like, I don't know, Koreans are just
+
+506
+00:45:39,560 --> 00:45:45,320
+crazy. Like, they, for some reason, they hate us. I don't know why. Like, why is that? But like,
+
+507
+00:45:46,280 --> 00:45:51,480
+There are people in the UK, I mean, people in the UK say this about Islamic terrorism as well.
+
+508
+00:45:51,480 --> 00:45:54,440
+They're like, oh, why? They just got so angry. And we have MPs who are like, oh,
+
+509
+00:45:54,440 --> 00:45:58,920
+Islam is it? MPs at the MP level of the Conservative Party are like, or former MPs,
+
+510
+00:45:58,920 --> 00:46:04,440
+people like people like Lord Tebbit are like, oh, Islam is incompatible with British values.
+
+511
+00:46:04,440 --> 00:46:07,160
+And it's like, do you think it might have something to do with the Iraq war?
+
+512
+00:46:09,000 --> 00:46:12,200
+You know, when we interviewed captured ISIS soldiers, and they're like, yeah,
+
+513
+00:46:12,200 --> 00:46:14,920
+I'm doing this because of the Iraq war. Everyone's like, no, no, no, no, no, no,
+
+514
+00:46:14,920 --> 00:46:17,640
+it's because the values and freedom, they hate our freedoms. It's like,
+
+515
+00:46:19,000 --> 00:46:22,520
+revenge, revenge, renowned retaliation, you know, the three Rs. It's like, no, no, no, no, no.
+
+516
+00:46:24,200 --> 00:46:29,320
+Well, it's very easy to forget a war when it was not waged in your country. And when your
+
+517
+00:46:29,320 --> 00:46:33,400
+people weren't drafted, and when, you know, so a lot of people made money off it as well.
+
+518
+00:46:34,120 --> 00:46:38,920
+So like, I think a lot of Americans are too, with the Iraq war, we're just like,
+
+519
+00:46:38,920 --> 00:46:42,520
+why is like, who still cares about that? Like, that was a long time ago.
+
+520
+00:46:43,800 --> 00:46:44,520
+They're still dead.
+
+521
+00:46:46,520 --> 00:46:52,920
+Just come back and respawn. Yeah, we're not, I can't speak for British curriculum as a whole,
+
+522
+00:46:52,920 --> 00:46:57,800
+but I wasn't really taught about slavery in Britain either. Not our history of slavery.
+
+523
+00:46:57,880 --> 00:47:03,640
+It was kind of, we had sort of 1066, Henry VIII, a little bit of Tudors, Elizabeth I,
+
+524
+00:47:05,080 --> 00:47:11,320
+World War One. It's like, sorry, what happened in between that? What? Oh, what? Nothing happened
+
+525
+00:47:11,320 --> 00:47:19,880
+then. We invaded the world and stole all their money. It's like, ah, there's that weird gap.
+
+526
+00:47:21,240 --> 00:47:24,440
+And for the same reason, we don't do the French Revolution, because that was all happening at the
+
+527
+00:47:24,440 --> 00:47:30,040
+same time. But I suppose with these kinds of things, you can at least bring them up,
+
+528
+00:47:30,040 --> 00:47:34,840
+like you can bring up the factual thing. So that's maybe not like, it's not an absolute
+
+529
+00:47:34,840 --> 00:47:39,000
+obstacle to discourse with someone because you can always bring this stuff up. I think where we have
+
+530
+00:47:39,000 --> 00:47:44,200
+a more difficult problem is when there's a kind of fundamental value that you don't share with
+
+531
+00:47:44,200 --> 00:47:50,360
+a person you're discussing. So I think one reason I find it difficult or impossible to have a real
+
+532
+00:47:50,360 --> 00:47:57,880
+conversation with a Nazi, for example, is that I share as a kind of basic presupposition of my
+
+533
+00:47:57,880 --> 00:48:04,120
+politics that human beings from different groups have equal moral worth as humans.
+
+534
+00:48:11,080 --> 00:48:13,640
+I guess I shouldn't say that because actually I know that they're getting smarter about this.
+
+535
+00:48:13,640 --> 00:48:16,680
+They say, well, we're not white supremacists. We don't think we're more important. We just
+
+536
+00:48:16,680 --> 00:48:21,560
+think that we deserve to have our own thing. So okay, fine. We'll pretend that we actually
+
+537
+00:48:21,560 --> 00:48:26,360
+believe they think that and go with their new thing, which is they think that society
+
+538
+00:48:28,040 --> 00:48:35,240
+should only include people from their race or from the race. And if I don't think that,
+
+539
+00:48:35,880 --> 00:48:40,520
+which I don't, there's almost nothing, like what can we say to each other to convince each other
+
+540
+00:48:40,520 --> 00:48:43,640
+that- There's a lot of point talking about the hows and the whys and the wherefores and the
+
+541
+00:48:43,720 --> 00:48:48,920
+economic this or that. Right. So we can sit around. What's going to happen if I debate
+
+542
+00:48:48,920 --> 00:48:54,120
+Richard Spencer? Suppose I actually am trying to have a conversation with him,
+
+543
+00:48:54,120 --> 00:48:57,080
+which I don't think I would ever try to do because I think that's a waste of time.
+
+544
+00:48:57,080 --> 00:49:03,720
+But let's try to imagine how it would go if I did do that. How am I going to persuade him?
+
+545
+00:49:04,520 --> 00:49:10,440
+We could start by talking about, I'm going to say, well, your plan to be peaceful and ethnic cleansing
+
+546
+00:49:10,440 --> 00:49:15,240
+will surely result in violence or something like that. But come on, the fundamental disagreement
+
+547
+00:49:15,240 --> 00:49:20,920
+is 25 steps before we get to that. But then you've granted him the idea that there's a peaceful,
+
+548
+00:49:20,920 --> 00:49:24,680
+there's even such a thing as peaceful- And I've granted him the idea that
+
+549
+00:49:24,680 --> 00:49:28,600
+peaceful ethnic cleansing would be something that would be okay to do even if we could do it.
+
+550
+00:49:28,600 --> 00:49:32,200
+And even you've granted him the idea that that's what he wants, what he really wants.
+
+551
+00:49:32,200 --> 00:49:39,800
+Yeah. So really the argument should start way before that, which is the idea that
+
+552
+00:49:41,080 --> 00:49:45,400
+so I mean, and they want to state it as an empirical question, right? Like, oh,
+
+553
+00:49:45,400 --> 00:49:50,520
+it's just a fact that diverse societies don't work or something. And they'll have evidence
+
+554
+00:49:50,520 --> 00:49:57,960
+that's supposed to show that. So I guess you sort of can try to use facts to argue values,
+
+555
+00:49:57,960 --> 00:50:08,440
+but often the facts are sort of off the main point. They don't think that they want an
+
+556
+00:50:08,600 --> 00:50:13,240
+ethno-state because diverse societies can't work. That's not really the chain of reasoning.
+
+557
+00:50:13,240 --> 00:50:14,840
+Yeah. I'm willing to put down a five.
+
+558
+00:50:17,960 --> 00:50:24,680
+Yeah. It comes down to the fact that they don't want to share their country with people not like
+
+559
+00:50:24,680 --> 00:50:32,600
+them in certain respects, right? And so they'll do what it takes. Every reason that goes to support
+
+560
+00:50:32,600 --> 00:50:37,800
+that is ultimately kind of post hoc rationalization. That's the right post hoc, that was it.
+
+561
+00:50:37,800 --> 00:50:44,520
+Yeah. And of course you can't prove the psychology of this, of course.
+
+562
+00:50:44,520 --> 00:50:50,200
+No. But again, it's raining. It's good it's raining morning. It's like, what?
+
+563
+00:50:50,200 --> 00:50:56,920
+Yeah. It becomes revealed to you in discussions. No matter how many times you argue that actually
+
+564
+00:50:56,920 --> 00:51:03,800
+unbalanced New York City functions fairly well, despite the fact that it has so much
+
+565
+00:51:03,800 --> 00:51:13,960
+ethnic diversity, they won't hear that. The subject, the conversation has changed.
+
+566
+00:51:13,960 --> 00:51:21,560
+It goes to crime. And then there's a wearing down as well. Nobody has the resource to fill
+
+567
+00:51:21,560 --> 00:51:26,760
+all these lacunas in history and facts and so on and to go through all the sources like someone
+
+568
+00:51:26,760 --> 00:51:32,520
+like Sean and Jen does and to go through every single marker on that map of crimes.
+
+569
+00:51:33,320 --> 00:51:37,560
+They did a great video a while ago where there was like a map of crimes committed by migrants
+
+570
+00:51:37,560 --> 00:51:41,880
+in Germany. And they went through every single one of them and was like, this is listed as arson.
+
+571
+00:51:41,880 --> 00:51:45,160
+There's a guy burning his toast. This is a different time. And they went through every
+
+572
+00:51:45,160 --> 00:51:50,840
+single one, but not everyone has the time to do that. Yes. And it's exhausting and difficult and
+
+573
+00:51:50,840 --> 00:51:54,520
+grueling to go through and debunk everything. And it's ultimately kind of pointless.
+
+574
+00:51:54,520 --> 00:51:58,040
+And it has absolutely no effect on the people who believe that.
+
+575
+00:51:58,040 --> 00:52:08,200
+Yeah. How do you see debate being sort of fetishized on YouTube? Because I see,
+
+576
+00:52:08,200 --> 00:52:13,720
+I get a lot of comments who are like, oh, you wouldn't reply to my comment. Why don't you
+
+577
+00:52:13,720 --> 00:52:18,440
+debate me? I'm like, yeah, that's not a debate. That's just a chat, you know?
+
+578
+00:52:19,480 --> 00:52:25,320
+Well, a lot of these demands that we get to debate are simply like people who,
+
+579
+00:52:26,280 --> 00:52:30,440
+you know, because I've often had people respond to my comment, respond to my comment, respond to
+
+580
+00:52:30,440 --> 00:52:38,360
+them. And if what I say is effective enough, they didn't delete all the comments. So it's bait. It's
+
+581
+00:52:38,360 --> 00:52:44,120
+what it is. It's bait to get you to engage. But I have had some very increasingly rare now.
+
+582
+00:52:44,120 --> 00:52:49,000
+But some of my favorite moments on YouTube is when I get comments of people who are like,
+
+583
+00:52:49,080 --> 00:52:55,320
+really angry. Like, oh, why did you say this? Like, fuck you. And then I go, that's interesting.
+
+584
+00:52:55,320 --> 00:52:58,280
+Tell me more about this. And then some of my favorite moments are when they then come back
+
+585
+00:52:58,280 --> 00:53:01,880
+and they go, I was angry when I said that. I'm sorry. I don't agree with you, but I see where
+
+586
+00:53:01,880 --> 00:53:05,000
+you're coming from. So I really like those engagements. But you're right. I mean, all
+
+587
+00:53:05,000 --> 00:53:11,240
+too often people just, they just want validation, not attention. But there's something like
+
+588
+00:53:11,240 --> 00:53:15,480
+that that they're after. Is it an attachment to our time?
+
+589
+00:53:15,480 --> 00:53:21,000
+Yes. Yeah. Oh, well, online is right. I got emails from like, just like egg accounts on
+
+590
+00:53:21,000 --> 00:53:24,520
+Twitter being like, debate me on my podcast. Like, will you come debate me on my podcast?
+
+591
+00:53:24,520 --> 00:53:29,720
+I'm like, what podcast? Who are you? Like, do you? Why? Like, why? Why would I do that?
+
+592
+00:53:29,720 --> 00:53:34,280
+You know what I mean? Like, it's weird entitlements demand that you
+
+593
+00:53:34,280 --> 00:53:38,520
+It's slightly, slightly cruel. But sometimes when when I get that, I just I just quote them
+
+594
+00:53:38,600 --> 00:53:40,040
+my sort of hourly tuition rates.
+
+595
+00:53:42,600 --> 00:53:50,600
+Yes. Also, I want to be cautious not to get too I mean, we get worn down and on the idea
+
+596
+00:53:50,600 --> 00:53:54,920
+of engagement and become very cynical about it, I think. But I want to be careful not to get too
+
+597
+00:53:54,920 --> 00:53:59,160
+down on the idea of engagement too. Because as you said, like you do have these interactions
+
+598
+00:53:59,160 --> 00:54:02,440
+where someone later comes to you and says like, Oh, I was angry when I said that. And it seems
+
+599
+00:54:02,440 --> 00:54:05,640
+that they actually have thought about what you said. They actually have thought about what they
+
+600
+00:54:05,640 --> 00:54:10,040
+said in the sort of like, this kind of reconsidering has happened. So I definitely
+
+601
+00:54:10,040 --> 00:54:15,720
+have moments like that. And although I think overwhelmingly, the response that I get to doing
+
+602
+00:54:16,280 --> 00:54:21,000
+debates or conversations is just utter uselessness. You know, like, I'm like, put, you know,
+
+603
+00:54:21,880 --> 00:54:27,080
+the, you know, look at look at the comments on, you know, my debates with Blair roaming millennial
+
+604
+00:54:27,080 --> 00:54:32,280
+and you it's a lot of like, why should I take this disgusting training seriously? It's a lot of,
+
+605
+00:54:32,280 --> 00:54:36,440
+you know, just this guy. It's like, wow, I'm really this is really productive here, isn't it?
+
+606
+00:54:36,440 --> 00:54:42,120
+But then you also get I also get an often in private for some reason, the nicer things are
+
+607
+00:54:42,120 --> 00:54:47,320
+said in private, ugly things are said in public. I don't know why this is, but it often is the case.
+
+608
+00:54:47,320 --> 00:54:50,040
+But I'll have private messages from people who say that actually, like,
+
+609
+00:54:51,400 --> 00:54:55,000
+they find the whole thing to be incredibly eye opening and like revelatory and like,
+
+610
+00:54:55,000 --> 00:54:58,200
+and so it's like, okay, well, if some people if some people are getting something like,
+
+611
+00:54:59,080 --> 00:55:03,720
+Hmm, and I suppose if the idea is that everyone should have their say, and that's coming from
+
+612
+00:55:03,720 --> 00:55:08,520
+a place of compassion, then that's good. Like long may we all nurture those compassionate
+
+613
+00:55:08,520 --> 00:55:12,680
+impulses, even if Yeah, even if it is the case that Nazis will try and take advantage of them.
+
+614
+00:55:14,280 --> 00:55:17,800
+Yeah, that's not it's not all become too worn down and cynical.
+
+615
+00:55:18,440 --> 00:55:23,880
+So I guess, yeah, I guess there can be there's really can be a positive effect of debate. I
+
+616
+00:55:23,880 --> 00:55:29,560
+think it's just a matter of being of choosing who you debate with intelligently. So I
+
+617
+00:55:29,560 --> 00:55:33,480
+Which is a question that, you know, that's, that's not exactly ready. That's a living the
+
+618
+00:55:33,480 --> 00:55:38,440
+questions kind of thing. Yes. And so how do you choose? I mean, so I feel like I'm already getting
+
+619
+00:55:38,440 --> 00:55:46,680
+smarter about this. I would never debate Blair White again. Because I think that she's, she
+
+620
+00:55:46,680 --> 00:55:50,760
+doesn't care about what I say, and she doesn't care about what's true. I think that too much
+
+621
+00:55:50,760 --> 00:55:55,800
+of what her focus on is, like I said, I mean, she's a bully, she recently tweeted,
+
+622
+00:55:55,800 --> 00:55:58,760
+I never claimed not to be a bully. So I take it that she won't object to my calling her
+
+623
+00:55:58,760 --> 00:56:03,800
+bullies. She's she's never claimed not to be one allegedly, we now hear but so okay,
+
+624
+00:56:03,800 --> 00:56:09,000
+she's a self professed self without bully. So why bother with that? Like, why? Why go subject
+
+625
+00:56:09,000 --> 00:56:14,680
+yourself to that. But I don't regret the discussion with roaming millennial, even though I think a lot
+
+626
+00:56:14,680 --> 00:56:21,240
+of her audience is horrible. I think that she conducts a discussion in a way where something
+
+627
+00:56:21,240 --> 00:56:26,280
+sort of I mean, even if there's not any movement from the two people involved, it's possible to
+
+628
+00:56:26,280 --> 00:56:30,440
+have a conversation with roaming millennial in a way that people in the audience learn something.
+
+629
+00:56:31,720 --> 00:56:37,960
+And that I think is valuable. That's cool. That's very cool. So it's a matter of Yeah,
+
+630
+00:56:37,960 --> 00:56:42,280
+it's a matter of like getting a feel for who's worth engaging and who isn't. Yeah, yeah.
+
+631
+00:56:43,000 --> 00:56:47,560
+Looking at questions. Absolutely. And that's what I was gonna say was there.
+
+632
+00:56:48,600 --> 00:56:53,880
+And yeah, I can't remember. Maybe they'll come back to me. Yeah.
+
+633
+00:56:57,960 --> 00:56:59,160
+Let's see. Um, so
+
+634
+00:57:02,120 --> 00:57:09,880
+I feel like we we wanted to say enough about the fetishization of debate. I feel like we
+
+635
+00:57:10,360 --> 00:57:12,120
+keep touching on this, but without
+
+636
+00:57:13,960 --> 00:57:17,800
+Well, I can't I can't speak for you. But I get a lot of commenters who are like,
+
+637
+00:57:17,800 --> 00:57:22,040
+yeah, use the word debate when it seems like well, that's not a debate. It's a chat.
+
+638
+00:57:22,040 --> 00:57:25,800
+Or you know what, it's not a debate. So is there a discussion? What's the
+
+639
+00:57:25,800 --> 00:57:28,040
+distinction, I guess, between a debate and a discussion?
+
+640
+00:57:28,600 --> 00:57:33,560
+Oh, well, to my mind debate conjures up because I guess the experience of formal debating conjures
+
+641
+00:57:33,560 --> 00:57:39,000
+up images of sort of time limits and opportunities for people to sort of have rebuttals and speeches
+
+642
+00:57:39,000 --> 00:57:42,920
+from the fore. And it conjures up that image of suits and gowns really, whereas discussion
+
+643
+00:57:43,880 --> 00:57:48,040
+just sounds like more like this, I guess. And yeah, more fun.
+
+644
+00:57:48,760 --> 00:57:55,880
+Informality, a willingness to not so I think in a debate, I guess I would think you kind of
+
+645
+00:57:55,880 --> 00:58:00,280
+your people who have opposed positions, one of you is committed to one side, one of you is
+
+646
+00:58:00,280 --> 00:58:05,160
+committed to the other side. And your job in a debate is to represent the case as good as
+
+647
+00:58:05,160 --> 00:58:05,960
+possible. Yeah.
+
+648
+00:58:07,640 --> 00:58:12,120
+You say, oh, yeah, that's a good point. Like, yeah, maybe you're right. That you've lost like
+
+649
+00:58:12,120 --> 00:58:15,960
+that's bad. Whereas in a discussion, that's great. Because that means it's like, yeah,
+
+650
+00:58:15,960 --> 00:58:19,000
+now we share some common ground. You know, let's have another one.
+
+651
+00:58:19,880 --> 00:58:25,080
+Yes. So I think right in discussion, the attempt is much more to kind of reach some mutual
+
+652
+00:58:25,080 --> 00:58:33,880
+understanding. I guess I think mutual fun. Yeah, yeah, yeah. I think I think that people are often
+
+653
+00:58:33,880 --> 00:58:40,920
+so as regards what the goal of the discussion is, I mean, I think only in the best case scenario is
+
+654
+00:58:40,920 --> 00:58:44,360
+any kind of mutual understanding reached that doesn't often happen, especially when you're
+
+655
+00:58:44,360 --> 00:58:50,520
+dealing with people who are ideologically very distant. But I do think that what sometimes
+
+656
+00:58:50,520 --> 00:58:55,000
+happens more often than someone being persuaded in the course of a discussion is I know this is
+
+657
+00:58:55,000 --> 00:58:59,400
+the case with me rarely in my mid discussion, am I going to change my view about something,
+
+658
+00:58:59,400 --> 00:59:04,200
+but often I'll kind of a day or two later, thinking back on it, or like looking into
+
+659
+00:59:04,200 --> 00:59:08,920
+something the other person said, think like, you know what, I am not exactly correct about that.
+
+660
+00:59:09,720 --> 00:59:15,720
+Yeah, yeah. And so maybe that guy I spoke to at that protest, who turned his nose up so much,
+
+661
+00:59:15,720 --> 00:59:18,840
+maybe he's now a month later, maybe he's a committed communist.
+
+662
+00:59:20,200 --> 00:59:24,200
+I think that, yeah, I think that's such an important thought to have. Not necessarily
+
+663
+00:59:24,200 --> 00:59:29,560
+he's a committed communist, but that some of the sense of futility that you have from
+
+664
+00:59:29,560 --> 00:59:35,640
+these discussions, it feels more futile than it is, I think, because maybe that someone
+
+665
+00:59:35,640 --> 00:59:40,760
+ends the debate by saying like, fuck you, Emily, that's the end of the discussion,
+
+666
+00:59:40,760 --> 00:59:46,920
+and they go off in a huff, or you go off in a huff. But later, you may not hear about it,
+
+667
+00:59:46,920 --> 00:59:50,200
+but it may kind of get into them and they might sort of refine their position.
+
+668
+00:59:50,760 --> 00:59:53,880
+Like locker rooms or books that are written in a foreign tongue, absolutely.
+
+669
+00:59:53,880 --> 00:59:55,160
+Yeah, exactly.
+
+670
+00:59:55,160 --> 00:59:59,160
+Live some distant days there and say, yeah, see, the more I experience, the more I think
+
+671
+00:59:59,160 --> 01:00:06,200
+there's wisdom in real life. Oh, that was what I was going to say earlier on. Do you see this kind
+
+672
+01:00:06,200 --> 01:00:11,560
+of, you said that you were kind of learning more better who to engage with and who not to. I
+
+673
+01:00:11,560 --> 01:00:19,000
+remember learning that relatively early on when I did my video on gender. There was a YouTuber who
+
+674
+01:00:19,000 --> 01:00:25,480
+will remain nameless, who made a reply video. I think you know who it is. They made a reply video
+
+675
+01:00:25,480 --> 01:00:31,880
+to my video on gender. And it was hilarious because they quite clearly hadn't watched the
+
+676
+01:00:31,880 --> 01:00:35,960
+whole thing because they started bringing up arguments saying, what about this? What about
+
+677
+01:00:35,960 --> 01:00:42,360
+this? That I myself had mentioned in the video after the six minute mark. And they even, they
+
+678
+01:00:42,360 --> 01:00:48,040
+did it as a collaboration with someone else. And they clearly hadn't watched the whole thing.
+
+679
+01:00:48,040 --> 01:00:52,360
+And they invented, they made all these points. And then I wrote underneath, I was like, but I
+
+680
+01:00:52,360 --> 01:00:56,600
+said that, like, you can't say that I missed this out when I explicitly said it. And then they were
+
+681
+01:00:56,600 --> 01:01:00,520
+like, inventing, like, what if a trans person heard what you were saying about gender? Like,
+
+682
+01:01:00,520 --> 01:01:04,680
+you don't need to invent a hypothetical trans person. I cited two in the video, like,
+
+683
+01:01:05,800 --> 01:01:10,360
+go read this stuff. Like, I think it's a trans person would critique Judith Butler on this. And
+
+684
+01:01:10,360 --> 01:01:17,320
+I'm like, I know, I said that, like, so after that, I don't, and to all those people out there
+
+685
+01:01:17,320 --> 01:01:21,000
+who I know some are planning to make reply videos to my work, and I know some of them make them
+
+686
+01:01:21,000 --> 01:01:28,600
+anyway. I don't really watch them anymore because I don't really find them that useful. Of all the
+
+687
+01:01:28,600 --> 01:01:35,080
+reply videos I've ever watched, about 20 seconds of one of them I found useful. And the guys,
+
+688
+01:01:35,080 --> 01:01:38,840
+I still don't agree with the guy. But that was kind of useful because I hadn't considered it.
+
+689
+01:01:38,840 --> 01:01:43,960
+But the rest, I'm like, I just, I'm not going to watch it because maybe I'm missing out a huge
+
+690
+01:01:43,960 --> 01:01:48,040
+amount. Perhaps my commenters will be able to find ones that are brilliant. But I don't find
+
+691
+01:01:48,040 --> 01:01:52,680
+them all that useful on YouTube, particularly on YouTube. And yeah, listen to commenters and so on.
+
+692
+01:01:52,680 --> 01:01:56,760
+But on YouTube, I think there's a lot of the performative aspects. They're kind of like,
+
+693
+01:01:56,760 --> 01:02:04,040
+oh, the pwnage in there. Yeah. Yeah. Yeah. And so, yeah, I agree that there's certain people who's
+
+694
+01:02:04,040 --> 01:02:08,600
+like, responses to me, I'll watch it two times the speed to see the first three minutes and be like,
+
+695
+01:02:08,600 --> 01:02:18,280
+okay, this is good. Yeah. Yeah. But I, yeah, so I think that, you know, you try to stay open,
+
+696
+01:02:18,280 --> 01:02:22,360
+but also if something is, I agree, it's a widespread problem of people just like,
+
+697
+01:02:22,360 --> 01:02:27,800
+grossly misunderstanding things that you say, ludicrous straw manning of your arguments, or
+
+698
+01:02:27,800 --> 01:02:33,640
+again, just giving evidence that they haven't even watched your video. All these are problems.
+
+699
+01:02:33,640 --> 01:02:39,960
+And then also, just the, this is, yeah, you mentioned the video about like, you know,
+
+700
+01:02:39,960 --> 01:02:46,440
+skeptic destroyed your butthole, or whatever the comment that I was getting on these kinds of
+
+701
+01:02:46,440 --> 01:02:52,120
+comments. And so I kind of, yeah, I kind of want to go back to that, that idea of that video where
+
+702
+01:02:52,120 --> 01:02:58,520
+I talked about like, what I think the point of having a response video is, is it to destroy your
+
+703
+01:02:58,520 --> 01:03:03,320
+opponent? Or is it to try? So I think there's people who it's worth responding to. And that's
+
+704
+01:03:03,640 --> 01:03:07,480
+part of what I mean when I talk about choosing debates, is that because a guy like armored
+
+705
+01:03:07,480 --> 01:03:14,200
+skeptic, I disagree with him a lot. But in interacting with him, I get the sense that he's
+
+706
+01:03:14,200 --> 01:03:20,760
+sincere, that he thinks what he says, and that he's somewhat open to like, reconsidering things.
+
+707
+01:03:22,440 --> 01:03:27,560
+So I think that's a person who's worth talking to. And I also think that in order to make the
+
+708
+01:03:27,560 --> 01:03:31,720
+conversation worthwhile, both people have to come to the conversation with the understanding that
+
+709
+01:03:31,720 --> 01:03:37,880
+the goal is a discussion where you're both somewhat curious to get a handle on what that
+
+710
+01:03:37,880 --> 01:03:44,840
+person says. Yeah, curiosity. And you're not decided from the beginning, time to wreck someone
+
+711
+01:03:44,840 --> 01:03:50,600
+like, yeah, like, one of the phrases that we are taught in the end drama school is full of wisdom.
+
+712
+01:03:50,600 --> 01:03:55,800
+One of the things we're taught is curiosity, not ambition. Yes, great phrase, which is a,
+
+713
+01:03:55,800 --> 01:04:00,840
+that's a lovely phrase that Yeah, yeah. So and there's ways that YouTubers can I mean,
+
+714
+01:04:00,840 --> 01:04:04,760
+so this is my suggestion to YouTubers who want to make response videos is there's ways to do
+
+715
+01:04:04,760 --> 01:04:09,240
+response that don't involve pwnage. So if you want to make it entertaining, and I do this, like,
+
+716
+01:04:09,240 --> 01:04:13,880
+think of it in different terms. So I've used like, framing devices for response videos,
+
+717
+01:04:13,880 --> 01:04:21,640
+like inviting the person to dinner, or, or like seducing them, which I think, like, sort of help
+
+718
+01:04:21,640 --> 01:04:26,360
+a little bit to subvert the idea that it's pwnage. Yeah, I see the rabbit mask in the background. I
+
+719
+01:04:26,360 --> 01:04:33,800
+remember that. Yeah. And so so, again, I think if people would look at these alternatives to
+
+720
+01:04:33,800 --> 01:04:38,680
+the wrecking way, there's a way of having these discussions that could go so much better than
+
+721
+01:04:38,680 --> 01:04:45,480
+they tend to go. Hmm. Yeah, because it could be fun. Well, again, yeah, pints, just go for pints.
+
+722
+01:04:45,480 --> 01:04:48,920
+Yes. But I see people like Blair, like, you know, she'll have she'll she'll say, like,
+
+723
+01:04:48,920 --> 01:04:52,440
+oh, let's just have those people discussion in order to snag someone like me or Laci Green to
+
+724
+01:04:52,440 --> 01:04:57,560
+get on the debate. But then she goes back to her videos where, like, is there really there's no
+
+725
+01:04:57,560 --> 01:05:03,560
+actual like, there's no I've watched so many Blair White videos. I'm I'm so sorry for myself. I but
+
+726
+01:05:03,560 --> 01:05:10,040
+she she she does these like thing. I mean, is there ever a moment when she makes a video response
+
+727
+01:05:10,040 --> 01:05:15,320
+to Milo Stewart or to Riley Dennis, where there's ever an attempt at a genuine like human connection
+
+728
+01:05:15,320 --> 01:05:20,520
+or a genuine discussion in any way with the person she's talking to? Like there just never is.
+
+729
+01:05:21,000 --> 01:05:24,200
+I remember hearing about Milo Stewart through your video on them. Actually,
+
+730
+01:05:24,200 --> 01:05:31,160
+do people still people still bully them? Um, yeah, it's not as bad as it used to be. But
+
+731
+01:05:31,160 --> 01:05:36,120
+yeah, they tend to stay away from a lot of that. Yeah. Yeah. I mean, there's channels.
+
+732
+01:05:38,120 --> 01:05:42,040
+Not where you're not losing anything. You're not missing out. Yeah. If you're avoiding these
+
+733
+01:05:42,040 --> 01:05:47,800
+bullying channels. Yeah. Just for you and PBS ID channel and a few others. Sean and
+
+734
+01:05:47,800 --> 01:05:54,200
+Jennifer cooking. Yes. Yeah, I mean, there's a lot of channels not worth watching. I mean,
+
+735
+01:05:54,200 --> 01:05:59,240
+bearing my god, like this. I don't know if you know who this guy is. He's unfortunately,
+
+736
+01:05:59,240 --> 01:06:04,120
+he's it's a kind of like bullying shitty response channel. Huge, like 300,000 subscribers.
+
+737
+01:06:05,560 --> 01:06:11,080
+But he, I mean, so he did a response to my debate with Roman millennial where he what he did was
+
+738
+01:06:11,800 --> 01:06:16,280
+show clips of me and he deleted every single thing I said, except every time I say the word I think
+
+739
+01:06:16,280 --> 01:06:23,000
+and to me, and then he calls me a cunt and then you know, so okay, wow, like, and so you know,
+
+740
+01:06:23,000 --> 01:06:27,240
+my advice to all feminists and social justice YouTubers in terms of dealing with bearing
+
+741
+01:06:27,240 --> 01:06:33,560
+is do not interact with him except as an actual brown bear, because this is the level that you're
+
+742
+01:06:33,560 --> 01:06:38,520
+dealing with. Like there's no point in engaging this. Like this is a bear in the woods to say,
+
+743
+01:06:38,520 --> 01:06:42,120
+you leave a comment saying hi bearing your big brown bear and then leave don't watch the video
+
+744
+01:06:42,520 --> 01:06:47,640
+because there's no point like that. If someone's if, like I said, discussion is a two way road.
+
+745
+01:06:47,640 --> 01:06:52,520
+And if one person is not making good faith effort to discuss, don't you don't you there's no reason
+
+746
+01:06:52,520 --> 01:06:58,360
+for you to open yourself up. That's a waste of your time. Yeah, yeah. That's a shame that people
+
+747
+01:06:58,360 --> 01:07:04,520
+do that. Yeah, it's well YouTube is. I guess it's it's rewarded. YouTube is a shame. Yes,
+
+748
+01:07:04,520 --> 01:07:08,760
+I think yes, that slogan actually, it's not a corporate slogan. YouTube a shameful place.
+
+749
+01:07:08,760 --> 01:07:11,880
+Yeah, I think that's the last time I went to YouTube Space London and that was on the side
+
+750
+01:07:11,880 --> 01:07:22,760
+of the building. Yeah. A shameful place. I quite like that on a t shirt. Yeah, but I guess I don't
+
+751
+01:07:22,760 --> 01:07:27,400
+know. Like I say, I think there really are a lot of people on YouTube worth engaging. So it's not
+
+752
+01:07:27,400 --> 01:07:30,600
+a matter of me being against debate. I'm not against debate. I'm not against engagement.
+
+753
+01:07:30,600 --> 01:07:35,640
+I simply think and this is what this is the advice people gave me. And I didn't listen to it. I had
+
+754
+01:07:35,640 --> 01:07:41,240
+to learn it. I'm still learning it. But I have to I just I'm just someone like, I'm not a smart
+
+755
+01:07:41,240 --> 01:07:44,520
+person in the sense that I just believe people when they tell me things like I have to make all
+
+756
+01:07:44,520 --> 01:07:51,800
+every mistake myself like to play. I just I guess maybe it's a kind of I'm so such a rational
+
+757
+01:07:51,800 --> 01:07:57,880
+skeptic. I don't believe personal testimony. Every single mistake I must make on my own in order to
+
+758
+01:07:57,880 --> 01:08:02,200
+believe anyone about anything. So again, I had to I have to see for myself the liberals turn fascist.
+
+759
+01:08:02,200 --> 01:08:08,440
+I had to see for myself who isn't who is and isn't worth engaging in. And yeah, I'm still in
+
+760
+01:08:08,440 --> 01:08:13,000
+the process of it. So like I said, I'll probably do more debates that are mistakes. And that's just
+
+761
+01:08:13,000 --> 01:08:17,800
+part of making those mistakes. It's just part of my learning how to do this. I think sometimes
+
+762
+01:08:18,360 --> 01:08:22,440
+with debates, there's a little bit of um, there's a little bit of a kick who goes madman about it.
+
+763
+01:08:22,440 --> 01:08:27,560
+And I think I remember thinking this, I remember we really, really interested when I discovered
+
+764
+01:08:27,560 --> 01:08:32,680
+this story. So for those who may be watching who don't know, there's this fantastic story about
+
+765
+01:08:32,680 --> 01:08:38,440
+a lunatic who escapes from from an asylum. And he realizes that if he goes into town and just says
+
+766
+01:08:38,440 --> 01:08:42,120
+mad shit, then they're going to realize he's mad and they're going to send him back. So he's like,
+
+767
+01:08:42,120 --> 01:08:47,880
+ah, right. I will only say things that are uncontroversially true. And then nobody could
+
+768
+01:08:47,880 --> 01:08:51,720
+nobody's gonna lock me up for that. Like so he says, right. All I'm ever gonna say to anybody
+
+769
+01:08:51,720 --> 01:08:55,560
+is the world is round. So he goes into town and to every single person he meets like the world is
+
+770
+01:08:55,560 --> 01:08:57,960
+round, the world is round, the world is round, the world is round. That's all he says. And he's
+
+771
+01:08:57,960 --> 01:09:02,440
+right. Because it is. And they like pretty much immediately realizes realize that he's a madman
+
+772
+01:09:02,440 --> 01:09:07,720
+and they lock him up. And Kierkegaard told this story. And the point was, you can have all the
+
+773
+01:09:07,720 --> 01:09:13,320
+facts and all the truths and so on. And you can be like, technically true and correct, but still
+
+774
+01:09:13,320 --> 01:09:19,960
+wrong. If you've got the context wrong of why it matters. Walking around pubs saying the world is
+
+775
+01:09:19,960 --> 01:09:23,960
+round, everyone's gonna be like, what's wrong with you? Because yeah, you're right. But why?
+
+776
+01:09:23,960 --> 01:09:27,800
+Like, what are you saying? What's the act that's being performed here?
+
+777
+01:09:28,440 --> 01:09:32,440
+This is one of the things that you get out of studying philosophy, I think that like,
+
+778
+01:09:33,400 --> 01:09:37,320
+I miss them. So in a lot of ways, I hate interacting with other philosophy people,
+
+779
+01:09:37,320 --> 01:09:42,040
+not you, you're awesome. But like, a lot of academic philosophy people who are like,
+
+780
+01:09:42,040 --> 01:09:47,320
+especially like people who are like in the PhD route, you know, they get so involved in the
+
+781
+01:09:47,320 --> 01:09:51,400
+language of philosophy that they sort of lose the ability to communicate with a normal person,
+
+782
+01:09:51,400 --> 01:09:55,000
+because they've got this, this whole little technical way of doing it, which has some
+
+783
+01:09:55,000 --> 01:09:58,920
+advantages. But then when I go outside, and I talk to people with normal people, God, I suddenly wish
+
+784
+01:09:58,920 --> 01:10:04,200
+they knew philosophy of language. Because now, now there's this like, lack of distinction between,
+
+785
+01:10:04,200 --> 01:10:10,440
+you know, no one, I think very few people have this idea that just saying a fact is not enough,
+
+786
+01:10:10,440 --> 01:10:15,960
+like a fact is always presented as part of a bigger chain of reasons, or there's different
+
+787
+01:10:15,960 --> 01:10:19,480
+ways of stating facts. And right, you can state the fact the world is round. And if it's out of
+
+788
+01:10:19,480 --> 01:10:26,360
+context, it could be wrong, or it could be crazy. Right? Like, like, like, two and two makes what
+
+789
+01:10:26,360 --> 01:10:31,480
+the world is round. It's Yeah, wrong, wrong answer, like correct, but wrong. Or like,
+
+790
+01:10:31,480 --> 01:10:35,240
+in my video on on white supremacist propaganda, like, I was so pleased when I thought of this
+
+791
+01:10:35,240 --> 01:10:40,920
+example, and example, I love you, which which can be said, like 100 million different ways and
+
+792
+01:10:41,640 --> 01:10:46,120
+always be true and always mean the same thing, but do something so different to the person
+
+793
+01:10:46,120 --> 01:10:50,760
+hearing it every time. And, or another thing, another thing you get me with maybe the white
+
+794
+01:10:50,760 --> 01:10:55,480
+nationalist thing is you'll have people point out, like, here's a list of all the Jews involved in
+
+795
+01:10:55,480 --> 01:10:59,720
+the media and all the Jews involved in politics. And it's like, okay, yes, all those people are of
+
+796
+01:10:59,720 --> 01:11:04,440
+Jewish ancestry, and all of them are what you say. But like, so it's not that it's not a factual
+
+797
+01:11:04,440 --> 01:11:09,160
+dispute. It's the way it's what they're saying with it. Like how, of course, when you when you
+
+798
+01:11:09,160 --> 01:11:14,040
+point that out, they go, but I'm just listing the facts. Like, you're the one who's thinking that
+
+799
+01:11:14,040 --> 01:11:18,040
+just because I made a list of all the people who live in the neighborhood of this ancestry,
+
+800
+01:11:18,040 --> 01:11:23,320
+you're the real racists. Yes, it's well done. We can all do the Russian reversal.
+
+801
+01:11:24,120 --> 01:11:28,200
+And oftentimes, when you try to make these kinds of arguments, and this is again, the danger of
+
+802
+01:11:28,200 --> 01:11:32,040
+doing this on a public platform is I end up seeming like some kind of like, it's like the
+
+803
+01:11:32,040 --> 01:11:37,000
+sophistry of some fancy talking elitist by like, trying to like add this additional light, you know
+
+804
+01:11:37,000 --> 01:11:41,560
+what I mean? It seems like I seem like a weasel, or something for trying to get out and take
+
+805
+01:11:41,560 --> 01:11:46,920
+people's words and know what I'm going to do. But now that there's the tip of the iceberg,
+
+806
+01:11:46,920 --> 01:11:48,200
+and then there's everything else, like,
+
+807
+01:11:49,240 --> 01:11:52,600
+so again, you can imagine you can imagine having like a very an argument, a very belligerent
+
+808
+01:11:52,600 --> 01:11:57,160
+creationist, and the creationist wins the argument, because they, if you allow them
+
+809
+01:11:57,160 --> 01:12:01,800
+to lock you down with, so like, here's how this might go. Like, they'll say, like, can or cannot
+
+810
+01:12:01,800 --> 01:12:08,120
+a monkey give birth to a man? And you say, well, no, but and they say, aha. And like, you know,
+
+811
+01:12:08,680 --> 01:12:12,760
+but actually, these things are a gradual process over time, talking over time,
+
+812
+01:12:12,760 --> 01:12:17,000
+and like small genetic mutations. It's only over the course of millions of years. And he's like,
+
+813
+01:12:17,000 --> 01:12:23,960
+this fancy talking liberal thinks you should believe. He won't give a straightforward
+
+814
+01:12:23,960 --> 01:12:33,000
+answer to the question. And like, so there's ways of arguing that make sophistication seem
+
+815
+01:12:33,080 --> 01:12:41,480
+like deception. Yeah, yeah. That makes sort of crude fallacies seem like common sense.
+
+816
+01:12:42,680 --> 01:12:47,480
+Yeah, I suppose. There's something interesting in there about, just a half-form thought,
+
+817
+01:12:47,480 --> 01:12:52,680
+something interesting in there about education, and academia in particular being kind of gated
+
+818
+01:12:52,680 --> 01:12:56,520
+off to particular class interests. Traditionally, maybe there's something interesting in there,
+
+819
+01:12:56,520 --> 01:13:01,800
+but maybe that's another topic for another time. I'm happy to crack on with this and continue.
+
+820
+01:13:02,760 --> 01:13:06,360
+Can we have a tea break? Can I make tea? Will that be terribly boring for everyone?
+
+821
+01:13:10,840 --> 01:13:13,080
+Or are we, or is there anything more?
+
+822
+01:13:16,200 --> 01:13:19,720
+Sorry, do you want to say you want to continue the stream but make tea or do you want to
+
+823
+01:13:19,720 --> 01:13:22,840
+just call it? I had this time with me. I mean, yeah, I'm happy to keep talking.
+
+824
+01:13:22,840 --> 01:13:25,880
+All right, sure. I'll just talk to the chat while you do that.
+
+825
+01:13:25,880 --> 01:13:29,400
+It's either this or, you know, write an essay on Brecht, but I'll be pottering around in
+
+826
+01:13:29,480 --> 01:13:33,320
+the background making tea. All right, sounds good. Tea break.
+
+827
+01:13:34,520 --> 01:13:37,640
+It's the law, I'm afraid, in England. I can't go 90 minutes without tea.
+
+828
+01:13:37,640 --> 01:13:41,000
+Yeah, he has no choice. It's the law of England. All right, I'm gonna look at the chat.
+
+829
+01:13:41,000 --> 01:13:41,800
+How's everyone doing?
+
+830
+01:13:45,080 --> 01:13:48,520
+While he's doing well, you know what, while he's making tea, I'm gonna do a shot because
+
+831
+01:13:48,520 --> 01:13:49,320
+this is America.
+
+832
+01:13:52,840 --> 01:13:58,440
+Shots! Oh, God, I'm almost out of booze. That's gonna be a problem because I'm supposed to go
+
+833
+01:13:58,440 --> 01:14:08,440
+talk to Destiny later about transracialism. I'm noticing all of you. All right, let's see.
+
+834
+01:14:09,880 --> 01:14:13,880
+Evan Williams. A good American whiskey. It's actually a bad American whiskey,
+
+835
+01:14:13,880 --> 01:14:16,200
+but it's drinkable. It'll do. It'll do its work.
+
+836
+01:14:18,680 --> 01:14:20,440
+It'll be like three in the afternoon for you.
+
+837
+01:14:22,360 --> 01:14:25,800
+Yeah, it's three. It's almost four in the afternoon, but it's Sunday.
+
+838
+01:14:26,760 --> 01:14:28,360
+Well, it's nighttime here, so.
+
+839
+01:14:30,040 --> 01:14:35,160
+All right, well, I'm trying to think of a good toast. Someone proposed toast.
+
+840
+01:14:39,080 --> 01:14:42,680
+I was thinking of doing an ironic hail victory, but I think I should not do that.
+
+841
+01:14:45,160 --> 01:14:47,320
+An ironic Richard Spencer hail victory.
+
+842
+01:14:47,320 --> 01:14:47,820
+Oh, dear.
+
+843
+01:14:49,560 --> 01:14:54,840
+If I want people to take my... Let's not do that. You know what? Nazis are literally
+
+844
+01:14:54,840 --> 01:15:02,920
+ruining me. I find myself... Their thoughts just infect my head. They're terrible, ironic
+
+845
+01:15:03,720 --> 01:15:08,920
+Nazism. It affects me. Not that I believe any of it, but it's just there. It's there in my head.
+
+846
+01:15:08,920 --> 01:15:15,000
+I'm there trying to make breakfast or try taking a shower. I just find myself thinking about cucks
+
+847
+01:15:15,000 --> 01:15:18,600
+and thinking about cucking. It's just like, God damn it. I didn't used to think about this.
+
+848
+01:15:18,600 --> 01:15:20,520
+The alt-right has done this to me. They've put...
+
+849
+01:15:20,520 --> 01:15:23,960
+Yeah, and I find even in acting there's not a lot of escape because the three
+
+850
+01:15:24,040 --> 01:15:28,280
+plays that might end up being our showcase at the end of the year are all about Nazis and fascists.
+
+851
+01:15:29,880 --> 01:15:30,840
+Well, down with fascists.
+
+852
+01:15:31,800 --> 01:15:33,960
+Yeah, yes, down with fascists. Absolutely.
+
+853
+01:15:35,400 --> 01:15:37,160
+I say that without any irony whatsoever.
+
+854
+01:15:38,600 --> 01:15:42,360
+My man, I've not had whiskey in ages. I've not had whiskey since I lived in Scotland, actually.
+
+855
+01:15:43,240 --> 01:15:44,280
+Well, it's a good place for it.
+
+856
+01:15:45,080 --> 01:15:45,880
+Yeah, absolutely.
+
+857
+01:15:47,880 --> 01:15:50,120
+Evan Williams is not the smoothest of all whiskeys, I must say.
+
+858
+01:15:51,320 --> 01:15:53,160
+Are you a single malt or a blended person?
+
+859
+01:15:54,040 --> 01:15:57,160
+I'm a blended person for purely financial reasons.
+
+860
+01:16:03,800 --> 01:16:07,640
+Next time I do a Let's Play livestream, I think I'm going to start a whiskey fund
+
+861
+01:16:07,640 --> 01:16:10,040
+to raise some money for some decent whiskey.
+
+862
+01:16:10,760 --> 01:16:11,640
+Fair enough.
+
+863
+01:16:11,640 --> 01:16:14,760
+I think I'm relying on people who like whiskey to be evangelists.
+
+864
+01:16:14,760 --> 01:16:17,480
+Enough about good whiskey that they'll pay me to drink it.
+
+865
+01:16:18,440 --> 01:16:25,640
+This is one of the great things about whiskey people is that they're not satisfied with being
+
+866
+01:16:25,640 --> 01:16:29,720
+a whiskey person by themselves. They want everyone else to join them.
+
+867
+01:16:29,720 --> 01:16:33,400
+And so you can exploit this urge as a means of getting free whiskey.
+
+868
+01:16:33,960 --> 01:16:38,680
+Yeah, my friend John, the liquid guy on Twitter is a good whiskey drinker, I think.
+
+869
+01:16:41,560 --> 01:16:42,600
+Now I'm all teed up.
+
+870
+01:16:43,400 --> 01:16:45,160
+How is the chat? How is everyone?
+
+871
+01:16:45,160 --> 01:16:46,200
+They're doing just fine.
+
+872
+01:16:46,520 --> 01:16:47,720
+There's not a whole lot of Nazis here.
+
+873
+01:16:47,720 --> 01:16:52,600
+I must say, despite the common claim made by YouTube rationals that everyone has Nazis
+
+874
+01:16:52,600 --> 01:16:55,160
+in their chat, I'm not seeing a whole lot of it in my chat.
+
+875
+01:16:55,160 --> 01:16:59,640
+I wonder what it is that I do to keep the Nazis away.
+
+876
+01:16:59,640 --> 01:17:01,560
+Maybe it's not constantly sympathized with them.
+
+877
+01:17:03,880 --> 01:17:10,760
+Is it Ollie or Ollie, says workers of O-L-L-Y, if you prefer.
+
+878
+01:17:10,760 --> 01:17:11,320
+That'd be nice.
+
+879
+01:17:11,320 --> 01:17:15,000
+I remember I used to go by Oliver, which is my real name, but my first ever girlfriend
+
+880
+01:17:15,000 --> 01:17:17,560
+told me that Ollie with a Y was cuter, and I've been Ollie ever since.
+
+881
+01:17:18,200 --> 01:17:22,920
+Although my professional name is Oliver on acting credits, so I don't mind really.
+
+882
+01:17:23,960 --> 01:17:25,080
+Oh yeah, Le Pen lost.
+
+883
+01:17:25,080 --> 01:17:27,400
+I really should have been toasting to pen losing.
+
+884
+01:17:27,400 --> 01:17:28,440
+Well, I guess I did.
+
+885
+01:17:28,440 --> 01:17:29,640
+Down with fascists, yeah.
+
+886
+01:17:29,640 --> 01:17:30,280
+Down with fascists.
+
+887
+01:17:30,280 --> 01:17:31,480
+Down with fascists.
+
+888
+01:17:33,560 --> 01:17:34,680
+Oh, that's relaxing, isn't it?
+
+889
+01:17:35,560 --> 01:17:36,280
+What, whiskey?
+
+890
+01:17:36,840 --> 01:17:37,960
+Oh no, Le Pen losing.
+
+891
+01:17:37,960 --> 01:17:38,760
+I mean, also whiskey, but...
+
+892
+01:17:40,040 --> 01:17:41,240
+Oh yeah, I guess, yeah.
+
+893
+01:17:41,240 --> 01:17:43,080
+I really don't know much about Macron, so...
+
+894
+01:17:43,880 --> 01:17:48,920
+Yeah, he's not like a super great politician, but like my bar has sunk very low.
+
+895
+01:17:50,040 --> 01:17:51,800
+Yeah, it could be worse.
+
+896
+01:17:51,800 --> 01:17:52,920
+It could be worse, I guess, yeah.
+
+897
+01:17:52,920 --> 01:17:58,840
+My French friend will be relieved, I'm sure, who makes fun of my terrible French.
+
+898
+01:17:59,880 --> 01:18:02,440
+I spoke French in a video a while ago, and a few of my commenters were like,
+
+899
+01:18:02,440 --> 01:18:03,400
+oh, that's really great.
+
+900
+01:18:03,400 --> 01:18:05,000
+And then my French friend was like,
+
+901
+01:18:05,640 --> 01:18:08,840
+you sound like an English soldier trying to chat up a French country maid.
+
+902
+01:18:10,680 --> 01:18:11,880
+It's like, wow, how very specific.
+
+903
+01:18:12,520 --> 01:18:15,480
+Yeah, that's an interesting thing for your mind to go to first.
+
+904
+01:18:18,360 --> 01:18:19,880
+People are super chatting me to do another shot.
+
+905
+01:18:19,880 --> 01:18:22,840
+I will do, because you did that, I will do one more shot before the chat is over,
+
+906
+01:18:22,840 --> 01:18:24,120
+but I'm going to keep my composure.
+
+907
+01:18:26,520 --> 01:18:28,200
+Oh man, I wish I could have some.
+
+908
+01:18:28,200 --> 01:18:28,760
+That'd be great.
+
+909
+01:18:28,760 --> 01:18:33,080
+Well, that technology is not yet upon us, but someday.
+
+910
+01:18:33,800 --> 01:18:34,680
+Someday.
+
+911
+01:18:34,680 --> 01:18:35,480
+I'll stick with the tea.
+
+912
+01:18:36,520 --> 01:18:38,200
+I don't even have any booze in my whole flat.
+
+913
+01:18:38,920 --> 01:18:39,420
+Wow.
+
+914
+01:18:40,300 --> 01:18:40,700
+That's all right.
+
+915
+01:18:40,700 --> 01:18:43,500
+I woke up with a stinking thing over this morning, so I can do.
+
+916
+01:18:45,260 --> 01:18:49,500
+I had to go to a sword fighting lesson today,
+
+917
+01:18:49,500 --> 01:18:51,180
+which is the kind of thing you've got to do when you're an actor.
+
+918
+01:18:56,220 --> 01:18:57,900
+It's like, oh, please slip and kill me.
+
+919
+01:18:58,700 --> 01:19:00,460
+Can you please upload sword fighting videos?
+
+920
+01:19:01,580 --> 01:19:02,700
+Oh, oh, maybe.
+
+921
+01:19:03,900 --> 01:19:06,860
+They'd be very dull, it's all very slow motion, yeah.
+
+922
+01:19:06,860 --> 01:19:07,420
+Oh, I don't know.
+
+923
+01:19:07,500 --> 01:19:11,740
+There's a lot of great European martial arts and
+
+924
+01:19:11,740 --> 01:19:14,380
+European historical sword fighting channels on YouTube.
+
+925
+01:19:15,980 --> 01:19:18,460
+Now, this is another topic that many of these channels
+
+926
+01:19:18,460 --> 01:19:22,220
+also have just the slightest tinge of neo-fascism about them.
+
+927
+01:19:23,740 --> 01:19:28,540
+Yeah, who was the guy you used to make videos about who kind of played Skyrim?
+
+928
+01:19:29,500 --> 01:19:30,300
+The Golden One.
+
+929
+01:19:31,420 --> 01:19:31,920
+Yeah.
+
+930
+01:19:32,460 --> 01:19:33,740
+What was that about?
+
+931
+01:19:33,740 --> 01:19:35,820
+Oh, Tom to the glory of Evan Williams, yes.
+
+932
+01:19:35,820 --> 01:19:36,620
+Yeah, The Golden One.
+
+933
+01:19:36,620 --> 01:19:38,140
+So he's a fascinating character.
+
+934
+01:19:38,140 --> 01:19:43,740
+He's a Swedish bodybuilder who kind of does this larping Skyrim thing,
+
+935
+01:19:43,740 --> 01:19:48,300
+where he uploads himself playing Skyrim with his commentary,
+
+936
+01:19:48,300 --> 01:19:49,420
+and his commentary is gold.
+
+937
+01:19:49,420 --> 01:19:53,660
+I mean, of all the fascists, The Golden One is my favorite.
+
+938
+01:19:53,660 --> 01:19:55,020
+I mean, he's actually entertaining.
+
+939
+01:19:56,460 --> 01:20:00,780
+I never thought I'd say this, but it makes me feel weird inside,
+
+940
+01:20:00,780 --> 01:20:04,220
+because I'm like, this man believes things that I think are monstrous,
+
+941
+01:20:04,220 --> 01:20:07,020
+and yet I'm having a great time watching his YouTube videos.
+
+942
+01:20:08,460 --> 01:20:11,180
+I feel like it makes me feel so conflicted and weird.
+
+943
+01:20:11,180 --> 01:20:15,660
+But he's also given me the idea to play my own cock version of Skyrim.
+
+944
+01:20:17,100 --> 01:20:20,780
+I guess it's a kind of penitence for enjoying his fascist videos.
+
+945
+01:20:24,140 --> 01:20:25,260
+Skyrim, that's great.
+
+946
+01:20:25,980 --> 01:20:26,780
+I love that idea.
+
+947
+01:20:27,340 --> 01:20:28,140
+Oh, what's that?
+
+948
+01:20:28,140 --> 01:20:28,940
+You've got one video.
+
+949
+01:20:29,500 --> 01:20:30,540
+I'm glad, I'm glad, I'm glad.
+
+950
+01:20:31,340 --> 01:20:31,840
+Hmm.
+
+951
+01:20:32,940 --> 01:20:35,020
+I remember right back when I started,
+
+952
+01:20:35,020 --> 01:20:39,340
+I did a Let's Play series of a philosophy game called Socrates Jones,
+
+953
+01:20:39,340 --> 01:20:40,140
+which was quite fun.
+
+954
+01:20:40,780 --> 01:20:41,340
+Oh my gosh.
+
+955
+01:20:41,340 --> 01:20:42,540
+I haven't done any Let's Plays since.
+
+956
+01:20:43,420 --> 01:20:45,180
+It seems like everyone does them, so.
+
+957
+01:20:45,180 --> 01:20:45,680
+Yeah.
+
+958
+01:20:47,020 --> 01:20:49,500
+I'm an absolute noob when it comes to Let's Plays,
+
+959
+01:20:49,500 --> 01:20:51,740
+but I'm streaming Pokemon on my live stream channel.
+
+960
+01:20:51,740 --> 01:20:53,340
+I made a separate channel, by the way, guys,
+
+961
+01:20:53,340 --> 01:20:55,020
+if you want to check it out for live streams.
+
+962
+01:20:55,740 --> 01:20:56,860
+This is on my main channel, of course,
+
+963
+01:20:56,860 --> 01:20:59,980
+because I think this is a stream,
+
+964
+01:20:59,980 --> 01:21:02,220
+which until recently had some serious intellectual merit.
+
+965
+01:21:02,220 --> 01:21:04,620
+But I think that my live stream channel,
+
+966
+01:21:04,620 --> 01:21:07,900
+I want to, I just want a channel that I can just post whatever frivolous,
+
+967
+01:21:07,900 --> 01:21:09,820
+horrible nonsense that comes to my head.
+
+968
+01:21:09,820 --> 01:21:11,980
+And so without offending my usual subscribers,
+
+969
+01:21:11,980 --> 01:21:12,780
+so that's the point of that.
+
+970
+01:21:13,340 --> 01:21:14,380
+Yeah, I should do that as well.
+
+971
+01:21:14,380 --> 01:21:17,340
+I think this is somewhere I might start a second channel for my acting.
+
+972
+01:21:17,340 --> 01:21:17,980
+It's a lot of fun.
+
+973
+01:21:18,700 --> 01:21:19,200
+Yeah.
+
+974
+01:21:20,060 --> 01:21:24,540
+I think when a YouTuber builds up a certain fan,
+
+975
+01:21:24,620 --> 01:21:26,940
+you know, a fan base of a certain size,
+
+976
+01:21:26,940 --> 01:21:30,300
+you sort of feel this like intense pressure before you upload anything,
+
+977
+01:21:30,300 --> 01:21:31,980
+because you're like, oh, I don't want to disappoint people.
+
+978
+01:21:31,980 --> 01:21:33,740
+This has to be up to my standards of quality.
+
+979
+01:21:34,380 --> 01:21:36,620
+And so it's a great liberation to just make a new channel and be like,
+
+980
+01:21:36,620 --> 01:21:37,980
+oh, I can do whatever I want.
+
+981
+01:21:39,500 --> 01:21:40,780
+Yeah, I don't experience that.
+
+982
+01:21:40,780 --> 01:21:42,140
+But then I'm quite shit, so.
+
+983
+01:21:43,500 --> 01:21:44,540
+Well, I don't think you're that shit.
+
+984
+01:21:45,260 --> 01:21:48,460
+I think your videos are actually pretty well produced and thought out.
+
+985
+01:21:48,460 --> 01:21:50,460
+And I think you have more subscribers than I do.
+
+986
+01:21:50,460 --> 01:21:51,500
+I mean, I think that.
+
+987
+01:21:51,500 --> 01:21:54,860
+Not for long.
+
+988
+01:21:56,380 --> 01:21:57,020
+Well, I don't know.
+
+989
+01:21:57,020 --> 01:21:57,520
+We'll see.
+
+990
+01:22:00,140 --> 01:22:04,220
+But yeah, it's psychologically good for me to have a channel where I'm like,
+
+991
+01:22:04,220 --> 01:22:06,300
+I don't care if I don't care what happened from this channel.
+
+992
+01:22:07,660 --> 01:22:08,160
+Yeah.
+
+993
+01:22:09,980 --> 01:22:13,020
+Yeah, I kind of have to fit it around drama school,
+
+994
+01:22:13,020 --> 01:22:15,900
+which is like half five in the morning till sort of six at night every day.
+
+995
+01:22:15,900 --> 01:22:18,460
+So this is like the school is like a full time thing for you now.
+
+996
+01:22:18,460 --> 01:22:18,960
+Yeah.
+
+997
+01:22:19,760 --> 01:22:20,160
+Yeah, yeah.
+
+998
+01:22:20,160 --> 01:22:23,200
+I graduate in September and then I'll be I'll be an actor living in London.
+
+999
+01:22:23,200 --> 01:22:23,700
+Wow.
+
+1000
+01:22:23,700 --> 01:22:24,720
+Living the dream.
+
+1001
+01:22:24,720 --> 01:22:26,000
+Amazing thing.
+
+1002
+01:22:26,000 --> 01:22:28,320
+That's why I'm kind of learning to swing swords and
+
+1003
+01:22:28,880 --> 01:22:34,160
+ride horses and all the rest of it, because which is a lot of investment and time.
+
+1004
+01:22:34,160 --> 01:22:38,400
+But my casting is Shakespeare and period dramas.
+
+1005
+01:22:39,280 --> 01:22:41,280
+And doing that on TV would be great.
+
+1006
+01:22:41,280 --> 01:22:42,960
+But if I can't swing a sword and ride a horse,
+
+1007
+01:22:42,960 --> 01:22:45,840
+then all I'm going to be doing is opening the door to the character and saying that.
+
+1008
+01:22:45,840 --> 01:22:47,200
+And that'll be my only role.
+
+1009
+01:22:47,200 --> 01:22:48,720
+Whereas if I can ride the horse and swing the sword,
+
+1010
+01:22:48,720 --> 01:22:50,240
+then I can be Henry the fifth, you know?
+
+1011
+01:22:50,240 --> 01:22:50,740
+Yes.
+
+1012
+01:22:51,120 --> 01:22:52,000
+Well, I think you'd be great.
+
+1013
+01:22:52,800 --> 01:22:53,280
+Oh, thank you.
+
+1014
+01:22:53,280 --> 01:22:54,080
+It's not just the beard.
+
+1015
+01:22:55,760 --> 01:22:56,480
+Thank you very much.
+
+1016
+01:22:57,840 --> 01:23:00,960
+So you're interested in TV or stage or both?
+
+1017
+01:23:00,960 --> 01:23:01,360
+Anything.
+
+1018
+01:23:01,360 --> 01:23:03,200
+I'll do any of it because I love it all so much.
+
+1019
+01:23:04,320 --> 01:23:07,600
+Yeah, I've acted since I was very little and I would do anything they would let me do.
+
+1020
+01:23:10,080 --> 01:23:10,580
+Yeah.
+
+1021
+01:23:10,580 --> 01:23:10,880
+What about you?
+
+1022
+01:23:10,880 --> 01:23:12,720
+You're YouTube full time now, aren't you?
+
+1023
+01:23:12,720 --> 01:23:14,320
+Yeah, this is this is it.
+
+1024
+01:23:14,320 --> 01:23:16,720
+This is all I'm doing is YouTube every day, all day.
+
+1025
+01:23:17,280 --> 01:23:19,200
+That's funny.
+
+1026
+01:23:19,200 --> 01:23:20,000
+It's amazing.
+
+1027
+01:23:20,800 --> 01:23:21,280
+I love it.
+
+1028
+01:23:21,840 --> 01:23:24,160
+I wouldn't trade it for anything else.
+
+1029
+01:23:24,160 --> 01:23:26,000
+It's a lot of Nazis though.
+
+1030
+01:23:26,000 --> 01:23:27,840
+But it's a lot of Nazis, granted.
+
+1031
+01:23:27,840 --> 01:23:29,840
+More Nazis than most jobs.
+
+1032
+01:23:29,840 --> 01:23:33,840
+I mean, I'm working at least I'm working harder than I was when I was a PhD student.
+
+1033
+01:23:34,640 --> 01:23:36,240
+But I'm more happy than I was.
+
+1034
+01:23:37,440 --> 01:23:38,000
+That's great.
+
+1035
+01:23:39,840 --> 01:23:43,440
+So I mean, what I would say to people who want to be full time YouTubers is
+
+1036
+01:23:44,320 --> 01:23:48,160
+get ready to work like a corporate lawyer in terms of the hours you're putting in.
+
+1037
+01:23:48,160 --> 01:23:50,160
+It's so much more fun than being a corporate lawyer.
+
+1038
+01:23:50,160 --> 01:23:51,600
+So there's that advantage.
+
+1039
+01:23:51,600 --> 01:23:54,000
+But also, like, anything that you do.
+
+1040
+01:23:54,000 --> 01:23:58,000
+This is something I realized, like, I made some money, some actual money last weekend
+
+1041
+01:23:58,000 --> 01:23:58,880
+streaming Pokemon.
+
+1042
+01:23:58,880 --> 01:24:01,760
+And I was like, huh, maybe I could be one of these professional video game streamers.
+
+1043
+01:24:02,400 --> 01:24:06,640
+But the thing is that, like, anything that's work becomes work.
+
+1044
+01:24:06,640 --> 01:24:09,680
+Like, and those guys, I say guys, because they're just mostly guys.
+
+1045
+01:24:09,680 --> 01:24:10,960
+They're women who do it, too.
+
+1046
+01:24:11,360 --> 01:24:17,360
+But those guys who are professional streamers, they're doing like, 11 hours a day of this
+
+1047
+01:24:17,360 --> 01:24:17,680
+stuff.
+
+1048
+01:24:17,680 --> 01:24:21,360
+And I mean, you know, okay, so they're playing video games for a living.
+
+1049
+01:24:21,360 --> 01:24:23,280
+I'm sure they love it and wouldn't trade it for anything.
+
+1050
+01:24:23,280 --> 01:24:27,280
+But there's got to be days where they're like, I don't feel like playing Call of Duty today,
+
+1051
+01:24:27,280 --> 01:24:29,120
+but I have to to pay the gas bill.
+
+1052
+01:24:29,120 --> 01:24:31,280
+And I just play Scrabble once in a while.
+
+1053
+01:24:31,280 --> 01:24:31,920
+Yeah.
+
+1054
+01:24:31,920 --> 01:24:33,440
+Just long for reading.
+
+1055
+01:24:34,160 --> 01:24:35,840
+Yes, yes, exactly.
+
+1056
+01:24:35,840 --> 01:24:36,800
+I kind of long for reading.
+
+1057
+01:24:36,800 --> 01:24:38,560
+I don't get to read that much anymore.
+
+1058
+01:24:38,560 --> 01:24:43,520
+Because, yeah, I just don't have time.
+
+1059
+01:24:44,720 --> 01:24:45,120
+Yeah.
+
+1060
+01:24:45,120 --> 01:24:49,440
+I mean, I'm very lucky that the fans sometimes buy me books from my Amazon Wishlist.
+
+1061
+01:24:50,000 --> 01:24:52,080
+I have a big pile of them stacked up at the moment.
+
+1062
+01:24:52,080 --> 01:24:55,840
+I suppose I don't have much time to read because drama school is getting very intense in the
+
+1063
+01:24:55,840 --> 01:24:56,400
+final term.
+
+1064
+01:24:56,400 --> 01:25:01,520
+But yeah, I'm reading and you, in fact, you, the laptop are currently stacked on top of
+
+1065
+01:25:01,520 --> 01:25:02,320
+a few books.
+
+1066
+01:25:02,320 --> 01:25:06,320
+One of which is Marjorie Garber's, what is it?
+
+1067
+01:25:06,320 --> 01:25:09,360
+Vested Interests, which is all right.
+
+1068
+01:25:09,360 --> 01:25:10,160
+It's kind of slow going.
+
+1069
+01:25:10,160 --> 01:25:15,520
+I'm reading that and I'm also reading, I got it for my birthday, Vladimir Nabokov's Arda,
+
+1070
+01:25:15,520 --> 01:25:17,200
+which is good, but it's kind of long.
+
+1071
+01:25:19,040 --> 01:25:21,360
+So it's slow going, but then I have a little long tube journey.
+
+1072
+01:25:22,560 --> 01:25:23,060
+Yeah.
+
+1073
+01:25:24,080 --> 01:25:28,000
+The year before I started doing this channel, I was trying to, my initial idea was I was
+
+1074
+01:25:28,000 --> 01:25:28,720
+going to write fiction.
+
+1075
+01:25:28,720 --> 01:25:30,640
+That was what I thought I wanted to do when I left grad school.
+
+1076
+01:25:30,640 --> 01:25:31,280
+That's great.
+
+1077
+01:25:31,280 --> 01:25:32,320
+And yeah, great.
+
+1078
+01:25:32,320 --> 01:25:36,160
+But it's not like, man, if you want that as a career, like, God help you.
+
+1079
+01:25:36,800 --> 01:25:39,280
+Yeah, it's very difficult.
+
+1080
+01:25:39,280 --> 01:25:45,440
+I eventually gave up on it, but I was reading so much because I was just doing jobs to get
+
+1081
+01:25:45,440 --> 01:25:45,600
+by.
+
+1082
+01:25:45,600 --> 01:25:49,760
+So I was an Uber driver in Baltimore, also horrible, horrible job, never do it.
+
+1083
+01:25:51,760 --> 01:25:53,360
+I was like a copy editor.
+
+1084
+01:25:54,080 --> 01:25:59,760
+I taught a couple of classes, but I, you know, just worked enough to pay the rent and I had
+
+1085
+01:25:59,760 --> 01:26:00,800
+a ton of time to read.
+
+1086
+01:26:00,800 --> 01:26:02,320
+So I read all these classic novels.
+
+1087
+01:26:02,320 --> 01:26:03,120
+I read Moby Dick.
+
+1088
+01:26:03,120 --> 01:26:04,000
+I read Middlemarch.
+
+1089
+01:26:04,000 --> 01:26:08,320
+I read just things that I will never, I'll probably never have a year of my life that
+
+1090
+01:26:08,320 --> 01:26:12,480
+has so much ambitious reading in it starting now, which in some ways is too bad because
+
+1091
+01:26:12,480 --> 01:26:16,480
+I feel like reading all this stuff, it does, like, it expands your mind.
+
+1092
+01:26:16,480 --> 01:26:17,600
+It's actually good for you.
+
+1093
+01:26:19,600 --> 01:26:20,720
+I missed reading fiction.
+
+1094
+01:26:20,720 --> 01:26:24,160
+I don't get to read, I don't really love fiction, which is why this person got me harder and
+
+1095
+01:26:25,200 --> 01:26:28,160
+why I'm working my way through 20,000 weeks under the sea as well.
+
+1096
+01:26:28,800 --> 01:26:29,300
+Yeah.
+
+1097
+01:26:29,680 --> 01:26:29,840
+Yeah.
+
+1098
+01:26:29,840 --> 01:26:31,120
+I miss reading fiction.
+
+1099
+01:26:31,280 --> 01:26:31,780
+Yeah.
+
+1100
+01:26:34,080 --> 01:26:34,720
+I'd like to do it.
+
+1101
+01:26:34,720 --> 01:26:38,560
+I just, I mean, I guess I could, I could make time if I really wanted to.
+
+1102
+01:26:38,560 --> 01:26:39,760
+It would be less tweeting.
+
+1103
+01:26:39,760 --> 01:26:41,120
+Tweeting is the thing that's got to go.
+
+1104
+01:26:41,120 --> 01:26:42,480
+I spent so much time tweeting.
+
+1105
+01:26:42,480 --> 01:26:42,720
+Yeah.
+
+1106
+01:26:42,720 --> 01:26:44,560
+I deleted Twitter off my phone a while ago.
+
+1107
+01:26:44,560 --> 01:26:45,120
+Yeah.
+
+1108
+01:26:45,120 --> 01:26:46,800
+And it's the future.
+
+1109
+01:26:46,800 --> 01:26:47,760
+It's amazing.
+
+1110
+01:26:47,760 --> 01:26:48,240
+Yeah.
+
+1111
+01:26:48,240 --> 01:26:50,960
+I've still got it on my laptop, so I can do all the kind of tweeting I need to do for
+
+1112
+01:26:50,960 --> 01:26:51,440
+the channel.
+
+1113
+01:26:51,440 --> 01:26:53,680
+But yeah, I got rid of it on my phone.
+
+1114
+01:26:53,680 --> 01:26:57,120
+I'm like, oh, I can see birds.
+
+1115
+01:26:57,120 --> 01:26:57,680
+It's amazing.
+
+1116
+01:26:58,240 --> 01:26:58,740
+Yeah.
+
+1117
+01:26:59,280 --> 01:26:59,780
+Yeah.
+
+1118
+01:26:59,780 --> 01:27:05,040
+We had a thing on the course called living history where we go and we live in the 17th
+
+1119
+01:27:05,040 --> 01:27:10,960
+century in character for a week, basically, but obviously no Twitter.
+
+1120
+01:27:10,960 --> 01:27:14,960
+And everyone came back from that and was like, yeah, I'm deleting all this social media off
+
+1121
+01:27:14,960 --> 01:27:15,440
+my phone.
+
+1122
+01:27:15,440 --> 01:27:17,360
+And I was like, yeah, we're doing that too.
+
+1123
+01:27:17,360 --> 01:27:17,860
+It was good.
+
+1124
+01:27:18,480 --> 01:27:19,520
+Very good detox.
+
+1125
+01:27:20,160 --> 01:27:23,680
+Someday I may well have to hit you up to do some Shakespearean stuff on my channel.
+
+1126
+01:27:24,320 --> 01:27:25,680
+Oh, please, please do.
+
+1127
+01:27:25,680 --> 01:27:26,720
+I would love to.
+
+1128
+01:27:26,800 --> 01:27:29,120
+Yeah, I think that'd be a lot of fun.
+
+1129
+01:27:29,120 --> 01:27:33,440
+I used to have a second channel called Shakespeare Vlogs where I would vlog in character of Shakespeare.
+
+1130
+01:27:33,440 --> 01:27:34,320
+Oh my gosh.
+
+1131
+01:27:34,320 --> 01:27:37,520
+And it would start off as Hamlet being like, oh, I'm really sad about my day and blah,
+
+1132
+01:27:37,520 --> 01:27:37,840
+blah, blah.
+
+1133
+01:27:37,840 --> 01:27:39,440
+But then it would go into reverse.
+
+1134
+01:27:40,240 --> 01:27:41,280
+Why is this not in my life?
+
+1135
+01:27:42,000 --> 01:27:46,160
+I'm probably going to bring it back once I stopped it just before I started my training
+
+1136
+01:27:46,160 --> 01:27:48,640
+because I thought, okay, I'm getting better, but I might get into bad habits if I don't
+
+1137
+01:27:48,640 --> 01:27:49,360
+have any guidance.
+
+1138
+01:27:49,360 --> 01:27:52,960
+So I think over the summer, hopefully, hopefully, and now that I've said it on the live stream,
+
+1139
+01:27:52,960 --> 01:27:53,920
+of course, people will hold me to it.
+
+1140
+01:27:53,920 --> 01:27:57,840
+Hopefully, over the summer, I'd like to bring that back under some kind of guise because
+
+1141
+01:27:57,840 --> 01:27:58,560
+that was a lot of fun.
+
+1142
+01:27:58,560 --> 01:28:03,360
+And it's all practice towards the acting as well, which is good.
+
+1143
+01:28:03,360 --> 01:28:04,080
+It's good stuff.
+
+1144
+01:28:04,080 --> 01:28:04,480
+But yeah.
+
+1145
+01:28:05,280 --> 01:28:06,560
+Yeah, I think it's a good idea.
+
+1146
+01:28:06,560 --> 01:28:08,960
+I think that I can definitely imagine there being an audience for it.
+
+1147
+01:28:08,960 --> 01:28:12,720
+One thing that's fascinating is even though people, I feel, don't read that much these
+
+1148
+01:28:12,720 --> 01:28:16,080
+days, fiction is kind of pretty marginal as an art form.
+
+1149
+01:28:17,040 --> 01:28:21,120
+You know, this is something I noticed when I was trying to write and read it is that
+
+1150
+01:28:21,120 --> 01:28:26,640
+contemporary fiction is a very specialized area where I think most people are sort of
+
+1151
+01:28:26,640 --> 01:28:27,840
+not plugged into it.
+
+1152
+01:28:27,840 --> 01:28:30,640
+But people love Shakespeare still.
+
+1153
+01:28:31,440 --> 01:28:32,080
+They just love it.
+
+1154
+01:28:32,960 --> 01:28:34,320
+And I'm not sure why exactly.
+
+1155
+01:28:34,320 --> 01:28:37,280
+I mean, obviously, it's great, but lots of things are great, and people don't love those
+
+1156
+01:28:37,280 --> 01:28:37,680
+things.
+
+1157
+01:28:37,680 --> 01:28:39,360
+You know, but people love Shakespeare.
+
+1158
+01:28:40,400 --> 01:28:42,320
+Yeah, it's beautiful.
+
+1159
+01:28:45,760 --> 01:28:46,640
+Milton is beautiful.
+
+1160
+01:28:46,640 --> 01:28:47,680
+People don't love Milton.
+
+1161
+01:28:47,680 --> 01:28:48,560
+That's true.
+
+1162
+01:28:48,560 --> 01:28:49,040
+That's true.
+
+1163
+01:28:49,920 --> 01:28:52,000
+I would love Shakespeare because I'm an actor.
+
+1164
+01:28:52,000 --> 01:28:53,840
+I have so many brilliant roles in it.
+
+1165
+01:28:53,840 --> 01:28:55,760
+And yeah, I could go on for hours.
+
+1166
+01:28:57,200 --> 01:28:57,680
+But yeah.
+
+1167
+01:28:57,680 --> 01:28:59,840
+No, I would like to do a Shakespearean channel.
+
+1168
+01:28:59,840 --> 01:29:02,880
+And if you ever need any Shakespeare, let me know.
+
+1169
+01:29:02,880 --> 01:29:04,480
+I almost definitely will need some Shakespeare.
+
+1170
+01:29:06,320 --> 01:29:06,960
+Oh, I'd love to.
+
+1171
+01:29:09,120 --> 01:29:10,000
+Super duper.
+
+1172
+01:29:10,000 --> 01:29:10,240
+Right.
+
+1173
+01:29:10,240 --> 01:29:13,680
+Well then, I suppose I really should write this essay on Brecht.
+
+1174
+01:29:13,680 --> 01:29:14,000
+All right.
+
+1175
+01:29:14,000 --> 01:29:14,320
+All right.
+
+1176
+01:29:14,960 --> 01:29:16,480
+Well, you can go write the essay on Brecht.
+
+1177
+01:29:17,360 --> 01:29:19,600
+Because someone superchatted me to do a shot.
+
+1178
+01:29:19,600 --> 01:29:21,040
+I'll do one more shot.
+
+1179
+01:29:21,040 --> 01:29:22,960
+Oh, I don't really have to.
+
+1180
+01:29:22,960 --> 01:29:24,240
+I just wanted to get you drunk faster.
+
+1181
+01:29:25,440 --> 01:29:26,240
+That's what it is.
+
+1182
+01:29:26,240 --> 01:29:31,200
+And then check out my Twitter later if you want to see my thing on Destiny.
+
+1183
+01:29:31,200 --> 01:29:34,240
+I'm going to go think about what I'm going to say to try to talk him out of this nonsense.
+
+1184
+01:29:35,520 --> 01:29:36,240
+What is it?
+
+1185
+01:29:36,240 --> 01:29:38,000
+Or maybe he'll, I don't know, maybe he'll talk me into it.
+
+1186
+01:29:38,000 --> 01:29:38,640
+I don't know.
+
+1187
+01:29:38,640 --> 01:29:40,400
+But so it's Destiny.
+
+1188
+01:29:40,400 --> 01:29:42,080
+He's a professional streamer.
+
+1189
+01:29:42,080 --> 01:29:47,920
+He's a really interesting streamer because he, I like Destiny because he's a guy who
+
+1190
+01:29:47,920 --> 01:29:52,080
+he tells the story of having been quite a bit of a shitlord a few years ago.
+
+1191
+01:29:52,720 --> 01:29:57,360
+And he's since sort of backed out of those positions.
+
+1192
+01:29:57,360 --> 01:30:01,120
+And that's an intensely attractive thing to me because it makes me feel like I'm not wasting
+
+1193
+01:30:01,120 --> 01:30:02,080
+my goddamn time.
+
+1194
+01:30:02,080 --> 01:30:06,880
+And also, I feel like to some extent I've moved in the same direction over the last
+
+1195
+01:30:06,880 --> 01:30:07,520
+several years.
+
+1196
+01:30:08,960 --> 01:30:11,120
+So I tend to hit it off really well with him.
+
+1197
+01:30:11,120 --> 01:30:17,360
+But he wants to make the philosophical case that there's a good analog between transracialism
+
+1198
+01:30:17,360 --> 01:30:25,120
+and transgenderism, which is something that is extremely frowned upon in social justice
+
+1199
+01:30:25,120 --> 01:30:25,920
+circles.
+
+1200
+01:30:25,920 --> 01:30:31,520
+So I'm going to go and talk to him about it.
+
+1201
+01:30:35,840 --> 01:30:37,200
+But anyway, thank you.
+
+1202
+01:30:37,200 --> 01:30:39,760
+Oh, I guess I'll do my shot now.
+
+1203
+01:30:40,400 --> 01:30:41,120
+Oh, yeah, go for it.
+
+1204
+01:30:41,120 --> 01:30:42,880
+Yeah, down with fascism, down with a pen.
+
+1205
+01:30:43,760 --> 01:30:44,560
+Down with fascism.
+
+1206
+01:30:47,760 --> 01:30:48,560
+What a drink.
+
+1207
+01:30:51,840 --> 01:30:55,680
+Well, on that note, thank you all for tuning in.
+
+1208
+01:30:56,240 --> 01:30:58,800
+And Oli, thank you so much for...
+
+1209
+01:30:58,800 --> 01:31:00,800
+God damn it, there's a kangaroo in this stream.
+
+1210
+01:31:00,800 --> 01:31:02,560
+Thank you, Oli, so much.
+
+1211
+01:31:03,280 --> 01:31:03,840
+My pleasure.
+
+1212
+01:31:03,840 --> 01:31:04,880
+Thank you so much for having me.
+
+1213
+01:31:04,880 --> 01:31:05,760
+It's been lovely.
+
+1214
+01:31:05,760 --> 01:31:07,200
+Yes, we'll have to do this again sometime.
+
+1215
+01:31:07,840 --> 01:31:09,040
+All right.
+
+1216
+01:31:09,040 --> 01:31:10,480
+Thanks, everyone, for watching.
+
+1217
+01:31:10,480 --> 01:31:11,360
+Bye, everyone.
+
+1218
+01:31:11,360 --> 01:31:14,160
+Bye.
+

@@ -1,0 +1,33 @@
+start	end	text
+0	5000	The main video is talking about a genetic breeding model of how to make machines learn.
+5000	8800	This method is simpler to explain or just show.
+8800	13100	Here's a machine learning to walk or play Mario or jump real high.
+13100	16600	A genetic code is an older code but it still checks out
+16600	22900	and I personally suspect in the future genetic models will have a resurgence as compute power approaches crazy paths.
+22900	27200	However, the current hotness is deep learning and recursive neural networks
+27200	33600	and that's where the linear algebra really increases and explainability in a brief video really decreases.
+33600	39500	But if I had to kind of explain how they work in a footnote just for the record, it's like this.
+39500	42200	No infinite warehouse, just one student.
+42200	46600	TeacherBot has the same test but this time BuilderBot is Dial Adjustment Bot
+46600	51600	where each dial is how sensitive one connection in the student bot's head is.
+51600	55600	There's a lot of connections in its head so a lot of dials.
+55600	56900	A lot a lot.
+56900	62400	TeacherBot shows StudentBot a photo and Dial Adjustment Bot adjusts that dial stronger or weaker
+62400	65100	to get StudentBot closer to the answer.
+65100	67500	It's a bit like adjusting the dial on a radio.
+67500	70500	Is that still a thing? Do cars have radios still?
+70500	74100	I don't know. Anyway, you might not know the exact frequency of the station
+74100	77500	but you can tell if you're getting closer or further away.
+77500	82400	It's like that but with a hundred thousand dials and a lot of math.
+82400	84800	And that's just for one test question.
+84800	89900	When TeacherBot introduces the next photo, Dial Adjustment Bot needs to adjust all the dials
+89900	93000	so that StudentBot can answer both questions.
+93000	100000	As the test gets longer, this becomes an insane amount of math and fine-tuning for Dial Adjustment Bot.
+100000	106500	But when it's done, there's a StudentBot who can do a pretty good job at recognizing new photos
+106500	110500	though still suffers from some of the problems mentioned in the main video.
+110600	115900	Anyway, that's the most baby's first introduction to neural networks you will ever hear.
+115900	121500	If it sounds interesting to you and you like math and code, go dig into the details.
+121500	124700	Machines that learn are the future of everything.
+124700	128000	Maybe quite literally the future of everything.
+128000	132600	And given what we put them through, may the bots have mercy on us all.
+140500	142500	Thank you for watching!

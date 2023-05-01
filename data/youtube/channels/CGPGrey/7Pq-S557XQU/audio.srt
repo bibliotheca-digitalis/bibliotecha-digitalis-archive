@@ -1,0 +1,1020 @@
+1
+00:00:00,000 --> 00:00:08,940
+Every human used to have to hunt or gather to survive, but humans are smartly lazy, so
+
+2
+00:00:08,940 --> 00:00:11,740
+we made tools to make our work easier.
+
+3
+00:00:11,740 --> 00:00:15,420
+From sticks to plows to tractors, we've gone from everyone needing to make food to
+
+4
+00:00:15,420 --> 00:00:19,100
+modern agriculture with almost no one needing to make food.
+
+5
+00:00:19,100 --> 00:00:20,300
+And yet we still have abundance.
+
+6
+00:00:20,300 --> 00:00:23,120
+Of course, it's not just farming, it's everything.
+
+7
+00:00:23,120 --> 00:00:26,960
+We've spent the last several thousand years building tools to reduce physical labor of
+
+8
+00:00:26,960 --> 00:00:28,300
+all kinds.
+
+9
+00:00:28,300 --> 00:00:33,120
+These are mechanical muscles, stronger, more reliable, and more tireless than human muscles
+
+10
+00:00:33,120 --> 00:00:34,120
+ever could be.
+
+11
+00:00:34,120 --> 00:00:35,120
+And that's a good thing.
+
+12
+00:00:35,120 --> 00:00:39,560
+Replacing human labor with mechanical muscles frees people to specialize, and that leaves
+
+13
+00:00:39,560 --> 00:00:43,300
+everyone better off, even those still doing physical labor.
+
+14
+00:00:43,300 --> 00:00:46,560
+This is how economies grow and standards of living rise.
+
+15
+00:00:46,560 --> 00:00:51,160
+Some people have specialized to be programmers and engineers whose job is to build mechanical
+
+16
+00:00:51,160 --> 00:00:52,160
+minds.
+
+17
+00:00:52,160 --> 00:00:56,380
+Just as mechanical muscles made human labor less in demand, so are mechanical minds making
+
+18
+00:00:56,380 --> 00:00:59,060
+human brain labor less in demand.
+
+19
+00:00:59,060 --> 00:01:00,720
+This is an economic revolution.
+
+20
+00:01:00,720 --> 00:01:03,760
+You may think we've been here before, but we haven't.
+
+21
+00:01:03,760 --> 00:01:07,080
+This time is different.
+
+22
+00:01:07,080 --> 00:01:09,840
+When you think of automation, you probably think of this.
+
+23
+00:01:09,840 --> 00:01:14,760
+Giant, custom-built, expensive, efficient, but really dumb robots blind to the world
+
+24
+00:01:14,760 --> 00:01:15,920
+and their own work.
+
+25
+00:01:15,920 --> 00:01:19,820
+They were a scary kind of automation, but they haven't taken over the world because
+
+26
+00:01:19,820 --> 00:01:23,280
+they're only cost-effective in narrow situations.
+
+27
+00:01:23,280 --> 00:01:25,600
+But they're the old kind of automation.
+
+28
+00:01:25,620 --> 00:01:27,180
+This is the new kind.
+
+29
+00:01:27,180 --> 00:01:28,300
+Meet Baxter.
+
+30
+00:01:28,300 --> 00:01:32,020
+Unlike these things, which require skilled operators and technicians and millions of
+
+31
+00:01:32,020 --> 00:01:37,020
+dollars, Baxter has vision and can learn what you want him to do by watching you do it.
+
+32
+00:01:37,020 --> 00:01:40,780
+And he costs less than the average annual salary of a human worker.
+
+33
+00:01:40,780 --> 00:01:44,760
+Unlike his older brothers, he isn't pre-programmed for one specific job.
+
+34
+00:01:44,760 --> 00:01:48,100
+He can do whatever work is within the reach of his arms.
+
+35
+00:01:48,100 --> 00:01:52,660
+Baxter is what might be thought of as a general purpose robot, and general purpose is a big
+
+36
+00:01:52,660 --> 00:01:53,660
+deal.
+
+37
+00:01:53,660 --> 00:01:54,660
+Think computers.
+
+38
+00:01:54,720 --> 00:01:59,440
+22 started out as highly custom and highly expensive, but when cheap-ish general purpose
+
+39
+00:01:59,440 --> 00:02:02,600
+computers appeared, they quickly became vital to everything.
+
+40
+00:02:02,600 --> 00:02:07,460
+A general purpose computer can just as easily calculate change or assign seats on an airplane
+
+41
+00:02:07,460 --> 00:02:11,520
+or play a game or do anything just by swapping its software.
+
+42
+00:02:11,520 --> 00:02:16,320
+And this huge demand for computers of all kinds is what makes them both more powerful
+
+43
+00:02:16,320 --> 00:02:18,200
+and cheaper every year.
+
+44
+00:02:18,200 --> 00:02:21,040
+Baxter today is the computer of the 1980s.
+
+45
+00:02:21,040 --> 00:02:23,320
+He's not the apex, but the beginning.
+
+46
+00:02:23,320 --> 00:02:27,940
+If Baxter is slow, his hourly cost is pennies worth of electricity while his meat-based
+
+47
+00:02:27,940 --> 00:02:30,100
+competition costs minimum wage.
+
+48
+00:02:30,100 --> 00:02:34,260
+A tenth of the speed is still cost-effective when it's a hundredth the price.
+
+49
+00:02:34,260 --> 00:02:37,380
+And while Baxter isn't as smart as some of the other things we will talk about, he's
+
+50
+00:02:37,380 --> 00:02:40,540
+smart enough to take over many low-skilled jobs.
+
+51
+00:02:40,540 --> 00:02:44,300
+And we've already seen how dumber robots than Baxter can replace jobs.
+
+52
+00:02:44,300 --> 00:02:50,500
+In new supermarkets, what used to be 30 humans is now one human overseeing 30 cashier robots.
+
+53
+00:02:50,500 --> 00:02:54,500
+Or take the hundreds of thousands of baristas employed worldwide, there's a barista robot
+
+54
+00:02:54,500 --> 00:02:55,500
+coming for them.
+
+55
+00:02:55,500 --> 00:02:59,480
+Sure, maybe your guy makes the double mocha whatever just perfect and you'd never trust
+
+56
+00:02:59,480 --> 00:03:04,480
+anyone else, but millions of people don't care and just want a decent cup of coffee.
+
+57
+00:03:04,480 --> 00:03:08,780
+Oh, and by the way, this robot is actually a giant network of robots that remembers who
+
+58
+00:03:08,780 --> 00:03:12,320
+you are and how you like your coffee no matter where you are.
+
+59
+00:03:12,320 --> 00:03:13,320
+Pretty convenient.
+
+60
+00:03:13,320 --> 00:03:17,640
+We think of technological change as the fancy new expensive stuff, but the real change comes
+
+61
+00:03:17,640 --> 00:03:20,920
+from last decade stuff getting cheaper and faster.
+
+62
+00:03:20,920 --> 00:03:23,120
+That's what's happening to robots now.
+
+63
+00:03:23,120 --> 00:03:27,220
+And because their mechanical minds are capable of decision-making, they are out-competing
+
+64
+00:03:27,220 --> 00:03:33,660
+humans for jobs in a way no pure mechanical muscle ever could.
+
+65
+00:03:33,660 --> 00:03:37,620
+Imagine a pair of horses in the early 1900s talking about technology.
+
+66
+00:03:37,620 --> 00:03:41,160
+One worries all these new mechanical muscles will make horses unnecessary.
+
+67
+00:03:41,160 --> 00:03:45,260
+The other reminds him that everything so far has made their lives easier.
+
+68
+00:03:45,260 --> 00:03:46,540
+Remember all that farm work?
+
+69
+00:03:46,540 --> 00:03:48,780
+Remember running from coast to coast delivering mail?
+
+70
+00:03:48,780 --> 00:03:50,380
+Remember riding into battle?
+
+71
+00:03:50,380 --> 00:03:51,440
+All terrible.
+
+72
+00:03:51,440 --> 00:03:55,180
+These new city jobs are pretty cushy and with so many humans in the cities there will be
+
+73
+00:03:55,180 --> 00:03:57,420
+more jobs for horses than ever.
+
+74
+00:03:57,420 --> 00:04:01,860
+Even if this car thingy takes off, he might say, there will be new jobs for horses we
+
+75
+00:04:01,860 --> 00:04:02,860
+can't imagine.
+
+76
+00:04:02,860 --> 00:04:06,600
+But you, dear viewer from beyond 2000, know what happened.
+
+77
+00:04:06,600 --> 00:04:09,900
+There are still working horses, but nothing like before.
+
+78
+00:04:09,900 --> 00:04:12,440
+The horse population peaked in 1915.
+
+79
+00:04:12,440 --> 00:04:15,180
+From that point on, it was nothing but down.
+
+80
+00:04:15,180 --> 00:04:19,100
+There isn't a rule of economics that says better technology makes more better jobs for
+
+81
+00:04:19,100 --> 00:04:20,100
+horses.
+
+82
+00:04:20,100 --> 00:04:23,100
+It sounds shockingly dumb to even say that out loud.
+
+83
+00:04:23,100 --> 00:04:27,420
+But swap horses for humans and suddenly people think it sounds about right.
+
+84
+00:04:27,420 --> 00:04:31,480
+As mechanical muscles pushed horses out of the economy, mechanical minds will do the
+
+85
+00:04:31,480 --> 00:04:32,900
+same to humans.
+
+86
+00:04:32,900 --> 00:04:37,660
+Not immediately, not everywhere, but in large enough numbers and soon enough that it's going
+
+87
+00:04:37,660 --> 00:04:40,940
+to be a huge problem if we're not prepared.
+
+88
+00:04:40,940 --> 00:04:42,220
+And we're not prepared.
+
+89
+00:04:42,260 --> 00:04:45,980
+You, like the second horse, may look at the state of technology now and think it can't
+
+90
+00:04:45,980 --> 00:04:47,780
+possibly replace your job.
+
+91
+00:04:47,780 --> 00:04:52,280
+But technology gets better, cheaper, and faster at a rate biology can't match.
+
+92
+00:04:52,280 --> 00:04:56,340
+Just as the car was the beginning of the end for the horse, so now does the car show us
+
+93
+00:04:56,340 --> 00:04:58,220
+the shape of things to come.
+
+94
+00:05:01,740 --> 00:05:03,580
+Self-driving cars aren't the future.
+
+95
+00:05:03,580 --> 00:05:05,580
+They're here and they work.
+
+96
+00:05:05,580 --> 00:05:08,600
+Self-driving cars have traveled hundreds of thousands of miles up and down the California
+
+97
+00:05:08,600 --> 00:05:12,200
+coast and through cities all without human intervention.
+
+98
+00:05:12,200 --> 00:05:15,740
+The question is not if they'll replace cars, but how quickly.
+
+99
+00:05:15,740 --> 00:05:19,320
+They don't need to be perfect, they just need to be better than us.
+
+100
+00:05:19,320 --> 00:05:25,040
+Human drivers, by the way, kill 40,000 people a year with cars just in the United States.
+
+101
+00:05:25,040 --> 00:05:28,640
+Given that self-driving cars don't blink, don't text while driving, don't get sleepy
+
+102
+00:05:28,640 --> 00:05:33,760
+or stupid, it's easy to see them being better than humans because they already are.
+
+103
+00:05:33,760 --> 00:05:38,960
+Now to describe self-driving cars as cars at all is like calling the first cars mechanical
+
+104
+00:05:38,960 --> 00:05:39,960
+horses.
+
+105
+00:05:39,960 --> 00:05:44,620
+Cars in all their forms are so much more than horses that using the name limits your thinking
+
+106
+00:05:44,620 --> 00:05:46,760
+about what they can even do.
+
+107
+00:05:46,760 --> 00:05:49,280
+Let's call self-driving cars what they really are.
+
+108
+00:05:49,280 --> 00:05:53,560
+Autos, the solution to the transport objects from point A to point B problem.
+
+109
+00:05:53,560 --> 00:05:57,740
+Traditional cars happen to be human-sized to transport humans, but tiny autos can work
+
+110
+00:05:57,740 --> 00:06:00,760
+in warehouses and gigantic autos can work in pit mines.
+
+111
+00:06:00,760 --> 00:06:05,200
+Moving stuff around is who knows how many jobs, but the transportation industry in the
+
+112
+00:06:05,200 --> 00:06:08,240
+United States employs about 3 million people.
+
+113
+00:06:08,240 --> 00:06:13,460
+Trampolating worldwide, that's something like 70 million jobs at a minimum.
+
+114
+00:06:13,460 --> 00:06:15,260
+These jobs are over.
+
+115
+00:06:15,260 --> 00:06:19,240
+The usual argument is that the unions will prevent it, but history is filled with workers
+
+116
+00:06:19,240 --> 00:06:25,080
+who fought technology that would replace them and the workers always lose, economics always
+
+117
+00:06:25,080 --> 00:06:30,380
+wins, and there are huge incentives across wildly diverse industries to adopt autos.
+
+118
+00:06:30,380 --> 00:06:34,760
+For many transportation companies, humans are about a third their total costs.
+
+119
+00:06:34,760 --> 00:06:36,680
+That's just the straight salaries.
+
+120
+00:06:36,680 --> 00:06:41,160
+Autos sleeping in their long-haul trucks cost time and money, accidents cost money, carelessness
+
+121
+00:06:41,160 --> 00:06:42,160
+costs money.
+
+122
+00:06:42,160 --> 00:06:45,060
+If you think insurance companies will be against it, guess what?
+
+123
+00:06:45,060 --> 00:06:50,080
+Their perfect driver is one who pays their small premiums and never gets into an accident.
+
+124
+00:06:50,080 --> 00:06:54,080
+The autos are coming and they're the first place where most people will really see the
+
+125
+00:06:54,080 --> 00:06:58,480
+robots changing society, but there are many other places in the economy where the same
+
+126
+00:06:58,480 --> 00:07:00,840
+thing is happening, just less visibly.
+
+127
+00:07:00,840 --> 00:07:07,160
+So it goes with autos, so it goes for everything.
+
+128
+00:07:07,160 --> 00:07:10,720
+It's easy to look at autos and backsters and think, technology has always gotten rid of
+
+129
+00:07:10,720 --> 00:07:13,800
+low-skilled jobs we don't want people doing anyway.
+
+130
+00:07:13,800 --> 00:07:17,880
+They'll get more skilled and do better-educated jobs like they've always done.
+
+131
+00:07:17,880 --> 00:07:22,480
+Even ignoring the problem of pushing a hundred million additional people through higher education,
+
+132
+00:07:22,480 --> 00:07:25,160
+white-collar work is no safe haven either.
+
+133
+00:07:25,160 --> 00:07:29,060
+If your job is sitting in front of a screen and typing and clicking, like maybe you're
+
+134
+00:07:29,060 --> 00:07:32,860
+supposed to be doing right now, the bots are coming for you too, buddy.
+
+135
+00:07:32,860 --> 00:07:37,600
+Software bots are both intangible and way faster and cheaper than physical robots.
+
+136
+00:07:37,600 --> 00:07:41,340
+Given that white-collar workers are, from a company's perspective, both more expensive
+
+137
+00:07:41,340 --> 00:07:46,140
+and more numerous, the incentive to automate their work is greater than low-skilled work.
+
+138
+00:07:46,140 --> 00:07:49,540
+And that's just what automation engineers are for.
+
+139
+00:07:49,540 --> 00:07:54,220
+These are skilled programmers whose entire job is to replace your job with a software
+
+140
+00:07:54,220 --> 00:07:55,220
+bot.
+
+141
+00:07:55,220 --> 00:07:58,940
+You may think even the world's smartest automation engineer could never make a bot to do your
+
+142
+00:07:58,940 --> 00:08:03,660
+job and you may be right, but the cutting edge of programming isn't super smart programmers
+
+143
+00:08:03,660 --> 00:08:08,580
+writing bots, it's super smart programmers writing bots that teach themselves how to
+
+144
+00:08:08,580 --> 00:08:11,740
+do things the programmer could never teach them to do.
+
+145
+00:08:11,740 --> 00:08:15,520
+How that works is well beyond the scope of this video, but the bottom line is there are
+
+146
+00:08:15,520 --> 00:08:20,060
+limited ways to show a bot a bunch of stuff to do, show the bot a bunch of correctly done
+
+147
+00:08:20,060 --> 00:08:23,960
+stuff and it can figure out how to do the job to be done.
+
+148
+00:08:23,960 --> 00:08:27,880
+Even with just a goal and no knowledge of how to do it, the bots can still learn.
+
+149
+00:08:27,880 --> 00:08:32,380
+Take the stock market, which in many ways is no longer a human endeavor.
+
+150
+00:08:32,380 --> 00:08:36,720
+It's mostly bots that taught themselves to trade stocks, trading stocks with other bots
+
+151
+00:08:36,720 --> 00:08:38,280
+that taught themselves.
+
+152
+00:08:38,280 --> 00:08:41,880
+As a result, the floor of the New York Stock Exchange isn't filled with traders doing
+
+153
+00:08:41,880 --> 00:08:44,960
+their day jobs anymore, it's largely a TV set.
+
+154
+00:08:44,960 --> 00:08:48,000
+So bots have learned the market and bots have learned to write.
+
+155
+00:08:48,000 --> 00:08:51,320
+If you've picked up a newspaper lately, you've probably already read a story written
+
+156
+00:08:51,320 --> 00:08:52,380
+by a bot.
+
+157
+00:08:52,380 --> 00:08:56,780
+There are companies that teach bots to write anything, sports stories, TPS reports, even
+
+158
+00:08:56,780 --> 00:08:59,820
+say those quarterly reports that you write at work.
+
+159
+00:08:59,820 --> 00:09:03,900
+Paperwork, decision making, writing, a lot of human work falls into that category and
+
+160
+00:09:03,900 --> 00:09:08,540
+the demand for human mental labor in these areas is on the way down.
+
+161
+00:09:08,540 --> 00:09:15,640
+But surely the professions are still safe from bots, yes?
+
+162
+00:09:15,640 --> 00:09:19,880
+When you think lawyer, it's easy to think of trials, but the bulk of lawyering is actually
+
+163
+00:09:19,880 --> 00:09:24,380
+drafting legal documents, predicting the likely outcome and impact of lawsuits and something
+
+164
+00:09:24,380 --> 00:09:28,740
+called discovery, which is where boxes of paperwork gets dumped on the lawyers and they
+
+165
+00:09:28,740 --> 00:09:32,620
+need to find the pattern or the one out of place transaction among it all.
+
+166
+00:09:32,620 --> 00:09:34,420
+This can be bot work.
+
+167
+00:09:34,420 --> 00:09:38,700
+Discovery in particular is already not a human job in many law firms.
+
+168
+00:09:38,700 --> 00:09:42,100
+Not because there isn't paperwork to go through, there's more of it than ever, but
+
+169
+00:09:42,100 --> 00:09:46,020
+because clever research bots shift through millions of emails and memos and accounts
+
+170
+00:09:46,020 --> 00:09:51,620
+in hours, not weeks, crushing human researchers in terms of not just cost and time, but most
+
+171
+00:09:51,620 --> 00:09:53,740
+importantly, accuracy.
+
+172
+00:09:53,740 --> 00:09:56,860
+Just don't get sleepy reading through a million emails.
+
+173
+00:09:56,860 --> 00:09:58,180
+But that's the simple stuff.
+
+174
+00:09:58,180 --> 00:10:00,300
+IBM has a bot named Watson.
+
+175
+00:10:00,300 --> 00:10:04,400
+You may have seen him on TV destroy humans at Jeopardy, but that was just a fun side
+
+176
+00:10:04,400 --> 00:10:05,400
+project for him.
+
+177
+00:10:05,400 --> 00:10:09,800
+Watson's day job is to be the best doctor in the world, to understand what people say
+
+178
+00:10:09,800 --> 00:10:13,180
+in their own words and give back accurate diagnoses.
+
+179
+00:10:13,180 --> 00:10:17,700
+He's already doing that at Sloan Kettering, giving guidance on lung cancer treatments.
+
+180
+00:10:17,700 --> 00:10:21,500
+Just as autos don't need to be perfect, they just need to make fewer mistakes than
+
+181
+00:10:21,500 --> 00:10:23,940
+The same goes for doctor bots.
+
+182
+00:10:23,940 --> 00:10:25,700
+Human doctors are by no means perfect.
+
+183
+00:10:25,700 --> 00:10:30,720
+The frequency and severity of misdiagnoses are terrifying, and human doctors are severely
+
+184
+00:10:30,720 --> 00:10:34,940
+limited in dealing with a human's complicated medical history.
+
+185
+00:10:34,940 --> 00:10:39,060
+Understanding every drug and every drug's interaction with every other drug is beyond
+
+186
+00:10:39,060 --> 00:10:41,020
+the scope of human knowability.
+
+187
+00:10:41,020 --> 00:10:45,180
+Especially when there are research robots whose whole job it is to test thousands of
+
+188
+00:10:45,180 --> 00:10:46,820
+new drugs at a time.
+
+189
+00:10:46,820 --> 00:10:50,400
+And human doctors can only improve through their own experiences.
+
+190
+00:10:50,400 --> 00:10:53,760
+Doctor bots can learn from the experience of every doctor bot, can read the latest in
+
+191
+00:10:53,760 --> 00:10:57,760
+medical research and keep track of everything that happens to all their patients worldwide
+
+192
+00:10:57,760 --> 00:11:01,760
+and make correlations that would be impossible to find otherwise.
+
+193
+00:11:01,760 --> 00:11:06,340
+Not all doctors will go away, but when the doctor bots are comparable to humans and they're
+
+194
+00:11:06,340 --> 00:11:10,920
+only as far away as your phone, the need for general doctors will be less.
+
+195
+00:11:10,920 --> 00:11:15,240
+So professionals, white collar workers and low skill workers all have things to worry
+
+196
+00:11:15,240 --> 00:11:16,920
+about from automation.
+
+197
+00:11:16,920 --> 00:11:21,440
+Perhaps you are unphased because you're a special creative snowflake.
+
+198
+00:11:21,440 --> 00:11:22,440
+Well guess what?
+
+199
+00:11:22,440 --> 00:11:28,160
+You're not that special.
+
+200
+00:11:28,160 --> 00:11:30,640
+Creativity may feel like magic, but it isn't.
+
+201
+00:11:30,640 --> 00:11:34,920
+The brain is a complicated machine, perhaps the most complicated machine in the whole
+
+202
+00:11:34,920 --> 00:11:38,160
+universe, but that hasn't stopped us from trying to simulate it.
+
+203
+00:11:38,160 --> 00:11:42,120
+There is this notion that just as mechanical muscles allowed us to move into thinking jobs,
+
+204
+00:11:42,120 --> 00:11:45,600
+that mechanical minds will allow us to move into creative work.
+
+205
+00:11:45,600 --> 00:11:49,800
+But even if we assume the human mind is magically creative, it's not, but just for the sake
+
+206
+00:11:49,800 --> 00:11:54,620
+of argument, artistic creativity isn't what the majority of jobs depend on.
+
+207
+00:11:54,620 --> 00:11:58,260
+The number of writers and poets and directors and actors and artists who actually make a
+
+208
+00:11:58,260 --> 00:12:02,720
+living doing their work is a tiny, tiny portion of the labor force.
+
+209
+00:12:02,720 --> 00:12:07,380
+And given that these are professions dependent on popularity, they'll always be a very small
+
+210
+00:12:07,380 --> 00:12:08,760
+portion of the population.
+
+211
+00:12:08,760 --> 00:12:12,680
+There can't be such a thing as a poem and painting based economy.
+
+212
+00:12:12,760 --> 00:12:16,360
+Oh, by the way, this music in the background that you're listening to?
+
+213
+00:12:16,360 --> 00:12:17,640
+It was written by a bot.
+
+214
+00:12:17,640 --> 00:12:21,440
+Her name is Emily Howell and she can write an infinite amount of new music all day for
+
+215
+00:12:21,440 --> 00:12:22,440
+free.
+
+216
+00:12:22,440 --> 00:12:26,160
+And people can't tell the difference between her and human composers when put to a blind
+
+217
+00:12:26,160 --> 00:12:27,160
+test.
+
+218
+00:12:27,160 --> 00:12:31,960
+Talking about artificial creativity gets weird fast, what does that even mean, but nonetheless
+
+219
+00:12:31,960 --> 00:12:33,800
+it's a developing field.
+
+220
+00:12:33,800 --> 00:12:37,280
+People used to think that playing chess was a uniquely creative human skill that machines
+
+221
+00:12:37,280 --> 00:12:40,840
+could never do, right up until the point they beat the best of us.
+
+222
+00:12:40,920 --> 00:12:43,400
+So it will go for all human talents.
+
+223
+00:12:47,200 --> 00:12:51,200
+Right, this may have been a lot to take in and you might want to reject it.
+
+224
+00:12:51,200 --> 00:12:54,920
+It's easy to be cynical of the endless and idiotic predictions of futures that never
+
+225
+00:12:54,920 --> 00:12:55,920
+are.
+
+226
+00:12:55,920 --> 00:12:59,760
+So that's why it's important to emphasize again that this stuff isn't science fiction.
+
+227
+00:12:59,760 --> 00:13:01,840
+The robots are here right now.
+
+228
+00:13:01,840 --> 00:13:07,460
+There is a terrifying amount of working automation in labs and warehouses around the world.
+
+229
+00:13:07,460 --> 00:13:12,740
+We have been through economic revolutions before, but the robot revolution is different.
+
+230
+00:13:12,740 --> 00:13:17,980
+Horses aren't unemployed now because they got lazy as a species, they're unemployable.
+
+231
+00:13:17,980 --> 00:13:21,860
+There's little work that a horse can do to pay for its housing and hay.
+
+232
+00:13:21,860 --> 00:13:26,620
+And many bright, perfectly capable humans will find themselves the new horse, unemployable
+
+233
+00:13:26,620 --> 00:13:28,580
+through no fault of their own.
+
+234
+00:13:28,580 --> 00:13:32,780
+But if you still think new jobs will save us, here is one final point to consider.
+
+235
+00:13:32,780 --> 00:13:37,240
+The US census in 1776 tracked only a few kinds of jobs.
+
+236
+00:13:37,240 --> 00:13:41,660
+Now there are hundreds of kinds of jobs, but the new ones are not a significant part
+
+237
+00:13:41,660 --> 00:13:42,880
+of the labor force.
+
+238
+00:13:42,880 --> 00:13:46,200
+Here's the list of jobs ranked by the number of people who perform them.
+
+239
+00:13:46,200 --> 00:13:49,880
+It's a sobering list with the transportation industry at the top.
+
+240
+00:13:49,880 --> 00:13:55,480
+Continuing downward, all of this work existed in some form a hundred years ago and almost
+
+241
+00:13:55,480 --> 00:13:58,460
+all of them are easy targets for automation.
+
+242
+00:13:58,460 --> 00:14:02,640
+Only when we get to number 33 on the list is there finally something new.
+
+243
+00:14:02,640 --> 00:14:06,560
+Don't think that every barista or white collar worker need lose their job before things are
+
+244
+00:14:06,560 --> 00:14:07,560
+a problem.
+
+245
+00:14:07,560 --> 00:14:10,820
+The unemployment rate during the Great Depression was 25%.
+
+246
+00:14:10,820 --> 00:14:14,920
+The list above is 45% of the workforce.
+
+247
+00:14:14,920 --> 00:14:19,440
+Just what we've talked about today, the stuff that already works, can push us over that
+
+248
+00:14:19,440 --> 00:14:21,080
+number pretty soon.
+
+249
+00:14:21,080 --> 00:14:26,440
+And given that even in our modern technological wonderland, new kinds of work aren't a significant
+
+250
+00:14:26,440 --> 00:14:29,980
+portion of the economy, this is a big problem.
+
+251
+00:14:29,980 --> 00:14:34,400
+This video isn't about how automation is bad, rather that automation is inevitable.
+
+252
+00:14:34,840 --> 00:14:38,040
+It's a tool to produce abundance for little effort.
+
+253
+00:14:38,040 --> 00:14:42,200
+We need to start thinking now about what to do when large sections of the population are
+
+254
+00:14:42,200 --> 00:14:44,880
+unemployable through no fault of their own.
+
+255
+00:14:44,880 --> 00:14:49,200
+What to do in a future where, for most jobs, humans need not apply.
+

@@ -1,0 +1,300 @@
+1
+00:00:00,000 --> 00:00:03,520
+Queen Lion of the Animal Kingdom is looking to improve her democracy.
+
+2
+00:00:03,520 --> 00:00:06,720
+She recently allowed citizens to elect representatives to the Jungle Council,
+
+3
+00:00:06,720 --> 00:00:10,320
+which governs the kingdom. However, she recognizes that her citizens
+
+4
+00:00:10,320 --> 00:00:13,760
+are not happy with the voting system. Let's watch an election on one of the
+
+5
+00:00:13,760 --> 00:00:17,920
+small islands of her kingdom to see why. On this island there are three political
+
+6
+00:00:17,920 --> 00:00:21,840
+parties. The two big ones, Kia and Tuatara, and a small third party,
+
+7
+00:00:21,840 --> 00:00:24,880
+Kakapo. On election day the citizens each cast
+
+8
+00:00:24,880 --> 00:00:28,480
+one vote for a local candidate they want to represent the range they live in.
+
+9
+00:00:28,480 --> 00:00:31,920
+The results are as follows, with the average across the island that Tuatara
+
+10
+00:00:31,920 --> 00:00:36,400
+gets 49%, Kia gets 48%, and Kakapo gets 3%.
+
+11
+00:00:36,400 --> 00:00:39,760
+The election is run using first past the post, meaning that the candidate with the
+
+12
+00:00:39,760 --> 00:00:43,040
+most votes wins. Because Tuatara got the most votes in
+
+13
+00:00:43,040 --> 00:00:46,400
+each range, they get to control 100% of the seats on the council.
+
+14
+00:00:46,400 --> 00:00:49,920
+And this is why so many citizens are unhappy. The majority of them,
+
+15
+00:00:49,920 --> 00:00:54,800
+the 51% who voted for other parties, get no representation on the council at all.
+
+16
+00:00:54,800 --> 00:00:57,760
+This seems unfair to Queen Lion, but she's not sure how to fix it.
+
+17
+00:00:57,760 --> 00:01:00,560
+The citizens like having local representatives and don't want to
+
+18
+00:01:00,560 --> 00:01:04,240
+change the range boundaries. But luckily Kiwi, one of the citizens of
+
+19
+00:01:04,240 --> 00:01:07,440
+this island, has a suggestion for Queen Lion on how she can make the system
+
+20
+00:01:07,440 --> 00:01:09,760
+better while keeping local representation and
+
+21
+00:01:09,760 --> 00:01:12,720
+leaving the ranges as they are. The idea is called Mixed Member
+
+22
+00:01:12,720 --> 00:01:17,040
+Proportional, or MMP, and it makes two changes. The number of
+
+23
+00:01:17,040 --> 00:01:20,480
+seats on the council is doubled and each citizen now gets two votes,
+
+24
+00:01:20,480 --> 00:01:25,440
+not one. Here's how it works. At first election day for Kiwi is just the same
+
+25
+00:01:25,440 --> 00:01:29,200
+as before. He gets a list of candidates running to represent his local range on
+
+26
+00:01:29,200 --> 00:01:31,680
+the council. Kiwi picks one and the winner will be the
+
+27
+00:01:31,680 --> 00:01:36,000
+candidate with the most votes. So far the system is no better. Tuatara
+
+28
+00:01:36,000 --> 00:01:39,040
+again wins all the local elections and still more than half of the citizens
+
+29
+00:01:39,040 --> 00:01:42,640
+don't have any representation. But here's how Kiwi's second vote and
+
+30
+00:01:42,640 --> 00:01:44,960
+those extra seats on the council fix this.
+
+31
+00:01:44,960 --> 00:01:48,400
+Kiwi uses his second vote to pick his favorite political party.
+
+32
+00:01:48,400 --> 00:01:51,680
+These second votes are tallied up and show the percentage of support that each
+
+33
+00:01:51,680 --> 00:01:54,480
+of the political parties has among the citizens as a whole
+
+34
+00:01:54,480 --> 00:01:57,520
+and reveals how imbalanced the council is so far.
+
+35
+00:01:57,520 --> 00:02:01,040
+To fix this imbalance members of the political parties are added one at a
+
+36
+00:02:01,040 --> 00:02:03,280
+time to make the council more proportional.
+
+37
+00:02:03,280 --> 00:02:06,880
+Tuatara is the most overrepresented and Kia the most underrepresented
+
+38
+00:02:06,880 --> 00:02:11,440
+so Kia gets the first empty seat. This continues adding one Kia at a time
+
+39
+00:02:11,440 --> 00:02:14,880
+until both Tuatara and Kia are over represented and Kankapo is
+
+40
+00:02:14,880 --> 00:02:17,520
+underrepresented so they get the final seat.
+
+41
+00:02:17,520 --> 00:02:21,200
+Now the jungle council represents as close as possible the actual preferences
+
+42
+00:02:21,200 --> 00:02:24,000
+of the citizens which is a huge improvement over the old
+
+43
+00:02:24,000 --> 00:02:28,160
+first-past-the-post method. There is however one interesting question that
+
+44
+00:02:28,160 --> 00:02:31,520
+should arise at this point. Exactly who decides which members of the
+
+45
+00:02:31,520 --> 00:02:35,440
+party get those extra seats? The way it works is that before the
+
+46
+00:02:35,440 --> 00:02:38,560
+election the political parties make a list of their favorite candidates in the
+
+47
+00:02:38,560 --> 00:02:40,560
+order they want them to get on the council.
+
+48
+00:02:40,560 --> 00:02:43,520
+So if there's only one extra seat for their party the name at the top of their
+
+49
+00:02:43,520 --> 00:02:46,560
+list is chosen. If they get two extra seats the first two
+
+50
+00:02:46,560 --> 00:02:49,840
+are chosen and so on. This makes MMP a bit different from
+
+51
+00:02:49,840 --> 00:02:52,880
+other voting methods in that it makes political parties an official part of
+
+52
+00:02:52,880 --> 00:02:56,480
+the way the election works. This may give the party leaders greater
+
+53
+00:02:56,480 --> 00:02:59,840
+control over their members because they can reward or punish their actions by
+
+54
+00:02:59,840 --> 00:03:02,240
+changing their placement on the party list.
+
+55
+00:03:02,240 --> 00:03:05,680
+While this may be a disadvantage of MMP there are a number of other benefits
+
+56
+00:03:05,680 --> 00:03:10,080
+that Queen Lion in particular likes. Because fewer votes are wasted it mostly
+
+57
+00:03:10,080 --> 00:03:13,120
+eliminates gerrymandering and prevents minority rule.
+
+58
+00:03:13,120 --> 00:03:15,840
+It also gives more choice to the citizens by encouraging political
+
+59
+00:03:15,840 --> 00:03:19,280
+diversity. This point is worth expanding on. Notice
+
+60
+00:03:19,280 --> 00:03:21,760
+how with MMP the percentage of votes for the local
+
+61
+00:03:21,760 --> 00:03:24,560
+representatives isn't the same as for the parties.
+
+62
+00:03:24,560 --> 00:03:28,400
+This is because in the local election citizens have to vote strategically.
+
+63
+00:03:28,400 --> 00:03:31,760
+For example kakapo voters don't like tuatara at all
+
+64
+00:03:31,760 --> 00:03:36,000
+but they can tolerate kia. Since there are so few kakapo voters they know that
+
+65
+00:03:36,000 --> 00:03:38,880
+their candidate doesn't have a chance of winning the local election
+
+66
+00:03:38,880 --> 00:03:42,080
+so it's really a race between the two big parties. Thus
+
+67
+00:03:42,080 --> 00:03:45,440
+many of the kakapo will vote kia in the hope that he might win and be their
+
+68
+00:03:45,440 --> 00:03:48,480
+representative. However when it comes to voting for
+
+69
+00:03:48,480 --> 00:03:51,040
+their favorite political party this strategy doesn't matter.
+
+70
+00:03:51,040 --> 00:03:54,480
+The more votes a party gets the more representatives it has on the council
+
+71
+00:03:54,480 --> 00:03:57,840
+so citizens are free to vote for smaller parties they like knowing that every
+
+72
+00:03:57,840 --> 00:04:01,040
+vote counts. Queen Lion reviews her options and
+
+73
+00:04:01,040 --> 00:04:05,120
+decides to switch her kingdom to MMP. Now for the first time the jungle
+
+74
+00:04:05,120 --> 00:04:08,960
+council is a true reflection of what her citizens want.
+
+75
+00:04:21,040 --> 00:04:23,120
+you
+

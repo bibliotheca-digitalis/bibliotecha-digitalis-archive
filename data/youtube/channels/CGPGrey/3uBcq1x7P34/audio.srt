@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:03,200
+How many continents are there?
+
+2
+00:00:03,200 --> 00:00:05,960
+If you grew up in the English-speaking world, you might think that the answer is obvious
+
+3
+00:00:05,960 --> 00:00:08,280
+– 1, 2, 3, 4, 5, 6, 7.
+
+4
+00:00:08,280 --> 00:00:10,920
+But not everyone counts continents the same way.
+
+5
+00:00:10,920 --> 00:00:14,160
+The usual definition – that they're large landmasses separated from others by oceans
+
+6
+00:00:14,160 --> 00:00:18,220
+– is fine until you actually start to think about it and then you run into problems.
+
+7
+00:00:18,220 --> 00:00:19,220
+Problems like this.
+
+8
+00:00:19,220 --> 00:00:22,640
+Here's Europe, here's Asia, and you'll notice the lack of ocean between them.
+
+9
+00:00:22,640 --> 00:00:24,680
+Then why are they two different continents?
+
+10
+00:00:24,680 --> 00:00:28,200
+The usual reason for this split is a cultural one – that Europe is so different from Asia
+
+11
+00:00:28,200 --> 00:00:30,480
+that it's best to pretend it's a separate entity.
+
+12
+00:00:30,480 --> 00:00:32,280
+Okay, maybe.
+
+13
+00:00:32,280 --> 00:00:35,720
+But if the cultural argument is valid, then surely it also applies to India and the Middle
+
+14
+00:00:35,720 --> 00:00:36,720
+East.
+
+15
+00:00:36,720 --> 00:00:38,580
+Now you have nine continents and a new problem.
+
+16
+00:00:38,580 --> 00:00:41,960
+If culture defines continents, then you'll never stop drawing increasingly unhelpful
+
+17
+00:00:41,960 --> 00:00:42,960
+lines.
+
+18
+00:00:42,960 --> 00:00:46,840
+So some places ditch the cultural division and combine Europe and Asia into Eurasia.
+
+19
+00:00:46,840 --> 00:00:49,880
+This Eurasia is not to be confused with this Eurasia, which has always been at war with
+
+20
+00:00:49,880 --> 00:00:51,440
+East Asia.
+
+21
+00:00:51,440 --> 00:00:53,640
+Making Eurasia gives a six-continent view of the world.
+
+22
+00:00:53,640 --> 00:00:54,840
+But what about over here?
+
+23
+00:00:54,840 --> 00:00:56,280
+North America and South America?
+
+24
+00:00:56,360 --> 00:00:59,800
+They're connected to Panama, or at least they used to be until Teddy Roosevelt decided
+
+25
+00:00:59,800 --> 00:01:03,140
+that someone had to cut that country in half and it might as well be him.
+
+26
+00:01:03,140 --> 00:01:05,480
+But even still, the canal's only 13 meters deep.
+
+27
+00:01:05,480 --> 00:01:09,360
+You could walk all the way from northern Alaska across the narrow Panama Canal and, if it
+
+28
+00:01:09,360 --> 00:01:13,020
+weren't for the deadly, impenetrable, poison-filled Brazilian rainforest, make it all the way
+
+29
+00:01:13,020 --> 00:01:14,320
+to the southern tip of Chile.
+
+30
+00:01:14,320 --> 00:01:17,680
+So North and South America, despite the canal, aren't really divided.
+
+31
+00:01:17,680 --> 00:01:22,080
+Which is why some places, particularly South America, treat America as a single continent,
+
+32
+00:01:22,080 --> 00:01:23,080
+not two.
+
+33
+00:01:23,080 --> 00:01:25,800
+Which brings the total number of continents down to five.
+
+34
+00:01:25,800 --> 00:01:30,080
+But if you disregard the Panama Canal, then you also have to disregard the Suez Canal,
+
+35
+00:01:30,080 --> 00:01:33,820
+and you've just created the monstrously large Afro-Eurasian continent, 85 million
+
+36
+00:01:33,820 --> 00:01:37,200
+square kilometers, home to 5.7 billion people.
+
+37
+00:01:37,200 --> 00:01:40,200
+With this four-continent view of the world, we must surely be done, because there are
+
+38
+00:01:40,200 --> 00:01:44,400
+no more continents to merge and our definition from the beginning is now consistent.
+
+39
+00:01:44,400 --> 00:01:47,900
+Except we're not done, because of that troublesome word large.
+
+40
+00:01:47,900 --> 00:01:50,360
+Exactly how large is continental large?
+
+41
+00:01:50,360 --> 00:01:53,600
+Is Australia really a dinky continent, or is it king of the islands?
+
+42
+00:01:53,600 --> 00:01:55,360
+Why not make Greenland the smallest continent?
+
+43
+00:01:55,360 --> 00:01:57,720
+It's pretty big, even if you took away its ice.
+
+44
+00:01:57,720 --> 00:01:59,620
+And speaking of ice, what about Antarctica?
+
+45
+00:01:59,620 --> 00:02:02,960
+The forgotten continent, unfairly smushed against the bottom of maps just because no
+
+46
+00:02:02,960 --> 00:02:04,400
+one lives there.
+
+47
+00:02:04,400 --> 00:02:07,880
+Remove the ice sheet that covers Antarctica, and you reveal it for the archipelago it really
+
+48
+00:02:07,880 --> 00:02:10,480
+is, not the single landmass it pretends to be.
+
+49
+00:02:10,480 --> 00:02:14,580
+And to complicate matters, the largest of these Antarctic islands is smaller than Australia.
+
+50
+00:02:14,580 --> 00:02:17,360
+So if you want to keep calling Antarctica a continent, then there's a bunch of other
+
+51
+00:02:17,360 --> 00:02:19,920
+islands that might want to be continents too.
+
+52
+00:02:19,920 --> 00:02:23,680
+Islands like New Guinea, Borneo, Madagascar, Baffin Islands, Sumatra, and Honshu.
+
+53
+00:02:23,680 --> 00:02:26,720
+While this seems inclusive to the point of silliness, ultimately someone has to decide
+
+54
+00:02:26,720 --> 00:02:29,840
+what large means, and that's going to be an arbitrary line.
+
+55
+00:02:29,840 --> 00:02:33,420
+This problem will be familiar to anyone who remembers the is Pluto a planet or not a planet
+
+56
+00:02:33,420 --> 00:02:37,240
+fiasco which hinged, mostly, on this same issue of size.
+
+57
+00:02:37,240 --> 00:02:39,240
+So now we're more confused than before we started.
+
+58
+00:02:39,240 --> 00:02:41,640
+There might be three continents, or dozens.
+
+59
+00:02:41,640 --> 00:02:43,240
+You know what we'll sort this out?
+
+60
+00:02:43,240 --> 00:02:44,240
+Science.
+
+61
+00:02:44,240 --> 00:02:46,760
+Confusion plus science equals answers.
+
+62
+00:02:46,760 --> 00:02:49,080
+Let's ask a geologist what a continent is.
+
+63
+00:02:49,080 --> 00:02:53,500
+For them, a continent is a tectonic plate, part of the Earth's crust that moved together.
+
+64
+00:02:53,500 --> 00:02:55,820
+So geologists, show us your continents.
+
+65
+00:02:55,820 --> 00:02:59,380
+The Antarctic plate, the Australian plate, the Eurasian plate, the South American plate,
+
+66
+00:02:59,380 --> 00:03:02,000
+the African plate, so far this is looking pretty good.
+
+67
+00:03:02,000 --> 00:03:07,100
+The Middle Eastern plate, the Indian plate, the Caribbean plate, the Pacific plate, there
+
+68
+00:03:07,100 --> 00:03:08,620
+isn't even anything there.
+
+69
+00:03:08,620 --> 00:03:10,720
+Well there's mostly nothing there.
+
+70
+00:03:10,720 --> 00:03:13,180
+The Nazca plate, the Scotia plate, really?
+
+71
+00:03:13,180 --> 00:03:15,980
+At least North America is still looking reasonable.
+
+72
+00:03:15,980 --> 00:03:19,220
+Until you include a chunk of Russia, half of Japan, and half of Iceland.
+
+73
+00:03:19,220 --> 00:03:21,720
+Well this is unhelpful, thanks a lot geologists.
+
+74
+00:03:21,720 --> 00:03:24,720
+The heart of the problem is that the word continent doesn't have a simple and consistent
+
+75
+00:03:24,720 --> 00:03:26,480
+definition for everyday use.
+
+76
+00:03:26,480 --> 00:03:28,120
+So how many continents are there?
+
+77
+00:03:28,120 --> 00:03:29,720
+Well, how many do you want there to be?
+
+78
+00:03:46,440 --> 00:03:46,940
+Six.
+
+79
+00:03:46,940 --> 00:03:48,240
+The answer is clearly six.
+

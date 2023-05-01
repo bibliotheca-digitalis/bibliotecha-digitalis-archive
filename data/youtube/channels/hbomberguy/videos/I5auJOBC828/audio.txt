@@ -1,0 +1,1168 @@
+By now you probably know what a speedrun is already.
+It's where players commit to beating a game as fast as possible.
+On the surface, it's a bit silly.
+People sitting down with one game, playing it over and over,
+dedicating immense time and effort to learning its ins and outs
+and learning skills that probably aren't all that helpful anywhere else.
+And yet, somehow, the experience of taking part in
+or even watching someone try to speedrun a game
+is exhilarating and amazing and just fun,
+and speedruns of some games frequently get millions of views.
+This clearly matters to a lot of people,
+so there's probably a reason why,
+and I was having trouble scratching out the reasons why,
+so I arrived at the obvious solution of writing a YouTube video about it.
+Speedrunning is really fun to watch,
+and stories about speedrunning are consistently fascinating,
+and I really want to talk about why,
+and no one's managed to stop me so far.
+["Souls"]
+It's generally accepted that the Souls series is pretty difficult,
+and they are, at least for beginners,
+because the games are generally not great at teaching you how to really grasp playing them.
+I've heard there's already a video out there somewhere
+that drones on and on for way too long trying to explain this,
+so we'll ignore that here.
+This difficulty is the prime reason why speedruns of games in this series
+are so entertaining to watch.
+Owing to the games' inaccessibility
+and the time investment required to get good, as it were,
+watching someone blast through them is just plain fun.
+What's interesting in a more in-depth way about speedruns, though,
+is seeing how they develop over time,
+and Dark Souls is a perfect example of why.
+Part 1.
+Development.
+The earliest speedrun on record at speedruns.com,
+a fantastic resource, by the way, for Dark Souls,
+is by Japanese runner Twilight.
+In 2011, a lot less was known about how Dark Souls really ticked,
+and there was yet to be much of a community
+to help pick away at all the possible fastest approaches to the game,
+so Twilight's run consists largely of combining general tricks
+that were widely known early on for making the game easier or faster.
+For example, in Dark Souls, there are multiple different starting classes
+with their own stats, starting items, and abilities.
+While some do have unique advantages,
+the Pyromancer starts with the ability to throw fireballs,
+something none of the others can access for quite a while,
+so it's usually the one recommended to new players
+because if they're having trouble fighting,
+they can throw fire on people.
+I mean, come on. So Twilight picks them.
+It's not really a surprise. It's kind of the obvious choice
+if you were to think about how to speedrun this game
+if you played it a few times.
+The next big choice is the starting gift.
+Players can choose something extra to start the game with
+from a list at character creation.
+Normally in Dark Souls, early on to continue deeper into the game,
+players have to go through a fairly tough area,
+fight a difficult boss to get a key to another difficult area,
+then fight another boss there to progress through
+to another difficult area called Blighttown,
+which leads down to another boss,
+which is guarding a bell you need to ring
+to progress the game,
+but for, uh, reasons,
+the developers made one of the starting items
+players can choose from a key
+that unlocks a gate in the starting area,
+which skips past two of those bosses
+right into the lower part of Blighttown,
+so it's pretty clear what item a speedrunner
+would want to start with here.
+It's just the most obviously fast and helpful choice.
+I mean, look at the other ones.
+Binoculars, a rubbish ring,
+a n-n-a more rubbish ring,
+pendant, trinket, no effect,
+black firebombs?
+What a garbage option.
+Why would anyone ever pick that?
+I don't know. I guess they're pretty good.
+I mean, they're more deadly than STD bomb.
+What? Another initially obvious trick for speedrunning
+involves this drake that turns up early on
+and hangs out up here.
+Getting a decent weapon in this game
+usually takes some time,
+but once you get to this big scary boy,
+one recommended way for new players to get an advantage
+so they don't have too hard a time starting out
+is to sit in a safe place and spam arrows at its tail
+until it breaks off, giving you this sword.
+The drake sword deals a ridiculous amount of damage
+for the place in the game where you can get it.
+It drops off in its usefulness quite quickly,
+but for early players,
+it's just a fantastic weapon to pick up,
+but instead of wasting time and arrows,
+of which they had neither,
+Twilight simply dodged behind it
+when it jumped down and cut its tail off
+and then ran to the next area.
+This is one of the most cathartic things
+you can see in a speedrun.
+You know, you spend a bunch of time dying to its fire
+or getting kicked to death,
+and then you see someone else just steal its tail
+and run away with it
+and proceed to beat people to death with it
+for the rest of the game.
+It's great.
+A lot of Twilight's early run
+consists of playing the game the way one normally would,
+but just doing more running and ignoring enemies.
+Early runs like this play the game basically as normal,
+but very quickly and precisely
+doing the most obviously easy and fast moves.
+Twilight burns all the remaining bosses
+with their hot, hot hands
+and grabs enough humanity
+that they can feed it to the Daughter of Chaos
+and open a shortcut past all the major fire-based bosses,
+which obviously would take a long time to fight
+when all your weapons are fire.
+Have you ever tried actually fighting fire with fire?
+I'm on a watch list now.
+After a lot of running past things and killing bosses,
+they gather the four Lord Souls
+required to open the big door
+to the remnants of Great Uncle Gwynn's
+mega weekend barbecue and kill him
+so someone can finally call the fire department,
+and they do it in an hour and 26 minutes in in-game time.
+This is an ungodly fast speed to finish Dark Souls,
+but there was a lot of improvement to make.
+What I think is interesting about the early runs
+through the game is that they weren't just improving
+on execution of the same route
+or finding slightly more improved paths,
+but the nature of the entire route from the very start
+was still up for debate.
+Nothing was set in stone,
+even what type of character you chose to play as,
+and it wasn't clear what the fastest way would really be,
+and that's a really fun experimental period
+in the development of a speed run.
+This is where Dark Souls runs excel
+in the spectatorship aspect.
+In lots of other games, you don't have as much choice
+or freedom in where to go or what sort of character to play
+or what weapon to use.
+There are so many other paths or decisions
+that could have been made in a Souls game
+that the next run threatens to be completely different,
+and, well, it was.
+The next world record was set three months later
+and has gone on to be the longest standing world record,
+lasting 13 months.
+It was set by another Japanese runner, Keita.
+I hope I'm pronouncing that properly.
+Ke, and then it's a neon gate, so Keita.
+KEITA.
+All right, what's really fun about this run
+was it diverged from Twilight's path immediately.
+Not only do they start the game with a different class
+right out of the gate,
+but once they make it to Firelink Shrine
+and you assume their run is gonna be similar looking
+but with slight improvements,
+they get up and immediately head in the opposite direction.
+KEITA.
+Goes to parts of the game Twilight never even sees
+in their run.
+Firstly, they go to the Valley of Drakes,
+dodge between the drakes,
+and grab the Red Tearstone Ring,
+which boosts the player's damage output
+by roughly 66% when they're below 20% health.
+By playing more riskily,
+KEITA becomes much more dangerous.
+This is the kind of improvement I love seeing in speedruns,
+learning to abuse a risk-reward mechanic
+to just get the rewards by simply playing really well.
+In a speedrun, a risk-reward item
+can very frequently become a reward.
+Then they run into Darkroot Basin
+and encounter the Black Knight there.
+Now, Black Knights are tough enemies in the early game.
+They don't take much damage
+even when you riposte or backstab them.
+You can see this is gonna take quite a-
+Oh, he's pushed him off the cliff.
+Is rewarded with the Black Knight Halberd.
+You only get this weapon for killing the knight
+like 20% of the time,
+and these knights don't respawn.
+This halberd forms the basis of KEITA's strategy,
+so if they don't get the halberd here,
+they would have to start the run again.
+There are definitely countless runs
+on the cutting room floor that ended here just because.
+You can slightly increase the chance of it dropping
+if you have more humanity on you,
+but it's still like a crapshoot.
+Now, there's a reason the last thing you fight
+before the final boss is a Black Knight with a halberd.
+Gwyn knew what was up.
+This weapon absolutely mashes most enemies and bosses.
+Then they just keep going and run all the way around
+to the Darkroot Basin entrance to the Undead Parish,
+skipping several areas completely.
+After beating the gargoyles with a regular old axe,
+they use the souls they've gained
+to level up enough to equip the halberd,
+which they can now just about wield if they two-hand it.
+Cairta had precisely figured out
+the most efficient way to get the souls they needed
+to use this weapon as early as possible.
+This means they're able to utterly destroy
+the fire bosses that Twilight had to skip completely
+because of their weapons.
+It's literally faster for Cairta to run through all this
+and kill all these bosses
+than it is to gather the materials
+required to just skip them.
+Overall, Cairta saved 15 entire minutes over Twilight
+while killing more bosses.
+Most of the current record holders in Dark Souls
+use this basic strategy now,
+but they've saved even more time
+by discovering new holes in the game to exploit,
+like by messing with the camera system
+enough to go out of bounds and enter Sen's Fortress early.
+They've improved the strategy so much
+that they don't even use the Master Key anymore.
+Instead, they use black fire bombs to...
+Oh, no.
+Black fire bombs?
+What a garbage option.
+Why would anyone ever pick that?
+I just shouldn't be allowed to talk about Dark Souls anymore.
+Someone should just fucking come and stop me
+before I make him another fucking idiot of myself.
+Could someone ever please stop me talking about Dark Sou-
+♪♪
+-♪♪
+This just goes to show how much a run can develop.
+The once really obvious main choices
+of Pyromancer, Master Key, and Drake Sword
+have all, in turn, been superseded.
+The creation and development of new runs through games
+is really, really fun to watch,
+but in a way that's hard to describe.
+It's a kind of logistical fun.
+Is that a kind of fun?
+That doesn't sound like a kind of fun.
+It reminds me of the feeling I got when I had my GPS out,
+and it told me to take a route through a park
+that I knew really well, and I was like,
+nah, I can go through that faster,
+and I walked a different route, and I got through it faster.
+It just felt amazing.
+It's a bit like the feeling I got
+when I decided I was gonna do my taxes eight months early.
+Have you ever done your taxes early?
+♪♪
+Speedrunning is for you.
+♪♪
+W-welcome, friend!
+♪♪
+Wha-?
+I have a script for this bit, but I forgot all the words.
+Part two, categorization and arbitrarin-
+No one I showed this script suggested better titles,
+so I'm just gonna have to go with these ones.
+Now, I have to admit, I've so far deliberately
+not mentioned something about the Dark Souls run.
+The progression I described is actually only one
+of several different categories of run through the game,
+one known as any% no wrong warp.
+Like I said before, most of the normal run
+is spent killing all the major bosses
+to get the Lord Souls to unlock the big door,
+which is why it was kind of a big deal
+when players figured out a way to teleport right here
+on the other side of the door without having to open it.
+The game's DLC added an arena
+where players could fight each other online.
+Swang into tomorrow!
+After beating Artorias,
+who incidentally was my favorite boss fight
+in the series until Bloodborne's DLC came out,
+you gain access to the Battle of Stoicism gazebo,
+which presumably sounds better in Japanese.
+When they join the arena through the gazebo,
+players receive a purple coward's crystal,
+which they can use to quit a fight
+and teleport back to the entrance.
+It does this by telling the game to move you
+to a certain map and position,
+the map being the main DLC area,
+and the position being the entrance to the arena.
+Now, there are other items in the game
+which work similarly,
+like the Homeward Bonio or the Dark Sign.
+They tell the game to take you to the map
+where you last rested at a bonfire
+and the position of that bonfire.
+So let's say you last rested at the bonfire
+in front of the big door.
+Barring specific circumstances,
+using one of these two items will take you back here.
+Now, you can't normally use the purple coward's crystal
+outside of the arena. It's grayed out.
+Trying to use it makes your character
+have a panic attack and think about all the times
+they said, you too, when a waiter told them
+to enjoy their food, but there's a glitch
+that allows players to use items
+even when they're not intended to
+by trying to use it,
+switching to an item they can use,
+like the Estus flask,
+while holding down the Use button still,
+running off an edge while toggling weapons,
+and pressing the Use button again on an exact frame,
+causing the player to drink the item along with the flask,
+which uses it even if you're not supposed to be able to.
+What a handy item.
+You can visit the gazebo whenever you like.
+But here's the thing.
+Using the crystal in the main game
+has a fancy long animation where you can't do anything
+as the game fades to a loading screen,
+but when you use it this way,
+you can still walk around and use items before it fades,
+so what if we used another item that teleports us
+while this other effect was going off?
+Well, to put it simply,
+the game gets confused.
+It tries to load you to the map of the last used bonfire,
+which in our case is the bonfire before the big door,
+which we cleverly napped at before coming here,
+but the position of the arena entrance.
+The arena entrance the game is looking for
+doesn't exist in this map, though,
+so instead it takes you to the pre-programmed
+default position in the level,
+and it turns out that the default position for this area
+is inside the Kiln of the First Flame,
+so now all players need to do to beat the game
+is gain access to this bonfire and the DLC battle arenas,
+and then they can warp directly to the last area.
+Oh, and also they have to perform
+an absurdly precise set of inputs
+with barely even a frame of lenience.
+Seriously, it's really hard getting this footage alone.
+Took me, like, 25 minutes,
+but if you can execute this consistently,
+which speedrunners are really good at learning to do,
+this method saves a lot of time.
+However, it was decided by the community
+to be so different from the other runs,
+since you have to both own the DLC
+and abuse a pretty major glitch,
+that all runs prior to the discovery of this glitch
+and after the discovery but which don't use it
+should be split off into their own separate category.
+At this point, the Dark Souls speedrun community
+has split the game into at least 14 different categories
+ranging from extra difficult challenges
+such as killing all the bosses
+or completing the entire game without leveling up
+to absurdist challenges like completing the game
+after collecting one of every ring item in the game.
+The Lord of the Rings run.
+That's a clever name.
+This kind of separation of a run
+into distinct categories also happened in Bloodborne.
+When the game was initially released,
+a glitch in some of the architecture
+for the game was discovered,
+resulting in the player being able to leap off
+at an angle from a coffin
+and get onto a raised section of wall,
+then do an attack at another part of a wall
+to clip through,
+skipping a whole bunch of the game.
+For example, the fight with Ghasgwagni
+and leading to the creation of a route
+which, supplemented by other tricks,
+would eventually only take about 20 minutes,
+which is utterly absurd.
+However, Bloodborne was pretty heavily patched
+after release, making lots of changes and fixes
+including that error in the architecture
+and also, incidentally, much better load times.
+This makes this run impossible to do
+on a properly patched version of the game.
+It also means the version of the game
+you would play today on an online PS4
+would be unable to do the fastest speedruns,
+which puts you at a pretty major disadvantage.
+The solution was for new categories to be created,
+so runners could run the original version
+of the game if they wanted,
+but runners could also compete using the current patch.
+The current fastest patched run of the game
+is slower by eight minutes,
+although, incidentally, because of the massive fixes
+to load times, despite the in-game timer
+telling you it's almost eight minutes slower,
+it's a minute faster to watch in real time.
+Bloodborne was messed up when it came out, wasn't it?
+Bloodborne's a really interesting game
+to run as well in general for a lot of reasons,
+one of them being the beast blood pellet,
+which adds a meter filled by dealing
+certain types of damage, and the higher the meter,
+the more damage the player both deals and receives.
+It's a bit risk-reward in normal play,
+but it's a godsend for speedrunners,
+and in some ways, it makes the game easier
+for speedrunners by specifically rewarding fast play.
+The diverging any% categories in these games
+raises interesting questions about the hobby.
+In games with multiple categories,
+which one is the real speedrun?
+Why are some glitches and tricks permitted and others not?
+Shouldn't the goal be to create the fastest singular run
+and agree on one standard set of rules
+for what the speedrun should be?
+And how does one decide when something is allowed
+and when something should be a separate category or banned?
+Well, it depends on both the game and its community.
+A game that's impacted by these questions
+in a big way is Mirror's Edge.
+Mirror's Edge is a game very close to my heart,
+to the point that I've speedrun it before as well.
+If I'd bothered to submit the run to speedruns.com,
+I'd officially be in 201st place.
+The thing about Mirror's Edge is it's a game
+about moving very quickly.
+The player character is very mobile,
+has a diverse set of moves across surfaces,
+and for picking up speed, and different ways
+of jumping onto, off of, and across things.
+There are also a lot of little ways the mechanics
+can be manipulated to go even faster.
+This makes it an ideal speed game.
+This runner just executed a trick so quickly
+at the beginning that you probably didn't even see it.
+Right as they loaded in, they turned to the side
+and did a side hop, which immediately gets them
+up to top speed.
+This is one of my favorite tricks right here.
+Normally, this pole, like, you have to slowly
+do a balancing act as you walk across it.
+You're taking your sweet old time.
+Runners have reached the point where they leap onto it
+in a straight line and don't fall off,
+and then turn and do another jump off of it,
+so they never have to do it. It's incredible.
+Playing Mirror's Edge as fast as you can,
+and then going online and checking out a speedrun
+is a really fun experience.
+There are so many nuances and specifics
+to the game's level designs and movement mechanics
+that it's just a joy to see how much extra speed
+can be teased out.
+But the game's parkour focus and aesthetic
+also poses a question for runners.
+What does it mean to speedrun?
+What does it mean to speedrun Mirror's Edge?
+There's a variety of interesting glitches
+available to exploit if you want to beat
+Mirror's Edge as fast as possible,
+but some of them significantly impact
+the way the game is played and what the experience
+of watching it is like.
+Take, for example, the out-of-bounds glitch,
+or OOB.
+Plenty of games let you get OOB of the level
+and use this to get to places meant to be reached
+through slower or harder means.
+This can be used very egregiously
+to bypass large chunks of several levels,
+and this is technically much, much faster
+than playing the game the normal way.
+But it also runs counter to the sort of principles
+that make Mirror's Edge the game you'd want to see speedrun
+in the first place, doesn't it?
+It's a game all about motion, finesse,
+clever use of controls and timing
+to skirt along the edge of the proverbial mirror,
+not to clip through it and then just win.
+Part of the fun of speedrunning is watching a game
+being played very skillfully and very quickly,
+and some tricks rub up against what some people
+would define as skillfully playing the game.
+So Mirror's Edge has multiple categories
+for the main run through the game,
+including Any% and Glitchless.
+In Any%, you can be treated to a faster run of the game
+using a lot of technical trickery
+to run across surfaces in weird and impossible ways,
+accelerate far faster than was probably ever intended,
+abuse a bizarre mistake in the wall-run kick programming
+that allows you to jump on one frame right afterwards
+like Faith had a double jump or something,
+slide into parts of the world you were never meant to see,
+have an LSD trip nightmare as every frame
+of Faith's movement is suspended before her eyes,
+and climb through moving elevators
+to shoot up into darkness.
+This run is really interesting and showcases
+some amazing tricks and moves,
+but it's also maybe not the sort of stuff
+it's fun to see specifically in a speedrun
+of this type of game.
+This is obviously highly subjective, of course,
+but the community seems to agree with me, so I win.
+In around 2013, they introduced the Glitchless category,
+which specifically prohibits using major glitches
+that alter the flow of the game in this way.
+Glitchless runs don't go out of bounds,
+don't abuse the weird extra jump you can get
+from kicking off a wall,
+and prohibit a few other specific tricks
+that some people might deem against the spirit
+of Mirror's Edge.
+Glitchless has never and will never be faster than any percent,
+but to me, at least, it's even more entertaining to watch.
+Runners in this category are navigating
+through more of the intended world of Mirror's Edge,
+which, for someone who played and really liked the game,
+is a way more interesting challenge.
+All kinds of segments that are completely avoided
+by fairly easy tricks in any percent
+have to actually be played and routed properly in Glitchless.
+Let's compare just one jump across both categories.
+Here's the entrance to the RPA building in the second level.
+This jump is one of the first properly tough jumps
+in the game. It's a long distance,
+but also involves downward traversal.
+You have to approach it at speed and jump really late,
+but also roll when you land or you get hurt.
+Either rolling or taking damage is really slow.
+A runner doesn't really want to do either of those things.
+In the current Glitchless world record,
+the runner Wreck executes an incredibly skillful maneuver
+to take full advantage of this rail here,
+so they land on the rail instead of the regular ground,
+which prevents them having to roll or take damage,
+but they also turned in midair and executed a side jump
+to immediately get back to top speed when they landed.
+This is really, really cool.
+It's really difficult to do. I can't do it.
+Here's the same part in the current Any% world record
+by Philotrax.
+Trax abuses the wall kick jump
+to effectively fly over this challenging gap,
+landing safely on some of the game's trademark
+white plant furniture stuff.
+Extrapolating tricks like this across a full game run
+makes for two very different and uniquely interesting paths
+through the game to watch.
+Earlier, I asked the question of which category
+should be considered the real speedrunner of the game,
+but I don't think there's an objective answer,
+at least for most games.
+Even in Bloodborne's case,
+using bugs that were patched out later,
+this is a version of Bloodborne that was released,
+and it beats the game as fast as possible,
+and in Mirror's Edge, maybe clipping through walls
+should be seen as just as valid a strategy as not doing so,
+but everyone gets to decide for themselves
+how to figure out what a speedrun needs to be,
+and usually there's gonna be enough people
+who feel that way that it's gonna end up
+as a speedrun category,
+and the Mirror's Edge community has come up
+with quite a lot of categories over the years.
+I've only talked about one of the extra ones so far.
+There's also Any% in bounds,
+which specifically avoids out-of-bounds glitches
+if you think going oob is wrong
+and are okay with the more advanced
+wall kick jump tricks and stuff.
+There's much more healthy competition
+when there are multiple agreed sets of rules to choose from.
+I imagine if there had only been one ruling
+for how to speedrun Mirror's Edge,
+it would be a lot less satisfying for a lot of runners
+and wouldn't have seen quite as many runners
+come and go over the years.
+One runner eventually got a job at DICE
+and worked on the sequel,
+which apparently some people even played,
+so that's nice.
+Speedrunning is a completely arbitrary challenge,
+one that most developers never even think to account for,
+so it's totally fine to have multiple ways
+of categorizing runs,
+different kinds of challenge and so on
+because some types of run are more interesting than others
+and none are really any more valid
+because they're all ultimately just silly things
+some people do for the sake of fun and competition.
+I think it's cool that even what it means
+to play a game quickly can be up for discussion sometimes.
+My favorite type of Mirror's Edge run
+is the 69 stars category, which is very nice.
+It's the category for running through all the game's
+optional time trials in one sitting
+and getting all the stars.
+It really embodies the things I enjoy the most
+about the Glitchless speedrun.
+It's just great performances utilizing mechanics
+mostly intended by the game's developers.
+Runners do awesome stuff like ignore the game's
+in-built run-ups for big jumps
+and instead make really precise movement over them
+to jump manually at the edge and make it further and faster.
+It's awesome.
+The current number one record is by Voatiem?
+Voatiem? I'm not sure,
+who got in just a teeny smidge over 21 minutes
+due to a couple of minor mistakes.
+You're kidding, right?
+Someone is going to beat 21 minutes in this category,
+and I can't wait. It's gonna be awesome.
+And because Mirror's Edge seems to inspire
+utter obsession in its fans, myself included,
+speedrun.com also has a category extension leaderboard
+for even more weirder and specific runs.
+Uh, speedrun.com slash memeem.
+Heh heh. It's pretty great.
+There's a true Glitchless category here
+for weirdo purists like me who just want to see
+the actual game played near perfectly.
+There's categories that often only even have
+one or two submitters where, like,
+runs where one runner uses the mouse
+and another uses the keyboard
+or where two runners each use half of one controller.
+Honestly, this is just getting silly now.
+What about a New Game Plus category
+where players chapter select the last segment
+and beat it in 13 seconds
+and people are genuinely down to counting milliseconds
+to figure out who was actually the fastest?
+What about RBO, reverse boss order,
+where runners chapter select to each boss in the game
+in reverse order and time beating each of them?
+What about reverse RBO, where they do RBO backwards?
+Why would you do it like that?
+That's just boss. Why is it called that?
+How about Any% x 25,
+where one runner has decided to run the game
+25 times in a row,
+which took over 17 hours
+and which they openly declare no one will ever beat?
+What the fuck are your sidesteps right now?
+I told you I'm not even paying attention anymore.
+Why would you do this, Hekigan?
+Was your 60-millisecond lead in New Game Plus
+not enough anymore? Did you need something stronger?
+What are you doing to yourself?
+This is also where the segmented speedrun lives
+with various runners including the aforementioned Hekigan,
+Votime, Votime,
+Philotrax, and Wreck all contributing small segments
+to produce an absolutely incredible run.
+It's a fabulous expression of a community's commitment
+to beating a game as fast as possible
+and their years of developing skills
+and learning more and more about how the game works.
+I love it. Link in the description.
+Just give it a look. It's just great.
+There's a tremendous sense of community to speedrunning.
+People share information and discoveries,
+discuss theories together,
+and all the tricks used in runs are by their nature
+immediately available for further analysis
+and use in other runs.
+I remember, like, way back in the day,
+like, in 2014, like, I was in a Skype call
+with some other SMS runners.
+We were watching Tobu do some runs,
+and we've never seen that spin jump before,
+and it just, like, it blew our minds.
+We're like, okay, I'm never gonna go for that,
+and that was just, like, commonplace,
+so that just goes to show, like,
+how far this game has come.
+Yeah. Speedrunning is an almost
+inherently collectivist activity in this sense.
+While there is competition to be the best
+and take or hold the record,
+almost no record holder has completely earned
+that position all on their own.
+The best runs owe a debt to the discoveries
+and ideas contributed by previous runners.
+The best run is often representative
+of many people's contributions
+alongside the runner's own skill, of course.
+In a sense, speedruns are always a group effort.
+It's really not surprising that awesome charity events
+like GDQ have emerged from this space.
+It's just a grander scaled version
+of what speedrunning had kind of always been.
+You can't copyright a technique or strategy
+for beating a video game quickly.
+There are no patents in speedrunning.
+Proving that you got a time
+or even getting the fastest time
+isn't just an achievement or personal victory.
+It's also automatically a contribution
+to the greater community effort,
+and that's radical.
+But speedrunning isn't always about socialism.
+Sometimes it's about beating video games very quickly.
+Part three, in-depth investigation.
+Actually, no, I've thought of a better title for this one.
+Donkey Kong.
+Ah!
+["DONKEY KONG 64 THEME"]
+["DONKEY KONG 64 THEME"]
+Donkey Kong 64 is a game by Rareware
+for the Nintendo 64.
+Oh, you don't need to know that part.
+It's very much the embodiment of the stereotypes
+about Rare's games for the time period.
+Large levels full of hundreds of different specific items
+you have to collect to unlock more things to collect.
+For instance, each level has 500 bananas,
+but what makes it particularly troublesome
+is that some items are specifically
+for one of the five characters you play.
+To collect enough stuff to progress,
+you'd have to traverse the same environments
+over and over with every character,
+and the levels were often really big.
+At the time, it made the game feel big
+and like a cool, sprawling adventure
+that lasted a long time and had a lot of chances
+to see how each character can progress
+through the same environment
+using their own skills and abilities.
+That's because I was seven years old.
+["BOOM"]
+Now it just feels like time-consuming busywork.
+Lots of this was completely unnecessary
+from a design standpoint, too.
+You could design a game with collectibles
+only one character could reach in the first place
+instead of most of the time just having them
+hanging out there, faded out,
+reminding you you're gonna have to come back here again
+with another character,
+and running back to that barrel that changes characters
+because you need to pick something else up is awful.
+Running back to previously completed levels
+because you finally have the characters you needed
+to pick up those bananas you'd already walked past
+eight times is a more painful tragedy
+than Titus Andronicus.
+I would cut off my hand and send it to Emperor Saturninus
+if it meant I could have just picked that banana up
+four hours ago with Daddy Kong instead of Yankle Kong.
+I can feel my cells dividing
+as my precious existence rushes toward its finite end
+with nothing in the world to beguile my sorrow
+but the sweet siren song of,
+ooh, banana.
+Donkey Kong 64 is an existential crisis
+in the form of a video game cartridge.
+I'm actually more aware of the futility of my existence
+after trying to go back and play this.
+Now, I could sit you down and explain the progression
+of the Donkey Kong 64 Any% run to you
+like it was the back of my hand,
+but firstly, there's already a video
+by Summoning Salt out there doing just that,
+and that video's better than anything I could do,
+so you should just go check that one out,
+and secondly, well, to be honest,
+I've seen a lot of speedruns at this point,
+and I'm kind of used to it, you know?
+Oh, yeah, Donkey Kong 64,
+a game I beat in 72 hours as a kid
+being beaten by a professional in 30 minutes.
+Yeah, sure, that's impressive.
+To a clown at the circus, I need something stronger.
+I've built up a tolerance to this stuff.
+We need to go deeper and darker.
+We need to talk about the players who will settle
+for nothing more than total conquest,
+and no, I'm not talking about
+Donkey Kong Country 2 Diddy's Kong Quest.
+You get it's a pun.
+No, I'm talking about the Donkey Kong 64 100% speedrun.
+Yeah.
+Well, technically, it's the 101% speedrun
+because Rareware were pretty good
+at ironically recognizing that they'd put
+way too many collectibles in their goddamn game.
+To achieve 101% completion,
+players must collect the Nintendo coin,
+the Rareware coin, all eight keys,
+all ten battle crowns, all 20 fairies,
+all 201 golden bananas,
+and all 40 banana medals,
+each of which is awarded for collecting
+75 of a Kong's bananas in a level
+for a total of 3,000 bananas.
+Hey, but sometimes they come in little bunches of five.
+Thanks, Donkey Kong.
+The rules list for this run on speedrun.com
+actually includes the stipulation
+that to submit runs for this category,
+you must hate yourself.
+Runners in this category endure such supreme torments
+that one of them fucking streamed themselves
+breaking their cartridge to make sure it was over.
+This is my DK cart.
+Fun fact.
+Did you know that the PAL version
+of the Donkey Kong 64 cartridge was gray,
+but the US retail version was banana yellow?
+Heh, you learn something new every day.
+This run is challenging in far more ways
+than the traditional run.
+In that run, your objective is fairly simple.
+Find the fastest way to the end,
+whatever that way may be,
+abusing cutscene glitches,
+level skips, moon jumps, et cetera,
+effectively ending up with runs
+where you do as little as possible.
+This run's core is having to actually do
+everything the game asks of you,
+planning the most efficient route possible
+through all of it,
+and then somehow actually doing it all
+precisely and quickly,
+but with hundreds of golden bananas to collect,
+and some of these can be very challenging,
+and thousands of bananas!
+Executing on all of this in succession
+introduces a new kind of test for these runners,
+resilience.
+Paradoxically, as with the Beast Blood pellet,
+when quicker strategies are found,
+often that makes the game easier to beat
+because the length of time you have to focus
+on execution has gotten shorter.
+You only have to pull off 30 minutes of good stuff
+to beat the Any% run in 30 minutes.
+If something takes around five hours to beat,
+that's five hours of time to make mistakes in.
+Five hours to get tired or lose focus
+or slip from your intended most efficient path.
+These runs are essentially torture,
+and they're amazing.
+There's a three-year-old run by German runner 360 Chris M.
+that took 19 hours and 53 minutes.
+The best part of this run is it has face cam.
+You can watch in real time as the sun sets and rises,
+and he gets ever closer to making it to the end.
+He no-sells it, too.
+Like, by the end, he still doesn't seem that tired.
+It's kind of awesome.
+Despite there being plenty of runs
+that are way, way more optimized,
+the better runs push the five-and-a-half-hours mark,
+there's something very special about runs like this one
+where they probably know their planned route
+is gonna take them a full day,
+but they sit down and do it.
+I kind of love runs like this just for their sheer dedication
+regardless of how efficient they are.
+Yeah!
+Whoo!
+Sub 20, boys!
+PB, boys. I PB'd by, uh,
+four hours and six minutes.
+Pretty solid.
+Wait, his last attempt took nearly 25 hou—
+Holy shi—
+The various runs of this game have led players
+to look very closely at almost every aspect,
+even going so far as using hacking software
+to analyze the code in detail,
+looking for anything that can be exploited
+to make runs faster.
+DK64 has been investigated in a level of detail
+greater than the developers could have ever intended
+or expected, and that's led to new discoveries
+but also to something really cool.
+Enter Isotarge.
+Isotarge is a runner with a really respectable time
+in the any% category,
+but it's also the longest-standing run
+in the top ten by far.
+In fact, it was the world record for six months back in 2015.
+Isotarge has made a lot of contributions to the community,
+including spending a lot of time digging around
+inside the game's code, finding new glitches
+and holes in world geometry and so on,
+anything that could be exploited to get better runs.
+Isotarge has found a lot of cool stuff in the game,
+including this image of a Rareware employee's face
+hidden inside the game's files,
+which looks like it's been edited in a Game Boy Camera,
+but they've also found stuff like this.
+Out-of-bounds collectibles.
+It's common for developers to leave items and objects
+in places players can't get to in the game proper
+and not worry about removing them,
+like this coin hidden in a wall in Mario 64
+that someone actually figured out how to get,
+and since these items exist well outside
+the intended scope of the game,
+runs don't usually consider them collectibles
+as part of a run.
+They're more cool oddities
+that shouldn't really be considered as game objects
+to be collected.
+But what if an item was absolutely collectible
+without any glitches,
+but no one had found it before?
+One day when messing around in the game's code
+looking for flags for collectible objects,
+Isotarge found a banana coin
+that hadn't been accounted for in the level Fungi Forest.
+Banana coins in DK64 are used to buy items and upgrades,
+and because this is Donkey Kong 64,
+there are six different kinds of banana coin.
+There's one color for each character,
+but also a multicolored one,
+which is usually hard to find
+and gives five coins to every character
+as soon as it's collected.
+There's only 15 of them in the game,
+one in each level except Angry Aztec,
+which has two, and seven in the hub world of DK Isles.
+This new coin wasn't any of the ones
+that had been collected before,
+but unlike the other items,
+this one wasn't out of bounds.
+It was hidden in a place no one had ever thought to check,
+hidden in the tall grass in the level,
+right about hee- no, wait, sorry,
+right about...
+here.
+And there it is.
+As far as I can tell,
+this coin isn't mentioned anywhere on the Internet
+prior to its discovery by Isotarge in the game's code,
+and it's not in any strategy guide
+from the time period I can get my hands on.
+It's not really known whether the developers
+put this coin here intentionally,
+or forgot to remove it,
+or why they thought to give so little indication it was there.
+It's easy to see why it was missed for so long.
+Now, a cool kicker to this story
+would be that it invalidated all the 101% runs,
+or it turned out that there are now technically
+102% runs or something,
+but banana coins aren't counted for percentages
+on the game's menu screen,
+and the total amount of coins you can get
+isn't even listed in the game anywhere.
+The 101% run doesn't even include all of the bananas
+because the game only counts banana medals
+towards completion, so they don't even get
+all the bananas in the runs where you get 101% completion,
+which is a bit of a disappointment, really.
+You should get them all next time.
+To amuse me.
+Here's the SGDQ run in 2017,
+soon after the coin was discovered,
+where they just stopped to get it for kicks.
+Lo and behold, it is...
+the Rainbow Coin!
+Yeah.
+Uh, that Rainbow Coin has been hidden
+basically since the game came out,
+so, uh, over 16 years, right?
+It's not technically a major discovery,
+and it changes nothing about how the game is run
+in the main categories,
+outside of what are essentially
+ultra-masochistic jokes that people only really do
+just to be one of the two people who ever did it at all,
+but it's still a really, really cool discovery.
+Something was hidden just out of plain sight,
+even to the people who would make a point
+of collecting everything in the game
+for 17 years.
+What's fun about the Banana Coin
+is that it's kind of an abstract example
+of how awesome speedrunning communities are
+for deconstructing and examining games.
+Like, people are so dedicated
+to coming to an understanding of a game,
+they're uncovering things which probably would've remained
+hidden forever otherwise.
+And that's just neat, no matter how you peel it.
+Oh, God, did I just say...
+Why is speedrunning awesome?
+Because people are awesome.
+Because watching someone try something
+over and over again, getting better and better,
+and learning new secrets and strategies
+in order to be the best at something,
+sometimes for years,
+is compelling and fascinating and human
+in a way that no other form of media,
+no television show could ever adequately replicate,
+because a real human person
+is sitting right there and doing it.
+I opened this video using clips
+from an attempt to finish Zelda Ocarina of Time
+in the Any% category by skater82297.
+This video in particular is one of my favorites.
+This guy's been hammering away at Zelda Ocarina of Time
+since at least 2014,
+shaving seconds, fractions of seconds,
+off of his personal best.
+Here's a cool trick. On speedrun.com,
+you can actually click to see all of the obsoleted runs,
+runs that a runner has themselves gone on to supersede.
+If you turn that on,
+this guy basically is the top 20 fastest runs of Zelda
+of all time.
+But he didn't have number one.
+Someone else was faster than him.
+So he just kept going and going.
+And you can see all of his runs.
+And live on his channel,
+you could have seen all of the many, many attempts
+that went into even getting those runs.
+And in this run, you see him get annoyed
+by the tiniest things.
+Goma doesn't activate for about a second longer
+than he thinks it should,
+and it just frustrates the hell out of him.
+Dude.
+Fuck you!
+Fuck you!
+Fuck you! Fuck you!
+Fuck you.
+No. Fucking shit, dude.
+Fuck off.
+I'm mad. Now fuck off.
+He's angry about this boss not spawning fast enough,
+even though he can kill it in seconds flat.
+That was bullshit, dude.
+That was utter shit.
+That was bullshit.
+A random onlooker would wonder why someone did this to themselves,
+did something over and over,
+even though it clearly wasn't any fun for them.
+But then, they get deeper and deeper into the run.
+And they start to realize that this might be the one.
+The tone changes.
+Things get quiet.
+This might be happening.
+Is it happening?
+Oh, my God. Oh, my God.
+Oh, my God.
+Towards the end, he can barely even control his breathing.
+He's panicking. He's anxious.
+But he knows that if he can just execute on the ideas
+that he's been developing for years,
+this might be it.
+Oh, my God, dude!
+Oh, my fucking God!
+Oh!
+Okay. Okay.
+Yes, dude!
+Fucking yes!
+Yes!
+Oh, my God!
+Yes!
+Yes!
+Yes, dude!
+Oh, my God!
+Yes!
+Oh, my God!
+Oh, my God, dude!
+This run is currently the fastest run anyone has ever done
+of The Legend of Zelda Ocarina of Time.
+And then, in that moment,
+in that period of being utterly overjoyed at this achievement,
+it becomes clear why people do this.
+And what you can get from this that you can't get anywhere else.
+It's a story.
+Not something written or directed by someone.
+A real human story.
+It's a story of perseverance and triumph.
+And it's derived from something so small and silly-seeming,
+but that only makes it more beautiful in a way.
+And the best part is, the story's not over.
+There's almost always more to learn about how to run any given game.
+Always someone trying to beat the record.
+And anyone can be a part of that.
+Or, at the very least, anyone can be there to watch it happen.
+This is probably why so many people tune in to events like GDQ
+and even donate money to support work that helps keep people alive
+so they can spend time with the people they love.
+Or, you know, watching speedruns.
+Hmm.
+Hmm.
+Okay, I have to admit, I told a bit of a porky pie earlier.
+That's Cockney rhyming slang for lie,
+which I clearly know, obvious Cockney, that I am.
+I never actually beat Donkey Kong 64 as a kid.
+I played it for 72 hours, and then I couldn't beat
+the Donkey Kong arcade part near the end,
+which you need to do to unlock the final boss fight.
+So I had 72 hours of play and nothing to show for it.
+And, frankly, that's piss.
+So to finally put this little fucker to rest,
+I'm gonna stream it.
+I'm gonna start the game again,
+and I'm gonna get absolutely everything in that game,
+including the rainbow coin just to bring everything full circle,
+and I'm gonna get absolutely everything, all the bananas,
+not the minimum required for 101% completion,
+and I'm not gonna stop until it's done.
+I might, I will, fall asleep in my chair.
+I'm not that resilient, although it is currently,
+no joke, 2.41 a.m.
+Hope you can see that.
+So I might do okay, but I should probably rig it up
+so that if anyone donates, an air horn will go off
+and wake me up. Let's just torture me
+for other people's enjoyment.
+And all the donations will go to charity.
+So finally some good can come out of Donkey Kong 64,
+because certainly no fun has come out of it.
+Anyway, thanks for watching this video.
+Um, it's really just a love letter to the speedrunning community
+because I just find it's been such a fulfilling part of my life,
+and it looks like a lot of other people's.
+A lot of gaming spaces can be pretty clicky at times,
+and I think speedrunning has generally avoided that
+with a lot of sort of close-knit but quite friendly communities.
+A lot of people were really forthcoming with information
+when I was doing research for this video,
+and that was just really awesome, and I just think it's cool
+how people can share the things they enjoy
+and learn more about stuff and occasionally raise
+quite a lot of money for some really good causes.
+I just think the whole thing is so fun and kind
+in a way that you don't see very often.
+So, yeah, just thought it was nice.
+Probably could have thought of a clever ending to this video,
+but...
+Uh...

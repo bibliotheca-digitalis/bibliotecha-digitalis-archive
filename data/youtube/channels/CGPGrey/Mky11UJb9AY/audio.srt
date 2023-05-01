@@ -1,0 +1,384 @@
+1
+00:00:00,000 --> 00:00:03,540
+Queen Lion of the Animal Kingdom is giving more democracy to her citizens by adding a
+
+2
+00:00:03,540 --> 00:00:05,780
+legislative branch to the government.
+
+3
+00:00:05,780 --> 00:00:08,880
+The citizens each get one vote and are divided into ranges.
+
+4
+00:00:08,880 --> 00:00:13,240
+Each range will elect one representative to send to the newly created Jungle Council.
+
+5
+00:00:13,240 --> 00:00:16,360
+To best understand how the system works, let's take a look at a small colony where there
+
+6
+00:00:16,360 --> 00:00:19,860
+are just two political parties, the Buffalo and Jackalope.
+
+7
+00:00:19,860 --> 00:00:22,080
+This colony is divided into four ranges.
+
+8
+00:00:22,080 --> 00:00:25,520
+In the first election, Jackalope candidates win two of them and Buffalo candidates win
+
+9
+00:00:25,520 --> 00:00:26,760
+the rest.
+
+10
+00:00:26,760 --> 00:00:30,700
+All is well for several election cycles until the Animal Kingdom census taker comes around
+
+11
+00:00:30,700 --> 00:00:33,740
+and shows that the population has both moved and grown.
+
+12
+00:00:33,740 --> 00:00:37,240
+To better represent the larger population, a new seat is added to the Jungle Council
+
+13
+00:00:37,240 --> 00:00:40,080
+so the range's boundaries must be redrawn.
+
+14
+00:00:40,080 --> 00:00:41,920
+This is where the trouble begins.
+
+15
+00:00:41,920 --> 00:00:44,820
+Redrawing electoral boundaries is a huge political problem.
+
+16
+00:00:44,820 --> 00:00:48,760
+To help them, the representatives of the Jungle Council hire a Weasle-y consultant to figure
+
+17
+00:00:48,760 --> 00:00:51,120
+out where the new boundaries should go.
+
+18
+00:00:51,120 --> 00:00:55,320
+If Weasle draws rectangular boundaries, everything will be okay because the Jungle Council will,
+
+19
+00:00:55,320 --> 00:00:58,360
+as close as possible, reflect how the citizens vote.
+
+20
+00:00:58,360 --> 00:01:00,240
+However, Weasle doesn't do this.
+
+21
+00:01:00,240 --> 00:01:04,640
+Instead, he tells the Buffalo party that, for a price, he can turn their slim majority
+
+22
+00:01:04,640 --> 00:01:07,400
+into a landslide victory in the election.
+
+23
+00:01:07,400 --> 00:01:10,660
+With a supermajority on the Jungle Council, the Buffalo wouldn't have to listen to those
+
+24
+00:01:10,660 --> 00:01:15,000
+pesky Jackalope filibusters anymore, so the Buffalo gladly pay up.
+
+25
+00:01:15,000 --> 00:01:16,760
+How can Weasle deliver on his promise?
+
+26
+00:01:16,760 --> 00:01:18,320
+It's depressingly simple.
+
+27
+00:01:18,320 --> 00:01:21,920
+By packing together as many Jackalope voters into one range as possible and spreading the
+
+28
+00:01:21,920 --> 00:01:25,840
+rest of them out, the Buffalo party can win an additional seat without any voters switching
+
+29
+00:01:25,840 --> 00:01:27,160
+allegiance.
+
+30
+00:01:27,160 --> 00:01:30,600
+What Weasle and the Buffalo have done is called gerrymandering, the intentional changing of
+
+31
+00:01:30,600 --> 00:01:33,200
+electoral boundaries for their benefit.
+
+32
+00:01:33,200 --> 00:01:37,200
+Several election cycles later, the underrepresented and disgruntled Jackalope party approaches
+
+33
+00:01:37,200 --> 00:01:41,920
+Weasle and asks if he can manipulate the ranges to be in their favor instead of in the Buffalo's.
+
+34
+00:01:41,920 --> 00:01:43,520
+Why indeed he can?
+
+35
+00:01:43,520 --> 00:01:47,360
+Using the same trick, Weasle packs Buffalo voters into a few ranges and spreads the rest
+
+36
+00:01:47,360 --> 00:01:49,520
+among the Jackalope supporters.
+
+37
+00:01:49,720 --> 00:01:54,160
+After the election, the Jackalopes, who represent a minority of voters, are now nonetheless
+
+38
+00:01:54,160 --> 00:01:57,440
+the majority party on the Jungle Council.
+
+39
+00:01:57,440 --> 00:02:00,000
+This is the terrible power of gerrymandering.
+
+40
+00:02:00,000 --> 00:02:04,280
+Weasle can take the exact same voters and get either party to win the election.
+
+41
+00:02:04,280 --> 00:02:08,100
+Unsurprisingly, Weasle's business grows and eventually every colony in the animal kingdom
+
+42
+00:02:08,100 --> 00:02:10,560
+pays him to gerrymander their ranges.
+
+43
+00:02:10,560 --> 00:02:13,960
+With so many clients, Weasle now uses his computer to test hundreds of thousands of
+
+44
+00:02:13,960 --> 00:02:18,020
+range combinations with elaborate statistical models of voter behavior to get the results
+
+45
+00:02:18,020 --> 00:02:19,320
+he needs.
+
+46
+00:02:19,320 --> 00:02:22,920
+Queen Lion has seen what Weasle is up to and banishes him from her kingdom.
+
+47
+00:02:22,920 --> 00:02:27,260
+But the census taker reminds her that ranges still need to be redrawn as the population
+
+48
+00:02:27,260 --> 00:02:29,920
+changes, so how is it going to be decided?
+
+49
+00:02:29,920 --> 00:02:33,680
+Queen Lion suggests the obvious solution, a bipartisan committee must agree on all new
+
+50
+00:02:33,680 --> 00:02:35,280
+range boundaries.
+
+51
+00:02:35,280 --> 00:02:36,660
+This seems like a good idea.
+
+52
+00:02:36,660 --> 00:02:39,760
+After all, if both parties have to agree on the ranges, then they must end up being fair
+
+53
+00:02:39,760 --> 00:02:41,200
+to everyone.
+
+54
+00:02:41,200 --> 00:02:45,280
+But after a few election cycles using this solution, Queen Lion notices that she always
+
+55
+00:02:45,280 --> 00:02:48,300
+sees the same faces on the Jungle Council.
+
+56
+00:02:48,300 --> 00:02:51,040
+Representatives almost never get defeated in their elections.
+
+57
+00:02:51,040 --> 00:02:54,480
+It turns out that the interests of the representatives and the interests of the citizens are not
+
+58
+00:02:54,480 --> 00:02:55,900
+the same.
+
+59
+00:02:55,900 --> 00:02:59,440
+Citizens want elections where the candidates have to earn their vote, these are close elections
+
+60
+00:02:59,440 --> 00:03:02,120
+where either candidate has a chance of winning.
+
+61
+00:03:02,120 --> 00:03:06,360
+But representatives don't want close elections, they want safe elections.
+
+62
+00:03:06,360 --> 00:03:09,680
+Elections where they run in a range that is filled with supporters.
+
+63
+00:03:09,680 --> 00:03:12,920
+Because the representatives are in charge of the boundaries, they make the safest ranges
+
+64
+00:03:12,920 --> 00:03:13,920
+possible.
+
+65
+00:03:13,920 --> 00:03:15,760
+So bipartisan committees are not enough.
+
+66
+00:03:15,760 --> 00:03:18,440
+To truly fix gerrymandering, there are three options.
+
+67
+00:03:18,440 --> 00:03:22,040
+The first is to set up a politically independent commission of appointed experts or judges
+
+68
+00:03:22,040 --> 00:03:24,060
+to draw the boundaries.
+
+69
+00:03:24,060 --> 00:03:26,920
+Independent commissions are much better than bipartisan committees, but still not ideal
+
+70
+00:03:26,920 --> 00:03:30,600
+because they usually group similar areas together, so the elections are uncompetitive.
+
+71
+00:03:30,600 --> 00:03:34,840
+And there's always the possibility that the independent commission is not as independent
+
+72
+00:03:34,840 --> 00:03:36,200
+as it appears.
+
+73
+00:03:36,200 --> 00:03:38,840
+The second option is to let math decide the boundaries.
+
+74
+00:03:38,840 --> 00:03:42,840
+There are a number of ways to mathematically divide an area into equally populous ranges.
+
+75
+00:03:42,840 --> 00:03:46,080
+The simplest example of this is called the shortest split line method.
+
+76
+00:03:46,080 --> 00:03:49,500
+Find the shortest line that splits the voters in twain, and repeat as necessary until all
+
+77
+00:03:49,500 --> 00:03:51,320
+the ranges are made.
+
+78
+00:03:51,320 --> 00:03:54,500
+This is much better than an independent commission, but it does have the problem of occasionally
+
+79
+00:03:54,500 --> 00:03:57,800
+producing skewed election results just through the pure bad luck of where the boundaries
+
+80
+00:03:57,800 --> 00:03:59,280
+are drawn.
+
+81
+00:03:59,280 --> 00:04:03,400
+But by publishing the algorithm used, all citizens can check the results and be confident
+
+82
+00:04:03,400 --> 00:04:06,240
+that there is no intentional bias in the system.
+
+83
+00:04:06,240 --> 00:04:11,180
+The last solution is an unexpected one, hire back the weasel and embrace gerrymandering.
+
+84
+00:04:11,180 --> 00:04:15,140
+But this time, pay him to make the winners most closely match the voters as a whole.
+
+85
+00:04:15,140 --> 00:04:19,260
+While it seems unsavory, this is actually the best way to avoid disproportionate representation,
+
+86
+00:04:19,260 --> 00:04:22,780
+which is, by far, the worst problem of gerrymandering.
+
+87
+00:04:22,780 --> 00:04:26,020
+But considering these three solutions leaves Queen Lion grumpy.
+
+88
+00:04:26,020 --> 00:04:29,900
+The first two are improvements, but still may result in uncompetitive elections or disproportionate
+
+89
+00:04:29,900 --> 00:04:33,420
+results, while the third just feels wrong.
+
+90
+00:04:33,420 --> 00:04:36,740
+Gerrymandering to avoid the problems of gerrymandering is… odd.
+
+91
+00:04:36,740 --> 00:04:40,200
+Remembering what she learned about voting before, she realizes that all this gerrymandering
+
+92
+00:04:40,240 --> 00:04:44,240
+is really just a symptom of a more fundamental problem, the method by which each citizen
+
+93
+00:04:44,240 --> 00:04:47,720
+gets only one vote and elects only one representative.
+
+94
+00:04:47,720 --> 00:04:51,080
+There are ways to eliminate gerrymandering and restore competitive elections to make
+
+95
+00:04:51,080 --> 00:04:55,340
+her citizens happy, but to do that, Queen Lion is going to have to make some big, fundamental
+
+96
+00:04:55,340 --> 00:04:56,680
+changes to her democracy.
+

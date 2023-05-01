@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:04,660
+Once upon a time, a dragon tyrannized the kingdom.
+
+2
+00:00:04,660 --> 00:00:12,700
+Covered with thick black scales, its eyes glowed with hate, and from its terrible jaws flowed evil-smelling slime.
+
+3
+00:00:12,700 --> 00:00:14,780
+Some tried to fight the dragon.
+
+4
+00:00:14,780 --> 00:00:18,460
+Priests and magicians called down curses to no avail.
+
+5
+00:00:18,460 --> 00:00:23,660
+Warriors armed with the best weapons attacked, only to be incinerated.
+
+6
+00:00:23,660 --> 00:00:31,780
+The dragon's claws, jaws, and fire were so effective, its scaly armor so hard, as to make it invincible.
+
+7
+00:00:31,780 --> 00:00:35,220
+The dragon demanded from humankind a tribute.
+
+8
+00:00:35,220 --> 00:00:42,620
+Ten thousand men and women randomly chosen to be delivered every evening to the foot of the mountain to be eaten.
+
+9
+00:00:42,620 --> 00:00:48,940
+The king and the kingdom, their weapons useless, had no choice but to pay the grisly tribute,
+
+10
+00:00:48,940 --> 00:00:53,180
+to suffer the misery, to feed the insatiable hunger.
+
+11
+00:00:53,180 --> 00:01:00,100
+And humans, ever adaptable, came to accept the dragon tyrant as a fact of life,
+
+12
+00:01:00,100 --> 00:01:06,100
+knowing, even embracing, that everyone's final moments would be in its maw.
+
+13
+00:01:06,100 --> 00:01:08,820
+How could the world be otherwise?
+
+14
+00:01:08,820 --> 00:01:13,820
+The kingdom began to teach its children that the dragon had its place in the natural order,
+
+15
+00:01:13,820 --> 00:01:19,540
+and the very meaning of being human to end up in the dragon's stomach.
+
+16
+00:01:19,580 --> 00:01:23,660
+Their shorter lives motivating them to lead good lives.
+
+17
+00:01:23,660 --> 00:01:30,100
+And the dragon was helping the kingdom by keeping the population from growing too fast.
+
+18
+00:01:30,100 --> 00:01:33,820
+Learning this, attacks on the dragon ceased.
+
+19
+00:01:33,820 --> 00:01:36,900
+But the kingdom still grew, slowly.
+
+20
+00:01:36,900 --> 00:01:45,900
+And with it, so did the dragon, becoming as big as the mountain on which it lived, its appetite increasing.
+
+21
+00:01:45,900 --> 00:01:51,100
+The logistics of collecting and transporting so many every day to the mountain
+
+22
+00:01:51,100 --> 00:01:56,500
+came to occupy the king's mind more than the deaths and the dragon itself.
+
+23
+00:01:56,500 --> 00:02:00,660
+The king had to hire registrars to keep track of who would be sent.
+
+24
+00:02:00,660 --> 00:02:04,540
+There were people collectors dispatched to fetch the designated victims,
+
+25
+00:02:04,540 --> 00:02:09,020
+there were clerks who administered the pensions to be paid to decimated families,
+
+26
+00:02:09,020 --> 00:02:13,540
+and there were comforters who would travel with the doomed on their way to the dragon,
+
+27
+00:02:13,540 --> 00:02:16,420
+trying to ease the anguish.
+
+28
+00:02:16,420 --> 00:02:22,780
+And there were dragonologists who studied how these logistic processes could be made more efficient.
+
+29
+00:02:22,780 --> 00:02:28,540
+Steam engines were invented and a railway constructed leading to the dragon's abode.
+
+30
+00:02:28,540 --> 00:02:34,140
+Trains arrived at the mountain terminal crammed with people and returned empty.
+
+31
+00:02:34,140 --> 00:02:39,380
+Some dragonologists also studied the dragon's behavior and collected samples.
+
+32
+00:02:39,420 --> 00:02:44,860
+Its shed scales, the slime, the excrement speckled with fragments of human bone.
+
+33
+00:02:44,860 --> 00:02:50,620
+The more the beast was understood, the more its invincibility confirmed.
+
+34
+00:02:50,620 --> 00:02:54,420
+But humanity is a curious species.
+
+35
+00:02:54,420 --> 00:02:58,180
+Every once in a while, someone gets a good idea.
+
+36
+00:02:58,180 --> 00:03:02,220
+Others copy the idea, adding to it their own improvements.
+
+37
+00:03:02,220 --> 00:03:06,260
+Over time, many wondrous tools and systems are developed.
+
+38
+00:03:06,260 --> 00:03:10,460
+Some of these tools make it easier to generate new ideas.
+
+39
+00:03:10,460 --> 00:03:15,940
+Thus, the great wheel of invention, which in the older ages turned imperceptibly slow,
+
+40
+00:03:15,940 --> 00:03:21,340
+began to accelerate and humans did what would have seemed magic before,
+
+41
+00:03:21,340 --> 00:03:24,460
+communicating instantly across great distance,
+
+42
+00:03:24,460 --> 00:03:29,620
+building machines that could fly and many other astonishing things.
+
+43
+00:03:29,620 --> 00:03:33,780
+A few dragonologists argued it might be time for a new attack.
+
+44
+00:03:33,780 --> 00:03:39,020
+One had invented a material so sharp it could pierce a dragon's scale.
+
+45
+00:03:39,020 --> 00:03:44,220
+It would not be easy, but if a huge projectile could be made out of this material
+
+46
+00:03:44,220 --> 00:03:47,380
+and launched with sufficient force and sufficient precision,
+
+47
+00:03:47,380 --> 00:03:51,020
+it might penetrate the dragon's armor.
+
+48
+00:03:51,020 --> 00:03:57,340
+However, it would be difficult and expensive and time-consuming to do.
+
+49
+00:03:57,340 --> 00:04:01,460
+The dragonologists explained their proposal to anyone who would listen.
+
+50
+00:04:01,460 --> 00:04:03,220
+But the people were skeptical.
+
+51
+00:04:03,220 --> 00:04:05,980
+They had been taught the dragon tyrant was invincible
+
+52
+00:04:05,980 --> 00:04:09,540
+and the sacrifices it demanded a fact of life.
+
+53
+00:04:09,540 --> 00:04:14,060
+Yet when they learnt about the new material and the idea for a projectile,
+
+54
+00:04:14,060 --> 00:04:16,500
+many became intrigued.
+
+55
+00:04:16,500 --> 00:04:20,980
+When the king read about the plans, he decided to hold an open hearing.
+
+56
+00:04:20,980 --> 00:04:27,500
+It took place on the last and darkest day of the year in the largest hall of the royal castle.
+
+57
+00:04:27,500 --> 00:04:31,540
+People packed into every last seat and crowded the aisles.
+
+58
+00:04:31,580 --> 00:04:38,780
+The king's advisor spoke first, telling the people it was best they accept the inevitability of the dragon.
+
+59
+00:04:38,780 --> 00:04:45,540
+And the dragon administration department provided many jobs that would be lost were the dragon slaughtered.
+
+60
+00:04:45,540 --> 00:04:51,700
+And in any case, the kingdom's coffers were empty after building the new railway.
+
+61
+00:04:51,700 --> 00:04:56,300
+Next, the leading dragonologist explained how the proposed device would work,
+
+62
+00:04:56,300 --> 00:05:00,660
+how the requisite amount of new invented material could be manufactured.
+
+63
+00:05:00,660 --> 00:05:06,980
+Given the requested amount of funding, it may be possible to complete the work in 15 to 20 years,
+
+64
+00:05:06,980 --> 00:05:09,700
+with greater funding, maybe 12.
+
+65
+00:05:09,700 --> 00:05:13,060
+However, there could be no guarantee.
+
+66
+00:05:13,060 --> 00:05:17,500
+Last to speak was the king's advisor for morality.
+
+67
+00:05:17,500 --> 00:05:19,660
+Let us grant, he said.
+
+68
+00:05:19,660 --> 00:05:25,340
+The project is technologically possible, though it hasn't been proven to me.
+
+69
+00:05:25,340 --> 00:05:29,900
+Presumably, you think you've got the right not to be chewed up.
+
+70
+00:05:29,900 --> 00:05:34,980
+How willful. How presumptuous. How vain.
+
+71
+00:05:34,980 --> 00:05:37,980
+The shortness of human life is a blessing.
+
+72
+00:05:37,980 --> 00:05:44,580
+Getting rid of the dragon, which might seem such a convenient thing to do, would undermine our dignity.
+
+73
+00:05:44,580 --> 00:05:50,980
+This preoccupation with killing the dragon will deflect us from realizing more fully the aspirations
+
+74
+00:05:50,980 --> 00:05:57,580
+to which our lives naturally point, from living well rather than merely staying alive.
+
+75
+00:05:57,580 --> 00:06:06,220
+The nature of the dragon is to eat, and our own nature, my friends, is nobly fulfilled only by getting eaten.
+
+76
+00:06:06,220 --> 00:06:10,700
+The dragon is necessary. The dragon is good.
+
+77
+00:06:10,700 --> 00:06:13,060
+The great hall was silent.
+
+78
+00:06:13,060 --> 00:06:16,380
+Then a small child yelled out from the audience,
+
+79
+00:06:16,380 --> 00:06:18,180
+The dragon is bad.
+
+80
+00:06:18,180 --> 00:06:22,540
+The child's parents turned red and hushed, but the child said again,
+
+81
+00:06:22,540 --> 00:06:27,220
+The dragon is bad. It kills people. It ate my granny.
+
+82
+00:06:27,220 --> 00:06:29,060
+I want my granny back.
+
+83
+00:06:29,060 --> 00:06:31,300
+The hall was silent again.
+
+84
+00:06:31,300 --> 00:06:32,700
+Then a woman stood.
+
+85
+00:06:32,700 --> 00:06:34,820
+The dragon killed my parents.
+
+86
+00:06:34,820 --> 00:06:36,500
+A man followed and stood.
+
+87
+00:06:36,500 --> 00:06:39,620
+The dragon killed my wife and my daughter.
+
+88
+00:06:39,620 --> 00:06:42,060
+More and more people stood.
+
+89
+00:06:42,060 --> 00:06:45,780
+The simple fact that the dragon killed everyone.
+
+90
+00:06:45,780 --> 00:06:50,420
+The loss of it. The weight of it crashing over the hall.
+
+91
+00:06:50,420 --> 00:06:55,300
+The way out from under, remote, yet maybe possible.
+
+92
+00:06:55,300 --> 00:06:59,220
+The king, looking at the first child to speak, announced,
+
+93
+00:06:59,220 --> 00:07:02,100
+Let us kill the dragon.
+
+94
+00:07:02,100 --> 00:07:07,220
+The next morning, a billion people woke to realize they or those they loved
+
+95
+00:07:07,220 --> 00:07:11,340
+might be sent to the dragon before the projectile launched.
+
+96
+00:07:11,340 --> 00:07:15,900
+Whereas before, active support for the anti-dragon cause had been limited,
+
+97
+00:07:15,900 --> 00:07:21,020
+it now became the number one priority and concern on everyone's mind.
+
+98
+00:07:21,020 --> 00:07:26,300
+Mass rallies raised money for the projectile project and urged the king to increase support,
+
+99
+00:07:26,300 --> 00:07:32,460
+which he did, passing extra appropriations bills and selling his summer castle, announcing,
+
+100
+00:07:32,460 --> 00:07:38,980
+I believe that this kingdom should commit itself to achieving the goal before the decade is out
+
+101
+00:07:38,980 --> 00:07:42,700
+of freeing the world from the ancient scourge of the dragon.
+
+102
+00:07:42,700 --> 00:07:46,300
+Thus started a great technological race against time.
+
+103
+00:07:46,300 --> 00:07:51,340
+To make the dragon-killing weapon required solutions to a thousand technical problems,
+
+104
+00:07:51,340 --> 00:07:56,420
+each of which required dozens of time-consuming steps and missteps.
+
+105
+00:07:56,420 --> 00:08:01,540
+Test missiles were fired but fell dead to the ground or flew off in the wrong direction.
+
+106
+00:08:01,540 --> 00:08:07,980
+Terrible accidents happened, but there was now a seriousness of purpose and the work continued.
+
+107
+00:08:07,980 --> 00:08:12,420
+But despite almost unlimited funding and round-the-clock work by technicians,
+
+108
+00:08:12,420 --> 00:08:15,300
+the king's deadline could not be met.
+
+109
+00:08:15,300 --> 00:08:17,300
+The task was hard.
+
+110
+00:08:17,300 --> 00:08:22,500
+The decade concluded and the dragon still lived, still ate.
+
+111
+00:08:22,500 --> 00:08:24,780
+But the effort was getting closer.
+
+112
+00:08:24,780 --> 00:08:28,580
+A year later, the first prototype missile successfully launched.
+
+113
+00:08:28,580 --> 00:08:35,220
+The construction of the final projectile eventually set to complete and launch on New Year's Eve,
+
+114
+00:08:35,220 --> 00:08:39,140
+12 years after the project's inauguration.
+
+115
+00:08:39,140 --> 00:08:45,220
+The last day of the year was cold and overcast, but still and clear.
+
+116
+00:08:45,220 --> 00:08:47,140
+Good launch conditions.
+
+117
+00:08:47,140 --> 00:08:53,140
+As the sun set, technicians scuttled around, making the final adjustments and checks.
+
+118
+00:08:53,140 --> 00:08:57,980
+The king and his advisors observed from a platform close to the launch pad.
+
+119
+00:08:57,980 --> 00:09:02,900
+Further away, behind a fence, the public assembled to witness the great event.
+
+120
+00:09:02,900 --> 00:09:05,180
+A large clock counted down.
+
+121
+00:09:05,180 --> 00:09:07,020
+Ten minutes to go.
+
+122
+00:09:07,020 --> 00:09:11,140
+The dark, slumped profile of the dragon beyond, eating.
+
+123
+00:09:11,140 --> 00:09:16,060
+From the crowd, someone jumped the fence and ran to the platform where the king sat.
+
+124
+00:09:16,060 --> 00:09:20,260
+He arrived, accompanied by security, in a frenzied state, his nose bleeding.
+
+125
+00:09:20,260 --> 00:09:21,060
+He shouted,
+
+126
+00:09:21,060 --> 00:09:22,580
+The last train!
+
+127
+00:09:22,580 --> 00:09:25,060
+Stop the last train!
+
+128
+00:09:25,060 --> 00:09:28,860
+The young man was a junior clerk in the Ministry of Transportation.
+
+129
+00:09:28,860 --> 00:09:33,220
+He had discovered that his father was on the last train to the mountain.
+
+130
+00:09:33,220 --> 00:09:37,460
+The king had ordered the trains to continue to the very end,
+
+131
+00:09:37,460 --> 00:09:42,860
+fearing any disruption might cause the dragon to stir and the missile to miss.
+
+132
+00:09:42,860 --> 00:09:48,660
+The young man begged the king to issue a recall order for the last train due to arrive at
+
+133
+00:09:48,660 --> 00:09:52,340
+the mountain terminal five minutes before time zero.
+
+134
+00:09:52,340 --> 00:09:54,780
+I cannot do it, said the king.
+
+135
+00:09:54,780 --> 00:09:58,620
+I cannot take the risk it will alert the dragon.
+
+136
+00:09:58,620 --> 00:10:01,540
+The clouds above their head let loose the rain.
+
+137
+00:10:01,540 --> 00:10:05,380
+I am so sorry, the king continued.
+
+138
+00:10:05,380 --> 00:10:10,780
+Had we started but one day earlier, your father would not have to die.
+
+139
+00:10:10,780 --> 00:10:18,140
+Looking at the crowd, thinking of all the losses that they, and he, had endured.
+
+140
+00:10:18,140 --> 00:10:22,980
+This project should have been started years earlier than we did.
+
+141
+00:10:22,980 --> 00:10:29,640
+So many need not have been killed by the dragon, had we but awoken from our acceptance of its
+
+142
+00:10:29,640 --> 00:10:31,500
+horror sooner.
+
+143
+00:10:31,500 --> 00:10:33,540
+The young man's wailing ceased.
+
+144
+00:10:33,540 --> 00:10:36,500
+The king looked up at the countdown clock.
+
+145
+00:10:36,500 --> 00:10:43,900
+Five seconds remaining, four, three, two, one, zero.
+
+146
+00:10:43,900 --> 00:10:48,540
+A ball of fire enveloped the launch pad and the missile shot out.
+
+147
+00:10:48,540 --> 00:10:55,140
+The masses, the king, the low and the high, the young and the old, that white flame shooting
+
+148
+00:10:55,140 --> 00:11:00,540
+into the dark embodied the human spirit, its fear and its hope.
+
+149
+00:11:00,540 --> 00:11:03,220
+That struck the heart of evil.
+
+150
+00:11:03,220 --> 00:11:06,580
+The silhouette on the horizon tumbled and fell.
+
+151
+00:11:06,580 --> 00:11:13,000
+Thousands of voices of joy rose from the masses, joined seconds later by a deafening, drawn
+
+152
+00:11:13,000 --> 00:11:16,220
+out thud from the collapsing monster.
+
+153
+00:11:16,220 --> 00:11:21,300
+After all this time, humanity was at last free from the dragon.
+
+154
+00:11:21,300 --> 00:11:24,940
+The joy cry resolved into a jubilating chant.
+
+155
+00:11:24,940 --> 00:11:28,100
+Long live the king, long live us all.
+
+156
+00:11:28,100 --> 00:11:33,640
+The royal entourage, huddling in the downpour, accumulated around their monarch.
+
+157
+00:11:33,640 --> 00:11:36,500
+So much had changed in the last hour.
+
+158
+00:11:36,500 --> 00:11:43,940
+The right to an open future had been regained, a primordial fear abolished and many long-held
+
+159
+00:11:43,940 --> 00:11:46,180
+assumptions overturned.
+
+160
+00:11:46,180 --> 00:11:48,520
+What do we do now, they asked.
+
+161
+00:11:48,520 --> 00:11:53,640
+We have come a long way, said the king, yet now we are like children again.
+
+162
+00:11:53,640 --> 00:11:56,380
+The future lies open before us.
+
+163
+00:11:56,380 --> 00:12:02,860
+We shall go and try to do better than we have done in the past, for we have time now.
+
+164
+00:12:02,860 --> 00:12:08,900
+Time to get things right, time to grow up, time to learn from our mistakes.
+
+165
+00:12:08,900 --> 00:12:14,540
+Let all the bells in the kingdom ring until midnight in remembrance of our dead, then
+
+166
+00:12:14,540 --> 00:12:21,260
+after we will celebrate and begin the process of building a better world, for we have time
+
+167
+00:12:21,260 --> 00:12:21,260
+
+
+168
+00:12:26,380 --> 00:12:41,300
+now.
+

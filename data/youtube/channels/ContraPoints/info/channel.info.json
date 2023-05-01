@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "-qaPicVOE9Aqd2unOxYjm5qqwHs",
+  "id": "UCNvsIonJdJ5E4EXMa65VYpA",
+  "snippet": {
+    "title": "ContraPoints",
+    "description": "YouTuber, ex-philosopher.",
+    "customUrl": "@contrapoints",
+    "publishedAt": "2011-02-04T03:33:46Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/B3TFzvwt8Abuk3xweJvBLcL5Xt3Y7TatvDyWDtsEoR3A4oZkTA4ajbz_yRo2QF70WYDpb9k=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/B3TFzvwt8Abuk3xweJvBLcL5Xt3Y7TatvDyWDtsEoR3A4oZkTA4ajbz_yRo2QF70WYDpb9k=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/B3TFzvwt8Abuk3xweJvBLcL5Xt3Y7TatvDyWDtsEoR3A4oZkTA4ajbz_yRo2QF70WYDpb9k=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ContraPoints",
+      "description": "YouTuber, ex-philosopher."
+    },
+    "country": "US"
+  },
+  "statistics": {
+    "viewCount": "88191031",
+    "subscriberCount": "1680000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "31"
+  }
+}

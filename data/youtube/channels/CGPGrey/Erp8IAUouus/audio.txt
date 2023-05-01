@@ -1,0 +1,134 @@
+Americans love their independence, a nation of pioneers living out from under the eye of government.
+Except for all the government.
+As such, unlike many other countries, Americans don't have a national ID card,
+and even the idea of creating one is a political hot topic every election cycle.
+The results are always the same.
+We don't need no ID card.
+But, suspiciously, US citizens do already have this.
+A card with a unique number that many places will ask for to prove who you are.
+This is the Social Security card and number,
+and it has become a quasi-ID stroke unique password to identify citizens.
+Though, that was never its intended use.
+For Americans, keeping this number secret is super important,
+because it's the key to the government and banks identifying you as you.
+And losing control of it is the worst kind of identity theft that can happen.
+So how did Americans end up with a national ID number that isn't one,
+and a card terribly unfit to identify?
+It all started in the Great Depression of long, long ago,
+when the government created the Social Security program, a kind of mandatory pension.
+Citizens would be required to pay in during their working lives,
+and withdraw in their retirement.
+The idea being that even if past you didn't save for the sunset years of future you,
+the eventually old current you would still have something to live on.
+Now, if you want to think of Social Security as a benefit the government provides,
+or as a bank account that's yours, is controversial.
+But either way, this number was created to track what you put in and what you take out.
+Now, because this was just one government program related only to your working life,
+you only needed to apply for a Social Security card when you actually started working.
+But over time, that changed, and the younger you are,
+the more likely you've had one from the moment of your birth,
+despite babies' worthlessness as child laborers.
+So why?
+Well, it goes back to Americans having no national identity card with a national number,
+which makes it harder for institutions to keep track of people over their lives.
+With hundreds of millions of citizens, names and birthdays aren't unique.
+People move, people marry, people change names.
+And if you're trying to keep track of everyone,
+as, say, the United States Tax Department might want to do,
+it can be a real problem, particularly in the pre-computer days.
+Hey, wait a minute, look at this number just lying around, the Tax Department said.
+It's not supposed to be used as an ID number, said the Social Security Department.
+There are security reasons you should yoink.
+Thus, the Tax Department piggybacked off of the work the Social Security Department did
+assigning working adults a number, which made tracking taxes easier,
+and they highly encouraged parents to get a Social Security number for their children
+by tying it to a tax discount.
+Crazily, counting children for tax rebates used to run on the honor system.
+The US Tax Department told people,
+1. We will give you a discount on your taxes for each child you have,
+and 2. Write down your number of children.
+Please be honest, we don't have a way to check.
+Which was just asking, nay, begging people to lie,
+which they did, birthing on paper millions of phantom children.
+But after requiring each kid to have a Social Security account number
+connected to a birth certificate before the parents could get the tax discount,
+all those phantoms faded away.
+This turned the Social Security number into a unique number
+that all citizens had right from the start,
+and that made it easy for lots of other places,
+like banks and schools and companies and landlords,
+to also piggyback on the number as an easy way to keep track of people
+without having to come up with their own systems,
+and to be able to exchange information about people between institutions.
+This is super useful for institutions,
+so the desire of Americans to not have a national identity card
+led, somewhat inevitably, to the nearest thing available being used as a substitute.
+Which ended up being worse because the Social Security number
+was never designed to be used this way in the long, long ago,
+and you can tell because it has no security built into it.
+Okay, so there's this neat trick that most ID numbers use,
+where they can check themselves to see if they're invalid.
+The simplest way is to have the last couple digits match the sum of the others.
+All kinds of ID cards and barcodes do this
+because it makes it impossible to enter an incorrect number in a computer,
+and makes it harder for fraudsters to guess valid numbers.
+This is why, if you try to buy something online by guessing a credit card number,
+the website knows it's invalid before you even click Buy.
+But because the Social Security number started life in the long, long ago,
+it's just a number with no self-checking security built in.
+Worse, if you're born pre-2011, it's not that hard to just guess most of the number.
+The first three digits are the state where the parents applied for the card,
+and the last four digits just count up in order,
+and the middle digits follow a regular pattern.
+So you can take your number, subtract one,
+and that's a valid number of someone who was probably born in the same hospital as you
+around the same time.
+Thus, a fraudster who knows your time and location of birth
+can probably get the first five digits by just looking them up on a chart.
+Institutions ask for the last four digits as a code to identify you as you,
+which means it's not that hard to put together your number from a security leak anywhere,
+or just by connecting a few puzzle pieces.
+The physical card itself is no help either,
+just a literal piece of cardboard, depending on when it was issued, not even laminated.
+The Social Security Department used to print
+not to be used for identification on the cards
+as a futile attempt to stop institutions for asking for them as IDs,
+because there's nothing identifying a person on the card.
+But eventually, they gave up and removed these words,
+because unlike passports or a driver's license,
+you can assume all Americans will have this one card.
+All this means your Social Security card and number
+probably have less security than your library card,
+while being vastly more important.
+So it fails at being a secure number, it fails at being a good ID card,
+but at least it is universal, which is why people use it.
+Oh, hello, asterisk, my old friend.
+No, of course not, this program isn't actually universal.
+Not everyone has a Social Security account number,
+and not everyone pays into the program.
+If you want to get out of paying, you'll just need to first
+never have received any Social Security benefits
+and give up your rights to getting any in the future, which seems fair.
+In addition, you must also be a member of a religion opposed to the idea of Social Security,
+usually because it's a kind of insurance, and insurance is a kind of gambling.
+That's harder, but you could always just start your own religion
+if you were really serious about avoiding taxes.
+But your new religion must also provide for its elderly and dependent members,
+which means you have to recreate a Social Security program of sorts in your religion,
+while also being against Social Security.
+But if creating a contradictory religion doesn't daunt you,
+lastly, it must have existed continuously since 1950,
+which is a giveaway that this exception was written
+pretty much exclusively for the Amish and Mennonites,
+and kills dead your plans unless you're willing to undergo a serious change in lifestyle.
+It doesn't stop there.
+Keep digging, and you'll find all sorts of other weird, weird exceptions,
+including some railroad workers, or firefighters, or police, or teachers, but only in Chicago.
+Usually these are groups that in the long, long ago
+were able to get out of the program at its creation date.
+So, nothing's ever straightforward.
+And that's the deal with this Social Security card,
+containing a national number for citizens that don't want one
+on an identification card that fails at identification,
+given to all citizens, except when it isn't,
+for a program that's universal, except when it's not.

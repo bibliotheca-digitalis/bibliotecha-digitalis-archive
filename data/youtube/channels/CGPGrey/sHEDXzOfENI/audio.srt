@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:05,720
+The United States picks its president with the Electoral College, 538 votes distributed
+
+2
+00:00:05,720 --> 00:00:09,280
+by population, mostly to the 50 states and DC.
+
+3
+00:00:09,280 --> 00:00:12,520
+To become a president you need to win a majority of those votes.
+
+4
+00:00:12,520 --> 00:00:18,520
+But 538 is an even number, so what happens when the race for president is tied?
+
+5
+00:00:18,520 --> 00:00:21,720
+Don't worry, there's an 18th century solution to the problem.
+
+6
+00:00:21,720 --> 00:00:25,720
+If the Electoral College is tied, the House of Representatives breaks that tie.
+
+7
+00:00:25,720 --> 00:00:29,920
+As the name implies, the House is filled with representatives from each of the states.
+
+8
+00:00:29,920 --> 00:00:35,360
+The more people in a state, the more representatives it has and there are 435 in total, thankfully
+
+9
+00:00:35,360 --> 00:00:38,060
+an odd number and a guaranteed tiebreaker.
+
+10
+00:00:38,060 --> 00:00:39,740
+Except there's a catch.
+
+11
+00:00:39,740 --> 00:00:43,960
+Each representative doesn't get one vote, it's each state that gets one vote.
+
+12
+00:00:43,960 --> 00:00:48,840
+So Florida's 27 representatives have to decide amongst themselves who to support before casting
+
+13
+00:00:48,840 --> 00:00:51,600
+Florida's one vote to help break the tie.
+
+14
+00:00:51,600 --> 00:00:56,120
+Meanwhile, thinly populated Alaska's sole representative has only to consult himself
+
+15
+00:00:56,120 --> 00:00:58,460
+before casting Alaska's vote.
+
+16
+00:00:58,500 --> 00:01:03,180
+This is an incredibly disproportionate system because just 10 states — California, Texas,
+
+17
+00:01:03,180 --> 00:01:06,220
+New York, Florida, Illinois, Pennsylvania, Ohio, Michigan, Georgia and North Carolina
+
+18
+00:01:06,220 --> 00:01:10,580
+— contain more than half the population of the United States but get only 20% of the
+
+19
+00:01:10,580 --> 00:01:12,900
+votes if the race for president is tied.
+
+20
+00:01:12,900 --> 00:01:17,540
+And the other 40 states with less than half the population get 80% of the votes.
+
+21
+00:01:17,540 --> 00:01:22,300
+While an exact tie is unlikely, this system is also used if there are more than two candidates
+
+22
+00:01:22,300 --> 00:01:26,060
+for president and none of them gets a majority in the Electoral College.
+
+23
+00:01:26,060 --> 00:01:30,900
+Which is exactly what happened when four candidates ran for president in 1824.
+
+24
+00:01:30,900 --> 00:01:34,700
+Andrew Jackson got the most votes from Americans and the most votes in the Electoral College
+
+25
+00:01:34,700 --> 00:01:39,220
+but not a majority, so the race was turned over to the House of Representatives voting
+
+26
+00:01:39,220 --> 00:01:42,280
+as states who picked John Quincy Adams instead.
+
+27
+00:01:42,280 --> 00:01:47,260
+In a modern America with more states, a three-way race can have horrifically disproportionate
+
+28
+00:01:47,260 --> 00:01:48,260
+results.
+
+29
+00:01:48,260 --> 00:01:51,780
+Consider a third-party candidate who loves the small states and who the small states
+
+30
+00:01:51,780 --> 00:01:52,780
+love in return.
+
+31
+00:01:52,900 --> 00:01:56,020
+He gets the fewest Electoral College votes but enough to ensure that neither of the two
+
+32
+00:01:56,020 --> 00:01:59,960
+more popular candidates gets a majority, so now the House decides the winner.
+
+33
+00:01:59,960 --> 00:02:04,140
+And those 26 smallest states representing just 17% of the population can pick their
+
+34
+00:02:04,140 --> 00:02:08,900
+man as president, even though 83% of Americans didn't vote for him.
+
+35
+00:02:08,900 --> 00:02:12,300
+It's unlikely, but it really shouldn't even be possible.
+
+36
+00:02:12,300 --> 00:02:16,060
+Anyway, all this talk of presidents has left the vice president unmentioned.
+
+37
+00:02:16,060 --> 00:02:20,620
+A reasonable person might assume that he just comes along with the president, but no.
+
+38
+00:02:20,620 --> 00:02:25,420
+When there's a tie, the Senate independently picks the vice president, so the United States
+
+39
+00:02:25,420 --> 00:02:29,720
+could end up with a president from one party and a vice president from the other, which
+
+40
+00:02:29,720 --> 00:02:32,540
+might make for some very uncomfortable meetings.
+
+41
+00:02:32,540 --> 00:02:36,460
+But even this crazy system for resolving a tie isn't guaranteed to work because there
+
+42
+00:02:36,460 --> 00:02:40,220
+are 100 members of the Senate, and in the House of Representatives they're forced to
+
+43
+00:02:40,220 --> 00:02:45,540
+vote as 50 states, and many of those states have 10 or 8 representatives, making the whole
+
+44
+00:02:45,540 --> 00:02:49,260
+system titacular with all those even numbers.
+
+45
+00:02:49,260 --> 00:02:52,580
+So if the House can't pick the president, but the Senate has picked the vice president,
+
+46
+00:02:52,580 --> 00:02:56,900
+then the vice president becomes acting president until the House can make up its mind.
+
+47
+00:02:56,900 --> 00:03:00,620
+But if neither the House can pick the president, nor the Senate can pick the vice president,
+
+48
+00:03:00,620 --> 00:03:04,400
+then the Speaker of the House becomes acting president until either branch of Congress
+
+49
+00:03:04,400 --> 00:03:05,740
+picks someone.
+
+50
+00:03:05,740 --> 00:03:10,220
+And that's how the United States would resolve a tied race for president, though it might
+
+51
+00:03:10,220 --> 00:03:13,420
+be faster and more fair to just flip a coin.
+
+52
+00:03:19,260 --> 00:03:29,420
+Of course, you could get rid of the electoral college and thus this whole crazy system and
+
+53
+00:03:29,420 --> 00:03:34,020
+instead have a national popular vote, perhaps with something fancy like preferential voting,
+
+54
+00:03:34,020 --> 00:03:35,980
+but maybe that's just a crazy idea.
+

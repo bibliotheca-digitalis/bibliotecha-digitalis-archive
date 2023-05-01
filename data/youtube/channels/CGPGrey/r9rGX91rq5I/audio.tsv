@@ -1,0 +1,81 @@
+start	end	text
+0	1120	Hello internet.
+1120	5060	The UK had an election we need to talk about because after the debates finished, the people
+5060	7780	voted and the ballots tallied, the results were this.
+7780	12900	But parliament ended up looking like this, which isn't exactly representative and by
+12900	14980	exactly I mean at all.
+14980	19620	Red earned 30% of the vote and 36% of the seats which is sort of close but the rest
+19620	20940	is madness.
+20940	25220	Orange earned 8% of the vote but got one eighth of that while yellow's 5% just about doubled
+25220	28260	and purple earned 13% and got squat.
+28260	33520	Meanwhile blue's 37% of the people boosted to 51% of the seats in parliament.
+33520	37960	The blue boost is even bigger when you consider that 51% of the seats gives you basically
+37960	39800	100% of the control.
+39800	40800	How'd this happen?
+40800	43520	In the UK, national elections aren't really national.
+43520	45040	They're a bunch of local elections.
+45040	49240	The UK is divided into constituencies, each of which elects one member of parliament,
+49240	50960	MP, to represent them.
+50960	53980	This local-national divide is where the trouble begins.
+53980	58240	Imagine a parliament with just three constituencies and it's easy to see how it wouldn't always
+58340	60060	align with the citizens.
+60060	62420	Some people think this sort of result is fine.
+62420	64860	It's all about winning local elections, they'll say.
+64860	67320	Each MP represents their constituency.
+67320	71900	And while the imbalance in this example is extreme, it's the same problem in the real
+71900	77140	election and the same argument is given but there are two more problems with it in reality
+77140	78140	land.
+78140	80940	First, few citizens have any idea who their MP is.
+80940	85780	They just know what party they voted for, what party they want to represent their views
+85780	90300	on the national level and pretending like it's a competition on the local level is a
+90300	91780	bit disingenuous.
+91780	96380	In practice, it's an election for how the nation will run, not really for who's going
+96380	98420	to represent a tiny part of it.
+98420	103100	And even if it were, the individual constituencies are worse at representing their citizens than
+103100	104100	parliament.
+104100	106440	Indulge this spreadsheet-loving nerd for a moment, will you?
+106440	109680	The difference between what a party earned at the polls and what they got in parliament
+109680	112580	is the amount of misrepresentation error.
+112580	116660	If we calculate all the errors for all the parties and add them up, we can say that parliament
+116660	121140	as a whole has a 47 percentage points of misrepresentation error.
+121140	126580	That sounds bad but looks like a utopian rainbow of diversity compared to any local election
+126580	129520	because the local elections have one winner.
+129520	138100	Out of the 650 constituencies, 647 have a higher representation error than parliament.
+138100	143980	These are the only three that don't and they're really unusual for having so many of a single
+143980	146260	kind of voter in one place.
+146260	153180	Most places look like The Reckon, which is dead in the middle, a mere 101 points off.
+153180	157380	Note that the winning candidate here didn't reach a majority, which means more than half
+157380	161460	of constituencies elected their MP with a minority of voters.
+161460	167580	The worst is Belfast South at the bottom of the list, hilariously unrepresentative.
+167580	171640	Less than a quarter of the voters get to speak for the entire place in parliament.
+171640	176140	This is the lowest percentage an MP has ever been elected by.
+176140	180700	So when people argue that the UK election is a bunch of local elections, it's even more
+180700	185260	of an argument that the elections are broken because they're worse on this level.
+185260	189080	These elections are terrible because of the first-past-the-post voting system, which I
+189080	192860	have complained mightily about and won't repeat everything here, go watch the video.
+192860	196780	But TLDR, it only works when citizens are limited to two choices.
+196780	201940	Voting for any party except the biggest makes it more likely the biggest will win by a minority,
+201940	204080	which is exactly what happened.
+204080	207140	That citizens keep voting for smaller parties despite knowing the result is against their
+207140	211140	strategic interests demonstrates that citizenry wants diverse representation.
+211140	216620	But that success is the very thing that has made this the most unrepresentative parliament
+216620	218500	in the history of the UK.
+218500	222000	Now people happy with the result argue that the system is working fine.
+222000	223080	Of course they do.
+223080	224500	Their team won.
+224500	228120	But government isn't a sport where a singular winner must be determined.
+228120	233140	It's a system to make rules that everyone follows, and so we need a system where everyone
+233140	238040	can agree that the process is fair, even if they don't like all the rules.
+238040	243280	If you support a system that disenfranchises people you don't like and turbo-franchises
+243280	248000	people you do, then it doesn't look like you support representative democracy.
+248000	252800	It looks like you support a kind of dictatorship light, where a potentially small group of
+252800	256860	people, including you, gets to make the rules for everyone else.
+256860	262520	And as it is now, on election day, the more people express what they want, the worse the
+262520	269080	system looks, which also makes them disengaged at best or angry at worst, and gee I can't
+269080	270520	imagine why.
+270520	271560	This is fixable.
+271560	274660	There are many, many better ways the UK could vote.
+274660	277160	Here are two that even keep local representatives.
+277160	282680	And fixing voting really matters, because this is a kind of government illegitimacy
+282680	288000	score and it's been going up and may continue to do so unless this fundamentally broken
+288000	289720	voting system is changed.

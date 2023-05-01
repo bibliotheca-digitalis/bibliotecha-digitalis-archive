@@ -1,0 +1,250 @@
+Banjo-Kazooie was one of my favorite games as a kid.
+Okay, that's not quite true.
+Growing up, it was terrifying.
+The way the level transitioned into that fucking painting,
+it scared the shit out of me.
+This giant head just looking at you.
+And that happens again!
+Oh, the music that plays when you're in the water
+and the fucking shark starts chasing you.
+It still makes me tense up thinking about it.
+The sea mine with eyes that hated you so much
+he would go for you and explode and die
+just to take a single honeycomb off your life bar
+gave me actual nightmares as a kid.
+I'm not even joking.
+Banjo-Kazooie ruined my life.
+Tons of people remember the quiz section
+at the end of Banjo-Kazooie as being kind of unfair,
+but really importantly, tons of people remember the quiz,
+which is more than can be said for any section
+of any of the old platforming collect-a-thons of the time.
+Do you even remember Tonic Trouble or Bomberman Hero
+or that shite-ass Earthworm Jim game
+that came out that was 3D?
+Does anyone remember Gex, Enter the Gecko?
+Let's get it on!
+It's tail time! It's tail time!
+It's tail time! It's tail time!
+What?
+It's tail time!
+I know what you're thinking. It's tail time.
+I'm gonna need an explanation for this.
+We can't go on like this.
+This is madness.
+Flash forward to 2017.
+It's been a really long time since these games came out
+and almost as long as the 3D platformer was really in fashion,
+with basically only Mario as the last man standing
+with this kind of gameplay,
+outside, of course, of indie stuff.
+One such piece of indie stuff is Yooka-Laylee,
+created by Playtonic Games,
+composed of folks who left Rareware
+after seemingly getting sick of working under Microsoft,
+making Kinect sports games
+and putting out ports of their good stuff.
+Yooka-Laylee is in a really difficult and weird place.
+In going after a genre of game that was seemingly outgrown
+well over a decade ago,
+is bringing back these mechanics and systems really enough?
+Or are there ways to adapt the formula to a modern setting
+and make it better than it was even back in the day,
+like Doom recently did for its originals?
+♪♪
+What the fuck does it's tail time mean?
+What the fuck does it mean?
+Does the lizard fuck Rob Cohen,
+lead writer of Gex,
+and to the fucking gecko,
+does the lizard fuck?
+Why would you do this, Robert?
+Why would you do this?
+♪♪
+♪♪
+I had a really good time with Yooka-Laylee.
+You need to regain your hea-
+Oh, God!
+Oh, Jesus Christ!
+Oh, oh, oh, oh!
+♪♪
+Ha ha ha ha ha!
+Ha ha ha ha ha ha!
+Ha ha ha ha ha ha!
+The controls are incredible.
+The basic walk feels fast enough to get you where you want to go,
+as opposed to the originals,
+where you would end up always using the talent trot.
+The game's version of the trot uses energy now,
+but it does this because it's now even faster,
+and controls very differently from just a standard run.
+You have something of a turning radius.
+Getting good at using it just feels good.
+The game makes mobility itself create a good feeling
+in a way I haven't seen in quite a long time.
+There's so much charm to almost every little thing.
+There's so much variety to the character designs and their personalities
+in a way that completely fits the original.
+There's a bunch of snowmen in the snow level,
+and one of them dresses like Gruntilda used to and talks in rhymes.
+There are cute puns in all the names all over the place.
+I especially like the sign who confuses you for a gardener or redecorator every level,
+and he's called, like, Planker.
+And then there's little things, too,
+like the noises Laylee makes when you're doing the roll move.
+Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!
+It's beautiful.
+It's—it's just cute.
+The story's kind of cool.
+You can really feel the seething hatred for the time the creators spent working under Microsoft.
+The villain is a giant corporation run by Capital B.
+Do you—do—
+Do you get it?
+Do—do you—do you underst—the ca—
+Capital B's company, Hivery Towers, has built a giant sucking machine.
+MUCH LIKE MICROSOFT
+And it stole Yuko and Laylee's book.
+To get it back, they have to infiltrate Hivery Towers to find and collect all the pages that fell out of it.
+It's a pretty classic and simple setup,
+but it works, and I enjoy the massive jabs at corporate structure that it takes.
+I—I didn't expect that.
+When I see Trowser, the snake,
+I wonder how many years they waited to make that joke.
+Like, I imagine him being on the cutting room floor of Conker or something, and they were like,
+One day, we'll make the greatest anthropomorphic dick joke ever in the sequel if we ever get one.
+And now, 32 years later, here he is!
+Kirkhope, Wise, and Burke have done a fantastic job of blending the modern capabilities of game soundtracks
+with the sensibilities that made their work on the older games consoles so special in the first place.
+While it never feels like it does something truly beyond what the originals could do,
+it feels like it's doing the sort of thing the originals would have done if they'd had the chance.
+The creators patched out audiobook salesman and white nationalist JonTron's dialogue from the game,
+which is a shame, because if there's one thing JonTron is good at,
+it's making meaningless, incoherent noise into a microphone.
+It must suck to discover that your favorite guys have been infected by communism.
+The game is ultra-faithful to the design spec of the works it's throwing back to.
+But the thing about this faithfulness is that it means all the problems I have with the previous games,
+all the glaring issues that are even more clear in retrospect, are still present all this time later.
+People who don't like the original games going back to them without nostalgia,
+or who never really got them at the time, will not get Yooka-Laylee either.
+It's another one of those games, good and bad.
+However, there are some things about Yooka-Laylee that are really interesting.
+In faithfully recreating a dead genre, it resurrects gameplay elements that were fun, or good, or useful,
+but got lost in the mists of time.
+So I thought I'd explore some of the elements that might be worth keeping around,
+and reincorporating back into modern design.
+Take, for example, the level transitions.
+The originals needed a transition because you literally couldn't fit that much of a level in data.
+A standard trick in game development at the time was to have the inside and outside be two separate areas entirely,
+with a loading zone between them, or put a zone between two sections of the same area when it can be justified.
+In Banjo-Tooie, the sequel, this makes the ascent up the Isle of Hags even more impressive
+because the developers are successfully simulating climbing a giant mountain
+with numerous quite small areas where modern games could just put the whole mountain there and have you climb it.
+Yooka-Laylee is made in an era where you don't really need loading screens.
+Modern consoles and PCs have much more memory and processing power,
+and using strategic loading and unloading, you can have an entire seamless world
+with careful loading between maps without ever, ever having to actually stop.
+But Yooka-Laylee still has these transitions.
+This shortcut to the top of a mountain is a transition when both pieces of the game world are physically there,
+and nothing really needs to be loaded in and out.
+This passage leads inside the mountain into a relatively small area
+you could have just modeled inside the mountain and had you walk inside.
+This design sensibility is throughout the game,
+but the thing is, this isn't just reusing antiquated solutions to problems that don't exist anymore.
+This kind of level design still has a kind of value of its own.
+You could have a passage inside the mouth of this cave leading all the way up to the top,
+but then this shortcut would be significantly longer, wouldn't it?
+You would have to physically climb or walk or wait in an elevator.
+The teleportation of sorts you get from having it just be a dark cave you walk into and come out at the top
+is a really convenient time saver, something you want from a shortcut.
+Keep notes, FromSoftware!
+Something this era of games always did very well was lie to you.
+You went into a building, and it was bigger on the inside.
+Was this a mistake? An accident? Did someone fuck up on the blueprints?
+No. They did it because they thought it was better that way.
+They didn't have to be constrained by what the outside of the building looked like
+because you were in a different map, ruled by different constraints.
+The world of Banjo-Kazooie was almost a literal cartoon
+whose shape changed as it was needed to suit the gameplay.
+The inside of Duke's Temple is a different shape and size from the outside,
+something only manageable when both areas are bespoke and separated by a transition.
+So even though these design elements were used to avoid limitations of the original hardware,
+there is a genuine, noticeable advantage in these elements, even when those limitations are removed.
+The other thing these games have is purposefulness in their controls.
+You are fully responsible for everything the character does.
+Modern game design seeks to simplify a lot of the experience of controlling a character.
+This looks really cool, doesn't it?
+I'm holding forwards.
+I can't wait to fight you again.
+Game design.
+You run Ezio or Altair or any of the shitty, unmemorable characters that came afterwards
+towards a ledge holding the do cool shit button,
+and he runs and jumps and climbs all over the shop.
+This isn't gameplay.
+Assassin's Creed is almost the closest thing the collect-a-thon has to a successor,
+what with all the collecting you're doing,
+but it's really unengaging because most of the work is done by Altezzio for you.
+You just point him at the thing.
+The same is true of games like Uncharted or Tomb Raider and so on.
+These games aren't necessarily bad,
+but they've moved the simple fun of controlling the character
+to navigate challenges into the background,
+and that's not always a good thing.
+In old platformers, every move was deliberate.
+You have to keep yourself on a ledge here.
+It's easy to fall off or miss a jump,
+and this makes landing the jump correctly satisfying.
+The supposed simplification of the mechanics of a game
+has removed some of the more crunchy and interesting and satisfying elements of the actual games.
+I honestly spent the first couple of hours of Yooka-Laylee feeling flabbergasted
+that, for the first time in ages, I was pressing a button to jump
+and then moving to where I wanted to move,
+using my own abilities to control the character
+instead of pointing them at the thing and letting them do whatever.
+And also, like when I first replayed Banjo-Kazooie a little while ago,
+I kept staring at the corner of the screen.
+I wondered why, but then when I was playing Shady Morty to get this footage,
+I realized why.
+I was looking for the mini-map to tell me where to go to do the stuff I was supposed to do.
+I think one reason the levels in these games are more memorable,
+literally stick out in your mind so well you could take a quiz about them,
+is because they're built around leading you around with their design
+and encouraging a real sense of curiosity about them.
+It's very rare for any aspect of the landscapes of modern games to really pop out at you,
+existing as mostly giant empty spaces you navigate with a GPS
+telling you where all the interesting stuff is already.
+Making your world interesting to simply explore and look and see and find things for yourself
+instead of the thing you pass through on the way to the interesting stuff marked on the map
+is a really good idea, which, outside of Yooka-Laylee and Breath of the Wild,
+is a practice going unfortunately forgotten in many modern game genres.
+The game itself isn't perfect, even though I really enjoyed it
+and was capable of looking past the flaws the way I looked past them back in the day.
+It deliberately embraces many of the trappings and conventions of a genre
+that probably went away for a reason,
+but it contains elements of design and execution that can still be learned from.
+The wealth of design possibilities opened up by placing level design and convenience for the player
+over physical coherence,
+the joyful freedom of a simple but nice-feeling control scheme that takes skill to master properly,
+the memorable adventure of exploring a space and scouring it for stuff by yourself
+without anyone telling you where anything is,
+having to actually look using ingenuity to find,
+consequently forcing you, without even noticing,
+to memorize the landscape of a location until you can see it in your head when you shut your eyes.
+No!
+No!
+And, most importantly, putting eyes on everything.
+Everything.
+EVERYTHING!
+Those are just eyes.
+They walk around, and they find stuff to possess, and then it becomes their body.
+Jesus Christ, even the fucking logo has eyes now.
+Is everyone alright down there at Playtonic?
+Do you need help?
+Can I help you?
+Perhaps the collect-a-thons of old can't really exist in the modern day without being altered so much
+they don't really resemble themselves anymore.
+But, within that old style, there lies all kinds of useful little...
+pieces of the jigsaw puzzle of gaming that are worth keeping around.
+Yooka-Laylee's Choices are just another...
+page...
+in the book...
+of game design.

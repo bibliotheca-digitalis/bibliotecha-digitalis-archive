@@ -1,0 +1,292 @@
+1
+00:00:00,000 --> 00:00:06,000
+Before this video loaded, you probably watched an ad, and or one will appear right about now.
+
+2
+00:00:06,000 --> 00:00:08,640
+How did this exact ad get on this video?
+
+3
+00:00:08,640 --> 00:00:12,400
+And what you really want to know, how much money do these things make?
+
+4
+00:00:12,400 --> 00:00:14,480
+Okay, there are three players in this game.
+
+5
+00:00:14,480 --> 00:00:17,520
+Creators who create videos, advertisers who make the ads,
+
+6
+00:00:17,520 --> 00:00:20,720
+and YouTube who plays Matchmaker Matchmaker Making the Match.
+
+7
+00:00:20,720 --> 00:00:25,600
+Now, unlike old dying media where a dude in a room could place ads on predictable known content
+
+8
+00:00:25,600 --> 00:00:28,480
+at a leisurely schedule, YouTube doesn't work like that.
+
+9
+00:00:28,480 --> 00:00:32,240
+And it can't work like that, because on YouTube there is no schedule.
+
+10
+00:00:32,240 --> 00:00:34,960
+At any moment, a wild viral video can appear.
+
+11
+00:00:34,960 --> 00:00:42,320
+On a normal day, 65 years worth of videos are uploaded to YouTube and people watch a billion hours of video.
+
+12
+00:00:42,320 --> 00:00:46,880
+It's an endless waterfall of random content that just keeps growing.
+
+13
+00:00:46,880 --> 00:00:51,760
+Hiring enough humans to categorize all those videos and match ads to them would be impossible.
+
+14
+00:00:51,760 --> 00:00:53,600
+This is a job for bots.
+
+15
+00:00:53,600 --> 00:00:56,720
+The moment each new video is uploaded, YouTube's bots get to work,
+
+16
+00:00:56,720 --> 00:00:59,920
+looking at the title, the keywords, the captions, the comments, the controversy,
+
+17
+00:00:59,920 --> 00:01:04,400
+all to make their best guess as to what category it belongs in.
+
+18
+00:01:04,400 --> 00:01:10,240
+Meanwhile, advertisers tell their own bots what category of videos they want their ads to run against
+
+19
+00:01:10,240 --> 00:01:12,000
+and what kind to avoid.
+
+20
+00:01:12,000 --> 00:01:14,240
+And here is where YouTube earns their money.
+
+21
+00:01:14,240 --> 00:01:19,120
+Between when you click on a video and when it plays, a YouTube bot holds an auction,
+
+22
+00:01:19,120 --> 00:01:21,680
+announcing the categories it's guessed the video is in,
+
+23
+00:01:21,680 --> 00:01:26,240
+opening the floor to all interested advertiser bots to place their bids.
+
+24
+00:01:26,240 --> 00:01:30,720
+The winning advertiser bot is the one with the ad that will most likely make YouTube and the creator
+
+25
+00:01:30,720 --> 00:01:32,480
+the most money at that instant.
+
+26
+00:01:32,480 --> 00:01:34,720
+But that's not necessarily the highest bidder.
+
+27
+00:01:34,720 --> 00:01:37,040
+Different ads pay in different ways.
+
+28
+00:01:37,040 --> 00:01:43,120
+For example, skippable video ads, the advertiser doesn't pay if the viewer skips as soon as they can.
+
+29
+00:01:43,120 --> 00:01:46,880
+The advertiser only pays if their ad is clicked or watched.
+
+30
+00:01:46,880 --> 00:01:50,400
+A super high bid means nothing if the ad is super boring.
+
+31
+00:01:50,400 --> 00:01:53,840
+No clicks equals no dollars for YouTube or the creator.
+
+32
+00:01:53,840 --> 00:01:56,240
+So there's a bias against boring.
+
+33
+00:01:56,240 --> 00:02:00,080
+The auctioneer bot will prefer a lower bid for an ad with a higher click rate
+
+34
+00:02:00,080 --> 00:02:02,960
+than a higher bid for an ad with a lower click rate.
+
+35
+00:02:02,960 --> 00:02:05,200
+But boring is in the eye of the beholder.
+
+36
+00:02:05,200 --> 00:02:08,720
+So in addition to YouTube's bots trying to guess what the video is about,
+
+37
+00:02:08,720 --> 00:02:12,000
+there are bots that try to guess what the viewer is about,
+
+38
+00:02:12,000 --> 00:02:16,160
+looking at their watch history and device and activity to try and guess their age,
+
+39
+00:02:16,160 --> 00:02:18,400
+chromosomes, income, location, and interests.
+
+40
+00:02:18,400 --> 00:02:20,560
+This information, too, is part of the auction,
+
+41
+00:02:20,560 --> 00:02:24,320
+and the advertisers can instruct their bots to only bid to specific demographics
+
+42
+00:02:24,320 --> 00:02:28,640
+and specific locations and specific categories and only up to specific amounts.
+
+43
+00:02:28,640 --> 00:02:32,400
+So whatever ad you saw before this video didn't plan to be there.
+
+44
+00:02:32,400 --> 00:02:35,200
+It was the result of bot guesses about the video
+
+45
+00:02:35,200 --> 00:02:40,160
+and bot guesses about you and bot bids for your attention at that exact millisecond.
+
+46
+00:02:40,160 --> 00:02:43,840
+Watch videos from this channel on the device of someone demographically different
+
+47
+00:02:43,840 --> 00:02:46,000
+and you'll see different kinds of ads.
+
+48
+00:02:46,000 --> 00:02:49,040
+You should try it with this video on at least two or three or four...
+
+49
+00:02:49,040 --> 00:02:51,120
+Look, watch this video on a lot of different devices.
+
+50
+00:02:51,120 --> 00:02:54,080
+Anyway, if you want to know how much advertisers pay YouTube and creators,
+
+51
+00:02:54,080 --> 00:02:55,760
+there isn't one answer.
+
+52
+00:02:55,760 --> 00:02:59,440
+It's all an insta-auction and varies wildly by video category,
+
+53
+00:02:59,440 --> 00:03:01,680
+the viewers, the time of year, advertising budget,
+
+54
+00:03:01,680 --> 00:03:05,040
+how many auctions are happening at that exact moment, and how full they are.
+
+55
+00:03:05,040 --> 00:03:08,240
+It's millions of matches a minute of supply and demand.
+
+56
+00:03:08,240 --> 00:03:13,920
+Channels with prized demographics may earn five times as much per view as other channels.
+
+57
+00:03:13,920 --> 00:03:19,440
+But you and I both know there's still some kind of average number,
+
+58
+00:03:19,440 --> 00:03:23,120
+something to use as a ballpark, and that's what you want to know.
+
+59
+00:03:23,120 --> 00:03:25,280
+On average, this number.
+
+60
+00:03:25,280 --> 00:03:26,640
+How many Benjamins?
+
+61
+00:03:26,640 --> 00:03:31,680
+Okay, a reasonable estimate is one view is worth one quarter of one penny
+
+62
+00:03:31,680 --> 00:03:34,240
+split between YouTube and the creator,
+
+63
+00:03:34,240 --> 00:03:38,320
+which is the first time a penny has proved too great a measure of value.
+
+64
+00:03:38,320 --> 00:03:44,720
+So a better way to think about it is 1,000 views generates about $2.50 of advertising dollars.
+
+65
+00:03:44,720 --> 00:03:48,720
+YouTube then splits that money between the creator and themselves $55.45,
+
+66
+00:03:48,720 --> 00:03:52,160
+about $1.40 for the creator and $1.10 for YouTube.
+
+67
+00:03:52,160 --> 00:03:53,840
+Or, if you want to think big about it,
+
+68
+00:03:53,840 --> 00:03:59,680
+every million views is $1,400 for the creator and $1,100 for YouTube.
+
+69
+00:03:59,680 --> 00:04:01,280
+Again, on average,
+
+70
+00:04:01,280 --> 00:04:05,680
+particular channels might be splitting 50 cents per thousand or $4.50 per thousand.
+
+71
+00:04:05,680 --> 00:04:07,440
+It all depends on the auction.
+
+72
+00:04:07,440 --> 00:04:08,480
+So that's how it works.
+
+73
+00:04:08,480 --> 00:04:14,080
+A Niagara of content sorted and sold by bots to bots for humans to watch.
+

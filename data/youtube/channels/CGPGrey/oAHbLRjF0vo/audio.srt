@@ -1,0 +1,540 @@
+1
+00:00:00,000 --> 00:00:08,840
+What's the fastest way to board an airplane?
+
+2
+00:00:08,840 --> 00:00:12,920
+I mean, you can't just throw open the gates like funneling cattle into a chute.
+
+3
+00:00:12,920 --> 00:00:14,120
+That's not for us.
+
+4
+00:00:14,120 --> 00:00:15,680
+We're primates, after all.
+
+5
+00:00:15,680 --> 00:00:20,240
+So let's put our monkey brains to work to tackle this cue, which is what boarding groups
+
+6
+00:00:20,240 --> 00:00:21,240
+do.
+
+7
+00:00:21,240 --> 00:00:23,360
+Prioritize plainly packing primates precisely.
+
+8
+00:00:23,360 --> 00:00:24,360
+Primarily.
+
+9
+00:00:24,360 --> 00:00:26,120
+Okay, we have a suggestion.
+
+10
+00:00:26,120 --> 00:00:29,080
+Pour people into the plane back to front.
+
+11
+00:00:29,080 --> 00:00:31,980
+This is an intuitive solution to fill a cylinder.
+
+12
+00:00:31,980 --> 00:00:36,140
+But there's almost a law of the universe that solutions which are the first thing you think
+
+13
+00:00:36,140 --> 00:00:42,320
+of and look sensible and are easy to implement are often terrible, ineffective solutions
+
+14
+00:00:42,320 --> 00:00:46,280
+once implemented will drag on civilization forever.
+
+15
+00:00:46,280 --> 00:00:47,280
+Cough.
+
+16
+00:00:47,280 --> 00:00:49,540
+Voting systems cough.
+
+17
+00:00:49,540 --> 00:00:53,680
+So it should come as no surprise that this method is not good.
+
+18
+00:00:53,680 --> 00:00:57,000
+And also what most airlines use to board their planes.
+
+19
+00:00:57,000 --> 00:00:58,080
+Let's watch it in action.
+
+20
+00:00:58,080 --> 00:01:01,000
+The first boarding group walks to the back of the plane.
+
+21
+00:01:01,000 --> 00:01:05,720
+Everything is smooth, right until the first to go reaches their row and starts to stow.
+
+22
+00:01:05,720 --> 00:01:07,120
+So slow.
+
+23
+00:01:07,120 --> 00:01:10,800
+And for passenger two, while their seat is in view, there's nothing to do.
+
+24
+00:01:10,800 --> 00:01:11,920
+The aisle's one cue.
+
+25
+00:01:11,920 --> 00:01:16,240
+We're all cannot but stew stuck like glue until this guy's through.
+
+26
+00:01:16,240 --> 00:01:17,280
+Phew.
+
+27
+00:01:17,280 --> 00:01:18,640
+It's bags.
+
+28
+00:01:18,640 --> 00:01:21,760
+Bags cause most of the delay boarding a flight.
+
+29
+00:01:21,760 --> 00:01:22,760
+Like with this.
+
+30
+00:01:22,760 --> 00:01:24,000
+A full stop stow.
+
+31
+00:01:24,000 --> 00:01:29,820
+When it happens, everyone boarding the plane within and without must wait until one person
+
+32
+00:01:29,820 --> 00:01:32,100
+finishes stowing their bag.
+
+33
+00:01:32,100 --> 00:01:33,100
+Can you feel it?
+
+34
+00:01:33,100 --> 00:01:38,120
+The aggregate lost seconds of human life piling up like a bounty for a delighted reaper.
+
+35
+00:01:38,120 --> 00:01:39,360
+Of course you can.
+
+36
+00:01:39,360 --> 00:01:41,600
+You can feel it with every bag.
+
+37
+00:01:41,600 --> 00:01:43,280
+Uh, what was I saying?
+
+38
+00:01:43,280 --> 00:01:44,280
+Right.
+
+39
+00:01:44,280 --> 00:01:49,200
+Back to front boarding groups have a lot of full stop stows and very few of what you want.
+
+40
+00:01:49,200 --> 00:01:52,000
+Pullaways and parallels and parallels and pullaways.
+
+41
+00:01:52,000 --> 00:01:57,280
+Pullaways turn one cue into two and parallels decrease total bag stow time and are super
+
+42
+00:01:57,280 --> 00:01:58,280
+satisfying.
+
+43
+00:01:58,280 --> 00:02:02,240
+The rare triple partner parallel invoking a double high five at the sheer pleasure of
+
+44
+00:02:02,240 --> 00:02:03,960
+its efficiency.
+
+45
+00:02:03,960 --> 00:02:06,880
+But loading back to front lets few of these happen.
+
+46
+00:02:06,880 --> 00:02:12,200
+Now say you weren't just not good at designing boarding groups, but you were malicious and
+
+47
+00:02:12,200 --> 00:02:16,920
+wanted to maximize the amount of human life wasted on a flight.
+
+48
+00:02:16,920 --> 00:02:20,900
+What would you do?
+
+49
+00:02:20,900 --> 00:02:23,180
+Not back to front, but front to back.
+
+50
+00:02:23,180 --> 00:02:25,280
+The smaller the boarding group, the better.
+
+51
+00:02:25,280 --> 00:02:30,740
+This makes almost every tedious shuffle forward result in a full stop stow because most of
+
+52
+00:02:30,740 --> 00:02:35,620
+the line waits by rows already full or outside the plane.
+
+53
+00:02:35,620 --> 00:02:36,620
+Look familiar?
+
+54
+00:02:36,620 --> 00:02:40,020
+This is where we acknowledge the class structure of airplanes.
+
+55
+00:02:40,020 --> 00:02:44,420
+Real planes look like this and first class boards first, front to back before the pro
+
+56
+00:02:44,420 --> 00:02:46,700
+economy file in back to front.
+
+57
+00:02:46,700 --> 00:02:51,660
+So excluding pre-boarding, all airlines start with a little of the slowest boarding method
+
+58
+00:02:51,660 --> 00:02:53,660
+you could intentionally design.
+
+59
+00:02:53,660 --> 00:02:58,180
+Now obviously this video will soon reveal faster boarding procedures, and you will wonder
+
+60
+00:02:58,180 --> 00:03:00,680
+why don't airlines use the faster methods?
+
+61
+00:03:00,680 --> 00:03:04,140
+One possible answer is economic incentives.
+
+62
+00:03:04,140 --> 00:03:08,660
+First class pays for perks, sometimes breathtaking perks for breathtaking amounts.
+
+63
+00:03:08,660 --> 00:03:10,820
+And boarding first is one of them.
+
+64
+00:03:10,820 --> 00:03:15,220
+Also airlines give everyone loyalty points that move you up the class structure the more
+
+65
+00:03:15,220 --> 00:03:16,900
+you fly with that airline.
+
+66
+00:03:16,900 --> 00:03:21,140
+Which gives airlines another good reason to group people and probably helps explain why
+
+67
+00:03:21,140 --> 00:03:31,140
+they switched away from the older, faster method you won't believe they used to use.
+
+68
+00:03:31,140 --> 00:03:34,860
+Doing nothing and having people board the flight in whatever order they show up to get
+
+69
+00:03:34,860 --> 00:03:38,800
+their assigned seat is faster than organizing tidy boarding groups.
+
+70
+00:03:38,800 --> 00:03:42,740
+This is because random people are spread, well, randomly, increasing the chances of
+
+71
+00:03:42,740 --> 00:03:47,140
+pullaways and parallels, unlike the more orderly methods airlines have switched to.
+
+72
+00:03:47,140 --> 00:03:51,380
+Man, it's always frustrating to know that to literally have done nothing would be faster
+
+73
+00:03:51,380 --> 00:03:53,220
+than the something that is done.
+
+74
+00:03:53,220 --> 00:03:57,580
+But surely there's a better boarding group order to be found if we can just subtract
+
+75
+00:03:57,580 --> 00:04:00,340
+malice and add thinking to this problem.
+
+76
+00:04:00,340 --> 00:04:01,860
+Ah, three groups.
+
+77
+00:04:01,860 --> 00:04:04,100
+Window, middle, aisle, in that order.
+
+78
+00:04:04,100 --> 00:04:08,820
+This is really the same as doing random thrice, one for each column of the craft, but the
+
+79
+00:04:08,820 --> 00:04:13,860
+reason it's a smidge faster is because it eliminates the other source of boarding delay.
+
+80
+00:04:13,860 --> 00:04:14,860
+Seat shuffles.
+
+81
+00:04:14,860 --> 00:04:18,860
+When people board randomly, seat shuffling is going to happen a bunch, and when people
+
+82
+00:04:18,860 --> 00:04:21,700
+spill into the aisle, it slows the queue.
+
+83
+00:04:21,700 --> 00:04:26,200
+Ordering everyone by window, middle, aisle ensures a seat shuffle will never happen.
+
+84
+00:04:26,200 --> 00:04:30,420
+This seems like it should be a big improvement, but when you simulate boarding an aircraft
+
+85
+00:04:30,420 --> 00:04:34,660
+with a ton of real math rather than just animating it in a dramatically simplified fashion, or
+
+86
+00:04:34,660 --> 00:04:40,220
+do actual experiments, the seat shuffle just isn't a big deal compared to bag stowage.
+
+87
+00:04:40,220 --> 00:04:44,860
+People wrangling their one bag that won't possibly fit, or trying to get on board with
+
+88
+00:04:44,860 --> 00:04:48,020
+three bags because they don't think the rules should apply to them, who then also fiddle
+
+89
+00:04:48,020 --> 00:04:51,820
+around with getting their laptops out after stowing them, those kinds of delays count
+
+90
+00:04:51,820 --> 00:04:52,900
+for much more.
+
+91
+00:04:52,900 --> 00:04:56,780
+So window, middle, aisle is maybe a smidge faster than random, which is good, and some
+
+92
+00:04:56,780 --> 00:05:01,220
+airlines use this method, which gets their planes turned around faster than back to front
+
+93
+00:05:01,220 --> 00:05:03,860
+while still giving them boarding groups to play games with.
+
+94
+00:05:03,860 --> 00:05:08,740
+The vast majority of airlines use either back to front or window, middle, aisle, so
+
+95
+00:05:08,740 --> 00:05:13,020
+keep an eye out next time you're boarding a flight, or which is happening to you.
+
+96
+00:05:13,020 --> 00:05:18,360
+But can we go farther, leaving the real world with its class systems and people and untidiness
+
+97
+00:05:18,360 --> 00:05:23,620
+and smells ascending to the platonic plane of physics, where cows are spheres and people
+
+98
+00:05:23,620 --> 00:05:26,900
+cellular automaton who will execute instructions perfectly?
+
+99
+00:05:26,900 --> 00:05:32,520
+Here in the Celestia, what is the theoretically fastest way to board a plane?
+
+100
+00:05:32,520 --> 00:05:34,960
+On this level, here is what's possible.
+
+101
+00:05:52,840 --> 00:05:58,440
+To achieve this ballet, there are no boarding groups, but everyone stands in an exact order.
+
+102
+00:05:58,440 --> 00:06:03,840
+Back to front, in alternating rows, on alternating sides, windows in.
+
+103
+00:06:03,840 --> 00:06:09,160
+This maximizes pullaways and parallels, pristinely packing people in a pinch.
+
+104
+00:06:09,160 --> 00:06:13,760
+Witnessing such glory is too much for mortal minds to bear for long, so we are forced to
+
+105
+00:06:13,760 --> 00:06:16,680
+descend back down into the meat world.
+
+106
+00:06:16,680 --> 00:06:23,080
+The cacophony, the smell, where we must stuff monkeys into a tube, monkeys with families
+
+107
+00:06:23,080 --> 00:06:28,240
+where separating their young invites chaos and cleanup, where economic incentives divide
+
+108
+00:06:28,240 --> 00:06:33,880
+to profit, and where, even at their best, the human inability to follow instructions
+
+109
+00:06:33,880 --> 00:06:36,200
+is breathtaking.
+
+110
+00:06:36,200 --> 00:06:45,840
+Here, people upon seeing boarding group 123 would flip the hell out, let alone the impossibility
+
+111
+00:06:45,840 --> 00:06:50,760
+of trying to get them to stand in line in order, and where, even if faster, like watching
+
+112
+00:06:50,760 --> 00:06:55,920
+seconds of a clock, people would complain it was slower.
+
+113
+00:06:55,920 --> 00:06:58,160
+Such gifts we were not meant to have.
+
+114
+00:06:58,160 --> 00:07:03,560
+But is there a way we can modify this perfection to improve our lot on this plane?
+
+115
+00:07:03,560 --> 00:07:04,560
+Yes.
+
+116
+00:07:04,560 --> 00:07:09,440
+Instead of exact order, boarding group the first would be all one side of the plane in
+
+117
+00:07:09,440 --> 00:07:10,800
+every other row.
+
+118
+00:07:10,800 --> 00:07:14,600
+Boarding group the second, the other side, then back, and back again.
+
+119
+00:07:14,600 --> 00:07:16,600
+One, two, three, four.
+
+120
+00:07:16,600 --> 00:07:18,720
+We can't ask people for more.
+
+121
+00:07:18,720 --> 00:07:24,080
+This shadow of the perfect method has a chance of working in the real world, with benefits
+
+122
+00:07:24,080 --> 00:07:28,780
+like letting humans with families and friends board together, giving airlines boarding groups
+
+123
+00:07:28,780 --> 00:07:33,240
+they can still play with, and still being faster than the current methods.
+
+124
+00:07:33,240 --> 00:07:36,520
+Reaching for perfection, we will always come up short.
+
+125
+00:07:36,520 --> 00:07:42,760
+But perhaps we can manage to get closer in the process.
+
+126
+00:07:42,760 --> 00:07:47,960
+Oh, before you go, let me leave you with an annoying thought.
+
+127
+00:07:47,960 --> 00:07:52,720
+You know how boarding a flight from front to back by row is the slowest possible method?
+
+128
+00:07:52,720 --> 00:07:54,080
+The Reaper method?
+
+129
+00:07:54,080 --> 00:07:59,200
+Well, after your flight, when the plane pulls into the gate, and everyone ignores the flight
+
+130
+00:07:59,200 --> 00:08:03,720
+attendant's admonishment to wait until the fastened seatbelt is off to grab their bag,
+
+131
+00:08:03,720 --> 00:08:06,640
+and the door opens, how do we deplane?
+
+132
+00:08:06,640 --> 00:08:07,640
+That's right.
+
+133
+00:08:07,640 --> 00:08:10,260
+Front to back, row by row.
+
+134
+00:08:10,260 --> 00:08:11,760
+No slower could we go.
+
+135
+00:08:22,720 --> 00:08:27,720
+TICK TICK TICK
+

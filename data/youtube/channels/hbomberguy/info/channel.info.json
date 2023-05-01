@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ED6DQl1dD1ISBXm1-AYE2zO2EoQ",
+  "id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "snippet": {
+    "title": "hbomberguy",
+    "description": "I make videos\n\nSend all enquiries to contact@hbomb.zone",
+    "customUrl": "@hbomberguy",
+    "publishedAt": "2006-05-28T10:30:39Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqM7OXMBoSoGpUuZKYZFEowzF-O5STxkhtA7o5Hg5A=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqM7OXMBoSoGpUuZKYZFEowzF-O5STxkhtA7o5Hg5A=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AGIKgqM7OXMBoSoGpUuZKYZFEowzF-O5STxkhtA7o5Hg5A=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "hbomberguy",
+      "description": "I make videos\n\nSend all enquiries to contact@hbomb.zone"
+    },
+    "country": "GB"
+  },
+  "statistics": {
+    "viewCount": "156853035",
+    "subscriberCount": "1210000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "68"
+  }
+}

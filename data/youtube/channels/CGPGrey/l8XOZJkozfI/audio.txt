@@ -1,0 +1,120 @@
+Queen Lion is looking to make the elections in her animal kingdom more fair.
+Currently, she divides her citizens into ranges, each of which selects one representative to
+go to the Jungle Council, which makes laws for the kingdom.
+But her citizens are unhappy, and it's easy to see why.
+The council is full of monkeys.
+Of course, some of her citizens are monkeys, but not all of them.
+This council doesn't fairly represent her kingdom.
+Queen Lion visits one of the ranges to find out what's wrong and how to fix it.
+In this range, there are five monkeys, four tigers, three owls, two lynx, and one buffalo.
+One of each runs for representative, and all citizens vote for their own species.
+The election rule is that the candidate with the most votes wins, which is the monkey.
+But it's a pretty unsatisfying result considering that two-thirds of the citizens in this range
+aren't monkeys and wouldn't vote for monkeys.
+This is the same across all the ranges of the kingdom.
+The monkeys always happen to have more votes than anybody else, so they win all the elections
+even though they're a minority of the total population.
+Closer inspection reveals that the independent advisors hired to draw the range boundaries
+in the first place weren't as independent as they might have appeared.
+The result is unhappy citizens who don't trust the Jungle Council to make the fairest laws
+for all, quite rightly.
+Now Queen Lion wants to maximize the number of citizens happy with the election results.
+One way to do that is to abolish the ranges and use a proportional system.
+But her citizens want local representatives.
+So Queen Lion needs a system that both makes her citizens happier by having a more representative
+council while keeping the local elections in place.
+After doing a little research, she finds out how.
+Single transferable vote.
+The big change with STV is that ranges send more than one representative, which may seem
+weird, but Queen Lion decides to test it out.
+She takes three ranges which used to each send one representative and combines them
+into one bigger range that will send three.
+On election day, citizens go to the polls and the results in this new range are just
+the same as they were in the old ranges.
+So nothing seems better, but with STV to figure out the winners, take the total votes and
+divide them by the number of representatives needed, in this case three, which gives 33%
+as the amount a candidate needs to win.
+So all three candidates go to the council, which accurately represents the citizens in
+the range.
+Whereas under the old system, each individual range would have sent a monkey, leaving two
+thirds of the citizens without representation.
+A bigger range with multiple winners allows the results to be more proportional.
+This test turned out well, but it was also as simple as could be.
+Now Queen Lion wants to see what happens in a race where not everybody is a winner.
+The next big range she tests has five candidates running for office.
+Gorilla, Tarsier, Monkey, Tiger, and Lynx, three of which can be representatives.
+Election day comes and goes and here are the results of the citizens' first choices.
+Tarsier gets 5%, Gorilla gets 28%, Monkey gets 33%, Tiger gets 21%, and Lynx gets 13%.
+As before, a candidate needs 33% to win.
+Monkey has that and so is immediately selected as one of the three representatives.
+But no one else reached the winning 33%, so how are the other two representatives selected?
+Step one, get rid of the biggest loser.
+Sorry Tarsier, you really had no chance at all.
+When the citizens voted, they could have just put an X next to the candidate they liked
+best.
+But with STV, they can also rank their favorite candidates.
+This is important because it shows how the election would have turned out if one of the
+candidates hadn't run.
+Tiny and worried Tarsiers would have voted for the big calm Gorilla without Tarsier in
+the race.
+So if their candidate can't win, they want their votes to go to the Gorilla instead.
+This pushes Gorilla up to 33% and he becomes the next representative.
+Ranking allows citizens to support their favorite candidate without worrying.
+There's no point in strategizing about how everyone else is going to vote.
+The system works to maximize voter happiness with the result.
+Now back to the range.
+There's still one representative to select, so the next biggest loser is Lynx.
+His voters don't like Simeon's, but they do think Tiger's interests are similar to theirs
+and so if Lynx can't win, they want Tiger to get their votes.
+He reaches 33% and becomes the third and final representative.
+The election results look pretty good, especially considering the citizens' first and second
+choices.
+Citizens also have a local representative they can feel comfortable approaching, whereas
+using the old system, everybody gets a monkey.
+Lastly, Queenline wants to know what happens in a range with just two political parties.
+Under the most votes win system, multiple candidates from the same party would be a
+disaster.
+They'd split their voters and hand the win to their opposition.
+Queenline makes one last test range with two thirds Tiger's and one third Gorilla's that,
+as before, needs three representatives.
+Because citizens rank their candidates under STV, there can be more than one candidate
+from the same party running at the same time without any problems.
+The Tiger's run two candidates, as do the Gorilla's.
+On election day, White Tiger gets a massive amount of first choice votes, probably because
+he's so cool.
+Meanwhile, the Gorilla's are split between their new guy and the old silverback.
+White Tiger is selected as the first representative, but what happens next?
+While Tiger is the biggest loser and it seems like he should be eliminated, it's also obvious
+that he would have gotten way more votes if White Tiger wasn't in the race.
+If a candidate has more votes than they need, like White Tiger does, the first step is to
+give the extra votes to their second choice.
+This gets Tiger to 33% and he becomes the next representative.
+If that seems strange, there are two things to consider.
+If instead the extra votes were ignored and Tiger eliminated, then the Gorilla's would
+get the remaining two wins, which would obviously not be representing the range very well.
+And ignoring extra votes punishes citizens who back popular candidates, which gets us
+back to the problem where voters start thinking about how everyone else will vote rather than
+what they really want.
+If a candidate is able to get more votes than they really need, then it also means those
+who support him are a big section of the population and thus fairly should get more representation.
+Right.
+After the extra votes go to Tiger, the election finishes as before.
+Silverback came in last, is eliminated and his voters' second choice is the younger candidate,
+so Gorilla gets in.
+And the results look fair.
+Greenline has seen STV work.
+Whether a range has one party or lots of parties, the process is still always the same.
+First, citizens rank their favorite candidates.
+Second, any candidate above the threshold wins immediately.
+Extra votes then go to their next choice.
+If there's no winner, the last place is eliminated and the votes go to their next choice.
+Repeat until all the winners are found.
+This whole process is designed to maximize the number of citizens who are happy with
+the results.
+And it gives STV many advantages over the old most-votes-wins system.
+Citizens can honestly vote for their favorite candidate without worrying about what everyone
+else is going to do.
+It's more proportional, so monkeying with the borders matters less.
+And almost all citizens will have a local representative they actually voted for.
+In the end, Queenline decides to switch the council's elections to single transferable
+vote to make a better jungle council for all.

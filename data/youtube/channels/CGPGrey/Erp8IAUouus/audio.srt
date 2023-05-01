@@ -1,0 +1,536 @@
+1
+00:00:00,000 --> 00:00:05,160
+Americans love their independence, a nation of pioneers living out from under the eye of government.
+
+2
+00:00:05,160 --> 00:00:06,640
+Except for all the government.
+
+3
+00:00:06,640 --> 00:00:10,620
+As such, unlike many other countries, Americans don't have a national ID card,
+
+4
+00:00:10,620 --> 00:00:15,800
+and even the idea of creating one is a political hot topic every election cycle.
+
+5
+00:00:15,800 --> 00:00:17,460
+The results are always the same.
+
+6
+00:00:17,460 --> 00:00:19,580
+We don't need no ID card.
+
+7
+00:00:19,580 --> 00:00:23,300
+But, suspiciously, US citizens do already have this.
+
+8
+00:00:23,300 --> 00:00:27,440
+A card with a unique number that many places will ask for to prove who you are.
+
+9
+00:00:27,480 --> 00:00:30,120
+This is the Social Security card and number,
+
+10
+00:00:30,120 --> 00:00:35,100
+and it has become a quasi-ID stroke unique password to identify citizens.
+
+11
+00:00:35,100 --> 00:00:37,480
+Though, that was never its intended use.
+
+12
+00:00:37,480 --> 00:00:40,480
+For Americans, keeping this number secret is super important,
+
+13
+00:00:40,480 --> 00:00:44,880
+because it's the key to the government and banks identifying you as you.
+
+14
+00:00:44,880 --> 00:00:49,160
+And losing control of it is the worst kind of identity theft that can happen.
+
+15
+00:00:49,160 --> 00:00:52,520
+So how did Americans end up with a national ID number that isn't one,
+
+16
+00:00:52,520 --> 00:00:55,400
+and a card terribly unfit to identify?
+
+17
+00:00:55,400 --> 00:00:58,120
+It all started in the Great Depression of long, long ago,
+
+18
+00:00:58,120 --> 00:01:02,240
+when the government created the Social Security program, a kind of mandatory pension.
+
+19
+00:01:02,240 --> 00:01:05,120
+Citizens would be required to pay in during their working lives,
+
+20
+00:01:05,120 --> 00:01:06,800
+and withdraw in their retirement.
+
+21
+00:01:06,800 --> 00:01:11,160
+The idea being that even if past you didn't save for the sunset years of future you,
+
+22
+00:01:11,160 --> 00:01:15,000
+the eventually old current you would still have something to live on.
+
+23
+00:01:15,000 --> 00:01:18,000
+Now, if you want to think of Social Security as a benefit the government provides,
+
+24
+00:01:18,000 --> 00:01:21,160
+or as a bank account that's yours, is controversial.
+
+25
+00:01:21,160 --> 00:01:26,280
+But either way, this number was created to track what you put in and what you take out.
+
+26
+00:01:26,280 --> 00:01:30,360
+Now, because this was just one government program related only to your working life,
+
+27
+00:01:30,360 --> 00:01:34,760
+you only needed to apply for a Social Security card when you actually started working.
+
+28
+00:01:34,760 --> 00:01:37,840
+But over time, that changed, and the younger you are,
+
+29
+00:01:37,840 --> 00:01:41,080
+the more likely you've had one from the moment of your birth,
+
+30
+00:01:41,080 --> 00:01:43,720
+despite babies' worthlessness as child laborers.
+
+31
+00:01:43,720 --> 00:01:44,520
+So why?
+
+32
+00:01:44,520 --> 00:01:48,760
+Well, it goes back to Americans having no national identity card with a national number,
+
+33
+00:01:48,760 --> 00:01:52,960
+which makes it harder for institutions to keep track of people over their lives.
+
+34
+00:01:52,960 --> 00:01:56,360
+With hundreds of millions of citizens, names and birthdays aren't unique.
+
+35
+00:01:56,360 --> 00:01:59,080
+People move, people marry, people change names.
+
+36
+00:01:59,080 --> 00:02:01,240
+And if you're trying to keep track of everyone,
+
+37
+00:02:01,240 --> 00:02:03,640
+as, say, the United States Tax Department might want to do,
+
+38
+00:02:03,640 --> 00:02:07,880
+it can be a real problem, particularly in the pre-computer days.
+
+39
+00:02:07,880 --> 00:02:12,760
+Hey, wait a minute, look at this number just lying around, the Tax Department said.
+
+40
+00:02:12,760 --> 00:02:15,680
+It's not supposed to be used as an ID number, said the Social Security Department.
+
+41
+00:02:15,680 --> 00:02:17,440
+There are security reasons you should yoink.
+
+42
+00:02:17,440 --> 00:02:21,160
+Thus, the Tax Department piggybacked off of the work the Social Security Department did
+
+43
+00:02:21,160 --> 00:02:25,200
+assigning working adults a number, which made tracking taxes easier,
+
+44
+00:02:25,200 --> 00:02:30,000
+and they highly encouraged parents to get a Social Security number for their children
+
+45
+00:02:30,000 --> 00:02:32,320
+by tying it to a tax discount.
+
+46
+00:02:32,320 --> 00:02:36,800
+Crazily, counting children for tax rebates used to run on the honor system.
+
+47
+00:02:36,800 --> 00:02:38,320
+The US Tax Department told people,
+
+48
+00:02:38,320 --> 00:02:41,440
+1. We will give you a discount on your taxes for each child you have,
+
+49
+00:02:41,440 --> 00:02:44,400
+and 2. Write down your number of children.
+
+50
+00:02:44,400 --> 00:02:47,160
+Please be honest, we don't have a way to check.
+
+51
+00:02:47,160 --> 00:02:50,920
+Which was just asking, nay, begging people to lie,
+
+52
+00:02:50,920 --> 00:02:54,920
+which they did, birthing on paper millions of phantom children.
+
+53
+00:02:54,920 --> 00:02:58,520
+But after requiring each kid to have a Social Security account number
+
+54
+00:02:58,520 --> 00:03:02,640
+connected to a birth certificate before the parents could get the tax discount,
+
+55
+00:03:02,640 --> 00:03:05,160
+all those phantoms faded away.
+
+56
+00:03:05,160 --> 00:03:08,320
+This turned the Social Security number into a unique number
+
+57
+00:03:08,320 --> 00:03:10,760
+that all citizens had right from the start,
+
+58
+00:03:10,760 --> 00:03:12,880
+and that made it easy for lots of other places,
+
+59
+00:03:12,880 --> 00:03:15,280
+like banks and schools and companies and landlords,
+
+60
+00:03:15,280 --> 00:03:19,160
+to also piggyback on the number as an easy way to keep track of people
+
+61
+00:03:19,160 --> 00:03:21,480
+without having to come up with their own systems,
+
+62
+00:03:21,480 --> 00:03:26,160
+and to be able to exchange information about people between institutions.
+
+63
+00:03:26,160 --> 00:03:28,840
+This is super useful for institutions,
+
+64
+00:03:28,840 --> 00:03:32,840
+so the desire of Americans to not have a national identity card
+
+65
+00:03:32,840 --> 00:03:37,920
+led, somewhat inevitably, to the nearest thing available being used as a substitute.
+
+66
+00:03:37,920 --> 00:03:40,240
+Which ended up being worse because the Social Security number
+
+67
+00:03:40,240 --> 00:03:43,640
+was never designed to be used this way in the long, long ago,
+
+68
+00:03:43,640 --> 00:03:47,160
+and you can tell because it has no security built into it.
+
+69
+00:03:47,160 --> 00:03:49,600
+Okay, so there's this neat trick that most ID numbers use,
+
+70
+00:03:49,600 --> 00:03:52,360
+where they can check themselves to see if they're invalid.
+
+71
+00:03:52,360 --> 00:03:55,880
+The simplest way is to have the last couple digits match the sum of the others.
+
+72
+00:03:55,880 --> 00:03:58,600
+All kinds of ID cards and barcodes do this
+
+73
+00:03:58,600 --> 00:04:02,400
+because it makes it impossible to enter an incorrect number in a computer,
+
+74
+00:04:02,400 --> 00:04:05,520
+and makes it harder for fraudsters to guess valid numbers.
+
+75
+00:04:05,520 --> 00:04:09,640
+This is why, if you try to buy something online by guessing a credit card number,
+
+76
+00:04:09,640 --> 00:04:13,320
+the website knows it's invalid before you even click Buy.
+
+77
+00:04:13,320 --> 00:04:16,920
+But because the Social Security number started life in the long, long ago,
+
+78
+00:04:16,920 --> 00:04:20,920
+it's just a number with no self-checking security built in.
+
+79
+00:04:20,920 --> 00:04:25,880
+Worse, if you're born pre-2011, it's not that hard to just guess most of the number.
+
+80
+00:04:25,880 --> 00:04:29,000
+The first three digits are the state where the parents applied for the card,
+
+81
+00:04:29,000 --> 00:04:31,920
+and the last four digits just count up in order,
+
+82
+00:04:31,920 --> 00:04:34,640
+and the middle digits follow a regular pattern.
+
+83
+00:04:34,640 --> 00:04:37,800
+So you can take your number, subtract one,
+
+84
+00:04:37,800 --> 00:04:42,800
+and that's a valid number of someone who was probably born in the same hospital as you
+
+85
+00:04:42,800 --> 00:04:44,200
+around the same time.
+
+86
+00:04:44,200 --> 00:04:47,040
+Thus, a fraudster who knows your time and location of birth
+
+87
+00:04:47,040 --> 00:04:50,880
+can probably get the first five digits by just looking them up on a chart.
+
+88
+00:04:50,880 --> 00:04:55,440
+Institutions ask for the last four digits as a code to identify you as you,
+
+89
+00:04:55,440 --> 00:05:00,280
+which means it's not that hard to put together your number from a security leak anywhere,
+
+90
+00:05:00,280 --> 00:05:02,760
+or just by connecting a few puzzle pieces.
+
+91
+00:05:02,760 --> 00:05:05,640
+The physical card itself is no help either,
+
+92
+00:05:05,640 --> 00:05:10,240
+just a literal piece of cardboard, depending on when it was issued, not even laminated.
+
+93
+00:05:10,280 --> 00:05:11,960
+The Social Security Department used to print
+
+94
+00:05:11,960 --> 00:05:14,080
+not to be used for identification on the cards
+
+95
+00:05:14,080 --> 00:05:17,280
+as a futile attempt to stop institutions for asking for them as IDs,
+
+96
+00:05:17,280 --> 00:05:21,160
+because there's nothing identifying a person on the card.
+
+97
+00:05:21,160 --> 00:05:23,440
+But eventually, they gave up and removed these words,
+
+98
+00:05:23,440 --> 00:05:26,160
+because unlike passports or a driver's license,
+
+99
+00:05:26,160 --> 00:05:30,200
+you can assume all Americans will have this one card.
+
+100
+00:05:30,200 --> 00:05:32,760
+All this means your Social Security card and number
+
+101
+00:05:32,760 --> 00:05:36,240
+probably have less security than your library card,
+
+102
+00:05:36,240 --> 00:05:38,560
+while being vastly more important.
+
+103
+00:05:38,560 --> 00:05:43,160
+So it fails at being a secure number, it fails at being a good ID card,
+
+104
+00:05:43,160 --> 00:05:46,400
+but at least it is universal, which is why people use it.
+
+105
+00:05:46,400 --> 00:05:48,960
+Oh, hello, asterisk, my old friend.
+
+106
+00:05:48,960 --> 00:05:51,920
+No, of course not, this program isn't actually universal.
+
+107
+00:05:51,920 --> 00:05:54,400
+Not everyone has a Social Security account number,
+
+108
+00:05:54,400 --> 00:05:56,520
+and not everyone pays into the program.
+
+109
+00:05:56,520 --> 00:05:58,920
+If you want to get out of paying, you'll just need to first
+
+110
+00:05:58,920 --> 00:06:00,760
+never have received any Social Security benefits
+
+111
+00:06:00,760 --> 00:06:03,720
+and give up your rights to getting any in the future, which seems fair.
+
+112
+00:06:03,720 --> 00:06:07,840
+In addition, you must also be a member of a religion opposed to the idea of Social Security,
+
+113
+00:06:07,840 --> 00:06:11,520
+usually because it's a kind of insurance, and insurance is a kind of gambling.
+
+114
+00:06:11,520 --> 00:06:14,840
+That's harder, but you could always just start your own religion
+
+115
+00:06:14,840 --> 00:06:17,600
+if you were really serious about avoiding taxes.
+
+116
+00:06:17,600 --> 00:06:21,840
+But your new religion must also provide for its elderly and dependent members,
+
+117
+00:06:21,840 --> 00:06:25,880
+which means you have to recreate a Social Security program of sorts in your religion,
+
+118
+00:06:25,880 --> 00:06:27,880
+while also being against Social Security.
+
+119
+00:06:27,880 --> 00:06:30,320
+But if creating a contradictory religion doesn't daunt you,
+
+120
+00:06:30,320 --> 00:06:33,840
+lastly, it must have existed continuously since 1950,
+
+121
+00:06:33,840 --> 00:06:36,120
+which is a giveaway that this exception was written
+
+122
+00:06:36,120 --> 00:06:38,880
+pretty much exclusively for the Amish and Mennonites,
+
+123
+00:06:38,880 --> 00:06:43,920
+and kills dead your plans unless you're willing to undergo a serious change in lifestyle.
+
+124
+00:06:43,920 --> 00:06:45,160
+It doesn't stop there.
+
+125
+00:06:45,160 --> 00:06:48,600
+Keep digging, and you'll find all sorts of other weird, weird exceptions,
+
+126
+00:06:48,600 --> 00:06:53,600
+including some railroad workers, or firefighters, or police, or teachers, but only in Chicago.
+
+127
+00:06:53,600 --> 00:06:55,960
+Usually these are groups that in the long, long ago
+
+128
+00:06:55,960 --> 00:06:59,320
+were able to get out of the program at its creation date.
+
+129
+00:06:59,320 --> 00:07:01,440
+So, nothing's ever straightforward.
+
+130
+00:07:01,440 --> 00:07:04,200
+And that's the deal with this Social Security card,
+
+131
+00:07:04,200 --> 00:07:06,920
+containing a national number for citizens that don't want one
+
+132
+00:07:06,920 --> 00:07:09,680
+on an identification card that fails at identification,
+
+133
+00:07:09,680 --> 00:07:11,920
+given to all citizens, except when it isn't,
+
+134
+00:07:11,920 --> 00:07:15,320
+for a program that's universal, except when it's not.
+

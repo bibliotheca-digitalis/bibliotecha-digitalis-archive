@@ -1,0 +1,239 @@
+WEBVTT
+
+00:00.000 --> 00:05.280
+A calendar year is made of 365 days, a number that refuses to be divided nicely, which is
+
+00:05.280 --> 00:09.680
+why we end up with uneven months of either 30 or 31 days, except for February, the runt
+
+00:09.680 --> 00:11.960
+of the litter, which gets only 28.
+
+00:11.960 --> 00:15.860
+Except when it gets 29, and then the year is 366 days long.
+
+00:15.860 --> 00:16.860
+Why does that happen?
+
+00:16.860 --> 00:19.640
+What kind of crazy universe do we live in where some years are longer than others?
+
+00:19.640 --> 00:22.200
+To answer this, we need to know, just what is a year?
+
+00:22.200 --> 00:25.560
+Way over simplifying it, a year is the time it takes the Earth to make one trip around
+
+00:25.560 --> 00:26.560
+the Sun.
+
+00:26.560 --> 00:28.560
+This happens to line up with a cycle of the seasons.
+
+00:28.560 --> 00:31.660
+Now drawing a little diagram like this showing the Earth jauntily going around the Sun is
+
+00:31.660 --> 00:35.200
+easy to do, but accurately tracking a year is tricky when you're on Earth because the
+
+00:35.200 --> 00:37.420
+universe doesn't provide an overhead map.
+
+00:37.420 --> 00:40.480
+On Earth you only get to see the seasons change, and the obvious way to keep track of their
+
+00:40.480 --> 00:45.260
+comings and goings is to count the days passing, which gives you a 365 day calendar.
+
+00:45.260 --> 00:49.200
+But as soon as you start to use that calendar, it slowly gets out of sync with the seasons,
+
+00:49.200 --> 00:52.320
+and with each passing year the gap gets bigger and bigger and bigger.
+
+00:52.320 --> 00:55.440
+In three decades the calendar will be off by a week, and in a few hundred years the
+
+00:55.440 --> 00:58.760
+seasons would be flipped, meaning Christmas celebrations taking place in summer, which
+
+00:58.760 --> 01:00.080
+would be crazy.
+
+01:00.080 --> 01:01.080
+Why does this happen?
+
+01:01.080 --> 01:02.080
+Did we count the days wrong?
+
+01:02.080 --> 01:04.840
+Well, the calendar predicts that the time it takes for the Earth to go around the Sun
+
+01:04.840 --> 01:09.920
+is 8760 hours, but if you actually timed it with a stopwatch you'd see that a year is
+
+01:09.920 --> 01:13.800
+really longer than the calendar predicts by almost six hours, so our calendar is moving
+
+01:13.800 --> 01:17.000
+ever so slightly faster than the seasons actually change.
+
+01:17.000 --> 01:19.520
+And thus we come to the fundamental problem of all calendars.
+
+01:19.520 --> 01:23.740
+The day-night cycle, while easy to count, has nothing to do with the yearly cycle.
+
+01:23.740 --> 01:26.300
+Day and night are caused by Earth rotating about its axis.
+
+01:26.300 --> 01:29.180
+When you're on the side facing the Sun, it's daytime, and when you're on the other side
+
+01:29.180 --> 01:30.180
+it's night.
+
+01:30.180 --> 01:33.380
+But this rotation is no more connected to the orbital motion around the Sun than a ballerina
+
+01:33.380 --> 01:36.600
+spinning on the back of a truck is connected to the truck's cruising speed.
+
+01:36.600 --> 01:39.180
+Counting the number of ballerina turns to predict how long the truck takes to drive
+
+01:39.180 --> 01:43.340
+in a circle might give you a rough idea, but it's crazy to expect it to be precise.
+
+01:43.340 --> 01:46.460
+Counting the days to track the orbit is pretty much the same thing, and so it shouldn't be
+
+01:46.460 --> 01:50.980
+a surprise when the Earth doesn't happen to make 365 complete spins in a year.
+
+01:50.980 --> 01:56.300
+Rotatingly, while 365 days are too few, 366 days are too many, and still cause the seasons
+
+01:56.300 --> 01:58.740
+to drift out of sync, just in the opposite way.
+
+01:58.740 --> 02:02.060
+The solution to all this is the leap year, where February gets an extra day, but only
+
+02:02.060 --> 02:03.440
+every four years.
+
+02:03.440 --> 02:07.040
+This works pretty well, as each year the calendar is about a quarter day short, so after four
+
+02:07.040 --> 02:09.340
+years you add an extra day to get back in alignment.
+
+02:09.340 --> 02:11.380
+Huzzah, the problem has been solved.
+
+02:11.380 --> 02:12.380
+Except it hasn't.
+
+02:12.380 --> 02:15.740
+Lengthening the calendar by one day every four years is slightly too much, and the calendar
+
+02:15.740 --> 02:19.560
+still falls behind the seasons at a rate of one day per hundred years, which is fine for
+
+02:19.560 --> 02:23.680
+the apathetic, but not for calendar designers who want everything to line up perfectly.
+
+02:23.680 --> 02:26.740
+To fix the irregularity, every century the leap year is skipped.
+
+02:26.740 --> 02:30.540
+So 1896 and 1904 were leap years, but 1900 wasn't.
+
+02:30.540 --> 02:34.240
+This is better, but still leaves the calendar ever so slightly too fast, with an error of
+
+02:34.240 --> 02:36.000
+one day and four hundred years.
+
+02:36.000 --> 02:39.440
+So an additional clause is added to the skip the century rule, that if the century is divisible
+
+02:39.440 --> 02:41.860
+by four hundred, then it will be a leap year.
+
+02:41.860 --> 02:45.160
+So 1900 and 2100 aren't leap years, but 2000 is.
+
+02:45.160 --> 02:49.160
+With these three rules, the error is now just one day off and almost eight thousand years,
+
+02:49.160 --> 02:52.560
+which the current calendar declares mission accomplished and so calls it a day.
+
+02:52.560 --> 02:55.380
+Which is probably quite reasonable, because eight thousand years ago, humans were just
+
+02:55.380 --> 02:58.600
+figuring out that farming might be a good idea, and eight thousand years from now we'll
+
+02:58.600 --> 03:01.540
+hopefully be using a calendar with a better date tracking system.
+
+03:01.540 --> 03:06.480
+But perhaps you're a mathematician and a 0.0001% error is an abomination in your eyes and must
+
+03:06.480 --> 03:07.480
+be removed.
+
+03:07.480 --> 03:10.360
+Tough luck says the universe, because the length of a day isn't even consistent.
+
+03:10.360 --> 03:14.920
+It randomly varies a few milliseconds on average and very slowly decreases by about one millisecond
+
+03:14.920 --> 03:18.800
+per hundred years, which means it's literally impossible to build a perfect calendar that
+
+03:18.840 --> 03:19.960
+lasts forever.
+
+03:19.960 --> 03:23.080
+In theory the length of a day will expand to be as long as the current month, but don't
+
+03:23.080 --> 03:27.000
+worry in practice it will take tens of billions of years and our own expanding sun will destroy
+
+03:27.000 --> 03:28.880
+the earth long before that happens.
+
+03:28.880 --> 03:32.120
+Sorry not quite sure how we got from counting the days of the months to the fiery unavoidable
+
+03:32.120 --> 03:35.880
+end of all human civilization, unless of course we have an adequately funded space program,
+
+03:35.880 --> 03:36.880
+hint hint.
+
+03:36.880 --> 03:37.880
+But there you have it.
+
+03:37.880 --> 03:40.400
+For the next eight millennia, leap years will keep the calendar in sync with the seasons
+
+03:40.400 --> 03:43.880
+but in a surprisingly complicated way.
+
+03:43.880 --> 03:47.040
+You can learn a lot more about orbits, different kinds of years, and supermassive black holes
+
+03:47.040 --> 03:48.200
+over at MinutePhysics.
+
+03:48.200 --> 03:51.080
+As always, Henry does a great job of explaining it all in his new video.
+
+03:51.080 --> 03:51.560
+Go check it out.
+

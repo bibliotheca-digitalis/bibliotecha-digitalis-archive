@@ -1,0 +1,4488 @@
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "What is the Roblox Oof? Where did the Roblox Oof come from? Who made the Roblox Oof? Where am I, Roblox Oof? Can you help me?\n\nGuinness World Records: https://twitter.com/hbomberguy\nDinosaur...",
+  "duration": 7069,
+  "duration_string": "1:57:49",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "ROBLOX_OOF.mp3 [0twDETh6QaI].NA",
+  "id": "0twDETh6QaI",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=0twDETh6QaI",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 1,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 1,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/0twDETh6QaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgjCUA68ZK8sUEf1HOHaTZnp0png",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/0twDETh6QaI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjPpTIAObY5IuKYo_ad_RQv0Dtkg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/0twDETh6QaI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4ursFNcWu6eU8_C_wHvrXiqylgg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/0twDETh6QaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwFBGqRvxYsMqL6Tmf2qPWN80_ug",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "ROBLOX_OOF.mp3",
+  "url": "https://www.youtube.com/watch?v=0twDETh6QaI",
+  "urls": "https://www.youtube.com/watch?v=0twDETh6QaI",
+  "view_count": 6348083,
+  "webpage_url": "https://www.youtube.com/watch?v=0twDETh6QaI",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I certainly hope someone asked for this\n\nPatreon: https://www.patreon.com/Hbomb\nTwitter: https://twitter.com/hbomberguy\nKat's Twitter: https://twitter.com/lolkat\n\nCHAPTERS:\n00:00 - Intro\n3:30...",
+  "duration": 12814,
+  "duration_string": "3:33:34",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Deus Ex： Human Revolution is FINE, And Here's Why [bgJazjz9ZsA].NA",
+  "id": "bgJazjz9ZsA",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=bgJazjz9ZsA",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 2,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 2,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/bgJazjz9ZsA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCKvc9w9vyZux89oxo8lCFjxYc8A",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/bgJazjz9ZsA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0ILrJ1ZiL5pq_62X5V5EG_O7u1g",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/bgJazjz9ZsA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBJ15D6yhOkqwg9-Tr_1NOz4KNTw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/bgJazjz9ZsA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVmoV_096cMQLbJ3PgpXJa-QkWuw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Deus Ex: Human Revolution is FINE, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=bgJazjz9ZsA",
+  "urls": "https://www.youtube.com/watch?v=bgJazjz9ZsA",
+  "view_count": 7615688,
+  "webpage_url": "https://www.youtube.com/watch?v=bgJazjz9ZsA",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "What is the science behind the anti-vaccine movement, and is it any good? Let’s find out!\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nKat's Twitter:...",
+  "duration": 6250,
+  "duration_string": "1:44:10",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Vaccines and Autism： A Measured Response [8BIcAZxFfrc].NA",
+  "id": "8BIcAZxFfrc",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 3,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 3,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/8BIcAZxFfrc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8z6nfAjnGMA-CgfvRMHS56k8Fiw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/8BIcAZxFfrc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDefvz1CQHCIHXV6W85phCSKMq5LA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/8BIcAZxFfrc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbgALnXn_23XH1BX1mSX6T3SH1tA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/8BIcAZxFfrc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD91xJO_j6G2zYsdw6c_2WUCNBTNg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Vaccines and Autism: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+  "urls": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+  "view_count": 6331218,
+  "webpage_url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Christmas is a moo point.\n\nMy Twitter: https://twitter.com/hbomberguy\r\nMy Patreon: https://www.patreon.com/Hbomb\r\nMy Twitch: https://www.twitch.tv/hbomberguy/",
+  "duration": 3238,
+  "duration_string": "53:58",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The War on Christmas： A Measured Response [jbZo4x0NbbI].NA",
+  "id": "jbZo4x0NbbI",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 4,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 4,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/jbZo4x0NbbI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtVeSFrcOyKPZGmgF1aInDaigJxg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/jbZo4x0NbbI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGnVLxdGfsEmyyrJmusTD13CF2PQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/jbZo4x0NbbI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5X7iDlkoxRc7TlzgZXdk6pr6vkg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/jbZo4x0NbbI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh8BOTOrRq5Mhq3rZF3CgJSWL3Zw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The War on Christmas: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+  "urls": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+  "view_count": 3767928,
+  "webpage_url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "(Spoilers for New Vegas, obviously)\n\nMy Twitter: https://twitter.com/hbomberguy\r\nMy Patreon: https://www.patreon.com/Hbomb\r\nMy Twitch: https://www.twitch.tv/hbomberguy\n\nChapters:\n0:00 - Intro...",
+  "duration": 5862,
+  "duration_string": "1:37:42",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Fallout： New Vegas Is Genius, And Here's Why [gzF7aHxk4Y4].NA",
+  "id": "gzF7aHxk4Y4",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 5,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 5,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/gzF7aHxk4Y4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0q7I6i3qbrWUIbXwmWlP3_KOvGg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/gzF7aHxk4Y4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAsseN-5M6-s6JffegWQ-IVOngMIQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/gzF7aHxk4Y4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBQcXO5y5wJtm6Cak-P3ukryMPZA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/gzF7aHxk4Y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFv4lJVDZr1l07MEs6RV3jrj2LSA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Fallout: New Vegas Is Genius, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+  "urls": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+  "view_count": 8460708,
+  "webpage_url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I love books.\n\nMy Twitter: https://twitter.com/hbomberguy\r\nMy Patreon: https://www.patreon.com/Hbomb\nMy YouTube: Click on my name. What are you doing\n\nChapters:\n0:00 - Intro\n4:04 - The Histories...",
+  "duration": 8845,
+  "duration_string": "2:27:25",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "RWBY Is Disappointing, And Here's Why [81fdKWOHrdE].NA",
+  "id": "81fdKWOHrdE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=81fdKWOHrdE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 6,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 6,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/81fdKWOHrdE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKvDrkUy5LGVWS4Bqum8T6Oy192A",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/81fdKWOHrdE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAeeHf2YM81_zj4YuDL69lTyLWGQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/81fdKWOHrdE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD-Kzpt-NzoPYK_zh4Tdtwoe05fw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/81fdKWOHrdE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ_WHfI8KJ-mWelmE-xnpdT2yYfA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "RWBY Is Disappointing, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=81fdKWOHrdE",
+  "urls": "https://www.youtube.com/watch?v=81fdKWOHrdE",
+  "view_count": 5406561,
+  "webpage_url": "https://www.youtube.com/watch?v=81fdKWOHrdE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Two hours? That sounds like a nightmare. Luckily, so is the game. And what an amazing nightmare it is.\n\nMandalore's (great and much more concise) Review of Classic HD:\nhttps://youtu.be/HeK36g92zjo...",
+  "duration": 7852,
+  "duration_string": "2:10:52",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Pathologic is Genius, And Here's Why [JsNm2YLrk30].NA",
+  "id": "JsNm2YLrk30",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 7,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 7,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/JsNm2YLrk30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYLklVn8zFqIh0cYHsc_6ifbgPuw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/JsNm2YLrk30/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA52qwWc3DSpa1Qg5NZ3fBLx7CMFQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/JsNm2YLrk30/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQvJ6csVUcitYlKIsqz0hqzDEDPQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/JsNm2YLrk30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgP5j9aWq6IP67XwHtwxHhtc7FnQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Pathologic is Genius, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+  "urls": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+  "view_count": 7797350,
+  "webpage_url": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Get two months of Skillshare for free at https://skl.sh/hbomberguy\n\nAre Director's Cuts worth it? Yes? Probably yes. But what if it's no? Let's have a look!\n\nShannon's YouTube: https://www.youtube....",
+  "duration": 2947,
+  "duration_string": "49:07",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Weighing the Value of Director's Cuts ｜ Scanline [D6OT77T7YlE].NA",
+  "id": "D6OT77T7YlE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=D6OT77T7YlE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 8,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 8,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/D6OT77T7YlE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3fk7dpyRt9wJ9SWQIf1FZXayVfw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/D6OT77T7YlE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0sjKLFXWyhV9AK3sfN0VxPaYbFw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/D6OT77T7YlE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrlsrtRKRWcXE2Q0mafmpPUtFPFg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/D6OT77T7YlE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPZ4qgAcLCKF0sEl9sa94szKK-7A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Weighing the Value of Director's Cuts | Scanline",
+  "url": "https://www.youtube.com/watch?v=D6OT77T7YlE",
+  "urls": "https://www.youtube.com/watch?v=D6OT77T7YlE",
+  "view_count": 1398834,
+  "webpage_url": "https://www.youtube.com/watch?v=D6OT77T7YlE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomberguy\n\nFacts. What are they good for?\n\nTwitter: https://twitter.com/hbomberguy\nPatreon: https://www.patreon.com/Hbomb...",
+  "duration": 2480,
+  "duration_string": "41:20",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Climate Denial： A Measured Response [RLqXkYrdmjY].NA",
+  "id": "RLqXkYrdmjY",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 9,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 9,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/RLqXkYrdmjY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gHighMA8=&rs=AOn4CLAlam60KKZMktjcFvwknRHvtgfqDw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/RLqXkYrdmjY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gHighMA8=&rs=AOn4CLDcCADIIzl4WfIQ-0bCxFz1YTwhYA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/RLqXkYrdmjY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IB4oITAP&rs=AOn4CLDfwbGtt02Ca3N7iqallSZbk3RngA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/RLqXkYrdmjY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IB4oITAP&rs=AOn4CLA4cn7O7F6Pg1aFcRe8EtUKRcxQpA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Climate Denial: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+  "urls": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+  "view_count": 5755063,
+  "webpage_url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Bah-weep-Graaaaagnah wheep ni ni bong\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch: https://www.twitch.tv/hbomberguy/\nhttps://www.hbomb.zone/",
+  "duration": 2756,
+  "duration_string": "45:56",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "My Transformers Midlife Crisis [j7f26gVlDQI].NA",
+  "id": "j7f26gVlDQI",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=j7f26gVlDQI",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 10,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 10,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/j7f26gVlDQI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihXMA8=&rs=AOn4CLA73c2DzdDhAXydR8AWoT7v-gQSeA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/j7f26gVlDQI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXihXMA8=&rs=AOn4CLCB2sdn2XczsVF3dx1T_bwif-zHkA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/j7f26gVlDQI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oVzAP&rs=AOn4CLDE7Wa_3OLp-ZPX8T7S9tqiMLQq5g",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/j7f26gVlDQI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oVzAP&rs=AOn4CLACY_2ou4J_FGmXHWke1lnKTg16ew",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "My Transformers Midlife Crisis",
+  "url": "https://www.youtube.com/watch?v=j7f26gVlDQI",
+  "urls": "https://www.youtube.com/watch?v=j7f26gVlDQI",
+  "view_count": 1702418,
+  "webpage_url": "https://www.youtube.com/watch?v=j7f26gVlDQI",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "https://www.curiositystream.com/hbomberguy\n\nCan a product be truly progressive? How can I free my skin? Let's discuss!\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.co...",
+  "duration": 1604,
+  "duration_string": "26:44",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "WOKE BRANDS [06yy88tLWlg].NA",
+  "id": "06yy88tLWlg",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=06yy88tLWlg",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 11,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 11,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/06yy88tLWlg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANRShb3AzWW5bsvBXmVnywDsWrZA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/06yy88tLWlg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpCo2H-C3aaExnIRi9q8Rr5lgY3A",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/06yy88tLWlg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2SUM1wk6qJBzH2RYfh36nzGTFGw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/06yy88tLWlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU8HHzQr1HRdwB4dFQIuBP7MN2ug",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "WOKE BRANDS",
+  "url": "https://www.youtube.com/watch?v=06yy88tLWlg",
+  "urls": "https://www.youtube.com/watch?v=06yy88tLWlg",
+  "view_count": 3904116,
+  "webpage_url": "https://www.youtube.com/watch?v=06yy88tLWlg",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Had a sitting US congresswoman on my stream to discuss Donkey Kong strategy recently. Here's the clip!\n\nI want to thank everyone who worked behind the scenes to make this stream happen, Pio,...",
+  "duration": 692,
+  "duration_string": "11:32",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "AOC Says Trans Rights [_mvYUaZYtJk].NA",
+  "id": "_mvYUaZYtJk",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=_mvYUaZYtJk",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 12,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 12,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/_mvYUaZYtJk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPAdW44P4wlr7GRgLP5opezqO3PQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/_mvYUaZYtJk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZYljJVvFVzkO0yTUJwXxDtvC2yw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/_mvYUaZYtJk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBVQn5G2r-oNblvPRGvk2pDjsFXA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/_mvYUaZYtJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9ZT_YkU90QhJkG8O2BbbJcmMYbQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "AOC Says Trans Rights",
+  "url": "https://www.youtube.com/watch?v=_mvYUaZYtJk",
+  "urls": "https://www.youtube.com/watch?v=_mvYUaZYtJk",
+  "view_count": 714655,
+  "webpage_url": "https://www.youtube.com/watch?v=_mvYUaZYtJk",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "It's time.\n\nhttps://www.twitch.tv/hbomberguy/\n\nMermaids' Website: https://www.mermaidsuk.org.uk/\n\n\nThe channel for archives of live stuff:\nhttps://www.youtube.com/channel/UCIPqOTYW439-5hUz6r3U1fA/v...",
+  "duration": 208,
+  "duration_string": "3:28",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "DONKEY KONG 64 CHARITY STREAM ON JANUARY 18TH [WIM-GKRS9Vk].NA",
+  "id": "WIM-GKRS9Vk",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=WIM-GKRS9Vk",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 13,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 13,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/WIM-GKRS9Vk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAY7RRWh8AWaw-vCnfoKwwvvYcFUA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/WIM-GKRS9Vk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBx4-pkqkTs1Z5xggF4GlmIsryLmA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/WIM-GKRS9Vk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5y2vLizk0wO9F6ceWyeb-C1h9KQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/WIM-GKRS9Vk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDENG0F5GPSVfVcLZasnbEA_iJAQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "DONKEY KONG 64 CHARITY STREAM ON JANUARY 18TH",
+  "url": "https://www.youtube.com/watch?v=WIM-GKRS9Vk",
+  "urls": "https://www.youtube.com/watch?v=WIM-GKRS9Vk",
+  "view_count": 306025,
+  "webpage_url": "https://www.youtube.com/watch?v=WIM-GKRS9Vk",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "It's like Frisbee, only real\n\nCredits theme (and thumbnail!) by Patricia Taxxon, it's Kissing Ancaps from her album \"Little Spoon\"\nhttps://www.youtube.com/watch?v=57ejGDyqL1w\n\nMy Patreon: https://w...",
+  "duration": 2718,
+  "duration_string": "45:18",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Flat Earth： A Measured Response [2gFsOoKAHZg].NA",
+  "id": "2gFsOoKAHZg",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 14,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 14,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/2gFsOoKAHZg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDU9RES4TXsj8WbhMmJE00R8d8Qxg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/2gFsOoKAHZg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4KoRv1c8v7D7NVd2Z7pO_tU5fnQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/2gFsOoKAHZg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJQByYJ1Lez-H_1OhADNta5_hYPw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/2gFsOoKAHZg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYU6oh-Y0EjU45jUb6pnJ3V6ss6A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Flat Earth: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+  "urls": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+  "view_count": 5144302,
+  "webpage_url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Let's explore the cool stuff that goes into making speedrunning fun!\n\nOh and also let's commit to me destroying my entire life for charity trying to play all of donkey kong 64 in one sitting....",
+  "duration": 2629,
+  "duration_string": "43:49",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Speedrunning Is Awesome, And Here's Why [I5auJOBC828].NA",
+  "id": "I5auJOBC828",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=I5auJOBC828",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 15,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 15,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/I5auJOBC828/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCB3OfZEh5c7g20N6giZcpheihrMQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/I5auJOBC828/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmLjuWYY70XiiZbH5YWMldSHliYg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/I5auJOBC828/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhBoIDXeX0RFqvUj1VSWI-eO5t8A",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/I5auJOBC828/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAw3MZLegIeXtaKrpoSo964BzIHg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Speedrunning Is Awesome, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=I5auJOBC828",
+  "urls": "https://www.youtube.com/watch?v=I5auJOBC828",
+  "view_count": 1950448,
+  "webpage_url": "https://www.youtube.com/watch?v=I5auJOBC828",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Something was creeping and creeping and waiting to be seen and felt and heard.\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch: https://www.twitch.tv...",
+  "duration": 2006,
+  "duration_string": "33:26",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Outsiders： How To Adapt H.P. Lovecraft In the 21st Century [l8u8wZ0WvxI].NA",
+  "id": "l8u8wZ0WvxI",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 16,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 16,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/l8u8wZ0WvxI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCqg39yJz1VFThP3H2FRC01JjXVrA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/l8u8wZ0WvxI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDJ9FfT9wo3Ntc4ewRnjdvb0NjKfQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/l8u8wZ0WvxI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBpV6KQVtyLqjQgB8wE08UISw1QWg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/l8u8wZ0WvxI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBoTh6mpfSrHQlfn4VD99MNygn1KQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Outsiders: How To Adapt H.P. Lovecraft In the 21st Century",
+  "url": "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+  "urls": "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+  "view_count": 1422184,
+  "webpage_url": "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "In attempting to go fast, Hareton Splimby suffers a great loss, and must move past it and heal.\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch:...",
+  "duration": 2051,
+  "duration_string": "34:11",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "CTRL+ALT+DEL ｜ SLA：3 [TebCHHCw9rY].NA",
+  "id": "TebCHHCw9rY",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 17,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 17,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/TebCHHCw9rY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABqd5yVS5vtkHlVJmkYbLtBug4LA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/TebCHHCw9rY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCi4Yr19hIQ8SVX6rY5tHoZOqKh0w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/TebCHHCw9rY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADY69bq0aL9gSaIxc7Nsg5zm7pQw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/TebCHHCw9rY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXSDhFFoEgvrcY5Lnn6i4P5aC3ig",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "CTRL+ALT+DEL | SLA:3",
+  "url": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+  "urls": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+  "view_count": 2221633,
+  "webpage_url": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "You asked for it, YOU GOT IT! After a year of procrastination, IT'S HERE \n\nFt. Music by Patricia Taxxon: https://patriciataxxon.bandcamp.com/\n\nMy Twitter: https://twitter.com/hbomberguy\nMy...",
+  "duration": 2417,
+  "duration_string": "40:17",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Skyrim is Garbage, And Here's Why [WYwpEzBvulA].NA",
+  "id": "WYwpEzBvulA",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=WYwpEzBvulA",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 18,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 18,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/WYwpEzBvulA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjkL-4fB39ZIRorFvLRWANOSkqIg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/WYwpEzBvulA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzQvAzua164BilRwHotrzZIwu8rg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/WYwpEzBvulA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWZWuCICZ1557GGT_NvXnI_5_TEA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/WYwpEzBvulA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjC3E8VvIXwneTPpowkBPhlKyvDQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Skyrim is Garbage, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=WYwpEzBvulA",
+  "urls": "https://www.youtube.com/watch?v=WYwpEzBvulA",
+  "view_count": 1352304,
+  "webpage_url": "https://www.youtube.com/watch?v=WYwpEzBvulA",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Sadboy Paul's still trying to shillz for the pillz. Let's give him a hand with some basic fact-checking!\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb...",
+  "duration": 426,
+  "duration_string": "7:06",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Nice Try, Paul [JOp28hQb_Xw].NA",
+  "id": "JOp28hQb_Xw",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 19,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 19,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/JOp28hQb_Xw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlGTFIRjmdVhOCQPa6QgTtDCeX1g",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/JOp28hQb_Xw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgrVbK3G0dzmbOJ8bYjREGhzAejQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/JOp28hQb_Xw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLL6j_HToImG7TZtozStZPbCdiWQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/JOp28hQb_Xw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpwdIfCQsu0NGZ43Dq_jhsdAgIoQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Nice Try, Paul",
+  "url": "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+  "urls": "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+  "view_count": 1987869,
+  "webpage_url": "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Here's a quick look at what it was like eating a bunch of Soy for 2 months for a silly stunt\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch:...",
+  "duration": 1303,
+  "duration_string": "21:43",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Soy Boy Diet Aftermath [XYXkHIsslD0].NA",
+  "id": "XYXkHIsslD0",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 20,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 20,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/XYXkHIsslD0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFVZEbju_NYphZawW7ifJbKo9LGg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/XYXkHIsslD0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDh4_4-PF6VPUMzBz1YqIE3uTDL4w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/XYXkHIsslD0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7zUhCD7JxfSg92_rgmpkjvPh4jg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/XYXkHIsslD0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXHAA0vZxXlYGrevamzCzxGcM93A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Soy Boy Diet Aftermath",
+  "url": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+  "urls": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+  "view_count": 1355956,
+  "webpage_url": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Soy's destroying men. Please don't do any research and also buy my pills (note: contains soy)\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch:...",
+  "duration": 1862,
+  "duration_string": "31:02",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "SOY BOYS： A MEASURED RESPONSE [C8dfiDeJeDU].NA",
+  "id": "C8dfiDeJeDU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 21,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 21,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/C8dfiDeJeDU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBo7n4VJekZvfQa5xLO7PznSVB7w",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/C8dfiDeJeDU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBIn9IMXSv2d3oRWLA8T4Y2bRKtOg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/C8dfiDeJeDU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKbVdnxgRCC_gG_NcENS3wBjQa2Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/C8dfiDeJeDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHr0KnpRYHGwxInwSeuE-ZRaluRQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "SOY BOYS: A MEASURED RESPONSE",
+  "url": "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+  "urls": "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+  "view_count": 4065388,
+  "webpage_url": "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Here's a brief (by my standards) look at the christmas episode and why everything it stands for is wrong\n\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitter: https://twitter.com/hbomberguy...",
+  "duration": 1605,
+  "duration_string": "26:45",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "2017 Doctor Who Special Analysis [wtPZ96oHH-4].NA",
+  "id": "wtPZ96oHH-4",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=wtPZ96oHH-4",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 22,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 22,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/wtPZ96oHH-4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVlOwdAoVfGTu-d1WibGhMK481Tg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/wtPZ96oHH-4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcF0ZAnILPbznvW9GRoJaock9HRg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/wtPZ96oHH-4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpS9YUvmD95x9E6QKZqDi6n-Mxiw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/wtPZ96oHH-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQg1sqTh9ip64etOaMQXGxzVgWTw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "2017 Doctor Who Special Analysis",
+  "url": "https://www.youtube.com/watch?v=wtPZ96oHH-4",
+  "urls": "https://www.youtube.com/watch?v=wtPZ96oHH-4",
+  "view_count": 870005,
+  "webpage_url": "https://www.youtube.com/watch?v=wtPZ96oHH-4",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Does soy turn you into a leftist monster or is it the main ingredient in the best brain pill ever? Let's turn to Pajama Watson for all the non-answers!\n\nMy Twitter: https://twitter.com/hbomberguy...",
+  "duration": 573,
+  "duration_string": "9:33",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "THE SOY BOY DIET [5MS0TrsI7rE].NA",
+  "id": "5MS0TrsI7rE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=5MS0TrsI7rE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 23,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 23,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/5MS0TrsI7rE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9xc9gY-XsmCV8Avqt41oPiJ8HVA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/5MS0TrsI7rE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBF7n95aNy0MLpgPT6cuPNK5jacVQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/5MS0TrsI7rE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0UagBMNVArSg7kLC0aON11LMM4g",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/5MS0TrsI7rE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYtGlMjck-ZQ9tNzZOzSoi58IdkQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "THE SOY BOY DIET",
+  "url": "https://www.youtube.com/watch?v=5MS0TrsI7rE",
+  "urls": "https://www.youtube.com/watch?v=5MS0TrsI7rE",
+  "view_count": 770710,
+  "webpage_url": "https://www.youtube.com/watch?v=5MS0TrsI7rE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "A look into Dragon's Lair's impact on gaming, how long this impact lasted, what its creators did next, and who its creators really are.\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon:...",
+  "duration": 2597,
+  "duration_string": "43:17",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Halcyon Dreams： The Legacy of Dragon's Lair [CnPOQr1pxY8].NA",
+  "id": "CnPOQr1pxY8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 24,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 24,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/CnPOQr1pxY8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcWDlSTFKfk6gueEi3hhZaszO7mQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/CnPOQr1pxY8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLfVtigRPOyQlHh9Mwqi4phQPyTQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/CnPOQr1pxY8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGI41hs5izgjrcOYyvkyYNlQuo4Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/CnPOQr1pxY8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjzyIcIVAYF_a-EFUhR8hr4UwVkA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Halcyon Dreams: The Legacy of Dragon's Lair",
+  "url": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+  "urls": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+  "view_count": 895301,
+  "webpage_url": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Thanks for all your support!\n\nIf you have a question or suggestion/criticism for me, lemme know on Curiouscat! https://curiouscat.me/Hbomberguy\n\nLINKS\n\nNoah Gervais' YouTube Channel - https://www.y...",
+  "duration": 2183,
+  "duration_string": "36:23",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Hbomberguy's 100K Q&A! [5-qccQbgH6I].NA",
+  "id": "5-qccQbgH6I",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=5-qccQbgH6I",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 25,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 25,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/5-qccQbgH6I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_slD0HIUouAbEhu4KIq7Om3xGlg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/5-qccQbgH6I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVlTy4lFaYD9SidMUo6Vs3iKkhBA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/5-qccQbgH6I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS3E0z97NU6Jzk_lbw1QO85bhCwg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/5-qccQbgH6I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiTWolLXz2wAkgn1lHcVrf-6s3wg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Hbomberguy's 100K Q&A!",
+  "url": "https://www.youtube.com/watch?v=5-qccQbgH6I",
+  "urls": "https://www.youtube.com/watch?v=5-qccQbgH6I",
+  "view_count": 289545,
+  "webpage_url": "https://www.youtube.com/watch?v=5-qccQbgH6I",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Let's have a look at the long-lasting effects tape and its particular properties had on movie language and the cultural landscape of film!\n\nSCANLINE is a video essay series about film's form,...",
+  "duration": 1761,
+  "duration_string": "29:21",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Power Of VHS ｜ SCANLINE [xbZMqS-fW-8].NA",
+  "id": "xbZMqS-fW-8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 26,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 26,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/xbZMqS-fW-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDxEyn05AnMGUqpOH_U5D50zdLSEw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/xbZMqS-fW-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPjOZfTI2_i9tyMr0Jr7uUEHppXQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/xbZMqS-fW-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTWlx4TxJ_0s_UNBvSK4Sw_ei5uA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/xbZMqS-fW-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWslzhreYT_1ZVHzy0BblUUckzwg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Power Of VHS | SCANLINE",
+  "url": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+  "urls": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+  "view_count": 1006194,
+  "webpage_url": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I wonder if any of the '''free-thinkers''' out there (who keep having to borrow each other's points, in the name of thinking for themselves of course) have anything worthwhile to say about...",
+  "duration": 3350,
+  "duration_string": "55:50",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Bill Nye VS Pseudoscience (Part Two!) ｜ Measured Response [LqYgjGDaMYg].NA",
+  "id": "LqYgjGDaMYg",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=LqYgjGDaMYg",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 27,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 27,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/LqYgjGDaMYg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbWmJfRC_oLIkqII9QVXyPZ7SPhA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/LqYgjGDaMYg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBIPBWtqUoO6IaB5MOxexCpYnJ76A",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/LqYgjGDaMYg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0c3U27niHXDOS91icvZkVdfCSdw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/LqYgjGDaMYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTJI3kKFk7ZMB_AUqW94GJWq65_A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Bill Nye VS Pseudoscience (Part Two!) | Measured Response",
+  "url": "https://www.youtube.com/watch?v=LqYgjGDaMYg",
+  "urls": "https://www.youtube.com/watch?v=LqYgjGDaMYg",
+  "view_count": 2253075,
+  "webpage_url": "https://www.youtube.com/watch?v=LqYgjGDaMYg",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Twitter: https://twitter.com/hbomberguy\nPatreon: https://www.patreon.com/Hbomb",
+  "duration": 611,
+  "duration_string": "10:11",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Doomfist In-Depth Analysis & Review [YpdY8eMwjZ8].NA",
+  "id": "YpdY8eMwjZ8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=YpdY8eMwjZ8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 28,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 28,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/YpdY8eMwjZ8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_s7iHwi-k1NcwNg2Rhs6TaqIU_Q",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/YpdY8eMwjZ8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHCNdSdqNmeg-Oy2BsjjDa-nCE5w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/YpdY8eMwjZ8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFqcRNKzxY6aIkRrlBuTzWXVozRQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/YpdY8eMwjZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs06JYHtm_Mp8lsIDDRC0eTKnI6g",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Doomfist In-Depth Analysis & Review",
+  "url": "https://www.youtube.com/watch?v=YpdY8eMwjZ8",
+  "urls": "https://www.youtube.com/watch?v=YpdY8eMwjZ8",
+  "view_count": 326130,
+  "webpage_url": "https://www.youtube.com/watch?v=YpdY8eMwjZ8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "The Lisa series is really cool and sad and I want to talk about why.\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitch: https://www.twitch.tv/hbombergu...",
+  "duration": 2451,
+  "duration_string": "40:51",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Lisa： The Analysis [t-5_zoEsY6c].NA",
+  "id": "t-5_zoEsY6c",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 29,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 29,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/t-5_zoEsY6c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDViBKI2B3tl6IrYzw9YJdzQknLWw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/t-5_zoEsY6c/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDTNm8vPDeZDOElhfII0kHFE12SVA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/t-5_zoEsY6c/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBCRin75_jqTAWAj-S53_pfGJoSPA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/t-5_zoEsY6c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAgB3GVAkDZqgctMdG66VMV7QsD1Q",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Lisa: The Analysis",
+  "url": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+  "urls": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+  "view_count": 1590650,
+  "webpage_url": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Soulbrotha's twitter: https://twitter.com/SoBroNo3\n\nSoulbrotha does workshops for $80 a pop, check his twitter for details.\nSome Testimonials: https://pastebin.com/iTXvzdJJ\n\nMy Twitter: https://twi...",
+  "duration": 1032,
+  "duration_string": "17:12",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Here's Three Stories About YouTube Plagiarism [ZDtJ7bte_zg].NA",
+  "id": "ZDtJ7bte_zg",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=ZDtJ7bte_zg",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 30,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 30,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/ZDtJ7bte_zg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAOUnRYgB00izzpMmX59VRKyMVPg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/ZDtJ7bte_zg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByn2sYpqz9FoG0KCWj4rD8hWkHoA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/ZDtJ7bte_zg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-EE8iiyIxlCWbKBj5fZfvc8z8MA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/ZDtJ7bte_zg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmIpU1LKF18jswlT8WmYpKhKmWeg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Here's Three Stories About YouTube Plagiarism",
+  "url": "https://www.youtube.com/watch?v=ZDtJ7bte_zg",
+  "urls": "https://www.youtube.com/watch?v=ZDtJ7bte_zg",
+  "view_count": 1250074,
+  "webpage_url": "https://www.youtube.com/watch?v=ZDtJ7bte_zg",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Bill Nye has gone too far this time. All the way to THE TRUTH! He'll pay for this!\n\nThis is part one, recorded before I left for VidCon but not finished editing until after I got back.\n\nThis...",
+  "duration": 2105,
+  "duration_string": "35:05",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Measured Response： Bill Nye VS Pseudoscience (Part One) [dklVypazQsA].NA",
+  "id": "dklVypazQsA",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=dklVypazQsA",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 31,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 31,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/dklVypazQsA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCt-OsmDZfs83X-X_K0rH5ZXn87ZA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/dklVypazQsA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlBm7wUI6xow2ycZzFwn0zRbIPSg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/dklVypazQsA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlSHTJ_bCG-R04MH4rKb87r-5FNg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/dklVypazQsA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEIVp9ZBLpvG_-zJFRlvIVn4ZTw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Measured Response: Bill Nye VS Pseudoscience (Part One)",
+  "url": "https://www.youtube.com/watch?v=dklVypazQsA",
+  "urls": "https://www.youtube.com/watch?v=dklVypazQsA",
+  "view_count": 2449116,
+  "webpage_url": "https://www.youtube.com/watch?v=dklVypazQsA",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Let's take a look back at how we got here, and think about where we're probably going.\n\nMy Twitter: https://twitter.com/Hbomberguy\nMy Patreon: https://www.patreon.com/Hbomb\n\nContributions by...",
+  "duration": 1680,
+  "duration_string": "28:00",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "ELECTIONWATCH 2017 [dVbC0jASJYA].NA",
+  "id": "dVbC0jASJYA",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=dVbC0jASJYA",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 32,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 32,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/dVbC0jASJYA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAw6hQSj_b0J89BIvRLmc-abBxZMw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/dVbC0jASJYA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAiCo4uSWyZMEfjoWxRyZLKgRxPyQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/dVbC0jASJYA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfxMkNiHKjxQjAhwgXhe_XpwpHxA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/dVbC0jASJYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKSF8KJcJnHrBOi7pXvRNOp2i6jA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "ELECTIONWATCH 2017",
+  "url": "https://www.youtube.com/watch?v=dVbC0jASJYA",
+  "urls": "https://www.youtube.com/watch?v=dVbC0jASJYA",
+  "view_count": 872842,
+  "webpage_url": "https://www.youtube.com/watch?v=dVbC0jASJYA",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Why is Sherlock so bad? Harris Bomberguy is on the case!\nThis version of the video has been slightly edited to get around the BBC's automatic video-blocking stuff.\n\nMy Twitter: https://twitter.com/...",
+  "duration": 6593,
+  "duration_string": "1:49:53",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Sherlock Is Garbage, And Here's Why [LkoGBOs5ecM].NA",
+  "id": "LkoGBOs5ecM",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 33,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 33,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/LkoGBOs5ecM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOyjENDeQN20qhOJ10fyE7aiQMZw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/LkoGBOs5ecM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBqOs1G8ecARfLbC-e1BqI7Vt5fw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/LkoGBOs5ecM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtMCgQk5TELJR1E57MKACAe-Po9w",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/LkoGBOs5ecM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHHGuXot_xGyIxHp6n6mUUr3F1Ug",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Sherlock Is Garbage, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+  "urls": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+  "view_count": 11189619,
+  "webpage_url": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "A short exploration of the mechanics of Yooka-Laylee that have been abandoned in the time since its formula was popular, and how they still have some value.\n\nPatreon: https://www.patreon.com/Hbomb...",
+  "duration": 833,
+  "duration_string": "13:53",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "What Modern Games Can Learn From Yooka-Laylee [P2mGHeCAJOs].NA",
+  "id": "P2mGHeCAJOs",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=P2mGHeCAJOs",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 34,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 34,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/P2mGHeCAJOs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1OEFlyHDL8l2_uLfxWzghSYo5xA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/P2mGHeCAJOs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsCD6wXs7-ygpSBLvh0KTYbtuirA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/P2mGHeCAJOs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY38lu0o_6MA2uWmwVX050VdoGUw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/P2mGHeCAJOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnUDY9zATlcbldoANdoyNKqVtiyA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "What Modern Games Can Learn From Yooka-Laylee",
+  "url": "https://www.youtube.com/watch?v=P2mGHeCAJOs",
+  "urls": "https://www.youtube.com/watch?v=P2mGHeCAJOs",
+  "view_count": 650274,
+  "webpage_url": "https://www.youtube.com/watch?v=P2mGHeCAJOs",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "In this video we explore Dark Souls 2 and its differences from the previous games in design and execution and the ways, on inspection, it actually proves to be better.\n\nWe also watch, in real...",
+  "duration": 4784,
+  "duration_string": "1:19:44",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "In Defense of Dark Souls 2 [SRTfcMeqhig].NA",
+  "id": "SRTfcMeqhig",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=SRTfcMeqhig",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 35,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 35,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/SRTfcMeqhig/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoKI3RKSyoqXhRun0WkBLJXBlNMw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/SRTfcMeqhig/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrgxDS-zNPQpV8nV5tJyIC6n1nyQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/SRTfcMeqhig/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx11I6hJZ-w5DAXEsrhWybMxMN2A",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/SRTfcMeqhig/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARYTTq4kHkNERF35_MEZ0b0I7D1w",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "In Defense of Dark Souls 2",
+  "url": "https://www.youtube.com/watch?v=SRTfcMeqhig",
+  "urls": "https://www.youtube.com/watch?v=SRTfcMeqhig",
+  "view_count": 3571725,
+  "webpage_url": "https://www.youtube.com/watch?v=SRTfcMeqhig",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Game: All the joy of sex, but with human misery instead of joy!\n\nGuest readings contributed by:\nShaun of Shaun and Jen: https://twitter.com/shaun_jen\nContrapoints: https://twitter.com/ContraPoints...",
+  "duration": 1754,
+  "duration_string": "29:14",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Pick Up Artistry： A Measured Response [_pEfhgG3Ocw].NA",
+  "id": "_pEfhgG3Ocw",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=_pEfhgG3Ocw",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 36,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 36,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/_pEfhgG3Ocw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdodyuI8HdPVJQMw6lUtB0j0nbig",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/_pEfhgG3Ocw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgWFsYs-zYekXpnokW9Vutrk8Xbw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/_pEfhgG3Ocw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGPmVdh1gw7JybSTCWyiXftgk7RA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/_pEfhgG3Ocw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOsIEYQfLNjtW-ENK_KrYHtOdsdQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Pick Up Artistry: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=_pEfhgG3Ocw",
+  "urls": "https://www.youtube.com/watch?v=_pEfhgG3Ocw",
+  "view_count": 2296506,
+  "webpage_url": "https://www.youtube.com/watch?v=_pEfhgG3Ocw",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "It's time to correct the record on The Media, which is definitely out to get me, for some reason\n\n\nTwitter: https:/twitter.com/hbomberguy\nPatreon: https://www.patreon.com/Hbomb\nMusic by Incompetech...",
+  "duration": 858,
+  "duration_string": "14:18",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "PewDiePie Is A Nazi [GjNILjFters].NA",
+  "id": "GjNILjFters",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=GjNILjFters",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 37,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 37,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/GjNILjFters/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSihKMA8=&rs=AOn4CLDz8s69YadNxKck1gjIw4biCCpYFA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/GjNILjFters/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgSihKMA8=&rs=AOn4CLAyjfjOvF5Rz1YcNLiHfUWtWR1E9w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/GjNILjFters/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEooSjAP&rs=AOn4CLBWf2xyO7fdKKUklS5DVd-ZltueEw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/GjNILjFters/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEooSjAP&rs=AOn4CLB1DiCkarVeosQswy5cMvywUF47Cg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "PewDiePie Is A Nazi",
+  "url": "https://www.youtube.com/watch?v=GjNILjFters",
+  "urls": "https://www.youtube.com/watch?v=GjNILjFters",
+  "view_count": 2163249,
+  "webpage_url": "https://www.youtube.com/watch?v=GjNILjFters",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "What are terms of service - and what are commulists? Let's find out!\nArt Piece by \"Ssuci Titty Lizard\"\n\nhttps://twitter.com/hbomberguy\nhttps://www.patreon.com/Hbomb",
+  "duration": 590,
+  "duration_string": "9:50",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "#FreeSargon： A Measured Response [aL_vIqMiHK0].NA",
+  "id": "aL_vIqMiHK0",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=aL_vIqMiHK0",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 38,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 38,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/aL_vIqMiHK0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbmqih7OEoCsBbLqQi_4dYyhtChA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/aL_vIqMiHK0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDsmuOzxE5bhQ4P3fbgJXYhKBPapQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/aL_vIqMiHK0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALWikWmcQ1njPLr0L_MUS60HA8Jg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/aL_vIqMiHK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoHC4bzk0b44kAUWDLOYayDchwHQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "#FreeSargon: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=aL_vIqMiHK0",
+  "urls": "https://www.youtube.com/watch?v=aL_vIqMiHK0",
+  "view_count": 1671702,
+  "webpage_url": "https://www.youtube.com/watch?v=aL_vIqMiHK0",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "On this week's Serious Lore Analysis, Hareton Splimby delves into the mind of the spirit of the soul to find out why New Donk City is so utterly horrifying and upsetting.\n\nTwitter: https://twitter....",
+  "duration": 921,
+  "duration_string": "15:21",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Why Is New Donk City Uncanny？ - SERIOUS LORE ANALYSIS [5_IT0C7bm2s].NA",
+  "id": "5_IT0C7bm2s",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=5_IT0C7bm2s",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 39,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 39,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/5_IT0C7bm2s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2mtkBqz1ntqVqRaW4wEtRrRiGCg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/5_IT0C7bm2s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAekwSiLT7HZWyzbBeyB17Dlh3JNA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/5_IT0C7bm2s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALP4WeGIaApBfrYyfO4MogsDUMBw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/5_IT0C7bm2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN3hCo6AC6Lgk5kLr7p1Cwld9RXQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Why Is New Donk City Uncanny? - SERIOUS LORE ANALYSIS",
+  "url": "https://www.youtube.com/watch?v=5_IT0C7bm2s",
+  "urls": "https://www.youtube.com/watch?v=5_IT0C7bm2s",
+  "view_count": 609354,
+  "webpage_url": "https://www.youtube.com/watch?v=5_IT0C7bm2s",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "This new year, Harris Bomberguy tiffs about Bethesda and also figures out how to save gamiing from corporate shenanigans\n\nPatreon: https://www.patreon.com/hbomb\nTwitter: https://twitter.com/hbomberguy",
+  "duration": 1343,
+  "duration_string": "22:23",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Bethesda VS Critics： How To Save The Games Industry [C6NiXAdMzEk].NA",
+  "id": "C6NiXAdMzEk",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=C6NiXAdMzEk",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 40,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 40,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/C6NiXAdMzEk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYl9A6E-BVNIXXaQraY7tIwngQsg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/C6NiXAdMzEk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBojZFhTDAXY4PbpFmS0R8zLI_Bew",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/C6NiXAdMzEk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa_ilnQyqMajNLS8b946lJpnscUw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/C6NiXAdMzEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4WigKmxzOEXMdHcblPgg0HIft5Q",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Bethesda VS Critics: How To Save The Games Industry",
+  "url": "https://www.youtube.com/watch?v=C6NiXAdMzEk",
+  "urls": "https://www.youtube.com/watch?v=C6NiXAdMzEk",
+  "view_count": 704950,
+  "webpage_url": "https://www.youtube.com/watch?v=C6NiXAdMzEk",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "WHAT GAMES DID I BOTHER TO PLAY THIS YEAR?\n\nPatreon: https://www.patreon.com/hbomb\nTwitter: https://twitter.com/hbomberguy\n\nCheck back in 365 days to find out if all the games out this year...",
+  "duration": 1223,
+  "duration_string": "20:23",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "HBOMB'S GOTY 2016 LIST [JwYLTJelJ0k].NA",
+  "id": "JwYLTJelJ0k",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=JwYLTJelJ0k",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 41,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 41,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/JwYLTJelJ0k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDA3UVEACm8S2OlK4r7v3SYALJDSA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/JwYLTJelJ0k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNaWUSEC1t5DP8o6O7jWfQ1T6g7w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/JwYLTJelJ0k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcnuO8iP-BkzOb-tP276VzQJtFSA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/JwYLTJelJ0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg58GZfVCvocUE_6VnRSZBL7xf8A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "HBOMB'S GOTY 2016 LIST",
+  "url": "https://www.youtube.com/watch?v=JwYLTJelJ0k",
+  "urls": "https://www.youtube.com/watch?v=JwYLTJelJ0k",
+  "view_count": 319410,
+  "webpage_url": "https://www.youtube.com/watch?v=JwYLTJelJ0k",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "To celebrate the one-year anniversary of the Cultural Marxism video (8 days late of course because despite controlling everything, cultural marxists are lazy and stupid), let's see what The...",
+  "duration": 1375,
+  "duration_string": "22:55",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Golden One： A Measured Response [Ahuj1B0ow4U].NA",
+  "id": "Ahuj1B0ow4U",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=Ahuj1B0ow4U",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 42,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 42,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/Ahuj1B0ow4U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2X56LtfWyGzqkix2fOPzuOvLkqA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/Ahuj1B0ow4U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAw6W5_s0X-6tak2LHltKnaNB-DHA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/Ahuj1B0ow4U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNFds3r2uwnopWb7KZieU4pUGz7A",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/Ahuj1B0ow4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3TMVCgdSvepruwwSPM3zC8ydu7A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Golden One: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=Ahuj1B0ow4U",
+  "urls": "https://www.youtube.com/watch?v=Ahuj1B0ow4U",
+  "view_count": 2612770,
+  "webpage_url": "https://www.youtube.com/watch?v=Ahuj1B0ow4U",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "He's so great",
+  "duration": 211,
+  "duration_string": "3:31",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Stan Lee Owns [RmLFGWAyajU].NA",
+  "id": "RmLFGWAyajU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=RmLFGWAyajU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 43,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 43,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/RmLFGWAyajU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBH8rOdNtrIIDuiAbtjNCx_b_sTkA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/RmLFGWAyajU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgr9k377-ccHQQ1C62g95mYd4DZw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/RmLFGWAyajU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkLpe5Ip7C3RNLg2lGQz0rjIhs_Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/RmLFGWAyajU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ61hnvwzjChk3qmFfW1MpYi9XTA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Stan Lee Owns",
+  "url": "https://www.youtube.com/watch?v=RmLFGWAyajU",
+  "urls": "https://www.youtube.com/watch?v=RmLFGWAyajU",
+  "view_count": 1316028,
+  "webpage_url": "https://www.youtube.com/watch?v=RmLFGWAyajU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "A video essay about the comic industry and its inevitable destruction of even the good things it creates.\n\nMy Patreon: https://www.patreon.com/hbomb\nMy Twitter: https://twitter.com/hbomberguy...",
+  "duration": 986,
+  "duration_string": "16:26",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Killing Joke Movie and The Problem With Comics [4xRDiUD1a8c].NA",
+  "id": "4xRDiUD1a8c",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=4xRDiUD1a8c",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 44,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 44,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/4xRDiUD1a8c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdimo6Ow00NM0_Sudt92dbd6Pv9Q",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/4xRDiUD1a8c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNKhqS3kzIm6wipTfb_cZvvL-hXg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/4xRDiUD1a8c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFXZun_OEHjECksu-iOi0Qtdzyxw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/4xRDiUD1a8c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ4N2uhDWAie08q1IlpXw9KLR7nA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Killing Joke Movie and The Problem With Comics",
+  "url": "https://www.youtube.com/watch?v=4xRDiUD1a8c",
+  "urls": "https://www.youtube.com/watch?v=4xRDiUD1a8c",
+  "view_count": 1890944,
+  "webpage_url": "https://www.youtube.com/watch?v=4xRDiUD1a8c",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "This video is a light retrospective on the development of the Souls series, focused largely on what in particular makes Bloodborne special.\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon:...",
+  "duration": 5200,
+  "duration_string": "1:26:40",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Bloodborne Is Genius, And Here's Why [AC3OuLU5XCw].NA",
+  "id": "AC3OuLU5XCw",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 45,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 45,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/AC3OuLU5XCw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-aYNuezUiTUQLr9rUzALONNF8Jw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/AC3OuLU5XCw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBED_FpxymjfZ9bntRvXe-UyKCnUQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/AC3OuLU5XCw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Y7vCv19x5lHHPTG1TTY4iG_gsQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/AC3OuLU5XCw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfckq6qGAD2OnqvVwnwvQPu2d5DQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Bloodborne Is Genius, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+  "urls": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+  "view_count": 5982036,
+  "webpage_url": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": null,
+  "duration": 210,
+  "duration_string": "3:30",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Second Look At Nintendo Switch [g43NZSmY6-8].NA",
+  "id": "g43NZSmY6-8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=g43NZSmY6-8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 46,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 46,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/g43NZSmY6-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpmD1TpCVKKHwilRXfRgj-C79aXQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/g43NZSmY6-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEDnq7zhqAOJZ4SgXdVhVfZpHtdg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/g43NZSmY6-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAhpBb8hM89M4yk_ZA-HiYvMIUiw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/g43NZSmY6-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-DhArypjO3WDDbhYV4b9o63xeqQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Second Look At Nintendo Switch",
+  "url": "https://www.youtube.com/watch?v=g43NZSmY6-8",
+  "urls": "https://www.youtube.com/watch?v=g43NZSmY6-8",
+  "view_count": 153100,
+  "webpage_url": "https://www.youtube.com/watch?v=g43NZSmY6-8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "People kept linking me this asking me to watch it so I set up a camera and did that. And then I watched it again and read some blogs.\n\nReal, actual videos that feature effort are coming and...",
+  "duration": 902,
+  "duration_string": "15:02",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "I Filmed Myself Watching The Alt Right Dogs Trailer [1t_Bs-8L4Mo].NA",
+  "id": "1t_Bs-8L4Mo",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=1t_Bs-8L4Mo",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 47,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 47,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/1t_Bs-8L4Mo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZFpVNhNmCnj1UkQmGWJBPkEmZkg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/1t_Bs-8L4Mo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZBNQlAGYX75zsudR4rJBOjRGnIA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/1t_Bs-8L4Mo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbP1OXHWrPQr_5tQq-c_B_dT3D5Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/1t_Bs-8L4Mo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeS7poQn6rQoOo5EPpNXIaXoz3Vg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "I Filmed Myself Watching The Alt Right Dogs Trailer",
+  "url": "https://www.youtube.com/watch?v=1t_Bs-8L4Mo",
+  "urls": "https://www.youtube.com/watch?v=1t_Bs-8L4Mo",
+  "view_count": 1412802,
+  "webpage_url": "https://www.youtube.com/watch?v=1t_Bs-8L4Mo",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I finally got around to playing 'Sonic The Hedgehog', an old platformer from 1991. Here are my thoughts about its story, themes and meaning, presented in a highly appropriate manner.\n\nPatreon:...",
+  "duration": 667,
+  "duration_string": "11:07",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "SERIOUS SONIC LORE ANALYSIS [3Oco4WYRdaU].NA",
+  "id": "3Oco4WYRdaU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=3Oco4WYRdaU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 48,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 48,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDEHPfAqFjiXVScm63DpxS2CpXgnA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6hb-JlQpDhEeHiNN46EpbP8E4Vg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk_0BGwZft2s0SRze2cwAC8lSTNg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw9B1_Mb94jeG1h3lU5yT8plcACg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "SERIOUS SONIC LORE ANALYSIS",
+  "url": "https://www.youtube.com/watch?v=3Oco4WYRdaU",
+  "urls": "https://www.youtube.com/watch?v=3Oco4WYRdaU",
+  "view_count": 814549,
+  "webpage_url": "https://www.youtube.com/watch?v=3Oco4WYRdaU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "IT'S TIME TO GET SERIOUS\n\nMy Twitter: https://twitter.com/hbomberguy\nMy Patreon: https://Patreon.com/hbomb",
+  "duration": 418,
+  "duration_string": "6:58",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "THE NO MAN'S SKY RANT [EPILEPSY WARNING] [4DhaUe6y-Co].NA",
+  "id": "4DhaUe6y-Co",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=4DhaUe6y-Co",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 49,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 49,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/4DhaUe6y-Co/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3j5Dvg4zcqziA4MN33Alw8DGRpg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/4DhaUe6y-Co/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAscU9t4GvbKu1QphsWPIJA--tLlg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/4DhaUe6y-Co/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-TPlZabp47qATtUAUohv156tanA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/4DhaUe6y-Co/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE_7K9ZEK4Mb88lTmDBDjzaxTsIQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "THE NO MAN'S SKY RANT [EPILEPSY WARNING]",
+  "url": "https://www.youtube.com/watch?v=4DhaUe6y-Co",
+  "urls": "https://www.youtube.com/watch?v=4DhaUe6y-Co",
+  "view_count": 430483,
+  "webpage_url": "https://www.youtube.com/watch?v=4DhaUe6y-Co",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "A short film about Undertale's themes and message.\n\nI forgot to put arrows and circles in the thumbnail so no-one will see this, but it's too late to change it now.\n\nMy Twitter: https://twitter.com...",
+  "duration": 856,
+  "duration_string": "14:16",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Perverted Sentimentality： An Analysis of UNDERTALE [4E-0sjkDnkc].NA",
+  "id": "4E-0sjkDnkc",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=4E-0sjkDnkc",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 50,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 50,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/4E-0sjkDnkc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjhk-r_oidGWWg8wgSwHnEivo4yw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/4E-0sjkDnkc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA26k_dtGvDHar_6QdcCyMBy9ksVg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/4E-0sjkDnkc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCwb35AJFAruWTN86YEbz3WXzU5Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/4E-0sjkDnkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDssi_dUvYZNWm0vHfP0DqpHEep-A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Perverted Sentimentality: An Analysis of UNDERTALE",
+  "url": "https://www.youtube.com/watch?v=4E-0sjkDnkc",
+  "urls": "https://www.youtube.com/watch?v=4E-0sjkDnkc",
+  "view_count": 678336,
+  "webpage_url": "https://www.youtube.com/watch?v=4E-0sjkDnkc",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "In this video, I explore the treatment of male characters and their equivalent female counterparts, and the way things one audience happens not to like are often confused with objective mistakes....",
+  "duration": 679,
+  "duration_string": "11:19",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Power Fantasy, Male Objectification and Lady-Fanservice [coNQAucXoNM].NA",
+  "id": "coNQAucXoNM",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=coNQAucXoNM",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 51,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 51,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/coNQAucXoNM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJyJr4X-qOg2ulsiXwhydbUPgMow",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/coNQAucXoNM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCFi6paPZpCXJg9Tu6pRarVdiC8Q",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/coNQAucXoNM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo-JNXy_jWPGhHBFAlEdowqNejyw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/coNQAucXoNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKasi9DgGbhWPaR1GZt5LQuQ3XxA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Power Fantasy, Male Objectification and Lady-Fanservice",
+  "url": "https://www.youtube.com/watch?v=coNQAucXoNM",
+  "urls": "https://www.youtube.com/watch?v=coNQAucXoNM",
+  "view_count": 768676,
+  "webpage_url": "https://www.youtube.com/watch?v=coNQAucXoNM",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "If one more of YOUR PRECIOUS CHILDREN takes a gender studies course, The West is OVER!\n\nMy Twitter: https://twitter.com/Hbomberguy\nMy Patreon: https://www.patreon.com/hbomb",
+  "duration": 1028,
+  "duration_string": "17:08",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Sargon's Petition： A Measured Response [XmKGPRXE-xw].NA",
+  "id": "XmKGPRXE-xw",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=XmKGPRXE-xw",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 52,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 52,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/XmKGPRXE-xw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgUihLMA8=&rs=AOn4CLDR7N2i-6HPuBacSZf0Pxi5eC9htg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/XmKGPRXE-xw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgUihLMA8=&rs=AOn4CLC8ZqqM9L10MhH8TqRWp9T2LEVdQw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/XmKGPRXE-xw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoSzAP&rs=AOn4CLA75ioPpDmfKVHkkrMEbZ3vnPgu1Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/XmKGPRXE-xw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoSzAP&rs=AOn4CLDslulaWdHClplDC-AjAEDd2y5YAg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Sargon's Petition: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=XmKGPRXE-xw",
+  "urls": "https://www.youtube.com/watch?v=XmKGPRXE-xw",
+  "view_count": 1950239,
+  "webpage_url": "https://www.youtube.com/watch?v=XmKGPRXE-xw",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Video Essay about action scenes in movies and what makes some better than others.\n\nMy Patreon: https://www.patreon.com/Hbomb?ty=h\nMy Twitter: https://twitter.com/Hbomberguy",
+  "duration": 875,
+  "duration_string": "14:35",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "What Makes An Action Scene Good？ [ch-5ydxW_WE].NA",
+  "id": "ch-5ydxW_WE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=ch-5ydxW_WE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 53,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 53,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/ch-5ydxW_WE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZIWpWcZ1eU8gA5r-Mf1tp630CBw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/ch-5ydxW_WE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANaZeJdjKhb4FxIt791FpCbRgIlg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/ch-5ydxW_WE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYuX36SWV60uMM9Y1AcWI7Keblzg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/ch-5ydxW_WE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIYa46FwYbYxL7mJl2G7VX6yvgVw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "What Makes An Action Scene Good?",
+  "url": "https://www.youtube.com/watch?v=ch-5ydxW_WE",
+  "urls": "https://www.youtube.com/watch?v=ch-5ydxW_WE",
+  "view_count": 339513,
+  "webpage_url": "https://www.youtube.com/watch?v=ch-5ydxW_WE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "No, that's a real question. HELP!\n\nMy Patreon: https://www.patreon.com/Hbomb\nMy Twitter: https://twitter.com/Hbomberguy\n\nVote in the comments for me to vote leave, remain, or to spoil my vote...",
+  "duration": 628,
+  "duration_string": "10:28",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "How Should I Vote In The EU Referendum？ [RgVIQWItFE8].NA",
+  "id": "RgVIQWItFE8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=RgVIQWItFE8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 54,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 54,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/RgVIQWItFE8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtVcnt-iAlXmJwlLPhNErQz6OUcA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/RgVIQWItFE8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRxaCIrbGY6nLcUkdTEES_JDoJzw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/RgVIQWItFE8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKF014POlhdYBwhYQIz6nLnakqJA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/RgVIQWItFE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-6OQv-WQYUjIUxb7a17wnP3AWIg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "How Should I Vote In The EU Referendum?",
+  "url": "https://www.youtube.com/watch?v=RgVIQWItFE8",
+  "urls": "https://www.youtube.com/watch?v=RgVIQWItFE8",
+  "view_count": 330322,
+  "webpage_url": "https://www.youtube.com/watch?v=RgVIQWItFE8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Let's look at some studies into sexual assault and see how the smartest, most 'rational' antifeminist on the internet debunks them, shall we?\n\nMy Patreon: https://www.patreon.com/Hbomb?ty=h...",
+  "duration": 1031,
+  "duration_string": "17:11",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Antifeminism VS FACTS [rc24YtUslCU].NA",
+  "id": "rc24YtUslCU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=rc24YtUslCU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 55,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 55,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/rc24YtUslCU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSHAQNt---hCpSgIQOvCsUxwA4rw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/rc24YtUslCU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCd86Dy4tC8tEajNOe-rcMby2ve2w",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/rc24YtUslCU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBanQ9K1q3zpsQvG79Rqt2HcBQwkA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/rc24YtUslCU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwqdeK49TQY1Tj3u20qLV5OCaU1A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Antifeminism VS FACTS",
+  "url": "https://www.youtube.com/watch?v=rc24YtUslCU",
+  "urls": "https://www.youtube.com/watch?v=rc24YtUslCU",
+  "view_count": 2558987,
+  "webpage_url": "https://www.youtube.com/watch?v=rc24YtUslCU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Here's a handy guide for what the hell people are on about when they whine about how hard it is being criticised for sounding sexist.\n\nFeaturing art and animation and additional writing by...",
+  "duration": 648,
+  "duration_string": "10:48",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "What Is ＂Virtue Signalling＂？ [sAmM872874A].NA",
+  "id": "sAmM872874A",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=sAmM872874A",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 56,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 56,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/sAmM872874A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeOL_uin0K1k_HEDnybdSzPbEkCQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/sAmM872874A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0lut5rQG-4BEbT2d0SQI8t8lUIg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/sAmM872874A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy9WGPKRGIix8pMZ5xixpidT0NqQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/sAmM872874A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPfp42Eqgk09s3dn8yFZYEIpZ8_Q",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "What Is \"Virtue Signalling\"?",
+  "url": "https://www.youtube.com/watch?v=sAmM872874A",
+  "urls": "https://www.youtube.com/watch?v=sAmM872874A",
+  "view_count": 1518600,
+  "webpage_url": "https://www.youtube.com/watch?v=sAmM872874A",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "All you feminazis who just don't think the trailer's very good, get outta here! Davis is here to set the record straight. The film is bad because women aren't evolved to be ghostbusters!\n\nMy...",
+  "duration": 987,
+  "duration_string": "16:27",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Davis Aurini's Ghostbusters Video： A Measured Response [gY172rzvbWE].NA",
+  "id": "gY172rzvbWE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=gY172rzvbWE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 57,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 57,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/gY172rzvbWE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjCv-sgksVTwLnBymFcRzOoxaBog",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/gY172rzvbWE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB86kBkPA_Z9uqS4e-IpfauwG_hVA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/gY172rzvbWE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1L7Cxz--t_LPCfFO-iJjupRNk5w",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/gY172rzvbWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHgE_ct5S0w_EKggKI9iuCLCyEWw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Davis Aurini's Ghostbusters Video: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=gY172rzvbWE",
+  "urls": "https://www.youtube.com/watch?v=gY172rzvbWE",
+  "view_count": 1164324,
+  "webpage_url": "https://www.youtube.com/watch?v=gY172rzvbWE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "This is a review of Fallout 3, featuring retrospectives on the series as a whole, analysis of gameplay and storytelling mechanics, discussion of the games' initial critical reception, and the...",
+  "duration": 5377,
+  "duration_string": "1:29:37",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Fallout 3 Is Garbage, And Here's Why [mLJ1gyIzg78].NA",
+  "id": "mLJ1gyIzg78",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 58,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 58,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSJ4WQhTafrCUss0p-gD8q7zlO7g",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCH942ghzxqjIhseHPvnBIKUenr1g",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA961FL2iB6DQOI3ASRbipMu6BibQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAThScdWkHdAR0IpqdqfNqXjbEx1g",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Fallout 3 Is Garbage, And Here's Why",
+  "url": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+  "urls": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+  "view_count": 7879872,
+  "webpage_url": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "It's only freedom of expression if you're expressing butts. If you change your unfinished work, you're a fascist. A butt fascist.\n\nWritten by me and Klaus W.\nArt is by Klaus and animation is...",
+  "duration": 132,
+  "duration_string": "2:12",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "BUTT GATE [Ozf2hwEOWHE].NA",
+  "id": "Ozf2hwEOWHE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=Ozf2hwEOWHE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 59,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 59,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/Ozf2hwEOWHE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-IZchvqg1Xn0AEjsJ3CCeYNIvoA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/Ozf2hwEOWHE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3VjRN2L0hrm4YmEBdGmMvXhCfNQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/Ozf2hwEOWHE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBth8cILlGXm6AN2PRMY0snY4KG7Q",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/Ozf2hwEOWHE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd8lQzePcX9i7N3wnv8r_DY5ihKw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "BUTT GATE",
+  "url": "https://www.youtube.com/watch?v=Ozf2hwEOWHE",
+  "urls": "https://www.youtube.com/watch?v=Ozf2hwEOWHE",
+  "view_count": 195307,
+  "webpage_url": "https://www.youtube.com/watch?v=Ozf2hwEOWHE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Thunderf00t's latest eighteen videos about feminism are surely the ones that will finally stop it for good!\n\nMy Twitter: http://www.twitter.com/hbomberguy\nMy Patreon: http://www.patreon.com/hbomb...",
+  "duration": 1224,
+  "duration_string": "20:24",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Thunderf00t VS. FemiNAZI Ghostbusters： A Measured Response [SpgBkpb7xlU].NA",
+  "id": "SpgBkpb7xlU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=SpgBkpb7xlU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 60,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 60,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/SpgBkpb7xlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8gPWYCHD8Ix8jFl5n4XiurDjM-g",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/SpgBkpb7xlU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_70HKcr62L7vFiI0a_kDSrM7ziA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/SpgBkpb7xlU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs-0LwRFE2sAxaB8kmsxZdK7lrEg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/SpgBkpb7xlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGxjfLATdTw18UCvBJGIHARlr3gA",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Thunderf00t VS. FemiNAZI Ghostbusters: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=SpgBkpb7xlU",
+  "urls": "https://www.youtube.com/watch?v=SpgBkpb7xlU",
+  "view_count": 1541232,
+  "webpage_url": "https://www.youtube.com/watch?v=SpgBkpb7xlU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "Oh boy! Another Jordan Owen crowdfunding campaign!\n\nMy Twitter: https://twitter.com/hbomberguy\nPatreon: https://www.patreon.com/Hbomb\n\nIntro/Outro sound by Max Woodhams of the rad band Rootwork...",
+  "duration": 653,
+  "duration_string": "10:53",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Sierra Effect： A Measured Response [4UyPV2Fj4lk].NA",
+  "id": "4UyPV2Fj4lk",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=4UyPV2Fj4lk",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 61,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 61,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/4UyPV2Fj4lk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAndRvV5W37oxR0daAFbAMh65yTIQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/4UyPV2Fj4lk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDcgqp_ocCgplfEPU-SjcylPwjlBA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/4UyPV2Fj4lk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9e4_Z7Hb3aPbQUkXzgBP-Btmw4w",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/4UyPV2Fj4lk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhCFXPJ2byegq8npSJ1hjo8AzoBw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Sierra Effect: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=4UyPV2Fj4lk",
+  "urls": "https://www.youtube.com/watch?v=4UyPV2Fj4lk",
+  "view_count": 1339768,
+  "webpage_url": "https://www.youtube.com/watch?v=4UyPV2Fj4lk",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I decided to make something while I waited for voting to finish on what I do next. Check out the Braid video for more on that.\n\n(Measured Responses videos are still happening, but they take...",
+  "duration": 562,
+  "duration_string": "9:22",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Darkest Dungeon and Ludonarrative - Hbomberguy [ziqXwyCjuFE].NA",
+  "id": "ziqXwyCjuFE",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=ziqXwyCjuFE",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 62,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 62,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/ziqXwyCjuFE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7Sl5TR5QDVYOYKqn1BrjEFnLErg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/ziqXwyCjuFE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjUDDSndpG5V23jdczrAZC0Au9pQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/ziqXwyCjuFE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_VeaZebiZSqJq_0XgF_yaDC3dOA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/ziqXwyCjuFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxIBhjMMQZr5XsgJgXaNSB8lS54w",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Darkest Dungeon and Ludonarrative - Hbomberguy",
+  "url": "https://www.youtube.com/watch?v=ziqXwyCjuFE",
+  "urls": "https://www.youtube.com/watch?v=ziqXwyCjuFE",
+  "view_count": 440763,
+  "webpage_url": "https://www.youtube.com/watch?v=ziqXwyCjuFE",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "I completely forgot why I unlisted this. I think I did it by accident. Then YouTube privated it automatically few months ago. Anyway:\n\nPlaying through The Witness gave me flashbacks to 2008...",
+  "duration": 814,
+  "duration_string": "13:34",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Braid was pretty good [J7Zp1DZJIYU].NA",
+  "id": "J7Zp1DZJIYU",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=J7Zp1DZJIYU",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 63,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 63,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/J7Zp1DZJIYU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhh56cxmDABUJNMTJdJ5WpZ7bkiA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/J7Zp1DZJIYU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApw3D6zkMjYvJWv0xqeN74iWEJww",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/J7Zp1DZJIYU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwWiAUFamhMCtKwy-y9QD8BCtyrA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/J7Zp1DZJIYU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQMq9UXqrRcJqsmVsA70XMsB-7pw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Braid was pretty good",
+  "url": "https://www.youtube.com/watch?v=J7Zp1DZJIYU",
+  "urls": "https://www.youtube.com/watch?v=J7Zp1DZJIYU",
+  "view_count": 429777,
+  "webpage_url": "https://www.youtube.com/watch?v=J7Zp1DZJIYU",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "In this update, we cover a couple more reasonable Star Wars fans!!!!\n\nMy Patreon: https://www.patreon.com/hbomb\nMy Twitter: https://twitter.com/hbomberguy\n\n\nAdditional voicework by Paper Lion,...",
+  "duration": 929,
+  "duration_string": "15:29",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "IDIOT WARS： THE RACISM AWAKENS [PART 2⧸2] - Hbomberguy [62eCT40iLNk].NA",
+  "id": "62eCT40iLNk",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=62eCT40iLNk",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 64,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 64,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/62eCT40iLNk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXVp40kVyKfWtcfYOT2jPU_4BsLg",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/62eCT40iLNk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDgS_fMm-HcsVFcyl5PbdY-7F0Ag",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/62eCT40iLNk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7IHd_gO0VZ1lfsrq-7cizGo70oQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/62eCT40iLNk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr1Qkgh2zDoNYOGxXTszwGhgRazg",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "IDIOT WARS: THE RACISM AWAKENS [PART 2/2] - Hbomberguy",
+  "url": "https://www.youtube.com/watch?v=62eCT40iLNk",
+  "urls": "https://www.youtube.com/watch?v=62eCT40iLNk",
+  "view_count": 1146354,
+  "webpage_url": "https://www.youtube.com/watch?v=62eCT40iLNk",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "My Patreon: https://www.patreon.com/hbomb\nMy Twitter: https://twitter.com/hbomberguy\n\nWe cover the amazing star wars opinions of FAN FAVOURITE rockingmra, attempt to cover anita sarkeesian,...",
+  "duration": 552,
+  "duration_string": "9:12",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "IDIOT WARS： THE RACISM AWAKENS [PART 1⧸2] - Hbomberguy [-E0p0GQCAM8].NA",
+  "id": "-E0p0GQCAM8",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=-E0p0GQCAM8",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 65,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 65,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/-E0p0GQCAM8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCm4sANDckCBCky9M0SCZIHIE2W0w",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/-E0p0GQCAM8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAeyjnDZF6YqEQH181KAkvfuyjdBQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/-E0p0GQCAM8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI6iCdgYOlzUauk4m0CmFdEBlk2g",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/-E0p0GQCAM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMg9Z3x9iyQ-RTd1FAQJCGjXEvlQ",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "IDIOT WARS: THE RACISM AWAKENS [PART 1/2] - Hbomberguy",
+  "url": "https://www.youtube.com/watch?v=-E0p0GQCAM8",
+  "urls": "https://www.youtube.com/watch?v=-E0p0GQCAM8",
+  "view_count": 1289670,
+  "webpage_url": "https://www.youtube.com/watch?v=-E0p0GQCAM8",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "In which I try to erase the existence of the conspiracy and harvest your bodily energies for the dark gods Kultmarx and Marcuse.\n\nThere was another good 15 minutes of content in this video...",
+  "duration": 1449,
+  "duration_string": "24:09",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "Cultural Marxism： A Measured Response - Hbomberguy [vYQo6LI3Y7c].NA",
+  "id": "vYQo6LI3Y7c",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=vYQo6LI3Y7c",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 66,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 66,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUShDMA8=&rs=AOn4CLB0ZaHIyMc73o7-YBb6P7jfvMpUoQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUShDMA8=&rs=AOn4CLB25rZTgEMHYLfpIwENVtBzP015Lg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoQzAP&rs=AOn4CLCdt2V7Ln8k-S8P1N5MpfD-fFg8bQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFEoQzAP&rs=AOn4CLDVzy4mz_XJe4lmcAIGEo5JPjA66A",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "Cultural Marxism: A Measured Response - Hbomberguy",
+  "url": "https://www.youtube.com/watch?v=vYQo6LI3Y7c",
+  "urls": "https://www.youtube.com/watch?v=vYQo6LI3Y7c",
+  "view_count": 1837327,
+  "webpage_url": "https://www.youtube.com/watch?v=vYQo6LI3Y7c",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "My Patreon: http://www.patreon.com/hbomb\n\nMy Twitter: https://twitter.com/hbomberguy\n\nMy Tumblr: http://hbomberguy.tumblr.com/\n\nThe leaked skype logs where Aurini gaslights his former friend...",
+  "duration": 534,
+  "duration_string": "8:54",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Sarkeesian Effect： IN CRISIS! [YGbnAJR-vZA].NA",
+  "id": "YGbnAJR-vZA",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=YGbnAJR-vZA",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 67,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 67,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/YGbnAJR-vZA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNpthCjEf_mQTzb2b7RG1qFImsBw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/YGbnAJR-vZA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAjD_rAaxzc2mCYvnDVmjFsood1xg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/YGbnAJR-vZA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQOGR9QGjosgHkjGWEEiP5b8FNBg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/YGbnAJR-vZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADZmhmTLXqfEux7W3SzjpOa19odw",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Sarkeesian Effect: IN CRISIS!",
+  "url": "https://www.youtube.com/watch?v=YGbnAJR-vZA",
+  "urls": "https://www.youtube.com/watch?v=YGbnAJR-vZA",
+  "view_count": 1191961,
+  "webpage_url": "https://www.youtube.com/watch?v=YGbnAJR-vZA",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}
+{
+  "__last_playlist_index": 68,
+  "__x_forwarded_for_ip": null,
+  "_type": "url",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "392389b7df7b818f794b231f14dc396d4875fbad",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2023.03.04"
+  },
+  "availability": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "description": "My Twitter: https://twitter.com/hbomberguy\nMy Tumblr: http://hbomberguy.tumblr.com/\nMy Website: un.funny.computer (yes this is real)\n\nFeel free to use this as a commercial if you like.\n\nI don't...",
+  "duration": 415,
+  "duration_string": "6:55",
+  "epoch": 1682402584,
+  "extractor": "youtube",
+  "extractor_key": "Youtube",
+  "filename": "The Sarkeesian Effect： A Measured Response [nsdIHK8O5yo].NA",
+  "id": "nsdIHK8O5yo",
+  "ie_key": "Youtube",
+  "live_status": null,
+  "n_entries": 68,
+  "original_url": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+  "playlist": "hbomberguy - Videos",
+  "playlist_autonumber": 68,
+  "playlist_count": 68,
+  "playlist_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "playlist_index": 68,
+  "playlist_title": "hbomberguy - Videos",
+  "playlist_uploader": "hbomberguy",
+  "playlist_uploader_id": "UClt01z1wHHT7c5lKcU8pxRQ",
+  "release_timestamp": null,
+  "thumbnails": [
+    {
+      "height": 94,
+      "url": "https://i.ytimg.com/vi/nsdIHK8O5yo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6a-ldm_xyf6RjB3w2gBPxAEnB4A",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "url": "https://i.ytimg.com/vi/nsdIHK8O5yo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgq2CDUqDq_YMwveF9YSqZHkuNjw",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "url": "https://i.ytimg.com/vi/nsdIHK8O5yo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5VULPp89OIYlZbMrODLGisOtClQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "url": "https://i.ytimg.com/vi/nsdIHK8O5yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdbf7CpejvOjl0XcBeJWiULuvz2w",
+      "width": 336
+    }
+  ],
+  "timestamp": null,
+  "title": "The Sarkeesian Effect: A Measured Response",
+  "url": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+  "urls": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+  "view_count": 916092,
+  "webpage_url": "https://www.youtube.com/watch?v=nsdIHK8O5yo",
+  "webpage_url_basename": "watch",
+  "webpage_url_domain": "youtube.com"
+}

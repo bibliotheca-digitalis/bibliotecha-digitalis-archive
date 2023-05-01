@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:01,120
+Hello internet!
+
+2
+00:00:01,120 --> 00:00:03,920
+While working on a future video, I offhandedly wrote
+
+3
+00:00:03,920 --> 00:00:06,160
+Venus, the closest planet to Earth.
+
+4
+00:00:06,160 --> 00:00:09,440
+But later, while editing, I thought, you know, let me check that.
+
+5
+00:00:09,440 --> 00:00:15,280
+Which led me to this video by Dr. Stockman explaining how, no, Venus is not the closest.
+
+6
+00:00:15,280 --> 00:00:19,040
+This blew my mind and I contacted the author to
+
+7
+00:00:19,040 --> 00:00:22,320
+adapt his video into the one you probably just watched.
+
+8
+00:00:22,320 --> 00:00:25,600
+It blew my mind not just because it was surprising,
+
+9
+00:00:25,600 --> 00:00:29,360
+but also because I taught physics for years and probably said,
+
+10
+00:00:29,360 --> 00:00:34,400
+Venus is the closest planet dozens of times without ever thinking about it.
+
+11
+00:00:34,400 --> 00:00:35,680
+How does that happen?
+
+12
+00:00:35,680 --> 00:00:38,880
+First, asking the precisely right question is vital.
+
+13
+00:00:38,880 --> 00:00:42,800
+Which planet is closest is not the precisely right question,
+
+14
+00:00:42,800 --> 00:00:44,880
+because it's really made of four parts.
+
+15
+00:00:44,880 --> 00:00:47,120
+Which planet ever gets the closest?
+
+16
+00:00:47,120 --> 00:00:49,920
+Which planet is the closest for the longest time?
+
+17
+00:00:49,920 --> 00:00:53,600
+Which planet has the shortest average distance to Earth?
+
+18
+00:00:53,600 --> 00:00:56,640
+Which planet takes the least amount of time to travel to?
+
+19
+00:00:56,640 --> 00:01:00,160
+The answer to the first one is Venus, the second to Mercury,
+
+20
+00:01:00,160 --> 00:01:02,960
+the last, it's complicated, get a physics degree.
+
+21
+00:01:02,960 --> 00:01:06,240
+Literal rocket scientists think mostly about that last question,
+
+22
+00:01:06,240 --> 00:01:09,680
+and the rest of us are probably vaguely asking about the first,
+
+23
+00:01:09,680 --> 00:01:11,440
+when we say which is the closest.
+
+24
+00:01:11,440 --> 00:01:14,720
+Because we're not thinking about the planets in motion.
+
+25
+00:01:14,720 --> 00:01:18,480
+If we were, we'd ask something closer to questions two and three,
+
+26
+00:01:18,480 --> 00:01:20,320
+which is what the main video is about.
+
+27
+00:01:20,320 --> 00:01:24,720
+Mercury, on average, has the shortest distance to all the other planets.
+
+28
+00:01:24,800 --> 00:01:28,880
+And for the inner planets, it's also the closest planet most of the time.
+
+29
+00:01:28,880 --> 00:01:32,240
+But to get an answer that precise requires a precise question.
+
+30
+00:01:32,240 --> 00:01:35,520
+Unlike the way things are done in school, where questions yield knowledge,
+
+31
+00:01:35,520 --> 00:01:39,120
+it's knowledge that yields questions which yield knowledge.
+
+32
+00:01:39,120 --> 00:01:42,640
+Now, it's hard to think about the raw knowledge of everything all at once,
+
+33
+00:01:42,640 --> 00:01:47,280
+so we condense down part of what we know into a model to help us think,
+
+34
+00:01:47,280 --> 00:01:49,200
+like with the line of the planets.
+
+35
+00:01:49,200 --> 00:01:52,560
+But as with fuzzy questions, models can trick us too.
+
+36
+00:01:52,560 --> 00:01:55,840
+Which planet is the closest looks like a simple and easy question
+
+37
+00:01:55,840 --> 00:01:57,920
+when the solar system is shown this way.
+
+38
+00:01:57,920 --> 00:02:01,360
+Like, even when you know this isn't really how the solar system looks,
+
+39
+00:02:01,360 --> 00:02:02,720
+can't possibly be.
+
+40
+00:02:02,720 --> 00:02:06,400
+In my old video about Pluto, where I sound like a completely different person,
+
+41
+00:02:06,400 --> 00:02:09,840
+I cover this exact point as I've often done in class.
+
+42
+00:02:09,840 --> 00:02:12,720
+If we take this diagram and adjust for the correct sizes of the planets,
+
+43
+00:02:12,720 --> 00:02:13,920
+it looks like this.
+
+44
+00:02:13,920 --> 00:02:15,760
+Think about it, if Jupiter was this close to Earth,
+
+45
+00:02:15,760 --> 00:02:17,600
+it wouldn't look like a dot in the night sky,
+
+46
+00:02:17,600 --> 00:02:19,280
+but would be rather overwhelming.
+
+47
+00:02:19,280 --> 00:02:21,280
+So it must be really far away.
+
+48
+00:02:21,280 --> 00:02:25,040
+Still, the model gets into your head in ways you don't notice
+
+49
+00:02:25,040 --> 00:02:29,600
+and lets you ask imprecise questions, easily but insufficiently answered.
+
+50
+00:02:29,600 --> 00:02:34,880
+The result is something that's retroactively obvious can hide for a long time.
+
+51
+00:02:34,880 --> 00:02:37,360
+The fact about Mercury being the closest on average
+
+52
+00:02:37,360 --> 00:02:39,360
+feels like something Newton could have noticed.
+
+53
+00:02:39,360 --> 00:02:43,520
+But it wasn't published until this year, which is crazy.
+
+54
+00:02:43,520 --> 00:02:46,000
+It's a property of concentric circles.
+
+55
+00:02:46,000 --> 00:02:50,080
+Something Pythagoras, were he not so obsessed with triangles, might have noticed.
+
+56
+00:02:50,080 --> 00:02:53,200
+So I love this fact about Mercury being the closest planet,
+
+57
+00:02:53,200 --> 00:02:55,280
+depending on exactly what you mean by closest,
+
+58
+00:02:55,280 --> 00:03:00,480
+because it's a fantastic example of how if you can get rid of old or incorrect models
+
+59
+00:03:00,480 --> 00:03:05,200
+from your head and think clearly in a way to ask a precise question,
+
+60
+00:03:05,200 --> 00:03:08,320
+the universe awaits with new knowledge for you to find.
+
+61
+00:03:08,960 --> 00:03:09,920
+Isn't that great?
+

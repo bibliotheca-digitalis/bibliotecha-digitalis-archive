@@ -1,0 +1,332 @@
+1
+00:00:00,000 --> 00:00:07,040
+This is my dad's Tesla and I'm going to take it driving on the deadliest road in America.
+
+2
+00:00:07,040 --> 00:00:12,960
+But I'm not going to be driving because I've just installed the full self-driving
+
+3
+00:00:12,960 --> 00:00:15,200
+pre-release beta software.
+
+4
+00:00:16,160 --> 00:00:21,440
+It's only allowed right now on a tiny number of cars for testing in urban environments,
+
+5
+00:00:21,440 --> 00:00:27,120
+so of course I wanted to try it out on a famously dangerous mountain road
+
+6
+00:00:27,120 --> 00:00:29,200
+to see what it can really do.
+
+7
+00:00:29,200 --> 00:00:30,400
+Will I survive?
+
+8
+00:00:30,400 --> 00:00:34,080
+Will I crash my dad's car and be in big trouble?
+
+9
+00:00:34,080 --> 00:00:35,760
+Right now, I don't know.
+
+10
+00:00:35,760 --> 00:00:39,040
+But either way, it's road trip time.
+
+11
+00:00:57,680 --> 00:00:58,960
+You deserve a real name.
+
+12
+00:00:58,960 --> 00:00:59,520
+Winter.
+
+13
+00:00:59,520 --> 00:01:00,320
+Welcome to the world.
+
+14
+00:01:00,880 --> 00:01:01,760
+So where are we?
+
+15
+00:01:01,760 --> 00:01:05,600
+In the Great Smoky Mountains on the border of North Carolina and Tennessee,
+
+16
+00:01:05,600 --> 00:01:10,480
+where lies a mountain pass of some of the most twisty and dangerous driving in the country.
+
+17
+00:01:10,480 --> 00:01:12,960
+Just hours after we arrived, this happened.
+
+18
+00:01:12,960 --> 00:01:16,240
+Parts from accidents like these are salvaged to build the Tree of Shame
+
+19
+00:01:16,240 --> 00:01:19,840
+at the entrance to serve as warning to others of what can go wrong.
+
+20
+00:01:19,840 --> 00:01:20,960
+But here's the thing.
+
+21
+00:01:20,960 --> 00:01:25,520
+Driving hundreds of curves faster than you should on a mountain's edge, it's a lot of fun.
+
+22
+00:01:25,520 --> 00:01:28,560
+Name it the Tale of the Dragon, and the drivers will come.
+
+23
+00:01:41,520 --> 00:01:44,400
+I don't have any idea what this is, but it's adorable.
+
+24
+00:01:44,400 --> 00:01:58,160
+I did not understand just how dangerous this was until now.
+
+25
+00:01:58,160 --> 00:02:01,600
+The nearest hospital is an hour away, so on busy days like this,
+
+26
+00:02:01,600 --> 00:02:04,960
+an ambulance waits for the inevitable at the exit to save time.
+
+27
+00:02:04,960 --> 00:02:07,600
+But ambulances are not immune from accidents.
+
+28
+00:02:07,600 --> 00:02:11,760
+Off hours is when drivers push the limits, when they hope no one is around.
+
+29
+00:02:11,760 --> 00:02:13,920
+Going over the speed limit to break records,
+
+30
+00:02:13,920 --> 00:02:17,360
+crossing yellow lines and rounding blind turns with sheer drops.
+
+31
+00:02:17,360 --> 00:02:21,840
+Trucks are banned from the road for being too great a risk, but signs don't stop everyone.
+
+32
+00:02:23,520 --> 00:02:25,600
+The police were waiting for him down the road.
+
+33
+00:02:25,600 --> 00:02:29,760
+The dragon has killed multiple people along every one of its 11 miles.
+
+34
+00:02:29,760 --> 00:02:32,240
+It's a challenge for even the best human drivers,
+
+35
+00:02:32,240 --> 00:02:35,360
+but I'm putting my life in the hands of a non-human driver.
+
+36
+00:02:35,360 --> 00:02:38,240
+Ugh, I am having some serious doubts about this.
+
+37
+00:02:38,240 --> 00:02:41,920
+On the drive up, I had to disengage the beta autopilot several times,
+
+38
+00:02:41,920 --> 00:02:45,680
+and last night while doomscrolling dragon accident videos,
+
+39
+00:02:45,680 --> 00:02:50,080
+I found the last guy who tried the old Tesla autopilot on this road,
+
+40
+00:02:50,080 --> 00:02:55,200
+and he had to disengage minutes in because it was way too dangerous.
+
+41
+00:02:55,200 --> 00:02:59,920
+I am not confident she's going to make this run without me having to disengage and take over,
+
+42
+00:02:59,920 --> 00:03:02,160
+but I guess that's the whole point, right?
+
+43
+00:03:02,160 --> 00:03:05,440
+Beta testing the robot with my life.
+
+44
+00:03:05,440 --> 00:03:06,720
+Okay, here we go.
+
+45
+00:03:06,720 --> 00:03:10,880
+I'm going to put her in full self-driving beta mode,
+
+46
+00:03:10,880 --> 00:03:12,960
+and I'm going to have my hands on the wheel,
+
+47
+00:03:12,960 --> 00:03:16,160
+but let the wheels slide through them so that you can see
+
+48
+00:03:16,160 --> 00:03:19,200
+that it's really the Tesla doing it herself.
+
+49
+00:03:19,200 --> 00:03:24,560
+All right, motorcycle high crash area, and this is the official start.
+
+50
+00:03:24,560 --> 00:03:25,120
+Here we go.
+
+51
+00:03:29,280 --> 00:03:30,000
+Oh boy.
+
+52
+00:03:32,160 --> 00:03:35,200
+Also, I'm not doing any of the speed adjusting around these turns.
+
+53
+00:03:35,920 --> 00:03:38,400
+She's deciding entirely how slow to take the corners.
+
+54
+00:03:43,280 --> 00:03:45,120
+So I'm making left-hand turns.
+
+55
+00:03:45,120 --> 00:03:47,520
+The Tesla's just too close to the line.
+
+56
+00:03:47,520 --> 00:03:51,280
+I wish there was a way I could tell her stay as close to the white line as possible,
+
+57
+00:03:51,280 --> 00:03:53,760
+which she's doing now just fine on the right-hand turn,
+
+58
+00:03:53,760 --> 00:03:57,760
+but on the left-hand turns, it's a little dicier.
+
+59
+00:03:57,760 --> 00:04:02,240
+The one thing that's very helpful though is I can really look much further down the road
+
+60
+00:04:02,240 --> 00:04:06,960
+than I could if I had to also be keeping my eyes fully on the turn ahead,
+
+61
+00:04:06,960 --> 00:04:10,560
+so I am very alert for traffic coming the other way.
+
+62
+00:04:32,240 --> 00:04:42,560
+So
+
+63
+00:05:02,240 --> 00:05:14,400
+oh my god, oh my god, it's over.
+
+64
+00:05:15,520 --> 00:05:17,200
+She did the whole road all by herself.
+
+65
+00:05:20,000 --> 00:05:20,800
+Amazing.
+
+66
+00:05:24,960 --> 00:05:27,840
+She made it all the way by herself.
+
+67
+00:05:28,960 --> 00:05:32,000
+Zero disengagements the entire time.
+
+68
+00:05:32,000 --> 00:05:33,120
+Oh, I'm so pumped.
+
+69
+00:05:34,400 --> 00:05:38,400
+All right, now it's time to turn around and go back.
+
+70
+00:05:48,960 --> 00:05:50,160
+That's hilarious.
+
+71
+00:05:50,160 --> 00:05:51,760
+She's stopping for the photographer.
+
+72
+00:05:51,760 --> 00:05:54,160
+Winter, I didn't know you were a bit of a vain girl.
+
+73
+00:05:56,560 --> 00:05:57,440
+Okay, this is it.
+
+74
+00:05:57,440 --> 00:05:58,480
+This is the start.
+
+75
+00:05:58,480 --> 00:06:00,880
+This is the official start of the Dragon's Tale.
+
+76
+00:06:00,880 --> 00:06:02,800
+Autopilot has brought us to our destination.
+
+77
+00:06:02,800 --> 00:06:04,720
+I'm gonna pop into the general store.
+
+78
+00:06:04,720 --> 00:06:06,560
+Well, I've got to get one for Winter.
+
+79
+00:06:06,560 --> 00:06:08,400
+She totally deserves it.
+
+80
+00:06:08,400 --> 00:06:09,680
+I've got something for you.
+
+81
+00:06:12,240 --> 00:06:14,000
+She did the whole route all by herself.
+
+82
+00:06:14,000 --> 00:06:15,520
+It's still a very Beta Beta,
+
+83
+00:06:15,520 --> 00:06:24,720
+but this self-driving test made it up and down the dragon with zero human intervention.
+

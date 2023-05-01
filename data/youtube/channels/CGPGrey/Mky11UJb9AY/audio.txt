@@ -1,0 +1,96 @@
+Queen Lion of the Animal Kingdom is giving more democracy to her citizens by adding a
+legislative branch to the government.
+The citizens each get one vote and are divided into ranges.
+Each range will elect one representative to send to the newly created Jungle Council.
+To best understand how the system works, let's take a look at a small colony where there
+are just two political parties, the Buffalo and Jackalope.
+This colony is divided into four ranges.
+In the first election, Jackalope candidates win two of them and Buffalo candidates win
+the rest.
+All is well for several election cycles until the Animal Kingdom census taker comes around
+and shows that the population has both moved and grown.
+To better represent the larger population, a new seat is added to the Jungle Council
+so the range's boundaries must be redrawn.
+This is where the trouble begins.
+Redrawing electoral boundaries is a huge political problem.
+To help them, the representatives of the Jungle Council hire a Weasle-y consultant to figure
+out where the new boundaries should go.
+If Weasle draws rectangular boundaries, everything will be okay because the Jungle Council will,
+as close as possible, reflect how the citizens vote.
+However, Weasle doesn't do this.
+Instead, he tells the Buffalo party that, for a price, he can turn their slim majority
+into a landslide victory in the election.
+With a supermajority on the Jungle Council, the Buffalo wouldn't have to listen to those
+pesky Jackalope filibusters anymore, so the Buffalo gladly pay up.
+How can Weasle deliver on his promise?
+It's depressingly simple.
+By packing together as many Jackalope voters into one range as possible and spreading the
+rest of them out, the Buffalo party can win an additional seat without any voters switching
+allegiance.
+What Weasle and the Buffalo have done is called gerrymandering, the intentional changing of
+electoral boundaries for their benefit.
+Several election cycles later, the underrepresented and disgruntled Jackalope party approaches
+Weasle and asks if he can manipulate the ranges to be in their favor instead of in the Buffalo's.
+Why indeed he can?
+Using the same trick, Weasle packs Buffalo voters into a few ranges and spreads the rest
+among the Jackalope supporters.
+After the election, the Jackalopes, who represent a minority of voters, are now nonetheless
+the majority party on the Jungle Council.
+This is the terrible power of gerrymandering.
+Weasle can take the exact same voters and get either party to win the election.
+Unsurprisingly, Weasle's business grows and eventually every colony in the animal kingdom
+pays him to gerrymander their ranges.
+With so many clients, Weasle now uses his computer to test hundreds of thousands of
+range combinations with elaborate statistical models of voter behavior to get the results
+he needs.
+Queen Lion has seen what Weasle is up to and banishes him from her kingdom.
+But the census taker reminds her that ranges still need to be redrawn as the population
+changes, so how is it going to be decided?
+Queen Lion suggests the obvious solution, a bipartisan committee must agree on all new
+range boundaries.
+This seems like a good idea.
+After all, if both parties have to agree on the ranges, then they must end up being fair
+to everyone.
+But after a few election cycles using this solution, Queen Lion notices that she always
+sees the same faces on the Jungle Council.
+Representatives almost never get defeated in their elections.
+It turns out that the interests of the representatives and the interests of the citizens are not
+the same.
+Citizens want elections where the candidates have to earn their vote, these are close elections
+where either candidate has a chance of winning.
+But representatives don't want close elections, they want safe elections.
+Elections where they run in a range that is filled with supporters.
+Because the representatives are in charge of the boundaries, they make the safest ranges
+possible.
+So bipartisan committees are not enough.
+To truly fix gerrymandering, there are three options.
+The first is to set up a politically independent commission of appointed experts or judges
+to draw the boundaries.
+Independent commissions are much better than bipartisan committees, but still not ideal
+because they usually group similar areas together, so the elections are uncompetitive.
+And there's always the possibility that the independent commission is not as independent
+as it appears.
+The second option is to let math decide the boundaries.
+There are a number of ways to mathematically divide an area into equally populous ranges.
+The simplest example of this is called the shortest split line method.
+Find the shortest line that splits the voters in twain, and repeat as necessary until all
+the ranges are made.
+This is much better than an independent commission, but it does have the problem of occasionally
+producing skewed election results just through the pure bad luck of where the boundaries
+are drawn.
+But by publishing the algorithm used, all citizens can check the results and be confident
+that there is no intentional bias in the system.
+The last solution is an unexpected one, hire back the weasel and embrace gerrymandering.
+But this time, pay him to make the winners most closely match the voters as a whole.
+While it seems unsavory, this is actually the best way to avoid disproportionate representation,
+which is, by far, the worst problem of gerrymandering.
+But considering these three solutions leaves Queen Lion grumpy.
+The first two are improvements, but still may result in uncompetitive elections or disproportionate
+results, while the third just feels wrong.
+Gerrymandering to avoid the problems of gerrymandering is… odd.
+Remembering what she learned about voting before, she realizes that all this gerrymandering
+is really just a symptom of a more fundamental problem, the method by which each citizen
+gets only one vote and elects only one representative.
+There are ways to eliminate gerrymandering and restore competitive elections to make
+her citizens happy, but to do that, Queen Lion is going to have to make some big, fundamental
+changes to her democracy.

@@ -1,0 +1,79 @@
+Queen Lion of the Animal Kingdom is displeased.
+She recently introduced elections for the office of king using the first-past-the-post
+voting system.
+While her realm started out as a healthy democracy with many parties running candidates for king,
+it quickly devolved into two-party rule with the citizens not liking either one, but trapped
+within the system because of a problem called the spoiler effect.
+However, one of Queen Lion's subjects from a distant land, Wallaby, has a solution – the
+alternative vote.
+What's the difference?
+To find out, let's follow one voter on election day, Red Squirrel, under both systems.
+There are five candidates running for king – two members of the big parties, Gorilla
+and Leopard, and three other candidates, Turtle, Owl, and Tiger.
+Under first-past-the-post, Red Squirrel gets a ballot where he picks just one candidate.
+Red Squirrel really likes Turtle and even campaigned for him.
+However, he knows that his new neighbor, Gray Squirrel, is voting Gorilla.
+And what, starts to wonder, Red Squirrel, about all the other animals?
+Who are they going to vote for?
+The debates on the Animal News Network only had the big parties, so Red Squirrel thinks
+it's going to be a close race between Gorilla and Leopard.
+While he's indifferent toward Gorilla, he's deathly afraid of Leopard.
+Because he can only pick a single candidate, he gives his one vote to Gorilla in hopes
+of preventing Leopard from becoming king.
+This is strategic voting, and it's a necessity under first-past-the-post.
+But now let's look at the alternative vote, which Wallaby explains to Red Squirrel.
+Instead of picking one, and only one, candidate, he can rank them in order of his most favorite
+to his least.
+He goes into the voting booth and gets the same ballot as before, but now puts Turtle
+as his first choice, Owl as his second, and Gorilla as his third.
+He dislikes Leopard and Tiger equally, so he stops filling in his ballot and drops it
+in the box.
+At this point, Red Squirrel doesn't care exactly what happens.
+He has other things on his mind, and he heads off.
+But you, dear citizen, want to know how the votes are counted, so here goes.
+Turtle, beloved though he is with some of the citizenry, comes in last place with only
+5%, and he is eliminated from the race.
+Because the voters rank their candidates in order, we can know what would have happened
+if Turtle didn't run.
+Without Turtle, voters like Red Squirrel would have picked Owl instead, so their votes are
+transferred to her, as though Turtle was never in the race at all.
+This is why the alternative vote is sometimes called instant runoff voting.
+It's able to simulate a bunch of elections where the least popular candidate is eliminated
+after each round, without all the time and expense it would take to run a bunch of campaigns
+one after another.
+The alternative vote method keeps eliminating the least popular candidate until someone
+either wins a majority or only one is left.
+As no one has a majority yet, the next lowest candidate, Tiger, is eliminated.
+Tiger voters listed Leopard as their second choice, so she gets Tiger's vote.
+In the last round, Gorilla is eliminated.
+Gorilla voters listed Owl as their second choice, so Owl gets those votes, wins a majority,
+and is crowned king.
+The alternative vote is a better system because it produces winners that a larger number of
+voters can agree on.
+While the alternative vote does have its flaws, it's important to note that any problem AV
+has, First Past the Post also shares.
+They're both susceptible to gerrymandering, they aren't proportional systems, they can't
+guarantee a Condorcet winner, which math geeks hate but there isn't time to explain here,
+and over time they both trend towards two parties.
+That being said, alternative vote has a huge advantage that First Past the Post lacks and
+makes it mathematically superior.
+No spoiler effect.
+Imagine one final election.
+Two big candidates are running, Gorilla and Leopard, and Leopard looks set to win 55-45,
+but then a third party candidate, Tiger, enters.
+Tiger manages to convince 15% of the Leopard voters to back him instead.
+Under First Past the Post, Gorilla now wins, even though a majority of the voters didn't
+want him.
+Under the alternative vote, because all Tiger voters put Leopard as a second choice, Leopard
+still wins because a majority of the citizens of the animal kingdom would rather have her
+in charge than Gorilla.
+Using the alternative vote, citizens can help support and grow smaller parties that they
+agree with, without worrying that they'll put someone they don't like into office.
+After examining the differences between them, Queen Lion decrees that the alternative vote
+is to be the rule of the land for electing the king and everyone is happier.
+Well, almost everyone.
+The two big parties can't be as complacent as they used to be and need to campaign much
+harder to convince their voters to support them.
+This has been the alternative vote explained by me, CGP Grey.
+Thank you very much for watching.
+I'll see you next time.

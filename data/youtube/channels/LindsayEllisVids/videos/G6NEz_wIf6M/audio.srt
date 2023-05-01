@@ -1,0 +1,888 @@
+1
+00:00:00,000 --> 00:00:06,820
+Hello, everyone.
+
+2
+00:00:06,820 --> 00:00:12,360
+Coming at you live from over an hour of technical difficulty to at least one round of our Lemon
+
+3
+00:00:12,360 --> 00:00:13,680
+Drop Martini.
+
+4
+00:00:13,680 --> 00:00:26,000
+So we shook this up before we started filming, and then the battery died, so we had to drink
+
+5
+00:00:26,000 --> 00:00:27,000
+it.
+
+6
+00:00:27,200 --> 00:00:30,160
+So we're already around in.
+
+7
+00:00:30,160 --> 00:00:37,760
+So these are Lemon Drop Martinis, inspired by Fifty Shades Darker, because today we're
+
+8
+00:00:37,760 --> 00:00:43,800
+talking about sequels, while we are trying so desperately to get away from the Fifty
+
+9
+00:00:43,800 --> 00:00:44,800
+Shades thing.
+
+10
+00:00:44,800 --> 00:00:47,760
+You know, we can only do so much.
+
+11
+00:00:47,760 --> 00:00:49,840
+So, about those show names.
+
+12
+00:00:49,840 --> 00:00:52,240
+Yeah, names are hard.
+
+13
+00:00:52,240 --> 00:00:58,240
+Titling things are hard, and I don't quite know if maybe it wasn't clear last week.
+
+14
+00:00:58,240 --> 00:01:01,800
+It just also moved away, because we initially thought it was going to be more along the
+
+15
+00:01:01,800 --> 00:01:05,880
+lines of a Fifty Shades parody, and it did not turn out to be that, yeah.
+
+16
+00:01:05,880 --> 00:01:08,840
+So yeah, I think we need to move away.
+
+17
+00:01:08,840 --> 00:01:16,160
+We're trying to move away from being Fifty Shades of Grey, knockoff number nine billion-y-seventy-something.
+
+18
+00:01:16,160 --> 00:01:19,000
+So Fifty Shades of Anything is no.
+
+19
+00:01:19,000 --> 00:01:20,000
+No shades.
+
+20
+00:01:20,000 --> 00:01:21,000
+No, none.
+
+21
+00:01:21,000 --> 00:01:22,000
+None.
+
+22
+00:01:22,760 --> 00:01:23,760
+No more shades.
+
+23
+00:01:23,760 --> 00:01:24,760
+No more throwing it.
+
+24
+00:01:24,760 --> 00:01:25,760
+No more having it.
+
+25
+00:01:25,760 --> 00:01:26,760
+No fifty-fifty-nothing.
+
+26
+00:01:26,760 --> 00:01:27,760
+No more lowering them.
+
+27
+00:01:27,760 --> 00:01:32,000
+While we had hoped that we would have our new name, and you know, champion hero of the
+
+28
+00:01:32,000 --> 00:01:39,360
+people, he praises upon, we did not find Nate that we particularly liked enough to commit
+
+29
+00:01:39,360 --> 00:01:45,440
+to, but there were some people that were going in a direction that we liked.
+
+30
+00:01:45,440 --> 00:01:52,920
+My personal favorite of all the suggestions was Pulp Affliction by LJMysticOwl.
+
+31
+00:01:52,920 --> 00:01:58,200
+That had the catchiness I think we would really like to have, while also having a pun.
+
+32
+00:01:58,200 --> 00:01:59,200
+Yeah.
+
+33
+00:01:59,200 --> 00:02:04,800
+Greg McDaniel also suggested Drink Read Photogon, which we thought was funny, but it was a failure
+
+34
+00:02:04,800 --> 00:02:05,800
+on both counts.
+
+35
+00:02:05,800 --> 00:02:07,520
+A, we don't want to refer to a popular thing.
+
+36
+00:02:07,520 --> 00:02:10,880
+B, we don't want to refer to Lovecraft, because we do more than these things.
+
+37
+00:02:10,880 --> 00:02:17,040
+Someone suggested something on the vein of Libations, Litbations, which sounds a little
+
+38
+00:02:17,040 --> 00:02:18,040
+too much like clit master-shit.
+
+39
+00:02:18,040 --> 00:02:26,360
+But yeah, some of these were going in the right direction, but nothing we liked enough
+
+40
+00:02:26,360 --> 00:02:27,520
+to commit to, so.
+
+41
+00:02:27,520 --> 00:02:33,120
+We do like puns, but I find in my experience that we're good at spontaneous puns, and terrible
+
+42
+00:02:33,120 --> 00:02:35,760
+at actually coming up with them when we want them.
+
+43
+00:02:35,760 --> 00:02:38,440
+And terrible at titles, in all regards.
+
+44
+00:02:38,640 --> 00:02:45,120
+And the person who ends up giving us our title will be heaped with prize.
+
+45
+00:02:45,120 --> 00:02:46,120
+Oh yes.
+
+46
+00:02:46,120 --> 00:02:47,840
+Of some sort.
+
+47
+00:02:47,840 --> 00:02:51,160
+That is, it's a surprise prize, whoever gives us our name.
+
+48
+00:02:51,160 --> 00:02:56,080
+So give us our name, and if we like it, and we pick it, you'll get a prize that is a surprise.
+
+49
+00:02:56,080 --> 00:02:59,120
+Prize, of course, entirely dependent on how much we like it.
+
+50
+00:02:59,120 --> 00:03:03,120
+Yeah, like if it's the best thing ever, then we'll give you the dog.
+
+51
+00:03:03,120 --> 00:03:04,120
+So.
+
+52
+00:03:04,120 --> 00:03:05,120
+Alright.
+
+53
+00:03:06,000 --> 00:03:10,560
+So before we start- Motherfucker.
+
+54
+00:03:10,560 --> 00:03:15,720
+So while the name suggestions came up a little bit short, the book suggestions were fantastic.
+
+55
+00:03:15,720 --> 00:03:17,720
+So many choices.
+
+56
+00:03:17,720 --> 00:03:20,200
+So we had a lot of choices.
+
+57
+00:03:20,200 --> 00:03:24,800
+Of the ones that we had not read, Miss Peregrine's Home for Peculiar Children was a popular one.
+
+58
+00:03:24,800 --> 00:03:25,800
+Yeah, that was a popular one.
+
+59
+00:03:25,800 --> 00:03:30,160
+And one I've been wanting to read for a while, so I was very much gunning for that one.
+
+60
+00:03:30,160 --> 00:03:35,320
+We also got a lot of the more popular YA's, the Matched series, the Gone series, which
+
+61
+00:03:35,320 --> 00:03:37,480
+hmm.
+
+62
+00:03:37,480 --> 00:03:42,720
+We decided based on popularity and frequency of being mentioned to go with Cinder by Marissa
+
+63
+00:03:42,720 --> 00:03:43,720
+Meyer.
+
+64
+00:03:43,720 --> 00:03:47,760
+So we have not read it yet, but we will have read it within two weeks.
+
+65
+00:03:47,760 --> 00:03:49,800
+So let's give a quick rundown from the blurb in the back.
+
+66
+00:03:49,800 --> 00:03:55,680
+This is a library copy, as you can tell by how loved and worn it is, so support your
+
+67
+00:03:55,680 --> 00:03:56,760
+local library.
+
+68
+00:03:56,760 --> 00:04:00,920
+Even in the future, the story begins with once upon a time.
+
+69
+00:04:00,920 --> 00:04:04,360
+Humans and androids, Crow-Creen's library, jing.
+
+70
+00:04:04,360 --> 00:04:09,360
+A deadly plague ravages the puh- barcode, ner people watch.
+
+71
+00:04:09,360 --> 00:04:18,360
+Waiting to make the 0-2-2-8-5-6-5-9-2-8-7-9-0, it's fate hinges on one girl, the 16 year
+
+72
+00:04:18,360 --> 00:04:19,360
+old Cinder.
+
+73
+00:04:19,360 --> 00:04:20,360
+So like we said.
+
+74
+00:04:20,360 --> 00:04:21,360
+The gifting mechanic is a cyborg.
+
+75
+00:04:21,360 --> 00:04:22,360
+She's a cyborg.
+
+76
+00:04:22,360 --> 00:04:23,840
+Support your local library.
+
+77
+00:04:23,920 --> 00:04:29,040
+I kind of avoided this one for a while because it's another goddamn Cinderella retelling,
+
+78
+00:04:29,040 --> 00:04:33,840
+but I feel like I know enough people that really liked it, and also it's got like cyborgs
+
+79
+00:04:33,840 --> 00:04:35,320
+and aliens and shit, which I really like.
+
+80
+00:04:35,320 --> 00:04:36,880
+So who doesn't love cyborgs and aliens?
+
+81
+00:04:36,880 --> 00:04:43,520
+Yeah, so we'll read this and see if the originality of the premise overcomes the hackneyedness
+
+82
+00:04:43,520 --> 00:04:45,560
+of another goddamn Cinderella retelling.
+
+83
+00:04:45,560 --> 00:04:48,400
+We will be reading this in a two weeks time.
+
+84
+00:04:48,400 --> 00:04:51,880
+And in two weeks, when we do our next episode, because Nella's out of town this weekend,
+
+85
+00:04:51,920 --> 00:04:56,160
+you are welcome to read it with us, and then you can share your opinions in the comments
+
+86
+00:04:56,160 --> 00:04:57,160
+of next week's episode.
+
+87
+00:04:57,160 --> 00:05:01,960
+But this week's episode, like I said, we're celebrating sequels with our, you know, Fifty
+
+88
+00:05:01,960 --> 00:05:07,000
+Shades of Grey drink, number two, because of technical difficulties.
+
+89
+00:05:07,000 --> 00:05:12,800
+Let's talk about book two of the Awoken saga, Arisen.
+
+90
+00:05:12,800 --> 00:05:24,640
+The only one that came close to being good enough to supplant Arisen, to me, was Forsaken.
+
+91
+00:05:24,640 --> 00:05:29,320
+But I mean, I'm kind of on the fence on that one, I still kind of like the alliteration
+
+92
+00:05:29,320 --> 00:05:30,320
+idea.
+
+93
+00:05:30,320 --> 00:05:31,320
+I know.
+
+94
+00:05:31,320 --> 00:05:34,120
+Although I have to say, like, I really did enjoy the suggestion of Token.
+
+95
+00:05:34,120 --> 00:05:35,120
+Token!
+
+96
+00:05:35,120 --> 00:05:41,800
+The third one should be alliteration.
+
+97
+00:05:41,800 --> 00:05:48,160
+So Awoken, Arisen, Alliteration.
+
+98
+00:05:48,160 --> 00:05:51,120
+If we do end up going with the Eat, Pray, Love, which I'm still, you know, I think we're
+
+99
+00:05:51,120 --> 00:05:54,320
+probably going to have to read Eat, Pray, Love at some point, which neither of us have,
+
+100
+00:05:54,320 --> 00:05:58,240
+so it kind of falls into our, we probably should.
+
+101
+00:05:58,240 --> 00:06:02,640
+As we got a lot of comments about the nature of parody, especially as our first one is
+
+102
+00:06:02,640 --> 00:06:09,880
+focused mainly on paranormal romance and the YA tradition, so we got a lot of people saying
+
+103
+00:06:09,960 --> 00:06:15,800
+that we should do dystopia, since that is more the thing now, which it absolutely is,
+
+104
+00:06:15,800 --> 00:06:18,800
+at least in terms of things that are being turned into movies.
+
+105
+00:06:18,800 --> 00:06:25,520
+In publishing world, dystopia is way dead, but in Hollywood world, it's just getting
+
+106
+00:06:25,520 --> 00:06:26,520
+started.
+
+107
+00:06:26,520 --> 00:06:30,480
+I don't know, Nella, how do you feel about involving dystopic elements in our series
+
+108
+00:06:30,480 --> 00:06:33,200
+that we've already started?
+
+109
+00:06:34,200 --> 00:06:41,800
+There is definitely an element we can play with about the ending of one world and the
+
+110
+00:06:41,800 --> 00:06:43,880
+horrors of the new.
+
+111
+00:06:43,880 --> 00:06:49,920
+Maybe Cthulhu's home dimension is dystopic.
+
+112
+00:06:49,920 --> 00:06:50,920
+Or something.
+
+113
+00:06:50,920 --> 00:06:51,920
+Or something.
+
+114
+00:06:51,920 --> 00:06:56,180
+While we did start with the intent of being, you know, just a parody, I'm not terribly
+
+115
+00:06:56,180 --> 00:06:58,520
+interested in making this the hungover games.
+
+116
+00:06:59,240 --> 00:07:00,240
+Here's a question, Lindsay.
+
+117
+00:07:00,240 --> 00:07:05,040
+What is it about YA dystopia that makes you hesitant about parodying it?
+
+118
+00:07:05,040 --> 00:07:08,320
+Well, let me tell you my feelings on YA dystopia, Nella.
+
+119
+00:07:14,960 --> 00:07:18,080
+What are some seminal modern dystopias?
+
+120
+00:07:18,080 --> 00:07:24,480
+The two most remembered dystopias of the modern era since, you know, the beginning of the
+
+121
+00:07:24,480 --> 00:07:28,240
+1900s, 1984 and Brave New World.
+
+122
+00:07:28,240 --> 00:07:29,240
+Were these those?
+
+123
+00:07:29,240 --> 00:07:30,240
+Cheers.
+
+124
+00:07:30,240 --> 00:07:36,880
+Let's have a deep discussion about literary history.
+
+125
+00:07:36,880 --> 00:07:42,920
+The thing about Brave New World in 1984 is, before anything, like Animal Farm, for instance,
+
+126
+00:07:42,920 --> 00:07:44,760
+they are social critiques.
+
+127
+00:07:44,760 --> 00:07:48,000
+1984 is a more obvious anxiety.
+
+128
+00:07:48,000 --> 00:07:53,000
+It expresses a fear of totalitarian government being watched.
+
+129
+00:07:53,000 --> 00:08:02,200
+Brave New World is more about a society being controlled by comforts and drugs and being
+
+130
+00:08:02,200 --> 00:08:06,720
+basically desensitized, which effectively robs them of their humanity.
+
+131
+00:08:06,720 --> 00:08:13,600
+And also, yeah, robbing people of their desire to change their circumstances, like with the
+
+132
+00:08:13,600 --> 00:08:16,720
+conditioning at the beginning of a child's life.
+
+133
+00:08:16,720 --> 00:08:21,440
+When we compare that to the modern young adult dystopia, the thing about young adult is it
+
+134
+00:08:21,480 --> 00:08:27,040
+tends to be very focused on the individual, which makes sense because young adult is ultimately
+
+135
+00:08:27,040 --> 00:08:28,040
+about coming of age.
+
+136
+00:08:28,040 --> 00:08:34,160
+When you look at The Hunger Games, which I like a lot, I really like The Hunger Games,
+
+137
+00:08:34,160 --> 00:08:41,520
+there are absolutely elements of the social anxiety there, particularly in regard to reality
+
+138
+00:08:41,520 --> 00:08:46,400
+shows and people's lives as entertainment for the masses.
+
+139
+00:08:46,400 --> 00:08:48,200
+But there's a lot of other things there too.
+
+140
+00:08:48,200 --> 00:08:52,720
+There's income inequality, and it absolutely has that element of the personal, which I
+
+141
+00:08:52,720 --> 00:08:57,560
+think is why it's so blockbuster successful.
+
+142
+00:08:57,560 --> 00:09:04,000
+Then you have the billion-y-jillion other fucking YA dystopias, which are effectively
+
+143
+00:09:04,000 --> 00:09:08,600
+totalitarian government as a metaphor for, don't tell me what to do, mom.
+
+144
+00:09:08,600 --> 00:09:16,080
+I actually just read Earthseed, the series, by Octavia Butler, and reading it, the thing
+
+145
+00:09:16,080 --> 00:09:21,560
+that really struck me is I am a person who really does love a dystopian.
+
+146
+00:09:21,560 --> 00:09:28,040
+I do like exploring how societies we know it might have collapsed, how we're dealing
+
+147
+00:09:28,040 --> 00:09:31,320
+with it, how we're being oppressed, how we overcome it.
+
+148
+00:09:31,320 --> 00:09:37,920
+Realizing, and not so much The Hunger Games, but other series and other books, is that
+
+149
+00:09:37,920 --> 00:09:44,880
+Earthseed is complete, it explores the collapse in a way that the others fail to do, and the
+
+150
+00:09:44,880 --> 00:09:51,840
+stakes are real in a way that a lot of YA dystopian just doesn't quite grasp.
+
+151
+00:09:51,840 --> 00:09:56,920
+Well, the thing about YA dystopia, the thing that's kind of driving me mad about it is
+
+152
+00:09:56,920 --> 00:10:03,440
+not only the fact that there is a figurehead, it's a figurehead that if you conquer it,
+
+153
+00:10:03,440 --> 00:10:05,080
+then everything's okay.
+
+154
+00:10:05,080 --> 00:10:11,840
+It's not, it has nothing to do with the fabric of society, which Earthseed explores a lot.
+
+155
+00:10:11,880 --> 00:10:16,160
+But I think the really interesting thing about Earthseed within the context of this discussion,
+
+156
+00:10:16,160 --> 00:10:21,600
+there is no difference between that and a young adult novel, because the protagonist,
+
+157
+00:10:21,600 --> 00:10:25,560
+especially in the first book, Parable of the Sower.
+
+158
+00:10:25,560 --> 00:10:26,560
+Read it.
+
+159
+00:10:26,560 --> 00:10:27,560
+Read it now.
+
+160
+00:10:27,560 --> 00:10:28,560
+Today.
+
+161
+00:10:28,560 --> 00:10:29,560
+Before you read this.
+
+162
+00:10:29,560 --> 00:10:30,560
+I promise.
+
+163
+00:10:30,560 --> 00:10:31,560
+No, seriously.
+
+164
+00:10:31,560 --> 00:10:32,560
+I don't care how good this is.
+
+165
+00:10:32,560 --> 00:10:33,560
+Parable of the Sower is better.
+
+166
+00:10:33,560 --> 00:10:40,360
+It features basically a protagonist from, I think she's 15 through 19 throughout the
+
+167
+00:10:40,360 --> 00:10:41,360
+novel.
+
+168
+00:10:41,880 --> 00:10:48,480
+It's a young adult novel, but it's, Earthseed is a great modern dystopia, but it's not playing
+
+169
+00:10:48,480 --> 00:10:56,520
+to what publishers or writers, as it were, think are the anxieties and concerns of teenagers,
+
+170
+00:10:56,520 --> 00:11:00,920
+which is totalitarian government is a metaphor for you can't tell me what to do, mom.
+
+171
+00:11:00,920 --> 00:11:01,920
+I'm an adult.
+
+172
+00:11:01,920 --> 00:11:05,480
+Also, it's decidedly non-sexy, because there's no, you know, triangle.
+
+173
+00:11:05,480 --> 00:11:06,480
+Yeah.
+
+174
+00:11:06,480 --> 00:11:09,120
+Well, there's no triangle, and the only love interest is, like, 50.
+
+175
+00:11:09,120 --> 00:11:10,120
+Yeah.
+
+176
+00:11:10,640 --> 00:11:14,000
+It's a little creepy, but hey, you know, end of the world.
+
+177
+00:11:14,000 --> 00:11:15,000
+What ifs.
+
+178
+00:11:15,000 --> 00:11:16,000
+What ifs.
+
+179
+00:11:16,000 --> 00:11:19,400
+Dystopia is an interesting conversation, and by all means, please, converse in the comments,
+
+180
+00:11:19,400 --> 00:11:24,200
+and we may discuss dystopia in another episode, because that is absolutely relevant, not only
+
+181
+00:11:24,200 --> 00:11:26,080
+to young adult, but to science fiction in general.
+
+182
+00:11:26,080 --> 00:11:27,080
+I don't know.
+
+183
+00:11:27,080 --> 00:11:29,280
+I feel like it's been a shift in science fiction.
+
+184
+00:11:29,280 --> 00:11:35,240
+In the past, it's been more about what we've built towards, and now it's about how we have
+
+185
+00:11:35,240 --> 00:11:39,520
+destroyed ourselves, and what can we do to reclaim what we have lost?
+
+186
+00:11:39,520 --> 00:11:43,360
+Which totally makes sense, considering the...
+
+187
+00:11:43,360 --> 00:11:47,800
+The North Atlantic Current.
+
+188
+00:11:47,800 --> 00:11:54,960
+After our lengthy dystopian conversation, if Arisen is not a dystopia, what is it?
+
+189
+00:11:54,960 --> 00:12:01,920
+As we mentioned in last week's episode, we have an idea as to what it is, but we, before
+
+190
+00:12:01,920 --> 00:12:07,400
+we start actually talking mechanics of plot and setting and characters and all that fun
+
+191
+00:12:07,400 --> 00:12:13,960
+stuff, we want to hear what you have to say without it being a Hunger Games parody.
+
+192
+00:12:13,960 --> 00:12:14,960
+Please no.
+
+193
+00:12:14,960 --> 00:12:15,960
+Close it.
+
+194
+00:12:15,960 --> 00:12:23,160
+So now as we are coming to the close of our second martini and second episode of the new
+
+195
+00:12:23,160 --> 00:12:27,800
+season, please goddammit give us better names that don't have anything to do with Fifty
+
+196
+00:12:27,800 --> 00:12:28,960
+Shades of Grey.
+
+197
+00:12:28,960 --> 00:12:29,960
+As we...
+
+198
+00:12:29,960 --> 00:12:30,960
+We like puns.
+
+199
+00:12:30,960 --> 00:12:34,240
+Puns and things that have to do with drinking and reading.
+
+200
+00:12:34,240 --> 00:12:37,360
+Proofreading, you might say, except for that's the name of a tumbler.
+
+201
+00:12:37,360 --> 00:12:38,480
+And it's a wonderful tumbler.
+
+202
+00:12:38,480 --> 00:12:39,480
+You should follow it.
+
+203
+00:12:39,480 --> 00:12:43,160
+Yeah, proofreading books, it's cute, but we don't want to plagiarize.
+
+204
+00:12:43,160 --> 00:12:44,160
+So about that Goodreads.
+
+205
+00:12:44,160 --> 00:12:46,360
+Oh yeah, it is set up.
+
+206
+00:12:46,360 --> 00:12:49,600
+We now have a Goodreads account under Shay Apocalypse.
+
+207
+00:12:49,600 --> 00:12:52,200
+First name Shay, last name Apocalypse.
+
+208
+00:12:52,200 --> 00:12:53,480
+That's how it made me do it.
+
+209
+00:12:53,480 --> 00:12:58,480
+So you friend us on Goodreads, we'll friend you back and we'll start building our reading
+
+210
+00:12:58,480 --> 00:12:59,480
+wall.
+
+211
+00:12:59,480 --> 00:13:00,480
+Yeah.
+
+212
+00:13:00,480 --> 00:13:06,600
+Our reading wall will be young adults and adult science fiction and fantasy.
+
+213
+00:13:06,600 --> 00:13:10,720
+And maybe some e-prelubs and cloud atlases and other things that we find relevant and
+
+214
+00:13:10,720 --> 00:13:11,720
+interesting.
+
+215
+00:13:11,720 --> 00:13:12,720
+I still need to read that.
+
+216
+00:13:12,720 --> 00:13:13,720
+Yeah, you do, but you won't have time.
+
+217
+00:13:13,720 --> 00:13:19,280
+Please leave your comments on our website, ShayApocalypse.com, tweet at us, at ShayApocalypse,
+
+218
+00:13:19,280 --> 00:13:22,800
+and talk to us in the normal Twitter places.
+
+219
+00:13:22,800 --> 00:13:28,400
+And also give us drink recipes, because this one, I had to find, it was too strong.
+
+220
+00:13:28,400 --> 00:13:34,040
+Here's to books and fewer technical difficulties.
+
+221
+00:13:34,040 --> 00:13:39,640
+And that way we might be a little more coherent.
+
+222
+00:13:39,640 --> 00:13:40,160
+To feener...
+

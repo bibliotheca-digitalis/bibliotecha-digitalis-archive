@@ -1,0 +1,760 @@
+1
+00:00:00,000 --> 00:00:05,980
+Contrary to the media narrative, COVID-19 treatment with hydroxychloroquine is a safe
+
+2
+00:00:05,980 --> 00:00:06,980
+and generic...
+
+3
+00:00:06,980 --> 00:00:10,860
+Whoa, before people start reaching for the fish tank cleaner and YouTube blocks this
+
+4
+00:00:10,860 --> 00:00:15,120
+video, let me jump in quickly and say that this is crap.
+
+5
+00:00:15,120 --> 00:00:19,760
+So don't take medical advice from television pundits on Sky News.
+
+6
+00:00:19,760 --> 00:00:23,840
+I'm going to look at the rise and fall of a therapy that was passionately championed
+
+7
+00:00:23,840 --> 00:00:29,120
+in some sections of the media and the dangers of mixing politics and medicine.
+
+8
+00:00:29,240 --> 00:00:34,120
+I'm going to look at the scientific reasons why hydroxychloroquine hasn't been approved
+
+9
+00:00:34,120 --> 00:00:40,800
+by the FDA, the Therapeutics Goods Administration of Australia, the PFSB of Japan, and just
+
+10
+00:00:40,800 --> 00:00:46,120
+about every major pharmaceutical authority in Europe except, I think, for Italy.
+
+11
+00:00:46,120 --> 00:00:48,720
+Is this because Donald Trump has spoken in favour of it, do you reckon?
+
+12
+00:00:48,720 --> 00:00:54,160
+No, Alan, it's because nearly every study that's been done shows that hydroxychloroquine
+
+13
+00:00:54,160 --> 00:00:56,480
+isn't an effective treatment.
+
+14
+00:00:56,480 --> 00:01:00,840
+That may be hard to fathom if you ignore most of the science and only have a flawed,
+
+15
+00:01:00,840 --> 00:01:03,440
+narrow and selective understanding of the research.
+
+16
+00:01:03,440 --> 00:01:08,620
+In a new study, Smith and three other medical experts prove what he and his This Show have
+
+17
+00:01:08,620 --> 00:01:13,540
+been telling you for more than a year, that hydroxychloroquine can save lives.
+
+18
+00:01:13,540 --> 00:01:18,040
+But this wasn't a published clinical study or a randomized trial.
+
+19
+00:01:18,040 --> 00:01:23,600
+It was an observational study made by a group of doctors that was posted online.
+
+20
+00:01:23,600 --> 00:01:28,480
+There certainly have been a few studies that found hydroxychloroquine might be beneficial,
+
+21
+00:01:28,480 --> 00:01:33,200
+like this study by Achad et al. published in May 2020.
+
+22
+00:01:33,200 --> 00:01:37,200
+But for all the hype it was given in some sections of the media, you wouldn't know that
+
+23
+00:01:37,200 --> 00:01:41,600
+it was not a randomized control study and that it had a caveat.
+
+24
+00:01:41,600 --> 00:01:47,840
+Well, a new hydroxychloroquine study has just dropped and it could have all those experts
+
+25
+00:01:47,840 --> 00:01:48,840
+eating their words.
+
+26
+00:01:48,840 --> 00:01:55,360
+The Henry Ford Health System in Michigan tonight is announcing that hydroxychloroquine significantly
+
+27
+00:01:55,360 --> 00:02:00,680
+reduced death rates among sick and hospitalized COVID patients.
+
+28
+00:02:00,680 --> 00:02:03,240
+No, it didn't say that at all.
+
+29
+00:02:03,240 --> 00:02:08,940
+What it actually concluded was that treatment with hydroxychloroquine alone and in combination
+
+30
+00:02:08,940 --> 00:02:15,620
+with azithromycin was associated with a reduction in COVID-19-associated mortality.
+
+31
+00:02:15,620 --> 00:02:19,120
+An association is not the same as cause and effect.
+
+32
+00:02:19,120 --> 00:02:22,860
+For that, the study recommends prospective trials.
+
+33
+00:02:22,860 --> 00:02:24,660
+And these were done.
+
+34
+00:02:24,660 --> 00:02:29,740
+When taken in their totality, rather than picking just one or two for a TV program,
+
+35
+00:02:29,740 --> 00:02:33,800
+they show that hydroxychloroquine is ineffective.
+
+36
+00:02:33,800 --> 00:02:40,540
+This review found no benefit on viral clearance but a significant increase in mortality.
+
+37
+00:02:40,540 --> 00:02:45,060
+All these studies can be found in the review linked in the video description, as are my
+
+38
+00:02:45,060 --> 00:02:49,900
+other sources, so you can check all these studies yourselves.
+
+39
+00:02:49,900 --> 00:02:56,880
+And this review of studies looking at hydroxychloroquine as a prophylaxis also found that it was ineffective.
+
+40
+00:02:56,880 --> 00:03:01,820
+The key message from completed studies and randomized control trials seems to be that
+
+41
+00:03:01,820 --> 00:03:05,520
+hydroxychloroquine does not work.
+
+42
+00:03:05,520 --> 00:03:10,460
+An editorial in the Journal of the American Medical Association also summarized the findings
+
+43
+00:03:10,460 --> 00:03:12,720
+of all the studies.
+
+44
+00:03:12,720 --> 00:03:18,280
+These well-conducted trials, it said, including the study reported in this issue of JAMA,
+
+45
+00:03:18,280 --> 00:03:24,680
+demonstrate the lack of efficacy of hydroxychloroquine in patients with COVID-19.
+
+46
+00:03:24,680 --> 00:03:29,480
+They have been ignored by many TV pundits in favour of trumpeting just a few selected
+
+47
+00:03:29,480 --> 00:03:33,740
+studies that supposedly prove the pundits are right.
+
+48
+00:03:33,740 --> 00:03:39,500
+They see science, as they always do, as a battle between teams, or political sides.
+
+49
+00:03:39,500 --> 00:03:44,900
+And that meant anyone who said hydroxychloroquine was not safe and effective for COVID-19 must
+
+50
+00:03:44,900 --> 00:03:47,460
+be on the opposite team.
+
+51
+00:03:47,460 --> 00:03:52,860
+Never mind about randomized control trials and meta-analysis and statistically significant
+
+52
+00:03:52,860 --> 00:03:55,780
+mortality and all that sciencey stuff.
+
+53
+00:03:55,780 --> 00:04:00,780
+In the end, this is a lot easier to understand than this.
+
+54
+00:04:00,780 --> 00:04:03,460
+So when Alan Jones asked the question…
+
+55
+00:04:03,460 --> 00:04:05,920
+Is this because Donald Trump has spoken in favour of it, do you reckon?
+
+56
+00:04:05,920 --> 00:04:10,820
+He didn't turn to a knowledgeable researcher who could explain all this research to him.
+
+57
+00:04:10,820 --> 00:04:15,840
+He asked someone on his team, a member of the Australian Parliament with no scientific
+
+58
+00:04:15,840 --> 00:04:17,880
+expertise at all.
+
+59
+00:04:17,880 --> 00:04:23,240
+It's ironic that the people who claim that politics is interfering with scientific decisions
+
+60
+00:04:23,240 --> 00:04:29,240
+are the ones who consistently ignore the conclusions of qualified scientific researchers in favour
+
+61
+00:04:29,240 --> 00:04:33,240
+of seeking out answers from politicians.
+
+62
+00:04:33,240 --> 00:04:37,840
+So that brings us on to the next, very reasonable argument.
+
+63
+00:04:37,840 --> 00:04:41,960
+Hydroxychloroquine may not help, but surely it won't hurt.
+
+64
+00:04:41,960 --> 00:04:46,260
+After all, there's anecdotal evidence, so why not give it anyway?
+
+65
+00:04:46,260 --> 00:04:51,920
+That was the view of many people who responded to my video Coronavirus vs Politics.
+
+66
+00:04:51,920 --> 00:04:54,720
+Sure, no need to convince me.
+
+67
+00:04:54,720 --> 00:05:00,320
+Of course it's been around for a long time to treat malaria, lupus and rheumatoid arthritis.
+
+68
+00:05:00,320 --> 00:05:05,920
+But Covid-19 treatment with hydroxychloroquine is a safe and generic medication?
+
+69
+00:05:05,920 --> 00:05:14,880
+Yes, for treating malaria, lupus and rheumatoid arthritis, not for treating Covid-19.
+
+70
+00:05:14,880 --> 00:05:18,540
+There are many studies of hydroxychloroquine's effects and they are all in agreement that
+
+71
+00:05:18,540 --> 00:05:21,560
+if it's taken in the right doses, it's safe.
+
+72
+00:05:21,560 --> 00:05:26,480
+There is no reason to believe why somebody having the coronavirus would change this fact.
+
+73
+00:05:26,800 --> 00:05:33,800
+Actually, there is a reason to believe that if the coronavirus manifests itself as Covid-19.
+
+74
+00:05:33,800 --> 00:05:37,800
+The next poster inadvertently stumbled on the answer.
+
+75
+00:05:37,800 --> 00:05:42,400
+The safety and side effects of chloroquine are well understood and the mechanism of action
+
+76
+00:05:42,400 --> 00:05:44,320
+is well understood.
+
+77
+00:05:44,320 --> 00:05:50,560
+Indeed, the side effects of chloroquine and hydroxychloroquine are well understood and
+
+78
+00:05:50,560 --> 00:05:54,280
+that's why it's a problem for Covid-19 patients.
+
+79
+00:05:54,280 --> 00:05:59,520
+To find out why, first I have to explain something called the QT interval.
+
+80
+00:05:59,520 --> 00:06:03,700
+It's the period of time between the end of the heart's atrial contraction and the end
+
+81
+00:06:03,700 --> 00:06:08,760
+of its ventricular contraction, this part of the heart's cycle.
+
+82
+00:06:08,760 --> 00:06:14,940
+The interval, shown here by the peaks labelled Q and T, is called the QT interval.
+
+83
+00:06:14,940 --> 00:06:17,960
+In a normal heart it looks like this.
+
+84
+00:06:17,960 --> 00:06:22,560
+But medical researchers have known for a long time that hydroxychloroquine has an adverse
+
+85
+00:06:22,560 --> 00:06:27,280
+effect on the heart's rhythm by lengthening the QT interval.
+
+86
+00:06:27,280 --> 00:06:31,920
+This has been the subject of discussion and published research long before SARS-CoV-2
+
+87
+00:06:31,920 --> 00:06:33,440
+came along.
+
+88
+00:06:33,440 --> 00:06:38,520
+But unless a patient has existing heart problems, and most patients with malaria, lupus and
+
+89
+00:06:38,520 --> 00:06:45,280
+rheumatoid arthritis don't, then the adverse effects are outweighed by the benefits.
+
+90
+00:06:45,280 --> 00:06:50,760
+The problem is, a lot of Covid patients do often have heart problems is one of the complications
+
+91
+00:06:50,760 --> 00:06:52,860
+of Covid-19.
+
+92
+00:06:52,860 --> 00:06:57,340
+So pretty early on, several studies focused on whether this might be aggravated by the
+
+93
+00:06:57,340 --> 00:07:00,280
+use of hydroxychloroquine.
+
+94
+00:07:00,280 --> 00:07:03,880
+Some studies found it did, some found that it didn't.
+
+95
+00:07:03,880 --> 00:07:08,380
+Some even found a statistically significant increase in the number of deaths.
+
+96
+00:07:08,380 --> 00:07:14,440
+So no, the studies are not in agreement that hydroxychloroquine is safe for Covid-19, even
+
+97
+00:07:14,440 --> 00:07:17,040
+in the right doses.
+
+98
+00:07:17,040 --> 00:07:21,520
+In case you think there's something political about the QT cycle, I should point out that
+
+99
+00:07:21,520 --> 00:07:27,540
+hydroxychloroquine upsets the cardiac cycle whether you're a Republican or a Democrat.
+
+100
+00:07:27,540 --> 00:07:29,520
+But try telling that to members of the team.
+
+101
+00:07:29,520 --> 00:07:30,520
+There was a lot of fear.
+
+102
+00:07:30,520 --> 00:07:35,580
+I mean, obviously there was strange political reasons that I'll never understand.
+
+103
+00:07:35,580 --> 00:07:38,680
+When I recommend something, they like to say don't use it.
+
+104
+00:07:38,680 --> 00:07:42,960
+OK, well there's one last piece of the puzzle that shows this has nothing to do with party
+
+105
+00:07:42,960 --> 00:07:43,960
+politics.
+
+106
+00:07:43,960 --> 00:07:51,360
+We want the FDA to issue an emergency use authorization for Remdesivir.
+
+107
+00:07:51,360 --> 00:07:55,520
+We would like to see very quick approvals, especially with things at work.
+
+108
+00:07:55,520 --> 00:07:59,880
+And Remdesivir has been approved by health authorities all over the world, including
+
+109
+00:07:59,880 --> 00:08:01,620
+the United States.
+
+110
+00:08:01,620 --> 00:08:04,040
+It's widely used as a therapy.
+
+111
+00:08:04,040 --> 00:08:06,460
+The president also endorsed this treatment.
+
+112
+00:08:06,460 --> 00:08:09,360
+Within a very short period of time, they gave me Regeneron.
+
+113
+00:08:09,360 --> 00:08:14,560
+And Regeneron has been approved for emergency use in treating Covid-19, and that authorization
+
+114
+00:08:14,560 --> 00:08:18,120
+is being expanded as trials continue.
+
+115
+00:08:18,120 --> 00:08:20,080
+And of course, there's the vaccine.
+
+116
+00:08:20,080 --> 00:08:24,960
+And the vaccine looks like it's really heading in a very rapid direction, a very positive
+
+117
+00:08:24,960 --> 00:08:25,960
+direction.
+
+118
+00:08:25,960 --> 00:08:29,780
+No need to tell you that that has been approved and widely adopted.
+
+119
+00:08:29,780 --> 00:08:34,080
+So the common denominator is not whether the president spoke in favour of a particular
+
+120
+00:08:34,080 --> 00:08:40,040
+therapy, but whether clinical trials showed that the medication was effective and reasonably
+
+121
+00:08:40,040 --> 00:08:41,160
+safe.
+
+122
+00:08:41,160 --> 00:08:46,920
+As so often happens, eventually the pundits have no choice but to catch up with the science.
+
+123
+00:08:46,920 --> 00:08:53,300
+So after 18 months of bombshell reports that prove hydroxychloroquine works, most opinion
+
+124
+00:08:53,300 --> 00:08:56,580
+makers have now quietly stopped promoting it.
+
+125
+00:08:56,580 --> 00:09:00,760
+So it's not the researchers who are eating their word, but the amateurs who play doctor
+
+126
+00:09:00,760 --> 00:09:02,420
+on TV.
+
+127
+00:09:02,420 --> 00:09:07,900
+At least it would be if they could bring themselves to issue a correction or an apology.
+
+128
+00:09:07,900 --> 00:09:09,680
+But of course, there hasn't been any.
+
+129
+00:09:09,680 --> 00:09:12,460
+The promotion has just been quietly dropped.
+
+130
+00:09:12,460 --> 00:09:18,320
+Sky News, which once cried censorship and cancel culture when YouTube removed its misleading
+
+131
+00:09:18,320 --> 00:09:24,960
+videos on hydroxychloroquine, ended up removing the videos itself from its own website, including
+
+132
+00:09:24,960 --> 00:09:26,140
+this one.
+
+133
+00:09:26,140 --> 00:09:31,000
+It just takes these people a little longer to catch up with the rest of us.
+
+134
+00:09:31,000 --> 00:09:36,660
+Now another drug, ivermectin, is being touted as the latest miracle cure that the authorities
+
+135
+00:09:36,660 --> 00:09:38,760
+don't want you to know about.
+
+136
+00:09:38,760 --> 00:09:43,960
+A lot of studies have been done on ivermectin, and as always it's the positive ones that
+
+137
+00:09:43,960 --> 00:09:46,560
+are selected and promoted.
+
+138
+00:09:46,560 --> 00:09:50,140
+But the quality of some of these studies is questionable.
+
+139
+00:09:50,140 --> 00:09:55,160
+Many of the amateurs supported their case for ivermectin by citing a preprint, in other
+
+140
+00:09:55,160 --> 00:10:00,020
+words a study that hadn't been peer reviewed that was later found to be fraudulent and
+
+141
+00:10:00,060 --> 00:10:02,600
+withdrawn from publication.
+
+142
+00:10:02,600 --> 00:10:05,220
+That's bad enough, but it gets worse.
+
+143
+00:10:05,220 --> 00:10:10,300
+That study was so large that it became an important component of meta-analyses also
+
+144
+00:10:10,300 --> 00:10:15,740
+touted by amateur pundits, as proof that ivermectin works.
+
+145
+00:10:15,740 --> 00:10:22,140
+Another study touted by the gurus seemed too good to be true – a 100% success rate.
+
+146
+00:10:22,140 --> 00:10:24,720
+The lead author was Hector Cavallo.
+
+147
+00:10:24,720 --> 00:10:28,780
+But medical professionals and journalists have found a number of discrepancies in the
+
+148
+00:10:28,780 --> 00:10:29,780
+study.
+
+149
+00:10:29,780 --> 00:10:33,980
+There were contradictions in the number of participants given in the paper and submitted
+
+150
+00:10:33,980 --> 00:10:37,260
+to an official clinical trials database.
+
+151
+00:10:37,260 --> 00:10:39,180
+Some of the numbers don't even add up.
+
+152
+00:10:39,180 --> 00:10:44,220
+I mean literally they don't equal the totals at the bottom of the table.
+
+153
+00:10:44,220 --> 00:10:49,000
+A hospital named in the paper announced that it had no record of the study and its name
+
+154
+00:10:49,000 --> 00:10:51,420
+had to be removed from the paper.
+
+155
+00:10:51,420 --> 00:10:57,140
+It was replaced with a vague reference to Other Peripheral Medical Centre, which remains
+
+156
+00:10:57,140 --> 00:10:58,140
+unnamed.
+
+157
+00:10:58,180 --> 00:11:03,060
+A doctor, whom the lead author said had helped review the data, denied having anything to
+
+158
+00:11:03,060 --> 00:11:05,160
+do with the study.
+
+159
+00:11:05,160 --> 00:11:08,140
+Why wasn't any of this picked up in peer review?
+
+160
+00:11:08,140 --> 00:11:12,900
+Perhaps because this study was published in an open access journal that isn't on the
+
+161
+00:11:12,900 --> 00:11:17,860
+master journals list, in other words little better than a website, and there were only
+
+162
+00:11:17,860 --> 00:11:21,780
+seven days between submission and acceptance.
+
+163
+00:11:21,780 --> 00:11:26,680
+I have to point out that the case of ivermectin is not yet a carbon copy of what happened
+
+164
+00:11:26,720 --> 00:11:28,520
+with hydroxychloroquine.
+
+165
+00:11:28,520 --> 00:11:34,400
+I can't proclaim that ivermectin works or doesn't work as a treatment or a prophylaxis.
+
+166
+00:11:34,400 --> 00:11:36,160
+What's wrong with me?
+
+167
+00:11:36,160 --> 00:11:38,380
+Why can't I pick a team?
+
+168
+00:11:38,380 --> 00:11:41,040
+Because that's not how science works.
+
+169
+00:11:41,040 --> 00:11:46,600
+The efficacy of ivermectin is dependent on evidence and professional medical bodies,
+
+170
+00:11:46,600 --> 00:11:50,800
+including the company that discovered and markets the drug, have determined that the
+
+171
+00:11:50,800 --> 00:11:53,400
+evidence is still lacking.
+
+172
+00:11:53,400 --> 00:11:58,880
+They say studies done so far have been small-scale, inadequate and contradictory.
+
+173
+00:11:58,880 --> 00:12:04,720
+What's needed is a proper large-scale, randomised control trial, and this is now being undertaken
+
+174
+00:12:04,720 --> 00:12:07,400
+by Oxford University.
+
+175
+00:12:07,400 --> 00:12:12,340
+But it's unfortunate that such tentative data are being used to not only promote ivermectin
+
+176
+00:12:12,340 --> 00:12:17,720
+on mainstream and social media, but to proclaim that if it's as effective as its proponents
+
+177
+00:12:17,720 --> 00:12:24,840
+hope, and they're often preaching that hope as a fact, then it makes the vaccine unnecessary.
+
+178
+00:12:24,840 --> 00:12:31,240
+And that has real-life consequences for people who take these pronouncements on faith.
+
+179
+00:12:31,240 --> 00:12:36,360
+But this video isn't about ivermectin, and it isn't even about hydroxychloroquine.
+
+180
+00:12:36,360 --> 00:12:42,680
+It's about how science has been co-opted by the self-professed gurus who make these recommendations
+
+181
+00:12:42,680 --> 00:12:45,680
+and the blind faith of people who believe them.
+
+182
+00:12:45,680 --> 00:12:51,240
+The crucial question on these miracle drugs isn't a political one, but a medical one.
+
+183
+00:12:51,240 --> 00:12:56,140
+Should health experts authorise a drug that they know could cause patients to die and
+
+184
+00:12:56,140 --> 00:13:02,960
+is most likely ineffective when other therapies that are effective are readily available?
+
+185
+00:13:02,960 --> 00:13:08,000
+Imagine if they had authorised hydroxychloroquine, despite knowing that studies showed it was
+
+186
+00:13:08,000 --> 00:13:11,240
+ineffective and a danger to patients.
+
+187
+00:13:11,240 --> 00:13:15,580
+Now that would be a real conspiracy, and I wonder who would be the first to express
+
+188
+00:13:15,580 --> 00:13:17,400
+outrage at that.
+
+189
+00:13:17,400 --> 00:13:18,880
+Careful what you wish for, Laura.
+
+190
+00:13:41,240 --> 00:13:43,240
+Thank you.
+

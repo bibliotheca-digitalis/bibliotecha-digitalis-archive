@@ -1,0 +1,1440 @@
+1
+00:00:00,000 --> 00:00:03,800
+While waiting on a plane during taxi till take-off, looking out the window,
+
+2
+00:00:03,800 --> 00:00:06,880
+you may have noticed the giant number numbering the runway,
+
+3
+00:00:06,880 --> 00:00:10,560
+say 8, which implies 7 others exist, at least,
+
+4
+00:00:10,560 --> 00:00:14,960
+but this is a flight out of LOL airport, in Nevada's desert of nothing.
+
+5
+00:00:14,960 --> 00:00:17,920
+There's only two runways, which, given the passenger load,
+
+6
+00:00:17,920 --> 00:00:20,400
+seems like maybe one too many already.
+
+7
+00:00:20,400 --> 00:00:23,280
+What's the deal with runway numbers, you might wonder aloud?
+
+8
+00:00:23,280 --> 00:00:25,840
+Oh, hello again! Flying to Nook as well, are you?
+
+9
+00:00:25,840 --> 00:00:31,040
+It is a long flight, so there's tons of time for me to tell you all about runways.
+
+10
+00:00:31,040 --> 00:00:31,920
+Let's begin.
+
+11
+00:00:31,920 --> 00:00:36,000
+So, before you can number a runway at an airport, you need to build the airport.
+
+12
+00:00:36,000 --> 00:00:39,280
+And before you can build the airport, you need to plan the port.
+
+13
+00:00:39,280 --> 00:00:42,960
+And what needs figuring first is which way to run the way.
+
+14
+00:00:42,960 --> 00:00:46,880
+Pilots want runways with winds in parallel for physics reasons that we are going to skip,
+
+15
+00:00:46,880 --> 00:00:49,680
+both because lift physics is something people really like to argue about,
+
+16
+00:00:49,680 --> 00:00:51,040
+and this isn't a physics video.
+
+17
+00:00:51,040 --> 00:00:53,360
+Yeah, I'm recording a runway video right now, hope you don't mind.
+
+18
+00:00:53,360 --> 00:00:56,640
+But the summary is, planes take off and land into the wind,
+
+19
+00:00:56,640 --> 00:00:58,800
+because it lets them use less runway,
+
+20
+00:00:58,800 --> 00:01:01,920
+and makes for safer and stabler landings in particular.
+
+21
+00:01:01,920 --> 00:01:04,960
+Now, planes can land with winds unaligned,
+
+22
+00:01:04,960 --> 00:01:08,160
+but it's unsettling to watch these crosswind attempts,
+
+23
+00:01:08,160 --> 00:01:10,960
+as pilots do their best to face into the wind,
+
+24
+00:01:10,960 --> 00:01:13,760
+while landing on a runway that does not.
+
+25
+00:01:14,480 --> 00:01:15,200
+Oof.
+
+26
+00:01:15,200 --> 00:01:18,160
+So, airports too want winds running with the runway,
+
+27
+00:01:18,160 --> 00:01:20,800
+but the universe is indifferent to human desires.
+
+28
+00:01:20,800 --> 00:01:22,160
+Wind winds as it wants,
+
+29
+00:01:22,160 --> 00:01:26,800
+so the simple solution in aviation early days was to build a triangle of runways,
+
+30
+00:01:26,800 --> 00:01:28,000
+put up a little wind sock,
+
+31
+00:01:28,000 --> 00:01:32,400
+and direct the pilot to the runway that paralleled the sock, and thus the wind.
+
+32
+00:01:32,400 --> 00:01:36,320
+But as aviation grew, so did airplanes, and thus their runways,
+
+33
+00:01:36,320 --> 00:01:40,320
+making the triangle trick impractical for big urban internationals.
+
+34
+00:01:40,320 --> 00:01:42,080
+But the simple sock still solved it.
+
+35
+00:01:42,080 --> 00:01:44,880
+See, if you record when and which way the wind sock blows,
+
+36
+00:01:44,880 --> 00:01:47,680
+and with what wind force, you've grown yourself a wind rose,
+
+37
+00:01:47,680 --> 00:01:50,640
+a clever little data viz tool with the sock in the center
+
+38
+00:01:50,640 --> 00:01:52,480
+of compass points for orientation,
+
+39
+00:01:52,480 --> 00:01:55,840
+and bars colored in size for strength and frequency of wind.
+
+40
+00:01:55,840 --> 00:01:59,840
+Though it reads opposite, actually, of everyone's expectations,
+
+41
+00:01:59,840 --> 00:02:04,320
+with the lines showing the way the wind blows from and not to.
+
+42
+00:02:04,320 --> 00:02:06,640
+Physics stuff just loves to opposite, actually.
+
+43
+00:02:06,640 --> 00:02:09,040
+Let's just agree to avoid physics for this video, shall we?
+
+44
+00:02:09,040 --> 00:02:12,480
+Wind roses reverse readings aside, they reveal that in most places,
+
+45
+00:02:12,480 --> 00:02:16,560
+most of the time, most of the wind mostly blows back and forth in one direction.
+
+46
+00:02:16,560 --> 00:02:18,640
+So that's surprisingly convenient.
+
+47
+00:02:18,640 --> 00:02:20,080
+Thanks, indifferent universe!
+
+48
+00:02:20,080 --> 00:02:21,520
+Oh, you did it for other reasons?
+
+49
+00:02:21,520 --> 00:02:25,360
+Well, still, this convenient wind happens because wind is a current of air,
+
+50
+00:02:25,360 --> 00:02:28,160
+transporting heat from where there's more to where there's less.
+
+51
+00:02:28,160 --> 00:02:31,440
+The Earth is blasted by the nuclear heat of the Sun,
+
+52
+00:02:31,440 --> 00:02:33,520
+with the equator getting hit hot hardest,
+
+53
+00:02:33,520 --> 00:02:37,200
+making hot air rise there as it cools out along the edge of space
+
+54
+00:02:37,200 --> 00:02:41,200
+before coming back down, creating a big-scale convection current
+
+55
+00:02:41,200 --> 00:02:43,600
+that repeats in a pattern all up and down.
+
+56
+00:02:43,600 --> 00:02:45,600
+And because the Earth is a sphere that spins,
+
+57
+00:02:45,600 --> 00:02:48,480
+those cylindric convection currents of air on the surface
+
+58
+00:02:48,480 --> 00:02:51,600
+twist clockwise north of the equator and counter below.
+
+59
+00:02:51,600 --> 00:02:55,440
+This is the Coriolis effect, creating coiled currents of air everywhere,
+
+60
+00:02:55,440 --> 00:02:59,120
+which is cool, but also physics trying to sneak back into the video,
+
+61
+00:02:59,120 --> 00:03:00,400
+and this isn't a physics video.
+
+62
+00:03:00,400 --> 00:03:04,000
+All that matters is this creates the pretty stable pattern of trade winds,
+
+63
+00:03:04,000 --> 00:03:06,560
+and if you're planning a port, you need only know
+
+64
+00:03:06,560 --> 00:03:09,120
+which way does the wind mostly blow.
+
+65
+00:03:09,120 --> 00:03:13,120
+Though, at some locations, the wind rose reveals two frequent directions of wind,
+
+66
+00:03:13,120 --> 00:03:16,720
+so if you want to constantly and safestly keep open the airport,
+
+67
+00:03:16,720 --> 00:03:19,120
+you're going to need to run a second way.
+
+68
+00:03:19,120 --> 00:03:22,800
+This is why many airports have an X or V layout like LOL.
+
+69
+00:03:22,800 --> 00:03:26,000
+They're not necessarily doing double the traffic of a one-runway port,
+
+70
+00:03:26,000 --> 00:03:28,320
+but rather have double the chance of crosswinds
+
+71
+00:03:28,320 --> 00:03:30,400
+when the tower will need to reroute pilots
+
+72
+00:03:30,400 --> 00:03:33,040
+toward the other alignment for safer landings.
+
+73
+00:03:33,040 --> 00:03:36,880
+And once you have two of something, you need names or numbers.
+
+74
+00:03:36,880 --> 00:03:39,520
+Sure, you could just go with run one and run two,
+
+75
+00:03:39,520 --> 00:03:43,040
+but pro tip, try never to use the very first thing that comes to mind
+
+76
+00:03:43,040 --> 00:03:44,960
+without giving it a bit of a ponder first,
+
+77
+00:03:44,960 --> 00:03:48,160
+and the wind rose reveals a better way with the compass points,
+
+78
+00:03:48,160 --> 00:03:51,040
+which form a circle of 360 degrees,
+
+79
+00:03:51,040 --> 00:03:55,040
+starting at zero north, east 90, south 180, west 270,
+
+80
+00:03:55,040 --> 00:03:57,280
+and back to north makes it 360 as well.
+
+81
+00:03:57,280 --> 00:03:59,680
+These compass degrees come from ships of the seas,
+
+82
+00:03:59,680 --> 00:04:03,600
+because captains and quartermasters, when in the vast featureless nothing,
+
+83
+00:04:03,600 --> 00:04:06,720
+could still count on their compass to point toward the north pole,
+
+84
+00:04:06,720 --> 00:04:08,640
+assuming no iron hooks happen nearby,
+
+85
+00:04:08,640 --> 00:04:11,120
+and with north as a fixed navigational point,
+
+86
+00:04:11,120 --> 00:04:13,840
+could then communicate their heading with names broadly,
+
+87
+00:04:13,840 --> 00:04:17,200
+east-southeast, or numbers precisely, helm to 108.
+
+88
+00:04:17,200 --> 00:04:17,920
+Quite handy!
+
+89
+00:04:17,920 --> 00:04:22,320
+So it's no surprise these compass headings got passed from sea ships to airships.
+
+90
+00:04:22,320 --> 00:04:25,200
+Thus, on the wind rose devised plans for any airport,
+
+91
+00:04:25,200 --> 00:04:30,160
+the runway is already aligned with navigational numbers begging to be used.
+
+92
+00:04:30,160 --> 00:04:34,160
+But before grabbing the obvious one, again, ponder for a moment.
+
+93
+00:04:34,160 --> 00:04:38,160
+The runway points from the perspective of the port toward the plane.
+
+94
+00:04:38,160 --> 00:04:40,640
+The rather more important heading to use
+
+95
+00:04:40,640 --> 00:04:43,440
+is from the plane's perspective approaching the port,
+
+96
+00:04:43,440 --> 00:04:46,880
+which on the plan is at the opposite end, actually,
+
+97
+00:04:46,880 --> 00:04:51,120
+because it's what number matches the compass in the cockpit that's critical.
+
+98
+00:04:51,120 --> 00:04:52,880
+Alright, this needs a couple of example airports.
+
+99
+00:04:52,880 --> 00:04:54,880
+Take one with a north-south runway.
+
+100
+00:04:54,880 --> 00:04:57,360
+When the wind blows from the north to the south,
+
+101
+00:04:57,360 --> 00:05:00,640
+the tower directs pilots to approach from the south,
+
+102
+00:05:00,640 --> 00:05:02,560
+meaning they need to point the plane north,
+
+103
+00:05:02,560 --> 00:05:05,920
+which on their compass is a heading of 360 degrees.
+
+104
+00:05:05,920 --> 00:05:08,560
+So let's put a big 360 on that end for now.
+
+105
+00:05:08,560 --> 00:05:12,400
+When the winds reverse, the tower directs pilots to approach from the north
+
+106
+00:05:12,400 --> 00:05:14,640
+to fly south, which reads 180.
+
+107
+00:05:14,640 --> 00:05:17,040
+So let's put a big 180 on that end as well.
+
+108
+00:05:17,040 --> 00:05:18,400
+Now that we've got our heading numbers,
+
+109
+00:05:18,400 --> 00:05:22,640
+the convention is to round them to 10 and cut off the zero for the runway number,
+
+110
+00:05:22,640 --> 00:05:25,120
+because we don't need three sig figs of precision
+
+111
+00:05:25,120 --> 00:05:28,240
+when airports have single digit numbers of runways,
+
+112
+00:05:28,240 --> 00:05:31,840
+and the very stressed air traffic controllers in the tower
+
+113
+00:05:31,840 --> 00:05:35,600
+need to repeat precisely these numbers hundreds of times a day.
+
+114
+00:05:35,600 --> 00:05:38,000
+So saving syllables here really matters.
+
+115
+00:05:38,000 --> 00:05:40,880
+Thus, when the tower tells the plane to use runway 36,
+
+116
+00:05:40,880 --> 00:05:45,120
+the pilot knows they need to get south of the airport to land facing north,
+
+117
+00:05:45,120 --> 00:05:48,560
+and while there are like a million indicators in a cockpit,
+
+118
+00:05:48,560 --> 00:05:51,040
+the pilot can always confirm they're doing it right
+
+119
+00:05:51,040 --> 00:05:54,560
+by reading 360 on their ancient ancestor's compass.
+
+120
+00:05:54,560 --> 00:05:57,040
+This low-tech check is useful as a fallback
+
+121
+00:05:57,040 --> 00:06:01,600
+because a compass can see the way even when eyes and other equipment cannot.
+
+122
+00:06:01,600 --> 00:06:02,960
+As a two-runway example,
+
+123
+00:06:02,960 --> 00:06:06,080
+an airport with a perfect ordinal X would get numbered thusly.
+
+124
+00:06:06,080 --> 00:06:09,040
+Northwest to southeast gives 315 for one end,
+
+125
+00:06:09,040 --> 00:06:10,800
+because that's the way the pilot needs to point,
+
+126
+00:06:10,800 --> 00:06:12,480
+and 135 at the other.
+
+127
+00:06:12,480 --> 00:06:14,800
+Round to 10 for 320 and 140,
+
+128
+00:06:14,800 --> 00:06:18,160
+then drop the zeros to get runways 32 and 14.
+
+129
+00:06:18,160 --> 00:06:20,560
+On the other side, 225 and 45,
+
+130
+00:06:20,560 --> 00:06:23,920
+round to 10 again, drop the zeros for 23 and 5.
+
+131
+00:06:23,920 --> 00:06:25,520
+Now, when the towers talk to the pilots,
+
+132
+00:06:25,520 --> 00:06:28,880
+they say each digit individually, so runway 23,
+
+133
+00:06:28,880 --> 00:06:30,720
+because clarity here is critical,
+
+134
+00:06:30,720 --> 00:06:36,080
+which is also why the font and exact size of these digits is standardized worldwide.
+
+135
+00:06:36,080 --> 00:06:39,760
+Though there are disagreements between the abundant aviation agencies
+
+136
+00:06:39,760 --> 00:06:44,160
+as to if single-digit runways like 6 should have a leading zero for clarity,
+
+137
+00:06:44,160 --> 00:06:46,800
+or if that leading zero should only be in our hearts.
+
+138
+00:06:46,800 --> 00:06:47,920
+Which it shouldn't be.
+
+139
+00:06:47,920 --> 00:06:51,520
+Anyway, that's the surprisingly good system behind numbering these numbers,
+
+140
+00:06:51,520 --> 00:06:53,440
+which is always a delight to discover,
+
+141
+00:06:53,440 --> 00:06:55,920
+unlike some other numbers I could mention.
+
+142
+00:06:55,920 --> 00:06:58,160
+Though there are a couple of wrinkles.
+
+143
+00:06:58,160 --> 00:06:59,040
+For, think about it,
+
+144
+00:06:59,040 --> 00:07:02,080
+if the wind mostly blows back and forth in most places,
+
+145
+00:07:02,080 --> 00:07:07,120
+then most big busy urban international airports will need multiple runways in parallel.
+
+146
+00:07:07,120 --> 00:07:09,840
+But parallel runways have the same heading,
+
+147
+00:07:09,840 --> 00:07:11,920
+thus the same number under this system,
+
+148
+00:07:11,920 --> 00:07:15,280
+which would be unclear for pilots to say the least.
+
+149
+00:07:15,280 --> 00:07:17,440
+So all the agencies assembled to agree.
+
+150
+00:07:17,440 --> 00:07:19,360
+If you have two parallel runways,
+
+151
+00:07:19,360 --> 00:07:20,720
+they will have the same number,
+
+152
+00:07:20,720 --> 00:07:23,760
+but add an L or an R for left and right.
+
+153
+00:07:23,760 --> 00:07:25,840
+If you need to construct a third runway,
+
+154
+00:07:25,840 --> 00:07:27,600
+add a C for center too.
+
+155
+00:07:27,600 --> 00:07:28,640
+But with four more,
+
+156
+00:07:28,640 --> 00:07:31,760
+two runways will get the correct heading number with L and R,
+
+157
+00:07:31,840 --> 00:07:33,200
+but the others,
+
+158
+00:07:33,200 --> 00:07:36,800
+they're going to get the next closest numbers,
+
+159
+00:07:36,800 --> 00:07:39,520
+but not exactly correct numbers.
+
+160
+00:07:39,520 --> 00:07:42,240
+Which is practical, I suppose.
+
+161
+00:07:42,240 --> 00:07:43,360
+But also,
+
+162
+00:07:43,360 --> 00:07:46,480
+ahh, it's all slightly misaligned.
+
+163
+00:07:46,480 --> 00:07:47,760
+It's big airports.
+
+164
+00:07:47,760 --> 00:07:49,680
+Like, it doesn't line up.
+
+165
+00:07:49,680 --> 00:07:51,360
+Like, just try not to think about it, okay?
+
+166
+00:07:51,360 --> 00:07:52,320
+Just try not to think about it.
+
+167
+00:07:52,960 --> 00:07:54,720
+Oh, we're landing at Nook already?
+
+168
+00:07:54,720 --> 00:07:57,280
+Wow, flights fly fast when you're flapping about flying.
+
+169
+00:07:57,280 --> 00:07:58,960
+Time to put this knowledge to use.
+
+170
+00:07:58,960 --> 00:08:01,200
+Our compass heading reads 42 degrees,
+
+171
+00:08:01,200 --> 00:08:02,960
+so round 210, 440,
+
+172
+00:08:02,960 --> 00:08:06,240
+cut the zero and we'll be landing on runway zero four.
+
+173
+00:08:06,240 --> 00:08:08,240
+And since there's only one runway at Nook,
+
+174
+00:08:08,240 --> 00:08:10,080
+it'll be perfectly aligned.
+
+175
+00:08:10,080 --> 00:08:11,520
+No doubt about that.
+
+176
+00:08:12,160 --> 00:08:14,960
+Oh, it's five, not four.
+
+177
+00:08:15,520 --> 00:08:17,040
+How embarrassing.
+
+178
+00:08:17,040 --> 00:08:18,960
+I guess I need to delete this video now.
+
+179
+00:08:19,760 --> 00:08:21,920
+Hey, why are you painting a new runway number?
+
+180
+00:08:21,920 --> 00:08:23,600
+You do that every few decades?
+
+181
+00:08:23,600 --> 00:08:24,400
+That must mean...
+
+182
+00:08:25,040 --> 00:08:27,040
+ohhh.
+
+183
+00:08:27,040 --> 00:08:30,080
+Runway numbers depend on where the north pole is,
+
+184
+00:08:30,080 --> 00:08:31,520
+and so watch out!
+
+185
+00:08:31,520 --> 00:08:35,120
+There's a geography video inside this video called
+
+186
+00:08:35,120 --> 00:08:37,200
+Where is the North Pole Really?
+
+187
+00:08:37,200 --> 00:08:38,400
+Okay, to find the north pole,
+
+188
+00:08:38,400 --> 00:08:40,560
+remember that the Earth is a sphere that spins.
+
+189
+00:08:40,560 --> 00:08:42,000
+Oh, sorry, we already went over that.
+
+190
+00:08:42,000 --> 00:08:44,320
+We draw a line about which this spin occurs
+
+191
+00:08:44,320 --> 00:08:46,640
+and name each end the north and south pole.
+
+192
+00:08:46,640 --> 00:08:47,600
+Starting with these poles,
+
+193
+00:08:47,600 --> 00:08:51,680
+we clever humans created a square-ish coordinate system for our spherical Earth,
+
+194
+00:08:51,680 --> 00:08:53,360
+the detailed creation of which I'm going to skip
+
+195
+00:08:53,360 --> 00:08:55,520
+because that's a physics story for a never time
+
+196
+00:08:55,520 --> 00:08:58,400
+that took hundreds of years and needed lots of clocks.
+
+197
+00:08:58,400 --> 00:09:00,400
+And to make it official that London rules and Paris drools.
+
+198
+00:09:00,400 --> 00:09:03,920
+But anyway, this grid is what every modern navigational system uses
+
+199
+00:09:03,920 --> 00:09:08,160
+to get around with the GPS, Global Positioning, coordinates it gives.
+
+200
+00:09:08,160 --> 00:09:11,760
+But if you were to use your GPS to direct you to the north pole
+
+201
+00:09:11,760 --> 00:09:15,120
+so that you could experience the planet rotating you in place,
+
+202
+00:09:15,120 --> 00:09:19,840
+as the stars circled overhead and you pondered the scale of the indifferent universe
+
+203
+00:09:19,840 --> 00:09:22,960
+and your tiny, tiny existence within it,
+
+204
+00:09:22,960 --> 00:09:27,360
+if you took out your compass to double check that the GPS got the spot right,
+
+205
+00:09:27,360 --> 00:09:31,760
+the compass points you over the horizon toward another north pole.
+
+206
+00:09:31,760 --> 00:09:33,040
+What gives compass?
+
+207
+00:09:33,040 --> 00:09:34,400
+Well, what did you expect?
+
+208
+00:09:34,400 --> 00:09:38,000
+A compass is a magnet and magnets follow magnetic fields.
+
+209
+00:09:38,000 --> 00:09:39,840
+That's like their only thing?
+
+210
+00:09:39,840 --> 00:09:41,200
+It's not a math magnet.
+
+211
+00:09:41,200 --> 00:09:45,120
+Your magnet compass will take you to the gigantic magnetic field
+
+212
+00:09:45,120 --> 00:09:47,120
+spewing forth from inside the Earth.
+
+213
+00:09:47,120 --> 00:09:50,800
+So there are two north poles, one for math and one for magnets.
+
+214
+00:09:50,800 --> 00:09:53,200
+I mean, I guess if you want to be technical about it,
+
+215
+00:09:53,200 --> 00:09:55,840
+there are three north poles because the magnetic field,
+
+216
+00:09:55,840 --> 00:10:00,880
+the north pole of a magnet points to is the south pole of the Earth's magnetic field
+
+217
+00:10:00,880 --> 00:10:02,240
+because opposites attract.
+
+218
+00:10:02,240 --> 00:10:05,120
+But look, we're just going to ignore that because this isn't a physics video
+
+219
+00:10:05,120 --> 00:10:08,000
+and there's been enough, oh, it's the opposite actually already.
+
+220
+00:10:08,000 --> 00:10:11,040
+And yes, I know you can define more norths, but we're moving on.
+
+221
+00:10:11,040 --> 00:10:12,720
+There are two norths, math and magnets.
+
+222
+00:10:12,720 --> 00:10:16,400
+The compass points to the magnetic north and the GPS points to the geographic north.
+
+223
+00:10:16,400 --> 00:10:18,000
+They don't have anything to do with each other,
+
+224
+00:10:18,000 --> 00:10:19,840
+but for navigation, humans have used both.
+
+225
+00:10:19,840 --> 00:10:23,280
+One isn't better than the other, though math slash geographic north
+
+226
+00:10:23,280 --> 00:10:24,960
+is now often called true north,
+
+227
+00:10:24,960 --> 00:10:28,160
+which feels a bit like humans picking the new one as their favorite one.
+
+228
+00:10:28,160 --> 00:10:31,760
+Oh, and ships of the seas have stopped using the old magnetic north
+
+229
+00:10:31,760 --> 00:10:35,120
+and now navigate with GPS using the true north, even modern pirates,
+
+230
+00:10:35,120 --> 00:10:38,320
+but planes and pilots still love the traditional magnet north.
+
+231
+00:10:38,320 --> 00:10:41,600
+And we can stop thinking about this because they're pretty close anyway.
+
+232
+00:10:41,600 --> 00:10:44,800
+Although, isn't that kind of weird,
+
+233
+00:10:44,800 --> 00:10:48,960
+just how close the unrelated poles are on a planetary scale?
+
+234
+00:10:48,960 --> 00:10:52,400
+Earth just so happens to have a giant magnet that's sort of,
+
+235
+00:10:52,400 --> 00:10:55,520
+but not quite lines up with the planet's top and bottom.
+
+236
+00:10:55,520 --> 00:10:58,720
+In different universes, are these things secretly related?
+
+237
+00:10:58,720 --> 00:11:00,960
+And still, why would runway numbers change
+
+238
+00:11:00,960 --> 00:11:04,320
+just because they're pointing at the magnet one, but not the math one?
+
+239
+00:11:04,320 --> 00:11:09,600
+Oh no, there really is an unavoidable physics video inside this geography video,
+
+240
+00:11:09,600 --> 00:11:10,480
+and it's called
+
+241
+00:11:10,480 --> 00:11:12,320
+Magnets. What's your deal?
+
+242
+00:11:12,320 --> 00:11:17,280
+Okay, we really can't cover everything about magnets because it's just so much,
+
+243
+00:11:17,280 --> 00:11:21,840
+but some bits of some metal, such as iron, generate around them a magnetic field.
+
+244
+00:11:21,840 --> 00:11:24,640
+Why and how were a mystery for a long time,
+
+245
+00:11:24,640 --> 00:11:26,400
+until we discovered that if you take a wire
+
+246
+00:11:26,400 --> 00:11:29,200
+and run a current of electrons through it, aka electricity,
+
+247
+00:11:29,200 --> 00:11:32,640
+this current also generates a magnetic field around the wire.
+
+248
+00:11:32,640 --> 00:11:35,680
+But weirder, if you start with a current of electrons
+
+249
+00:11:35,680 --> 00:11:38,800
+and pop them in a magnetic field, the current will curve.
+
+250
+00:11:38,800 --> 00:11:41,440
+And oh look, you've stumbled upon a clue
+
+251
+00:11:41,440 --> 00:11:44,000
+to one of the fundamental secrets of the universe.
+
+252
+00:11:44,000 --> 00:11:49,040
+Magnets and electricity are two expressions of the same thing, electromagnetism.
+
+253
+00:11:49,040 --> 00:11:51,520
+That's why in science class, you can coil up a wire,
+
+254
+00:11:51,520 --> 00:11:55,360
+send a current of electricity through it, and the whole thing becomes a magnet.
+
+255
+00:11:55,360 --> 00:11:58,560
+One you can make stronger and stronger with each additional coil,
+
+256
+00:11:58,560 --> 00:12:01,040
+cause curving currents are magnets.
+
+257
+00:12:01,040 --> 00:12:03,920
+Which is why when you cut the current, everything drops.
+
+258
+00:12:03,920 --> 00:12:06,400
+Our just iron magnets are doing the same thing,
+
+259
+00:12:06,400 --> 00:12:10,240
+but you need to zoom down and down and down and down
+
+260
+00:12:10,240 --> 00:12:12,080
+to the atomic level to see.
+
+261
+00:12:12,080 --> 00:12:14,880
+Here, an atom of iron has a cloud of electrons,
+
+262
+00:12:14,880 --> 00:12:18,880
+each electron with a charge, and as they whirl around,
+
+263
+00:12:18,880 --> 00:12:22,400
+they create a tiny current and a tiny magnetic field.
+
+264
+00:12:22,400 --> 00:12:25,120
+Zooming even closer, each electron spins,
+
+265
+00:12:25,120 --> 00:12:29,280
+and this spin acts like the universe's teeniest, tiniest current,
+
+266
+00:12:29,280 --> 00:12:32,240
+creating the teeniest, tiniest electromagnet.
+
+267
+00:12:32,240 --> 00:12:36,480
+Okay look, whirl around and spin don't mean what you think down here,
+
+268
+00:12:36,480 --> 00:12:40,720
+because in the land of quantum, words mean nothing.
+
+269
+00:12:40,720 --> 00:12:43,920
+There is only math that we're not gonna do.
+
+270
+00:12:43,920 --> 00:12:45,040
+So just go with it.
+
+271
+00:12:45,040 --> 00:12:48,720
+Anyway, in most atoms, all these current-created tiny magnetic fields
+
+272
+00:12:48,720 --> 00:12:52,640
+arrange themselves against themselves, so it all cancels out to nothing.
+
+273
+00:12:52,640 --> 00:12:54,960
+But in a rare few atoms like iron,
+
+274
+00:12:54,960 --> 00:12:58,400
+does there happen to be an imbalance that aligns and adds up?
+
+275
+00:12:58,400 --> 00:13:01,200
+And thus, each iron atom is a tiny magnet.
+
+276
+00:13:01,200 --> 00:13:05,040
+And if adjacent atoms align, their little magnetic fields add up.
+
+277
+00:13:05,040 --> 00:13:09,840
+And zooming out and out and out, if all the atoms in the iron are aligned,
+
+278
+00:13:09,840 --> 00:13:13,520
+then the iron acts as one big monkey-sized magnet.
+
+279
+00:13:13,520 --> 00:13:17,200
+But deep down inside, it's just electron-sized electromagnets.
+
+280
+00:13:17,200 --> 00:13:21,120
+And scaling up and up and up and up to the whole Earth's magnetic field,
+
+281
+00:13:21,120 --> 00:13:23,440
+it's an electromagnet all over again.
+
+282
+00:13:23,440 --> 00:13:25,120
+See, the Earth is made of parts.
+
+283
+00:13:25,120 --> 00:13:27,760
+The thin, perilous, cool crust on which we live,
+
+284
+00:13:27,760 --> 00:13:31,760
+the inner solid core that is several thousands of degrees hot,
+
+285
+00:13:31,760 --> 00:13:35,120
+a middle mantle, mostly solid and relatively cool,
+
+286
+00:13:35,120 --> 00:13:39,440
+and, critically, a ring of metal liquefied by the hot, hot core.
+
+287
+00:13:39,440 --> 00:13:43,280
+And just as on the surface do hotspots cause convection currents of air
+
+288
+00:13:43,280 --> 00:13:45,200
+to try to even the energy out,
+
+289
+00:13:45,200 --> 00:13:51,040
+so too does the unbelievably hot inner core cause convection currents of liquid metal,
+
+290
+00:13:51,040 --> 00:13:55,040
+metal that happens to be mostly iron, our magnetic friend.
+
+291
+00:13:55,040 --> 00:14:00,000
+Thus, as this mixture circles, so do all its electrons, curving currents,
+
+292
+00:14:00,000 --> 00:14:02,480
+which gets us magnetic fields, baby!
+
+293
+00:14:02,480 --> 00:14:06,320
+Though, as individual coils, it's not very strong to start.
+
+294
+00:14:06,320 --> 00:14:09,840
+To get a planet-sized field, you need to somehow stack the coils,
+
+295
+00:14:09,840 --> 00:14:13,120
+which is where the Coriolis effect comes back in.
+
+296
+00:14:13,120 --> 00:14:17,840
+For just as Earth's spin causes convection currents of air into coils,
+
+297
+00:14:17,840 --> 00:14:23,120
+so too does Earth's spin cause convection currents of liquid metal to coil,
+
+298
+00:14:23,120 --> 00:14:24,720
+making the fields stronger,
+
+299
+00:14:24,720 --> 00:14:28,640
+turning the whole of the Earth into a giant electromagnet.
+
+300
+00:14:28,640 --> 00:14:29,280
+Wow.
+
+301
+00:14:29,280 --> 00:14:32,000
+If there's one thing the indifferent universe loves,
+
+302
+00:14:32,000 --> 00:14:35,840
+it's repeating the same patterns across scales and domains.
+
+303
+00:14:35,840 --> 00:14:38,080
+Such austere efficiency.
+
+304
+00:14:38,080 --> 00:14:39,600
+It's beautiful.
+
+305
+00:14:39,600 --> 00:14:40,960
+Oh, get back to the runways.
+
+306
+00:14:40,960 --> 00:14:44,800
+Oh, unlike a real electromagnet made of stable metal,
+
+307
+00:14:44,800 --> 00:14:49,360
+all that swirling liquid iron inside Earth is not stable.
+
+308
+00:14:49,360 --> 00:14:54,320
+So at any moment, the field can split into multiple magnetic poles,
+
+309
+00:14:54,320 --> 00:14:58,000
+roam randomly, or diminish entirely before,
+
+310
+00:14:58,000 --> 00:15:01,680
+oh my, flipping north to south and south to north,
+
+311
+00:15:01,680 --> 00:15:05,120
+which it does every couple hundred thousand years or so.
+
+312
+00:15:05,120 --> 00:15:07,760
+And we have no way of predicting when.
+
+313
+00:15:07,760 --> 00:15:08,400
+Great.
+
+314
+00:15:08,400 --> 00:15:09,840
+That'll cause some trouble.
+
+315
+00:15:09,840 --> 00:15:11,680
+And there's a clue that it's coming,
+
+316
+00:15:11,680 --> 00:15:15,200
+because the strength of Earth's magnetic field has dropped 10%
+
+317
+00:15:15,200 --> 00:15:17,040
+over the last couple hundred years,
+
+318
+00:15:17,040 --> 00:15:18,800
+which is concerning.
+
+319
+00:15:18,800 --> 00:15:22,080
+So, uh, if you're watching this video after the flip,
+
+320
+00:15:22,080 --> 00:15:26,320
+one, take everything I said about magnetic north and magnetic south,
+
+321
+00:15:26,320 --> 00:15:29,120
+and now it's the opposite, actually.
+
+322
+00:15:29,120 --> 00:15:33,280
+And two, if it's been a couple hundred thousand years since my last upload,
+
+323
+00:15:33,280 --> 00:15:35,680
+don't worry, that's about normal.
+
+324
+00:15:35,680 --> 00:15:39,440
+So be sure to smash that subscribe button,
+
+325
+00:15:39,520 --> 00:15:41,520
+so you don't miss the next video.
+
+326
+00:15:41,520 --> 00:15:42,800
+Oh, and hit the bell.
+
+327
+00:15:42,800 --> 00:15:44,560
+God, I hate that you have to do that now.
+
+328
+00:15:44,560 --> 00:15:45,760
+Oh, right, time to wrap this up.
+
+329
+00:15:45,760 --> 00:15:48,080
+First, this giant electromagnet made of liquid metal
+
+330
+00:15:48,080 --> 00:15:51,040
+coriolis-convecting inside Earth only semi-stably means
+
+331
+00:15:51,040 --> 00:15:52,800
+Earth's magnetic field moves.
+
+332
+00:15:52,800 --> 00:15:56,800
+That finishes with the physics and means the magnet north pole moves,
+
+333
+00:15:56,800 --> 00:15:59,280
+and quite a lot on human timescales.
+
+334
+00:15:59,280 --> 00:16:01,840
+When we started measuring, it was safely inside of Canada,
+
+335
+00:16:01,840 --> 00:16:03,760
+but it's recently rocketed north.
+
+336
+00:16:03,760 --> 00:16:06,160
+Geography over, so we can finally get back to the start,
+
+337
+00:16:06,160 --> 00:16:09,520
+since runway numbers are derived from the heading on a compass,
+
+338
+00:16:09,520 --> 00:16:14,160
+when the magnet north moves, the runway numbers need to change to match.
+
+339
+00:16:14,160 --> 00:16:17,040
+And the closer your airport is to a magnet pole,
+
+340
+00:16:17,040 --> 00:16:19,360
+the bigger a difference its movement makes,
+
+341
+00:16:19,360 --> 00:16:22,560
+and thus the more frequently you need to update the number.
+
+342
+00:16:22,560 --> 00:16:24,720
+Which is why it's no surprise that Canada,
+
+343
+00:16:24,720 --> 00:16:26,720
+with more northern runways than anyone,
+
+344
+00:16:26,720 --> 00:16:31,520
+was the first to get pretty tired of frequently repainting all her northern runways,
+
+345
+00:16:31,600 --> 00:16:36,320
+and so changed her system to be based on the unmoving math north instead.
+
+346
+00:16:36,320 --> 00:16:38,880
+But this means when flying over her territories,
+
+347
+00:16:38,880 --> 00:16:43,040
+pilots can't count on their compass to match the runways and the winds.
+
+348
+00:16:43,040 --> 00:16:46,000
+They can use their GPS, assuming the battery is charged,
+
+349
+00:16:46,000 --> 00:16:51,440
+but these runway numbers are inconsistent with runways in the whole rest of the world.
+
+350
+00:16:51,440 --> 00:16:53,360
+Now, Canada thinks her system is better,
+
+351
+00:16:53,360 --> 00:16:58,080
+and has created an aviation agency to try to convince all her international friends,
+
+352
+00:16:58,080 --> 00:17:01,120
+with airports more equatorial and thus less of this problem,
+
+353
+00:17:01,120 --> 00:17:05,840
+to try and switch with her from the old and busted magnetic north to the new true north.
+
+354
+00:17:05,840 --> 00:17:08,000
+If pirates can do it, why not planes too?
+
+355
+00:17:08,000 --> 00:17:08,560
+Yarr!
+
+356
+00:17:08,560 --> 00:17:11,120
+Well, because it's mostly a problem for you.
+
+357
+00:17:11,120 --> 00:17:15,360
+And thus, there's not one system for numbering runways, but two.
+
+358
+00:17:31,520 --> 00:17:32,960
+Hey guys!
+
+359
+00:17:32,960 --> 00:17:37,040
+If you are going to switch to true north, best to get it done, like, before the poles flip?
+
+360
+00:17:37,040 --> 00:17:37,600
+Just sayin'!
+

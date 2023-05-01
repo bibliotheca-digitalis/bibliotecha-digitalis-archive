@@ -1,0 +1,170 @@
+[
+  {
+    "kind": "youtube#playlist",
+    "etag": "De-awpNjRbKxw5lhRJHAya2rqFk",
+    "id": "PLRGz5EMig3r0l69fOSQ1-hPF6G0AOtYzx",
+    "snippet": {
+      "publishedAt": "2019-12-11T21:57:42Z",
+      "channelId": "UClt01z1wHHT7c5lKcU8pxRQ",
+      "title": "And Here's Why",
+      "description": "Long-form analyses of various media",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mLJ1gyIzg78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "hbomberguy",
+      "localized": {
+        "title": "And Here's Why",
+        "description": "Long-form analyses of various media"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "m0FlmvLNwiCzicZW0pcFyXVfKRI",
+    "id": "PLRGz5EMig3r0Vmta68hwf7PMj9tKdi-jA",
+    "snippet": {
+      "publishedAt": "2019-12-03T03:09:20Z",
+      "channelId": "UClt01z1wHHT7c5lKcU8pxRQ",
+      "title": "SERIOUS LORE ANALYSIS",
+      "description": "Hareton Splimby tries and fails to escape the nightmare of human existence, and the long infinite dark of the soul will not let him. Featuring Sonic!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Oco4WYRdaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "hbomberguy",
+      "localized": {
+        "title": "SERIOUS LORE ANALYSIS",
+        "description": "Hareton Splimby tries and fails to escape the nightmare of human existence, and the long infinite dark of the soul will not let him. Featuring Sonic!"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Ra1vULcxFl0GJpPCGcDz6c3BlNA",
+    "id": "PLRGz5EMig3r1jydQFyXTfBdD1xKhPa4Rt",
+    "snippet": {
+      "publishedAt": "2016-02-03T18:15:14Z",
+      "channelId": "UClt01z1wHHT7c5lKcU8pxRQ",
+      "title": "Measured Response Videos",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vYQo6LI3Y7c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "hbomberguy",
+      "localized": {
+        "title": "Measured Response Videos",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "ZGLrHyonzyxiITTA6NjKrZSZkDs",
+    "id": "FLlt01z1wHHT7c5lKcU8pxRQ",
+    "snippet": {
+      "publishedAt": "2007-05-23T15:18:15Z",
+      "channelId": "UClt01z1wHHT7c5lKcU8pxRQ",
+      "title": "Favorites",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/50zhztSIYTU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/50zhztSIYTU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/50zhztSIYTU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/50zhztSIYTU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "hbomberguy",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Favorites",
+        "description": ""
+      }
+    }
+  }
+]

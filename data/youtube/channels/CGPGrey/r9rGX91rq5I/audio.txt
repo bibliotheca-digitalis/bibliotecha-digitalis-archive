@@ -1,0 +1,80 @@
+Hello internet.
+The UK had an election we need to talk about because after the debates finished, the people
+voted and the ballots tallied, the results were this.
+But parliament ended up looking like this, which isn't exactly representative and by
+exactly I mean at all.
+Red earned 30% of the vote and 36% of the seats which is sort of close but the rest
+is madness.
+Orange earned 8% of the vote but got one eighth of that while yellow's 5% just about doubled
+and purple earned 13% and got squat.
+Meanwhile blue's 37% of the people boosted to 51% of the seats in parliament.
+The blue boost is even bigger when you consider that 51% of the seats gives you basically
+100% of the control.
+How'd this happen?
+In the UK, national elections aren't really national.
+They're a bunch of local elections.
+The UK is divided into constituencies, each of which elects one member of parliament,
+MP, to represent them.
+This local-national divide is where the trouble begins.
+Imagine a parliament with just three constituencies and it's easy to see how it wouldn't always
+align with the citizens.
+Some people think this sort of result is fine.
+It's all about winning local elections, they'll say.
+Each MP represents their constituency.
+And while the imbalance in this example is extreme, it's the same problem in the real
+election and the same argument is given but there are two more problems with it in reality
+land.
+First, few citizens have any idea who their MP is.
+They just know what party they voted for, what party they want to represent their views
+on the national level and pretending like it's a competition on the local level is a
+bit disingenuous.
+In practice, it's an election for how the nation will run, not really for who's going
+to represent a tiny part of it.
+And even if it were, the individual constituencies are worse at representing their citizens than
+parliament.
+Indulge this spreadsheet-loving nerd for a moment, will you?
+The difference between what a party earned at the polls and what they got in parliament
+is the amount of misrepresentation error.
+If we calculate all the errors for all the parties and add them up, we can say that parliament
+as a whole has a 47 percentage points of misrepresentation error.
+That sounds bad but looks like a utopian rainbow of diversity compared to any local election
+because the local elections have one winner.
+Out of the 650 constituencies, 647 have a higher representation error than parliament.
+These are the only three that don't and they're really unusual for having so many of a single
+kind of voter in one place.
+Most places look like The Reckon, which is dead in the middle, a mere 101 points off.
+Note that the winning candidate here didn't reach a majority, which means more than half
+of constituencies elected their MP with a minority of voters.
+The worst is Belfast South at the bottom of the list, hilariously unrepresentative.
+Less than a quarter of the voters get to speak for the entire place in parliament.
+This is the lowest percentage an MP has ever been elected by.
+So when people argue that the UK election is a bunch of local elections, it's even more
+of an argument that the elections are broken because they're worse on this level.
+These elections are terrible because of the first-past-the-post voting system, which I
+have complained mightily about and won't repeat everything here, go watch the video.
+But TLDR, it only works when citizens are limited to two choices.
+Voting for any party except the biggest makes it more likely the biggest will win by a minority,
+which is exactly what happened.
+That citizens keep voting for smaller parties despite knowing the result is against their
+strategic interests demonstrates that citizenry wants diverse representation.
+But that success is the very thing that has made this the most unrepresentative parliament
+in the history of the UK.
+Now people happy with the result argue that the system is working fine.
+Of course they do.
+Their team won.
+But government isn't a sport where a singular winner must be determined.
+It's a system to make rules that everyone follows, and so we need a system where everyone
+can agree that the process is fair, even if they don't like all the rules.
+If you support a system that disenfranchises people you don't like and turbo-franchises
+people you do, then it doesn't look like you support representative democracy.
+It looks like you support a kind of dictatorship light, where a potentially small group of
+people, including you, gets to make the rules for everyone else.
+And as it is now, on election day, the more people express what they want, the worse the
+system looks, which also makes them disengaged at best or angry at worst, and gee I can't
+imagine why.
+This is fixable.
+There are many, many better ways the UK could vote.
+Here are two that even keep local representatives.
+And fixing voting really matters, because this is a kind of government illegitimacy
+score and it's been going up and may continue to do so unless this fundamentally broken
+voting system is changed.

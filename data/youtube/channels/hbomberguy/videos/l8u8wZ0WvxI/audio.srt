@@ -1,0 +1,2752 @@
+1
+00:00:00,000 --> 00:00:22,560
+This is Cthulhu. It's a film that came out in 2008. Not many people appear to have seen
+
+2
+00:00:22,560 --> 00:00:24,880
+it.
+
+3
+00:00:24,880 --> 00:00:29,560
+As a teenager, I was obsessed with the works of Howard Phillips Lovecraft. Lovecraft was
+
+4
+00:00:29,560 --> 00:00:35,120
+a pioneer in Pulp Horror Fiction, immediately gripping with his cavalcade of creative monsters,
+
+5
+00:00:35,120 --> 00:00:41,020
+epic scope, terrible fates, and a unique philosophy about the terror of the existence of gods
+
+6
+00:00:41,020 --> 00:00:45,400
+greater than the human consciousness could allow. The man's work was inspirational
+
+7
+00:00:45,400 --> 00:00:50,920
+and moving to me. It made me think, made me dream, made me want to be a writer. Also,
+
+8
+00:00:50,920 --> 00:00:57,160
+seeing cool new words like Theosophists, or Non-Euclidean, or sentences like The Blood
+
+9
+00:00:57,160 --> 00:01:04,760
+Roots grew insolent in their chromatic perversion made me feel smart. I liked thinking I was
+
+10
+00:01:04,760 --> 00:01:05,760
+smart.
+
+11
+00:01:05,760 --> 00:01:08,640
+I was a big fan of the role-playing game, too. I just really liked the way that it dealt
+
+12
+00:01:08,640 --> 00:01:12,880
+with the mythos and how you interact with it, and the way it modeled sanity was really
+
+13
+00:01:12,880 --> 00:01:19,200
+good, too. And, hang on, can we, can someone find out who did this and why? I've been confused
+
+14
+00:01:19,200 --> 00:01:20,840
+by this for like a decade now.
+
+15
+00:01:20,840 --> 00:01:26,520
+As my interest grew and I ran out of stories by, inspired by, or about Lovecraft to read,
+
+16
+00:01:26,520 --> 00:01:31,320
+I started playing or watching any game or film even remotely based on his work. I'd
+
+17
+00:01:31,320 --> 00:01:35,880
+seen Re-Animator and its sequels, and From Beyond, and I was even about to watch Hellraiser
+
+18
+00:01:35,880 --> 00:01:39,600
+when I found an interview with Clive Barker where he said he didn't like Lovecraft's
+
+19
+00:01:39,600 --> 00:01:44,160
+writing very much and decided not to watch the film out of some misguided sense of spite.
+
+20
+00:01:44,160 --> 00:01:49,160
+That was how I did things back then, apparently.
+
+21
+00:01:49,160 --> 00:01:52,840
+I'd heard that Guillermo del Toro was going to adapt At the Mountains of Madness, one
+
+22
+00:01:52,840 --> 00:01:56,560
+of the best of Lovecraft's stories, and I couldn't wait for that. It turned out
+
+23
+00:01:56,560 --> 00:01:59,920
+I shouldn't have waited because it didn't happen. It was in development hell for a very
+
+24
+00:01:59,920 --> 00:02:01,560
+long time, and then it was never greenlit.
+
+25
+00:02:01,560 --> 00:02:06,440
+Then, as I was scraping the bottom of the barrel and watching fan films on YouTube,
+
+26
+00:02:06,440 --> 00:02:11,880
+I eventually found out about Cthulhu. It was named after Lovecraft's most famous creation,
+
+27
+00:02:11,880 --> 00:02:15,680
+and it had been made so recently that it might have been able to take advantage of the kinds
+
+28
+00:02:15,680 --> 00:02:20,960
+of effects and production techniques possible in modern filmmaking that something of truly
+
+29
+00:02:20,960 --> 00:02:27,520
+epic scale might actually have been possible. Cthulhu is not that film. Cthulhu isn't in
+
+30
+00:02:27,520 --> 00:02:31,800
+the film. It isn't even based on the short story The Call of Cthulhu. It's actually
+
+31
+00:02:31,800 --> 00:02:37,000
+a loose, very loose, interpretation of The Shadow Over Innsmouth. In that story, the
+
+32
+00:02:37,000 --> 00:02:41,320
+narrator investigates a New England fishing town where the people are strange and unwelcoming
+
+33
+00:02:41,320 --> 00:02:45,840
+to outsiders. He eventually discovers that the people of the town worship a godlike fish
+
+34
+00:02:45,840 --> 00:02:51,320
+creature named Dagon and its monstrous children, and have begun breeding with those creatures,
+
+35
+00:02:51,320 --> 00:02:55,580
+and their descendants eventually transform into monsters themselves to take to the water
+
+36
+00:02:55,580 --> 00:03:00,800
+and live forever beneath the sea with Dagon. After barely escaping with his life, the narrator
+
+37
+00:03:00,800 --> 00:03:06,280
+realizes that his family tree comes from Innsmouth, and he is slowly becoming one of them, too,
+
+38
+00:03:06,280 --> 00:03:11,680
+and he's starting to like it and relish the chance to worship Dagon for all time. It's
+
+39
+00:03:11,680 --> 00:03:16,280
+a really good story, and it's an excellent example of early 20th century American horror,
+
+40
+00:03:16,280 --> 00:03:20,800
+with the narrator's final change serving as a genuinely uncomfortable and fascinating
+
+41
+00:03:20,800 --> 00:03:26,960
+twist. It's really a true classic. This film is about a gay college professor called Russell,
+
+42
+00:03:26,960 --> 00:03:30,800
+who learns that his mother has passed away and returns to his hometown for her funeral.
+
+43
+00:03:30,800 --> 00:03:35,440
+Russell's father is the leader of a strange religious cult, and also deeply homophobic,
+
+44
+00:03:35,440 --> 00:03:39,760
+along with many of the rest of the townspeople. Russell realizes the cult has designs on him
+
+45
+00:03:39,760 --> 00:03:44,120
+of some kind, and something strange is going on. He reconnects with an old lover from his
+
+46
+00:03:44,120 --> 00:03:49,000
+past and tries to learn the truth as the people become increasingly hostile towards his search.
+
+47
+00:03:49,000 --> 00:03:54,440
+In lieu of looking at the tangible specifics of the horror, the beliefs of the cult, or
+
+48
+00:03:54,440 --> 00:03:59,400
+portraying the monsters from the original story, the film focuses on Russell's own
+
+49
+00:03:59,400 --> 00:04:05,000
+emotional state, his experiences and dreams, and relation to the people he encounters as
+
+50
+00:04:05,000 --> 00:04:09,760
+he tries to understand what is happening. When monsters do briefly appear, there's
+
+51
+00:04:09,760 --> 00:04:14,960
+not really much to see. The story isn't really concerned with them.
+
+52
+00:04:14,960 --> 00:04:20,160
+When I first saw this film, I decided that I hated it more than any other film. It had
+
+53
+00:04:20,160 --> 00:04:25,280
+taken something I cared about and enjoyed, and removed the things I thought made it interesting
+
+54
+00:04:25,280 --> 00:04:30,160
+and valuable. It made an existential horror about god-like creatures that care not for
+
+55
+00:04:30,160 --> 00:04:35,120
+human affairs into a story where the god in question never turns up or does anything
+
+56
+00:04:35,120 --> 00:04:41,360
+or is even really talked about in it. And even the name's technically the wrong name
+
+57
+00:04:41,360 --> 00:04:46,800
+of the god. Oh, and if you put the disc in a PC, the label doesn't even spell Cthulhu
+
+58
+00:04:46,800 --> 00:04:53,960
+properly! It's such an easy word to spell! The whole film felt like a betrayal. The camera
+
+59
+00:04:53,960 --> 00:04:59,760
+sometimes sits very still, trapping you with Russell in situations neither of you want
+
+60
+00:04:59,760 --> 00:05:03,960
+to be in, for conversations he doesn't want to be having with people he doesn't want to
+
+61
+00:05:03,960 --> 00:05:04,960
+see.
+
+62
+00:05:04,960 --> 00:05:07,960
+So, um, how's the, uh, how's the church?
+
+63
+00:05:07,960 --> 00:05:10,960
+How's the gay life treating you, Russell?
+
+64
+00:05:10,960 --> 00:05:16,560
+It's my life.
+
+65
+00:05:16,560 --> 00:05:17,560
+Is it satisfying?
+
+66
+00:05:17,560 --> 00:05:18,560
+Are you fulfilled?
+
+67
+00:05:18,560 --> 00:05:21,960
+What do you want to know? You want to know what we do?
+
+68
+00:05:21,960 --> 00:05:23,960
+Danny, please, just stay, stay out of this.
+
+69
+00:05:24,160 --> 00:05:30,960
+I didn't want any of this. I wanted something big, something epic, something focusing on
+
+70
+00:05:30,960 --> 00:05:35,560
+the horror of the big monsters, the sheer scope of the cosmos beyond our reach and the
+
+71
+00:05:35,560 --> 00:05:40,200
+nihilistic implications of being unimportant in the face of seemingly all-powerful things
+
+72
+00:05:40,200 --> 00:05:44,680
+that can decide our fate on a whim. For so much of it, it was such an uncomfortable and
+
+73
+00:05:44,680 --> 00:05:50,520
+personal and low-key horror. A human horror I wasn't really prepared for and was sure
+
+74
+00:05:50,520 --> 00:05:51,520
+I didn't want.
+
+75
+00:05:54,760 --> 00:06:01,680
+But as I got older and lived a decade of new experiences, to put it simply, I grew up.
+
+76
+00:06:01,680 --> 00:06:05,480
+I just sort of realized one day that I was capable of being romantically attracted to
+
+77
+00:06:05,480 --> 00:06:10,680
+men as well as women. I realized I was different from how I'd even thought of myself. I'd
+
+78
+00:06:10,680 --> 00:06:15,680
+just sort of naturally seen myself as straight, and even if I didn't think I thought of it
+
+79
+00:06:15,680 --> 00:06:21,640
+this way, on some primal level, I'd thought of being straight as being normal. I didn't
+
+80
+00:06:21,640 --> 00:06:25,400
+know why I thought like that. It's probably a mix of not really thinking too hard about
+
+81
+00:06:25,400 --> 00:06:30,160
+these things at the time combined with the vague notions and expectations our society
+
+82
+00:06:30,160 --> 00:06:34,440
+tends to have towards people's sexuality. But one day I looked in the mirror and saw
+
+83
+00:06:34,440 --> 00:06:42,600
+myself as not who I thought I was. I saw myself as an outsider from me, from the identity
+
+84
+00:06:42,600 --> 00:06:47,920
+I'd assumed for myself. And then I had a few difficult conversations with troublesome
+
+85
+00:06:47,920 --> 00:06:52,620
+people about those feelings. I'd always experienced termophobia. I was an effeminate
+
+86
+00:06:52,620 --> 00:06:57,200
+boy growing up, but I hadn't really cared because at the time I'd not really accepted
+
+87
+00:06:57,200 --> 00:07:01,680
+it as an insult or seen anything wrong with being called gay by losers in high school
+
+88
+00:07:01,680 --> 00:07:06,260
+who had just as much growing up to do as I did. But when I actually was one of those
+
+89
+00:07:06,260 --> 00:07:11,800
+people and knew it, all of a sudden it was a real judgment of who I actually was. To
+
+90
+00:07:11,800 --> 00:07:17,620
+them I'd actually become lesser. Being told I was going to die of AIDS and that my feelings
+
+91
+00:07:17,620 --> 00:07:23,980
+were unnatural and so on, and having to deal with being actually expected to try to convince
+
+92
+00:07:23,980 --> 00:07:29,140
+people that I wasn't inferior to them, suddenly made me think about that Cthulhu film I'd
+
+93
+00:07:29,140 --> 00:07:35,900
+seen a few years before. It was like it knew what I was going through. It knew how it felt
+
+94
+00:07:35,900 --> 00:07:41,940
+to sit in a room you just can't leave and have a piece of your personhood interrogated.
+
+95
+00:07:41,940 --> 00:07:48,060
+It knew how it felt to be seen as an outsider, and it knew how it felt to connect with someone
+
+96
+00:07:48,060 --> 00:07:53,700
+who understands and accepts you. Somehow it knew me and how I'd felt before I'd ever
+
+97
+00:07:53,700 --> 00:07:58,940
+had a chance to. Some of the scenes from this film just kept coming back up in my mind.
+
+98
+00:07:58,940 --> 00:08:04,460
+It hadn't been what I'd thought I'd wanted, but what it was struck a chord with me anyway
+
+99
+00:08:04,460 --> 00:08:09,740
+on a level I didn't know was there. It just took a while for me to hear the chiming.
+
+100
+00:08:09,740 --> 00:08:14,700
+It turns out that some of the greatest horrors, biggest sources of sadness in our lives, don't
+
+101
+00:08:14,700 --> 00:08:19,580
+come from scope or big questions, but from the tiniest things. If you've ever lost
+
+102
+00:08:19,580 --> 00:08:23,300
+a loved one and had to be involved with the arrangements of their funeral, or if you've
+
+103
+00:08:23,300 --> 00:08:26,820
+ever had to be around someone you'd made an effort to cut out of your life because
+
+104
+00:08:26,820 --> 00:08:31,380
+of something abusive they'd done to you, or even something as simple as being reminded,
+
+105
+00:08:31,380 --> 00:08:35,380
+gently, that you're in a place where everyone regards you with suspicion, that you're
+
+106
+00:08:35,380 --> 00:08:40,020
+an outsider to them, you'll already know that the idea of a powerful cosmic monster
+
+107
+00:08:40,020 --> 00:08:44,860
+out there somewhere beneath the sea can actually be the least of a person's problems.
+
+108
+00:08:44,860 --> 00:08:49,700
+The film was, in retrospect, a meaningful and valuable work that paid respect to the
+
+109
+00:08:49,700 --> 00:08:55,240
+source material's themes and emotions in ways I hadn't grasped as a cynical kid who
+
+110
+00:08:55,240 --> 00:09:00,860
+thought he knew he was straight and thought he knew what made Lovecraft good, and I just
+
+111
+00:09:00,860 --> 00:09:04,340
+wasn't ready to appreciate the value of that kind of story at the time.
+
+112
+00:09:04,500 --> 00:09:09,140
+Here's a review from back in 2009 on the film's Amazon page by someone called Giles.
+
+113
+00:09:09,140 --> 00:09:10,500
+Giles writes...
+
+114
+00:09:10,500 --> 00:09:16,020
+I can't stress how bad this film is on every level. As for H.P. Lovecraft, he must be spinning
+
+115
+00:09:16,020 --> 00:09:21,100
+in his grave, because this is definitely the worst film adaptation yet. It is vaguely based
+
+116
+00:09:21,100 --> 00:09:26,100
+on Shadow over Innsmouth, but the story, what there is of it, is so badly constructed that
+
+117
+00:09:26,100 --> 00:09:28,660
+you could easily miss the very few similarities.
+
+118
+00:09:28,660 --> 00:09:31,540
+And why all the gay subplot? What was that all about?
+
+119
+00:09:31,540 --> 00:09:35,540
+Now, here's the thing about Giles from 2009.
+
+120
+00:09:35,540 --> 00:09:38,820
+I was Giles in 2009.
+
+121
+00:09:38,820 --> 00:09:43,540
+No, I'm fairly certain I didn't write this exact Amazon review, but I felt the same way
+
+122
+00:09:43,540 --> 00:09:48,340
+as this person at around the same time. It didn't make sense to the teenage me whose
+
+123
+00:09:48,340 --> 00:09:52,260
+main frame of reference on the world was the horror stories he'd read, but then I grew
+
+124
+00:09:52,260 --> 00:09:55,780
+up and it started making a lot more sense without me even having to go back and see
+
+125
+00:09:55,780 --> 00:09:56,820
+the film again.
+
+126
+00:09:56,820 --> 00:10:01,140
+This film and its delayed effect on me got me thinking about what works about Lovecraft's
+
+127
+00:10:01,220 --> 00:10:05,540
+stories, what doesn't, and what the best way might be to navigate these qualities in
+
+128
+00:10:05,540 --> 00:10:07,700
+creating an adaptation.
+
+129
+00:10:07,700 --> 00:10:13,620
+And along the way, with a lot of encouragement, and if it's not too awkward, we'll maybe
+
+130
+00:10:13,620 --> 00:10:19,780
+talk about the fact that a writer who basically founded a subgenre of fiction has been hugely
+
+131
+00:10:19,780 --> 00:10:26,020
+influential and made so many people want to become writers, including myself, was really
+
+132
+00:10:26,020 --> 00:10:28,020
+massively racist.
+
+133
+00:10:28,020 --> 00:10:34,740
+INTRO
+
+134
+00:10:34,740 --> 00:10:37,780
+Anyway, let's start at the beginning, shall we?
+
+135
+00:10:37,780 --> 00:10:41,620
+Why do humans create and tell each other stories?
+
+136
+00:10:41,620 --> 00:10:45,540
+Yeah, I'm sure we can settle that real quick, we've only been asking that question for
+
+137
+00:10:45,540 --> 00:10:47,060
+a millennia.
+
+138
+00:10:47,060 --> 00:10:55,940
+I can solve that, I've got a plaque for surpassing over 100,000 YouTube subscribers.
+
+139
+00:10:55,940 --> 00:11:00,500
+Firstly, we should acknowledge that fiction isn't simply the opposite of truth, it is,
+
+140
+00:11:00,500 --> 00:11:03,460
+in some sense, a reflection of truth.
+
+141
+00:11:03,460 --> 00:11:04,740
+Let's look at horror stories.
+
+142
+00:11:04,740 --> 00:11:10,100
+When a ghost story speaks of a place being haunted by the past, it speaks to us about
+
+143
+00:11:10,100 --> 00:11:15,300
+the ways that really does happen, the ways the world controls and decides things for
+
+144
+00:11:15,300 --> 00:11:20,020
+us, and how the legacy, the result of other people's decisions, are still here with
+
+145
+00:11:20,020 --> 00:11:22,660
+us even after the people who made them are gone.
+
+146
+00:11:22,660 --> 00:11:26,500
+The ghosts of the past really do haunt the present they built.
+
+147
+00:11:26,500 --> 00:11:32,180
+Vampires, similarly, tend to be impactful because they reflect some true aspect of the
+
+148
+00:11:32,180 --> 00:11:34,260
+society that was writing about them at the time.
+
+149
+00:11:34,260 --> 00:11:36,500
+There's a reason Dracula was a count.
+
+150
+00:11:36,500 --> 00:11:42,180
+Vampires are aristocratic, upper-class beings that live by parasitically consuming the essence
+
+151
+00:11:42,180 --> 00:11:46,580
+of the poor workers and exploiting people using their influence, either their literal
+
+152
+00:11:46,580 --> 00:11:49,940
+riches or their other, less tangible powers.
+
+153
+00:11:49,940 --> 00:11:54,500
+And in doing this, they literalize a very real but much more vague social antagonism.
+
+154
+00:11:54,500 --> 00:11:59,140
+The aristocracies, monarchies, and other rich and powerful figures over history rarely actually
+
+155
+00:11:59,140 --> 00:12:02,820
+drink people's blood for sustenance, although the way the current economy is going, who
+
+156
+00:12:02,820 --> 00:12:06,180
+knows, but the rich really are vampires, in a sense.
+
+157
+00:12:06,180 --> 00:12:10,420
+They really do profit and thrive from the work and sacrifice of those beneath them.
+
+158
+00:12:10,420 --> 00:12:14,180
+It's not unimaginable that consciousness of this kind of antagonism makes its way
+
+159
+00:12:14,180 --> 00:12:19,380
+into folklore as creatures that are only slightly more exaggerated forms of the actual power
+
+160
+00:12:19,380 --> 00:12:22,660
+relationships between rich and poor people, or boss and worker.
+
+161
+00:12:22,660 --> 00:12:24,180
+Bram Stoker?
+
+162
+00:12:24,180 --> 00:12:26,980
+More like Gram-shee Stoker?
+
+163
+00:12:28,660 --> 00:12:31,300
+Uh, doesn't really work, does it?
+
+164
+00:12:32,340 --> 00:12:35,860
+Is there a better Marxist thinker who would work here as a pun?
+
+165
+00:12:35,860 --> 00:12:38,580
+Let me know in the comments so I can feel like an idiot for missing it.
+
+166
+00:12:38,580 --> 00:12:42,260
+When you're reading Dracula, you're not just reading a creative horror about a scary
+
+167
+00:12:42,260 --> 00:12:47,060
+monster, you're reading a story that most people, on some level, understand.
+
+168
+00:12:47,060 --> 00:12:51,860
+It's relevant to the world people live in, where a non-magical version of Dracula's
+
+169
+00:12:51,860 --> 00:12:56,580
+immense influence and theft of livelihood from ordinary people really does happen.
+
+170
+00:12:56,580 --> 00:13:02,420
+Notably, even Karl Marx repeatedly used vampirism as a way of describing the nature of capitalism
+
+171
+00:13:02,420 --> 00:13:03,700
+in Das Kapital.
+
+172
+00:13:03,700 --> 00:13:08,580
+Look, my point here isn't that vampire stories are all secretly about how capitalism is bad
+
+173
+00:13:08,580 --> 00:13:13,060
+or something, that would be ridiculous, and so many of them were written before the actual
+
+174
+00:13:13,060 --> 00:13:15,860
+proper invention of capitalism as we know it today.
+
+175
+00:13:15,860 --> 00:13:22,100
+My point is that it was a way of talking about issues that functioned so well that
+
+176
+00:13:22,100 --> 00:13:26,980
+when the time came to actually talk about things like capitalism, the guy who started
+
+177
+00:13:26,980 --> 00:13:34,260
+talking about it used vampires as a way of talking about it, which usually means that
+
+178
+00:13:34,260 --> 00:13:38,660
+the stories were onto something that was kind of, like, real, something that was there.
+
+179
+00:13:38,660 --> 00:13:43,300
+It's also notable that Fifty Shades of Grey, originally a fanfiction based on Twilight,
+
+180
+00:13:43,300 --> 00:13:44,820
+kinda does this too.
+
+181
+00:13:44,820 --> 00:13:49,380
+It takes out all the major supernatural aspects of Twilight and, of course, the simplest way
+
+182
+00:13:49,380 --> 00:13:54,180
+of bringing the dynamics between a magical, immortal vampire and a young, innocent teenage
+
+183
+00:13:54,180 --> 00:13:58,980
+girl into the real world is to reimagine the vampire as a billionaire with immense influence
+
+184
+00:13:58,980 --> 00:14:01,300
+and a very particular sexual taste.
+
+185
+00:14:01,300 --> 00:14:04,340
+Look, the richer vampires, basically, I think have made this point.
+
+186
+00:14:04,340 --> 00:14:06,740
+The Slasher film also embodies this as well.
+
+187
+00:14:06,740 --> 00:14:11,300
+The killer in Slasher stories is an urban, modern creature which expresses modern, urban
+
+188
+00:14:12,020 --> 00:14:15,860
+The fear of what's happening in the neighborhood behind everyone's closed doors where they
+
+189
+00:14:15,860 --> 00:14:17,380
+could be getting up to just about anything.
+
+190
+00:14:17,380 --> 00:14:20,580
+The fear of the effects of modern living on people growing up in it.
+
+191
+00:14:20,580 --> 00:14:24,260
+Fellow YouTuber Nick's Fears did a really cool video going into the deeper aspects of
+
+192
+00:14:24,260 --> 00:14:27,060
+this in Halloween, which you can check out linked in the description.
+
+193
+00:14:27,060 --> 00:14:30,500
+It's good and long and fun and please go watch it.
+
+194
+00:14:30,500 --> 00:14:37,300
+The Slasher films are silly, gross, gory, and often just kind of bad, but they got popular
+
+195
+00:14:37,300 --> 00:14:40,820
+because they're dealing with something that's real and actually happening.
+
+196
+00:14:41,460 --> 00:14:54,420
+Okay, that's not actually happening in real life, but that's from like part eight of a
+
+197
+00:14:54,420 --> 00:15:00,740
+franchise and you don't get seven sequels without at least originally having some resonating
+
+198
+00:15:00,740 --> 00:15:01,300
+cultural.
+
+199
+00:15:02,900 --> 00:15:04,420
+He punches his head into a bin.
+
+200
+00:15:04,980 --> 00:15:06,740
+You get a perspective shot of it.
+
+201
+00:15:06,740 --> 00:15:10,020
+It's like you're looking out of his head as it flies off.
+
+202
+00:15:10,020 --> 00:15:14,340
+The idea that fiction is not the opposite of facts, but actually can be more truthful
+
+203
+00:15:14,340 --> 00:15:18,740
+than facts on their own is key to what makes storytelling so important.
+
+204
+00:15:18,740 --> 00:15:24,740
+Art is all lies, all perceptions, always subjective, always up for further interpretation,
+
+205
+00:15:24,740 --> 00:15:27,860
+and always slanted by the perspectives of its creators.
+
+206
+00:15:27,860 --> 00:15:30,980
+But art is lies in service to truth.
+
+207
+00:15:31,700 --> 00:15:34,500
+Bringing all of this back, what of Lovecraft?
+
+208
+00:15:34,500 --> 00:15:39,780
+What makes his work in particular continue to be remembered alongside Dracula or Halloween
+
+209
+00:15:39,780 --> 00:15:43,060
+and act as direct inspiration for yet more creative works?
+
+210
+00:15:43,060 --> 00:15:45,460
+What truth is hidden within his fiction?
+
+211
+00:15:46,020 --> 00:15:48,260
+Well, it might be the existential horror.
+
+212
+00:15:48,260 --> 00:15:51,780
+His works come together to relate a thoroughly nihilistic universe,
+
+213
+00:15:51,780 --> 00:15:55,940
+wholly uncaring about our existence, and there may well be a truth to that,
+
+214
+00:15:55,940 --> 00:16:00,660
+but it isn't whether or not human existence actually matters that's central to his work.
+
+215
+00:16:00,660 --> 00:16:04,180
+It's not quite the idea of that stuff actually being true,
+
+216
+00:16:04,660 --> 00:16:10,260
+but rather the direct feeling of being unimportant in the grand scheme of things.
+
+217
+00:16:10,260 --> 00:16:14,020
+Lovecraft's writing and tropes function in this regard a lot like one of the writers
+
+218
+00:16:14,020 --> 00:16:16,820
+who in turn inspired him, Edgar Allan Poe.
+
+219
+00:16:16,820 --> 00:16:19,540
+Poe doesn't exactly make people feel good.
+
+220
+00:16:19,540 --> 00:16:22,900
+Rather, he makes them feel sad in a productive way.
+
+221
+00:16:22,900 --> 00:16:26,580
+It can make people who are prone to those feelings feel less alone
+
+222
+00:16:26,580 --> 00:16:29,140
+because they know others have them too.
+
+223
+00:16:29,140 --> 00:16:33,380
+The Call of Cthulhu doesn't begin by telling you how scary a big monster could be
+
+224
+00:16:33,380 --> 00:16:36,580
+or giving you a description of what its tentacles would look like.
+
+225
+00:16:36,580 --> 00:16:41,380
+It opens with a profound fear of the future and of what discoveries might lie there.
+
+226
+00:16:41,380 --> 00:16:46,180
+The sciences, each straining in its own direction, have hitherto harmed us little,
+
+227
+00:16:46,180 --> 00:16:48,980
+but someday the piecing together of dissociated knowledge
+
+228
+00:16:48,980 --> 00:16:53,860
+will open up such terrifying vistas of reality and of our frightful position therein
+
+229
+00:16:53,860 --> 00:16:56,500
+that we shall either go mad from the revelation
+
+230
+00:16:56,500 --> 00:17:01,140
+or flee from the deadly light into the peace and safety of a new dark age.
+
+231
+00:17:01,220 --> 00:17:04,820
+So what mattered wasn't how creative or imaginative his stories got,
+
+232
+00:17:04,820 --> 00:17:08,180
+but how they related to people's own feelings of unimportance
+
+233
+00:17:08,180 --> 00:17:10,580
+then and now in the actual world.
+
+234
+00:17:10,580 --> 00:17:13,620
+There's the old joke that a paranoid person,
+
+235
+00:17:13,620 --> 00:17:16,500
+if they were ever to discover the room that the government spied on them from
+
+236
+00:17:16,500 --> 00:17:18,260
+with all the notes on their lives,
+
+237
+00:17:18,260 --> 00:17:21,460
+they wouldn't actually be any more afraid because of this.
+
+238
+00:17:21,460 --> 00:17:23,220
+They'd feel validated.
+
+239
+00:17:23,220 --> 00:17:24,740
+They weren't paranoid.
+
+240
+00:17:24,740 --> 00:17:25,860
+They were right.
+
+241
+00:17:25,860 --> 00:17:29,780
+And through that lens, Lovecraft is a way of feeling completely assured
+
+242
+00:17:29,780 --> 00:17:32,740
+that the world really is out to get you,
+
+243
+00:17:32,740 --> 00:17:36,340
+and maybe God doesn't care or hates you or wants you dead.
+
+244
+00:17:36,340 --> 00:17:38,740
+You can use special effects to design something scarier
+
+245
+00:17:38,740 --> 00:17:40,820
+than the man himself could ever have imagined,
+
+246
+00:17:40,820 --> 00:17:44,820
+but that alone isn't actually the thing that's scary about the story.
+
+247
+00:17:44,820 --> 00:17:47,940
+What's scary is the way these smaller aspects build
+
+248
+00:17:47,940 --> 00:17:52,020
+to create a sense that humans are tiny and powerless creatures,
+
+249
+00:17:52,020 --> 00:17:54,340
+that the greatest height we can aspire to
+
+250
+00:17:54,340 --> 00:17:59,700
+is a deep and intimate understanding of just how little we understand.
+
+251
+00:17:59,700 --> 00:18:02,740
+Lovecraft rarely reused his creations between stories,
+
+252
+00:18:02,740 --> 00:18:06,980
+and that's because the creatures he came up with didn't really matter.
+
+253
+00:18:06,980 --> 00:18:08,820
+They were interchangeable,
+
+254
+00:18:08,820 --> 00:18:11,380
+and the ideas they existed to communicate
+
+255
+00:18:11,380 --> 00:18:14,340
+with their scope and alienness was what mattered.
+
+256
+00:18:14,340 --> 00:18:19,060
+Unfortunately, however, this is where things get a bit hairy and complicated.
+
+257
+00:18:19,060 --> 00:18:21,380
+One of Lovecraft's most famous quotes goes,
+
+258
+00:18:21,380 --> 00:18:24,420
+"'The oldest and strongest emotion of mankind is fear,
+
+259
+00:18:24,420 --> 00:18:28,500
+and the oldest and strongest kind of fear is fear of the unknown.'"
+
+260
+00:18:28,500 --> 00:18:30,500
+And you know what this guy didn't know much about?
+
+261
+00:18:31,140 --> 00:18:33,380
+People of other races.
+
+262
+00:18:33,380 --> 00:18:35,780
+Look, we've managed to brush past it,
+
+263
+00:18:35,780 --> 00:18:40,580
+but we do have to talk about Lovecraft's racism, sexism,
+
+264
+00:18:41,460 --> 00:18:43,780
+antisemitism, and homophobia.
+
+265
+00:18:45,460 --> 00:18:46,500
+It's happening now.
+
+266
+00:18:47,780 --> 00:18:51,460
+So for the folks out there who don't think you can criticize an author's beliefs
+
+267
+00:18:51,460 --> 00:18:54,900
+just because it was a different time and it happened 100 years ago,
+
+268
+00:18:55,460 --> 00:18:56,500
+thanks for watching.
+
+269
+00:18:56,500 --> 00:18:58,100
+Don't forget to like and subscribe.
+
+270
+00:18:58,100 --> 00:18:59,220
+I'll see you next time.
+
+271
+00:18:59,220 --> 00:19:02,500
+I promise I'll review a game and make some jokes or something in the next one.
+
+272
+00:19:05,460 --> 00:19:06,020
+Are they gone?
+
+273
+00:19:07,380 --> 00:19:08,420
+Okay, they're gone.
+
+274
+00:19:08,420 --> 00:19:13,460
+Right, so it's pop-culturally quite well known that Lovecraft was a bit xenophobic,
+
+275
+00:19:13,460 --> 00:19:16,660
+and I do remember reading some pretty bad stuff,
+
+276
+00:19:16,660 --> 00:19:18,420
+but it was a while ago that I read it,
+
+277
+00:19:18,420 --> 00:19:20,500
+and I'm sure it can't be as bad as I remember.
+
+278
+00:19:20,500 --> 00:19:24,420
+What the fuck is nautical looking supposed to mean, Howard?
+
+279
+00:19:24,420 --> 00:19:25,940
+What does it even mean?
+
+280
+00:19:28,100 --> 00:19:32,420
+...
+
+281
+00:19:32,420 --> 00:19:35,460
+In his biography of H.P. Lovecraft, fittingly entitled
+
+282
+00:19:35,460 --> 00:19:38,020
+Against the World Against Life,
+
+283
+00:19:38,020 --> 00:19:39,780
+Michel Houellebecq writes,
+
+284
+00:19:39,780 --> 00:19:42,100
+The character of Lovecraft fascinates us,
+
+285
+00:19:42,100 --> 00:19:45,860
+partly because his system of values is entirely opposed to ours.
+
+286
+00:19:45,860 --> 00:19:48,340
+Fundamentally racist, openly reactionary,
+
+287
+00:19:48,340 --> 00:19:52,180
+he glorifies Puritan inhibition and quite evidently finds repellent
+
+288
+00:19:52,180 --> 00:19:54,420
+any open display of eroticism.
+
+289
+00:19:54,420 --> 00:19:56,980
+Resolutely anti-commercial, he despises money,
+
+290
+00:19:56,980 --> 00:20:00,500
+considers democracy to be pure folly, progress an illusion.
+
+291
+00:20:00,500 --> 00:20:05,140
+The word liberty, so dear to Americans, elicits from him only a gloomy sneer.
+
+292
+00:20:05,140 --> 00:20:08,740
+All his life he maintained a typically aristocratic attitude of scorn
+
+293
+00:20:08,740 --> 00:20:12,180
+for humanity in general together with an extreme solicitude
+
+294
+00:20:12,180 --> 00:20:14,420
+toward individuals in person.
+
+295
+00:20:14,420 --> 00:20:17,380
+Houellebecq kinda sucks, honestly,
+
+296
+00:20:17,380 --> 00:20:20,740
+and idolizes some of Lovecraft's worst qualities in his biography,
+
+297
+00:20:20,740 --> 00:20:23,140
+but this quote is helpful in illustrating the specifics
+
+298
+00:20:23,140 --> 00:20:25,300
+of Lovecraft's worldview, so I'm gonna use it.
+
+299
+00:20:25,300 --> 00:20:28,260
+A stopped clock is right twice a day, I suppose.
+
+300
+00:20:28,260 --> 00:20:31,140
+Lovecraft seemingly hated society itself,
+
+301
+00:20:31,140 --> 00:20:33,540
+but he had a deeper and specific dislike
+
+302
+00:20:33,540 --> 00:20:36,180
+for Black and Jewish people along with immigrants.
+
+303
+00:20:36,180 --> 00:20:40,340
+It's so prevalent in his writing that even citing multiple examples
+
+304
+00:20:40,340 --> 00:20:43,460
+would kind of diminish how overwhelming and constant it is.
+
+305
+00:20:43,460 --> 00:20:48,020
+I can't even bring myself to say the name of Lovecraft's cat
+
+306
+00:20:48,020 --> 00:20:49,860
+because it's a racial slur.
+
+307
+00:20:49,860 --> 00:20:54,100
+And despite this obviously completely full schedule of racism
+
+308
+00:20:54,100 --> 00:20:56,820
+and general hatred for humanity itself,
+
+309
+00:20:56,820 --> 00:20:59,940
+he also managed to find time to be a raging homophobe.
+
+310
+00:20:59,940 --> 00:21:02,660
+He claimed not to have even known homosexuality existed
+
+311
+00:21:02,660 --> 00:21:04,340
+until he was in his 30s,
+
+312
+00:21:04,340 --> 00:21:07,860
+but then he goes on to immediately compare it to being a pederast.
+
+313
+00:21:07,860 --> 00:21:10,900
+You know, growing up, I always would immediately try to find ways
+
+314
+00:21:10,900 --> 00:21:13,860
+to write off or handwave away the racism.
+
+315
+00:21:13,860 --> 00:21:17,060
+You know, I would say, well, it was a part of his time.
+
+316
+00:21:17,060 --> 00:21:19,940
+I never really just sat down and gave myself the opportunity
+
+317
+00:21:19,940 --> 00:21:22,900
+to just say, God, what a piece of shit.
+
+318
+00:21:24,100 --> 00:21:27,620
+I mean, honestly, like, his work meant something to me
+
+319
+00:21:27,620 --> 00:21:29,780
+in a really, like, profound way
+
+320
+00:21:29,780 --> 00:21:31,460
+that no other work has ever really done,
+
+321
+00:21:32,340 --> 00:21:34,900
+but I fucking think the guy's terrible.
+
+322
+00:21:34,900 --> 00:21:38,500
+As a side note, Lovecraft's views apparently softened a little bit over time.
+
+323
+00:21:38,500 --> 00:21:40,340
+In a letter he wrote a month before his death,
+
+324
+00:21:40,340 --> 00:21:42,340
+he claimed he understood the blindness
+
+325
+00:21:42,340 --> 00:21:44,340
+and defiant ignorance of reactionaries
+
+326
+00:21:44,340 --> 00:21:45,940
+because he used to be one.
+
+327
+00:21:45,940 --> 00:21:49,140
+"'I know how smugly ignorant I was,' he wrote.
+
+328
+00:21:49,140 --> 00:21:51,780
+He supposedly became a socialist in the last year of his life
+
+329
+00:21:51,780 --> 00:21:53,060
+and supported the New Deal,
+
+330
+00:21:53,060 --> 00:21:55,300
+and he was married to a Jewish woman for a while,
+
+331
+00:21:55,300 --> 00:21:58,900
+but it's debatable whether he really developed all that much,
+
+332
+00:21:58,980 --> 00:22:02,500
+and the racism in his work is still unavoidably there.'"
+
+333
+00:22:02,500 --> 00:22:05,780
+And this leads us to a very weird and difficult question.
+
+334
+00:22:06,820 --> 00:22:09,780
+Why are there queer Lovecraft fans?
+
+335
+00:22:10,820 --> 00:22:12,020
+Why do I exist?
+
+336
+00:22:12,980 --> 00:22:15,460
+And why do so many people like me exist?
+
+337
+00:22:15,460 --> 00:22:18,340
+Why is this space a place for a lot of queer
+
+338
+00:22:18,340 --> 00:22:20,420
+and marginalized people in the first place?
+
+339
+00:22:21,140 --> 00:22:23,860
+Why does his work resonate so well
+
+340
+00:22:24,580 --> 00:22:28,820
+with people who the man himself would have hated even more
+
+341
+00:22:29,060 --> 00:22:30,500
+than he hated everyone else?
+
+342
+00:22:31,300 --> 00:22:37,540
+Now, I don't think I'm qualified to answer this question.
+
+343
+00:22:37,540 --> 00:22:40,580
+I don't actually think anyone really is.
+
+344
+00:22:41,380 --> 00:22:43,140
+There's probably a lot of different reasons,
+
+345
+00:22:44,020 --> 00:22:46,580
+but from what I can gather,
+
+346
+00:22:47,300 --> 00:22:50,100
+it seems like the answer lies in the specifics
+
+347
+00:22:50,100 --> 00:22:52,100
+of how Lovecraft saw the world,
+
+348
+00:22:52,100 --> 00:22:55,460
+in the place that his approach actually came from.
+
+349
+00:22:55,460 --> 00:22:57,300
+"'When Lovecraft was three years old,
+
+350
+00:22:57,300 --> 00:22:58,500
+his father had a breakdown
+
+351
+00:22:58,500 --> 00:23:00,100
+and was committed to a mental hospital.
+
+352
+00:23:00,100 --> 00:23:01,700
+He died there five years later.
+
+353
+00:23:01,700 --> 00:23:04,340
+His mother also frequently suffered from similar problems
+
+354
+00:23:04,340 --> 00:23:06,740
+and later died in the same hospital.
+
+355
+00:23:06,740 --> 00:23:10,100
+Lovecraft suffered from periods of severe anxiety and depression.
+
+356
+00:23:10,100 --> 00:23:11,540
+He had to drop out of high school
+
+357
+00:23:11,540 --> 00:23:14,340
+and often isolated himself for long periods at a time.
+
+358
+00:23:14,340 --> 00:23:16,660
+He saw himself as a temporary visitor
+
+359
+00:23:16,660 --> 00:23:18,660
+to a strange and unwelcoming world.
+
+360
+00:23:18,660 --> 00:23:21,860
+This is present even in one of Lovecraft's earliest stories,
+
+361
+00:23:21,860 --> 00:23:23,140
+The Outsider.
+
+362
+00:23:23,140 --> 00:23:26,420
+The narrator escapes from being trapped within a decaying castle,
+
+363
+00:23:26,420 --> 00:23:28,820
+but his search for human contact is frustrated
+
+364
+00:23:28,820 --> 00:23:31,380
+when the people he finds run away in horror.
+
+365
+00:23:31,380 --> 00:23:34,340
+He turns and sees a detestable and ghoulish creature
+
+366
+00:23:34,340 --> 00:23:35,700
+has entered the room.
+
+367
+00:23:35,700 --> 00:23:39,060
+To his shock, he realizes he's looking into a mirror."
+
+368
+00:23:39,060 --> 00:23:41,860
+All of his best works draw into close focus
+
+369
+00:23:41,860 --> 00:23:44,500
+not some generic fear of outsiders,
+
+370
+00:23:45,220 --> 00:23:49,860
+but the anxieties and fears that come with being an outsider,
+
+371
+00:23:50,420 --> 00:23:53,860
+of being in a world that doesn't really understand you,
+
+372
+00:23:53,860 --> 00:23:58,180
+and perhaps of not being fully able to understand yourself.
+
+373
+00:23:58,180 --> 00:24:00,340
+So there is a fairly decent reason here
+
+374
+00:24:00,340 --> 00:24:02,340
+why someone might be drawn to these works,
+
+375
+00:24:02,340 --> 00:24:04,820
+even if the author was deeply problematic.
+
+376
+00:24:04,820 --> 00:24:07,300
+And this appears to have been true to some degree
+
+377
+00:24:07,300 --> 00:24:08,900
+at the time in a strange way.
+
+378
+00:24:08,900 --> 00:24:10,900
+Lovecraft was pretty open about the problems
+
+379
+00:24:10,900 --> 00:24:12,420
+he had with homosexuality.
+
+380
+00:24:12,420 --> 00:24:15,300
+However, several of his closest friends were gay,
+
+381
+00:24:15,300 --> 00:24:18,260
+including the poets Hart Crane and Samuel Loveman
+
+382
+00:24:18,260 --> 00:24:19,620
+and Robert Hayward Barlow,
+
+383
+00:24:19,620 --> 00:24:21,940
+who he worked closely with on numerous stories
+
+384
+00:24:21,940 --> 00:24:24,740
+and who Lovecraft made the executor of his literary estate
+
+385
+00:24:24,740 --> 00:24:25,860
+in the event of his death.
+
+386
+00:24:25,860 --> 00:24:27,380
+It's partially due to Barlow
+
+387
+00:24:27,380 --> 00:24:28,900
+that so much of Lovecraft's writing
+
+388
+00:24:28,900 --> 00:24:30,260
+has been preserved over the years,
+
+389
+00:24:30,260 --> 00:24:32,900
+given how he wasn't all that popular at the time.
+
+390
+00:24:32,900 --> 00:24:34,900
+The deeply bigoted belief in a link
+
+391
+00:24:34,900 --> 00:24:36,820
+between homosexuality and pedophilia
+
+392
+00:24:36,820 --> 00:24:38,740
+is invoked, this time on purpose,
+
+393
+00:24:38,740 --> 00:24:39,940
+in the film as well.
+
+394
+00:24:39,940 --> 00:24:42,100
+There's a scene in Cthulhu where Russell is arrested
+
+395
+00:24:42,100 --> 00:24:44,660
+on manufactured charges of being a pedophile.
+
+396
+00:24:44,660 --> 00:24:46,580
+-"You're under arrest for murder." -"Oh, come on."
+
+397
+00:24:46,580 --> 00:24:48,260
+-"Rape of a minor." -"Oh, wait, you can't--"
+
+398
+00:24:48,260 --> 00:24:50,020
+-"Trespass--" -"The event is positioned
+
+399
+00:24:50,020 --> 00:24:51,700
+as an extension of his mistreatment
+
+400
+00:24:51,700 --> 00:24:53,140
+by the rest of the town.
+
+401
+00:24:53,140 --> 00:24:54,900
+We're seeing the kind of alienation
+
+402
+00:24:54,900 --> 00:24:57,300
+the original stories had to invent a foreign cult
+
+403
+00:24:57,300 --> 00:24:58,420
+to get across,
+
+404
+00:24:58,420 --> 00:25:00,900
+but translated into actual things
+
+405
+00:25:00,900 --> 00:25:02,580
+people do experience."
+
+406
+00:25:02,580 --> 00:25:05,300
+-"Oh, yeah, you like this? Faggot goes off to jail?"
+
+407
+00:25:05,300 --> 00:25:07,140
+The easiness and convenience
+
+408
+00:25:07,140 --> 00:25:09,140
+with which having a different sexual preference
+
+409
+00:25:09,140 --> 00:25:10,740
+is equated with criminality
+
+410
+00:25:10,740 --> 00:25:13,940
+is something that real people deal with even today.
+
+411
+00:25:13,940 --> 00:25:14,660
+For some people,
+
+412
+00:25:14,660 --> 00:25:17,140
+the intellectualized existential problems
+
+413
+00:25:17,140 --> 00:25:19,460
+Lovecraft had originally written to explore
+
+414
+00:25:19,460 --> 00:25:20,900
+cease to be theoretical
+
+415
+00:25:20,900 --> 00:25:23,140
+and start to communicate familiar experiences
+
+416
+00:25:23,140 --> 00:25:25,220
+the same way Edgar Allan Poe's writing can be
+
+417
+00:25:25,220 --> 00:25:26,820
+to someone who's lost a loved one,
+
+418
+00:25:26,820 --> 00:25:28,500
+or the way Halloween explores
+
+419
+00:25:28,500 --> 00:25:30,340
+the suburban fear of one's neighbors,
+
+420
+00:25:30,340 --> 00:25:33,060
+or Dracula puts words to a deeper understanding
+
+421
+00:25:33,060 --> 00:25:34,980
+of the antagonism between different classes
+
+422
+00:25:34,980 --> 00:25:36,500
+in our social hierarchy.
+
+423
+00:25:36,500 --> 00:25:38,580
+For those who've been treated like this
+
+424
+00:25:38,580 --> 00:25:39,860
+in the name of a religion
+
+425
+00:25:39,860 --> 00:25:42,100
+or simply by their surrounding society
+
+426
+00:25:42,100 --> 00:25:44,340
+because of its horrific expectations,
+
+427
+00:25:44,340 --> 00:25:47,220
+have they not come the closest a person can
+
+428
+00:25:47,220 --> 00:25:48,500
+in the real world
+
+429
+00:25:48,500 --> 00:25:50,980
+to the central Lovecraftian experience?
+
+430
+00:25:50,980 --> 00:25:52,420
+Have they not, in a sense,
+
+431
+00:25:52,420 --> 00:25:54,740
+glimpsed the face of an uncaring universe?
+
+432
+00:25:59,700 --> 00:26:02,580
+-"He was a guy that definitely did not get laid much,
+
+433
+00:26:03,140 --> 00:26:04,740
+you know, and a guy that was
+
+434
+00:26:06,180 --> 00:26:07,780
+an alien amongst us."
+
+435
+00:26:08,340 --> 00:26:10,100
+Del Toro still hasn't gotten to make
+
+436
+00:26:10,100 --> 00:26:11,620
+the Mountains of Madness adaptation
+
+437
+00:26:11,620 --> 00:26:13,700
+he wanted to make and I wanted to see,
+
+438
+00:26:13,700 --> 00:26:14,820
+but what's weird is,
+
+439
+00:26:14,820 --> 00:26:15,700
+as I've grown older
+
+440
+00:26:15,700 --> 00:26:17,060
+and become more interested in stories
+
+441
+00:26:17,060 --> 00:26:18,020
+that are more compelling
+
+442
+00:26:18,020 --> 00:26:19,540
+than Lovecraft's original works,
+
+443
+00:26:19,540 --> 00:26:21,540
+it seems that Del Toro has as well.
+
+444
+00:26:21,540 --> 00:26:23,780
+In a recent interview about The Shape of Water,
+
+445
+00:26:23,780 --> 00:26:24,420
+he said,
+
+446
+00:26:34,420 --> 00:26:36,020
+These are not concerns that I had
+
+447
+00:26:36,020 --> 00:26:37,780
+when I was nine or seven.
+
+448
+00:26:37,780 --> 00:26:39,860
+The Shape of Water doesn't have any elements
+
+449
+00:26:39,860 --> 00:26:40,820
+that would be regarded
+
+450
+00:26:40,820 --> 00:26:42,340
+as traditionally Lovecraftian
+
+451
+00:26:42,340 --> 00:26:43,860
+by purists like Giles
+
+452
+00:26:43,860 --> 00:26:45,460
+or the teenager I used to be,
+
+453
+00:26:45,540 --> 00:26:47,700
+but its story gets at what I think
+
+454
+00:26:47,700 --> 00:26:49,140
+makes Lovecraft actually work
+
+455
+00:26:49,140 --> 00:26:50,260
+in the first place.
+
+456
+00:26:50,260 --> 00:26:52,340
+Human stories about our alienation
+
+457
+00:26:52,340 --> 00:26:54,180
+from each other and our lonelinesses,
+
+458
+00:26:54,180 --> 00:26:56,020
+our victimization by forces
+
+459
+00:26:56,020 --> 00:26:56,980
+beyond our control
+
+460
+00:26:56,980 --> 00:26:58,980
+that see us as outside the norm,
+
+461
+00:26:58,980 --> 00:27:00,180
+and how we can at least
+
+462
+00:27:00,180 --> 00:27:02,020
+partially rectify this by
+
+463
+00:27:02,020 --> 00:27:03,380
+learning to see the beauty
+
+464
+00:27:03,380 --> 00:27:05,300
+in something previously seen as alien.
+
+465
+00:27:05,300 --> 00:27:06,180
+In a sense,
+
+466
+00:27:06,180 --> 00:27:08,100
+it's a story about the people of Innsmouth
+
+467
+00:27:08,100 --> 00:27:09,780
+who happily chose to join
+
+468
+00:27:09,780 --> 00:27:10,820
+with the Deep Ones,
+
+469
+00:27:10,820 --> 00:27:12,980
+quite literally embracing otherness,
+
+470
+00:27:12,980 --> 00:27:14,580
+raising children who literally
+
+471
+00:27:14,580 --> 00:27:16,500
+learn to love to be different.
+
+472
+00:27:16,500 --> 00:27:18,180
+Now, the film's perspectives
+
+473
+00:27:18,180 --> 00:27:19,620
+and plot and texture
+
+474
+00:27:19,620 --> 00:27:20,900
+make it not really invite
+
+475
+00:27:20,900 --> 00:27:22,580
+much of a comparison with Lovecraft
+
+476
+00:27:22,580 --> 00:27:23,940
+in a straightforward viewing,
+
+477
+00:27:24,580 --> 00:27:26,500
+but maybe that's proof
+
+478
+00:27:26,500 --> 00:27:27,780
+of how good it is.
+
+479
+00:27:27,780 --> 00:27:29,220
+The Shape of Water has
+
+480
+00:27:29,220 --> 00:27:30,820
+so successfully excavated
+
+481
+00:27:30,820 --> 00:27:32,020
+all the garbage away
+
+482
+00:27:32,020 --> 00:27:33,540
+from its spiritual predecessor
+
+483
+00:27:33,540 --> 00:27:34,900
+that despite depicting something
+
+484
+00:27:34,900 --> 00:27:36,260
+that directly happened
+
+485
+00:27:36,260 --> 00:27:37,460
+in a story del Toro
+
+486
+00:27:37,460 --> 00:27:38,420
+has definitely read,
+
+487
+00:27:38,980 --> 00:27:41,780
+the comparison still feels strange,
+
+488
+00:27:41,780 --> 00:27:43,060
+wrong almost.
+
+489
+00:27:43,060 --> 00:27:45,380
+This film captures the beautiful,
+
+490
+00:27:45,380 --> 00:27:47,460
+human, mesmerizing center
+
+491
+00:27:47,460 --> 00:27:48,820
+of Lovecraft's writing.
+
+492
+00:27:48,820 --> 00:27:50,580
+It's the kind of story he could,
+
+493
+00:27:51,220 --> 00:27:52,740
+or perhaps should,
+
+494
+00:27:52,740 --> 00:27:54,340
+have been writing all along.
+
+495
+00:27:54,340 --> 00:27:55,540
+For me, there's something
+
+496
+00:27:55,540 --> 00:27:56,980
+personally wonderful about
+
+497
+00:27:56,980 --> 00:27:58,260
+finally really coming to
+
+498
+00:27:58,260 --> 00:27:59,380
+an understanding of a film
+
+499
+00:27:59,380 --> 00:28:00,340
+that touched me in ways
+
+500
+00:28:00,340 --> 00:28:01,220
+I didn't realize
+
+501
+00:28:01,220 --> 00:28:02,340
+and that never really
+
+502
+00:28:02,340 --> 00:28:03,780
+got much recognition.
+
+503
+00:28:03,780 --> 00:28:05,380
+Right as a film that understands
+
+504
+00:28:05,380 --> 00:28:06,820
+this just as well gets released
+
+505
+00:28:06,820 --> 00:28:08,580
+and actually gets major recognition
+
+506
+00:28:08,580 --> 00:28:09,700
+and even wins an Oscar.
+
+507
+00:28:10,100 --> 00:28:11,540
+I am an immigrant,
+
+508
+00:28:11,540 --> 00:28:13,220
+unlike many, many of you,
+
+509
+00:28:13,220 --> 00:28:15,300
+and in the last 25 years,
+
+510
+00:28:15,300 --> 00:28:16,980
+I've been living in a country
+
+511
+00:28:16,980 --> 00:28:17,940
+all of our own,
+
+512
+00:28:17,940 --> 00:28:18,740
+because I think that
+
+513
+00:28:18,740 --> 00:28:20,500
+the greatest thing our art does
+
+514
+00:28:20,500 --> 00:28:21,620
+and our industry does
+
+515
+00:28:21,620 --> 00:28:23,380
+is to erase the lines in the sand.
+
+516
+00:28:23,940 --> 00:28:25,780
+We should continue doing that
+
+517
+00:28:25,780 --> 00:28:26,740
+when the world tells us
+
+518
+00:28:26,740 --> 00:28:27,700
+to make them deeper.
+
+519
+00:28:29,220 --> 00:28:31,380
+While it's easy and correct
+
+520
+00:28:31,380 --> 00:28:33,140
+to be dubious about the value
+
+521
+00:28:33,140 --> 00:28:34,340
+of winning an Oscar,
+
+522
+00:28:34,340 --> 00:28:36,020
+I do think the success of a film
+
+523
+00:28:36,020 --> 00:28:37,940
+like this is a really hopeful sign
+
+524
+00:28:37,940 --> 00:28:39,300
+for the future of how people
+
+525
+00:28:39,380 --> 00:28:41,140
+see that which is alien to them.
+
+526
+00:28:41,140 --> 00:28:42,100
+There's a philosopher
+
+527
+00:28:42,100 --> 00:28:43,300
+named Julia Kristeva
+
+528
+00:28:43,300 --> 00:28:45,700
+whose work was pretty formative for me.
+
+529
+00:28:45,700 --> 00:28:46,500
+I discovered her
+
+530
+00:28:46,500 --> 00:28:47,700
+through her being quoted
+
+531
+00:28:47,700 --> 00:28:48,980
+in a series of critical essays
+
+532
+00:28:48,980 --> 00:28:49,940
+on Lovecraft,
+
+533
+00:28:49,940 --> 00:28:51,300
+one by Gina Whisker,
+
+534
+00:28:51,300 --> 00:28:53,460
+entitled Spawn of the Pit.
+
+535
+00:28:53,460 --> 00:28:54,580
+The quote went,
+
+536
+00:28:54,580 --> 00:28:56,580
+By recognizing our uncanny strangeness,
+
+537
+00:28:56,580 --> 00:28:57,940
+we shall neither suffer from it
+
+538
+00:28:57,940 --> 00:28:59,700
+nor enjoy it from the outside.
+
+539
+00:28:59,700 --> 00:29:01,220
+The foreigner is within me.
+
+540
+00:29:01,220 --> 00:29:03,140
+Hence, we are all foreigners.
+
+541
+00:29:03,140 --> 00:29:04,260
+If I am a foreigner,
+
+542
+00:29:04,260 --> 00:29:06,100
+then there are no foreigners.
+
+543
+00:29:06,100 --> 00:29:07,700
+Why be alien to each other
+
+544
+00:29:07,700 --> 00:29:10,020
+when we are all alien to ourselves?
+
+545
+00:29:11,940 --> 00:29:13,460
+So, what have we learned
+
+546
+00:29:13,460 --> 00:29:15,540
+about how to adapt Lovecraft?
+
+547
+00:29:15,540 --> 00:29:17,300
+Well, I think there's a point here
+
+548
+00:29:17,300 --> 00:29:18,900
+about how we have to decide
+
+549
+00:29:18,900 --> 00:29:20,420
+what really makes his work good
+
+550
+00:29:20,420 --> 00:29:21,380
+in the first place,
+
+551
+00:29:21,380 --> 00:29:23,620
+what the core truths in his work are
+
+552
+00:29:23,620 --> 00:29:24,660
+that ought to survive
+
+553
+00:29:24,660 --> 00:29:26,100
+into a future they inspire.
+
+554
+00:29:26,100 --> 00:29:27,860
+An adaptation, to me at least,
+
+555
+00:29:27,860 --> 00:29:29,140
+only needs fidelity
+
+556
+00:29:29,140 --> 00:29:30,260
+to what really matters
+
+557
+00:29:30,260 --> 00:29:31,300
+about the text,
+
+558
+00:29:31,300 --> 00:29:32,740
+and neglecting to bring across
+
+559
+00:29:32,740 --> 00:29:33,940
+other aspects like
+
+560
+00:29:33,940 --> 00:29:35,700
+the finer points of its philosophy
+
+561
+00:29:35,700 --> 00:29:38,340
+or its particular linguistic flourishes
+
+562
+00:29:38,340 --> 00:29:39,700
+or certain characters
+
+563
+00:29:39,700 --> 00:29:42,260
+or even its racism or homophobia
+
+564
+00:29:42,260 --> 00:29:44,260
+isn't a failure to be fully faithful
+
+565
+00:29:44,260 --> 00:29:45,540
+to the original work.
+
+566
+00:29:45,540 --> 00:29:46,500
+It's demonstrating
+
+567
+00:29:46,500 --> 00:29:47,940
+a successful understanding
+
+568
+00:29:47,940 --> 00:29:49,140
+of why those stories
+
+569
+00:29:49,140 --> 00:29:50,340
+were worth reading about
+
+570
+00:29:50,340 --> 00:29:51,220
+in the first place
+
+571
+00:29:51,220 --> 00:29:52,660
+in spite of those flaws.
+
+572
+00:29:52,660 --> 00:29:54,740
+In focusing on a person's experiences
+
+573
+00:29:54,740 --> 00:29:56,340
+and treatment for their sexuality
+
+574
+00:29:56,340 --> 00:29:57,380
+or on a relationship
+
+575
+00:29:57,380 --> 00:29:58,820
+with someone seen by others
+
+576
+00:29:58,820 --> 00:30:00,660
+as an alien outsider,
+
+577
+00:30:00,660 --> 00:30:02,420
+these works explore the originals
+
+578
+00:30:02,420 --> 00:30:04,340
+and their feelings of otherness
+
+579
+00:30:04,420 --> 00:30:05,940
+better than Lovecraft did.
+
+580
+00:30:05,940 --> 00:30:07,460
+You don't have to go find a copy
+
+581
+00:30:07,460 --> 00:30:09,460
+of this 10-year-old obscure film
+
+582
+00:30:09,460 --> 00:30:10,660
+if you don't want to.
+
+583
+00:30:10,660 --> 00:30:12,180
+It's not perfect by any means,
+
+584
+00:30:12,180 --> 00:30:13,380
+and lots of the criticism
+
+585
+00:30:13,380 --> 00:30:14,900
+the film's received is valid.
+
+586
+00:30:14,900 --> 00:30:16,180
+Even the director's commentary
+
+587
+00:30:16,180 --> 00:30:16,980
+opens by admitting
+
+588
+00:30:16,980 --> 00:30:18,660
+they aren't fully happy with the film.
+
+589
+00:30:18,660 --> 00:30:21,540
+There are 85 locations in this movie.
+
+590
+00:30:21,540 --> 00:30:22,580
+Ridiculous.
+
+591
+00:30:22,580 --> 00:30:24,180
+It's certainly nowhere near as good
+
+592
+00:30:24,180 --> 00:30:25,460
+as the best film ever,
+
+593
+00:30:25,460 --> 00:30:27,220
+Gremlins 2.
+
+594
+00:30:27,220 --> 00:30:28,740
+But it meant something to me
+
+595
+00:30:28,740 --> 00:30:30,180
+and was very important to me
+
+596
+00:30:30,180 --> 00:30:32,100
+in a formative period of my life,
+
+597
+00:30:32,100 --> 00:30:33,620
+and sometimes that's kind of
+
+598
+00:30:33,620 --> 00:30:35,140
+more important than the writing
+
+599
+00:30:35,140 --> 00:30:36,420
+or execution.
+
+600
+00:30:36,420 --> 00:30:38,020
+As I look out into the internet
+
+601
+00:30:38,020 --> 00:30:39,860
+and find many other queer fans
+
+602
+00:30:39,860 --> 00:30:41,140
+of Lovecraft's work
+
+603
+00:30:41,140 --> 00:30:42,420
+and writers in some form
+
+604
+00:30:42,420 --> 00:30:44,580
+inspired by these feelings themselves,
+
+605
+00:30:44,580 --> 00:30:45,780
+the wealth of literature
+
+606
+00:30:45,780 --> 00:30:47,620
+exploring this side of his writing
+
+607
+00:30:47,620 --> 00:30:48,820
+and films taking up
+
+608
+00:30:48,820 --> 00:30:50,580
+radically humanizing perspectives
+
+609
+00:30:50,580 --> 00:30:52,180
+even towards that which might
+
+610
+00:30:52,180 --> 00:30:54,580
+literally be considered monstrous,
+
+611
+00:30:54,580 --> 00:30:55,620
+I can't help but feel
+
+612
+00:30:55,620 --> 00:30:57,540
+that there's a side of Lovecraft's work
+
+613
+00:30:57,540 --> 00:30:59,540
+the man himself died
+
+614
+00:30:59,540 --> 00:31:02,340
+unable to fully comprehend.
+
+615
+00:31:02,340 --> 00:31:05,220
+And in a way, that's fitting, isn't it?
+
+616
+00:31:05,220 --> 00:31:06,900
+But there's one other great story
+
+617
+00:31:06,900 --> 00:31:08,340
+inspired at least partially
+
+618
+00:31:08,340 --> 00:31:09,620
+by elements of Lovecraft,
+
+619
+00:31:09,620 --> 00:31:10,580
+and I'm going to talk about it
+
+620
+00:31:10,580 --> 00:31:12,340
+soon on my channel.
+
+621
+00:31:12,340 --> 00:31:13,380
+Join me in the future
+
+622
+00:31:13,380 --> 00:31:15,700
+when I reveal spectacularly
+
+623
+00:31:15,700 --> 00:31:17,940
+why I filmed segments for this video
+
+624
+00:31:17,940 --> 00:31:21,380
+at night in the woods.
+
+625
+00:31:21,380 --> 00:31:23,300
+Oh, I just kind of gave it away then,
+
+626
+00:31:23,300 --> 00:31:24,180
+didn't I?
+
+627
+00:31:24,180 --> 00:31:40,180
+[♪ music ♪
+
+628
+00:31:40,180 --> 00:31:40,820
+Hey.
+
+629
+00:31:40,820 --> 00:31:42,100
+Thanks for watching, everybody.
+
+630
+00:31:42,100 --> 00:31:43,380
+This one was quite hard to make
+
+631
+00:31:43,380 --> 00:31:45,380
+for reasons that are probably obvious.
+
+632
+00:31:45,380 --> 00:31:47,300
+I'm supported by all these lovely people
+
+633
+00:31:47,300 --> 00:31:49,140
+over on Patreon.
+
+634
+00:31:49,140 --> 00:31:51,140
+Backers get videos a few days early
+
+635
+00:31:51,140 --> 00:31:52,980
+and also get to make suggestions
+
+636
+00:31:52,980 --> 00:31:54,420
+on changes before the other version
+
+637
+00:31:54,420 --> 00:31:55,220
+goes out,
+
+638
+00:31:55,220 --> 00:31:56,980
+and they get some bonus extra videos
+
+639
+00:31:56,980 --> 00:31:57,700
+every now and then.
+
+640
+00:31:57,700 --> 00:31:58,660
+I still need to finish one
+
+641
+00:31:58,660 --> 00:32:00,500
+about the making of the control delete video,
+
+642
+00:32:00,500 --> 00:32:01,860
+but there's just so much footage
+
+643
+00:32:01,860 --> 00:32:02,580
+to cut together.
+
+644
+00:32:02,580 --> 00:32:04,180
+I'm basically making a little documentary
+
+645
+00:32:04,180 --> 00:32:07,300
+about making this silly YouTube video.
+
+646
+00:32:07,300 --> 00:32:08,820
+Oh, and since I don't do readings
+
+647
+00:32:08,820 --> 00:32:10,500
+of the credits outside of longer videos,
+
+648
+00:32:10,500 --> 00:32:11,540
+I'm trying a new thing
+
+649
+00:32:11,540 --> 00:32:13,380
+where I stream myself to $10 back
+
+650
+00:32:13,380 --> 00:32:14,820
+as doing editing
+
+651
+00:32:14,820 --> 00:32:16,340
+and take live suggestions
+
+652
+00:32:16,340 --> 00:32:18,820
+and show off my sort of process.
+
+653
+00:32:18,820 --> 00:32:20,580
+Last night, I did a three-hour stream
+
+654
+00:32:20,580 --> 00:32:22,820
+of me making changes to this video.
+
+655
+00:32:23,300 --> 00:32:24,820
+So thanks to Mallow,
+
+656
+00:32:24,820 --> 00:32:26,420
+who was in the chat and gave me the idea
+
+657
+00:32:26,420 --> 00:32:28,660
+of pointing out that Huelbeck sucks.
+
+658
+00:32:28,660 --> 00:32:29,940
+I wasn't sure if I should do it,
+
+659
+00:32:29,940 --> 00:32:31,060
+so it was nice getting the input
+
+660
+00:32:31,060 --> 00:32:32,420
+that I probably ought to,
+
+661
+00:32:32,420 --> 00:32:33,540
+and thanks to everyone else
+
+662
+00:32:33,540 --> 00:32:34,900
+who singled out other changes
+
+663
+00:32:34,900 --> 00:32:36,180
+and fixes to mistakes
+
+664
+00:32:36,180 --> 00:32:39,460
+I can now pretend were never made at all.
+
+665
+00:32:39,460 --> 00:32:41,860
+I'd also like to say a special thank you
+
+666
+00:32:41,860 --> 00:32:43,380
+to the over 100 people
+
+667
+00:32:43,380 --> 00:32:44,180
+who reached out to me
+
+668
+00:32:44,180 --> 00:32:45,140
+when I asked on Twitter
+
+669
+00:32:45,140 --> 00:32:46,660
+for LGBT fans of Lovecraft
+
+670
+00:32:46,660 --> 00:32:48,500
+to get in touch a few months ago.
+
+671
+00:32:48,500 --> 00:32:49,700
+Your notes and contributions
+
+672
+00:32:49,700 --> 00:32:50,660
+were really great
+
+673
+00:32:50,660 --> 00:32:52,100
+and helped me think a lot
+
+674
+00:32:52,100 --> 00:32:53,060
+about this topic
+
+675
+00:32:53,060 --> 00:32:55,140
+and helped me ascertain
+
+676
+00:32:55,140 --> 00:32:57,460
+that it wasn't all just me,
+
+677
+00:32:57,460 --> 00:32:58,900
+that I wasn't imagining all of this,
+
+678
+00:32:58,900 --> 00:33:00,340
+that other people felt this way.
+
+679
+00:33:01,140 --> 00:33:03,380
+You were all really helpful and lovely,
+
+680
+00:33:03,380 --> 00:33:05,060
+and this video wouldn't exist
+
+681
+00:33:05,060 --> 00:33:07,380
+without your kindness and support.
+
+682
+00:33:07,380 --> 00:33:09,300
+I hope everyone had a happy Pride Month.
+
+683
+00:33:09,300 --> 00:33:11,780
+Not that you have to stop being proud now.
+
+684
+00:33:11,780 --> 00:33:13,860
+You know, by all means, please continue.
+
+685
+00:33:14,580 --> 00:33:18,020
+I'm going to go back into my hole
+
+686
+00:33:18,740 --> 00:33:20,980
+and feel sorry for myself
+
+687
+00:33:20,980 --> 00:33:22,180
+for another 11 months,
+
+688
+00:33:22,180 --> 00:33:25,700
+but you do whatever makes you feel good.
+

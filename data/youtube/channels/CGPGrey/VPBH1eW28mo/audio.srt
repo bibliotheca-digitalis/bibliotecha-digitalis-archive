@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:04,380
+Hello internet, we need to talk about locks, the physical and the digital.
+
+2
+00:00:04,380 --> 00:00:07,760
+In the physical world, locks aren't as good as you think they are.
+
+3
+00:00:07,760 --> 00:00:13,480
+The lock on your door stops worries, not burglars, as two minutes of searching will reveal.
+
+4
+00:00:13,480 --> 00:00:17,420
+Spend more, get more, but all fail with tools and time enough.
+
+5
+00:00:17,420 --> 00:00:21,860
+That physical locks are bad at locking mostly doesn't matter in normal life because burglars
+
+6
+00:00:21,860 --> 00:00:24,140
+are constrained by the physical world.
+
+7
+00:00:24,140 --> 00:00:27,940
+A burglar must cruise the neighborhood, spending their time to pick a target, which makes a
+
+8
+00:00:27,940 --> 00:00:31,460
+house that looks secure most of the way toward being secure.
+
+9
+00:00:31,460 --> 00:00:35,700
+Each target house can then only be attacked one at a time and comes with a risk of being
+
+10
+00:00:35,700 --> 00:00:37,700
+physically caught in the act.
+
+11
+00:00:37,700 --> 00:00:39,300
+But digital is different.
+
+12
+00:00:39,300 --> 00:00:42,240
+The constraints of the physical no longer apply.
+
+13
+00:00:42,240 --> 00:00:46,100
+On the internet, a digital lock must protect you from not just the neighborhood burglar
+
+14
+00:00:46,100 --> 00:00:52,420
+but all burglars everywhere, for on the internet, there's no such thing as distance.
+
+15
+00:00:52,420 --> 00:00:56,180
+Internet burglars don't crack digital locks personally, they build burglar bots that try
+
+16
+00:00:56,180 --> 00:00:59,840
+millions of combinations just to see what opens.
+
+17
+00:00:59,840 --> 00:01:04,300
+One lock down the street or a country full on the other side of the world, it's all the
+
+18
+00:01:04,300 --> 00:01:05,300
+same.
+
+19
+00:01:05,300 --> 00:01:06,940
+Actually, other side of the world is better.
+
+20
+00:01:06,940 --> 00:01:11,960
+A dude in East Whateverlandia stealing your identity has a near-zero chance of getting
+
+21
+00:01:11,960 --> 00:01:12,960
+caught.
+
+22
+00:01:12,960 --> 00:01:17,560
+This is bad news, but thanks to mathematics, digital locks can be made unbreakable.
+
+23
+00:01:17,560 --> 00:01:23,020
+This is encryption, a digital lock that, without the password, cannot be opened.
+
+24
+00:01:23,020 --> 00:01:27,460
+Burglar bots will plow through all the possibilities but a secure password will take longer than
+
+25
+00:01:27,460 --> 00:01:29,780
+the heat death of the universe to guess.
+
+26
+00:01:29,780 --> 00:01:34,020
+No password, no entry, no matter how much of a lead hacker your mom is.
+
+27
+00:01:34,020 --> 00:01:36,460
+Your private files stay private.
+
+28
+00:01:36,460 --> 00:01:40,860
+Which might just be the greatest social good mathematics has done mankind.
+
+29
+00:01:40,860 --> 00:01:45,460
+But it's easy to imagine unbreakable digital locks as bad news.
+
+30
+00:01:45,460 --> 00:01:50,340
+Maximum lazy ticking time bomb, the location and off code of which are locked on the phone
+
+31
+00:01:50,340 --> 00:01:51,340
+of a dead man.
+
+32
+00:01:51,340 --> 00:01:55,820
+Now, were the information on a piece of paper in a safe room, no problem.
+
+33
+00:01:55,820 --> 00:01:59,740
+In the physical world, if you can't crack the lock, then you crack the wall.
+
+34
+00:01:59,740 --> 00:02:05,740
+Society agrees under this scenario it's reasonable for police to get in no matter what it takes.
+
+35
+00:02:05,740 --> 00:02:11,860
+Note, this means real world locks aren't just physically weak, but also legally weak.
+
+36
+00:02:11,860 --> 00:02:16,540
+We could live in a world with privacy laws that forbade police to break into all locks
+
+37
+00:02:16,540 --> 00:02:19,980
+no matter how flimsy, but we don't, cause that'd be dumb.
+
+38
+00:02:19,980 --> 00:02:20,980
+Hmm.
+
+39
+00:02:21,620 --> 00:02:24,340
+This is where gears turn in government heads.
+
+40
+00:02:24,340 --> 00:02:29,980
+If digital locks are physically invulnerable, maybe they can be made legally vulnerable.
+
+41
+00:02:29,980 --> 00:02:35,460
+To require digital locks be built with a keyhole for which police have the key.
+
+42
+00:02:35,460 --> 00:02:39,780
+Highly secure, top secret, for emergencies only, surely.
+
+43
+00:02:39,780 --> 00:02:44,620
+This legal vulnerability, to ban citizens from owning perfect digital locks, to require
+
+44
+00:02:44,620 --> 00:02:49,380
+companies manufacture their devices with keyholes is an idea that many, many governments are
+
+45
+00:02:49,380 --> 00:02:50,380
+interested in.
+
+46
+00:02:50,420 --> 00:02:53,820
+Governments point out that a warrant which lets police into your house and into your
+
+47
+00:02:53,820 --> 00:02:56,680
+papers should let police into your phone.
+
+48
+00:02:56,680 --> 00:03:01,580
+If your home is your castle but the need pressing enough, the police bring a battering ram.
+
+49
+00:03:01,580 --> 00:03:06,380
+But there's no battering ram to crack open a well-locked phone to comply with a warrant.
+
+50
+00:03:06,380 --> 00:03:07,760
+Not helpfully, anyway.
+
+51
+00:03:07,760 --> 00:03:09,300
+Which is a problem.
+
+52
+00:03:09,300 --> 00:03:14,300
+Again, we all ideally want police to crack digital locks sometimes.
+
+53
+00:03:14,300 --> 00:03:18,980
+But at our current level on the tech tree, digital locks that cannot be opened are a
+
+54
+00:03:18,980 --> 00:03:20,380
+thing that exists.
+
+55
+00:03:20,380 --> 00:03:25,020
+And because they are made of math, something a skilled coder can build at home, trying
+
+56
+00:03:25,020 --> 00:03:31,180
+to ban digital locks for everyone is pretty close to trying to ban an idea.
+
+57
+00:03:31,180 --> 00:03:32,860
+Good luck with that.
+
+58
+00:03:32,860 --> 00:03:38,500
+But even were it possible to successfully ban perfect digital locks in a country, remember
+
+59
+00:03:38,500 --> 00:03:41,560
+on the internet there's no such thing as distance.
+
+60
+00:03:41,560 --> 00:03:46,700
+Even if your government is a Xanadu bureaucracy of the seraphim incorruptible, there are demons
+
+61
+00:03:46,700 --> 00:03:47,700
+elsewhere.
+
+62
+00:03:47,740 --> 00:03:52,300
+Unbreakable digital locks are the foundation upon which computing and internetting is built.
+
+63
+00:03:52,300 --> 00:03:55,900
+Banking, buying, blogging, vlogging, gaming, tweeting, beating, meeting, all of this is
+
+64
+00:03:55,900 --> 00:03:58,460
+possible because of unbreakable digital locks.
+
+65
+00:03:58,460 --> 00:04:02,380
+They've existed since computers filled rooms, but now with computers in our pockets, we
+
+66
+00:04:02,380 --> 00:04:05,940
+rely on those locks to protect the content of our lives.
+
+67
+00:04:05,940 --> 00:04:08,380
+The content of our minds.
+
+68
+00:04:08,380 --> 00:04:14,080
+Forced weakness, even with the best of intentions, places everyone in danger.
+
+69
+00:04:14,080 --> 00:04:18,780
+The nature of a keyhole is to be cracked, and the nature of the internet is to bring
+
+70
+00:04:18,780 --> 00:04:20,440
+demons to the door.
+
+71
+00:04:20,440 --> 00:04:26,440
+No matter how much we might wish it, there's no way to build a digital lock that only angels
+
+72
+00:04:26,440 --> 00:04:28,880
+can open and demons cannot.
+
+73
+00:04:28,880 --> 00:04:34,400
+Anyone saying otherwise is either ignorant of the mathematics or less of an angel than
+
+74
+00:04:34,400 --> 00:04:34,920
+they appear.
+

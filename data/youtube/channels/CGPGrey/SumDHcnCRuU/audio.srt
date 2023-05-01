@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:03,200
+My very easy method just speeds up naming planets.
+
+2
+00:00:03,200 --> 00:00:06,080
+Every physics classroom has a solar system line like this.
+
+3
+00:00:06,080 --> 00:00:07,520
+Or like this.
+
+4
+00:00:07,520 --> 00:00:08,320
+Sorry, Pluto.
+
+5
+00:00:08,320 --> 00:00:11,440
+Looking at the line, which planet is closest to Earth?
+
+6
+00:00:11,440 --> 00:00:12,880
+Venus or Mars?
+
+7
+00:00:12,880 --> 00:00:17,840
+To answer, you need first know that, like many things in school, the line is a lie.
+
+8
+00:00:17,840 --> 00:00:22,560
+Planets are not people queuing for coffee, but rather spheroids scattered in space.
+
+9
+00:00:22,560 --> 00:00:28,160
+Always in motion, not in simple circles either, but in ellipses at untidy angles.
+
+10
+00:00:28,160 --> 00:00:32,640
+In the cold, dark expanse, this is the coziest Venus gets to Earth.
+
+11
+00:00:32,640 --> 00:00:35,600
+But only about once a year and a half-ish.
+
+12
+00:00:35,600 --> 00:00:38,560
+Starting close, she orbits far, then comes back.
+
+13
+00:00:38,560 --> 00:00:41,440
+Needs some space on the other side of the Sun.
+
+14
+00:00:41,440 --> 00:00:45,120
+This means when Venus is away, Mars can be the closest to play.
+
+15
+00:00:45,120 --> 00:00:48,880
+So because of orbits, there isn't one answer to who is the closest.
+
+16
+00:00:48,880 --> 00:00:51,280
+It's really who is mostly the closest.
+
+17
+00:00:51,280 --> 00:00:52,640
+The mostest closest.
+
+18
+00:00:52,640 --> 00:00:57,200
+When Mars and Venus are both on the other side of the Sun, it leaves little Mercury the closest.
+
+19
+00:00:57,200 --> 00:01:01,920
+Each of Earth's inner three planet friends are, at one time, the farthest and the closest.
+
+20
+00:01:01,920 --> 00:01:06,640
+And Mercury, with his smallest orbit, makes him never that far from Earth.
+
+21
+00:01:06,640 --> 00:01:08,400
+At least on planetary scales.
+
+22
+00:01:08,400 --> 00:01:12,160
+Giving the little guy a uniquely close relationship with Terra.
+
+23
+00:01:12,160 --> 00:01:15,520
+In fact, watching the planet spin, because of his small orbit,
+
+24
+00:01:15,520 --> 00:01:20,400
+Mercury, not Mars or Venus, is the closest planet most of the time.
+
+25
+00:01:20,400 --> 00:01:22,400
+Looking at the line, that seems impossible.
+
+26
+00:01:22,400 --> 00:01:25,040
+But nonetheless, in the way of actual orbits,
+
+27
+00:01:25,040 --> 00:01:28,000
+if we keep measuring the distance to all the planets as they spin,
+
+28
+00:01:28,000 --> 00:01:30,960
+Mercury is Earth's mostest closest neighbor.
+
+29
+00:01:30,960 --> 00:01:32,960
+Which is delightfully unexpected.
+
+30
+00:01:32,960 --> 00:01:35,440
+But wait, if Mercury is the mostest closest to Earth,
+
+31
+00:01:35,440 --> 00:01:38,640
+he has to be the mostest closest to Venus as well, right?
+
+32
+00:01:38,640 --> 00:01:40,960
+Because her orbit is smaller than Earth's.
+
+33
+00:01:40,960 --> 00:01:42,880
+And running the numbers, it's true.
+
+34
+00:01:42,880 --> 00:01:46,400
+Making Earth's special relationship with Mercury less special.
+
+35
+00:01:46,400 --> 00:01:50,160
+But at least this is one time where the line provides the obvious answer.
+
+36
+00:01:50,160 --> 00:01:52,160
+Mercury is closest to Venus.
+
+37
+00:01:52,160 --> 00:01:54,800
+While we're here, who is Mars's mostest closest?
+
+38
+00:01:54,800 --> 00:01:57,360
+On his other side is the asteroid belt.
+
+39
+00:01:57,360 --> 00:01:58,720
+So it should be Earth.
+
+40
+00:01:58,720 --> 00:02:00,320
+But maybe it's Venus.
+
+41
+00:02:00,320 --> 00:02:04,160
+Maybe the rule is the second closest is the mostest closest.
+
+42
+00:02:04,160 --> 00:02:06,080
+Watching the results and...
+
+43
+00:02:06,080 --> 00:02:08,320
+Oh my Celestia, it's Mercury again.
+
+44
+00:02:08,320 --> 00:02:12,160
+Mercury is the mostest closest to Earth, Venus and Mars.
+
+45
+00:02:12,160 --> 00:02:14,080
+For the same reason each time.
+
+46
+00:02:14,080 --> 00:02:18,080
+Bigger orbits make farther average distances for longer times.
+
+47
+00:02:18,080 --> 00:02:21,120
+So mercurial Mercury is the constantest companion.
+
+48
+00:02:21,680 --> 00:02:24,640
+No, no, it can't be true for Jupiter too.
+
+49
+00:02:24,640 --> 00:02:26,880
+Enormous far away Jupiter.
+
+50
+00:02:26,880 --> 00:02:27,680
+But it is!
+
+51
+00:02:27,680 --> 00:02:32,160
+Once again, Mercury's small orbit means he never goes as far away
+
+52
+00:02:32,160 --> 00:02:34,880
+as the other planets with their bigger orbits.
+
+53
+00:02:34,880 --> 00:02:36,560
+Thus, are you ready for this?
+
+54
+00:02:36,560 --> 00:02:40,880
+The orbital math that shows Mercury is the mostest closest to Jupiter
+
+55
+00:02:40,880 --> 00:02:46,000
+is the same for all the planets and everything that orbits the Sun.
+
+56
+00:02:46,000 --> 00:02:47,280
+You too, Pluto.
+
+57
+00:02:47,280 --> 00:02:52,160
+For each of the planets, Mercury is the mostest closest.
+

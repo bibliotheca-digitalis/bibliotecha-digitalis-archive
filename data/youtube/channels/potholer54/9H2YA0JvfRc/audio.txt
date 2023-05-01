@@ -1,0 +1,165 @@
+I'll give you the truth. I'll give you the facts without spin.
+Whenever YouTubers start a presentation with a statement like that, it's a red flag. Why
+did they feel the need to make a great show of telling you how honest they are in the
+same way that most undemocratic countries have to insist so forcefully that they're
+democratic? Later in the video we'll check the guy in the beanie hat's sources and
+see if he's as truthful as he claims to be. I was hoping to end this series on Covid,
+but several people asked me to fact-check claims that PCR tests don't work, so without
+further ado, let's go through the claims one by one, starting with this one, that PCR
+tests can't distinguish between a live virus and a non-infectious virus. This picture going
+around Facebook looks as though it comes from the Australian government, and in fact part
+of it does. It can be found here. And this particular claim is true.
+So we're off to a good start. PCR is a way of amplifying parts of DNA in order to make
+sample sizes large enough to be identified. It can do the same thing with RNA, the stuff
+SARS-CoV-2 is made of, by first converting it into DNA.
+Now there is a method for estimating the viral load, and it's dependent on the number of
+cycles a sample has to go through in order to be amplified enough for easy detection.
+But that's a little technical. All we need to know is that PCR can detect a virus and
+tell you whether someone is infected, but not necessarily whether they're still infectious.
+But then the Facebook claim starts to unravel. This means the test cannot distinguish in
+Covid from a cold or measles or Ebola. No, it doesn't mean that at all. And if you haven't
+guessed, that part of the statement doesn't come from virologists advising the Department
+of Health, it's just ungrammatical claptrap tacked on by some anonymous Facebook user
+and then passed around. But hey, this is the internet, where ungrammatical claptrap is
+just as good as scientific research. So if we want it to be true, all we have to do is
+believe it and pass it on. Unfortunately, too many people don't use the internet as
+a tool for serious investigation. It's a place where one person gets an idea and for no reason
+other than a willingness to believe, someone copies it and passes it on. And before you
+know it, it's gone viral and everyone is moving in the same direction without even
+understanding how or why the movement got started. Do your own research basically means
+checking to see if everyone else is following the same belief, and if they are, then it
+must be right. So if you want to know what the internet would look like if it took human
+form, it looks like this. I'll give you the truth. I'll give you the facts without spin.
+Now Bloke Inbini looks like the kind of guy I'd love to have a beer with, but I wouldn't
+necessarily trust him to give me the facts and the truth about polymerase chain reactions.
+He was one of three video makers highlighted by the Australian newspaper as what it calls
+an emerging group of coronavirus deniers telling its tens of thousands of followers that the
+pandemic is a government conspiracy. Of course, Bloke Inbini is welcome to his opinion, but
+he's not welcome to his own facts about PCR tests. Now these tests, the PCR testing wasn't
+invented for the coronavirus or COVID-19 to specifically test for that. These tests were
+invented way back for HIV and other things. Actually, they weren't designed for any specific
+DNA or any specific virus, and certainly not for HIV, which wasn't even identified and
+named until three years after PCR was invented. Carrie Mullis, the guy who came up with the
+idea for PCR, and his colleagues, let's not forget, discovered a method for copying DNA
+to make quantities that were easier to analyse. And that was a hugely useful tool in everything
+from forensics and botany to tracing your personal ancestry. Identifying viruses was
+simply another useful application. But now Bloke Inbini is going to quote Carrie Mullis
+directly, so that should clear things up. Now, I'm just going to read you a quote from the
+inventor of these tests. Now these tests... Hold on, he is going to quote Carrie Mullis,
+just a minute. And this is directly quoted from the doctor or Carrie B. Mullis, the person who
+invented these PCR tests. Okay, he's going to quote Carrie Mullis any second now. So what
+Carrie B. Mullis says, Remy and Damon, you might want to sort of get out your little pens and
+pencils and take... The Carrie Mullis quote is coming up now, this is it. I wouldn't even wipe
+my bum with that, but anyway. Now, the PCR basically takes a sample of your cells and
+amplifies any DNA, any DNA, to look for viral sequences, i.e. bits of non-human DNA that seem
+to match parts of a known viral genome. Now, in case you're doubting that these are the words
+of Carrie Mullis, just go to that source of the truth, the internet. Remember the mantra of
+conspiracy theorists, do your own research. That means if we put part of the text into a search
+engine and enough people are quoting the same thing, and all of them say it was written by
+Carrie Mullis, then that must be true. I mean, surely Bloke Inbini isn't just reading some
+nonsense he found on the internet, copied and pasted by someone else on the internet,
+from something that had been mindlessly passed around the internet by hundreds of other people,
+and not one of them bothered to fact check it, right? I mean, that would be too stupid for words.
+PCR basically takes a sample of your cells and amplifies any DNA. The problem is the test is
+known not to work. These are his words, not mine. It uses an amplification which means taking a
+very, very tiny amount of DNA and growing it exponentially until it can be analysed.
+Obviously any minute contaminations in the sample will also be amplified,
+leading to potentially gross areas of discovery. The idea these kits can isolate a specific virus
+like COVID-19 is nonsense. Well, as Bloke Inbini would say, the problem is that COVID-19 wasn't
+named until February 2020, and Carrie Mullis died in August 2019. So you won't see any comment from
+Carrie Mullis about COVID-19, and if you do, it's either a fake or it's the work of a mystic who's
+managed to contact him from beyond the grave. In other words, also fake. So where does it come
+from? Well, here's exactly the same chunk of text, but this time not attributed to Carrie Mullis,
+but to a nurse speaking out. Here's the same chunk of text, this time pasted onto a forum
+purporting to come from someone who works in the healthcare field. Over time the statement has been
+attributed to a nurse, someone who works in the healthcare field, a widely respected professional
+scientist, and of course the inventor of PCR dictating from beyond the grave. So where does
+it really come from? I'll give you the truth. No thanks, you've had your chance. The best way
+to find out who did write it is to put part of the text into the search bar again, and this time
+use time parameters in the search engine. I kept tracking the quote back until I found what seems
+to be the second oldest version of it in a March 21 blog called Revealing Fraud. It cited a blog
+called Occam's Razor Terror Events, and there it was, sandwiched between 9-11 conspiracy theories
+and claims that the pandemic is a hoax designed to exert mind control. So the author is a blogger.
+Now that may sound like an impeccable source if you think that anything you read on a blog
+must be true, but we can all agree it's not Carrie Mullis. So there you go, I thought I would just
+clear that up for you, so if you'd like, you know, share this around for a bit of clarity. So even
+though we know that Bloke Inbini's just passing on something he read on the internet without
+checking it, and even though this quote doesn't come from Carrie Mullis, he's asking you to pass
+it on without checking it, so that's not really clearing anything up, it's just acting like a
+bunch of people who believe anything they see on the internet. There's also another quote attributed
+to Carrie Mullis during the rounds, these PCR tests cannot detect free infectious viruses at
+all. So is that one genuine? Well this one's being passed around by someone who laughably calls
+himself to your own research, because of course the extent of his research was to read this on
+a website and then repeat it. If he did any further research it was just to put the quote
+into a search engine and discover that a lot of other people on the internet are also saying
+Carrie Mullis said this, pass it along. And under internet rules, if enough people are
+copying and pasting the same thing, then it must be true. But none of them say where the quote comes
+from or what it's referring to. So let's not just follow the flock, let's do some proper research
+and find out, again by tracking this disembodied quote back with a time search. It comes from this
+1998 article by John Lauritsen about HIV AIDS. Not only was the quote wrongly attributed to
+Carrie Mullis, Lauritsen's explanation of what he was talking about is entirely missing. So let's
+put it back. Lauritsen never said PCR can't identify viruses but they can't measure the
+quantity of viruses as we've seen. To use an analogy it's a bit like being asked to identify
+what type of car is being produced at an auto plant. I can't tell you how many cars there
+are in the plant's holding area but I can tell you what make and model they are. Okay, so let's
+turn it over to the forum now. Does anyone have any questions? Yes, Julian French. Why are there
+so many videos of empty hospitals? Why aren't we discussing healthy lifestyles? Where has the flu
+gone? Why are the local elitists making billions of money? Okay, I mean questions about PCR.
+Why did a Cambridge PCR test study of 10,000 people show 100% of their positives to be false?
+Even though Julian French doesn't give a source for this information, of course he doesn't,
+it was quite easy to find this copied and pasted around the echo chamber of the internet,
+each time with a slightly different wording. So here's someone who posted the claim with
+some figures. 9,000 plus students were tested at Cambridge University in the week up to December 6
+and every single one was found to be a false positive after a second test. Wow,
+so how many is that? Hundreds? Thousands? That's not conjecture, says the tweeter,
+that's Cambridge's own data. So does that mean the writer actually did her own research?
+Yes, because in internet land doing your own research means reading a tweet from someone else
+and mindlessly passing it on. And here's the tweet she passed on.
+100% false positive rate found at Cambridge University colleges following retests. The
+truth is emerging very quickly now. Retweet. Nah, instead of mindlessly retweeting this dubious
+claim, let's do some research and actually check the source it gives. In other words,
+Cambridge's own data. Here it is. The false positive rate for all pooled screening tests
+to date has been 1 in 373. 0.3%. That's very different to 100%.
+The Twittersphere is out by a factor of over 300. So how did that happen?
+Well, first we need to understand what a false positive rate is.
+Here are 9,000 students, each figure representing 100 people, about to get tested. We'll say 1,000
+of them have coronavirus and just focus on those who aren't infected. That means there are 8,000
+people in the group who don't have coronavirus lining up to get tested. When the results of
+the tests come in, they all show a negative result except for 200 people whose samples
+are mistakenly read as positive. So these are false positives. That's what a false positive
+means. It means you're negative but you mistakenly show up as a positive. So the way the false
+positive rate is calculated is to take the number of false positives and divide it by the number of
+false positives plus the number of true negatives. In our example, the false positive rate is
+200 out of 8,000, or 2.5%. So how did the Twitters end up with 100%?
+The first step to misrepresenting the Cambridge survey is to get the calculation wrong. Instead
+of dividing the number of false positives by the number of negatives plus false positives,
+which is the formula, whoever started this internet chatter divided the number of false
+positives by the number of positives. The next step is a familiar device known as cherry picking.
+Obviously, in a population with a very low infection rate, the number of true positives
+is going to be very low. So the percentage of false positives over true positives will be
+higher. When you get down to no infections at all, any positive readings you do get will,
+of course, be false. So when the amateurs took a look at the weekly results from Cambridge
+University, guess which week they cherry picked? Of course, the only week when there were no
+infections at all. There were only 10 positives out of 9,376 people tested, and since no one was
+infected, they were all false. So to answer Julian French's question, how come testing of 10,000
+people show 100% of their positives to be false, the reason is that none of the nearly 10,000
+people was infected according to testing. So dividing any false positive figure by itself,
+even if it was just one false positive test out of a million people tested, would of course
+automatically give you 100%. The real false positive rate for that week was just 0.1%.
+And as we've seen for the totality of the survey, it was 0.3%, which is not far off other estimates
+for false positive rates. You'll find these studies listed in the video description.
+So here's a suggestion to people like Julian French, Good PR Anna, Do Your Own Research,
+Julia Hartley-Brewer, and all the other members of the flock. If you read messages giving you
+some information and telling you to pass it on, you've got three choices. Either you can ignore
+it, which is a sensible thing to do if you don't know whether the information is true or not,
+or you could follow the crowd and do as you're told and mindlessly pass it on,
+or you spend just a few minutes checking the information by going to the source. See if it
+says what the tweeters and retweeters and re-retweeters believe it says. Don't follow a
+person, follow the information trail. It could be the start of a whole new experience of thinking
+for yourself. If you'd like to donate money to this channel, please don't. The best way to
+support it is to donate to a charity that I strongly endorse, which is detailed in the
+video description and on the link to this video. It provides healthcare for people living on the
+edge of tropical forests in exchange for not cutting down trees, something they were forced
+to do in the past to pay for medical treatment. It's had huge success in Indonesia and is now
+expanding into Madagascar and Brazil. Thanks to all those who've donated in the past,
+and intend to do so now.

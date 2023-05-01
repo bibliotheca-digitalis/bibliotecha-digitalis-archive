@@ -1,0 +1,864 @@
+1
+00:00:00,000 --> 00:00:06,540
+There is a discrepancy between what the observations are showing, which shows about an average
+
+2
+00:00:06,540 --> 00:00:13,720
+of 0.13 degrees C per decade warming, which is a very small number, compared to the climate
+
+3
+00:00:13,720 --> 00:00:17,580
+models which are generally twice that at least.
+
+4
+00:00:17,580 --> 00:00:22,220
+My thanks to those who cited this interview with Roy Spencer a few weeks back, claiming
+
+5
+00:00:22,220 --> 00:00:25,460
+that global warming is far less than models predicted.
+
+6
+00:00:26,000 --> 00:00:30,260
+Actually, he's been saying the same thing for three decades, and in this video I'll
+
+7
+00:00:30,260 --> 00:00:34,940
+look at that claim. So let's start with whether measurements show that the Earth's temperature
+
+8
+00:00:34,940 --> 00:00:43,080
+is rising at 0.13 degrees C per decade. The answer is yes, if we only look at Roy Spencer
+
+9
+00:00:43,080 --> 00:00:49,340
+and John Christie's analysis of the satellite data at the University of Alabama at Huntsville,
+
+10
+00:00:50,340 --> 00:00:55,980
+If we look at all the other temperature monitoring bodies, they all show warming of about 0.18
+
+11
+00:00:55,980 --> 00:01:02,280
+degrees C per decade. If you think satellites are more reliable than ground stations, well
+
+12
+00:01:02,280 --> 00:01:07,600
+the analysis by the other satellite monitoring body, Remote Sensing Systems, that's the
+
+13
+00:01:07,600 --> 00:01:15,080
+purple line at the top, also shows warming of about 0.18 degrees C per decade.
+
+14
+00:01:15,080 --> 00:01:20,880
+Radiosonde balloons, which, like the satellites, are measuring temperatures in the lower troposphere,
+
+15
+00:01:20,880 --> 00:01:26,880
+show even higher rates of warming. And an average of all the tropospheric measurements,
+
+16
+00:01:26,880 --> 00:01:34,020
+including Spencer's UAH analysis, gives a warming trend of, again, 0.18 degrees C per
+
+17
+00:01:34,020 --> 00:01:40,580
+decade. And the temperature trend conforms pretty well to the predictions of the models.
+
+18
+00:01:40,580 --> 00:01:45,500
+Several independent studies have been done, and they've found a close match. The most
+
+19
+00:01:45,500 --> 00:01:52,220
+recent study, a 2020 analysis in Geophysical Research Letters, found that 14 out of 17
+
+20
+00:01:52,220 --> 00:01:58,240
+models closely matched observations for a given concentration of CO2. For a more detailed
+
+21
+00:01:58,240 --> 00:02:03,420
+explanation of their results, please see the video description with a link to the study.
+
+22
+00:02:03,420 --> 00:02:08,940
+All my sources are listed in the video description, along with links.
+
+23
+00:02:08,980 --> 00:02:14,180
+A couple of the models reviewed are more than twice the temperature trend Spencer calculated,
+
+24
+00:02:14,180 --> 00:02:21,500
+which would be over 0.26 degrees C per decade, but there's also one that's way under, so
+
+25
+00:02:21,500 --> 00:02:27,500
+it's very easy to cherry pick. But the fact is that most of the models match the actual
+
+26
+00:02:27,500 --> 00:02:32,680
+trend shown by every temperature dataset except Spencer's.
+
+27
+00:02:32,680 --> 00:02:36,740
+So the next question is, how reliable is Spencer's analysis?
+
+28
+00:02:36,740 --> 00:02:40,380
+The advantage to it is that it's from satellites and it covers the whole Earth. There's no
+
+29
+00:02:40,380 --> 00:02:43,420
+other temperature dataset that covers the whole Earth.
+
+30
+00:02:43,420 --> 00:02:48,620
+Actually, there is. There's the analysis by Remote Sensing Systems, which also gets its
+
+31
+00:02:48,620 --> 00:02:53,960
+data from the same satellite and covers the whole Earth. As we've seen, their results
+
+32
+00:02:53,960 --> 00:02:58,340
+don't agree with Spencer's. They agree much more closely with all the other temperature
+
+33
+00:02:58,340 --> 00:02:59,340
+measurements.
+
+34
+00:02:59,340 --> 00:03:05,040
+OK, then, maybe Spencer and his colleague, John Christie, have a much better track record
+
+35
+00:03:05,040 --> 00:03:10,040
+than anyone else in getting their temperature analysis right. And that's why we should
+
+36
+00:03:10,040 --> 00:03:14,480
+only trust their results and ignore all the others.
+
+37
+00:03:14,480 --> 00:03:20,120
+In fact, the opposite is true. In the 1990s, their temperature dataset was again out of
+
+38
+00:03:20,120 --> 00:03:24,480
+sync with all the others. Spencer claimed their satellite measurements – the line
+
+39
+00:03:24,480 --> 00:03:29,760
+at the bottom with the black dots – showed not a warming but a cooling trend of about
+
+40
+00:03:29,760 --> 00:03:34,340
+0.1 degrees C per decade in the tropics.
+
+41
+00:03:34,340 --> 00:03:38,580
+The graph they published showed the ground temperature data on the top line with a clear
+
+42
+00:03:38,580 --> 00:03:41,100
+warming trend.
+
+43
+00:03:41,100 --> 00:03:45,920
+When two researchers published evidence in 1997 that Spencer and Christie's observations
+
+44
+00:03:45,920 --> 00:03:51,260
+must be wrong, Spencer said there isn't a problem with the measurements that we can
+
+45
+00:03:51,260 --> 00:03:58,780
+find. And in a speech to the Competitive Enterprise Institute in 1997, he argued that his results
+
+46
+00:03:58,780 --> 00:04:05,140
+have an independent validation, which he said surface measurements don't.
+
+47
+00:04:05,140 --> 00:04:10,900
+As now, Spencer used his observations to argue that the warming predictions were wrong. He
+
+48
+00:04:10,900 --> 00:04:16,640
+said the models that originally predicted warming of around 0.3 degrees C per decade
+
+49
+00:04:16,640 --> 00:04:23,340
+but had now reduced that to 0.18 degrees. If that figure sounds familiar, we saw earlier
+
+50
+00:04:23,340 --> 00:04:28,500
+that that's not only the prediction of the models for actual CO2 concentration, it's
+
+51
+00:04:28,500 --> 00:04:33,980
+also the amount of warming measured by RSS and all the ground stations.
+
+52
+00:04:33,980 --> 00:04:39,460
+Spencer didn't disagree that CO2 is a greenhouse gas, but he argued that since the troposphere
+
+53
+00:04:39,460 --> 00:04:45,060
+wasn't warming as expected then nature must be getting rid of the excess heat, a temperature
+
+54
+00:04:45,060 --> 00:04:47,860
+stabilising mechanism.
+
+55
+00:04:47,860 --> 00:04:54,980
+It wasn't until 2005 that researchers at the other satellite analysis institute, RSS,
+
+56
+00:04:54,980 --> 00:04:59,700
+finally discovered the error in Spencer and Christie's calculations.
+
+57
+00:04:59,700 --> 00:05:05,740
+Put simply, the orbit of the temperature measuring satellite degrades over time. As a result,
+
+58
+00:05:05,740 --> 00:05:11,620
+daily temperatures get taken later and later in the day, which gives a false lower reading.
+
+59
+00:05:11,620 --> 00:05:16,140
+Spencer and Christie had adjusted their data to take account of this, but they'd made
+
+60
+00:05:16,140 --> 00:05:21,900
+a mathematical error. When the error was corrected, their temperature readings went from a flat
+
+61
+00:05:21,900 --> 00:05:31,140
+line of 0.087 to 0.19 degrees C per decade in line with everyone else, and in line with
+
+62
+00:05:31,140 --> 00:05:36,820
+the models, which Spencer himself had said predicted warming of around 0.18 degrees C
+
+63
+00:05:36,820 --> 00:05:38,500
+per decade.
+
+64
+00:05:38,500 --> 00:05:45,740
+Spencer later argued on his blog that this was only one error in 25 plus years. Actually,
+
+65
+00:05:45,740 --> 00:05:51,700
+there were others, but this was the most egregious, and it was a hugely important error because
+
+66
+00:05:51,700 --> 00:05:57,300
+the ambiguities set climate science back a decade, and it was one of the first claims
+
+67
+00:05:57,300 --> 00:06:02,300
+that launched the so-called sceptic movement on social media.
+
+68
+00:06:02,300 --> 00:06:06,620
+Now it was clear that the world was indeed warming, Spencer had to drop the argument
+
+69
+00:06:06,620 --> 00:06:11,900
+that weather systems were ridding the world of the excess heat caused by rising CO2 levels,
+
+70
+00:06:11,900 --> 00:06:16,340
+because clearly they weren't. But he still didn't want to drop his belief that the
+
+71
+00:06:16,340 --> 00:06:23,380
+earth must have some kind of natural self-regulating mechanism that would somehow stop the warming.
+
+72
+00:06:23,380 --> 00:06:28,280
+That idea doesn't work if carbon dioxide is responsible, because it would mean that temperatures
+
+73
+00:06:28,280 --> 00:06:33,540
+would keep going up as long as we keep adding CO2 to the atmosphere.
+
+74
+00:06:33,540 --> 00:06:38,820
+So he started looking around for some other reason for the warming. In 2008 he told a
+
+75
+00:06:38,820 --> 00:06:45,160
+Heritage Foundation conference there's probably a natural reason for it. In a blog contribution
+
+76
+00:06:45,160 --> 00:06:50,900
+that same year, he predicted that further research will reveal some other cause, maybe
+
+77
+00:06:50,900 --> 00:06:58,040
+the sun or a change in cloudiness, perhaps due to changes in the Pacific Decadal Oscillation.
+
+78
+00:06:58,040 --> 00:07:03,080
+But further research didn't show that. Solar physicists showed that solar activity was
+
+79
+00:07:03,080 --> 00:07:08,760
+falling so the sun couldn't be pushing global temperatures up, and further research showed
+
+80
+00:07:08,760 --> 00:07:14,360
+that for over 100 years there was no trend in the Pacific Decadal Oscillation compared
+
+81
+00:07:14,360 --> 00:07:20,040
+to the upward trend in global temperature. As for clouds, Spencer's argument was that
+
+82
+00:07:20,040 --> 00:07:26,280
+they're nature's sunshade, so if there's a decrease in cloud cover you get warming.
+
+83
+00:07:26,280 --> 00:07:31,060
+How could the experts have missed such a simple explanation, he asked?
+
+84
+00:07:31,060 --> 00:07:35,280
+Well they hadn't. Experts had done a huge amount of research into the cooling effect
+
+85
+00:07:35,280 --> 00:07:41,120
+of clouds. What they didn't miss was the fact that as well as being nature's sunshade, clouds
+
+86
+00:07:41,120 --> 00:07:47,880
+are also nature's blanket. They reflect shortwave energy from the sun back into space on top,
+
+87
+00:07:47,880 --> 00:07:54,920
+but also trap longwave radiation, heat energy, on Earth from below. What studies found was
+
+88
+00:07:54,920 --> 00:08:00,560
+that the warming effect is much more pronounced on high altitude clouds at night and at higher
+
+89
+00:08:00,560 --> 00:08:06,640
+latitudes and the cooling effect is greater with low altitude clouds during the day closer
+
+90
+00:08:06,640 --> 00:08:12,860
+to the tropics. Looking at both of these effects, and not just one, the net effect
+
+91
+00:08:12,860 --> 00:08:19,320
+of an increase in cloud cover is zero to slightly positive. So if anything, studies show a decrease
+
+92
+00:08:19,320 --> 00:08:24,640
+in cloud cover would cause a very slight cooling, not warming.
+
+93
+00:08:24,640 --> 00:08:29,840
+Spencer's belief that there's probably a natural reason for global warming and his feeling
+
+94
+00:08:29,840 --> 00:08:35,320
+that the Earth has a natural air conditioning process sounds like an article of faith, well
+
+95
+00:08:35,320 --> 00:08:41,080
+there's a good reason for that. Spencer has made no secret of his belief that God is directing
+
+96
+00:08:41,080 --> 00:08:48,440
+the climate. He's a member, and also on the advisory board, of an evangelical organisation
+
+97
+00:08:48,440 --> 00:08:54,240
+called the Cornwall Alliance that believes the Earth and its ecosystems, created by God's
+
+98
+00:08:54,240 --> 00:09:00,040
+intelligent design and infinite power and sustained by his faithful providence, are
+
+99
+00:09:00,040 --> 00:09:08,820
+robust, resilient, self-regulating and self-correcting. Earth's climate system is no exception.
+
+100
+00:09:08,820 --> 00:09:13,320
+Now there's nothing wrong with personal religious belief and millions of scientists around the
+
+101
+00:09:13,320 --> 00:09:19,320
+world are Christians, Jews, Hindus, Buddhists and Muslims who believe in all kinds of deities.
+
+102
+00:09:19,320 --> 00:09:24,900
+That's not the issue. The problem arises when a widely accepted scientific conclusion is
+
+103
+00:09:24,900 --> 00:09:30,560
+specifically precluded by that religious belief. When Spencer expounds his ideas of
+
+104
+00:09:30,560 --> 00:09:36,780
+some unknown self-regulating system keeping global warming in check in speeches, letters
+
+105
+00:09:36,780 --> 00:09:43,200
+to politicians, blogs and TV interviews, people assume he's talking as a scientist. They may
+
+106
+00:09:43,200 --> 00:09:49,140
+not be aware that what he's saying is indistinguishable from his religious doctrine that there must
+
+107
+00:09:49,140 --> 00:09:54,700
+be a self-regulating system because God would never let the climate warm beyond a comfortable
+
+108
+00:09:54,700 --> 00:10:00,500
+level. It's very clear to geologists, and this is my field, that the Earth does not
+
+109
+00:10:00,500 --> 00:10:06,440
+have a self-regulating system that keeps temperatures stable because they've gone much higher and
+
+110
+00:10:06,440 --> 00:10:12,300
+lower in the past. A million years ago there was a glaciation called the Calabrian with
+
+111
+00:10:12,300 --> 00:10:17,140
+ice sheets across most of the continents. Fifty million years ago there was what's called
+
+112
+00:10:17,140 --> 00:10:23,940
+a hot house or greenhouse period in the late Cretaceous. And before that a cool period.
+
+113
+00:10:23,940 --> 00:10:30,500
+And before that another greenhouse. And before that an ice age. And before that a greenhouse.
+
+114
+00:10:30,500 --> 00:10:36,520
+And before that an ice age. And before that, 500 million years ago, there was another greenhouse
+
+115
+00:10:36,520 --> 00:10:42,780
+with coral reefs near the North Pole. The range in temperatures between these extremes
+
+116
+00:10:42,780 --> 00:10:48,680
+is around 13 degrees centigrade. If you want to see why these changes have occurred, see
+
+117
+00:10:48,680 --> 00:10:54,760
+my video The History of the Earth in 33 Minutes. But even if you don't accept the scientific
+
+118
+00:10:54,760 --> 00:11:00,160
+explanation for these changes, the idea that there's a self-regulating mechanism or that
+
+119
+00:11:00,160 --> 00:11:06,760
+God or a force of nature would never let temperatures rise above 1 or 2 degrees centigrade is clearly
+
+120
+00:11:06,760 --> 00:11:12,520
+not supported by evidence from the past. Unless you believe the Earth's geological history
+
+121
+00:11:12,520 --> 00:11:20,320
+only goes back 6,500 years. But back to more recent history. No sooner
+
+122
+00:11:20,320 --> 00:11:27,040
+had Spencer and Christie's UAH satellite analysis been corrected than RSS had its own problems
+
+123
+00:11:27,040 --> 00:11:34,440
+with satellite data. Just like UAH in the 1990s, while every other data set showed warming,
+
+124
+00:11:34,440 --> 00:11:41,120
+RSS showed none, or even a slight cooling. Of course it was pretty obvious to climatologists
+
+125
+00:11:41,120 --> 00:11:46,400
+that there was something wrong with RSS's analysis. In his blog, Spencer wrote that
+
+126
+00:11:46,400 --> 00:11:52,380
+even his boss, John Christie, thought that the temperature recorded by RSS data was undergoing
+
+127
+00:11:52,380 --> 00:11:59,400
+spurious cooling. In other words, it's wrong. Most likely caused, again, by a decaying satellite
+
+128
+00:11:59,400 --> 00:12:03,680
+orbit. And Spencer added that those of you who really,
+
+129
+00:12:03,680 --> 00:12:08,040
+really need the global temperature record to show as little warming as possible might
+
+130
+00:12:08,040 --> 00:12:14,920
+want to consider jumping ship and switch from the UAH to the RSS data set. I'm sure
+
+131
+00:12:14,920 --> 00:12:21,200
+it was meant as a joke, but that's exactly what they did. Now that UAH had admitted the
+
+132
+00:12:21,200 --> 00:12:27,880
+world was indeed warming, and it was the RSS data that flatlined, suddenly it was the RSS
+
+133
+00:12:27,880 --> 00:12:32,680
+data set that was brought out every time the critics wanted to prove that global warming
+
+134
+00:12:32,680 --> 00:12:36,560
+had stopped. There's been no significant warming whatsoever.
+
+135
+00:12:36,560 --> 00:12:43,120
+The satellites show no global warming at all. Well, one analysis of the satellite data showed
+
+136
+00:12:43,120 --> 00:12:48,800
+no warming. The other satellite data analysis, by John Christie and Roy Spencer, did show
+
+137
+00:12:48,800 --> 00:12:54,960
+warming. Same with all the ground temperature data over the same period.
+
+138
+00:12:54,960 --> 00:12:59,860
+The same cherry-picked RSS graph was passed around blogs held up in congressional committee
+
+139
+00:12:59,860 --> 00:13:06,480
+hearings, featured in political reports, shown on TV, and wheeled out during political conferences,
+
+140
+00:13:06,480 --> 00:13:14,020
+until finally, in 2017, RSS found and published the source of its error.
+
+141
+00:13:14,020 --> 00:13:19,540
+As Christie and the other experts had predicted, when the faults were corrected, RSS data showed
+
+142
+00:13:19,540 --> 00:13:25,540
+a warming trend that matched the warming trend measured by everyone else. And it showed warming
+
+143
+00:13:25,540 --> 00:13:33,700
+of around, guess what, 0.18 degrees centigrade per decade for the last 35 years.
+
+144
+00:13:33,700 --> 00:13:39,600
+So why does satellite analysis, once lauded as the best data available, keep giving wrong
+
+145
+00:13:39,600 --> 00:13:45,080
+numbers? The problem is, there's just one satellite gathering data, and it isn't simply
+
+146
+00:13:45,080 --> 00:13:50,120
+pointing thermometers at the atmosphere and taking the temperature. The process is far
+
+147
+00:13:50,120 --> 00:13:56,940
+more complicated than that. It measures microwave radiance from oxygen atoms, and from that
+
+148
+00:13:56,940 --> 00:14:02,860
+researchers calculate the energy of the atoms. And from that energy, they calculate the temperature
+
+149
+00:14:02,860 --> 00:14:08,960
+of the atoms in that part of the troposphere using a model called the retrieval algorithm.
+
+150
+00:14:08,960 --> 00:14:14,940
+Then UAH subtracts what they estimate is the radiative effect from the ground. Finally,
+
+151
+00:14:14,940 --> 00:14:19,440
+they have to calculate the position of the satellite and adjust the data to take account
+
+152
+00:14:19,440 --> 00:14:23,880
+of its changing orbit. Spencer and Christie developed this model
+
+153
+00:14:23,880 --> 00:14:28,500
+back in the 1980s, and it was certainly a brilliant method of measuring the temperature
+
+154
+00:14:28,500 --> 00:14:34,760
+of the lower troposphere, in theory. But in practice, it's complicated and flawed,
+
+155
+00:14:34,760 --> 00:14:39,100
+and frequently underestimates global temperature trends.
+
+156
+00:14:39,100 --> 00:14:43,420
+If any conspiracy theorists think that this is just a plot by scientists to change data
+
+157
+00:14:43,420 --> 00:14:49,120
+they don't like, I should point out that Spencer and Christie themselves have published corrections
+
+158
+00:14:49,120 --> 00:14:59,120
+in 1992, 1994, 1997, 1998, 2003 and 2004. Each time they made a correction, it adjusted
+
+159
+00:14:59,120 --> 00:15:04,680
+the actual tropospheric temperature higher. They also accepted the major error found by
+
+160
+00:15:04,680 --> 00:15:14,660
+RSS in 2005, and they accepted the revision RSS made to its own faulty data in 2017.
+
+161
+00:15:14,660 --> 00:15:20,160
+So given the track record of satellite analysis, it's not a huge surprise that UAH temperature
+
+162
+00:15:20,160 --> 00:15:26,300
+measurements have again been drifting below all the others. That's why it's misleading
+
+163
+00:15:26,300 --> 00:15:37,180
+to report this as the actual temperature trend, and ignore all the others.
+
+164
+00:15:37,180 --> 00:15:41,380
+Apart from his belief that there should be a negative feedback system to counteract global
+
+165
+00:15:41,380 --> 00:15:46,720
+warming, Spencer's other argument is, or rather was, that the main positive feedback
+
+166
+00:15:46,720 --> 00:15:52,920
+anticipated by researchers wouldn't happen. That's an increase in water vapour.
+
+167
+00:15:52,920 --> 00:15:57,980
+The models predict that as more CO2 is added to the atmosphere, the amount of water vapour
+
+168
+00:15:57,980 --> 00:16:02,920
+in the atmosphere increases, because there's more evaporation and warmer air can hold more
+
+169
+00:16:02,920 --> 00:16:10,220
+water vapour. Since water vapour is a powerful greenhouse gas, that amplifies the warming.
+
+170
+00:16:10,260 --> 00:16:16,040
+Back in 1997, Spencer didn't disagree that water vapour is a powerful greenhouse gas,
+
+171
+00:16:16,040 --> 00:16:21,240
+and any increase could produce positive feedback. He just didn't think such an increase would
+
+172
+00:16:21,240 --> 00:16:26,400
+happen. But his prediction was wrong. Studies measuring
+
+173
+00:16:26,400 --> 00:16:32,400
+water vapour in the atmosphere over the next 20 years did find a change, an increase, just
+
+174
+00:16:32,400 --> 00:16:38,160
+as the models had predicted. This wasn't the only prediction Spencer's got wrong over
+
+175
+00:16:38,160 --> 00:16:45,480
+the years. Also, in 1997, he expressed little confidence we'd even see 1 to 1.5 degrees
+
+176
+00:16:45,480 --> 00:16:51,160
+of warming by the end of this century. But we've already seen a 1 degree centigrade
+
+177
+00:16:51,160 --> 00:16:56,660
+rise in line with the models, and it's only 2022.
+
+178
+00:16:56,660 --> 00:17:01,280
+In 2012, he predicted this. We may see very little warming in the future.
+
+179
+00:17:01,280 --> 00:17:07,020
+That prediction was also wrong. Even Spencer's own data showed continued warming, just as
+
+180
+00:17:07,020 --> 00:17:13,140
+the models had predicted. And, as he admitted on his blog, all of the next six years were
+
+181
+00:17:13,140 --> 00:17:19,300
+warmer than 2012, and four of them were the warmest ever recorded.
+
+182
+00:17:19,300 --> 00:17:23,500
+As more and more of his predictions failed, and increasingly the warming we're seeing
+
+183
+00:17:23,500 --> 00:17:28,100
+matched the predictions of the models, it became harder for Spencer to claim there was
+
+184
+00:17:28,100 --> 00:17:33,900
+no warming, or that CO2 wasn't the cause. So his position has shifted over the last
+
+185
+00:17:33,900 --> 00:17:38,460
+25 years. Regarding tropospheric temperatures, he moved
+
+186
+00:17:38,460 --> 00:17:43,420
+from claiming there's a cooling trend, and it's unlikely temperatures will increase even
+
+187
+00:17:43,420 --> 00:17:48,460
+1 to 1.5 degrees centigrade by the end of this century, to an admission that it was
+
+188
+00:17:48,460 --> 00:17:54,320
+actually warming faster than that, and then to a claim that we'd see no more warming,
+
+189
+00:17:54,320 --> 00:17:58,900
+and then to an admission that there was more warming, and last year, an assertion that
+
+190
+00:17:58,900 --> 00:18:04,860
+warming will reach 1.5 to 2 degrees centigrade when CO2 concentration doubles, late in the
+
+191
+00:18:04,860 --> 00:18:09,900
+21st century. As for carbon dioxide, in the 1990s he argued
+
+192
+00:18:09,900 --> 00:18:15,340
+that it wasn't causing any warming because nature was getting rid of the excess heat.
+
+193
+00:18:15,340 --> 00:18:20,100
+In 2008, after his temperature measurements were shown to be wrong, he said the warming
+
+194
+00:18:20,100 --> 00:18:24,740
+was nothing to do with CO2. Four years later, he said this.
+
+195
+00:18:24,740 --> 00:18:28,780
+I think that most of the warming we've seen could well be natural.
+
+196
+00:18:28,780 --> 00:18:32,100
+Or to put it another way, I think some of that warmth is due to the
+
+197
+00:18:32,100 --> 00:18:36,100
+CO2 we're producing. And a few seconds later, it goes up to half.
+
+198
+00:18:36,100 --> 00:18:40,420
+I think about half of it's natural. A year later in his blog, he changed that
+
+199
+00:18:40,420 --> 00:18:47,260
+to, could be mostly human caused. So over the last 25 years, Spencer's temperature
+
+200
+00:18:47,260 --> 00:18:54,180
+predictions have slowly risen from negligible warming to almost match published estimates.
+
+201
+00:18:54,180 --> 00:18:58,660
+And his view about the role of carbon dioxide in this warming have moved up from none to
+
+202
+00:18:58,660 --> 00:19:04,960
+some to half to most. Despite doing numerous TV and vlog interviews,
+
+203
+00:19:04,960 --> 00:19:10,500
+no one seems to have noticed this subtle shift in position over the last 25 years or asked
+
+204
+00:19:10,500 --> 00:19:15,380
+Spencer about it. So this brings us back to where we started.
+
+205
+00:19:15,380 --> 00:19:20,220
+Far from failing, the climate models have proved to be remarkably accurate, while Spencer's
+
+206
+00:19:20,220 --> 00:19:26,060
+predictions pretty much all failed. Spencer has had to change his position several
+
+207
+00:19:26,060 --> 00:19:31,720
+times to keep up and has moved closer and closer to the published science.
+
+208
+00:19:31,720 --> 00:19:37,860
+So will he take that extra last step? My prediction is that he can't.
+
+209
+00:19:37,860 --> 00:19:43,460
+If he accepts that the increase in CO2 concentration is responsible for recent warming, that would
+
+210
+00:19:43,460 --> 00:19:48,980
+go against his fundamental religious belief that God is in charge of the climate.
+
+211
+00:19:49,020 --> 00:19:55,140
+And if he accepts that a doubling of CO2 concentration will lead to a rise of around 3 degrees centigrade
+
+212
+00:19:55,140 --> 00:20:00,320
+and keep rising as we burn more fossil fuels, then his doctrine that God has given the Earth
+
+213
+00:20:00,320 --> 00:20:06,180
+a self-regulating climate is dead. Abandoning a scientific conclusion in the
+
+214
+00:20:06,180 --> 00:20:12,460
+face of overwhelming contrary evidence is easy. Abandoning a fundamental religious belief
+
+215
+00:20:12,460 --> 00:20:14,540
+seems to be much, much harder.
+
+216
+00:20:18,980 --> 00:20:22,980
+For more UN videos visit www.un.org
+

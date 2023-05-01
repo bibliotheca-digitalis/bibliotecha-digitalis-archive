@@ -1,0 +1,32 @@
+The main video is talking about a genetic breeding model of how to make machines learn.
+This method is simpler to explain or just show.
+Here's a machine learning to walk or play Mario or jump real high.
+A genetic code is an older code but it still checks out
+and I personally suspect in the future genetic models will have a resurgence as compute power approaches crazy paths.
+However, the current hotness is deep learning and recursive neural networks
+and that's where the linear algebra really increases and explainability in a brief video really decreases.
+But if I had to kind of explain how they work in a footnote just for the record, it's like this.
+No infinite warehouse, just one student.
+TeacherBot has the same test but this time BuilderBot is Dial Adjustment Bot
+where each dial is how sensitive one connection in the student bot's head is.
+There's a lot of connections in its head so a lot of dials.
+A lot a lot.
+TeacherBot shows StudentBot a photo and Dial Adjustment Bot adjusts that dial stronger or weaker
+to get StudentBot closer to the answer.
+It's a bit like adjusting the dial on a radio.
+Is that still a thing? Do cars have radios still?
+I don't know. Anyway, you might not know the exact frequency of the station
+but you can tell if you're getting closer or further away.
+It's like that but with a hundred thousand dials and a lot of math.
+And that's just for one test question.
+When TeacherBot introduces the next photo, Dial Adjustment Bot needs to adjust all the dials
+so that StudentBot can answer both questions.
+As the test gets longer, this becomes an insane amount of math and fine-tuning for Dial Adjustment Bot.
+But when it's done, there's a StudentBot who can do a pretty good job at recognizing new photos
+though still suffers from some of the problems mentioned in the main video.
+Anyway, that's the most baby's first introduction to neural networks you will ever hear.
+If it sounds interesting to you and you like math and code, go dig into the details.
+Machines that learn are the future of everything.
+Maybe quite literally the future of everything.
+And given what we put them through, may the bots have mercy on us all.
+Thank you for watching!

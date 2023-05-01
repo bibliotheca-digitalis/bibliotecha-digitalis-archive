@@ -1,0 +1,80 @@
+start	end	text
+0	4080	Queen Lion of the Animal Kingdom is displeased.
+4080	7400	She recently introduced elections for the office of king using the first-past-the-post
+7400	8400	voting system.
+8400	12720	While her realm started out as a healthy democracy with many parties running candidates for king,
+12720	16720	it quickly devolved into two-party rule with the citizens not liking either one, but trapped
+16720	19720	within the system because of a problem called the spoiler effect.
+19720	23800	However, one of Queen Lion's subjects from a distant land, Wallaby, has a solution – the
+23800	24800	alternative vote.
+24800	25800	What's the difference?
+26200	30600	To find out, let's follow one voter on election day, Red Squirrel, under both systems.
+30600	35040	There are five candidates running for king – two members of the big parties, Gorilla
+35040	39180	and Leopard, and three other candidates, Turtle, Owl, and Tiger.
+39180	43320	Under first-past-the-post, Red Squirrel gets a ballot where he picks just one candidate.
+43320	45960	Red Squirrel really likes Turtle and even campaigned for him.
+45960	49880	However, he knows that his new neighbor, Gray Squirrel, is voting Gorilla.
+49880	53160	And what, starts to wonder, Red Squirrel, about all the other animals?
+53160	54820	Who are they going to vote for?
+54820	58300	The debates on the Animal News Network only had the big parties, so Red Squirrel thinks
+58300	61380	it's going to be a close race between Gorilla and Leopard.
+61380	64820	While he's indifferent toward Gorilla, he's deathly afraid of Leopard.
+64820	67860	Because he can only pick a single candidate, he gives his one vote to Gorilla in hopes
+67860	70380	of preventing Leopard from becoming king.
+70380	74740	This is strategic voting, and it's a necessity under first-past-the-post.
+74740	78620	But now let's look at the alternative vote, which Wallaby explains to Red Squirrel.
+78620	82440	Instead of picking one, and only one, candidate, he can rank them in order of his most favorite
+82440	83780	to his least.
+83780	86940	He goes into the voting booth and gets the same ballot as before, but now puts Turtle
+86940	91020	as his first choice, Owl as his second, and Gorilla as his third.
+91020	94260	He dislikes Leopard and Tiger equally, so he stops filling in his ballot and drops it
+94260	95260	in the box.
+95260	97660	At this point, Red Squirrel doesn't care exactly what happens.
+97660	100100	He has other things on his mind, and he heads off.
+100100	104660	But you, dear citizen, want to know how the votes are counted, so here goes.
+104660	108300	Turtle, beloved though he is with some of the citizenry, comes in last place with only
+108300	111720	5%, and he is eliminated from the race.
+111720	114120	Because the voters rank their candidates in order, we can know what would have happened
+114120	116000	if Turtle didn't run.
+116000	119240	Without Turtle, voters like Red Squirrel would have picked Owl instead, so their votes are
+119240	123200	transferred to her, as though Turtle was never in the race at all.
+123200	125840	This is why the alternative vote is sometimes called instant runoff voting.
+125840	129500	It's able to simulate a bunch of elections where the least popular candidate is eliminated
+129500	133400	after each round, without all the time and expense it would take to run a bunch of campaigns
+133400	135800	one after another.
+135800	138920	The alternative vote method keeps eliminating the least popular candidate until someone
+138920	142000	either wins a majority or only one is left.
+142000	146080	As no one has a majority yet, the next lowest candidate, Tiger, is eliminated.
+146080	150360	Tiger voters listed Leopard as their second choice, so she gets Tiger's vote.
+150360	152280	In the last round, Gorilla is eliminated.
+152280	156600	Gorilla voters listed Owl as their second choice, so Owl gets those votes, wins a majority,
+156600	158560	and is crowned king.
+158560	161900	The alternative vote is a better system because it produces winners that a larger number of
+161900	163680	voters can agree on.
+163680	167440	While the alternative vote does have its flaws, it's important to note that any problem AV
+167440	169680	has, First Past the Post also shares.
+169680	174160	They're both susceptible to gerrymandering, they aren't proportional systems, they can't
+174160	178880	guarantee a Condorcet winner, which math geeks hate but there isn't time to explain here,
+178880	181680	and over time they both trend towards two parties.
+181680	185220	That being said, alternative vote has a huge advantage that First Past the Post lacks and
+185220	187100	makes it mathematically superior.
+187100	189240	No spoiler effect.
+189240	191140	Imagine one final election.
+191140	195680	Two big candidates are running, Gorilla and Leopard, and Leopard looks set to win 55-45,
+195680	199440	but then a third party candidate, Tiger, enters.
+199440	203400	Tiger manages to convince 15% of the Leopard voters to back him instead.
+203400	207040	Under First Past the Post, Gorilla now wins, even though a majority of the voters didn't
+207040	208460	want him.
+208460	212060	Under the alternative vote, because all Tiger voters put Leopard as a second choice, Leopard
+212060	215580	still wins because a majority of the citizens of the animal kingdom would rather have her
+215580	217680	in charge than Gorilla.
+217680	221120	Using the alternative vote, citizens can help support and grow smaller parties that they
+221120	225680	agree with, without worrying that they'll put someone they don't like into office.
+225680	229440	After examining the differences between them, Queen Lion decrees that the alternative vote
+229440	233280	is to be the rule of the land for electing the king and everyone is happier.
+233280	235360	Well, almost everyone.
+235360	238960	The two big parties can't be as complacent as they used to be and need to campaign much
+238960	242800	harder to convince their voters to support them.
+242800	245840	This has been the alternative vote explained by me, CGP Grey.
+245840	246840	Thank you very much for watching.
+251120	266240	I'll see you next time.

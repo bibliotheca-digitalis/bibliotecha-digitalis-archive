@@ -1,0 +1,9284 @@
+1
+00:00:00,000 --> 00:00:02,840
+I'm going to go out of my way for once and talk about something positive.
+
+2
+00:00:02,840 --> 00:00:05,540
+I'm going to talk about a game I really, really like.
+
+3
+00:00:05,540 --> 00:00:08,740
+I'm going to talk about Bloodborne, and why it's amazing.
+
+4
+00:00:08,740 --> 00:00:11,420
+["Bloodborne Theme Song"]
+
+5
+00:00:11,420 --> 00:00:16,720
+["Bloodborne Theme Song Fades Out"]
+
+6
+00:00:16,720 --> 00:00:22,260
+["Bloodborne Theme Song Fades In"]
+
+7
+00:00:22,260 --> 00:00:25,180
+Okay, to start off, we're going to have to establish a baseline, aren't we?
+
+8
+00:00:25,180 --> 00:00:28,180
+Bloodborne's amazing, but the Souls series has always been good.
+
+9
+00:00:28,180 --> 00:00:31,480
+Let's start by talking in basic terms about the core gameplay.
+
+10
+00:00:31,480 --> 00:00:36,020
+They are, when you boil it down, basically action games attempting to recreate the same sort of stuff
+
+11
+00:00:36,020 --> 00:00:38,900
+RPGs like Dungeons & Dragons were designed to simulate.
+
+12
+00:00:38,900 --> 00:00:42,320
+Adventures in magical lands with dungeons and or dragons.
+
+13
+00:00:42,320 --> 00:00:46,460
+They control in a vaguely similar way to other third-person action games like Devil May Cry,
+
+14
+00:00:46,460 --> 00:00:50,040
+or Drakengard, or Dynasty Warriors, or even The Legend of Zelda.
+
+15
+00:00:50,040 --> 00:00:55,480
+However, despite superficial resemblance, in practice, the games operate very differently from those.
+
+16
+00:00:55,480 --> 00:01:01,620
+All the games I just mentioned here have a focus on instantaneousness, fluidity, and flow or speed.
+
+17
+00:01:01,620 --> 00:01:04,900
+You press the button, and the character is immediately doing the thing.
+
+18
+00:01:04,900 --> 00:01:10,500
+Dante is doing the stabby, or the jumpy, or the flippy as soon as you press the button commanding him to do it.
+
+19
+00:01:10,500 --> 00:01:12,000
+He's such a good boy.
+
+20
+00:01:12,000 --> 00:01:16,580
+In lots of these games, you can even cancel a move you're currently doing into another move.
+
+21
+00:01:16,580 --> 00:01:20,380
+So if you realized you actually pressed the wrong button, you can get away with pressing the right one,
+
+22
+00:01:20,380 --> 00:01:23,040
+and Dante cleans up after your mistakes for you.
+
+23
+00:01:23,040 --> 00:01:25,040
+It's like McDonald's or Casual Sex.
+
+24
+00:01:25,040 --> 00:01:26,500
+It's... fine?
+
+25
+00:01:26,500 --> 00:01:28,340
+You know, like, it'll do?
+
+26
+00:01:28,340 --> 00:01:33,080
+But outside of higher difficulties, there's this sense of never really earning anything to me.
+
+27
+00:01:33,080 --> 00:01:37,220
+I hit the relevant button based on when it was clearly telegraphing that I should be doing it,
+
+28
+00:01:37,220 --> 00:01:38,640
+and then it happened instantly.
+
+29
+00:01:38,640 --> 00:01:40,300
+It's missing something.
+
+30
+00:01:40,300 --> 00:01:44,720
+The Souls games are theoretically similar, but choose such a different core design philosophy
+
+31
+00:01:44,720 --> 00:01:49,260
+that I bet some of you winced when I compared them to character action games the way I just did.
+
+32
+00:01:49,260 --> 00:01:53,300
+When you press the attack button in a Souls game, you've not just committed to an attack.
+
+33
+00:01:53,300 --> 00:01:58,260
+You've committed to the long, arduous process of signing the proper paperwork to get planning permission
+
+34
+00:01:58,260 --> 00:02:00,380
+to start to swing your sword.
+
+35
+00:02:00,380 --> 00:02:03,100
+You don't immediately see dividends on the button you pressed.
+
+36
+00:02:03,100 --> 00:02:05,060
+You have to wait for the attack to go off.
+
+37
+00:02:05,060 --> 00:02:08,220
+On top of that, instead of attacking and moving being an infinite resource,
+
+38
+00:02:08,220 --> 00:02:12,060
+you have a limited amount of stamina you can invest at any given time.
+
+39
+00:02:12,060 --> 00:02:15,280
+So you can't rely on mashing the attack and dodge buttons to get by.
+
+40
+00:02:15,280 --> 00:02:18,580
+And then, if you press the wrong button, you can't hit undo.
+
+41
+00:02:18,580 --> 00:02:21,580
+You can't cancel out of an attack into the roll you should have done.
+
+42
+00:02:21,580 --> 00:02:23,340
+You get stabbed instead.
+
+43
+00:02:23,340 --> 00:02:27,540
+This creates an immediate friction between you and what you want to achieve.
+
+44
+00:02:27,540 --> 00:02:29,780
+You can't just hit the button when you see an opening,
+
+45
+00:02:29,780 --> 00:02:32,460
+or dance around and wait until one gets handed to you.
+
+46
+00:02:32,460 --> 00:02:35,820
+You have to learn to prepare and observe the timing of your enemy,
+
+47
+00:02:35,820 --> 00:02:39,020
+and be able to know when to act instead of simply acting,
+
+48
+00:02:39,020 --> 00:02:43,820
+or use your limited stamina resource to create an opening by dodging an early attack.
+
+49
+00:02:43,820 --> 00:02:47,260
+This is the main reason why the series has always been a little bit divisive.
+
+50
+00:02:47,260 --> 00:02:51,340
+Its deliberateness puts it directly at odds with almost every other game of its type,
+
+51
+00:02:51,340 --> 00:02:56,100
+which strive to make actions as quick as possible and give the player tons of control and freedom.
+
+52
+00:02:56,100 --> 00:03:00,060
+However, it's for this same reason that you might find a Souls game more rewarding,
+
+53
+00:03:00,060 --> 00:03:03,620
+because there's a genuine sense of having earned a victory once you get it.
+
+54
+00:03:03,620 --> 00:03:05,940
+The tools you're given for victory are more limited.
+
+55
+00:03:05,940 --> 00:03:10,940
+You're never going to feel like a badass who can flip all over the place or dodge infinitely any time they need to.
+
+56
+00:03:10,940 --> 00:03:16,260
+But this makes winning with those more limited tools more satisfying and feel like a real achievement.
+
+57
+00:03:16,260 --> 00:03:22,580
+There is something on a core level fun about this kind of setup that you don't really get in many other types of game.
+
+58
+00:03:22,580 --> 00:03:25,620
+It also creates a much deeper appreciation for subtlety.
+
+59
+00:03:25,620 --> 00:03:31,060
+Each Devil May Cry game, for example, has a huge array of monsters with ridiculously cool-looking moves and stuff,
+
+60
+00:03:31,060 --> 00:03:34,540
+but there are so many on screen at a time, and it's so easy to actually deal with them,
+
+61
+00:03:34,540 --> 00:03:37,020
+that there's less of a weight to an encounter.
+
+62
+00:03:37,020 --> 00:03:42,820
+The game only starts feeling fun on really high difficulties when only a couple of those attacks would kill you,
+
+63
+00:03:42,820 --> 00:03:45,900
+and you suddenly have to take everything really seriously.
+
+64
+00:03:45,900 --> 00:03:51,220
+Meanwhile, just this one guy in Demon's Souls could, and generally usually does, kill me.
+
+65
+00:03:51,620 --> 00:03:55,500
+I've had to put more thought into dealing with the red-eyed knights in Demon's Souls,
+
+66
+00:03:55,500 --> 00:04:00,460
+or the black knights in Dark Souls, than basically every enemy in a Devil May Cry game put together.
+
+67
+00:04:00,460 --> 00:04:02,300
+It's just that much more engaging.
+
+68
+00:04:02,300 --> 00:04:07,980
+It makes every single encounter feel dense with prediction, timing, planning, and execution.
+
+69
+00:04:07,980 --> 00:04:12,780
+You have to almost consider the psychology of your opponent to know the right time before you get there,
+
+70
+00:04:12,780 --> 00:04:15,820
+and wait out the time it takes to do the thing you wanted to do,
+
+71
+00:04:15,820 --> 00:04:19,820
+until you finally discover if you were accurate and everything goes as planned.
+
+72
+00:04:19,820 --> 00:04:22,060
+There's something beautifully orgasmic to it.
+
+73
+00:04:22,060 --> 00:04:26,460
+It's like cooking something difficult for yourself and sitting down and realizing you made something good,
+
+74
+00:04:26,460 --> 00:04:27,820
+and now it's all yours.
+
+75
+00:04:27,820 --> 00:04:33,660
+Every sliver of health you take from someone's meter was earned through this delicate interplay.
+
+76
+00:04:33,660 --> 00:04:38,060
+It's so good, writing about it required me to do the thing game critics should never do,
+
+77
+00:04:38,060 --> 00:04:41,420
+and start using unfitting metaphors for food and or sex.
+
+78
+00:04:41,420 --> 00:04:45,260
+This stuff is hard to do well, and it really shows in games where it's done poorly.
+
+79
+00:04:45,260 --> 00:04:49,260
+As an object lesson in bad versions of this, check out Lords of the Fallen,
+
+80
+00:04:49,260 --> 00:04:53,100
+a game that was very clearly made by people who saw that Dark Souls was popular,
+
+81
+00:04:53,100 --> 00:04:55,260
+and wanted to make one of those,
+
+82
+00:04:55,260 --> 00:05:00,220
+but didn't quite figure out that it actually takes a lot of effort to make this kind of game fun.
+
+83
+00:05:00,220 --> 00:05:02,780
+I've beaten this game all the way through twice.
+
+84
+00:05:02,780 --> 00:05:04,220
+This game is terrible.
+
+85
+00:05:04,220 --> 00:05:08,620
+Even the basic sword weapon is so slow and deliberate that it becomes a chore.
+
+86
+00:05:08,620 --> 00:05:10,620
+There's no light running attack at all.
+
+87
+00:05:10,620 --> 00:05:13,020
+Your guy just stops dead in his tracks.
+
+88
+00:05:13,020 --> 00:05:18,140
+The controls are so slow and clunky that I was sure my computer was simply too slow to run it,
+
+89
+00:05:18,140 --> 00:05:20,300
+but no, this is just how the game moves.
+
+90
+00:05:20,300 --> 00:05:23,180
+There are fast weapons, but they never escape the damage curve,
+
+91
+00:05:23,180 --> 00:05:25,740
+and you're basically either pressing the button to immediately swing,
+
+92
+00:05:25,740 --> 00:05:27,500
+but dealing very little damage,
+
+93
+00:05:27,500 --> 00:05:30,540
+or dealing more but waiting days for something to connect.
+
+94
+00:05:30,540 --> 00:05:32,940
+I'm used to a weapon having a light attack, which is quicker,
+
+95
+00:05:32,940 --> 00:05:34,620
+and a heavy attack, which is slower.
+
+96
+00:05:34,620 --> 00:05:38,140
+When a weapon has a slow attack and an even slower attack,
+
+97
+00:05:38,140 --> 00:05:41,100
+the entire feel of the game is broken.
+
+98
+00:05:41,100 --> 00:05:43,660
+Great swords are basically impossible to use,
+
+99
+00:05:43,660 --> 00:05:47,580
+except, for some reason, the running heavy attack comes out really fast,
+
+100
+00:05:47,580 --> 00:05:49,900
+making it essentially the fastest move in the game.
+
+101
+00:05:49,900 --> 00:05:53,580
+This one move carried me until I discovered the broken shield bash mechanic.
+
+102
+00:05:58,380 --> 00:06:01,020
+I'm actually starting to worry about the fact I beat this game twice.
+
+103
+00:06:01,020 --> 00:06:02,700
+I think that says something about me.
+
+104
+00:06:02,700 --> 00:06:07,420
+Weapons in Dark Souls are balanced so well that you don't even notice until this aspect is missing.
+
+105
+00:06:07,420 --> 00:06:11,100
+But it isn't just these central principles of control that make the series fun.
+
+106
+00:06:11,100 --> 00:06:14,940
+What's more interesting is how the world tests your ability to use these mechanics,
+
+107
+00:06:14,940 --> 00:06:20,060
+and thereby create the very specific feeling of adventure they do better than any other series.
+
+108
+00:06:20,060 --> 00:06:23,180
+Let's take, for example, The Legend of Zelda Ocarina of Time.
+
+109
+00:06:23,180 --> 00:06:24,220
+Maybe you've heard of it.
+
+110
+00:06:24,220 --> 00:06:25,420
+It's a solid game.
+
+111
+00:06:25,420 --> 00:06:27,740
+However, a couple of things irked me about it.
+
+112
+00:06:27,740 --> 00:06:31,020
+One is how there's this constant need to explain itself to you.
+
+113
+00:06:31,020 --> 00:06:34,860
+Every new concept, or creature, or enemy in the game is explained to you carefully,
+
+114
+00:06:34,860 --> 00:06:36,860
+and in an easily digestible manner.
+
+115
+00:06:36,860 --> 00:06:41,100
+When Stalfosses? Stalfosses? Stalfies?
+
+116
+00:06:41,100 --> 00:06:45,180
+Spawn to attack you, they appear at a safe distance and then jump away.
+
+117
+00:06:45,180 --> 00:06:48,620
+When a trap is introduced, it's shown to you in a way where you immediately know
+
+118
+00:06:48,620 --> 00:06:50,780
+its entire path and what it does, and so on.
+
+119
+00:06:50,780 --> 00:06:53,900
+The game loves to tell you in straightforward ways how it works,
+
+120
+00:06:53,900 --> 00:06:56,620
+or what's happening, and let you deal with it how you want.
+
+121
+00:06:56,620 --> 00:07:02,780
+This is, you know, fine, and I guess it's a masterpiece that I've loved my whole life.
+
+122
+00:07:02,780 --> 00:07:04,860
+It's very fair on the player.
+
+123
+00:07:04,860 --> 00:07:08,060
+But what I don't like about fairness is how it impacts the sense
+
+124
+00:07:08,060 --> 00:07:10,300
+that you're supposed to be on an adventure.
+
+125
+00:07:10,300 --> 00:07:13,980
+Link is trying to save the world by journeying into the heart of darkness
+
+126
+00:07:13,980 --> 00:07:16,060
+and delivering the temples from evil.
+
+127
+00:07:16,060 --> 00:07:19,420
+So why are the enemies taking the time to introduce themselves?
+
+128
+00:07:19,420 --> 00:07:22,940
+And why are the traps making sure you know where they are and what they do?
+
+129
+00:07:22,940 --> 00:07:27,020
+Evil is playing fair, and always being careful to show me its weak point.
+
+130
+00:07:27,020 --> 00:07:29,740
+Nothing is ever quite surprising in Zelda.
+
+131
+00:07:29,740 --> 00:07:33,820
+Maybe, for some types of games, fairness isn't actually a good thing.
+
+132
+00:07:33,900 --> 00:07:37,100
+In making itself too clear about what's happening and how it works,
+
+133
+00:07:37,100 --> 00:07:39,180
+it's probably more intuitive and playable,
+
+134
+00:07:39,180 --> 00:07:41,580
+but it causes it to lack a truly great dimension
+
+135
+00:07:41,580 --> 00:07:44,220
+of feeling like you're fighting against unknowable odds
+
+136
+00:07:44,220 --> 00:07:46,300
+instead of being told them all the time.
+
+137
+00:07:46,300 --> 00:07:50,620
+Looking back, there's something really weirdly sanitized about Zelda games.
+
+138
+00:07:50,620 --> 00:07:54,220
+What makes the world of any given Souls game so much more interesting
+
+139
+00:07:54,220 --> 00:07:55,900
+is that it doesn't play fair.
+
+140
+00:07:55,900 --> 00:07:57,980
+Take, for example, Mimics in Dark Souls.
+
+141
+00:07:57,980 --> 00:08:01,260
+The only way of learning that there are enemies in the game who look like chests
+
+142
+00:08:01,260 --> 00:08:03,740
+and eat you to death if you try to open them
+
+143
+00:08:03,740 --> 00:08:06,620
+is to find one and try to open it and die.
+
+144
+00:08:06,620 --> 00:08:08,300
+This isn't bad design, though,
+
+145
+00:08:08,300 --> 00:08:11,180
+like, oh, how dare they not give me the chance to not die there.
+
+146
+00:08:11,180 --> 00:08:12,860
+It's good design.
+
+147
+00:08:12,860 --> 00:08:13,980
+Because they've, quote-unquote,
+
+148
+00:08:13,980 --> 00:08:16,940
+unfairly sacrificed the player's life that one time,
+
+149
+00:08:16,940 --> 00:08:20,780
+they've thoroughly instilled a sense of paranoia and awareness
+
+150
+00:08:20,780 --> 00:08:23,980
+and given you an even greater sense of having the odds stacked against you
+
+151
+00:08:23,980 --> 00:08:26,460
+in a horrible world full of murder and death.
+
+152
+00:08:26,460 --> 00:08:28,380
+It's not that the game is unfair to players,
+
+153
+00:08:28,380 --> 00:08:31,260
+it's that the world itself is unfair to people.
+
+154
+00:08:31,260 --> 00:08:34,300
+Life is unfair in the world of Dark Souls,
+
+155
+00:08:34,300 --> 00:08:37,020
+and you learn that the hard way by dying in it.
+
+156
+00:08:37,020 --> 00:08:38,940
+After you get eaten by one Mimic,
+
+157
+00:08:38,940 --> 00:08:42,700
+before you know it, you'll be attacking every chest you see just in case.
+
+158
+00:08:42,700 --> 00:08:46,460
+And in Dark Souls 2, you can accidentally destroy a chest if you attack it too much,
+
+159
+00:08:46,460 --> 00:08:49,740
+meaning your own paranoia can be bad for you if you employ it the wrong way.
+
+160
+00:08:49,740 --> 00:08:52,380
+It creates a more full sense of paranoia
+
+161
+00:08:52,380 --> 00:08:54,940
+and being immersed in a world that wants you dead.
+
+162
+00:08:54,940 --> 00:08:57,020
+And once you make it past a difficult area,
+
+163
+00:08:57,020 --> 00:08:57,900
+beat a hard boss,
+
+164
+00:08:57,900 --> 00:09:01,020
+or successfully predict that a chest is a Mimic and destroy it,
+
+165
+00:09:01,020 --> 00:09:04,700
+you'll feel like you've gained ground against a genuinely dangerous world.
+
+166
+00:09:04,700 --> 00:09:06,780
+The Souls games don't always play fair,
+
+167
+00:09:06,780 --> 00:09:09,340
+but that makes besting them feel all the sweeter.
+
+168
+00:09:09,340 --> 00:09:11,180
+Like a genuine victory, you know?
+
+169
+00:09:11,180 --> 00:09:13,980
+And that feeling is worth getting killed,
+
+170
+00:09:13,980 --> 00:09:15,580
+unfairly, a couple of times,
+
+171
+00:09:15,580 --> 00:09:18,540
+because it creates the sense of there being great odds to beat.
+
+172
+00:09:18,540 --> 00:09:21,260
+The feeling of triumphing against adversity is increased
+
+173
+00:09:21,260 --> 00:09:24,780
+when that adversity has already actually killed you at least once.
+
+174
+00:09:24,780 --> 00:09:27,900
+This is where the idea of the game's insane difficulty comes from.
+
+175
+00:09:27,900 --> 00:09:29,500
+Not the game's actual difficulty,
+
+176
+00:09:29,500 --> 00:09:31,660
+but the way they keep introducing you to new elements
+
+177
+00:09:31,660 --> 00:09:34,700
+by killing you with them to create a specific sense of mood.
+
+178
+00:09:35,340 --> 00:09:38,700
+The only way to know there's going to be traps in this area in Bloodborne
+
+179
+00:09:38,700 --> 00:09:42,380
+is to step on this pile of, in retrospect, really conspicuous wood,
+
+180
+00:09:42,380 --> 00:09:43,180
+hear the click,
+
+181
+00:09:44,460 --> 00:09:45,740
+and shit yourself.
+
+182
+00:09:45,740 --> 00:09:49,180
+Or if you're a badass, you can dodge it and then go about your merry way.
+
+183
+00:09:50,380 --> 00:09:53,420
+The first time you fall for a trap, you're looking for them everywhere.
+
+184
+00:09:53,420 --> 00:09:54,940
+You've approached the whole game with a se-
+
+185
+00:09:54,940 --> 00:09:55,980
+Oh, fuck!
+
+186
+00:09:55,980 --> 00:09:58,300
+You've approached the whole game with a greater sense of awareness
+
+187
+00:09:58,300 --> 00:10:00,220
+and appreciation for its design.
+
+188
+00:10:00,220 --> 00:10:01,900
+You'll still get caught in a few traps,
+
+189
+00:10:01,900 --> 00:10:05,340
+but they'll always feel a bit like you could have done more to see them coming.
+
+190
+00:10:05,340 --> 00:10:07,180
+By the time you get to Cainhurst Castle,
+
+191
+00:10:07,180 --> 00:10:11,980
+the battlements have raised floors that look just a little bit like plates for traps,
+
+192
+00:10:11,980 --> 00:10:14,060
+so I avoided them at all costs.
+
+193
+00:10:14,060 --> 00:10:16,860
+Now, it turns out that's just what the floor looks like.
+
+194
+00:10:17,740 --> 00:10:22,140
+Any game that successfully makes you afraid of a quirky pavement
+
+195
+00:10:22,140 --> 00:10:24,540
+is unquestionably a masterpiece.
+
+196
+00:10:24,540 --> 00:10:28,140
+It's bred a sincere, visceral fear of your surroundings
+
+197
+00:10:28,140 --> 00:10:29,900
+based on how they've treated you in the past.
+
+198
+00:10:29,900 --> 00:10:31,500
+It's- it's wonderful.
+
+199
+00:10:31,500 --> 00:10:35,980
+The Souls games get into you, like, inside your head,
+
+200
+00:10:35,980 --> 00:10:39,420
+and all the gesticulating about crazy difficulty melts away
+
+201
+00:10:39,420 --> 00:10:41,580
+in the face of a fun, unforgiving,
+
+202
+00:10:41,580 --> 00:10:44,060
+but enriching series of encounters that test you
+
+203
+00:10:44,060 --> 00:10:45,820
+in ways games rarely manage to do,
+
+204
+00:10:45,820 --> 00:10:47,740
+an almost internal level.
+
+205
+00:10:47,740 --> 00:10:50,460
+You stop doing the maths about how quickly your attack goes off
+
+206
+00:10:50,460 --> 00:10:52,460
+and trying to figure out an opening to move,
+
+207
+00:10:52,460 --> 00:10:54,860
+and you start to just know the right time,
+
+208
+00:10:54,860 --> 00:10:57,500
+because all this stuff is so deep in your head
+
+209
+00:10:57,500 --> 00:10:58,700
+that you don't even have to think about it.
+
+210
+00:10:58,700 --> 00:11:00,140
+It becomes like an instinct.
+
+211
+00:11:00,140 --> 00:11:04,220
+The only experience that comes close lately is a rhythm game called Thumper.
+
+212
+00:11:04,220 --> 00:11:06,780
+It's dark, it's noisy, it's metallic.
+
+213
+00:11:06,780 --> 00:11:08,620
+It's a world of jaggedness,
+
+214
+00:11:08,620 --> 00:11:09,820
+like a journey through hell,
+
+215
+00:11:09,820 --> 00:11:12,620
+riding directly into the mouth of hell, even.
+
+216
+00:11:12,620 --> 00:11:14,060
+Like, that thing's a boss.
+
+217
+00:11:14,060 --> 00:11:15,420
+And it's very unforgiving.
+
+218
+00:11:15,420 --> 00:11:18,700
+You die in two hits, but at a certain point, you stop dying,
+
+219
+00:11:18,700 --> 00:11:22,060
+because the rhythm, the sound gets inside you.
+
+220
+00:11:22,060 --> 00:11:25,420
+The line between player and game feels like it's evaporated.
+
+221
+00:11:25,420 --> 00:11:28,060
+You begin to sense what notes are coming next,
+
+222
+00:11:28,060 --> 00:11:31,260
+because the music has got into you on an almost instinctive level.
+
+223
+00:11:31,260 --> 00:11:34,380
+You can't really sell Thumper or the Souls games
+
+224
+00:11:34,380 --> 00:11:36,540
+to someone based purely on their mechanics,
+
+225
+00:11:36,540 --> 00:11:38,220
+because the enjoyable thing about these games
+
+226
+00:11:38,220 --> 00:11:39,820
+is when all these things are so ingrained
+
+227
+00:11:39,820 --> 00:11:42,460
+that the mechanics themselves seem to fade away,
+
+228
+00:11:42,460 --> 00:11:45,420
+and you're fully transported into the salviatic nightmare
+
+229
+00:11:45,420 --> 00:11:47,020
+of sound and sight.
+
+230
+00:11:47,020 --> 00:11:48,300
+Salviatic.
+
+231
+00:11:48,300 --> 00:11:50,620
+I just made up a word
+
+232
+00:11:50,620 --> 00:11:53,660
+attempting to describe the feeling a game gave me.
+
+233
+00:11:53,660 --> 00:11:57,260
+Generally, generally that's a sign that something good is happening.
+
+234
+00:11:57,260 --> 00:12:00,460
+Why am I talking about Thumper, a rhythm game, here?
+
+235
+00:12:00,460 --> 00:12:02,140
+Well, you'll have to find out.
+
+236
+00:12:02,140 --> 00:12:03,980
+There's probably a reason.
+
+237
+00:12:03,980 --> 00:12:05,100
+Oh, God, is there a reason?
+
+238
+00:12:05,100 --> 00:12:06,380
+Shit, did I write that part down?
+
+239
+00:12:06,380 --> 00:12:08,300
+Oh, fuck, this page is blank.
+
+240
+00:12:08,300 --> 00:12:09,500
+I'm just...
+
+241
+00:12:09,500 --> 00:12:12,940
+I'm just fiddling with paper to make it sound like I wrote a script.
+
+242
+00:12:12,940 --> 00:12:14,780
+Shit, I forgot where I'm going with this.
+
+243
+00:12:14,780 --> 00:12:17,980
+And now for the reason this video was made.
+
+244
+00:12:17,980 --> 00:12:20,700
+I know, I make videos on purpose for a reason.
+
+245
+00:12:20,700 --> 00:12:21,420
+Who'd have thought?
+
+246
+00:12:21,420 --> 00:12:23,980
+Okay, so I'm pretty into the Souls series.
+
+247
+00:12:23,980 --> 00:12:25,740
+I saw lots of people playing Demon's Souls
+
+248
+00:12:25,740 --> 00:12:27,740
+but couldn't afford a PS3 at the time,
+
+249
+00:12:27,740 --> 00:12:29,980
+got on board with the PC version of Dark Souls—
+
+250
+00:12:29,980 --> 00:12:31,020
+yeah, that version—
+
+251
+00:12:31,020 --> 00:12:32,140
+but I really liked it,
+
+252
+00:12:32,140 --> 00:12:34,780
+and I also really like Dark Souls 2.
+
+253
+00:12:34,780 --> 00:12:35,900
+Um...
+
+254
+00:12:35,900 --> 00:12:37,180
+Okay, come on, it's—it's good.
+
+255
+00:12:37,180 --> 00:12:37,820
+It's—it's—
+
+256
+00:12:37,820 --> 00:12:39,580
+I later went back and played Demon's Souls as well
+
+257
+00:12:39,580 --> 00:12:41,980
+and very briefly delved into the precursor series,
+
+258
+00:12:41,980 --> 00:12:45,020
+King's Field, before realizing they were a bit crap and stopping.
+
+259
+00:12:45,020 --> 00:12:47,180
+Generally, I'd call myself a big fan.
+
+260
+00:12:47,180 --> 00:12:49,980
+I could talk for a long time about why the series is great.
+
+261
+00:12:49,980 --> 00:12:52,700
+In fact, I fully intend to do that right now.
+
+262
+00:12:52,700 --> 00:12:55,500
+But up until 2015, the series had a problem.
+
+263
+00:12:55,500 --> 00:12:57,980
+It's the kind of vague problem that's hard to talk about,
+
+264
+00:12:57,980 --> 00:13:00,460
+especially because I don't actually have that problem.
+
+265
+00:13:00,460 --> 00:13:03,820
+A lot of people seem not to really be able to get into them and enjoy them.
+
+266
+00:13:03,820 --> 00:13:05,980
+There's a pretty large group of people who do really like them,
+
+267
+00:13:05,980 --> 00:13:08,060
+then another group of people who pick every game up
+
+268
+00:13:08,060 --> 00:13:11,100
+but don't really get too far before getting kind of done with it,
+
+269
+00:13:11,100 --> 00:13:13,660
+and another group that probably don't really get them at all.
+
+270
+00:13:13,660 --> 00:13:16,300
+I have a sneaking suspicion that videos about Souls games
+
+271
+00:13:16,300 --> 00:13:17,820
+get super popular in the first place
+
+272
+00:13:17,820 --> 00:13:20,540
+because people watch them so they don't have to play the games
+
+273
+00:13:20,540 --> 00:13:24,380
+or to try to see why other people play something they don't get for themselves.
+
+274
+00:13:24,380 --> 00:13:26,620
+I have one friend in particular who tried all of them
+
+275
+00:13:26,620 --> 00:13:28,220
+and just didn't get them at all,
+
+276
+00:13:28,220 --> 00:13:31,900
+found them overly esoteric and difficult in a way that wasn't fun
+
+277
+00:13:31,900 --> 00:13:35,180
+and full of overly defensive, get-good, spouting fanboys
+
+278
+00:13:35,180 --> 00:13:37,260
+and just not all they were cracked up to be.
+
+279
+00:13:37,260 --> 00:13:39,020
+But then March 2015 happened.
+
+280
+00:13:39,660 --> 00:13:41,020
+Then Bloodborne happened.
+
+281
+00:13:44,140 --> 00:13:47,260
+Like the other games, my friend tried this one expecting to bounce off,
+
+282
+00:13:47,260 --> 00:13:48,780
+but instead he fell in.
+
+283
+00:13:48,780 --> 00:13:50,300
+He's played a ton of this game,
+
+284
+00:13:50,300 --> 00:13:52,060
+and I think it's one of his favorites ever,
+
+285
+00:13:52,060 --> 00:13:55,180
+at least based on how he seems to have finished it like 12 times or something.
+
+286
+00:13:55,180 --> 00:13:56,460
+But more importantly,
+
+287
+00:13:56,460 --> 00:13:59,260
+and this is the impetus behind this whole video, to be honest,
+
+288
+00:13:59,260 --> 00:14:02,300
+he went back to the other games and finally got them.
+
+289
+00:14:02,860 --> 00:14:05,340
+All of a sudden, he likes those as well.
+
+290
+00:14:06,220 --> 00:14:08,540
+And this has happened with a couple of other people too.
+
+291
+00:14:08,540 --> 00:14:10,940
+Some people just don't get the Souls games,
+
+292
+00:14:10,940 --> 00:14:11,820
+play Bloodborne,
+
+293
+00:14:11,820 --> 00:14:15,900
+and then suddenly have this deep and abiding passion for the whole series.
+
+294
+00:14:15,900 --> 00:14:20,060
+So the main purpose of this video is to try and figure out why exactly that might be.
+
+295
+00:14:20,700 --> 00:14:22,620
+Let's get down to brass tacks.
+
+296
+00:14:22,620 --> 00:14:24,780
+Let's dig a little deeper.
+
+297
+00:14:27,580 --> 00:14:30,860
+Did anyone else think The Princess and the Frog felt kind of like it was phoning it in?
+
+298
+00:14:35,100 --> 00:14:38,540
+Now I want to get into a rather heated and complex question.
+
+299
+00:14:38,540 --> 00:14:40,940
+Is it possible to play a game wrong?
+
+300
+00:14:40,940 --> 00:14:43,180
+I think this is genuinely difficult to answer.
+
+301
+00:14:43,180 --> 00:14:45,660
+People are going to have different experiences no matter what,
+
+302
+00:14:45,660 --> 00:14:47,740
+and not everyone has to like something.
+
+303
+00:14:47,740 --> 00:14:51,820
+But part of me also feels that there are right and wrong ways to approach a game.
+
+304
+00:14:51,820 --> 00:14:54,460
+But what does that mean for people who want to make good criticism
+
+305
+00:14:54,460 --> 00:14:57,020
+and attempt to analyze the rights and wrongs of game design
+
+306
+00:14:57,020 --> 00:14:59,340
+if the results are going to be so subjective anyway?
+
+307
+00:14:59,340 --> 00:15:02,620
+Does game design even matter if you can create the greatest game ever
+
+308
+00:15:02,620 --> 00:15:05,580
+but some people will just play it wrong and have a bad time?
+
+309
+00:15:05,580 --> 00:15:07,900
+Well, to a certain extent, that's always going to happen, isn't it?
+
+310
+00:15:07,900 --> 00:15:11,100
+There will always be people for whom an experience just isn't for them
+
+311
+00:15:11,100 --> 00:15:13,740
+or who are too dumb to understand how to play something
+
+312
+00:15:13,740 --> 00:15:17,260
+or don't realize that something they think is good is objectively bad.
+
+313
+00:15:17,260 --> 00:15:19,500
+Some people really like Fallout 3,
+
+314
+00:15:19,500 --> 00:15:22,140
+and they seem to be the specific type of people who think
+
+315
+00:15:22,140 --> 00:15:25,500
+clicking a dislike button is a decent way of expressing their feelings.
+
+316
+00:15:25,500 --> 00:15:28,780
+In other words, objectively stupid people like Fallout 3.
+
+317
+00:15:28,780 --> 00:15:31,660
+And there is a right way to play the Souls games.
+
+318
+00:15:31,660 --> 00:15:33,500
+You can hide behind the shield a lot,
+
+319
+00:15:33,500 --> 00:15:36,060
+die over and over trying to memorize every encounter,
+
+320
+00:15:36,060 --> 00:15:39,420
+or use magic from a distance to avoid having to engage with the game
+
+321
+00:15:39,420 --> 00:15:42,300
+or wear the heaviest armor and hope that'll save you.
+
+322
+00:15:42,300 --> 00:15:45,580
+But the reality is it's just more fun playing it as someone who dodges,
+
+323
+00:15:45,580 --> 00:15:47,100
+who weaves, who parries,
+
+324
+00:15:47,100 --> 00:15:50,380
+and who uses situational awareness to assess a situation
+
+325
+00:15:50,380 --> 00:15:53,420
+and maybe get out of it the first time without so much trial or error.
+
+326
+00:15:53,420 --> 00:15:54,540
+It's not that hard.
+
+327
+00:15:54,540 --> 00:15:56,780
+The Souls games aren't really all that difficult.
+
+328
+00:15:56,780 --> 00:15:59,900
+You dodge the attack and then you hit them with the stick.
+
+329
+00:15:59,900 --> 00:16:00,380
+Done.
+
+330
+00:16:00,380 --> 00:16:02,780
+I just solved all the Souls games for you.
+
+331
+00:16:02,780 --> 00:16:05,660
+Everything else is just pretentiousness about preparing to die.
+
+332
+00:16:05,660 --> 00:16:06,620
+I know, that's stupid.
+
+333
+00:16:06,620 --> 00:16:07,660
+Ignore all of that.
+
+334
+00:16:07,660 --> 00:16:09,740
+Oh, you think breathing fire is sexy?
+
+335
+00:16:09,740 --> 00:16:11,820
+Sorry, that's not in this semester.
+
+336
+00:16:12,780 --> 00:16:14,540
+I'm gonna have to kick you out of the school.
+
+337
+00:16:15,660 --> 00:16:19,340
+Is it rude of me to say there's right and wrong ways to have fun with a game?
+
+338
+00:16:19,980 --> 00:16:21,900
+Well, maybe.
+
+339
+00:16:21,900 --> 00:16:23,980
+But thanks to the magic of face cam,
+
+340
+00:16:23,980 --> 00:16:26,620
+I can literally see this in effect.
+
+341
+00:16:26,620 --> 00:16:29,180
+Here's Patrick Klepek painstakingly muscling his way
+
+342
+00:16:29,180 --> 00:16:30,620
+through the final boss of Demon's Souls
+
+343
+00:16:30,620 --> 00:16:32,940
+with his shield raised, a magic shield up,
+
+344
+00:16:32,940 --> 00:16:35,100
+attacking only when it's utterly safe.
+
+345
+00:16:35,100 --> 00:16:37,580
+When it's over, he breathes a sigh of relief.
+
+346
+00:16:37,580 --> 00:16:51,820
+He's glad it's over.
+
+347
+00:16:51,820 --> 00:16:54,140
+He's glad to be done with the game.
+
+348
+00:16:54,140 --> 00:16:55,500
+Was that fight fun?
+
+349
+00:16:55,500 --> 00:16:56,940
+It seemed torturous.
+
+350
+00:16:56,940 --> 00:16:59,100
+No wonder people think these games aren't for everyone
+
+351
+00:16:59,100 --> 00:17:00,540
+if this is how they're playing it.
+
+352
+00:17:00,540 --> 00:17:03,340
+Now, here's Patrick fighting a boss in Dark Souls 2
+
+353
+00:17:03,340 --> 00:17:04,860
+with no easy magic to help him.
+
+354
+00:17:04,860 --> 00:17:06,300
+He doesn't even have a shield.
+
+355
+00:17:06,380 --> 00:17:08,220
+He's dual-wielding maces.
+
+356
+00:17:08,220 --> 00:17:10,140
+Does he breathe a sigh of relief when it's over?
+
+357
+00:17:10,860 --> 00:17:13,260
+Well, I just came back and totally whooped the pursuer.
+
+358
+00:17:17,500 --> 00:17:18,380
+Of course not.
+
+359
+00:17:18,380 --> 00:17:22,940
+Is Dark Souls 2 such a massively more amazing experience than Demon's Souls,
+
+360
+00:17:22,940 --> 00:17:27,420
+or was he just playing it in a way that was less conducive to actually enjoying himself?
+
+361
+00:17:27,420 --> 00:17:31,820
+More importantly, what leads people to play the game one way over the other?
+
+362
+00:17:31,820 --> 00:17:33,340
+It's a difficult concept to deal with
+
+363
+00:17:33,340 --> 00:17:35,900
+because it doesn't concern the mechanics of the game itself,
+
+364
+00:17:35,980 --> 00:17:38,460
+but rather how the game relates its mechanics to the player,
+
+365
+00:17:38,460 --> 00:17:39,820
+which is far more important
+
+366
+00:17:39,820 --> 00:17:43,820
+and defines how the player deals with these mechanics over the course of their experience.
+
+367
+00:17:43,820 --> 00:17:47,020
+I covered this concept briefly in my Fallout 3 analysis,
+
+368
+00:17:47,020 --> 00:17:49,900
+and I realize in retrospect it was the smartest thing I said.
+
+369
+00:17:49,900 --> 00:17:54,220
+The first lockpick and hacking scenarios are immediately next to the means to circumvent them,
+
+370
+00:17:54,220 --> 00:17:57,660
+which accidentally teaches the player not to bother with these mechanics
+
+371
+00:17:57,660 --> 00:17:59,180
+because there's going to be workarounds
+
+372
+00:17:59,180 --> 00:18:01,980
+and the time or point investment is better spent elsewhere.
+
+373
+00:18:01,980 --> 00:18:05,340
+The lockpicking and hacking mechanics themselves are fine in a vacuum,
+
+374
+00:18:05,340 --> 00:18:08,940
+but you've just hamstrung the player's perception of how they surface in the game.
+
+375
+00:18:08,940 --> 00:18:11,580
+When you find the password in the dresser next to the computer,
+
+376
+00:18:11,580 --> 00:18:12,460
+you're not going to go,
+
+377
+00:18:12,460 --> 00:18:15,900
+oh boy, I can't wait to invest in my character's hacking abilities.
+
+378
+00:18:15,900 --> 00:18:17,900
+You think, wow, hacking is for idiots.
+
+379
+00:18:17,900 --> 00:18:19,420
+I'll just look in people's desks.
+
+380
+00:18:19,420 --> 00:18:23,100
+The lockpicking and hacking mechanics themselves were absolutely fine in my opinion.
+
+381
+00:18:23,100 --> 00:18:25,260
+They were perfectly acceptable for this kind of game,
+
+382
+00:18:25,260 --> 00:18:28,460
+but the actual experience of how they're introduced to the player
+
+383
+00:18:28,460 --> 00:18:31,660
+influences how they behave in their interactions with them,
+
+384
+00:18:31,660 --> 00:18:34,300
+and thereby alters the amount of fun they can have.
+
+385
+00:18:34,300 --> 00:18:38,460
+You play games in the manner dictated by the experience of the game itself,
+
+386
+00:18:38,460 --> 00:18:40,460
+and sometimes that manner isn't great.
+
+387
+00:18:40,460 --> 00:18:44,540
+Now, I haven't really seen anyone else writing about this psychological side of design,
+
+388
+00:18:44,540 --> 00:18:45,740
+and believe me, I've looked.
+
+389
+00:18:45,740 --> 00:18:49,180
+Even Game Feel, Stephen Swink's seminal work on good game design,
+
+390
+00:18:49,180 --> 00:18:53,500
+seems mostly concerned with making mechanics that look and feel and play well,
+
+391
+00:18:53,500 --> 00:18:56,220
+but doesn't really consider how a game causes the player
+
+392
+00:18:56,220 --> 00:18:58,860
+to start engaging with them in a way that's fun.
+
+393
+00:18:58,860 --> 00:19:00,460
+And since, from the sounds of things,
+
+394
+00:19:00,460 --> 00:19:02,860
+I'm basically the discoverer of this concept, right,
+
+395
+00:19:02,940 --> 00:19:04,460
+does that mean I get to name it?
+
+396
+00:19:04,460 --> 00:19:08,460
+Well, uh, I'm gonna call it Play Conditioning.
+
+397
+00:19:08,460 --> 00:19:09,420
+Yeah, sure.
+
+398
+00:19:09,420 --> 00:19:11,980
+If you've got a better name or it turns out there's a large body of work
+
+399
+00:19:11,980 --> 00:19:14,060
+dealing with this concept already that I just missed,
+
+400
+00:19:14,060 --> 00:19:16,620
+let me know and I'll go mope in the corner for a while.
+
+401
+00:19:16,620 --> 00:19:19,980
+This is a little different from a more well-known concept called conveyance,
+
+402
+00:19:19,980 --> 00:19:23,740
+which is how a game tells you what its mechanics are and what things do.
+
+403
+00:19:23,740 --> 00:19:25,740
+Play Conditioning, my new made-up term,
+
+404
+00:19:25,740 --> 00:19:29,820
+refers to how players are led to use those mechanics by how the game is executed.
+
+405
+00:19:29,820 --> 00:19:32,780
+I might just be splitting hairs to make it look like I came up with a new concept,
+
+406
+00:19:32,780 --> 00:19:35,340
+but I do feel that there's an important distinction there.
+
+407
+00:19:35,340 --> 00:19:39,340
+Let's take a look at the conditioning at play in the early levels of Demon's Souls.
+
+408
+00:19:39,340 --> 00:19:42,060
+The first boss you encounter has an unreasonably high amount of health
+
+409
+00:19:42,060 --> 00:19:43,580
+and can kill you in either one hit
+
+410
+00:19:43,580 --> 00:19:46,620
+or one and one-tenths of a hit based on your character.
+
+411
+00:19:46,620 --> 00:19:49,100
+And once he kills you, you don't get another shot.
+
+412
+00:19:49,100 --> 00:19:51,660
+You revive in the Nexus where the story properly starts.
+
+413
+00:19:51,660 --> 00:19:53,260
+But even if you do beat it,
+
+414
+00:19:53,260 --> 00:19:55,900
+you advance to this dragon and he kills you.
+
+415
+00:19:55,900 --> 00:19:58,620
+The lesson, no matter what, is you will die.
+
+416
+00:19:58,620 --> 00:20:01,260
+The game's trying to tell you that you're going to fail sometimes,
+
+417
+00:20:01,260 --> 00:20:02,780
+so you might want to learn from it.
+
+418
+00:20:02,780 --> 00:20:04,940
+It's a warning about the game's intense difficulty
+
+419
+00:20:04,940 --> 00:20:06,700
+and the nature of death in this game.
+
+420
+00:20:06,700 --> 00:20:09,260
+Embrace that it's possible and build on your mistakes.
+
+421
+00:20:09,260 --> 00:20:11,260
+The first time I beat the early tutorial enemies
+
+422
+00:20:11,260 --> 00:20:14,380
+and then pass through the fog door to meet this giant hulking monster
+
+423
+00:20:14,380 --> 00:20:16,780
+was genuinely kind of surprising and terrifying.
+
+424
+00:20:16,780 --> 00:20:18,140
+There's this moment of,
+
+425
+00:20:18,140 --> 00:20:20,300
+oh, shit, it's genius.
+
+426
+00:20:20,300 --> 00:20:22,780
+Your almost inevitable death at this guy's hand...
+
+427
+00:20:23,740 --> 00:20:24,300
+things
+
+428
+00:20:24,300 --> 00:20:27,980
+immediately communicates that you're going to be facing seemingly insurmountable odds,
+
+429
+00:20:27,980 --> 00:20:30,780
+which makes succeeding against them all the more satisfying.
+
+430
+00:20:30,780 --> 00:20:32,780
+You run into versions of this boss later in the game
+
+431
+00:20:32,780 --> 00:20:35,420
+and clowning on them after all the experience and weapons you've gained
+
+432
+00:20:35,420 --> 00:20:36,940
+is a reminder of how far you've come.
+
+433
+00:20:36,940 --> 00:20:40,460
+It's pretty good, but getting there requires playing the game for tens more hours,
+
+434
+00:20:40,460 --> 00:20:44,380
+and that's not a particularly good kind of return on your investment.
+
+435
+00:20:44,380 --> 00:20:46,940
+Plus, being killed no matter what at the start of a game
+
+436
+00:20:46,940 --> 00:20:49,020
+isn't exactly all that encouraging either.
+
+437
+00:20:49,020 --> 00:20:51,580
+It kind of has a negative effect on players, I feel.
+
+438
+00:20:51,580 --> 00:20:54,700
+Not everyone's going to enjoy being led into the game in this manner.
+
+439
+00:20:55,340 --> 00:20:57,980
+Okay, first enemy, first boss.
+
+440
+00:20:57,980 --> 00:20:58,860
+What's up, Vanguard?
+
+441
+00:21:01,820 --> 00:21:02,700
+Yo.
+
+442
+00:21:02,700 --> 00:21:06,620
+Do you think this told Patrick he should be fast and frenetic and take more risks?
+
+443
+00:21:06,620 --> 00:21:09,180
+The first real level also embodies this paradox.
+
+444
+00:21:09,180 --> 00:21:11,020
+It's a testbed for the sort of tricks and traps
+
+445
+00:21:11,020 --> 00:21:13,020
+that will be used against you for the rest of the game.
+
+446
+00:21:13,020 --> 00:21:15,740
+It's probably intended to teach you a lot about the game to come
+
+447
+00:21:15,740 --> 00:21:18,220
+and prime you to know what to look for and how to act.
+
+448
+00:21:18,220 --> 00:21:21,180
+This area here has a really obvious enemy just in front of you
+
+449
+00:21:21,180 --> 00:21:22,540
+that you'll be walking towards,
+
+450
+00:21:22,620 --> 00:21:25,180
+but there's a guy also hiding just behind the doorway.
+
+451
+00:21:25,180 --> 00:21:27,340
+Some games don't show you everything easily
+
+452
+00:21:27,340 --> 00:21:30,540
+because the challenge is to see if you think to look for it.
+
+453
+00:21:30,540 --> 00:21:32,380
+Countless enemies are going to hide in places
+
+454
+00:21:32,380 --> 00:21:35,820
+you can't quite see over the course of this game and its successors,
+
+455
+00:21:35,820 --> 00:21:38,620
+but after this one, you know it can happen,
+
+456
+00:21:38,620 --> 00:21:41,100
+and the real challenge is dealing with that possibility.
+
+457
+00:21:41,100 --> 00:21:42,220
+But the problem is,
+
+458
+00:21:42,220 --> 00:21:46,060
+if all of these ways of showing you the game can kill you do kill you,
+
+459
+00:21:46,060 --> 00:21:47,980
+it does feel kind of shit.
+
+460
+00:21:47,980 --> 00:21:49,500
+The game is still really, really good,
+
+461
+00:21:49,500 --> 00:21:53,580
+but it's hard to imagine a beginner who's just started a Souls game for the first time
+
+462
+00:21:53,580 --> 00:21:56,300
+opening up, dying to this section a couple of times,
+
+463
+00:21:56,300 --> 00:21:57,980
+and having a good time doing it.
+
+464
+00:21:57,980 --> 00:22:01,740
+It's possible that it accidentally imbued players with the lesson,
+
+465
+00:22:01,740 --> 00:22:03,100
+this isn't fun or fair,
+
+466
+00:22:03,100 --> 00:22:05,900
+and you should just give up or play it in the most boring possible way
+
+467
+00:22:05,900 --> 00:22:07,180
+in the hopes you survive.
+
+468
+00:22:07,180 --> 00:22:08,540
+Patrick played the game wrong
+
+469
+00:22:08,540 --> 00:22:12,460
+because he was conditioned by the experience to approach it that way.
+
+470
+00:22:12,460 --> 00:22:14,540
+I have to admit that I played Demon's Souls
+
+471
+00:22:14,540 --> 00:22:16,780
+after playing the first two Dark Souls games,
+
+472
+00:22:16,780 --> 00:22:19,740
+so these early sections weren't nearly as excruciating
+
+473
+00:22:19,740 --> 00:22:20,860
+as they would have been
+
+474
+00:22:20,860 --> 00:22:24,380
+if this was my first ever engagement with the series and its mechanics.
+
+475
+00:22:24,380 --> 00:22:26,460
+Dark Souls has this exact problem, too,
+
+476
+00:22:26,460 --> 00:22:27,820
+but it lessens it somewhat.
+
+477
+00:22:27,820 --> 00:22:31,020
+You start, fight easy enemies with a broken sword, no problem,
+
+478
+00:22:31,020 --> 00:22:32,060
+and then BAM!
+
+479
+00:22:32,060 --> 00:22:33,180
+Asylum Demon.
+
+480
+00:22:33,180 --> 00:22:35,900
+He's huge, and he probably kills you the first time.
+
+481
+00:22:35,900 --> 00:22:39,180
+To survive, you have to run past him and through a door to the side,
+
+482
+00:22:39,180 --> 00:22:40,460
+and then, no joke,
+
+483
+00:22:40,460 --> 00:22:43,500
+the first thing the game gives you is a shield.
+
+484
+00:22:43,500 --> 00:22:45,740
+What lesson does this instill to a player?
+
+485
+00:22:45,740 --> 00:22:46,540
+It says,
+
+486
+00:22:46,540 --> 00:22:48,300
+hide behind this to survive.
+
+487
+00:22:48,300 --> 00:22:49,900
+You loop back around and kill the demon
+
+488
+00:22:49,900 --> 00:22:52,060
+by getting the drop on it and having better weapons.
+
+489
+00:22:52,060 --> 00:22:53,980
+It's definitely improvement over the Vanguard,
+
+490
+00:22:53,980 --> 00:22:56,380
+where you get one shot, and then you're done,
+
+491
+00:22:56,380 --> 00:22:59,260
+because you immediately get the payoff of besting the opponent
+
+492
+00:22:59,260 --> 00:23:01,420
+who probably beat you at least once,
+
+493
+00:23:01,420 --> 00:23:05,020
+but by then the game's already kind of told you that shields are the way to go.
+
+494
+00:23:05,020 --> 00:23:06,940
+So it's not surprising that a lot of early players
+
+495
+00:23:06,940 --> 00:23:08,620
+run around with their shield up constantly
+
+496
+00:23:08,620 --> 00:23:11,900
+and don't really play in the kind of active, action-y way
+
+497
+00:23:11,900 --> 00:23:14,060
+that lends to really enjoying yourself.
+
+498
+00:23:14,140 --> 00:23:16,860
+You can see this play conditioning in effect with, for example,
+
+499
+00:23:16,860 --> 00:23:19,260
+Geopp, who Let's Played the game in 2012.
+
+500
+00:23:19,260 --> 00:23:21,340
+He plays very conservatively and slowly
+
+501
+00:23:21,340 --> 00:23:24,140
+and has his shield up even when nothing's around just in case.
+
+502
+00:23:24,140 --> 00:23:26,540
+He's very careful, and it takes him five videos
+
+503
+00:23:26,540 --> 00:23:28,460
+to get to the bonfire in Undead Burg.
+
+504
+00:23:28,460 --> 00:23:30,060
+And once he gets his hands on a spear,
+
+505
+00:23:30,060 --> 00:23:34,300
+he spends a huge portion of the game attacking safely from behind his shield.
+
+506
+00:23:34,300 --> 00:23:35,740
+In the description of the Let's Play,
+
+507
+00:23:35,740 --> 00:23:39,020
+he explains that he played a small bit of Demon's Souls before giving up.
+
+508
+00:23:39,020 --> 00:23:40,700
+In other words, this play style emerges
+
+509
+00:23:40,700 --> 00:23:43,260
+from when you experience the parts of the first two games
+
+510
+00:23:43,260 --> 00:23:47,020
+that seemingly condition you to play the game in the most boring way
+
+511
+00:23:47,020 --> 00:23:48,300
+in order to survive.
+
+512
+00:23:48,300 --> 00:23:50,700
+Something very telling he does is constantly discuss
+
+513
+00:23:50,700 --> 00:23:52,060
+when is a good time to heal
+
+514
+00:23:52,060 --> 00:23:53,900
+because he wants to conserve his flasks.
+
+515
+00:23:53,900 --> 00:23:56,380
+He learned to treat healing like that in Demon's Souls
+
+516
+00:23:56,380 --> 00:23:58,540
+where you could literally run out of healing items
+
+517
+00:23:58,540 --> 00:24:00,380
+and have none and just be screwed.
+
+518
+00:24:00,380 --> 00:24:02,380
+He takes a little while to fully take on board
+
+519
+00:24:02,380 --> 00:24:04,540
+on the instinctive level people play games
+
+520
+00:24:04,540 --> 00:24:06,940
+that wasting some of your Estus isn't a big deal
+
+521
+00:24:06,940 --> 00:24:08,380
+because it's not gone forever.
+
+522
+00:24:08,380 --> 00:24:10,460
+In other words, he's actually suffering in Dark Souls
+
+523
+00:24:10,460 --> 00:24:14,060
+because of the way Demon's Souls taught him to play this kind of game.
+
+524
+00:24:14,060 --> 00:24:16,940
+Critically, the entire Souls series, even Demon's Souls,
+
+525
+00:24:16,940 --> 00:24:18,140
+have done quite well,
+
+526
+00:24:18,140 --> 00:24:20,620
+but plenty of players didn't like Demon's Souls
+
+527
+00:24:20,620 --> 00:24:22,300
+and a few critics did agree with them.
+
+528
+00:24:22,300 --> 00:24:23,420
+Take, for example, Yahtzee,
+
+529
+00:24:23,420 --> 00:24:27,340
+everyone's favorite fast-talking English sweary man
+
+530
+00:24:27,340 --> 00:24:29,020
+who I'm not jealous of at all.
+
+531
+00:24:29,020 --> 00:24:29,980
+So in conclusion,
+
+532
+00:24:29,980 --> 00:24:31,260
+fuck you, Demon's Souls.
+
+533
+00:24:31,260 --> 00:24:32,300
+A challenge is one thing,
+
+534
+00:24:32,300 --> 00:24:34,780
+but trying to break down a fucking cement wall with your forehead
+
+535
+00:24:34,780 --> 00:24:35,340
+isn't a challenge,
+
+536
+00:24:35,340 --> 00:24:37,260
+it's grounds for getting fucking sectioned.
+
+537
+00:24:37,260 --> 00:24:40,220
+That's a pretty emphatic no to what Demon's Souls is doing,
+
+538
+00:24:40,700 --> 00:24:43,820
+I remember people on forums at the time echoing his feelings about it.
+
+539
+00:24:43,820 --> 00:24:44,780
+It's trial and error,
+
+540
+00:24:44,780 --> 00:24:46,460
+the combat is too punishing,
+
+541
+00:24:46,460 --> 00:24:48,140
+it feels overly hard,
+
+542
+00:24:48,140 --> 00:24:49,980
+you have to take it slow to do well,
+
+543
+00:24:49,980 --> 00:24:51,580
+and that just isn't fun and so on.
+
+544
+00:24:51,580 --> 00:24:53,180
+At this point, it's worth mentioning that,
+
+545
+00:24:53,180 --> 00:24:55,420
+yeah, Dark Souls did gangbusters.
+
+546
+00:24:55,420 --> 00:24:58,460
+It got super popular and had a massively committed following
+
+547
+00:24:58,460 --> 00:25:01,340
+many times the size of the one Demon's Souls ended up with,
+
+548
+00:25:01,340 --> 00:25:03,340
+and even Yahtzee came around on it.
+
+549
+00:25:03,340 --> 00:25:04,700
+But hang on a second.
+
+550
+00:25:05,500 --> 00:25:07,100
+Let's check out why.
+
+551
+00:25:07,100 --> 00:25:08,860
+After watching a decent let's play of the game,
+
+552
+00:25:08,860 --> 00:25:09,980
+gone over the wiki a few times,
+
+553
+00:25:09,980 --> 00:25:12,540
+and a six-week preparation with a team of advisors and physical trainers,
+
+554
+00:25:12,540 --> 00:25:14,060
+I was able to break through the wall.
+
+555
+00:25:14,060 --> 00:25:16,060
+And I suppose that's the first failing of Dark Souls,
+
+556
+00:25:16,060 --> 00:25:18,300
+that you need the fucking Cliff's Notes to get into it.
+
+557
+00:25:18,300 --> 00:25:20,620
+It's hard to recommend a game to someone and say,
+
+558
+00:25:20,620 --> 00:25:23,260
+but first, here's all the research you have to do.
+
+559
+00:25:23,260 --> 00:25:24,860
+Because that person's gonna say,
+
+560
+00:25:24,860 --> 00:25:27,500
+you know, you say this game's more fun than Zelda H-Bomb,
+
+561
+00:25:27,500 --> 00:25:30,380
+but Zelda doesn't require me to read any technical manuals
+
+562
+00:25:30,380 --> 00:25:31,820
+or peer-reviewed journals
+
+563
+00:25:31,820 --> 00:25:34,380
+and watch someone else play it for a few hours first.
+
+564
+00:25:34,380 --> 00:25:35,900
+This doesn't mean the game is bad.
+
+565
+00:25:35,900 --> 00:25:37,980
+Dark Souls is a very fun video game,
+
+566
+00:25:37,980 --> 00:25:39,980
+I hope that goes without saying at this point,
+
+567
+00:25:39,980 --> 00:25:43,340
+but that's a heck of a barrier for entry into that fun, isn't it?
+
+568
+00:25:43,340 --> 00:25:45,660
+I'm gonna quickly list the reasons why Dark Souls
+
+569
+00:25:45,660 --> 00:25:47,500
+does better conditioning than Demon's Souls
+
+570
+00:25:47,500 --> 00:25:51,180
+and helped onboard just enough people for it to get the popularity it did.
+
+571
+00:25:51,180 --> 00:25:53,420
+Firstly, the opening I told you about before.
+
+572
+00:25:53,420 --> 00:25:55,100
+You get killed by the Asylum Demon,
+
+573
+00:25:55,100 --> 00:25:56,940
+but you respawn just outside.
+
+574
+00:25:56,940 --> 00:25:58,460
+The rematch is immediate.
+
+575
+00:25:58,460 --> 00:26:01,980
+Instead of being killed and starting with a sense of loss and failure
+
+576
+00:26:01,980 --> 00:26:03,500
+as the beginning of the game,
+
+577
+00:26:03,500 --> 00:26:06,540
+the player is killed, but then gets to take their revenge.
+
+578
+00:26:06,620 --> 00:26:10,300
+Losing, trying again, and winning becomes the expectation
+
+579
+00:26:10,300 --> 00:26:12,380
+instead of, you know, losing.
+
+580
+00:26:12,380 --> 00:26:15,340
+Secondly, there's loads of great quality-of-life improvements.
+
+581
+00:26:15,340 --> 00:26:18,220
+Being hollow, the equivalent of a spirit in Demon's Souls,
+
+582
+00:26:18,220 --> 00:26:19,820
+no longer halves your life.
+
+583
+00:26:19,820 --> 00:26:23,660
+Demon's Souls was made much harder if you ever died and lost your human body,
+
+584
+00:26:23,660 --> 00:26:25,500
+so the player was punished for failure
+
+585
+00:26:25,500 --> 00:26:28,940
+by making it easier to fail until they get a human form back,
+
+586
+00:26:28,940 --> 00:26:31,340
+which is quite a rare occurrence in that game.
+
+587
+00:26:31,340 --> 00:26:32,940
+In Dark Souls, you have the same health
+
+588
+00:26:32,940 --> 00:26:36,540
+and you're free to not feel like you already fucked yourself by dying.
+
+589
+00:26:36,540 --> 00:26:40,540
+So, you have less to lose, so you take more risks and do better.
+
+590
+00:26:40,540 --> 00:26:42,140
+Also, the Estus Flask.
+
+591
+00:26:42,140 --> 00:26:44,700
+You had a finite amount of healing in Demon's Souls.
+
+592
+00:26:44,700 --> 00:26:46,700
+You either found healing items in the world
+
+593
+00:26:46,700 --> 00:26:49,500
+or bought them using souls, which were quite hard-earned.
+
+594
+00:26:49,500 --> 00:26:51,340
+Using one meant it was gone.
+
+595
+00:26:51,340 --> 00:26:53,660
+This made deciding to heal feel risky.
+
+596
+00:26:53,660 --> 00:26:57,820
+Like, if you die now, you basically wasted that healing you just used.
+
+597
+00:26:57,820 --> 00:26:59,660
+This made players less likely to heal,
+
+598
+00:26:59,660 --> 00:27:02,700
+which meant they died more, which meant they had less fun.
+
+599
+00:27:02,700 --> 00:27:05,980
+You could farm souls to buy more, but you know what isn't fun?
+
+600
+00:27:06,780 --> 00:27:10,300
+Farming items just to have enough stuff to get a proper run at the boss.
+
+601
+00:27:10,300 --> 00:27:13,340
+The Estus Flask regenerates every time you die,
+
+602
+00:27:13,340 --> 00:27:16,860
+meaning you never feel like you're actually wasting it because it'll come back.
+
+603
+00:27:16,860 --> 00:27:19,660
+This made players more willing to use their healing item,
+
+604
+00:27:19,660 --> 00:27:23,180
+which made them live longer and do better and have more fun.
+
+605
+00:27:23,180 --> 00:27:25,100
+Those were the main two, in my opinion.
+
+606
+00:27:25,100 --> 00:27:27,260
+There are more, but they're not really worth bringing up here.
+
+607
+00:27:27,260 --> 00:27:29,740
+If I were making a game with Demon's Souls as system of health,
+
+608
+00:27:29,740 --> 00:27:32,940
+I would have made your life bar and soul form your actual life bar
+
+609
+00:27:32,940 --> 00:27:35,020
+and have your health double when you were human,
+
+610
+00:27:35,020 --> 00:27:37,260
+so being human at least felt like a buff
+
+611
+00:27:37,260 --> 00:27:41,900
+instead of simply being able to use all of your health bar for a while.
+
+612
+00:27:41,900 --> 00:27:46,460
+My third reason why Dark Souls feels better is the existence of Demon's Souls itself.
+
+613
+00:27:46,460 --> 00:27:48,780
+I know it's a bit weird, but I think my reasoning is sound.
+
+614
+00:27:48,780 --> 00:27:53,020
+Demon's Souls felt to players like this weird new thing that did stuff differently,
+
+615
+00:27:53,020 --> 00:27:55,900
+and different doesn't always feel good to play.
+
+616
+00:27:55,900 --> 00:27:57,980
+Some aspects felt like active mistakes.
+
+617
+00:27:57,980 --> 00:28:00,460
+Why would they make the game this punishing and hard?
+
+618
+00:28:00,460 --> 00:28:03,340
+Why were there so many weird traps trying to directly kill me?
+
+619
+00:28:03,340 --> 00:28:04,300
+And so on.
+
+620
+00:28:04,300 --> 00:28:09,180
+Dark Souls, by being the second in a series, is viewed differently by its players.
+
+621
+00:28:09,180 --> 00:28:12,700
+Now all the weirdness and differentness and difficulty are justifiable.
+
+622
+00:28:12,700 --> 00:28:16,620
+The fact they did it twice makes it feel like, no, this is all just intentional.
+
+623
+00:28:16,620 --> 00:28:21,260
+Suddenly, bad ideas and weird concepts simply become staples of a series.
+
+624
+00:28:21,260 --> 00:28:24,620
+For a movie example, The Purge had to justify its very existence
+
+625
+00:28:24,620 --> 00:28:27,580
+and its concept to a fresh audience when it came out.
+
+626
+00:28:27,660 --> 00:28:32,220
+But The Purge 2 and 3 didn't, because they were the second and third stories in a series.
+
+627
+00:28:32,220 --> 00:28:34,780
+So even if The Purge 1 is worse than the others,
+
+628
+00:28:34,780 --> 00:28:35,580
+which, yeah...
+
+629
+00:28:39,900 --> 00:28:44,860
+It's worth keeping in mind that it did receive a different critical perspective than its sequels did.
+
+630
+00:28:44,860 --> 00:28:47,180
+Dark Souls has slightly better play conditioning,
+
+631
+00:28:47,180 --> 00:28:49,980
+but it's still quite clearly not that great at it.
+
+632
+00:28:49,980 --> 00:28:52,780
+So it isn't just that Bloodborne is a better game than the others,
+
+633
+00:28:52,780 --> 00:28:54,780
+although that is kinda true in my opinion,
+
+634
+00:28:54,780 --> 00:28:58,620
+Bloodborne changes people's perspectives on a more subtle level.
+
+635
+00:28:58,620 --> 00:29:00,540
+I have a theory about this ga-
+
+636
+00:29:00,540 --> 00:29:03,100
+No, I have a hypothesis about this game.
+
+637
+00:29:03,660 --> 00:29:07,100
+Bloodborne teaches you how to enjoy Souls games.
+
+638
+00:29:07,100 --> 00:29:10,700
+Let me show you just a couple of the design differences that seem small,
+
+639
+00:29:10,700 --> 00:29:14,220
+but have a massive, MASSIVE difference on the mindset of players.
+
+640
+00:29:14,220 --> 00:29:15,740
+Firstly, the most obvious one.
+
+641
+00:29:17,660 --> 00:29:18,940
+There's no shield.
+
+642
+00:29:18,940 --> 00:29:20,380
+Where is it? It's not there!
+
+643
+00:29:20,380 --> 00:29:22,060
+This isn't how these games work!
+
+644
+00:29:22,060 --> 00:29:25,020
+You don't start the game with a shield at all, no matter what.
+
+645
+00:29:25,020 --> 00:29:26,220
+This is genius!
+
+646
+00:29:26,220 --> 00:29:26,720
+This is...
+
+647
+00:29:27,500 --> 00:29:30,300
+It's a spicy meatball of game design goodness!
+
+648
+00:29:30,300 --> 00:29:31,820
+Normally food metaphors are bad,
+
+649
+00:29:31,820 --> 00:29:35,260
+but I can literally taste the design genius here.
+
+650
+00:29:35,260 --> 00:29:38,860
+The shield has been the bane of the Souls series from the very start.
+
+651
+00:29:38,860 --> 00:29:40,460
+It's the true villain,
+
+652
+00:29:40,460 --> 00:29:43,420
+and it's precisely because of its function and use.
+
+653
+00:29:43,420 --> 00:29:44,060
+Let's go back.
+
+654
+00:29:44,060 --> 00:29:51,980
+Ah, the shield. A classic.
+
+655
+00:29:51,980 --> 00:29:55,660
+You hold a button down and you're immediately protected from obvious harm you're facing.
+
+656
+00:29:55,660 --> 00:29:56,940
+There's a parry mechanic,
+
+657
+00:29:56,940 --> 00:30:01,020
+which you can use to make an enemy completely exposed and hit them for way more damage.
+
+658
+00:30:01,020 --> 00:30:02,300
+But why take the risk?
+
+659
+00:30:02,300 --> 00:30:03,740
+You can just block the attack,
+
+660
+00:30:03,740 --> 00:30:05,340
+and then attack when there's an opening.
+
+661
+00:30:05,340 --> 00:30:06,060
+Just wait!
+
+662
+00:30:06,060 --> 00:30:07,180
+You can do a dodge roll,
+
+663
+00:30:07,180 --> 00:30:09,660
+but you're only immune to getting hit for a few frames.
+
+664
+00:30:09,660 --> 00:30:11,980
+Why bother when you can just stand there and be fine?
+
+665
+00:30:11,980 --> 00:30:13,340
+This game's not so hard.
+
+666
+00:30:13,340 --> 00:30:14,540
+Just hold the shield button.
+
+667
+00:30:15,260 --> 00:30:17,580
+Welcome to having a shitty time.
+
+668
+00:30:17,580 --> 00:30:21,500
+The fun, frenetic dodge mechanic and the incredibly engaging parry stuff
+
+669
+00:30:21,500 --> 00:30:24,700
+is immediately foreclosed by a much safer option.
+
+670
+00:30:24,700 --> 00:30:26,220
+Not necessarily better,
+
+671
+00:30:26,220 --> 00:30:28,380
+but for early players, safer.
+
+672
+00:30:28,380 --> 00:30:31,580
+A good deal of players will spend a lot of time with their shield up,
+
+673
+00:30:31,580 --> 00:30:32,780
+playing it safe,
+
+674
+00:30:32,780 --> 00:30:35,420
+waiting for only the best possible moment to drop it,
+
+675
+00:30:35,420 --> 00:30:36,060
+strike,
+
+676
+00:30:36,060 --> 00:30:37,500
+and then bring it back up again.
+
+677
+00:30:37,500 --> 00:30:39,820
+The shields only get bigger and more defend-y.
+
+678
+00:30:39,820 --> 00:30:44,060
+They seem to actively encourage using one more rather than less over time.
+
+679
+00:30:44,060 --> 00:30:46,620
+One reason why early players gravitate towards spears
+
+680
+00:30:46,620 --> 00:30:49,740
+is because you can even use them while the shield is up.
+
+681
+00:30:49,740 --> 00:30:52,220
+It's encouraging the players to turtle up,
+
+682
+00:30:52,220 --> 00:30:53,580
+play very, very slowly,
+
+683
+00:30:53,580 --> 00:30:55,740
+and just not have a good time.
+
+684
+00:30:55,740 --> 00:30:58,940
+This is one major reason why people don't enjoy these games.
+
+685
+00:30:58,940 --> 00:31:00,540
+They tell you you're going to die a lot,
+
+686
+00:31:00,540 --> 00:31:02,860
+and then hand you a means of protecting yourself,
+
+687
+00:31:02,860 --> 00:31:04,860
+and the immediate assumption is that you should,
+
+688
+00:31:04,860 --> 00:31:05,500
+you know,
+
+689
+00:31:05,500 --> 00:31:06,220
+use it.
+
+690
+00:31:06,220 --> 00:31:08,620
+But it makes for boring, slow play.
+
+691
+00:31:08,620 --> 00:31:10,220
+You could try parrying,
+
+692
+00:31:10,220 --> 00:31:13,660
+or just put the shield away and have fun using the other options available to you,
+
+693
+00:31:13,660 --> 00:31:15,260
+like two-handing the sword,
+
+694
+00:31:15,260 --> 00:31:18,220
+but the game doesn't really seem to encourage doing it, does it?
+
+695
+00:31:18,220 --> 00:31:20,620
+No shield means no one is safe.
+
+696
+00:31:20,620 --> 00:31:21,900
+You have to dodge,
+
+697
+00:31:21,900 --> 00:31:23,820
+and your offhand weapon is now a gun
+
+698
+00:31:23,820 --> 00:31:25,100
+whose sole use,
+
+699
+00:31:25,100 --> 00:31:27,260
+unless you spec your character a specific way,
+
+700
+00:31:27,260 --> 00:31:28,620
+is for parrying.
+
+701
+00:31:28,620 --> 00:31:29,260
+Parry,
+
+702
+00:31:29,260 --> 00:31:30,140
+or dodge,
+
+703
+00:31:30,140 --> 00:31:31,100
+or die.
+
+704
+00:31:31,100 --> 00:31:33,660
+No easy, boring path at all.
+
+705
+00:31:33,660 --> 00:31:35,260
+You now have no choice
+
+706
+00:31:35,260 --> 00:31:37,260
+but to play the game the fun way.
+
+707
+00:31:37,340 --> 00:31:39,100
+Welcome to the fun zone.
+
+708
+00:31:39,100 --> 00:31:41,500
+I just, I, I can't believe it.
+
+709
+00:31:41,500 --> 00:31:42,000
+Like,
+
+710
+00:31:43,180 --> 00:31:44,940
+can you imagine being in the room
+
+711
+00:31:44,940 --> 00:31:49,340
+when Hit Attacker Miyazaki was looking at playtest footage of the previous games,
+
+712
+00:31:49,340 --> 00:31:51,500
+and coming up with the concept for Bloodborne,
+
+713
+00:31:51,500 --> 00:31:52,220
+and he was like,
+
+714
+00:31:52,220 --> 00:31:52,940
+hey,
+
+715
+00:31:52,940 --> 00:31:53,440
+hey,
+
+716
+00:31:54,060 --> 00:31:54,940
+take out the shields.
+
+717
+00:31:55,660 --> 00:31:56,160
+Like,
+
+718
+00:31:56,540 --> 00:31:57,040
+what?
+
+719
+00:31:57,580 --> 00:31:58,460
+Nani?!
+
+720
+00:31:58,460 --> 00:31:59,500
+Hit Attacker?!
+
+721
+00:31:59,500 --> 00:32:01,740
+How will people defend themselves?
+
+722
+00:32:01,740 --> 00:32:05,180
+By learning to play the game in a way that's actually fun, mate.
+
+723
+00:32:05,180 --> 00:32:06,700
+That's how Japanese people talk,
+
+724
+00:32:06,700 --> 00:32:08,220
+with that exact accent.
+
+725
+00:32:08,220 --> 00:32:09,580
+No shields, ever.
+
+726
+00:32:09,580 --> 00:32:10,080
+None.
+
+727
+00:32:10,540 --> 00:32:11,500
+Okay, one shield,
+
+728
+00:32:11,500 --> 00:32:12,540
+but it's a joke.
+
+729
+00:32:12,540 --> 00:32:16,300
+Put a joke in the arm description about them engendering passivity.
+
+730
+00:32:16,300 --> 00:32:17,020
+Passivity.
+
+731
+00:32:17,020 --> 00:32:18,460
+God, I can't do this voice.
+
+732
+00:32:18,460 --> 00:32:18,940
+Sorry.
+
+733
+00:32:18,940 --> 00:32:21,980
+Broad strokes, let's think about what lesson these games teach you.
+
+734
+00:32:21,980 --> 00:32:24,140
+Demon's Souls hands you a sword and shield,
+
+735
+00:32:24,140 --> 00:32:25,420
+and then kills you,
+
+736
+00:32:25,420 --> 00:32:27,340
+and tells you you're going to die a lot.
+
+737
+00:32:27,980 --> 00:32:29,420
+Dark Souls kills you,
+
+738
+00:32:29,420 --> 00:32:30,620
+and hands you a shield.
+
+739
+00:32:31,180 --> 00:32:32,540
+Bloodborne kills you,
+
+740
+00:32:32,540 --> 00:32:33,980
+and hands you a blade,
+
+741
+00:32:33,980 --> 00:32:34,860
+and a gun.
+
+742
+00:32:35,180 --> 00:32:37,740
+It's commonly said that the best defense is a good offense,
+
+743
+00:32:37,740 --> 00:32:41,100
+and while I'm currently on trial for taking that concept too seriously,
+
+744
+00:32:41,100 --> 00:32:42,700
+it's certainly true here.
+
+745
+00:32:42,700 --> 00:32:44,620
+It's just genius.
+
+746
+00:32:44,620 --> 00:32:47,260
+It's always been possible to play without a shield.
+
+747
+00:32:47,260 --> 00:32:48,220
+Two-handing a weapon,
+
+748
+00:32:48,220 --> 00:32:48,780
+or dodging,
+
+749
+00:32:48,780 --> 00:32:49,420
+or parrying,
+
+750
+00:32:49,420 --> 00:32:50,860
+has always been viable,
+
+751
+00:32:50,860 --> 00:32:53,740
+and always been more fun and fluid than using the shield,
+
+752
+00:32:53,740 --> 00:32:56,620
+but they're just harder enough compared to putting the shield up
+
+753
+00:32:56,620 --> 00:32:58,460
+that most people don't want to take the risk,
+
+754
+00:32:58,460 --> 00:33:00,860
+and thus end up playing the whole game like this.
+
+755
+00:33:00,860 --> 00:33:02,860
+At which point, how far you get through these games
+
+756
+00:33:02,860 --> 00:33:06,620
+becomes a question of how committed you are to being bored,
+
+757
+00:33:06,620 --> 00:33:08,700
+and there are people who've always played the games like this,
+
+758
+00:33:08,700 --> 00:33:10,460
+but they tend to have needed a long time
+
+759
+00:33:10,460 --> 00:33:13,180
+to figure out this style of play and really get into it.
+
+760
+00:33:13,180 --> 00:33:14,460
+By removing shields,
+
+761
+00:33:14,460 --> 00:33:18,060
+players are funneled into that particular play style far quicker,
+
+762
+00:33:18,060 --> 00:33:19,580
+and what's magical about this
+
+763
+00:33:19,580 --> 00:33:22,380
+is that this mindset carries over to the previous games.
+
+764
+00:33:22,380 --> 00:33:25,580
+The incredible potential of the series is made available to people
+
+765
+00:33:25,580 --> 00:33:28,220
+without the need to figure out that play style for themselves
+
+766
+00:33:28,220 --> 00:33:30,620
+by investing tons of time into an experience
+
+767
+00:33:30,620 --> 00:33:32,780
+that starts out feeling kind of plodding.
+
+768
+00:33:32,780 --> 00:33:36,540
+This is one reason why the early Demon's Souls and Dark Souls 1 community
+
+769
+00:33:36,540 --> 00:33:38,700
+seems so hardcore and committed,
+
+770
+00:33:38,700 --> 00:33:40,700
+because previously, the only sort of person
+
+771
+00:33:40,700 --> 00:33:43,420
+who would stick with early Demon's Souls or Dark Souls
+
+772
+00:33:43,420 --> 00:33:46,060
+long enough to get to the place where it's actually fun
+
+773
+00:33:46,060 --> 00:33:49,020
+is the kind of person who's willing to invest a lot of time
+
+774
+00:33:49,020 --> 00:33:51,820
+into something that starts out not all that fun,
+
+775
+00:33:51,820 --> 00:33:54,220
+and that takes a certain type of person.
+
+776
+00:33:54,220 --> 00:33:57,580
+The early fan base of the Souls series is a bunch of weirdos
+
+777
+00:33:57,580 --> 00:34:01,340
+because that's the only type of person the series could attract early on.
+
+778
+00:34:01,340 --> 00:34:02,620
+No offense intended here.
+
+779
+00:34:02,620 --> 00:34:04,700
+I'm one of those people, okay?
+
+780
+00:34:04,700 --> 00:34:06,060
+I'm just being self-aware.
+
+781
+00:34:06,060 --> 00:34:08,780
+Without making the experience all that much easier,
+
+782
+00:34:08,780 --> 00:34:12,540
+in fact, by making it harder by taking the shield out,
+
+783
+00:34:12,540 --> 00:34:16,140
+Bloodborne opens up the fun way of experiencing this type of game
+
+784
+00:34:16,140 --> 00:34:17,340
+to more people,
+
+785
+00:34:17,340 --> 00:34:19,740
+and that's just magical, isn't it?
+
+786
+00:34:19,740 --> 00:34:20,620
+Don't you think?
+
+787
+00:34:20,620 --> 00:34:22,620
+I'm still reeling from it, to be honest.
+
+788
+00:34:22,620 --> 00:34:26,940
+Like, what level of genius does a man have to be operating on
+
+789
+00:34:26,940 --> 00:34:28,140
+to be able to go,
+
+790
+00:34:28,140 --> 00:34:29,580
+okay, I've thought about it,
+
+791
+00:34:29,580 --> 00:34:33,020
+and by removing a key aspect of our game series,
+
+792
+00:34:33,020 --> 00:34:35,180
+we're gonna vastly improve the experience,
+
+793
+00:34:35,180 --> 00:34:36,460
+not just of this game,
+
+794
+00:34:36,460 --> 00:34:38,380
+but of all the previous ones,
+
+795
+00:34:38,380 --> 00:34:40,540
+because people will go back and play them that way
+
+796
+00:34:40,540 --> 00:34:42,460
+and have a fucking great time!
+
+797
+00:34:42,460 --> 00:34:44,300
+Like, oh my god!
+
+798
+00:34:44,300 --> 00:34:45,980
+Isn't- I- I'm sorry.
+
+799
+00:34:45,980 --> 00:34:48,380
+I try not to, like, screech too much in my videos anymore.
+
+800
+00:34:48,380 --> 00:34:49,740
+People- people say it sounds fake,
+
+801
+00:34:49,740 --> 00:34:51,420
+even though that is actually just how I talk,
+
+802
+00:34:52,380 --> 00:34:53,740
+but I just can't not.
+
+803
+00:34:54,460 --> 00:34:56,940
+It's- it's so brilliant.
+
+804
+00:34:58,940 --> 00:35:00,940
+Woo!
+
+805
+00:35:00,940 --> 00:35:02,860
+One in, done.
+
+806
+00:35:02,860 --> 00:35:04,140
+Praise the mace.
+
+807
+00:35:04,140 --> 00:35:07,340
+Now, I don't know which Patrick you'd vote for president of the school council,
+
+808
+00:35:07,340 --> 00:35:09,020
+but I already cast my vote early.
+
+809
+00:35:09,020 --> 00:35:12,860
+I have a- a mail-in vote to the- the vidi- video game school.
+
+810
+00:35:12,860 --> 00:35:16,700
+Complementing this just genius system is rallying.
+
+811
+00:35:16,700 --> 00:35:20,140
+If you get hit, that section of lost health lingers there for a while,
+
+812
+00:35:20,140 --> 00:35:23,020
+and you get some of that health back if you hit an enemy.
+
+813
+00:35:23,020 --> 00:35:25,980
+You can theoretically get it all back almost every time.
+
+814
+00:35:25,980 --> 00:35:28,860
+This feels, at first, like a simple gimmick, right?
+
+815
+00:35:28,860 --> 00:35:33,180
+But think about how it impacts the player's sense as they play the game.
+
+816
+00:35:33,180 --> 00:35:36,460
+Now when you get hit, you don't immediately think to back off and heal
+
+817
+00:35:36,460 --> 00:35:38,620
+and just break the flow of the combat.
+
+818
+00:35:38,620 --> 00:35:41,420
+In every Souls game before that, that's the reaction.
+
+819
+00:35:41,420 --> 00:35:43,100
+Now you can keep going.
+
+820
+00:35:43,100 --> 00:35:46,620
+You can take your health back from the guy who hit you.
+
+821
+00:35:46,620 --> 00:35:47,900
+Bloody blimey!
+
+822
+00:35:47,900 --> 00:35:52,460
+Like, now you always have the option of being a little more vicious and getting away with it.
+
+823
+00:35:52,460 --> 00:35:56,460
+It's hugely impactful on the flow and action of combat.
+
+824
+00:35:56,460 --> 00:35:59,980
+Combined with the loss of shields, you're carefully encouraged into a mindset
+
+825
+00:35:59,980 --> 00:36:06,940
+that's just more aggressive and tactile and fun and more big, fun-sounding words.
+
+826
+00:36:06,940 --> 00:36:08,860
+It's not even a huge difference, is it?
+
+827
+00:36:08,860 --> 00:36:13,500
+But it results in an improved approach to combat that's more satisfying for players
+
+828
+00:36:13,500 --> 00:36:17,660
+and which, like not using a shield, carries back over to the previous games.
+
+829
+00:36:17,660 --> 00:36:21,580
+Bloodborne at times feels like a tutorial for how to play the previous ones
+
+830
+00:36:21,580 --> 00:36:23,900
+because even when you take rallying out,
+
+831
+00:36:23,900 --> 00:36:27,500
+killing an enemy before healing is generally a smarter option anyway.
+
+832
+00:36:27,500 --> 00:36:31,580
+You've been forced to get good the way people used to have to be obnoxious
+
+833
+00:36:31,580 --> 00:36:34,220
+and hammer away for hundreds of hours to achieve.
+
+834
+00:36:34,220 --> 00:36:38,300
+The developers of Bloodborne didn't blame players for playing it badly.
+
+835
+00:36:38,300 --> 00:36:40,860
+They blamed the game, and then they fixed it.
+
+836
+00:36:44,460 --> 00:36:48,540
+The other way players subtly influenced is the slight change in the way weapons work.
+
+837
+00:36:48,540 --> 00:36:52,300
+Quick weapons feel responsive and larger weapons feel slower and more deliberate,
+
+838
+00:36:52,300 --> 00:36:55,980
+but there's a genuine sense of weight and power when you pull them off.
+
+839
+00:36:55,980 --> 00:36:57,980
+But the edges have been rough at times.
+
+840
+00:36:57,980 --> 00:37:00,540
+The biggest problem has been the array of weapons available.
+
+841
+00:37:00,540 --> 00:37:03,260
+There are, in my opinion, a bit too many.
+
+842
+00:37:03,260 --> 00:37:05,500
+There's a bunch of different kinds of sword,
+
+843
+00:37:05,500 --> 00:37:08,620
+all with slightly different or majorly different animations.
+
+844
+00:37:08,620 --> 00:37:12,140
+Maces, rapiers, spears, greatswords, ultra greatswords,
+
+845
+00:37:12,140 --> 00:37:14,780
+ridiculous fuck-off big berserk reference swords,
+
+846
+00:37:14,780 --> 00:37:18,620
+battle axes, hand axes, stupid axes, and so on.
+
+847
+00:37:18,620 --> 00:37:20,380
+The variety initially seems fine,
+
+848
+00:37:20,380 --> 00:37:22,780
+but in practice it means you have to figure out and remember
+
+849
+00:37:22,780 --> 00:37:25,260
+dozens of different timings and animations and ranges
+
+850
+00:37:25,260 --> 00:37:27,580
+for both one-handing and two-handing all these weapons
+
+851
+00:37:27,580 --> 00:37:30,940
+in order to know which you prefer or which one is best for each scenario.
+
+852
+00:37:30,940 --> 00:37:33,020
+It's not particularly inviting to players,
+
+853
+00:37:33,020 --> 00:37:37,100
+and did we really need three very similar versions of the same moveset
+
+854
+00:37:37,100 --> 00:37:39,820
+when one would have had more clarity and been less cluttered?
+
+855
+00:37:39,820 --> 00:37:43,180
+Did we really need a bastard sword and a claymore?
+
+856
+00:37:43,180 --> 00:37:46,780
+Bloodborne solves this handily from, like, eight different directions at once.
+
+857
+00:37:46,780 --> 00:37:49,980
+Firstly, there's nowhere near as many weapons, but all of them are unique.
+
+858
+00:37:49,980 --> 00:37:52,780
+There are variations, like the saw cleaver has the saw spear
+
+859
+00:37:52,780 --> 00:37:55,020
+and the Kirkhammer has Ludwig's holy blade,
+
+860
+00:37:55,020 --> 00:37:56,780
+but even they feel different enough.
+
+861
+00:37:56,780 --> 00:37:58,540
+But they don't make you feel like you've lost out
+
+862
+00:37:58,540 --> 00:38:00,940
+on tons of variations you could have experimented with
+
+863
+00:38:00,940 --> 00:38:03,100
+because the weapons all have alternative forms
+
+864
+00:38:03,100 --> 00:38:05,900
+that increase the versatility of each individual weapon
+
+865
+00:38:05,900 --> 00:38:07,980
+and even give you moves that let you switch between them
+
+866
+00:38:07,980 --> 00:38:09,900
+as you're attacking, which is really cool.
+
+867
+00:38:09,900 --> 00:38:12,300
+Every weapon has an amazing amount of moves and uses,
+
+868
+00:38:12,300 --> 00:38:13,740
+but you're never overwhelmed
+
+869
+00:38:13,740 --> 00:38:17,340
+because no weapon is clearly worse or better than any other anymore.
+
+870
+00:38:17,340 --> 00:38:19,100
+I'm looking at you, sword that you get
+
+871
+00:38:19,100 --> 00:38:21,020
+that's the same moveset as a starting sword
+
+872
+00:38:21,020 --> 00:38:22,780
+but is just better for no reason.
+
+873
+00:38:22,780 --> 00:38:25,100
+There's no longer a really obviously better version
+
+874
+00:38:25,100 --> 00:38:26,620
+of the weapon you were already using
+
+875
+00:38:26,620 --> 00:38:30,140
+you now have to switch to later on because it's underleveled.
+
+876
+00:38:30,140 --> 00:38:32,780
+But overall, these changes gently coax players
+
+877
+00:38:32,780 --> 00:38:35,180
+into feeling like the choice they made is valid
+
+878
+00:38:35,180 --> 00:38:38,620
+instead of living in constant fear that they're hamstringing themselves.
+
+879
+00:38:38,620 --> 00:38:41,020
+The saw cleaver can be your endgame weapon,
+
+880
+00:38:41,020 --> 00:38:43,340
+and you can become intimately knowledgeable with its use
+
+881
+00:38:43,340 --> 00:38:46,300
+and never have to worry if you should actually be using something else
+
+882
+00:38:46,300 --> 00:38:48,380
+and the weapons are unique and varied enough
+
+883
+00:38:48,380 --> 00:38:51,500
+that they never feel samey even if you use them for the whole game.
+
+884
+00:38:51,500 --> 00:38:54,140
+If you really like generic swords, there's one in there.
+
+885
+00:38:54,140 --> 00:38:56,860
+It just happens to be able to turn into a cool weapon.
+
+886
+00:38:56,860 --> 00:39:00,060
+The downsides of each weapon are almost always clear and understandable.
+
+887
+00:39:00,060 --> 00:39:02,620
+You know, the Kirkhammer's huge but a bit slow.
+
+888
+00:39:02,620 --> 00:39:06,300
+The sword cane is really quick and has a whip state that has a huge range
+
+889
+00:39:06,300 --> 00:39:08,140
+but it doesn't deal all that much damage.
+
+890
+00:39:08,140 --> 00:39:09,500
+Okay, there is one thing.
+
+891
+00:39:09,500 --> 00:39:11,740
+The Tornatrus is weird.
+
+892
+00:39:11,740 --> 00:39:13,100
+It's actually my favorite weapon.
+
+893
+00:39:13,100 --> 00:39:15,180
+Its alternate form is it doesn't have one.
+
+894
+00:39:15,180 --> 00:39:17,180
+It just becomes briefly electric.
+
+895
+00:39:17,180 --> 00:39:19,100
+It's generally pretty strong and fast
+
+896
+00:39:19,100 --> 00:39:22,860
+and knowing when to take the time to electrify it for even more damage is great.
+
+897
+00:39:22,860 --> 00:39:24,780
+Its downside is really silly though.
+
+898
+00:39:24,780 --> 00:39:28,140
+It has a low durability and it goes down quicker than normal weapons
+
+899
+00:39:28,140 --> 00:39:29,820
+meaning you have to repair it more often
+
+900
+00:39:29,820 --> 00:39:32,300
+by returning to the hunter's dream and fixing it up.
+
+901
+00:39:32,300 --> 00:39:36,300
+But it doesn't deteriorate that quickly and repairing costs next to nothing.
+
+902
+00:39:36,300 --> 00:39:37,660
+It's at worst a hassle.
+
+903
+00:39:37,660 --> 00:39:39,500
+That's not really much of a downside.
+
+904
+00:39:39,500 --> 00:39:42,540
+I get that it's trying to make it a weapon you have to use sparingly.
+
+905
+00:39:42,540 --> 00:39:43,900
+I think that's a neat idea.
+
+906
+00:39:43,900 --> 00:39:47,660
+But in practice, it doesn't lose durability fast enough to be a major issue
+
+907
+00:39:47,660 --> 00:39:50,460
+and it's annoying to go to fix when it does get low.
+
+908
+00:39:50,460 --> 00:39:52,860
+Dark Souls 2 actually had a better system
+
+909
+00:39:52,860 --> 00:39:55,500
+where resting at a bonfire restored your weapons each time
+
+910
+00:39:55,500 --> 00:39:57,340
+and durability was lower all round.
+
+911
+00:39:57,340 --> 00:39:59,740
+So you really did have to take that into consideration
+
+912
+00:39:59,740 --> 00:40:03,500
+and some weapons really could only be used sparingly during a single run.
+
+913
+00:40:03,500 --> 00:40:06,220
+Instead of with the Tornatrus, which is basically a really good weapon,
+
+914
+00:40:06,220 --> 00:40:08,140
+you have to repair a bit more than usual,
+
+915
+00:40:08,140 --> 00:40:10,460
+which is just not a huge downside.
+
+916
+00:40:10,460 --> 00:40:11,820
+I think this would have been even better
+
+917
+00:40:11,820 --> 00:40:13,660
+if they'd ripped off Dark Souls 2 a little more
+
+918
+00:40:13,660 --> 00:40:16,700
+and had durability that comes back when you die every time
+
+919
+00:40:16,700 --> 00:40:18,140
+but goes down even faster
+
+920
+00:40:18,140 --> 00:40:19,980
+so you really did have to pick the times
+
+921
+00:40:19,980 --> 00:40:22,860
+to pull out the Funtime Electric murder death stick.
+
+922
+00:40:22,860 --> 00:40:27,180
+I think maybe the over-the-top dislike some fans exhibited towards Dark Souls 2
+
+923
+00:40:27,180 --> 00:40:30,700
+caused the developers to walk back on ideas that were genuinely better.
+
+924
+00:40:30,700 --> 00:40:32,380
+Okay, I—I—I—I—
+
+925
+00:40:32,380 --> 00:40:35,660
+I could spend a good deal of this video defending Dark Souls 2.
+
+926
+00:40:35,660 --> 00:40:41,180
+In fact, um, I—like half of the script is me doing that
+
+927
+00:40:41,180 --> 00:40:44,220
+but I do have some sense of when a video is getting to be too much
+
+928
+00:40:44,220 --> 00:40:45,900
+so I've cut all those bits out
+
+929
+00:40:45,900 --> 00:40:49,420
+and I'm gonna compile a video looking at the central complaints about it
+
+930
+00:40:50,460 --> 00:40:53,740
+and why all of them are wrong and lies from criminals
+
+931
+00:40:53,740 --> 00:40:56,860
+and I'm gonna put that up in a separate video a bit later on.
+
+932
+00:40:56,860 --> 00:40:58,780
+When that comes up, I'll put the link here.
+
+933
+00:40:58,780 --> 00:40:59,980
+So, okay, cool.
+
+934
+00:41:00,860 --> 00:41:01,980
+Back to Bloodborne.
+
+935
+00:41:01,980 --> 00:41:04,620
+While I have already talked about how great the weapons
+
+936
+00:41:04,620 --> 00:41:06,940
+have always generally felt in Souls games,
+
+937
+00:41:06,940 --> 00:41:11,420
+a couple of attacks and moves still felt just a little bit like traps.
+
+938
+00:41:11,420 --> 00:41:14,140
+Moves you really should not use under any circumstances
+
+939
+00:41:14,140 --> 00:41:16,620
+because you'll never be in a position where they're actually useful
+
+940
+00:41:16,620 --> 00:41:17,900
+or they're just ridiculous.
+
+941
+00:41:17,900 --> 00:41:19,340
+Especially with the larger weapons
+
+942
+00:41:19,340 --> 00:41:22,140
+and the second or third moves of their heavier attack strings.
+
+943
+00:41:22,140 --> 00:41:25,820
+The second heavy swing of the two-handed dark blade is a honeypot,
+
+944
+00:41:25,820 --> 00:41:29,180
+a sexy, powerful trap designed to bait you into being killed
+
+945
+00:41:29,180 --> 00:41:31,100
+for attempting to actually use it.
+
+946
+00:41:31,100 --> 00:41:33,740
+Almost every weapon has multiple swings for its R2
+
+947
+00:41:33,740 --> 00:41:34,940
+even if it shouldn't
+
+948
+00:41:34,940 --> 00:41:39,580
+because how often is that attack gonna get the chance to go off in this action game?
+
+949
+00:41:39,580 --> 00:41:42,700
+Giving players that option will cause them to try and use it
+
+950
+00:41:42,700 --> 00:41:45,740
+and suffer the consequences in a way that doesn't really feel fun.
+
+951
+00:41:45,740 --> 00:41:49,180
+Giving the players the option to do this is inviting them to get killed.
+
+952
+00:41:49,180 --> 00:41:51,580
+Bloodborne makes a lot of subtle changes here.
+
+953
+00:41:51,580 --> 00:41:54,940
+Firstly, the R2 is no longer an attack with second or third swings.
+
+954
+00:41:54,940 --> 00:41:57,340
+It's very definitively just a single move.
+
+955
+00:41:57,340 --> 00:42:01,100
+It takes away the inherent tension of not knowing if you should be mashing R1
+
+956
+00:42:01,100 --> 00:42:04,540
+or doing the strong but slower ones and seeing how many you can get in.
+
+957
+00:42:04,540 --> 00:42:07,660
+It makes it immediately intuitive that you should be doing the quicker attacks
+
+958
+00:42:07,660 --> 00:42:09,180
+and finishing with the strong one
+
+959
+00:42:09,180 --> 00:42:12,300
+or using it when you know a great place for its particular timing.
+
+960
+00:42:12,300 --> 00:42:15,020
+This moveset is slightly more limited than the previous games
+
+961
+00:42:15,020 --> 00:42:16,060
+but in a way that's good
+
+962
+00:42:16,060 --> 00:42:17,900
+because it means players aren't getting bogged down
+
+963
+00:42:17,900 --> 00:42:19,660
+by moves that are actually useless
+
+964
+00:42:19,660 --> 00:42:23,180
+but beg you to keep using them because you technically can use them.
+
+965
+00:42:23,180 --> 00:42:25,100
+So even though you can only do one,
+
+966
+00:42:25,100 --> 00:42:26,220
+if you're given a big window,
+
+967
+00:42:26,220 --> 00:42:28,940
+you can still maximize damage with it by charging it up.
+
+968
+00:42:28,940 --> 00:42:31,580
+However, quick weapons or weapons with different properties
+
+969
+00:42:31,580 --> 00:42:33,260
+aren't hamstrung by this.
+
+970
+00:42:33,260 --> 00:42:35,740
+The whip function of the sword cane doesn't charge
+
+971
+00:42:35,740 --> 00:42:37,740
+and can combo into a second move
+
+972
+00:42:37,740 --> 00:42:39,420
+because as a relatively quick weapon,
+
+973
+00:42:39,420 --> 00:42:41,580
+the idea of doing more than one attack with it
+
+974
+00:42:41,580 --> 00:42:42,940
+isn't inherently a trap.
+
+975
+00:42:42,940 --> 00:42:44,300
+A cute extra thing I've noticed
+
+976
+00:42:44,300 --> 00:42:46,060
+is that with the really heavy weapon,
+
+977
+00:42:46,060 --> 00:42:47,580
+there is a second R2.
+
+978
+00:42:47,580 --> 00:42:49,820
+If you fully charge Ludwig's Holy Blade,
+
+979
+00:42:49,820 --> 00:42:52,220
+there's a second attack that can come out after
+
+980
+00:42:52,220 --> 00:42:54,220
+but only if you fully charged it.
+
+981
+00:42:54,220 --> 00:42:55,900
+I like this move because it's an acknowledgement
+
+982
+00:42:55,900 --> 00:42:56,780
+that if you're in a position
+
+983
+00:42:56,780 --> 00:42:59,820
+where you just fully charged a very slow and deliberate attack
+
+984
+00:42:59,820 --> 00:43:01,500
+and you did just hit someone with it,
+
+985
+00:43:01,500 --> 00:43:02,780
+you're probably in a position
+
+986
+00:43:02,780 --> 00:43:04,380
+where you might as well have access
+
+987
+00:43:04,380 --> 00:43:06,300
+to another slow but powerful move.
+
+988
+00:43:06,300 --> 00:43:07,260
+To my recollection,
+
+989
+00:43:07,260 --> 00:43:09,260
+this is the only weapon with this property.
+
+990
+00:43:09,260 --> 00:43:10,380
+It's really cool.
+
+991
+00:43:10,380 --> 00:43:12,620
+The fully charged R2 is so strong already
+
+992
+00:43:12,620 --> 00:43:15,420
+that it also usually staggers whoever was coming for you.
+
+993
+00:43:15,420 --> 00:43:17,580
+So that second attack is basically a reward
+
+994
+00:43:17,580 --> 00:43:20,300
+for mastering one of the most careful moves in the game.
+
+995
+00:43:20,300 --> 00:43:22,700
+It's also worth mentioning that the weapon upgrade system
+
+996
+00:43:22,700 --> 00:43:24,540
+is no longer a horrifying nightmare
+
+997
+00:43:24,540 --> 00:43:27,660
+where you can make a weapon into a crushing weapon
+
+998
+00:43:27,660 --> 00:43:30,140
+or a fire weapon or poison or magic
+
+999
+00:43:30,140 --> 00:43:31,340
+or an enchanted weapon.
+
+1000
+00:43:31,340 --> 00:43:34,060
+Yes, those are both different things in the same game.
+
+1001
+00:43:34,060 --> 00:43:35,660
+Or a crystal weapon?
+
+1002
+00:43:35,660 --> 00:43:38,300
+Or a mundane weapon?
+
+1003
+00:43:38,300 --> 00:43:40,460
+A dark weapon?
+
+1004
+00:43:40,460 --> 00:43:43,660
+Half of these options will actively ruin your weapon
+
+1005
+00:43:43,660 --> 00:43:45,900
+unless you've built your character a certain way,
+
+1006
+00:43:45,900 --> 00:43:48,780
+and the resources you expend doing this are rare enough
+
+1007
+00:43:48,780 --> 00:43:50,700
+that you can't afford to waste them.
+
+1008
+00:43:50,700 --> 00:43:53,820
+I get nervous whenever I'm at a weapon upgrade screen
+
+1009
+00:43:53,900 --> 00:43:56,860
+in a Souls game, and that's maybe not great.
+
+1010
+00:43:56,860 --> 00:43:58,780
+Bloodborne keeps the straightforward aspects
+
+1011
+00:43:58,780 --> 00:43:59,580
+of the upgrade path.
+
+1012
+00:43:59,580 --> 00:44:01,740
+You spend blood echoes and bloodstone shards
+
+1013
+00:44:01,740 --> 00:44:04,620
+to make your weapon just generally better and bloodier.
+
+1014
+00:44:04,620 --> 00:44:06,780
+But there are also gems that you can put on a weapon
+
+1015
+00:44:06,780 --> 00:44:07,980
+to change its properties,
+
+1016
+00:44:07,980 --> 00:44:09,820
+but they explain what they do in simple,
+
+1017
+00:44:09,820 --> 00:44:11,340
+easy-to-understand ways,
+
+1018
+00:44:11,340 --> 00:44:13,020
+and they can just be taken out.
+
+1019
+00:44:13,020 --> 00:44:14,780
+So experimentation with weapons
+
+1020
+00:44:14,780 --> 00:44:17,020
+is actively encouraged for once.
+
+1021
+00:44:17,020 --> 00:44:18,540
+This relatively simple change
+
+1022
+00:44:18,540 --> 00:44:21,100
+makes the whole game feel a lot more inviting.
+
+1023
+00:44:21,100 --> 00:44:23,820
+You know you aren't going to render a weapon unusable
+
+1024
+00:44:23,820 --> 00:44:26,540
+or waste one of the two or three magic stone upgrade things
+
+1025
+00:44:26,540 --> 00:44:28,140
+you'll get in the space of playing,
+
+1026
+00:44:28,140 --> 00:44:30,860
+and that makes you more willing to experiment and mess about,
+
+1027
+00:44:30,860 --> 00:44:34,220
+and that just—it just feels better in a big way.
+
+1028
+00:44:34,220 --> 00:44:36,700
+On top of this, the designs of the enemies you fight
+
+1029
+00:44:36,700 --> 00:44:38,060
+have themselves been altered
+
+1030
+00:44:38,060 --> 00:44:40,540
+to force you to play the game in a more fun manner.
+
+1031
+00:44:40,540 --> 00:44:41,900
+Here are some of the generic enemies
+
+1032
+00:44:41,900 --> 00:44:42,940
+from the previous games.
+
+1033
+00:44:42,940 --> 00:44:45,500
+They like to attack a very specific, simple way.
+
+1034
+00:44:45,500 --> 00:44:46,380
+They walk up to you,
+
+1035
+00:44:46,380 --> 00:44:48,700
+and then they engage a rather simple attack.
+
+1036
+00:44:48,700 --> 00:44:50,700
+More importantly, when they're done approaching you,
+
+1037
+00:44:50,700 --> 00:44:52,300
+they kind of stop moving.
+
+1038
+00:44:52,300 --> 00:44:53,820
+Dodging backwards is an effective way
+
+1039
+00:44:53,820 --> 00:44:54,700
+to get out of their range
+
+1040
+00:44:54,700 --> 00:44:56,620
+and free up some time and distance.
+
+1041
+00:44:56,620 --> 00:44:58,700
+Lots of bosses behave like this as well.
+
+1042
+00:44:58,700 --> 00:45:00,380
+Get out of their range while they're attacking you,
+
+1043
+00:45:00,380 --> 00:45:02,380
+and you're in a safe zone of sorts.
+
+1044
+00:45:02,380 --> 00:45:03,980
+Fast forward to Bloodborne.
+
+1045
+00:45:03,980 --> 00:45:05,580
+Most enemies move very differently
+
+1046
+00:45:05,580 --> 00:45:07,660
+in an arguably more realistic manner.
+
+1047
+00:45:07,660 --> 00:45:09,500
+When even early enemies attack,
+
+1048
+00:45:09,500 --> 00:45:11,260
+they continue moving forward,
+
+1049
+00:45:11,260 --> 00:45:12,860
+stumble ahead and stuff.
+
+1050
+00:45:12,860 --> 00:45:14,940
+Dodging backwards as early as the main area
+
+1051
+00:45:14,940 --> 00:45:16,300
+is a recipe for danger.
+
+1052
+00:45:16,300 --> 00:45:17,580
+The game immediately tells you
+
+1053
+00:45:17,580 --> 00:45:18,700
+that you have to think harder
+
+1054
+00:45:18,700 --> 00:45:20,460
+about how you're dealing with these attacks.
+
+1055
+00:45:20,460 --> 00:45:22,460
+The second boss most people encounter,
+
+1056
+00:45:22,460 --> 00:45:25,260
+Gascoigne, is intensely good at this.
+
+1057
+00:45:25,260 --> 00:45:26,540
+Both versions of this fight,
+
+1058
+00:45:26,540 --> 00:45:29,100
+both before and after he transforms into a monster,
+
+1059
+00:45:29,100 --> 00:45:30,620
+have attacks where dodging backwards
+
+1060
+00:45:30,620 --> 00:45:32,780
+leaves you primed to be attacked again.
+
+1061
+00:45:32,780 --> 00:45:33,660
+In monster form,
+
+1062
+00:45:33,660 --> 00:45:36,540
+almost all of his attacks launch him further forward.
+
+1063
+00:45:36,540 --> 00:45:38,220
+The only way to succeed against this guy
+
+1064
+00:45:38,220 --> 00:45:39,580
+is to get good at parrying him
+
+1065
+00:45:39,580 --> 00:45:41,340
+or learn to dodge to the side
+
+1066
+00:45:41,340 --> 00:45:43,740
+or even forward through his attacks
+
+1067
+00:45:43,740 --> 00:45:45,340
+with your momentary invincibility
+
+1068
+00:45:45,340 --> 00:45:46,860
+to get in a strike of your own.
+
+1069
+00:45:46,860 --> 00:45:48,620
+Or you could keep trying to dodge backwards
+
+1070
+00:45:48,620 --> 00:45:50,780
+and complain that the game doesn't let you escape.
+
+1071
+00:45:50,780 --> 00:45:52,300
+My first few attempts at Gascoigne
+
+1072
+00:45:52,300 --> 00:45:54,540
+were the least fun I'd had in the series
+
+1073
+00:45:54,540 --> 00:45:56,460
+because, as someone who regards themselves
+
+1074
+00:45:56,460 --> 00:45:57,820
+as a seasoned Souls player
+
+1075
+00:45:57,820 --> 00:46:00,060
+where dodging backwards was how I survived,
+
+1076
+00:46:00,060 --> 00:46:02,540
+this was the first major stumbling block of the game.
+
+1077
+00:46:02,540 --> 00:46:04,380
+It forced me to unlearn a style of play
+
+1078
+00:46:04,380 --> 00:46:05,420
+that was, in retrospect,
+
+1079
+00:46:05,420 --> 00:46:06,780
+conservative and uninteresting
+
+1080
+00:46:06,780 --> 00:46:08,620
+and honestly was worth forgetting.
+
+1081
+00:46:08,620 --> 00:46:09,660
+By the time of the attempts
+
+1082
+00:46:09,660 --> 00:46:10,780
+where I was close to winning,
+
+1083
+00:46:10,780 --> 00:46:11,740
+I was having more fun
+
+1084
+00:46:11,740 --> 00:46:13,900
+than any other encounter in previous games
+
+1085
+00:46:13,900 --> 00:46:15,820
+because the way I played was more engaging
+
+1086
+00:46:15,820 --> 00:46:17,420
+and felt faster and more fluid.
+
+1087
+00:46:17,420 --> 00:46:19,900
+I was choosing not to try to escape a skirmish
+
+1088
+00:46:19,900 --> 00:46:21,980
+because the enemy wouldn't let me do it so easily.
+
+1089
+00:46:21,980 --> 00:46:23,340
+Instead, I was staying close
+
+1090
+00:46:23,340 --> 00:46:24,620
+and getting in my own hits
+
+1091
+00:46:24,620 --> 00:46:26,220
+and ignoring when I was taking damage
+
+1092
+00:46:26,220 --> 00:46:27,420
+because I knew I would get it back
+
+1093
+00:46:27,420 --> 00:46:29,820
+just by continuing the fight and hitting them.
+
+1094
+00:46:29,820 --> 00:46:32,380
+Defeating Gascoigne is a genuine victory,
+
+1095
+00:46:32,380 --> 00:46:33,500
+and once you've done so,
+
+1096
+00:46:33,500 --> 00:46:35,900
+you've proven that you're capable of approaching battle
+
+1097
+00:46:35,900 --> 00:46:38,540
+in a way that's actually fun and quick and fast.
+
+1098
+00:46:38,540 --> 00:46:40,540
+You can't hang back and shoot spells at him
+
+1099
+00:46:40,540 --> 00:46:42,300
+and just not learn anything the whole game
+
+1100
+00:46:42,300 --> 00:46:43,820
+and be generally bored.
+
+1101
+00:46:43,820 --> 00:46:46,940
+You have to, well, learn to play the game
+
+1102
+00:46:46,940 --> 00:46:49,180
+the way many people have always played these games,
+
+1103
+00:46:49,180 --> 00:46:50,860
+but which doesn't come naturally.
+
+1104
+00:46:50,860 --> 00:46:52,380
+I could stop right here.
+
+1105
+00:46:52,380 --> 00:46:54,220
+You can already see the point, can't you?
+
+1106
+00:46:54,220 --> 00:46:55,500
+When you pick up Bloodborne,
+
+1107
+00:46:55,500 --> 00:46:56,540
+the first couple of hours
+
+1108
+00:46:56,540 --> 00:46:57,820
+of using these altered mechanics
+
+1109
+00:46:57,820 --> 00:46:59,260
+and mastering them train you
+
+1110
+00:46:59,260 --> 00:47:00,860
+to play not just Bloodborne,
+
+1111
+00:47:00,860 --> 00:47:02,380
+but any game in the series
+
+1112
+00:47:02,380 --> 00:47:04,060
+in a manner that's actually fun.
+
+1113
+00:47:04,620 --> 00:47:06,060
+After years of hitchhiking,
+
+1114
+00:47:06,620 --> 00:47:09,180
+normal people have finally been handed the keys
+
+1115
+00:47:09,180 --> 00:47:10,620
+to the Souls games,
+
+1116
+00:47:10,620 --> 00:47:12,140
+and that's a really good thing
+
+1117
+00:47:12,140 --> 00:47:13,820
+because these games are good.
+
+1118
+00:47:13,820 --> 00:47:16,940
+They just previously never quite showed people
+
+1119
+00:47:16,940 --> 00:47:17,820
+why they were good
+
+1120
+00:47:17,820 --> 00:47:20,140
+or how to play them in a way that felt good.
+
+1121
+00:47:20,140 --> 00:47:22,300
+I feel that this is why my friend liked it more
+
+1122
+00:47:22,300 --> 00:47:24,220
+and then went back and liked the rest,
+
+1123
+00:47:24,220 --> 00:47:25,900
+why people who couldn't get into any of them
+
+1124
+00:47:25,900 --> 00:47:27,100
+could get into this one
+
+1125
+00:47:27,100 --> 00:47:28,140
+at least a little more
+
+1126
+00:47:28,140 --> 00:47:30,060
+even if it still wasn't really their thing.
+
+1127
+00:47:30,060 --> 00:47:31,580
+In his review of Bloodborne,
+
+1128
+00:47:31,580 --> 00:47:32,860
+Yahtzee says this.
+
+1129
+00:47:32,860 --> 00:47:35,020
+"...from software who have been doing one specific thing
+
+1130
+00:47:35,020 --> 00:47:36,220
+for about four games now.
+
+1131
+00:47:36,220 --> 00:47:37,580
+Fortunately, it's a thing I'm into
+
+1132
+00:47:37,580 --> 00:47:38,540
+because I like explorative
+
+1133
+00:47:38,540 --> 00:47:39,820
+metroidvania-style gameplay,
+
+1134
+00:47:39,820 --> 00:47:41,020
+I like subtle storytelling,
+
+1135
+00:47:41,020 --> 00:47:42,460
+I like banging my head against a wall
+
+1136
+00:47:42,460 --> 00:47:43,820
+with a scary monster drawn on it."
+
+1137
+00:47:43,820 --> 00:47:45,340
+Trying to break down a fucking cement wall
+
+1138
+00:47:45,340 --> 00:47:46,620
+with your forehead isn't a challenge,
+
+1139
+00:47:46,620 --> 00:47:48,460
+it's grounds for getting fucking sectioned.
+
+1140
+00:47:48,460 --> 00:47:49,980
+"...from Demon's Souls to Dark Souls
+
+1141
+00:47:49,980 --> 00:47:51,580
+to Dark Souls 2 to Bloodborne.
+
+1142
+00:47:51,580 --> 00:47:52,940
+Same shit, different anus."
+
+1143
+00:47:52,940 --> 00:47:54,220
+Dark Souls 2 is the third game
+
+1144
+00:47:54,220 --> 00:47:56,060
+in a series that began with Demon's Souls,
+
+1145
+00:47:56,060 --> 00:47:57,180
+which I was thinking I should go back
+
+1146
+00:47:57,180 --> 00:47:58,140
+and try again sometime.
+
+1147
+00:47:58,140 --> 00:47:59,900
+Ooh, maybe you should have given Demon's Souls
+
+1148
+00:47:59,900 --> 00:48:00,540
+a proper shot.
+
+1149
+00:48:00,540 --> 00:48:02,780
+What a fantastic idea, you piece of shit.
+
+1150
+00:48:02,780 --> 00:48:04,780
+I'm not actually criticising Yahtzee here,
+
+1151
+00:48:04,780 --> 00:48:05,980
+although I guess I kind of am
+
+1152
+00:48:05,980 --> 00:48:07,340
+because he didn't give Demon's Souls
+
+1153
+00:48:07,340 --> 00:48:08,380
+a fair shot in the first place.
+
+1154
+00:48:08,380 --> 00:48:09,900
+I'm using his transition to show how
+
+1155
+00:48:09,900 --> 00:48:11,260
+this is just how perception of a game
+
+1156
+00:48:11,260 --> 00:48:12,140
+can change over time
+
+1157
+00:48:12,140 --> 00:48:13,500
+when it gets iterated upon.
+
+1158
+00:48:13,500 --> 00:48:15,980
+This transition and why it happened is valuable.
+
+1159
+00:48:15,980 --> 00:48:17,660
+Yahtzee's gone from hating Demon's Souls
+
+1160
+00:48:17,660 --> 00:48:19,260
+and thinking it's trial-and-error bullshit
+
+1161
+00:48:19,260 --> 00:48:20,060
+that isn't fun,
+
+1162
+00:48:20,060 --> 00:48:22,700
+to claiming it's part of a series he really likes
+
+1163
+00:48:22,700 --> 00:48:25,020
+and which, in his opinion, are all very similar.
+
+1164
+00:48:25,020 --> 00:48:27,100
+Good play conditioning can cause a player
+
+1165
+00:48:27,100 --> 00:48:29,340
+to suddenly want to commit
+
+1166
+00:48:29,340 --> 00:48:31,820
+to an experience superficially very similar
+
+1167
+00:48:31,820 --> 00:48:33,980
+to the one they previously really didn't.
+
+1168
+00:48:33,980 --> 00:48:35,900
+This is why Bloodborne is amazing.
+
+1169
+00:48:35,900 --> 00:48:37,980
+It's trained people to engage the game
+
+1170
+00:48:37,980 --> 00:48:40,860
+in a way that makes the experience worth having.
+
+1171
+00:48:40,860 --> 00:48:42,700
+Some games can be a good experience,
+
+1172
+00:48:42,700 --> 00:48:45,180
+but not very good at bringing people into it.
+
+1173
+00:48:45,180 --> 00:48:46,300
+Isn't it somewhat possible
+
+1174
+00:48:46,300 --> 00:48:47,820
+that there are many great games
+
+1175
+00:48:47,820 --> 00:48:49,180
+that slip through the cracks
+
+1176
+00:48:49,180 --> 00:48:51,260
+simply because they didn't fully prep the player
+
+1177
+00:48:51,260 --> 00:48:53,020
+to properly play and enjoy them?
+
+1178
+00:48:53,020 --> 00:48:55,020
+Maybe there's a right way to play every game.
+
+1179
+00:48:55,020 --> 00:48:55,740
+At the very least,
+
+1180
+00:48:55,740 --> 00:48:57,420
+there's a right way to play a Souls game,
+
+1181
+00:48:57,420 --> 00:48:59,740
+and Bloodborne finally teaches players
+
+1182
+00:48:59,740 --> 00:49:02,380
+what that way is in a straightforward manner.
+
+1183
+00:49:02,380 --> 00:49:03,580
+Okay, gonna be honest,
+
+1184
+00:49:03,580 --> 00:49:04,860
+that's my core argument.
+
+1185
+00:49:04,860 --> 00:49:07,020
+I think I just summarised it in about 40 minutes,
+
+1186
+00:49:07,020 --> 00:49:08,220
+which, all things considered,
+
+1187
+00:49:08,220 --> 00:49:09,980
+is pretty short for me.
+
+1188
+00:49:09,980 --> 00:49:11,740
+But while I'm here talking about Bloodborne,
+
+1189
+00:49:11,740 --> 00:49:13,020
+I might as well summarise
+
+1190
+00:49:13,020 --> 00:49:15,580
+the less condition-y reasons why it's so great
+
+1191
+00:49:15,580 --> 00:49:17,580
+and get more into the general reasons.
+
+1192
+00:49:17,580 --> 00:49:19,500
+Let's talk about the rest of the stuff.
+
+1193
+00:49:24,140 --> 00:49:25,900
+The Souls games in general, except for two,
+
+1194
+00:49:25,900 --> 00:49:27,420
+have this tendency to not really
+
+1195
+00:49:27,420 --> 00:49:29,660
+have an interesting story to me personally.
+
+1196
+00:49:29,660 --> 00:49:30,380
+They're like,
+
+1197
+00:49:30,380 --> 00:49:31,740
+oh, you have to stop the king.
+
+1198
+00:49:31,740 --> 00:49:34,140
+He went bad and or mad.
+
+1199
+00:49:34,140 --> 00:49:36,220
+All the characters you meet are mostly hangers-on
+
+1200
+00:49:36,220 --> 00:49:38,620
+who are also messing about in this doomed world.
+
+1201
+00:49:38,620 --> 00:49:39,900
+They tend to be interesting,
+
+1202
+00:49:39,900 --> 00:49:41,820
+but I could honestly take them or leave them.
+
+1203
+00:49:41,820 --> 00:49:43,420
+The story's extra wrinkles feel like
+
+1204
+00:49:43,420 --> 00:49:45,820
+they don't really add any value to the experience itself
+
+1205
+00:49:45,820 --> 00:49:47,580
+and are more just interesting stuff
+
+1206
+00:49:47,580 --> 00:49:49,100
+you can write wikis about later.
+
+1207
+00:49:49,100 --> 00:49:51,100
+There's an overall sense that all the fun stuff
+
+1208
+00:49:51,100 --> 00:49:53,180
+in the story has already happened,
+
+1209
+00:49:53,180 --> 00:49:54,940
+and while it was probably interesting
+
+1210
+00:49:54,940 --> 00:49:56,380
+and it's cool to find out about,
+
+1211
+00:49:56,380 --> 00:49:58,860
+the player is essentially given a walking tour of a world
+
+1212
+00:49:58,860 --> 00:50:01,100
+where all the cool stuff has already happened.
+
+1213
+00:50:01,100 --> 00:50:03,580
+All the major players in the story are either dead
+
+1214
+00:50:03,580 --> 00:50:06,140
+or hanging out waiting to be killed by you.
+
+1215
+00:50:06,140 --> 00:50:07,340
+Bloodborne is interesting
+
+1216
+00:50:07,340 --> 00:50:09,500
+because you're not on any singular quest.
+
+1217
+00:50:09,500 --> 00:50:12,380
+No one tells you to kill a bunch of people to do this stuff.
+
+1218
+00:50:12,380 --> 00:50:13,580
+The game even makes a joke
+
+1219
+00:50:13,580 --> 00:50:15,420
+about how unnecessary the story is,
+
+1220
+00:50:15,420 --> 00:50:18,300
+but the dude's unwillingness to share the truth with you
+
+1221
+00:50:18,300 --> 00:50:19,500
+is actually a clever setup
+
+1222
+00:50:19,500 --> 00:50:22,700
+for how this guy is maybe himself not super trustworthy.
+
+1223
+00:50:22,700 --> 00:50:25,500
+The story is happening at you instead of in the past.
+
+1224
+00:50:25,500 --> 00:50:27,020
+You're actively trying to uncover
+
+1225
+00:50:27,020 --> 00:50:28,620
+what's happening as you play,
+
+1226
+00:50:28,620 --> 00:50:30,620
+not because it might be interesting
+
+1227
+00:50:30,620 --> 00:50:32,300
+to find out about in general,
+
+1228
+00:50:32,300 --> 00:50:33,980
+but to have a grip on what's happening
+
+1229
+00:50:33,980 --> 00:50:36,940
+and what result my actions are having on the world.
+
+1230
+00:50:36,940 --> 00:50:38,940
+There's a real sense of time passing
+
+1231
+00:50:38,940 --> 00:50:40,140
+over the course of the game
+
+1232
+00:50:40,140 --> 00:50:41,340
+as the night progresses
+
+1233
+00:50:41,340 --> 00:50:42,940
+and the people locked in their houses
+
+1234
+00:50:42,940 --> 00:50:44,540
+get more worried or sicker
+
+1235
+00:50:44,540 --> 00:50:47,180
+or begin to transform into monsters themselves.
+
+1236
+00:50:47,180 --> 00:50:50,540
+There's this game called Ocarina of Zelda Legend of Ti-
+
+1237
+00:50:50,540 --> 00:50:51,340
+Wait.
+
+1238
+00:50:51,340 --> 00:50:54,140
+There's this game called Legend of Zelda Ocarina of Time
+
+1239
+00:50:54,140 --> 00:50:57,180
+and in it, there's this place called Hyrule Castle Town.
+
+1240
+00:50:57,180 --> 00:50:59,260
+It's a small and simple area,
+
+1241
+00:50:59,260 --> 00:51:00,620
+especially by modern standards,
+
+1242
+00:51:00,620 --> 00:51:03,260
+but there's so much character and life to it.
+
+1243
+00:51:03,260 --> 00:51:05,020
+Even for an N64 game,
+
+1244
+00:51:05,100 --> 00:51:07,500
+there are cool stores and side quests
+
+1245
+00:51:07,500 --> 00:51:09,820
+and just people hanging out having a good time
+
+1246
+00:51:09,820 --> 00:51:10,780
+and that music.
+
+1247
+00:51:11,820 --> 00:51:13,820
+It feels like a place full of life.
+
+1248
+00:51:13,820 --> 00:51:15,500
+One thing games like Dark Souls lack
+
+1249
+00:51:15,500 --> 00:51:17,820
+is this idea that there's even a world
+
+1250
+00:51:17,820 --> 00:51:19,820
+worth fighting for somewhere.
+
+1251
+00:51:19,820 --> 00:51:23,180
+The entire world of the games are empty nightmares
+
+1252
+00:51:23,180 --> 00:51:25,180
+populated only by the dying,
+
+1253
+00:51:25,180 --> 00:51:26,060
+the dead,
+
+1254
+00:51:26,060 --> 00:51:27,180
+the undead,
+
+1255
+00:51:27,180 --> 00:51:28,140
+the mad,
+
+1256
+00:51:28,140 --> 00:51:28,860
+the sad,
+
+1257
+00:51:28,860 --> 00:51:29,900
+the monstrous,
+
+1258
+00:51:29,900 --> 00:51:31,980
+and Scottish people.
+
+1259
+00:51:31,980 --> 00:51:34,860
+Link is being told he's supposed to help Zelda save the world
+
+1260
+00:51:34,860 --> 00:51:36,540
+and he is a world worth saving.
+
+1261
+00:51:36,540 --> 00:51:38,380
+Hyrule Castle Town stuck with me,
+
+1262
+00:51:38,380 --> 00:51:40,620
+mainly because when you pull out the Master Sword
+
+1263
+00:51:40,620 --> 00:51:43,100
+and time advances and you go outside...
+
+1264
+00:51:58,940 --> 00:52:00,620
+It's become this horrible place.
+
+1265
+00:52:01,500 --> 00:52:04,060
+Only three things in this era of gaming
+
+1266
+00:52:04,060 --> 00:52:07,100
+ever gave me genuine chills of fear.
+
+1267
+00:52:07,100 --> 00:52:09,340
+The terrifying werewolf monster thing
+
+1268
+00:52:09,340 --> 00:52:12,380
+that attacks you out of nowhere in Castlevania 64,
+
+1269
+00:52:12,380 --> 00:52:14,940
+the landmine with eyes in Banjo-Kazooie,
+
+1270
+00:52:14,940 --> 00:52:17,180
+which legitimately scared me a lot as a kid,
+
+1271
+00:52:17,900 --> 00:52:19,500
+and coming out of the Temple of Time
+
+1272
+00:52:19,500 --> 00:52:21,580
+to discover that the lovely, happy town
+
+1273
+00:52:21,580 --> 00:52:23,900
+had been reduced to this.
+
+1274
+00:52:23,900 --> 00:52:25,740
+It shocked my tiny mind,
+
+1275
+00:52:25,740 --> 00:52:27,500
+seeing it just change like that.
+
+1276
+00:52:27,500 --> 00:52:30,700
+That ability to imbue a sense in a player about a place
+
+1277
+00:52:30,700 --> 00:52:33,820
+is really important, I think.
+
+1278
+00:52:33,820 --> 00:52:35,340
+Now, Bloodborne doesn't have a section
+
+1279
+00:52:35,340 --> 00:52:36,780
+where you see what the town was like
+
+1280
+00:52:36,780 --> 00:52:38,140
+when things were nice,
+
+1281
+00:52:38,140 --> 00:52:40,940
+but by starting just a little bit off-kilter,
+
+1282
+00:52:40,940 --> 00:52:43,260
+just a little bit covered in monsters,
+
+1283
+00:52:43,260 --> 00:52:45,660
+you see that there is something worth saving in there,
+
+1284
+00:52:45,660 --> 00:52:47,580
+and as those things start to disappear
+
+1285
+00:52:47,580 --> 00:52:49,580
+and things take a Lovecraftian turn,
+
+1286
+00:52:50,220 --> 00:52:52,140
+there's that same sense of loss
+
+1287
+00:52:52,140 --> 00:52:53,900
+that things have gotten so much worse.
+
+1288
+00:52:53,900 --> 00:52:55,180
+And I love Lovecraft.
+
+1289
+00:52:55,180 --> 00:52:57,340
+He was my favorite author when I was 14
+
+1290
+00:52:57,340 --> 00:52:59,980
+until I noticed that no one was actually impressed
+
+1291
+00:52:59,980 --> 00:53:02,540
+when I would say sanguine instead of red.
+
+1292
+00:53:02,540 --> 00:53:04,940
+In retrospect, he's not as great a writer as I remember,
+
+1293
+00:53:04,940 --> 00:53:06,380
+and he's kind of one-note,
+
+1294
+00:53:06,380 --> 00:53:07,980
+but his writing has inspired a wealth
+
+1295
+00:53:07,980 --> 00:53:10,380
+of fantastic designs and stories over the years
+
+1296
+00:53:10,380 --> 00:53:12,540
+that take liberties the way he didn't
+
+1297
+00:53:12,540 --> 00:53:15,180
+and maintain the same sense of terror at the unknown
+
+1298
+00:53:15,180 --> 00:53:19,420
+while having other less-secretly-super-racist stuff in there, too.
+
+1299
+00:53:19,420 --> 00:53:21,980
+And Bloodborne is one of those fantastic stories.
+
+1300
+00:53:21,980 --> 00:53:24,140
+It has a sense of cosmic terror
+
+1301
+00:53:24,140 --> 00:53:25,900
+that only appears in the third act,
+
+1302
+00:53:25,900 --> 00:53:28,060
+but when it comes, it comes in a big way,
+
+1303
+00:53:28,060 --> 00:53:30,620
+making it super surprising and harder-hitting
+
+1304
+00:53:30,620 --> 00:53:32,540
+than it would have been if it had started out that way
+
+1305
+00:53:32,540 --> 00:53:34,460
+or been super predictable about it.
+
+1306
+00:53:34,460 --> 00:53:35,980
+Oh, it's horrible.
+
+1307
+00:53:35,980 --> 00:53:37,420
+Birth imagery. I hate it.
+
+1308
+00:53:38,140 --> 00:53:40,220
+The world design is great as well.
+
+1309
+00:53:40,220 --> 00:53:41,900
+Okay, Dark Souls.
+
+1310
+00:53:41,900 --> 00:53:43,100
+Interconnected world.
+
+1311
+00:53:43,100 --> 00:53:45,500
+Lots of alternate paths and secret ways into other areas.
+
+1312
+00:53:46,220 --> 00:53:47,180
+It's great.
+
+1313
+00:53:47,180 --> 00:53:48,940
+But you know what sucks?
+
+1314
+00:53:48,940 --> 00:53:50,780
+Backtracking all the way across it again
+
+1315
+00:53:50,780 --> 00:53:53,340
+because you died and there's no bonfire anywhere near it.
+
+1316
+00:53:53,340 --> 00:53:55,340
+Too much time is spent walking back and forth
+
+1317
+00:53:55,340 --> 00:53:57,020
+through areas you've already visited,
+
+1318
+00:53:57,020 --> 00:53:59,020
+and the world never really changes,
+
+1319
+00:53:59,100 --> 00:54:01,260
+so you're seeing the same area over and over,
+
+1320
+00:54:01,260 --> 00:54:03,500
+except sometimes you're seeing it backwards.
+
+1321
+00:54:03,500 --> 00:54:06,860
+I know the entirety of Dark Souls' world like the back of my hand.
+
+1322
+00:54:06,860 --> 00:54:09,260
+That's not because it's super memorable or interesting,
+
+1323
+00:54:09,260 --> 00:54:11,820
+but because I had to walk through all of it a lot
+
+1324
+00:54:11,820 --> 00:54:14,860
+to get to newer places or because I died again.
+
+1325
+00:54:14,860 --> 00:54:17,500
+Demon's Souls, in my opinion, was actually better.
+
+1326
+00:54:17,500 --> 00:54:19,500
+There's basically no backtracking.
+
+1327
+00:54:19,500 --> 00:54:20,940
+There's no interconnectedness either.
+
+1328
+00:54:20,940 --> 00:54:22,860
+Each archstone takes you to a different area,
+
+1329
+00:54:22,860 --> 00:54:25,500
+and you go in a linear path to the end and then leave.
+
+1330
+00:54:25,500 --> 00:54:29,020
+It doesn't have pretensions of being interconnected or one big world
+
+1331
+00:54:29,020 --> 00:54:31,420
+and instead focuses on making levels that are interesting
+
+1332
+00:54:31,420 --> 00:54:33,900
+and engaging to play through the very first time.
+
+1333
+00:54:33,900 --> 00:54:36,220
+Demon's Souls is a little bit harder than Dark Souls
+
+1334
+00:54:36,220 --> 00:54:38,700
+because the creators of Dark Souls at some point realized
+
+1335
+00:54:38,700 --> 00:54:40,460
+that people would be fighting through each level
+
+1336
+00:54:40,460 --> 00:54:42,300
+several times forwards and backwards
+
+1337
+00:54:42,300 --> 00:54:44,620
+and eventually people would just want to run past most of it
+
+1338
+00:54:44,620 --> 00:54:46,380
+to get where they were trying to go.
+
+1339
+00:54:46,380 --> 00:54:50,140
+So they designed areas where running away tended to work out pretty good.
+
+1340
+00:54:50,140 --> 00:54:54,300
+Demon's Souls is almost hard-coded to destroy you if you try that shit.
+
+1341
+00:54:54,300 --> 00:54:58,220
+But the trade-off is the encounter itself is more challenging and rewarding
+
+1342
+00:54:58,220 --> 00:55:01,580
+because it's designed to be approached once from one particular direction.
+
+1343
+00:55:01,580 --> 00:55:04,380
+I will take good level design over an open feeling world
+
+1344
+00:55:04,380 --> 00:55:08,300
+I'll have to backtrack through constantly every single time.
+
+1345
+00:55:08,300 --> 00:55:11,900
+The best areas in Dark Souls, Sen's Fortress and Anor Londo,
+
+1346
+00:55:11,900 --> 00:55:13,900
+don't really interconnect with anywhere
+
+1347
+00:55:13,900 --> 00:55:18,380
+and instead they're mostly a straight shot from where you start to meeting the boss.
+
+1348
+00:55:18,380 --> 00:55:20,620
+It's the best area precisely because,
+
+1349
+00:55:20,620 --> 00:55:23,260
+since the developers only intend for you to fight all the way through it
+
+1350
+00:55:23,260 --> 00:55:24,940
+once in one direction,
+
+1351
+00:55:24,940 --> 00:55:29,180
+it feeds you encounters precisely primed to challenge you in a specific way
+
+1352
+00:55:29,180 --> 00:55:30,460
+instead of having to be designed
+
+1353
+00:55:30,460 --> 00:55:33,180
+so you could come through in any direction to go somewhere else
+
+1354
+00:55:33,180 --> 00:55:35,580
+which loosens what you can really do.
+
+1355
+00:55:35,580 --> 00:55:39,820
+Anor Londo feels a bit like a remake of some sections of the Boletarian Palace
+
+1356
+00:55:39,820 --> 00:55:42,460
+and I wish more sections were willing to be more linear
+
+1357
+00:55:42,460 --> 00:55:44,860
+and just be more interesting that first time.
+
+1358
+00:55:44,860 --> 00:55:46,780
+Fighting your way back out of Blighttown
+
+1359
+00:55:46,780 --> 00:55:49,500
+or running all the way back through the door Havel's guarding
+
+1360
+00:55:49,500 --> 00:55:51,660
+just to get to the Darkroot Basin is annoying
+
+1361
+00:55:51,660 --> 00:55:53,340
+and just generally uninteresting.
+
+1362
+00:55:53,340 --> 00:55:55,580
+Especially when it's for the eighth time.
+
+1363
+00:55:55,580 --> 00:55:58,620
+I'm still in a dream...
+
+1364
+00:55:59,820 --> 00:56:01,420
+Dark Soul...
+
+1365
+00:56:01,420 --> 00:56:03,500
+Darkroot Basin in general feels kind of dumb.
+
+1366
+00:56:03,500 --> 00:56:06,140
+It's just a big area mostly empty of stuff to deal with
+
+1367
+00:56:06,140 --> 00:56:08,620
+with some kind of simplistic enemies dropped there.
+
+1368
+00:56:08,620 --> 00:56:11,660
+If I wanted to have a bad time running through a mostly empty world
+
+1369
+00:56:11,660 --> 00:56:13,420
+I would just play Monster Hunter.
+
+1370
+00:56:17,420 --> 00:56:20,140
+The Darkroot Basin also has the most dumb boss in the game
+
+1371
+00:56:20,140 --> 00:56:22,300
+who has two attacks they do over and over
+
+1372
+00:56:22,300 --> 00:56:24,780
+and which basically miss even if you're standing still.
+
+1373
+00:56:25,340 --> 00:56:28,940
+Bloodborne combines both of the best elements of each game.
+
+1374
+00:56:28,940 --> 00:56:32,380
+It's never got any areas that are too open and have nothing in them.
+
+1375
+00:56:32,380 --> 00:56:34,940
+Even areas taking place in the forest are dense
+
+1376
+00:56:34,940 --> 00:56:37,180
+with well-made and challenging encounters
+
+1377
+00:56:37,180 --> 00:56:39,500
+and let's not forget actual traps
+
+1378
+00:56:39,500 --> 00:56:41,580
+that seem like they were laid out for a person.
+
+1379
+00:56:42,780 --> 00:56:44,060
+Jesus! No! No!
+
+1380
+00:56:44,060 --> 00:56:50,540
+Oh, I saw it just as I stepped on it.
+
+1381
+00:56:52,780 --> 00:56:55,100
+Backtracking is reduced because there are more lanterns
+
+1382
+00:56:55,100 --> 00:56:56,780
+and while areas are interconnected
+
+1383
+00:56:56,780 --> 00:56:59,580
+many sections are essentially straight shots to the next area
+
+1384
+00:56:59,580 --> 00:57:01,660
+with short side paths containing items.
+
+1385
+00:57:01,660 --> 00:57:04,460
+So you have a big open world that feels interconnected
+
+1386
+00:57:04,460 --> 00:57:06,780
+but surprising amounts of linearity.
+
+1387
+00:57:06,780 --> 00:57:09,020
+So you can have areas like this that only work
+
+1388
+00:57:09,020 --> 00:57:10,780
+if you're approaching from one direction
+
+1389
+00:57:10,780 --> 00:57:13,260
+so all these enemies are actually waiting and hiding for you
+
+1390
+00:57:13,260 --> 00:57:14,300
+and shoot at you.
+
+1391
+00:57:14,300 --> 00:57:16,220
+Coming back through this area would be weird
+
+1392
+00:57:16,220 --> 00:57:18,060
+but you never have to think about that
+
+1393
+00:57:18,060 --> 00:57:19,420
+because you never have to.
+
+1394
+00:57:19,420 --> 00:57:21,340
+You can teleport around easily.
+
+1395
+00:57:21,340 --> 00:57:23,660
+There's quite a delicate sense of linearity
+
+1396
+00:57:23,660 --> 00:57:25,900
+and traveling across areas you've already visited
+
+1397
+00:57:25,900 --> 00:57:29,180
+because you have a key or some new thing has been unlocked by your actions
+
+1398
+00:57:29,180 --> 00:57:31,980
+and thanks to a mechanic I'm going to call the knight
+
+1399
+00:57:31,980 --> 00:57:34,460
+where an actual story progresses as you kill bosses
+
+1400
+00:57:34,460 --> 00:57:37,180
+and the effects of your growing pool of insight too.
+
+1401
+00:57:37,180 --> 00:57:39,980
+Even pre-visited areas are a little bit different
+
+1402
+00:57:39,980 --> 00:57:41,900
+either visually or otherwise.
+
+1403
+00:57:41,900 --> 00:57:44,620
+Enemies change around, get glowy scary scythes
+
+1404
+00:57:44,620 --> 00:57:47,900
+and red versions of sticks
+
+1405
+00:57:47,900 --> 00:57:49,500
+or just go to sleep.
+
+1406
+00:57:49,500 --> 00:57:51,660
+So the experience of going back through Cathedral Ward
+
+1407
+00:57:51,660 --> 00:57:53,260
+to go to a new area is valuable
+
+1408
+00:57:53,260 --> 00:57:56,540
+because it's changing and you're seeing things being different.
+
+1409
+00:57:56,540 --> 00:57:59,180
+You're not just revisiting it or going through it again
+
+1410
+00:57:59,180 --> 00:58:01,500
+but backwards to get to the next new area.
+
+1411
+00:58:01,500 --> 00:58:03,900
+Okay, also co-op isn't garbage anymore.
+
+1412
+00:58:03,900 --> 00:58:06,780
+Trying to summon friends in these games has always been super annoying.
+
+1413
+00:58:06,780 --> 00:58:08,460
+You have to hope you're on the same server
+
+1414
+00:58:08,460 --> 00:58:10,700
+or the servers are even up anymore.
+
+1415
+00:58:10,700 --> 00:58:12,940
+You have to go human or consumer humanity
+
+1416
+00:58:12,940 --> 00:58:14,860
+and sit at the bonfire and go human
+
+1417
+00:58:14,860 --> 00:58:16,860
+and hope you see their summon sign
+
+1418
+00:58:16,860 --> 00:58:20,300
+and then maybe you'll summon someone to help with Ornstein and...
+
+1419
+00:58:21,420 --> 00:58:22,300
+Smeg.
+
+1420
+00:58:22,300 --> 00:58:24,620
+But as you can tell from this footage it didn't work
+
+1421
+00:58:24,620 --> 00:58:26,300
+and I died on the way to summon Solaire
+
+1422
+00:58:26,300 --> 00:58:28,220
+and I didn't have any humanity left to try it again
+
+1423
+00:58:28,220 --> 00:58:29,580
+so I had to do it myself
+
+1424
+00:58:29,580 --> 00:58:31,900
+and by do it myself I mean get fucked.
+
+1425
+00:58:31,900 --> 00:58:35,260
+Also being human makes it so you can be invaded by other players.
+
+1426
+00:58:35,260 --> 00:58:36,540
+You know what sucks?
+
+1427
+00:58:36,540 --> 00:58:38,140
+That becoming human,
+
+1428
+00:58:38,140 --> 00:58:42,300
+the thing you do if you need help with something you're having trouble with
+
+1429
+00:58:42,300 --> 00:58:46,060
+is also the thing that invites in more people to gank you to death.
+
+1430
+00:58:46,060 --> 00:58:47,740
+Like, no thanks.
+
+1431
+00:58:47,740 --> 00:58:50,860
+I can see the idea of it being cool and risk-reward
+
+1432
+00:58:50,860 --> 00:58:52,300
+but it's actually shit
+
+1433
+00:58:52,300 --> 00:58:53,740
+because it means you can be invaded
+
+1434
+00:58:53,740 --> 00:58:56,620
+before you even get to find someone you can summon
+
+1435
+00:58:56,620 --> 00:58:59,580
+and if I'm summoning at all I'm already having trouble.
+
+1436
+00:58:59,580 --> 00:59:03,020
+Bloodborne's co-op feels like it was actually made by people
+
+1437
+00:59:03,020 --> 00:59:06,060
+who assumed other people might want to use it.
+
+1438
+00:59:06,140 --> 00:59:08,780
+There's no human or inhuman state anymore.
+
+1439
+00:59:08,780 --> 00:59:12,540
+Instead, if you need a hand, you ring the please help me bell.
+
+1440
+00:59:12,540 --> 00:59:15,180
+Uh, in Britain we're actually all given one of those at birth.
+
+1441
+00:59:15,180 --> 00:59:18,700
+And if someone else is ringing the help people bell
+
+1442
+00:59:18,700 --> 00:59:20,540
+they're pulled in to give you a hand.
+
+1443
+00:59:20,540 --> 00:59:23,900
+It's simple and you don't have to mess about looking for signs anymore.
+
+1444
+00:59:23,900 --> 00:59:26,300
+Only after summoning can you get invaded
+
+1445
+00:59:26,300 --> 00:59:30,620
+so you have someone helping you with the area you're obviously finding difficult
+
+1446
+00:59:30,620 --> 00:59:32,620
+and the new person coming to get you
+
+1447
+00:59:32,620 --> 00:59:34,700
+at least definitely has to deal with two of you
+
+1448
+00:59:34,700 --> 00:59:36,380
+which seems a bit more fair.
+
+1449
+00:59:36,380 --> 00:59:38,300
+And if you want to co-op with a specific person
+
+1450
+00:59:38,300 --> 00:59:41,020
+you can both enter a password of your choosing and go.
+
+1451
+00:59:41,020 --> 00:59:43,980
+Also, insight seems to be a less rare resource
+
+1452
+00:59:43,980 --> 00:59:45,500
+than all the others in previous games
+
+1453
+00:59:45,500 --> 00:59:49,500
+so it's less likely you're gonna run out of your ability to ask for help
+
+1454
+00:59:49,500 --> 00:59:50,940
+which is a really good idea.
+
+1455
+00:59:50,940 --> 00:59:54,780
+Oh, and since insight is tied to certain enemies getting harder
+
+1456
+00:59:54,780 --> 00:59:57,100
+if you need a lot of help you're lowering it
+
+1457
+00:59:57,100 --> 00:59:59,260
+so things will eventually let up.
+
+1458
+00:59:59,260 --> 01:00:01,100
+Not much, but it's nice.
+
+1459
+01:00:01,100 --> 01:00:02,380
+It's really nice.
+
+1460
+01:00:02,380 --> 01:00:03,580
+Also, the sound design.
+
+1461
+01:00:03,580 --> 01:00:05,660
+It's just brilliant.
+
+1462
+01:00:05,660 --> 01:00:06,220
+Everything.
+
+1463
+01:00:06,220 --> 01:00:07,340
+The monster howls.
+
+1464
+01:00:07,340 --> 01:00:10,780
+The trick weapons clicky-clacking into their alternate forms.
+
+1465
+01:00:10,780 --> 01:00:13,660
+The thunderous pounding of the machine gun.
+
+1466
+01:00:13,660 --> 01:00:17,180
+The squelching of the monsters getting slit up by me.
+
+1467
+01:00:17,180 --> 01:00:18,460
+The extra diegetic
+
+1468
+01:00:19,180 --> 01:00:21,740
+that plays when you parry someone successfully.
+
+1469
+01:00:21,740 --> 01:00:26,060
+The squeal of the tonitrus as it comes alive and thirsts for crime.
+
+1470
+01:00:26,060 --> 01:00:27,260
+It's all great.
+
+1471
+01:00:27,260 --> 01:00:30,140
+I hope the sound designers get to write a book about the work they did
+
+1472
+01:00:30,140 --> 01:00:32,380
+making this game feel so great.
+
+1473
+01:00:32,380 --> 01:00:34,380
+And in 10 years, once I know enough Japanese
+
+1474
+01:00:34,380 --> 01:00:36,620
+to be able to comprehend basic sentences
+
+1475
+01:00:36,620 --> 01:00:38,140
+I'll even be able to read it.
+
+1476
+01:00:38,140 --> 01:00:40,940
+The key thing that proves the power of the sound in this game
+
+1477
+01:00:40,940 --> 01:00:43,820
+is that these crow enemies are like regular-looking crows
+
+1478
+01:00:43,820 --> 01:00:45,100
+if a bit oversized.
+
+1479
+01:00:45,100 --> 01:00:47,820
+They attack by fluttering at you with their wings.
+
+1480
+01:00:47,820 --> 01:00:49,580
+But they do this when they attack you.
+
+1481
+01:00:51,980 --> 01:00:53,660
+These crows are a nightmare.
+
+1482
+01:00:53,660 --> 01:00:55,340
+They hide in just the right places
+
+1483
+01:00:55,340 --> 01:00:57,820
+and they make just a loud and horrifying enough noise
+
+1484
+01:00:57,820 --> 01:01:01,180
+that it never feels like they're an easy enemy to deal with.
+
+1485
+01:01:01,180 --> 01:01:03,340
+They're always just scary.
+
+1486
+01:01:03,340 --> 01:01:06,620
+They even come close to the fucking landmine.
+
+1487
+01:01:07,340 --> 01:01:08,620
+Fucking Jesus Christ.
+
+1488
+01:01:08,620 --> 01:01:09,820
+It's just great stuff.
+
+1489
+01:01:12,060 --> 01:01:15,420
+There's a section in Yahoo! Ghoul where I just had to stop and listen.
+
+1490
+01:01:15,740 --> 01:01:19,260
+There's ominous, distant, pseudo-diegetic chanting,
+
+1491
+01:01:19,820 --> 01:01:22,700
+vague screams and cries in the distance.
+
+1492
+01:01:23,340 --> 01:01:25,980
+It's really quite something.
+
+1493
+01:01:26,700 --> 01:01:29,900
+I don't like describing games as atmospheric
+
+1494
+01:01:29,900 --> 01:01:32,060
+or dripping with atmosphere or anything like that.
+
+1495
+01:01:32,060 --> 01:01:33,420
+That feels kind of like a cop-out.
+
+1496
+01:01:34,300 --> 01:01:38,460
+But even attempting to describe the feeling of standing still in an area
+
+1497
+01:01:38,460 --> 01:01:41,100
+has caused me to slip into this really subdued tone.
+
+1498
+01:01:41,660 --> 01:01:45,020
+To me at least, that says something about the game's ability to communicate.
+
+1499
+01:01:45,420 --> 01:01:48,540
+It says something about the game's command and attitude.
+
+1500
+01:01:49,260 --> 01:01:52,700
+Also, because I'm standing in an area where I just cleaned out a bunch of enemies,
+
+1501
+01:01:52,700 --> 01:01:55,020
+ghosts keep appearing and shooting in my direction
+
+1502
+01:01:55,020 --> 01:01:57,500
+because they're still fighting them, and I think that's kind of funny.
+
+1503
+01:01:57,500 --> 01:02:00,860
+Okay, finally, the big monster boss fights.
+
+1504
+01:02:00,860 --> 01:02:03,660
+Souls games are bad at these, in my opinion.
+
+1505
+01:02:03,660 --> 01:02:06,460
+I get it, a lot of people like the Gaping Dragon and think he's cool
+
+1506
+01:02:06,460 --> 01:02:08,460
+and there's a, you know, they're interesting-looking.
+
+1507
+01:02:09,100 --> 01:02:13,020
+But in my opinion, they're not that great to fight, which is the important bit.
+
+1508
+01:02:13,020 --> 01:02:14,860
+I often refer to as the dudes-in-armor argument
+
+1509
+01:02:14,860 --> 01:02:19,100
+that Souls games feature too many enemies that are just dudes in armor.
+
+1510
+01:02:19,100 --> 01:02:22,940
+But in fights, monsters and the big, cool, weird enemies
+
+1511
+01:02:22,940 --> 01:02:26,540
+don't react in a manner that makes sense to me as a player.
+
+1512
+01:02:26,540 --> 01:02:29,020
+Human enemies respond when you hit them with your sword,
+
+1513
+01:02:29,020 --> 01:02:33,020
+but Sif, for example, doesn't seem to even flinch most of the time.
+
+1514
+01:02:33,020 --> 01:02:37,420
+Even the final boss flinches when you hit him, so you at least know it's working.
+
+1515
+01:02:37,420 --> 01:02:41,660
+I am making some of the mightiest swings you can possibly imagine right now
+
+1516
+01:02:41,660 --> 01:02:44,620
+using my character, who incidentally I named Brexit,
+
+1517
+01:02:44,620 --> 01:02:46,700
+and she's like, eh, whatever.
+
+1518
+01:02:46,700 --> 01:02:48,860
+I'm gonna continue moving like it's a normal thing.
+
+1519
+01:02:48,860 --> 01:02:52,380
+No selling all my best moves, just like all the other women in my life.
+
+1520
+01:02:52,380 --> 01:02:54,380
+Even Sif is negging me.
+
+1521
+01:02:54,380 --> 01:02:55,740
+And suddenly she's limping.
+
+1522
+01:02:55,740 --> 01:02:57,340
+I mean, oh, it's so sad.
+
+1523
+01:02:57,340 --> 01:02:59,420
+Oh, it's a sad dog, etc.
+
+1524
+01:02:59,420 --> 01:03:01,900
+But where was this kind of reacting before?
+
+1525
+01:03:01,900 --> 01:03:05,260
+And you can't parry monstery enemies of any kind either.
+
+1526
+01:03:05,260 --> 01:03:08,060
+It took me major trial and error for me to even determine
+
+1527
+01:03:08,060 --> 01:03:11,100
+if you could parry the Snake Men in Sen's Fortress.
+
+1528
+01:03:11,100 --> 01:03:14,380
+By the way, the answer is yes, but only some attacks.
+
+1529
+01:03:14,380 --> 01:03:19,740
+The Dark Souls wiki even has an extensive list of what creatures you actually can parry
+
+1530
+01:03:19,740 --> 01:03:21,500
+and what attacks you can parry.
+
+1531
+01:03:21,500 --> 01:03:24,460
+I get that not everything you're fighting is technically humanoid
+
+1532
+01:03:24,460 --> 01:03:28,300
+or has a weapon that you can parry in a traditional sense,
+
+1533
+01:03:28,300 --> 01:03:31,100
+but it still feels really lacking in my opinion
+
+1534
+01:03:31,100 --> 01:03:33,980
+that you can't use one of the most interesting mechanics in the game
+
+1535
+01:03:33,980 --> 01:03:35,820
+against, like, half the enemies.
+
+1536
+01:03:35,820 --> 01:03:38,300
+You can kind of parry monsters' attacks.
+
+1537
+01:03:38,300 --> 01:03:40,140
+It causes them to do a bit less damage,
+
+1538
+01:03:40,140 --> 01:03:41,820
+but seriously, what the fuck?
+
+1539
+01:03:41,820 --> 01:03:43,500
+If you have a pseudo parry mechanic,
+
+1540
+01:03:43,500 --> 01:03:45,100
+just let me fucking parry this guy.
+
+1541
+01:03:45,100 --> 01:03:45,980
+Jesus.
+
+1542
+01:03:45,980 --> 01:03:48,460
+The timing is often incredibly hard.
+
+1543
+01:03:48,460 --> 01:03:51,500
+Like, literally harder than putting your shield up or dodging,
+
+1544
+01:03:51,500 --> 01:03:54,780
+and all it does is cause you to take reduced damage?
+
+1545
+01:03:54,780 --> 01:03:56,620
+Like, what?
+
+1546
+01:03:56,620 --> 01:03:59,260
+Bloodborne finally sorts that shit out.
+
+1547
+01:03:59,260 --> 01:04:02,300
+It makes monstrous enemies react better to being attacked,
+
+1548
+01:04:02,300 --> 01:04:04,780
+even bosses, where you can suddenly do cool things
+
+1549
+01:04:04,780 --> 01:04:06,860
+like break individual limbs.
+
+1550
+01:04:06,860 --> 01:04:09,500
+When you finally topple Dark Beast Pal to the ground
+
+1551
+01:04:09,580 --> 01:04:11,820
+because you knocked him so completely off balance,
+
+1552
+01:04:11,820 --> 01:04:14,140
+there's a real sense that you've gained an upper hand
+
+1553
+01:04:14,140 --> 01:04:17,020
+and rattled his...bones.
+
+1554
+01:04:17,020 --> 01:04:20,540
+On top of that, you can now parry most of these enemies.
+
+1555
+01:04:20,540 --> 01:04:22,860
+Even bosses can often be parried.
+
+1556
+01:04:22,860 --> 01:04:25,340
+That's what let me finally beat the blood-starved beast
+
+1557
+01:04:25,340 --> 01:04:27,660
+after an embarrassing amount of attempts.
+
+1558
+01:04:27,660 --> 01:04:30,540
+I personally never got bored with dudes in armor.
+
+1559
+01:04:30,540 --> 01:04:32,780
+Like, that was just the most fun type of fight
+
+1560
+01:04:32,780 --> 01:04:34,300
+in the Souls series thus far.
+
+1561
+01:04:34,300 --> 01:04:37,020
+It wasn't broken, but Bloodborne fixed it
+
+1562
+01:04:37,020 --> 01:04:39,340
+by coming up with many different kinds of monster,
+
+1563
+01:04:39,420 --> 01:04:41,660
+but making the fights feel super responsive
+
+1564
+01:04:41,660 --> 01:04:43,020
+to your actions within them.
+
+1565
+01:04:43,020 --> 01:04:44,540
+I haven't played Dark Souls 3 yet
+
+1566
+01:04:44,540 --> 01:04:46,460
+because I wanted to make this video first,
+
+1567
+01:04:46,460 --> 01:04:49,500
+but I hope that if it does have more monstery-type enemies,
+
+1568
+01:04:49,500 --> 01:04:51,580
+it has this kind of responsiveness also.
+
+1569
+01:04:51,580 --> 01:04:55,020
+I would honestly prefer to have even more dudes in armor
+
+1570
+01:04:55,020 --> 01:04:58,140
+than bad dogs or bad rats.
+
+1571
+01:04:58,140 --> 01:04:59,820
+Oh, no, not that! No!
+
+1572
+01:04:59,820 --> 01:05:02,700
+Okay, also, the blood vials is just a great healing system.
+
+1573
+01:05:03,420 --> 01:05:04,700
+Or just all the way through.
+
+1574
+01:05:04,700 --> 01:05:06,700
+Like, I talked before about how the Estus Flask
+
+1575
+01:05:06,700 --> 01:05:07,740
+is really, really good
+
+1576
+01:05:07,740 --> 01:05:10,060
+because it's an infinite source of health,
+
+1577
+01:05:10,060 --> 01:05:12,700
+but the trade-off there is there aren't any items
+
+1578
+01:05:12,700 --> 01:05:14,620
+you can then also use for healing.
+
+1579
+01:05:15,260 --> 01:05:17,500
+You just have that finite resource.
+
+1580
+01:05:17,500 --> 01:05:19,340
+What I quite like about Bloodborne's system
+
+1581
+01:05:19,340 --> 01:05:21,660
+is you have a lot of healing items,
+
+1582
+01:05:21,660 --> 01:05:22,780
+but they're finite.
+
+1583
+01:05:22,780 --> 01:05:25,260
+You have enough that it's not ever a huge problem,
+
+1584
+01:05:26,060 --> 01:05:28,460
+but you can theoretically run out.
+
+1585
+01:05:28,460 --> 01:05:30,140
+So it becomes more like,
+
+1586
+01:05:30,140 --> 01:05:32,220
+but you always have enough vials to get your health back
+
+1587
+01:05:32,220 --> 01:05:33,740
+almost all the way after an encounter
+
+1588
+01:05:33,740 --> 01:05:34,860
+so you can keep going.
+
+1589
+01:05:34,860 --> 01:05:35,900
+But on top of that,
+
+1590
+01:05:36,780 --> 01:05:38,940
+you are really likely to pick blood vials up
+
+1591
+01:05:38,940 --> 01:05:40,780
+as you go in fights with people.
+
+1592
+01:05:40,780 --> 01:05:42,380
+For example, in this section, I lose a ton of health,
+
+1593
+01:05:42,380 --> 01:05:45,020
+but I get all the vials back as a result of the fight,
+
+1594
+01:05:45,020 --> 01:05:46,460
+so it feels balanced.
+
+1595
+01:05:46,460 --> 01:05:47,740
+And since they don't always drop,
+
+1596
+01:05:47,740 --> 01:05:50,060
+I am eventually supposed to get better.
+
+1597
+01:05:50,060 --> 01:05:51,100
+I don't, but still.
+
+1598
+01:05:55,660 --> 01:05:57,820
+One issue in Demon's Souls that kind of made it broken
+
+1599
+01:05:57,820 --> 01:05:59,420
+was you could, at a certain point,
+
+1600
+01:05:59,420 --> 01:06:01,420
+buy a hundred of the best healing item
+
+1601
+01:06:01,420 --> 01:06:02,620
+and just carry them around
+
+1602
+01:06:02,620 --> 01:06:04,380
+and basically be invincible.
+
+1603
+01:06:04,860 --> 01:06:07,420
+Which, I mean, is maybe a problem
+
+1604
+01:06:07,420 --> 01:06:08,780
+if a game is supposed to be challenging.
+
+1605
+01:06:09,420 --> 01:06:11,340
+Bloodborne kind of fixes it
+
+1606
+01:06:11,340 --> 01:06:12,940
+by giving you a really good healing item
+
+1607
+01:06:12,940 --> 01:06:14,140
+and giving you quite a lot,
+
+1608
+01:06:14,140 --> 01:06:15,580
+but having an upper limit on how many
+
+1609
+01:06:15,580 --> 01:06:17,100
+you could ever possibly have.
+
+1610
+01:06:17,100 --> 01:06:20,140
+So I feel like Bloodborne might have perfected the system
+
+1611
+01:06:20,140 --> 01:06:22,220
+by giving you a lot of a finite amount of thing.
+
+1612
+01:06:22,780 --> 01:06:25,500
+However, it is possible to run out
+
+1613
+01:06:25,500 --> 01:06:26,860
+and have to farm for them,
+
+1614
+01:06:26,860 --> 01:06:28,540
+which isn't so great.
+
+1615
+01:06:28,540 --> 01:06:29,740
+In my opinion, they could have had it
+
+1616
+01:06:29,740 --> 01:06:32,780
+so you always start with 20 or even 10 blood vials
+
+1617
+01:06:32,780 --> 01:06:35,260
+and continue to pick them up the way you do now.
+
+1618
+01:06:35,260 --> 01:06:36,860
+But that would completely take away the idea
+
+1619
+01:06:36,860 --> 01:06:38,380
+of being able to stock up on them
+
+1620
+01:06:38,380 --> 01:06:39,980
+and use them like a regular item
+
+1621
+01:06:39,980 --> 01:06:41,020
+and sell them and stuff,
+
+1622
+01:06:41,020 --> 01:06:43,020
+so maybe there's a reason why they didn't do that.
+
+1623
+01:06:43,020 --> 01:06:45,500
+I mean, maybe the game designers did stuff on purpose.
+
+1624
+01:06:45,500 --> 01:06:46,220
+I don't know.
+
+1625
+01:06:46,220 --> 01:06:48,380
+Blood vials also heal a set percentage
+
+1626
+01:06:48,380 --> 01:06:49,900
+of your maximum health,
+
+1627
+01:06:49,900 --> 01:06:51,900
+so they're always a useful source of healing,
+
+1628
+01:06:51,900 --> 01:06:53,980
+unlike, for example, the Crescent Moongrass,
+
+1629
+01:06:53,980 --> 01:06:56,060
+which is just piss.
+
+1630
+01:06:56,060 --> 01:06:57,500
+Also, you heal a lot faster.
+
+1631
+01:06:58,700 --> 01:07:00,220
+In previous games, they wanted healing
+
+1632
+01:07:00,220 --> 01:07:01,740
+to be like this risk-reward thing
+
+1633
+01:07:01,740 --> 01:07:02,940
+where you stop,
+
+1634
+01:07:02,940 --> 01:07:04,300
+so if you want to heal,
+
+1635
+01:07:04,300 --> 01:07:07,020
+you're taking a huge risk in leaving yourself open.
+
+1636
+01:07:07,020 --> 01:07:09,500
+But it seems like they settled in Bloodborne
+
+1637
+01:07:09,500 --> 01:07:10,620
+of having it be a really quick thing
+
+1638
+01:07:10,620 --> 01:07:12,060
+you can do almost any time
+
+1639
+01:07:12,060 --> 01:07:13,820
+and just forgiving you for that.
+
+1640
+01:07:13,820 --> 01:07:14,780
+And that's okay.
+
+1641
+01:07:14,780 --> 01:07:16,860
+Maybe it theoretically makes it less challenging
+
+1642
+01:07:16,860 --> 01:07:17,660
+in some ways,
+
+1643
+01:07:17,660 --> 01:07:18,940
+but it's worth it
+
+1644
+01:07:18,940 --> 01:07:21,100
+because it means you don't die while healing,
+
+1645
+01:07:21,100 --> 01:07:23,020
+and that just feels bad,
+
+1646
+01:07:23,020 --> 01:07:24,220
+even if it's your fault.
+
+1647
+01:07:24,220 --> 01:07:25,420
+But since they took that out,
+
+1648
+01:07:25,420 --> 01:07:27,500
+now you only ever die because you failed to dodge
+
+1649
+01:07:27,500 --> 01:07:28,700
+or because you were attacking
+
+1650
+01:07:28,700 --> 01:07:29,580
+when you shouldn't have done,
+
+1651
+01:07:29,580 --> 01:07:31,580
+and that, I think, feels a lot better.
+
+1652
+01:07:31,740 --> 01:07:36,060
+🎶
+
+1653
+01:07:36,060 --> 01:07:38,700
+There are still some criticisms I have of Bloodborne, though,
+
+1654
+01:07:38,700 --> 01:07:41,580
+where it falls short or seems to take a step back.
+
+1655
+01:07:41,580 --> 01:07:42,780
+Here's a kind of big thing.
+
+1656
+01:07:42,780 --> 01:07:45,820
+I'm a little disappointed by the NPC encounters.
+
+1657
+01:07:45,820 --> 01:07:48,540
+The NPCs in Souls games have about as much health as you,
+
+1658
+01:07:48,540 --> 01:07:50,620
+or at least an amount that seems fair.
+
+1659
+01:07:50,620 --> 01:07:52,700
+However, they can do things like heal.
+
+1660
+01:07:52,700 --> 01:07:53,740
+It's fun and cool,
+
+1661
+01:07:53,740 --> 01:07:54,860
+and there's back and forth,
+
+1662
+01:07:54,860 --> 01:07:56,460
+and it's just always neat.
+
+1663
+01:07:56,460 --> 01:07:59,020
+I like the garden leading up to the Sith boss fight quite a lot
+
+1664
+01:07:59,020 --> 01:08:01,180
+just because of all the cool, unique NPCs
+
+1665
+01:08:01,180 --> 01:08:02,460
+that come to wreck your shit,
+
+1666
+01:08:02,460 --> 01:08:04,860
+including Man With Inferior Jump Attack.
+
+1667
+01:08:04,860 --> 01:08:06,140
+Aw, there, there.
+
+1668
+01:08:06,140 --> 01:08:07,580
+🔔
+
+1669
+01:08:07,580 --> 01:08:09,980
+An idiot who forgot that arrows move in slow motion
+
+1670
+01:08:09,980 --> 01:08:11,260
+in Dark Souls Land.
+
+1671
+01:08:11,260 --> 01:08:14,220
+And oh, wow, Patrick Klepek's Demon's Souls character
+
+1672
+01:08:14,220 --> 01:08:15,180
+is here, too.
+
+1673
+01:08:15,180 --> 01:08:17,100
+And if you really like fighting characters
+
+1674
+01:08:17,100 --> 01:08:18,780
+with similar abilities to you,
+
+1675
+01:08:18,780 --> 01:08:21,100
+there's a cat who wants to help you protect the garden
+
+1676
+01:08:21,100 --> 01:08:23,260
+from other real human players.
+
+1677
+01:08:23,260 --> 01:08:25,020
+If you join their covenant and wear their ring,
+
+1678
+01:08:25,020 --> 01:08:27,100
+occasionally you get summoned in as a blue phantom,
+
+1679
+01:08:27,100 --> 01:08:30,460
+so you, yes, you can get backstabbed from ten feet away
+
+1680
+01:08:30,540 --> 01:08:33,500
+and wonder if PvP will ever fucking work in these games.
+
+1681
+01:08:33,500 --> 01:08:35,820
+In Bloodborne, stray hunters and hunter-sized bosses
+
+1682
+01:08:35,820 --> 01:08:37,260
+have obscene amounts of health.
+
+1683
+01:08:37,260 --> 01:08:38,940
+This puts you at a massive disadvantage
+
+1684
+01:08:38,940 --> 01:08:41,260
+and does away with the feeling that you're fighting an equal
+
+1685
+01:08:41,260 --> 01:08:43,260
+and instead fighting a boss version
+
+1686
+01:08:43,260 --> 01:08:45,500
+that doesn't really play by the same rules as you.
+
+1687
+01:08:46,700 --> 01:08:48,540
+Stop shooting me!
+
+1688
+01:08:48,540 --> 01:08:49,820
+Oh, my God!
+
+1689
+01:08:49,820 --> 01:08:51,500
+None of them can heal like you can,
+
+1690
+01:08:51,500 --> 01:08:53,020
+which kind of balances it out,
+
+1691
+01:08:53,020 --> 01:08:54,460
+but it doesn't feel right.
+
+1692
+01:08:54,460 --> 01:08:55,660
+Actually, no, some of them do heal
+
+1693
+01:08:55,660 --> 01:08:56,780
+and they get back a ton of health,
+
+1694
+01:08:56,780 --> 01:08:58,060
+and it's kind of messed up.
+
+1695
+01:08:58,060 --> 01:09:00,300
+I know it's possible to get in and make sure they don't,
+
+1696
+01:09:00,300 --> 01:09:02,220
+and it's more challenging for them to have more health,
+
+1697
+01:09:02,220 --> 01:09:04,300
+but it's not challenging in a way that's fun.
+
+1698
+01:09:04,300 --> 01:09:05,420
+It feels off.
+
+1699
+01:09:05,420 --> 01:09:07,340
+In my opinion, these fights would be better served
+
+1700
+01:09:07,340 --> 01:09:09,260
+if they had an equivalent amount of health as you
+
+1701
+01:09:09,260 --> 01:09:11,340
+but could get their health back from rallying like you
+
+1702
+01:09:11,340 --> 01:09:13,180
+and would heal themselves in a pinch.
+
+1703
+01:09:13,180 --> 01:09:14,780
+They'd be more interesting back and forth
+
+1704
+01:09:14,780 --> 01:09:15,740
+like in the previous games,
+
+1705
+01:09:15,740 --> 01:09:18,300
+and it wouldn't feel so much like a long, dull slog
+
+1706
+01:09:18,300 --> 01:09:19,820
+every time you refight them,
+
+1707
+01:09:19,820 --> 01:09:22,140
+getting them slowly back down to that last sliver
+
+1708
+01:09:22,140 --> 01:09:24,540
+before they suddenly shoot you dead instantly again.
+
+1709
+01:09:24,540 --> 01:09:26,860
+Great, now I have to come back and pick away at his health
+
+1710
+01:09:26,860 --> 01:09:28,860
+and hope he doesn't insta-kill me again.
+
+1711
+01:09:28,860 --> 01:09:30,940
+Bloodborne? More like blood...
+
+1712
+01:09:30,940 --> 01:09:32,060
+snorn.
+
+1713
+01:09:32,860 --> 01:09:33,660
+Gah.
+
+1714
+01:09:36,460 --> 01:09:38,620
+You can fucking hit me out of my combo
+
+1715
+01:09:38,620 --> 01:09:40,060
+while I'm hitting you.
+
+1716
+01:09:40,060 --> 01:09:42,460
+That is a fucked up thing to put in a game.
+
+1717
+01:09:43,500 --> 01:09:44,700
+That's fucked up, right?
+
+1718
+01:09:44,700 --> 01:09:46,620
+Also, they have seemingly infinite ammo,
+
+1719
+01:09:46,620 --> 01:09:48,460
+which is just rude.
+
+1720
+01:09:48,460 --> 01:09:50,700
+Weirdly enough, invasions by other players
+
+1721
+01:09:50,700 --> 01:09:53,580
+show off my version of this mechanic perfectly.
+
+1722
+01:09:53,580 --> 01:09:56,460
+I got invaded exactly once in my first playthrough,
+
+1723
+01:09:56,460 --> 01:09:57,900
+and it was exhilarating.
+
+1724
+01:09:57,900 --> 01:09:59,900
+We both came close to dying multiple times
+
+1725
+01:09:59,900 --> 01:10:02,300
+and made spaces to heal as we continued to fight.
+
+1726
+01:10:02,300 --> 01:10:03,580
+Healing is super quick,
+
+1727
+01:10:03,580 --> 01:10:04,940
+but the developers were smart enough
+
+1728
+01:10:04,940 --> 01:10:06,300
+to make this parryable.
+
+1729
+01:10:06,300 --> 01:10:07,820
+That's how I won in the end.
+
+1730
+01:10:07,820 --> 01:10:09,580
+I kind of wish I'd been invaded more,
+
+1731
+01:10:09,580 --> 01:10:11,340
+and that's not really something I say often
+
+1732
+01:10:11,340 --> 01:10:12,620
+about the Souls series.
+
+1733
+01:10:12,620 --> 01:10:14,780
+Maybe I'm just being a big whiny baby here,
+
+1734
+01:10:14,780 --> 01:10:16,700
+or maybe that one invasion was so fun
+
+1735
+01:10:16,700 --> 01:10:18,460
+it's forced me to wish there were more fights
+
+1736
+01:10:18,460 --> 01:10:19,660
+like that in the game itself,
+
+1737
+01:10:19,660 --> 01:10:21,340
+but I think an improvement I'd like to see
+
+1738
+01:10:21,340 --> 01:10:22,940
+in a theoretical Bloodborne 2
+
+1739
+01:10:22,940 --> 01:10:24,460
+would be more enemies that resemble
+
+1740
+01:10:24,460 --> 01:10:25,660
+that kind of encounter.
+
+1741
+01:10:25,660 --> 01:10:27,260
+I want the sense that the other hunters
+
+1742
+01:10:27,260 --> 01:10:29,500
+got where they did by being exceptionally skilled
+
+1743
+01:10:29,500 --> 01:10:31,180
+with the same assets as me,
+
+1744
+01:10:31,180 --> 01:10:32,860
+not because they inexplicably had
+
+1745
+01:10:32,860 --> 01:10:35,660
+many times more health and infinite ammo.
+
+1746
+01:10:35,660 --> 01:10:36,160
+Oh.
+
+1747
+01:10:37,260 --> 01:10:37,740
+But because of these dead...
+
+1748
+01:10:37,740 --> 01:10:38,240
+Stop it!
+
+1749
+01:10:38,240 --> 01:10:39,260
+But because of these dead...
+
+1750
+01:10:39,260 --> 01:10:41,100
+Ha ha ha ha ha ha!
+
+1751
+01:10:41,100 --> 01:10:42,540
+I also think the blood vial system,
+
+1752
+01:10:42,540 --> 01:10:43,580
+while good and fun,
+
+1753
+01:10:43,580 --> 01:10:46,060
+has the inherent downsides of if you run out,
+
+1754
+01:10:46,060 --> 01:10:47,340
+you can't easily buy more
+
+1755
+01:10:47,340 --> 01:10:49,820
+because they're just a bit too expensive per vial,
+
+1756
+01:10:49,820 --> 01:10:51,180
+and if you're in an area or boss
+
+1757
+01:10:51,180 --> 01:10:52,140
+that kills you a lot,
+
+1758
+01:10:52,140 --> 01:10:54,060
+you're not going to be recovering them from enemies,
+
+1759
+01:10:54,060 --> 01:10:56,220
+so you inevitably have to go farm vials
+
+1760
+01:10:56,220 --> 01:10:57,340
+or the souls to buy them,
+
+1761
+01:10:57,340 --> 01:10:59,100
+and that's just not great when it happens.
+
+1762
+01:10:59,100 --> 01:11:01,020
+There's also some incredibly weird bits
+
+1763
+01:11:01,020 --> 01:11:02,300
+where enemies aren't designed
+
+1764
+01:11:02,300 --> 01:11:03,820
+for the areas you find them in,
+
+1765
+01:11:03,820 --> 01:11:04,780
+like some of the bosses
+
+1766
+01:11:04,780 --> 01:11:06,860
+or the giants in Cathedral Ward.
+
+1767
+01:11:06,860 --> 01:11:08,060
+I'd like you to tell me
+
+1768
+01:11:08,060 --> 01:11:09,500
+what even hit me there,
+
+1769
+01:11:10,540 --> 01:11:11,980
+and why do you have to go back
+
+1770
+01:11:11,980 --> 01:11:13,100
+to the central hub
+
+1771
+01:11:13,100 --> 01:11:14,540
+every time you want to go somewhere?
+
+1772
+01:11:14,540 --> 01:11:15,580
+That's kind of annoying.
+
+1773
+01:11:15,580 --> 01:11:17,260
+These are all relatively small problems
+
+1774
+01:11:17,260 --> 01:11:18,220
+in the grand scheme.
+
+1775
+01:11:18,220 --> 01:11:19,740
+My main problem with the game
+
+1776
+01:11:19,740 --> 01:11:21,180
+is also the best demonstration
+
+1777
+01:11:21,180 --> 01:11:23,580
+of why the rest of Bloodborne is so good.
+
+1778
+01:11:23,580 --> 01:11:25,580
+The chalice dungeons.
+
+1779
+01:11:25,580 --> 01:11:27,580
+Oh my god!
+
+1780
+01:11:27,580 --> 01:11:29,420
+They're a completely optional part of the game
+
+1781
+01:11:29,420 --> 01:11:30,620
+where you can go into dungeons
+
+1782
+01:11:30,620 --> 01:11:31,500
+and traverse them,
+
+1783
+01:11:31,500 --> 01:11:33,020
+fighting more bosses and enemies,
+
+1784
+01:11:33,020 --> 01:11:34,700
+and some of them are randomly generated,
+
+1785
+01:11:34,700 --> 01:11:35,980
+meaning there is theoretically
+
+1786
+01:11:35,980 --> 01:11:37,500
+infinite content in Bloodborne,
+
+1787
+01:11:38,060 --> 01:11:39,500
+but I'm going to be honest,
+
+1788
+01:11:39,500 --> 01:11:41,100
+they're really bad.
+
+1789
+01:11:41,100 --> 01:11:42,060
+By stripping out the part
+
+1790
+01:11:42,060 --> 01:11:43,500
+where the levels are carefully designed
+
+1791
+01:11:43,500 --> 01:11:45,180
+to be fun and good and interesting
+
+1792
+01:11:45,180 --> 01:11:47,580
+and challenge you in a fair and reactive way,
+
+1793
+01:11:47,580 --> 01:11:50,140
+the dungeon segments can be teeth-grindingly bad
+
+1794
+01:11:50,140 --> 01:11:51,500
+in ways that simply aren't fun.
+
+1795
+01:11:52,300 --> 01:11:53,180
+Accidentally,
+
+1796
+01:11:53,180 --> 01:11:54,300
+they're object lessons
+
+1797
+01:11:54,300 --> 01:11:56,380
+in why we still have level designers
+
+1798
+01:11:56,380 --> 01:11:57,660
+and don't just have a computer
+
+1799
+01:11:57,660 --> 01:11:59,100
+churn out all our levels.
+
+1800
+01:11:59,100 --> 01:12:01,260
+The chalice dungeons are so lazily put together
+
+1801
+01:12:01,260 --> 01:12:01,980
+that this guy,
+
+1802
+01:12:01,980 --> 01:12:03,020
+who spawns in, like,
+
+1803
+01:12:03,020 --> 01:12:04,140
+all of the important rooms
+
+1804
+01:12:04,140 --> 01:12:05,420
+in any given dungeon,
+
+1805
+01:12:05,420 --> 01:12:07,580
+like, one of the bosses in the dungeons
+
+1806
+01:12:07,580 --> 01:12:08,780
+is just three of him.
+
+1807
+01:12:09,420 --> 01:12:10,540
+So on some floors,
+
+1808
+01:12:10,540 --> 01:12:12,140
+you beat one of these guys,
+
+1809
+01:12:12,140 --> 01:12:14,220
+hit the switch that unlocks the boss door,
+
+1810
+01:12:14,220 --> 01:12:15,900
+and then you fight three more of him,
+
+1811
+01:12:15,900 --> 01:12:16,400
+and you're like,
+
+1812
+01:12:17,100 --> 01:12:17,600
+what?
+
+1813
+01:12:18,140 --> 01:12:19,340
+You know, I've heard criticisms
+
+1814
+01:12:19,340 --> 01:12:20,780
+that some enemies in the Souls series
+
+1815
+01:12:20,780 --> 01:12:21,980
+start to get repetitive,
+
+1816
+01:12:21,980 --> 01:12:23,020
+but honestly,
+
+1817
+01:12:23,580 --> 01:12:25,500
+they don't even come close to this,
+
+1818
+01:12:25,500 --> 01:12:27,500
+where you're literally just fighting the same guy
+
+1819
+01:12:27,500 --> 01:12:29,580
+over and over in different permutations.
+
+1820
+01:12:29,580 --> 01:12:30,860
+I'm not covering the chalice dungeons
+
+1821
+01:12:30,860 --> 01:12:31,900
+in very much detail here
+
+1822
+01:12:31,900 --> 01:12:33,900
+because I feel like I've talked about Bloodborne
+
+1823
+01:12:33,900 --> 01:12:34,780
+enough at this point,
+
+1824
+01:12:35,420 --> 01:12:37,420
+so it's not really going to hammer home
+
+1825
+01:12:37,420 --> 01:12:39,100
+how just bad this is.
+
+1826
+01:12:39,100 --> 01:12:39,600
+Like,
+
+1827
+01:12:39,660 --> 01:12:41,580
+this room you're seeing right now,
+
+1828
+01:12:41,580 --> 01:12:42,940
+you will see this room copied
+
+1829
+01:12:42,940 --> 01:12:44,220
+over and over
+
+1830
+01:12:44,220 --> 01:12:44,940
+for hours.
+
+1831
+01:12:45,500 --> 01:12:47,100
+That is all the chalice dungeons are.
+
+1832
+01:12:47,100 --> 01:12:47,900
+There are,
+
+1833
+01:12:47,900 --> 01:12:48,400
+there are, like,
+
+1834
+01:12:49,020 --> 01:12:51,340
+five, six different kinds of room
+
+1835
+01:12:51,340 --> 01:12:52,380
+repeated
+
+1836
+01:12:52,380 --> 01:12:53,660
+over and over.
+
+1837
+01:12:53,660 --> 01:12:55,100
+Honestly, watch this part of the video
+
+1838
+01:12:55,100 --> 01:12:55,900
+on a loop for, like,
+
+1839
+01:12:56,700 --> 01:12:57,740
+two and a half hours,
+
+1840
+01:12:57,740 --> 01:13:00,380
+and you will have a full replication
+
+1841
+01:13:00,380 --> 01:13:02,060
+of about as much of the chalice dungeon
+
+1842
+01:13:02,060 --> 01:13:04,060
+as I can stand to record
+
+1843
+01:13:04,060 --> 01:13:05,100
+to make this video.
+
+1844
+01:13:05,100 --> 01:13:06,300
+Even the pre-made dungeons
+
+1845
+01:13:06,300 --> 01:13:07,660
+are just the same kind of rooms
+
+1846
+01:13:07,660 --> 01:13:09,740
+in different configurations over and over.
+
+1847
+01:13:09,740 --> 01:13:10,860
+It's not great.
+
+1848
+01:13:10,860 --> 01:13:11,980
+You know what it reminded me of?
+
+1849
+01:13:12,620 --> 01:13:13,740
+Kingsfield.
+
+1850
+01:13:13,740 --> 01:13:16,460
+And no game should be like Kingsfield.
+
+1851
+01:13:16,460 --> 01:13:17,100
+Oh, hey, look.
+
+1852
+01:13:17,100 --> 01:13:18,140
+It's another one of those.
+
+1853
+01:13:18,140 --> 01:13:20,220
+I'm so fucking surprised.
+
+1854
+01:13:20,220 --> 01:13:21,740
+They also reveal how good
+
+1855
+01:13:21,740 --> 01:13:22,700
+the rest of the game is
+
+1856
+01:13:22,700 --> 01:13:24,700
+by showing how much care and attention
+
+1857
+01:13:24,700 --> 01:13:25,740
+must have gone into making
+
+1858
+01:13:25,740 --> 01:13:27,100
+all the areas and encounters
+
+1859
+01:13:27,100 --> 01:13:29,100
+look and feel as good as they do.
+
+1860
+01:13:29,100 --> 01:13:30,380
+And they do that by showing
+
+1861
+01:13:30,380 --> 01:13:31,660
+how lacking the game would have been
+
+1862
+01:13:31,660 --> 01:13:32,860
+if they hadn't been there.
+
+1863
+01:13:32,860 --> 01:13:34,140
+Yharnam does the impossible
+
+1864
+01:13:34,140 --> 01:13:36,140
+by feeling varied and huge and complex
+
+1865
+01:13:36,140 --> 01:13:37,420
+while being primarily focused
+
+1866
+01:13:37,420 --> 01:13:40,300
+on one big kind of similar-looking town
+
+1867
+01:13:40,300 --> 01:13:42,380
+made of very similar kinds of architecture
+
+1868
+01:13:42,380 --> 01:13:43,100
+throughout.
+
+1869
+01:13:43,100 --> 01:13:44,700
+The chalice dungeons remind me
+
+1870
+01:13:44,700 --> 01:13:46,060
+of the parts of dungeon crawlers
+
+1871
+01:13:46,060 --> 01:13:47,740
+that don't hold up to scrutiny either.
+
+1872
+01:13:47,740 --> 01:13:49,740
+They're almost literally just box rooms
+
+1873
+01:13:49,740 --> 01:13:51,420
+with grimy stone textures
+
+1874
+01:13:51,420 --> 01:13:52,380
+thrown up everywhere.
+
+1875
+01:13:52,380 --> 01:13:54,220
+If Bloodborne were released as a roguelike
+
+1876
+01:13:54,220 --> 01:13:56,620
+that used this randomly generated stuff
+
+1877
+01:13:56,620 --> 01:13:58,380
+or if the whole game looked and felt
+
+1878
+01:13:58,380 --> 01:13:59,820
+like the chalice dungeons,
+
+1879
+01:13:59,820 --> 01:14:01,180
+I think I would hate it.
+
+1880
+01:14:01,180 --> 01:14:02,780
+There's this game called Necropolis.
+
+1881
+01:14:02,780 --> 01:14:04,700
+It's billed as a Dark Souls roguelike.
+
+1882
+01:14:04,700 --> 01:14:06,220
+It's kind of boring.
+
+1883
+01:14:06,220 --> 01:14:07,660
+The enemies are repetitive.
+
+1884
+01:14:07,660 --> 01:14:08,940
+There's no boss fights.
+
+1885
+01:14:08,940 --> 01:14:10,860
+Even quick attacks feel slow
+
+1886
+01:14:10,860 --> 01:14:12,300
+like in Lords of the Fallen.
+
+1887
+01:14:12,300 --> 01:14:13,340
+And more importantly,
+
+1888
+01:14:13,340 --> 01:14:14,700
+the lack of design
+
+1889
+01:14:14,700 --> 01:14:16,460
+in any of the levels or environments
+
+1890
+01:14:16,460 --> 01:14:17,740
+means there's no character
+
+1891
+01:14:17,740 --> 01:14:19,100
+or feel to the world.
+
+1892
+01:14:19,180 --> 01:14:20,300
+It's the chalice dungeons
+
+1893
+01:14:20,300 --> 01:14:21,900
+but without the upshot of being attached
+
+1894
+01:14:21,900 --> 01:14:23,500
+to an actually good game.
+
+1895
+01:14:23,500 --> 01:14:24,620
+I guess what I'm saying is
+
+1896
+01:14:24,620 --> 01:14:25,980
+I like games when they're...
+
+1897
+01:14:26,620 --> 01:14:29,420
+designed by people?
+
+1898
+01:14:29,420 --> 01:14:30,220
+Weirdly enough,
+
+1899
+01:14:30,220 --> 01:14:31,420
+while some of the new bosses
+
+1900
+01:14:31,420 --> 01:14:33,020
+that only appear in the chalice dungeons
+
+1901
+01:14:33,020 --> 01:14:34,620
+are repeated a lot across them
+
+1902
+01:14:34,620 --> 01:14:35,980
+and clearly didn't have much time
+
+1903
+01:14:35,980 --> 01:14:36,940
+or effort put into them
+
+1904
+01:14:36,940 --> 01:14:38,540
+and don't strike me as particularly
+
+1905
+01:14:38,540 --> 01:14:39,980
+interesting in and of themselves,
+
+1906
+01:14:39,980 --> 01:14:41,420
+several of them are super fun
+
+1907
+01:14:41,420 --> 01:14:43,180
+to actually fight once you get to them.
+
+1908
+01:14:43,180 --> 01:14:44,140
+It's almost a shame
+
+1909
+01:14:44,140 --> 01:14:45,500
+that the content you have to pass through
+
+1910
+01:14:45,500 --> 01:14:47,020
+to get to them are kind of boring
+
+1911
+01:14:47,020 --> 01:14:48,060
+or actively unfun
+
+1912
+01:14:48,060 --> 01:14:49,820
+because they're worthy encounters.
+
+1913
+01:14:49,820 --> 01:14:51,340
+I almost wonder if all the bosses
+
+1914
+01:14:51,340 --> 01:14:52,060
+you encounter here
+
+1915
+01:14:52,060 --> 01:14:52,940
+are the ones they made
+
+1916
+01:14:52,940 --> 01:14:54,140
+and weren't happy with
+
+1917
+01:14:54,140 --> 01:14:54,940
+so they didn't bother
+
+1918
+01:14:54,940 --> 01:14:56,300
+putting them in the main game,
+
+1919
+01:14:56,300 --> 01:14:57,260
+which naturally means
+
+1920
+01:14:57,260 --> 01:14:58,060
+the best ones here
+
+1921
+01:14:58,060 --> 01:14:59,260
+are the ones that feel the most
+
+1922
+01:14:59,260 --> 01:15:01,020
+like they should have been after all.
+
+1923
+01:15:01,020 --> 01:15:01,740
+Look at that!
+
+1924
+01:15:01,740 --> 01:15:03,020
+There's a boss from earlier
+
+1925
+01:15:03,020 --> 01:15:04,300
+in the regular dungeons
+
+1926
+01:15:04,300 --> 01:15:05,500
+just walking around
+
+1927
+01:15:05,500 --> 01:15:07,660
+and he's surrounded by two other bosses
+
+1928
+01:15:07,660 --> 01:15:09,260
+from earlier in this dungeon
+
+1929
+01:15:09,260 --> 01:15:11,180
+and they—they kill him for me!
+
+1930
+01:15:12,220 --> 01:15:12,860
+What?!
+
+1931
+01:15:12,860 --> 01:15:13,740
+The chalice dungeons
+
+1932
+01:15:13,740 --> 01:15:15,100
+make a lot of points for me
+
+1933
+01:15:15,100 --> 01:15:16,860
+about the importance of level design
+
+1934
+01:15:16,860 --> 01:15:18,300
+and execution in these games
+
+1935
+01:15:18,300 --> 01:15:19,980
+and show how the base mechanics alone
+
+1936
+01:15:19,980 --> 01:15:20,860
+wouldn't be enough
+
+1937
+01:15:20,860 --> 01:15:23,020
+for an engaging and fun experience.
+
+1938
+01:15:23,020 --> 01:15:24,220
+You need the push and pull
+
+1939
+01:15:24,220 --> 01:15:25,900
+of a designer hiding enemies
+
+1940
+01:15:25,900 --> 01:15:27,420
+in just the right places,
+
+1941
+01:15:27,420 --> 01:15:29,260
+scaling the difficulty of encounters
+
+1942
+01:15:29,260 --> 01:15:30,380
+through careful development
+
+1943
+01:15:30,380 --> 01:15:31,740
+of enemy placement and so on.
+
+1944
+01:15:33,900 --> 01:15:35,420
+Oh, I fucking see you, mate.
+
+1945
+01:15:35,420 --> 01:15:35,980
+Yeah, I've played—
+
+1946
+01:15:35,980 --> 01:15:37,260
+I've played a video game before.
+
+1947
+01:15:37,900 --> 01:15:39,020
+You're not weird, are you?
+
+1948
+01:15:39,020 --> 01:15:39,740
+Welcome—
+
+1949
+01:15:39,740 --> 01:15:41,740
+Welcome to Dark Souls!
+
+1950
+01:15:41,740 --> 01:15:42,860
+That's the first trick
+
+1951
+01:15:42,860 --> 01:15:43,980
+they pull in all those games.
+
+1952
+01:15:43,980 --> 01:15:44,780
+Yep.
+
+1953
+01:15:44,780 --> 01:15:46,300
+You got me the first time through.
+
+1954
+01:15:46,300 --> 01:15:47,980
+This is a true Souls game.
+
+1955
+01:15:48,620 --> 01:15:49,340
+Don't even bother
+
+1956
+01:15:49,340 --> 01:15:50,220
+looking at what I picked up.
+
+1957
+01:15:51,260 --> 01:15:52,540
+The real victory was—
+
+1958
+01:15:52,540 --> 01:15:53,260
+Oh, Jesus!
+
+1959
+01:15:56,460 --> 01:15:58,540
+I was feeling so full of myself then
+
+1960
+01:15:58,540 --> 01:15:59,980
+and, like, another guy came.
+
+1961
+01:16:00,780 --> 01:16:01,420
+Holy shit.
+
+1962
+01:16:02,380 --> 01:16:03,260
+This game's amazing.
+
+1963
+01:16:03,980 --> 01:16:05,820
+If you like walking from box room
+
+1964
+01:16:05,820 --> 01:16:07,340
+to box room full
+
+1965
+01:16:07,340 --> 01:16:09,180
+just of a bunch of random enemies
+
+1966
+01:16:09,180 --> 01:16:09,900
+plopped in there
+
+1967
+01:16:09,900 --> 01:16:12,300
+and, oh, look, it's another one of those,
+
+1968
+01:16:13,020 --> 01:16:14,700
+then I guess
+
+1969
+01:16:14,700 --> 01:16:16,140
+the chalice dungeons are for you.
+
+1970
+01:16:16,700 --> 01:16:18,060
+If you like the chalice dungeons
+
+1971
+01:16:18,060 --> 01:16:19,020
+and the randomness,
+
+1972
+01:16:19,020 --> 01:16:20,700
+I can see an appeal to that,
+
+1973
+01:16:20,700 --> 01:16:22,300
+but let's admit that
+
+1974
+01:16:22,300 --> 01:16:23,980
+the actual game is more fun
+
+1975
+01:16:24,940 --> 01:16:26,060
+and if that, for you,
+
+1976
+01:16:26,060 --> 01:16:27,020
+is a contentious point,
+
+1977
+01:16:28,140 --> 01:16:29,900
+then I'm sorry,
+
+1978
+01:16:29,900 --> 01:16:32,620
+but you are beneath me.
+
+1979
+01:16:36,780 --> 01:16:37,980
+Here's the part where I wrap up
+
+1980
+01:16:37,980 --> 01:16:39,260
+and give some pithy comments
+
+1981
+01:16:39,260 --> 01:16:40,620
+about how developers have things
+
+1982
+01:16:40,620 --> 01:16:42,460
+to learn from Bloodborne,
+
+1983
+01:16:42,460 --> 01:16:43,980
+but do they?
+
+1984
+01:16:43,980 --> 01:16:45,580
+Not every game has to learn something
+
+1985
+01:16:45,580 --> 01:16:46,380
+from Bloodborne.
+
+1986
+01:16:46,380 --> 01:16:47,660
+Not every game is attempting
+
+1987
+01:16:47,660 --> 01:16:49,340
+such a sharp, crackling,
+
+1988
+01:16:49,340 --> 01:16:50,300
+deliberateness,
+
+1989
+01:16:50,300 --> 01:16:51,580
+such a test of perception
+
+1990
+01:16:51,580 --> 01:16:53,500
+and prediction over raw mechanical input
+
+1991
+01:16:53,500 --> 01:16:55,100
+or simpler sorts of puzzle
+
+1992
+01:16:55,100 --> 01:16:57,340
+or such a specific sense of uncertainty
+
+1993
+01:16:57,340 --> 01:16:58,620
+and esoteric horror.
+
+1994
+01:16:58,620 --> 01:17:00,540
+While many designers might well recognize
+
+1995
+01:17:00,540 --> 01:17:01,500
+in Bloodborne a method
+
+1996
+01:17:01,500 --> 01:17:02,300
+they could get across
+
+1997
+01:17:02,300 --> 01:17:04,140
+their own intended reaction better,
+
+1998
+01:17:04,140 --> 01:17:05,180
+a way of helping players
+
+1999
+01:17:05,180 --> 01:17:06,380
+to get the best experience
+
+2000
+01:17:06,380 --> 01:17:07,020
+from their work
+
+2001
+01:17:07,020 --> 01:17:08,220
+by altering the attitude
+
+2002
+01:17:08,220 --> 01:17:09,500
+with which they perceive it,
+
+2003
+01:17:09,500 --> 01:17:11,420
+an equal, if not larger amount,
+
+2004
+01:17:11,420 --> 01:17:12,620
+should strive to learn
+
+2005
+01:17:12,620 --> 01:17:13,820
+absolutely nothing.
+
+2006
+01:17:13,820 --> 01:17:14,700
+Gamers everywhere
+
+2007
+01:17:14,700 --> 01:17:16,540
+have already had years of laughing
+
+2008
+01:17:16,540 --> 01:17:17,740
+and attempts to commodify
+
+2009
+01:17:17,740 --> 01:17:19,580
+their enjoyment of the Souls series.
+
+2010
+01:17:19,580 --> 01:17:21,500
+The endless descriptions of new games
+
+2011
+01:17:21,500 --> 01:17:21,900
+with,
+
+2012
+01:17:21,900 --> 01:17:22,940
+it's like Dark Souls,
+
+2013
+01:17:22,940 --> 01:17:23,980
+but with Y.
+
+2014
+01:17:23,980 --> 01:17:24,940
+The sad truth is,
+
+2015
+01:17:24,940 --> 01:17:25,980
+the most common reason
+
+2016
+01:17:25,980 --> 01:17:27,500
+the Souls games didn't have Y
+
+2017
+01:17:27,500 --> 01:17:28,300
+is because they would have been
+
+2018
+01:17:28,300 --> 01:17:29,260
+the worst for it.
+
+2019
+01:17:29,260 --> 01:17:30,940
+You know, I thought I wanted a roguelike
+
+2020
+01:17:30,940 --> 01:17:32,380
+that was a bit like Dark Souls,
+
+2021
+01:17:32,380 --> 01:17:33,740
+but then when I actually got it,
+
+2022
+01:17:33,740 --> 01:17:35,180
+I realized there was a reason
+
+2023
+01:17:35,180 --> 01:17:36,700
+why they didn't make one of those
+
+2024
+01:17:36,700 --> 01:17:37,820
+in the first place.
+
+2025
+01:17:37,820 --> 01:17:39,820
+More importantly is the wider critical
+
+2026
+01:17:39,820 --> 01:17:41,420
+and cultural overreaction
+
+2027
+01:17:41,420 --> 01:17:43,260
+to the series and its popularity.
+
+2028
+01:17:43,260 --> 01:17:43,980
+While lots of folks
+
+2029
+01:17:43,980 --> 01:17:45,260
+have always been super positive
+
+2030
+01:17:45,260 --> 01:17:45,980
+about the series,
+
+2031
+01:17:45,980 --> 01:17:47,420
+even since Demon's Souls,
+
+2032
+01:17:47,420 --> 01:17:48,620
+its spiritual successor
+
+2033
+01:17:48,620 --> 01:17:50,060
+becoming a genuine smash hit
+
+2034
+01:17:50,060 --> 01:17:51,660
+with a huge swath of players
+
+2035
+01:17:51,660 --> 01:17:53,020
+has caused lots of games writers
+
+2036
+01:17:53,020 --> 01:17:54,460
+to kind of go into overdrive
+
+2037
+01:17:54,460 --> 01:17:55,500
+about the series.
+
+2038
+01:17:55,500 --> 01:17:57,100
+I can already predict one comment
+
+2039
+01:17:57,100 --> 01:17:58,140
+someone paused this video
+
+2040
+01:17:58,140 --> 01:17:59,340
+halfway through to leave.
+
+2041
+01:17:59,340 --> 01:18:00,540
+Why did you bring up Thumper
+
+2042
+01:18:00,540 --> 01:18:01,660
+right in the middle of this?
+
+2043
+01:18:01,660 --> 01:18:03,020
+Thumper's a rhythm game.
+
+2044
+01:18:03,020 --> 01:18:03,740
+What does it have to do
+
+2045
+01:18:03,740 --> 01:18:05,740
+with bloody action, adventure,
+
+2046
+01:18:05,740 --> 01:18:07,900
+RPG things like the Souls games?
+
+2047
+01:18:07,900 --> 01:18:09,340
+Well, apart from the general point
+
+2048
+01:18:09,340 --> 01:18:10,300
+I made about how games
+
+2049
+01:18:10,300 --> 01:18:11,340
+can engross you,
+
+2050
+01:18:11,340 --> 01:18:11,900
+you're right.
+
+2051
+01:18:11,900 --> 01:18:13,100
+It doesn't really have much in common
+
+2052
+01:18:13,100 --> 01:18:14,380
+with the Souls series.
+
+2053
+01:18:14,380 --> 01:18:15,500
+The main reason I brought it up
+
+2054
+01:18:15,500 --> 01:18:16,620
+was because when I was reading
+
+2055
+01:18:16,620 --> 01:18:17,420
+reviews of Thumper
+
+2056
+01:18:17,420 --> 01:18:19,100
+to see what people thought about it,
+
+2057
+01:18:19,100 --> 01:18:20,300
+I found a review that called it
+
+2058
+01:18:20,300 --> 01:18:22,460
+the Dark Souls of Rhythm Games.
+
+2059
+01:18:22,460 --> 01:18:23,900
+I could say that calling something
+
+2060
+01:18:23,900 --> 01:18:25,260
+the Dark Souls of something
+
+2061
+01:18:25,260 --> 01:18:27,020
+or saying something is like Dark Souls
+
+2062
+01:18:27,020 --> 01:18:28,220
+for the sake of comparison
+
+2063
+01:18:28,220 --> 01:18:29,020
+and easy clicks
+
+2064
+01:18:29,020 --> 01:18:30,860
+is just poor and cliche writing,
+
+2065
+01:18:30,860 --> 01:18:31,900
+and it kind of is,
+
+2066
+01:18:31,900 --> 01:18:33,340
+but it's more that we as critics
+
+2067
+01:18:33,340 --> 01:18:34,860
+have a duty to communicate
+
+2068
+01:18:34,860 --> 01:18:36,380
+why something is good.
+
+2069
+01:18:36,380 --> 01:18:37,660
+Thumper has done a disservice
+
+2070
+01:18:37,660 --> 01:18:38,540
+by being described
+
+2071
+01:18:38,540 --> 01:18:40,460
+as the Dark Souls of Rhythm Games
+
+2072
+01:18:40,460 --> 01:18:41,980
+because it indicates that we still
+
+2073
+01:18:41,980 --> 01:18:43,340
+don't have the language
+
+2074
+01:18:43,340 --> 01:18:44,300
+to really explain
+
+2075
+01:18:44,300 --> 01:18:45,660
+why something is good
+
+2076
+01:18:45,660 --> 01:18:46,780
+without having to compare it
+
+2077
+01:18:46,780 --> 01:18:48,140
+to a singular experience
+
+2078
+01:18:48,140 --> 01:18:50,060
+that isn't really all that much like it
+
+2079
+01:18:50,060 --> 01:18:51,820
+when you really get down to it.
+
+2080
+01:18:51,820 --> 01:18:53,820
+I remember Yahtzee's Dark Souls review.
+
+2081
+01:18:53,820 --> 01:18:55,340
+In it, he makes this point.
+
+2082
+01:18:55,340 --> 01:18:56,460
+So I'd ask them to explain
+
+2083
+01:18:56,460 --> 01:18:56,940
+why it's good,
+
+2084
+01:18:56,940 --> 01:18:57,580
+and they'd reply,
+
+2085
+01:18:57,580 --> 01:18:58,540
+ooh, we can't tell you.
+
+2086
+01:18:58,540 --> 01:18:59,820
+You just have to find out for yourself.
+
+2087
+01:18:59,820 --> 01:19:00,700
+And then I'd say,
+
+2088
+01:19:00,700 --> 01:19:01,980
+shut up or fuck off,
+
+2089
+01:19:01,980 --> 01:19:03,500
+ideally both in either order.
+
+2090
+01:19:03,500 --> 01:19:05,020
+He kind of skips over it for a joke,
+
+2091
+01:19:05,020 --> 01:19:05,820
+but what he's doing here
+
+2092
+01:19:05,820 --> 01:19:07,500
+is actually describing the problem.
+
+2093
+01:19:07,500 --> 01:19:08,460
+We as a community
+
+2094
+01:19:08,460 --> 01:19:09,260
+are sometimes unable
+
+2095
+01:19:09,260 --> 01:19:10,220
+to really come up with
+
+2096
+01:19:10,220 --> 01:19:11,740
+why we think something is good
+
+2097
+01:19:11,740 --> 01:19:12,700
+or we enjoy it,
+
+2098
+01:19:12,700 --> 01:19:14,780
+and it leaves us having to vaguely
+
+2099
+01:19:14,780 --> 01:19:16,140
+gesture in a game's direction
+
+2100
+01:19:16,140 --> 01:19:17,900
+because words have failed us.
+
+2101
+01:19:17,900 --> 01:19:19,340
+It's a hard series to pin down,
+
+2102
+01:19:19,340 --> 01:19:20,380
+I know, trust me.
+
+2103
+01:19:20,380 --> 01:19:21,980
+I've just spent a really long time
+
+2104
+01:19:21,980 --> 01:19:23,020
+trying to do so
+
+2105
+01:19:23,020 --> 01:19:24,060
+because when we grapple
+
+2106
+01:19:24,060 --> 01:19:25,980
+with why we enjoy something,
+
+2107
+01:19:25,980 --> 01:19:27,260
+we're ultimately interrogating
+
+2108
+01:19:27,260 --> 01:19:28,220
+our own feelings,
+
+2109
+01:19:28,220 --> 01:19:29,500
+and that's a very difficult thing
+
+2110
+01:19:29,500 --> 01:19:30,460
+to do indeed.
+
+2111
+01:19:30,460 --> 01:19:31,500
+At least I assume that's why
+
+2112
+01:19:31,500 --> 01:19:33,260
+my therapist charges so much.
+
+2113
+01:19:33,260 --> 01:19:35,900
+But good criticism means good discourse.
+
+2114
+01:19:35,900 --> 01:19:37,900
+I can completely see why writers,
+
+2115
+01:19:37,900 --> 01:19:39,020
+critics, and journalists
+
+2116
+01:19:39,020 --> 01:19:40,540
+use the shorthands they do,
+
+2117
+01:19:40,540 --> 01:19:42,140
+but I think the onus is on us
+
+2118
+01:19:42,140 --> 01:19:43,340
+to try not to,
+
+2119
+01:19:43,340 --> 01:19:44,940
+to be willing to be long,
+
+2120
+01:19:44,940 --> 01:19:45,820
+complicated,
+
+2121
+01:19:45,820 --> 01:19:46,940
+willing to be, yeah,
+
+2122
+01:19:46,940 --> 01:19:47,980
+even a little bit boring
+
+2123
+01:19:47,980 --> 01:19:49,180
+or pedantic at times
+
+2124
+01:19:49,180 --> 01:19:49,980
+in order to explore
+
+2125
+01:19:49,980 --> 01:19:51,820
+the qualities of gaming experiences
+
+2126
+01:19:51,820 --> 01:19:53,180
+in a truly valuable way,
+
+2127
+01:19:53,180 --> 01:19:54,060
+which I hope I've done,
+
+2128
+01:19:54,060 --> 01:19:55,660
+but knowing me, I probably, uh...
+
+2129
+01:19:56,540 --> 01:19:57,100
+didn't.
+
+2130
+01:19:57,100 --> 01:19:58,460
+For things to fully get judged
+
+2131
+01:19:58,460 --> 01:19:59,500
+on their own merit,
+
+2132
+01:19:59,500 --> 01:20:00,860
+we have to start examining
+
+2133
+01:20:00,860 --> 01:20:02,300
+the actual merits
+
+2134
+01:20:02,300 --> 01:20:03,980
+in concrete terms.
+
+2135
+01:20:03,980 --> 01:20:04,460
+For the record,
+
+2136
+01:20:04,460 --> 01:20:06,140
+the most accurate comparison I've seen
+
+2137
+01:20:06,140 --> 01:20:07,580
+is when Patrick Klepek described
+
+2138
+01:20:07,580 --> 01:20:08,940
+beating a Mario Maker level
+
+2139
+01:20:08,940 --> 01:20:09,980
+as like the feeling of
+
+2140
+01:20:09,980 --> 01:20:11,340
+beating a Dark Souls boss.
+
+2141
+01:20:11,340 --> 01:20:13,500
+The point is the level achieved a feeling
+
+2142
+01:20:13,500 --> 01:20:14,620
+rather than having any
+
+2143
+01:20:14,620 --> 01:20:16,060
+pure mechanical similarity.
+
+2144
+01:20:16,060 --> 01:20:17,740
+I mean, they're completely different genres.
+
+2145
+01:20:17,740 --> 01:20:19,580
+It's hard to do that comparison right,
+
+2146
+01:20:19,580 --> 01:20:21,100
+but Scoops managed it.
+
+2147
+01:20:21,100 --> 01:20:21,660
+Hmm.
+
+2148
+01:20:21,660 --> 01:20:22,700
+A hard thing to do
+
+2149
+01:20:22,700 --> 01:20:24,540
+that only a few people achieve?
+
+2150
+01:20:24,540 --> 01:20:26,220
+I guess that makes Patrick Klepek
+
+2151
+01:20:26,220 --> 01:20:28,140
+the Dark Souls of Game Critic.
+
+2152
+01:20:28,700 --> 01:20:29,500
+Bloodborne,
+
+2153
+01:20:29,500 --> 01:20:31,100
+a game about injecting yourself
+
+2154
+01:20:31,100 --> 01:20:32,140
+with increasing amounts
+
+2155
+01:20:32,140 --> 01:20:33,820
+of dangerous liquid,
+
+2156
+01:20:33,820 --> 01:20:36,460
+is itself the ultimate gateway drug.
+
+2157
+01:20:36,460 --> 01:20:37,980
+The precise beauty
+
+2158
+01:20:37,980 --> 01:20:39,820
+of the particulars of the experience
+
+2159
+01:20:39,820 --> 01:20:41,340
+make for a fantastic thing
+
+2160
+01:20:41,340 --> 01:20:42,300
+all on its own.
+
+2161
+01:20:42,300 --> 01:20:44,540
+But perhaps more importantly
+
+2162
+01:20:44,540 --> 01:20:45,980
+than being one of the best games
+
+2163
+01:20:45,980 --> 01:20:47,180
+of its generation,
+
+2164
+01:20:47,180 --> 01:20:48,540
+it inoculates its players
+
+2165
+01:20:48,540 --> 01:20:49,580
+against the problems
+
+2166
+01:20:49,580 --> 01:20:51,020
+the Souls series has previously
+
+2167
+01:20:51,020 --> 01:20:53,340
+been unable to rid itself for years.
+
+2168
+01:20:53,340 --> 01:20:55,260
+The previous games were really good,
+
+2169
+01:20:55,260 --> 01:20:56,220
+but their design
+
+2170
+01:20:56,220 --> 01:20:57,740
+accidentally necessitated
+
+2171
+01:20:57,740 --> 01:20:58,620
+ways of playing it
+
+2172
+01:20:58,620 --> 01:20:59,740
+that were conservative
+
+2173
+01:20:59,740 --> 01:21:01,260
+and just not all that fun
+
+2174
+01:21:01,260 --> 01:21:02,540
+to actually do.
+
+2175
+01:21:02,540 --> 01:21:04,300
+It was, to coin yet another
+
+2176
+01:21:04,300 --> 01:21:05,900
+unfitting food metaphor,
+
+2177
+01:21:05,900 --> 01:21:07,580
+being handed a very good
+
+2178
+01:21:07,580 --> 01:21:08,460
+bowl of soup,
+
+2179
+01:21:08,460 --> 01:21:09,420
+shout-out to soup,
+
+2180
+01:21:09,420 --> 01:21:11,660
+but being given a shield-shaped
+
+2181
+01:21:11,660 --> 01:21:13,180
+pitchfork to eat it with.
+
+2182
+01:21:13,180 --> 01:21:14,540
+It took a lot of time to realize
+
+2183
+01:21:14,540 --> 01:21:15,660
+there were more funner ways
+
+2184
+01:21:15,660 --> 01:21:17,420
+of doing it than it presented itself,
+
+2185
+01:21:17,420 --> 01:21:17,980
+and by then,
+
+2186
+01:21:17,980 --> 01:21:19,740
+people had lost their appetite.
+
+2187
+01:21:19,740 --> 01:21:21,580
+Bloodborne is better soup,
+
+2188
+01:21:21,580 --> 01:21:22,620
+but more importantly,
+
+2189
+01:21:22,620 --> 01:21:23,740
+it's soup that comes with
+
+2190
+01:21:23,740 --> 01:21:25,180
+a piece of paper that says,
+
+2191
+01:21:25,180 --> 01:21:26,700
+hey, don't use the shield.
+
+2192
+01:21:26,700 --> 01:21:28,620
+Just find a spoon or some bread
+
+2193
+01:21:28,620 --> 01:21:29,820
+or just pour me directly
+
+2194
+01:21:29,820 --> 01:21:30,540
+into your mouth.
+
+2195
+01:21:31,180 --> 01:21:32,540
+Also, the bowl somehow
+
+2196
+01:21:32,540 --> 01:21:34,380
+also contains a theoretical
+
+2197
+01:21:34,380 --> 01:21:36,540
+infinite amount of bad soup
+
+2198
+01:21:36,540 --> 01:21:37,580
+that tastes awful,
+
+2199
+01:21:37,580 --> 01:21:38,540
+but it's cordoned off
+
+2200
+01:21:38,540 --> 01:21:39,820
+from the good parts of the soup
+
+2201
+01:21:39,820 --> 01:21:41,980
+and completely optional to consume.
+
+2202
+01:21:41,980 --> 01:21:42,940
+Okay, I probably should have
+
+2203
+01:21:42,940 --> 01:21:44,060
+written a conclusion out.
+
+2204
+01:21:44,060 --> 01:21:45,420
+This isn't doing very good.
+
+2205
+01:21:45,420 --> 01:21:47,340
+What ways do I expect the series
+
+2206
+01:21:47,340 --> 01:21:49,020
+to be improved on in the future?
+
+2207
+01:21:49,020 --> 01:21:50,540
+Well, I'm honestly daunted
+
+2208
+01:21:50,540 --> 01:21:51,340
+by the genius
+
+2209
+01:21:51,340 --> 01:21:52,780
+of the FromSoftware team,
+
+2210
+01:21:52,780 --> 01:21:54,540
+so I really can't wait
+
+2211
+01:21:54,540 --> 01:21:55,900
+to be surprised
+
+2212
+01:21:55,900 --> 01:21:57,020
+by how they improve on it
+
+2213
+01:21:57,020 --> 01:21:57,900
+in the future.
+
+2214
+01:21:57,900 --> 01:21:58,940
+At the very least, though,
+
+2215
+01:21:58,940 --> 01:22:00,380
+I do hope that Bloodborne 2
+
+2216
+01:22:00,380 --> 01:22:02,220
+comes with complimentary breadsticks.
+
+2217
+01:22:03,820 --> 01:22:05,180
+I can't end the video like that.
+
+2218
+01:22:05,180 --> 01:22:05,680
+I can't.
+
+2219
+01:22:05,680 --> 01:22:06,180
+I can't.
+
+2220
+01:22:13,280 --> 01:22:15,280
+I'd like to say a very special thanks to...
+
+2221
+01:22:36,560 --> 01:22:37,520
+Casey Schneibel
+
+2222
+01:22:39,440 --> 01:22:39,940
+Kieran
+
+2223
+01:22:41,680 --> 01:22:42,960
+Corwin Light-Williams
+
+2224
+01:22:44,720 --> 01:22:45,600
+David Callan
+
+2225
+01:22:47,840 --> 01:22:48,640
+David Rose
+
+2226
+01:22:50,720 --> 01:22:51,680
+Ed Costigan
+
+2227
+01:22:53,600 --> 01:22:54,480
+Eric Hunter
+
+2228
+01:22:56,560 --> 01:22:57,920
+Findlay Bowick-Copley
+
+2229
+01:22:59,680 --> 01:23:00,800
+Graf and Blackpaw
+
+2230
+01:23:03,600 --> 01:23:04,400
+HeroRewar
+
+2231
+01:23:05,280 --> 01:23:06,080
+Jack Harvey
+
+2232
+01:23:06,640 --> 01:23:07,840
+Jack Ryan
+
+2233
+01:23:07,840 --> 01:23:08,720
+Jan Anders
+
+2234
+01:23:09,280 --> 01:23:10,240
+Jason Walter
+
+2235
+01:23:10,800 --> 01:23:12,000
+Jay Logan
+
+2236
+01:23:12,000 --> 01:23:13,280
+Jeffrey Ladd
+
+2237
+01:23:13,280 --> 01:23:14,400
+Jeffrey Theobald
+
+2238
+01:23:14,960 --> 01:23:16,240
+Joanne York
+
+2239
+01:23:16,240 --> 01:23:17,200
+John Cantwell
+
+2240
+01:23:18,000 --> 01:23:18,960
+Joseph Greco
+
+2241
+01:23:19,600 --> 01:23:21,200
+That's right, I got it right this time.
+
+2242
+01:23:21,200 --> 01:23:22,400
+Cavxile
+
+2243
+01:23:22,400 --> 01:23:22,960
+Cav P
+
+2244
+01:23:23,680 --> 01:23:24,880
+Kevin M. Knippy
+
+2245
+01:23:25,680 --> 01:23:26,480
+Lady Naga
+
+2246
+01:23:27,120 --> 01:23:28,000
+Layden Pierce
+
+2247
+01:23:28,720 --> 01:23:30,000
+Luke Gould
+
+2248
+01:23:30,000 --> 01:23:31,280
+Lizzie Edwards
+
+2249
+01:23:31,280 --> 01:23:32,240
+Malarkey Bingo
+
+2250
+01:23:32,880 --> 01:23:33,840
+Marco Shard
+
+2251
+01:23:34,400 --> 01:23:36,080
+Matthew Z. Miliani
+
+2252
+01:23:36,080 --> 01:23:37,440
+Mitchell Riedman
+
+2253
+01:23:37,440 --> 01:23:38,800
+MrXenophobe
+
+2254
+01:23:38,800 --> 01:23:40,080
+Neverminder
+
+2255
+01:23:40,080 --> 01:23:41,600
+Niels Abildgaard
+
+2256
+01:23:41,600 --> 01:23:42,960
+Olivia Mello
+
+2257
+01:23:42,960 --> 01:23:44,080
+Peter Brodeson
+
+2258
+01:23:44,080 --> 01:23:45,440
+Rebecca Washam
+
+2259
+01:23:45,440 --> 01:23:46,160
+Renee S.
+
+2260
+01:23:46,800 --> 01:23:47,840
+Renslayer
+
+2261
+01:23:47,840 --> 01:23:49,040
+Robert Phillips
+
+2262
+01:23:49,040 --> 01:23:49,680
+Samael
+
+2263
+01:23:50,400 --> 01:23:51,520
+Scott Gairton
+
+2264
+01:23:51,520 --> 01:23:52,800
+Sean Kemp
+
+2265
+01:23:52,800 --> 01:23:53,680
+Sean Higgins
+
+2266
+01:23:54,400 --> 01:23:55,440
+Siegfried Pinzer
+
+2267
+01:23:56,320 --> 01:23:57,520
+Silas Pumpkins
+
+2268
+01:23:58,240 --> 01:23:59,520
+Instant Grat
+
+2269
+01:23:59,520 --> 01:24:00,400
+Spilt Coffee
+
+2270
+01:24:00,960 --> 01:24:02,480
+Stefan Lindberg
+
+2271
+01:24:02,480 --> 01:24:03,520
+Stephanie Aldrich
+
+2272
+01:24:04,160 --> 01:24:05,120
+Thad Wasilewski
+
+2273
+01:24:06,080 --> 01:24:07,120
+Thomas Johansson
+
+2274
+01:24:08,080 --> 01:24:08,880
+Jenny Angel
+
+2275
+01:24:09,520 --> 01:24:11,680
+Two Armed Blue and Red Drapes
+
+2276
+01:24:11,680 --> 01:24:12,560
+Young Cowrie
+
+2277
+01:24:13,120 --> 01:24:14,640
+Zachariah Taylor
+
+2278
+01:24:14,640 --> 01:24:15,520
+Zachary Chan
+
+2279
+01:24:16,320 --> 01:24:17,040
+Zemnmez
+
+2280
+01:24:17,760 --> 01:24:19,120
+I.M. Turnip
+
+2281
+01:24:19,120 --> 01:24:20,160
+Parker Anderson
+
+2282
+01:24:20,960 --> 01:24:21,920
+And Rikami
+
+2283
+01:24:25,600 --> 01:24:29,040
+While the rest of the credits going past, uh, in case you want to know,
+
+2284
+01:24:29,040 --> 01:24:31,600
+yes, I am planning a Fallout 4 video,
+
+2285
+01:24:31,600 --> 01:24:35,600
+but it's taking some time because I want to approach it with enough critical distance that
+
+2286
+01:24:35,600 --> 01:24:38,640
+I give it a proper shot, you know? I want to take my time with it.
+
+2287
+01:24:38,640 --> 01:24:43,200
+So I want to make at least one more long video in this style about something else first.
+
+2288
+01:24:43,920 --> 01:24:48,000
+If you think about it, it took me eight years to make the Fallout 3 video,
+
+2289
+01:24:48,000 --> 01:24:51,520
+and as of November 10th, Fallout 4 has only been out for one.
+
+2290
+01:24:51,520 --> 01:24:52,880
+So give me a little bit, you know?
+
+2291
+01:24:53,680 --> 01:24:57,440
+The best part about this video being over is I still haven't played Dark Souls 3
+
+2292
+01:24:57,440 --> 01:25:04,400
+or the DLC for Bloodborne because I've been too busy making this video since, like, July?
+
+2293
+01:25:05,520 --> 01:25:09,920
+This video was supposed to originally come out in October as, like, a Halloween special,
+
+2294
+01:25:09,920 --> 01:25:12,080
+but I missed that.
+
+2295
+01:25:12,080 --> 01:25:15,440
+So, like, I can finally play video games again.
+
+2296
+01:25:19,040 --> 01:25:21,360
+People who back me get access to bonus videos,
+
+2297
+01:25:21,360 --> 01:25:25,440
+and also I recorded, like, 24 hours of footage of me playing Bloodborne
+
+2298
+01:25:25,440 --> 01:25:26,960
+with a friend that I'm going to put out there.
+
+2299
+01:25:27,760 --> 01:25:28,720
+So there's that.
+
+2300
+01:25:28,720 --> 01:25:34,320
+But also I shot a pretty elaborate sketch for this video that I decided to take out
+
+2301
+01:25:34,320 --> 01:25:36,640
+because I realized it was just complete nonsense.
+
+2302
+01:25:36,640 --> 01:25:39,120
+So that stuff's going to be going up soon.
+
+2303
+01:25:39,120 --> 01:25:41,040
+I really want to put out a bunch of bonus videos.
+
+2304
+01:25:41,040 --> 01:25:45,600
+I've been kind of putting off working on them to get this video out at all ever.
+
+2305
+01:25:45,600 --> 01:25:47,600
+So I feel really bad about that.
+
+2306
+01:25:47,600 --> 01:25:50,720
+So I'm going to put a whole bunch of those things out as soon as I can.
+
+2307
+01:25:50,720 --> 01:25:52,000
+So bear with me.
+
+2308
+01:25:57,440 --> 01:26:06,480
+Wow, you sat through all of those?
+
+2309
+01:26:07,040 --> 01:26:08,560
+That's very nice of you.
+
+2310
+01:26:08,560 --> 01:26:11,360
+If you backed me, I certainly hope I managed to get your name in there.
+
+2311
+01:26:11,360 --> 01:26:14,400
+I always worry if I somehow miss names,
+
+2312
+01:26:14,400 --> 01:26:16,480
+even though I literally just copy and paste it from a list.
+
+2313
+01:26:16,480 --> 01:26:18,160
+If I've made a huge mistake, let me know.
+
+2314
+01:26:18,160 --> 01:26:21,120
+But as a present for the nice folks who bothered to sit through the credits
+
+2315
+01:26:21,120 --> 01:26:23,920
+of all the people who allowed me to keep making this stuff,
+
+2316
+01:26:23,920 --> 01:26:26,480
+I'd like to just throw some game names out there.
+
+2317
+01:26:27,360 --> 01:26:28,400
+Shadow of Mordor,
+
+2318
+01:26:28,960 --> 01:26:31,040
+Deus Ex Human Revolution,
+
+2319
+01:26:31,680 --> 01:26:34,160
+Vampire The Masquerade Bloodlines.
+
+2320
+01:26:34,160 --> 01:26:37,440
+Feel free to write one of those names in a comment on this video
+
+2321
+01:26:37,440 --> 01:26:39,360
+and see what it causes to happen.
+

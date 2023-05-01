@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:07,320
+I'll give you the truth. I'll give you the facts without spin.
+
+2
+00:00:07,320 --> 00:00:12,680
+Whenever YouTubers start a presentation with a statement like that, it's a red flag. Why
+
+3
+00:00:12,680 --> 00:00:16,880
+did they feel the need to make a great show of telling you how honest they are in the
+
+4
+00:00:16,880 --> 00:00:22,280
+same way that most undemocratic countries have to insist so forcefully that they're
+
+5
+00:00:22,280 --> 00:00:26,480
+democratic? Later in the video we'll check the guy in the beanie hat's sources and
+
+6
+00:00:26,480 --> 00:00:32,360
+see if he's as truthful as he claims to be. I was hoping to end this series on Covid,
+
+7
+00:00:32,360 --> 00:00:37,960
+but several people asked me to fact-check claims that PCR tests don't work, so without
+
+8
+00:00:37,960 --> 00:00:44,100
+further ado, let's go through the claims one by one, starting with this one, that PCR
+
+9
+00:00:44,100 --> 00:00:49,580
+tests can't distinguish between a live virus and a non-infectious virus. This picture going
+
+10
+00:00:49,580 --> 00:00:53,920
+around Facebook looks as though it comes from the Australian government, and in fact part
+
+11
+00:00:53,920 --> 00:01:00,520
+of it does. It can be found here. And this particular claim is true.
+
+12
+00:01:00,520 --> 00:01:06,520
+So we're off to a good start. PCR is a way of amplifying parts of DNA in order to make
+
+13
+00:01:06,520 --> 00:01:12,360
+sample sizes large enough to be identified. It can do the same thing with RNA, the stuff
+
+14
+00:01:12,360 --> 00:01:17,540
+SARS-CoV-2 is made of, by first converting it into DNA.
+
+15
+00:01:17,540 --> 00:01:22,160
+Now there is a method for estimating the viral load, and it's dependent on the number of
+
+16
+00:01:22,160 --> 00:01:28,060
+cycles a sample has to go through in order to be amplified enough for easy detection.
+
+17
+00:01:28,060 --> 00:01:33,780
+But that's a little technical. All we need to know is that PCR can detect a virus and
+
+18
+00:01:33,780 --> 00:01:40,120
+tell you whether someone is infected, but not necessarily whether they're still infectious.
+
+19
+00:01:40,120 --> 00:01:45,420
+But then the Facebook claim starts to unravel. This means the test cannot distinguish in
+
+20
+00:01:45,420 --> 00:01:54,760
+Covid from a cold or measles or Ebola. No, it doesn't mean that at all. And if you haven't
+
+21
+00:01:54,760 --> 00:01:59,040
+guessed, that part of the statement doesn't come from virologists advising the Department
+
+22
+00:01:59,040 --> 00:02:05,640
+of Health, it's just ungrammatical claptrap tacked on by some anonymous Facebook user
+
+23
+00:02:05,640 --> 00:02:11,600
+and then passed around. But hey, this is the internet, where ungrammatical claptrap is
+
+24
+00:02:11,600 --> 00:02:17,140
+just as good as scientific research. So if we want it to be true, all we have to do is
+
+25
+00:02:17,140 --> 00:02:24,300
+believe it and pass it on. Unfortunately, too many people don't use the internet as
+
+26
+00:02:24,300 --> 00:02:30,820
+a tool for serious investigation. It's a place where one person gets an idea and for no reason
+
+27
+00:02:30,820 --> 00:02:36,560
+other than a willingness to believe, someone copies it and passes it on. And before you
+
+28
+00:02:36,560 --> 00:02:41,720
+know it, it's gone viral and everyone is moving in the same direction without even
+
+29
+00:02:41,720 --> 00:02:48,140
+understanding how or why the movement got started. Do your own research basically means
+
+30
+00:02:48,140 --> 00:02:53,300
+checking to see if everyone else is following the same belief, and if they are, then it
+
+31
+00:02:53,300 --> 00:02:59,220
+must be right. So if you want to know what the internet would look like if it took human
+
+32
+00:02:59,220 --> 00:03:05,260
+form, it looks like this. I'll give you the truth. I'll give you the facts without spin.
+
+33
+00:03:05,260 --> 00:03:10,100
+Now Bloke Inbini looks like the kind of guy I'd love to have a beer with, but I wouldn't
+
+34
+00:03:10,100 --> 00:03:16,420
+necessarily trust him to give me the facts and the truth about polymerase chain reactions.
+
+35
+00:03:16,420 --> 00:03:21,700
+He was one of three video makers highlighted by the Australian newspaper as what it calls
+
+36
+00:03:21,700 --> 00:03:27,280
+an emerging group of coronavirus deniers telling its tens of thousands of followers that the
+
+37
+00:03:27,280 --> 00:03:33,800
+pandemic is a government conspiracy. Of course, Bloke Inbini is welcome to his opinion, but
+
+38
+00:03:33,800 --> 00:03:41,240
+he's not welcome to his own facts about PCR tests. Now these tests, the PCR testing wasn't
+
+39
+00:03:41,240 --> 00:03:49,120
+invented for the coronavirus or COVID-19 to specifically test for that. These tests were
+
+40
+00:03:49,120 --> 00:03:57,320
+invented way back for HIV and other things. Actually, they weren't designed for any specific
+
+41
+00:03:57,320 --> 00:04:03,660
+DNA or any specific virus, and certainly not for HIV, which wasn't even identified and
+
+42
+00:04:03,660 --> 00:04:10,360
+named until three years after PCR was invented. Carrie Mullis, the guy who came up with the
+
+43
+00:04:10,360 --> 00:04:16,720
+idea for PCR, and his colleagues, let's not forget, discovered a method for copying DNA
+
+44
+00:04:16,720 --> 00:04:22,840
+to make quantities that were easier to analyse. And that was a hugely useful tool in everything
+
+45
+00:04:22,840 --> 00:04:29,300
+from forensics and botany to tracing your personal ancestry. Identifying viruses was
+
+46
+00:04:29,300 --> 00:04:35,660
+simply another useful application. But now Bloke Inbini is going to quote Carrie Mullis
+
+47
+00:04:35,660 --> 00:04:42,320
+directly, so that should clear things up. Now, I'm just going to read you a quote from the
+
+48
+00:04:42,320 --> 00:04:48,500
+inventor of these tests. Now these tests... Hold on, he is going to quote Carrie Mullis,
+
+49
+00:04:48,500 --> 00:04:56,300
+just a minute. And this is directly quoted from the doctor or Carrie B. Mullis, the person who
+
+50
+00:04:56,340 --> 00:05:01,180
+invented these PCR tests. Okay, he's going to quote Carrie Mullis any second now. So what
+
+51
+00:05:01,180 --> 00:05:07,380
+Carrie B. Mullis says, Remy and Damon, you might want to sort of get out your little pens and
+
+52
+00:05:07,380 --> 00:05:11,300
+pencils and take... The Carrie Mullis quote is coming up now, this is it. I wouldn't even wipe
+
+53
+00:05:11,300 --> 00:05:19,500
+my bum with that, but anyway. Now, the PCR basically takes a sample of your cells and
+
+54
+00:05:19,500 --> 00:05:30,500
+amplifies any DNA, any DNA, to look for viral sequences, i.e. bits of non-human DNA that seem
+
+55
+00:05:30,500 --> 00:05:36,180
+to match parts of a known viral genome. Now, in case you're doubting that these are the words
+
+56
+00:05:36,180 --> 00:05:41,980
+of Carrie Mullis, just go to that source of the truth, the internet. Remember the mantra of
+
+57
+00:05:41,980 --> 00:05:48,160
+conspiracy theorists, do your own research. That means if we put part of the text into a search
+
+58
+00:05:48,160 --> 00:05:53,560
+engine and enough people are quoting the same thing, and all of them say it was written by
+
+59
+00:05:53,560 --> 00:05:59,160
+Carrie Mullis, then that must be true. I mean, surely Bloke Inbini isn't just reading some
+
+60
+00:05:59,160 --> 00:06:03,600
+nonsense he found on the internet, copied and pasted by someone else on the internet,
+
+61
+00:06:03,600 --> 00:06:08,440
+from something that had been mindlessly passed around the internet by hundreds of other people,
+
+62
+00:06:08,440 --> 00:06:14,760
+and not one of them bothered to fact check it, right? I mean, that would be too stupid for words.
+
+63
+00:06:14,760 --> 00:06:23,760
+PCR basically takes a sample of your cells and amplifies any DNA. The problem is the test is
+
+64
+00:06:23,760 --> 00:06:34,800
+known not to work. These are his words, not mine. It uses an amplification which means taking a
+
+65
+00:06:34,800 --> 00:06:41,160
+very, very tiny amount of DNA and growing it exponentially until it can be analysed.
+
+66
+00:06:41,160 --> 00:06:48,120
+Obviously any minute contaminations in the sample will also be amplified,
+
+67
+00:06:48,120 --> 00:06:57,400
+leading to potentially gross areas of discovery. The idea these kits can isolate a specific virus
+
+68
+00:06:57,400 --> 00:07:07,280
+like COVID-19 is nonsense. Well, as Bloke Inbini would say, the problem is that COVID-19 wasn't
+
+69
+00:07:07,320 --> 00:07:16,160
+named until February 2020, and Carrie Mullis died in August 2019. So you won't see any comment from
+
+70
+00:07:16,160 --> 00:07:22,440
+Carrie Mullis about COVID-19, and if you do, it's either a fake or it's the work of a mystic who's
+
+71
+00:07:22,440 --> 00:07:29,080
+managed to contact him from beyond the grave. In other words, also fake. So where does it come
+
+72
+00:07:29,080 --> 00:07:35,120
+from? Well, here's exactly the same chunk of text, but this time not attributed to Carrie Mullis,
+
+73
+00:07:35,120 --> 00:07:41,840
+but to a nurse speaking out. Here's the same chunk of text, this time pasted onto a forum
+
+74
+00:07:41,840 --> 00:07:47,400
+purporting to come from someone who works in the healthcare field. Over time the statement has been
+
+75
+00:07:47,400 --> 00:07:52,680
+attributed to a nurse, someone who works in the healthcare field, a widely respected professional
+
+76
+00:07:52,680 --> 00:07:59,280
+scientist, and of course the inventor of PCR dictating from beyond the grave. So where does
+
+77
+00:07:59,280 --> 00:08:04,360
+it really come from? I'll give you the truth. No thanks, you've had your chance. The best way
+
+78
+00:08:04,360 --> 00:08:10,120
+to find out who did write it is to put part of the text into the search bar again, and this time
+
+79
+00:08:10,120 --> 00:08:16,040
+use time parameters in the search engine. I kept tracking the quote back until I found what seems
+
+80
+00:08:16,040 --> 00:08:23,400
+to be the second oldest version of it in a March 21 blog called Revealing Fraud. It cited a blog
+
+81
+00:08:23,400 --> 00:08:30,480
+called Occam's Razor Terror Events, and there it was, sandwiched between 9-11 conspiracy theories
+
+82
+00:08:30,480 --> 00:08:37,640
+and claims that the pandemic is a hoax designed to exert mind control. So the author is a blogger.
+
+83
+00:08:37,640 --> 00:08:43,920
+Now that may sound like an impeccable source if you think that anything you read on a blog
+
+84
+00:08:43,920 --> 00:08:50,600
+must be true, but we can all agree it's not Carrie Mullis. So there you go, I thought I would just
+
+85
+00:08:50,600 --> 00:08:57,440
+clear that up for you, so if you'd like, you know, share this around for a bit of clarity. So even
+
+86
+00:08:57,480 --> 00:09:01,760
+though we know that Bloke Inbini's just passing on something he read on the internet without
+
+87
+00:09:01,760 --> 00:09:07,840
+checking it, and even though this quote doesn't come from Carrie Mullis, he's asking you to pass
+
+88
+00:09:07,840 --> 00:09:13,640
+it on without checking it, so that's not really clearing anything up, it's just acting like a
+
+89
+00:09:13,640 --> 00:09:20,280
+bunch of people who believe anything they see on the internet. There's also another quote attributed
+
+90
+00:09:20,280 --> 00:09:26,040
+to Carrie Mullis during the rounds, these PCR tests cannot detect free infectious viruses at
+
+91
+00:09:26,040 --> 00:09:33,480
+all. So is that one genuine? Well this one's being passed around by someone who laughably calls
+
+92
+00:09:33,480 --> 00:09:39,960
+himself to your own research, because of course the extent of his research was to read this on
+
+93
+00:09:39,960 --> 00:09:45,960
+a website and then repeat it. If he did any further research it was just to put the quote
+
+94
+00:09:45,960 --> 00:09:50,920
+into a search engine and discover that a lot of other people on the internet are also saying
+
+95
+00:09:50,920 --> 00:09:57,120
+Carrie Mullis said this, pass it along. And under internet rules, if enough people are
+
+96
+00:09:57,120 --> 00:10:04,520
+copying and pasting the same thing, then it must be true. But none of them say where the quote comes
+
+97
+00:10:04,520 --> 00:10:11,400
+from or what it's referring to. So let's not just follow the flock, let's do some proper research
+
+98
+00:10:11,400 --> 00:10:18,840
+and find out, again by tracking this disembodied quote back with a time search. It comes from this
+
+99
+00:10:18,840 --> 00:10:26,760
+1998 article by John Lauritsen about HIV AIDS. Not only was the quote wrongly attributed to
+
+100
+00:10:26,760 --> 00:10:33,480
+Carrie Mullis, Lauritsen's explanation of what he was talking about is entirely missing. So let's
+
+101
+00:10:33,480 --> 00:10:41,480
+put it back. Lauritsen never said PCR can't identify viruses but they can't measure the
+
+102
+00:10:41,480 --> 00:10:46,760
+quantity of viruses as we've seen. To use an analogy it's a bit like being asked to identify
+
+103
+00:10:47,160 --> 00:10:52,520
+what type of car is being produced at an auto plant. I can't tell you how many cars there
+
+104
+00:10:52,520 --> 00:10:58,920
+are in the plant's holding area but I can tell you what make and model they are. Okay, so let's
+
+105
+00:10:58,920 --> 00:11:04,440
+turn it over to the forum now. Does anyone have any questions? Yes, Julian French. Why are there
+
+106
+00:11:04,440 --> 00:11:08,280
+so many videos of empty hospitals? Why aren't we discussing healthy lifestyles? Where has the flu
+
+107
+00:11:08,280 --> 00:11:11,960
+gone? Why are the local elitists making billions of money? Okay, I mean questions about PCR.
+
+108
+00:11:12,520 --> 00:11:18,920
+Why did a Cambridge PCR test study of 10,000 people show 100% of their positives to be false?
+
+109
+00:11:19,960 --> 00:11:24,680
+Even though Julian French doesn't give a source for this information, of course he doesn't,
+
+110
+00:11:24,680 --> 00:11:29,560
+it was quite easy to find this copied and pasted around the echo chamber of the internet,
+
+111
+00:11:29,560 --> 00:11:34,360
+each time with a slightly different wording. So here's someone who posted the claim with
+
+112
+00:11:34,360 --> 00:11:40,840
+some figures. 9,000 plus students were tested at Cambridge University in the week up to December 6
+
+113
+00:11:40,840 --> 00:11:46,600
+and every single one was found to be a false positive after a second test. Wow,
+
+114
+00:11:47,320 --> 00:11:53,880
+so how many is that? Hundreds? Thousands? That's not conjecture, says the tweeter,
+
+115
+00:11:53,880 --> 00:12:00,040
+that's Cambridge's own data. So does that mean the writer actually did her own research?
+
+116
+00:12:00,760 --> 00:12:06,680
+Yes, because in internet land doing your own research means reading a tweet from someone else
+
+117
+00:12:06,680 --> 00:12:10,840
+and mindlessly passing it on. And here's the tweet she passed on.
+
+118
+00:12:11,800 --> 00:12:17,480
+100% false positive rate found at Cambridge University colleges following retests. The
+
+119
+00:12:17,480 --> 00:12:24,760
+truth is emerging very quickly now. Retweet. Nah, instead of mindlessly retweeting this dubious
+
+120
+00:12:24,760 --> 00:12:30,360
+claim, let's do some research and actually check the source it gives. In other words,
+
+121
+00:12:30,360 --> 00:12:36,120
+Cambridge's own data. Here it is. The false positive rate for all pooled screening tests
+
+122
+00:12:36,120 --> 00:12:43,960
+to date has been 1 in 373. 0.3%. That's very different to 100%.
+
+123
+00:12:45,160 --> 00:12:50,360
+The Twittersphere is out by a factor of over 300. So how did that happen?
+
+124
+00:12:51,640 --> 00:12:55,320
+Well, first we need to understand what a false positive rate is.
+
+125
+00:12:56,040 --> 00:13:04,040
+Here are 9,000 students, each figure representing 100 people, about to get tested. We'll say 1,000
+
+126
+00:13:04,040 --> 00:13:10,680
+of them have coronavirus and just focus on those who aren't infected. That means there are 8,000
+
+127
+00:13:10,680 --> 00:13:16,600
+people in the group who don't have coronavirus lining up to get tested. When the results of
+
+128
+00:13:16,600 --> 00:13:22,280
+the tests come in, they all show a negative result except for 200 people whose samples
+
+129
+00:13:22,280 --> 00:13:29,640
+are mistakenly read as positive. So these are false positives. That's what a false positive
+
+130
+00:13:29,640 --> 00:13:35,880
+means. It means you're negative but you mistakenly show up as a positive. So the way the false
+
+131
+00:13:35,880 --> 00:13:41,400
+positive rate is calculated is to take the number of false positives and divide it by the number of
+
+132
+00:13:41,400 --> 00:13:47,880
+false positives plus the number of true negatives. In our example, the false positive rate is
+
+133
+00:13:48,600 --> 00:13:56,600
+200 out of 8,000, or 2.5%. So how did the Twitters end up with 100%?
+
+134
+00:13:58,040 --> 00:14:04,040
+The first step to misrepresenting the Cambridge survey is to get the calculation wrong. Instead
+
+135
+00:14:04,040 --> 00:14:09,000
+of dividing the number of false positives by the number of negatives plus false positives,
+
+136
+00:14:09,000 --> 00:14:14,200
+which is the formula, whoever started this internet chatter divided the number of false
+
+137
+00:14:14,200 --> 00:14:20,680
+positives by the number of positives. The next step is a familiar device known as cherry picking.
+
+138
+00:14:21,560 --> 00:14:26,600
+Obviously, in a population with a very low infection rate, the number of true positives
+
+139
+00:14:26,600 --> 00:14:32,440
+is going to be very low. So the percentage of false positives over true positives will be
+
+140
+00:14:32,440 --> 00:14:37,800
+higher. When you get down to no infections at all, any positive readings you do get will,
+
+141
+00:14:37,800 --> 00:14:42,440
+of course, be false. So when the amateurs took a look at the weekly results from Cambridge
+
+142
+00:14:42,440 --> 00:14:48,280
+University, guess which week they cherry picked? Of course, the only week when there were no
+
+143
+00:14:48,280 --> 00:14:56,120
+infections at all. There were only 10 positives out of 9,376 people tested, and since no one was
+
+144
+00:14:56,120 --> 00:15:03,080
+infected, they were all false. So to answer Julian French's question, how come testing of 10,000
+
+145
+00:15:03,080 --> 00:15:09,560
+people show 100% of their positives to be false, the reason is that none of the nearly 10,000
+
+146
+00:15:09,560 --> 00:15:15,720
+people was infected according to testing. So dividing any false positive figure by itself,
+
+147
+00:15:16,280 --> 00:15:21,400
+even if it was just one false positive test out of a million people tested, would of course
+
+148
+00:15:21,400 --> 00:15:28,520
+automatically give you 100%. The real false positive rate for that week was just 0.1%.
+
+149
+00:15:30,040 --> 00:15:36,520
+And as we've seen for the totality of the survey, it was 0.3%, which is not far off other estimates
+
+150
+00:15:36,520 --> 00:15:40,920
+for false positive rates. You'll find these studies listed in the video description.
+
+151
+00:15:42,200 --> 00:15:47,720
+So here's a suggestion to people like Julian French, Good PR Anna, Do Your Own Research,
+
+152
+00:15:47,720 --> 00:15:53,240
+Julia Hartley-Brewer, and all the other members of the flock. If you read messages giving you
+
+153
+00:15:53,240 --> 00:15:59,000
+some information and telling you to pass it on, you've got three choices. Either you can ignore
+
+154
+00:15:59,000 --> 00:16:03,560
+it, which is a sensible thing to do if you don't know whether the information is true or not,
+
+155
+00:16:03,560 --> 00:16:07,880
+or you could follow the crowd and do as you're told and mindlessly pass it on,
+
+156
+00:16:08,600 --> 00:16:14,280
+or you spend just a few minutes checking the information by going to the source. See if it
+
+157
+00:16:14,280 --> 00:16:20,440
+says what the tweeters and retweeters and re-retweeters believe it says. Don't follow a
+
+158
+00:16:20,440 --> 00:16:27,160
+person, follow the information trail. It could be the start of a whole new experience of thinking
+
+159
+00:16:27,160 --> 00:16:34,120
+for yourself. If you'd like to donate money to this channel, please don't. The best way to
+
+160
+00:16:34,120 --> 00:16:39,160
+support it is to donate to a charity that I strongly endorse, which is detailed in the
+
+161
+00:16:39,160 --> 00:16:44,600
+video description and on the link to this video. It provides healthcare for people living on the
+
+162
+00:16:44,600 --> 00:16:49,800
+edge of tropical forests in exchange for not cutting down trees, something they were forced
+
+163
+00:16:49,800 --> 00:16:55,480
+to do in the past to pay for medical treatment. It's had huge success in Indonesia and is now
+
+164
+00:16:55,480 --> 00:17:01,000
+expanding into Madagascar and Brazil. Thanks to all those who've donated in the past,
+
+165
+00:17:01,000 --> 00:17:02,520
+and intend to do so now.
+

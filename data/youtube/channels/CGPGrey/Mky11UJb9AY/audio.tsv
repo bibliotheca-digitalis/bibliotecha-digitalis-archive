@@ -1,0 +1,97 @@
+start	end	text
+0	3540	Queen Lion of the Animal Kingdom is giving more democracy to her citizens by adding a
+3540	5780	legislative branch to the government.
+5780	8880	The citizens each get one vote and are divided into ranges.
+8880	13240	Each range will elect one representative to send to the newly created Jungle Council.
+13240	16360	To best understand how the system works, let's take a look at a small colony where there
+16360	19860	are just two political parties, the Buffalo and Jackalope.
+19860	22080	This colony is divided into four ranges.
+22080	25520	In the first election, Jackalope candidates win two of them and Buffalo candidates win
+25520	26760	the rest.
+26760	30700	All is well for several election cycles until the Animal Kingdom census taker comes around
+30700	33740	and shows that the population has both moved and grown.
+33740	37240	To better represent the larger population, a new seat is added to the Jungle Council
+37240	40080	so the range's boundaries must be redrawn.
+40080	41920	This is where the trouble begins.
+41920	44820	Redrawing electoral boundaries is a huge political problem.
+44820	48760	To help them, the representatives of the Jungle Council hire a Weasle-y consultant to figure
+48760	51120	out where the new boundaries should go.
+51120	55320	If Weasle draws rectangular boundaries, everything will be okay because the Jungle Council will,
+55320	58360	as close as possible, reflect how the citizens vote.
+58360	60240	However, Weasle doesn't do this.
+60240	64640	Instead, he tells the Buffalo party that, for a price, he can turn their slim majority
+64640	67400	into a landslide victory in the election.
+67400	70660	With a supermajority on the Jungle Council, the Buffalo wouldn't have to listen to those
+70660	75000	pesky Jackalope filibusters anymore, so the Buffalo gladly pay up.
+75000	76760	How can Weasle deliver on his promise?
+76760	78320	It's depressingly simple.
+78320	81920	By packing together as many Jackalope voters into one range as possible and spreading the
+81920	85840	rest of them out, the Buffalo party can win an additional seat without any voters switching
+85840	87160	allegiance.
+87160	90600	What Weasle and the Buffalo have done is called gerrymandering, the intentional changing of
+90600	93200	electoral boundaries for their benefit.
+93200	97200	Several election cycles later, the underrepresented and disgruntled Jackalope party approaches
+97200	101920	Weasle and asks if he can manipulate the ranges to be in their favor instead of in the Buffalo's.
+101920	103520	Why indeed he can?
+103520	107360	Using the same trick, Weasle packs Buffalo voters into a few ranges and spreads the rest
+107360	109520	among the Jackalope supporters.
+109720	114160	After the election, the Jackalopes, who represent a minority of voters, are now nonetheless
+114160	117440	the majority party on the Jungle Council.
+117440	120000	This is the terrible power of gerrymandering.
+120000	124280	Weasle can take the exact same voters and get either party to win the election.
+124280	128100	Unsurprisingly, Weasle's business grows and eventually every colony in the animal kingdom
+128100	130560	pays him to gerrymander their ranges.
+130560	133960	With so many clients, Weasle now uses his computer to test hundreds of thousands of
+133960	138020	range combinations with elaborate statistical models of voter behavior to get the results
+138020	139320	he needs.
+139320	142920	Queen Lion has seen what Weasle is up to and banishes him from her kingdom.
+142920	147260	But the census taker reminds her that ranges still need to be redrawn as the population
+147260	149920	changes, so how is it going to be decided?
+149920	153680	Queen Lion suggests the obvious solution, a bipartisan committee must agree on all new
+153680	155280	range boundaries.
+155280	156660	This seems like a good idea.
+156660	159760	After all, if both parties have to agree on the ranges, then they must end up being fair
+159760	161200	to everyone.
+161200	165280	But after a few election cycles using this solution, Queen Lion notices that she always
+165280	168300	sees the same faces on the Jungle Council.
+168300	171040	Representatives almost never get defeated in their elections.
+171040	174480	It turns out that the interests of the representatives and the interests of the citizens are not
+174480	175900	the same.
+175900	179440	Citizens want elections where the candidates have to earn their vote, these are close elections
+179440	182120	where either candidate has a chance of winning.
+182120	186360	But representatives don't want close elections, they want safe elections.
+186360	189680	Elections where they run in a range that is filled with supporters.
+189680	192920	Because the representatives are in charge of the boundaries, they make the safest ranges
+192920	193920	possible.
+193920	195760	So bipartisan committees are not enough.
+195760	198440	To truly fix gerrymandering, there are three options.
+198440	202040	The first is to set up a politically independent commission of appointed experts or judges
+202040	204060	to draw the boundaries.
+204060	206920	Independent commissions are much better than bipartisan committees, but still not ideal
+206920	210600	because they usually group similar areas together, so the elections are uncompetitive.
+210600	214840	And there's always the possibility that the independent commission is not as independent
+214840	216200	as it appears.
+216200	218840	The second option is to let math decide the boundaries.
+218840	222840	There are a number of ways to mathematically divide an area into equally populous ranges.
+222840	226080	The simplest example of this is called the shortest split line method.
+226080	229500	Find the shortest line that splits the voters in twain, and repeat as necessary until all
+229500	231320	the ranges are made.
+231320	234500	This is much better than an independent commission, but it does have the problem of occasionally
+234500	237800	producing skewed election results just through the pure bad luck of where the boundaries
+237800	239280	are drawn.
+239280	243400	But by publishing the algorithm used, all citizens can check the results and be confident
+243400	246240	that there is no intentional bias in the system.
+246240	251180	The last solution is an unexpected one, hire back the weasel and embrace gerrymandering.
+251180	255140	But this time, pay him to make the winners most closely match the voters as a whole.
+255140	259260	While it seems unsavory, this is actually the best way to avoid disproportionate representation,
+259260	262780	which is, by far, the worst problem of gerrymandering.
+262780	266020	But considering these three solutions leaves Queen Lion grumpy.
+266020	269900	The first two are improvements, but still may result in uncompetitive elections or disproportionate
+269900	273420	results, while the third just feels wrong.
+273420	276740	Gerrymandering to avoid the problems of gerrymandering is… odd.
+276740	280200	Remembering what she learned about voting before, she realizes that all this gerrymandering
+280240	284240	is really just a symptom of a more fundamental problem, the method by which each citizen
+284240	287720	gets only one vote and elects only one representative.
+287720	291080	There are ways to eliminate gerrymandering and restore competitive elections to make
+291080	295340	her citizens happy, but to do that, Queen Lion is going to have to make some big, fundamental
+295340	296680	changes to her democracy.

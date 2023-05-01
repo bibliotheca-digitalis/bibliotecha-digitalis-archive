@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:01,120
+Hello internet.
+
+2
+00:00:01,120 --> 00:00:05,060
+The UK had an election we need to talk about because after the debates finished, the people
+
+3
+00:00:05,060 --> 00:00:07,780
+voted and the ballots tallied, the results were this.
+
+4
+00:00:07,780 --> 00:00:12,900
+But parliament ended up looking like this, which isn't exactly representative and by
+
+5
+00:00:12,900 --> 00:00:14,980
+exactly I mean at all.
+
+6
+00:00:14,980 --> 00:00:19,620
+Red earned 30% of the vote and 36% of the seats which is sort of close but the rest
+
+7
+00:00:19,620 --> 00:00:20,940
+is madness.
+
+8
+00:00:20,940 --> 00:00:25,220
+Orange earned 8% of the vote but got one eighth of that while yellow's 5% just about doubled
+
+9
+00:00:25,220 --> 00:00:28,260
+and purple earned 13% and got squat.
+
+10
+00:00:28,260 --> 00:00:33,520
+Meanwhile blue's 37% of the people boosted to 51% of the seats in parliament.
+
+11
+00:00:33,520 --> 00:00:37,960
+The blue boost is even bigger when you consider that 51% of the seats gives you basically
+
+12
+00:00:37,960 --> 00:00:39,800
+100% of the control.
+
+13
+00:00:39,800 --> 00:00:40,800
+How'd this happen?
+
+14
+00:00:40,800 --> 00:00:43,520
+In the UK, national elections aren't really national.
+
+15
+00:00:43,520 --> 00:00:45,040
+They're a bunch of local elections.
+
+16
+00:00:45,040 --> 00:00:49,240
+The UK is divided into constituencies, each of which elects one member of parliament,
+
+17
+00:00:49,240 --> 00:00:50,960
+MP, to represent them.
+
+18
+00:00:50,960 --> 00:00:53,980
+This local-national divide is where the trouble begins.
+
+19
+00:00:53,980 --> 00:00:58,240
+Imagine a parliament with just three constituencies and it's easy to see how it wouldn't always
+
+20
+00:00:58,340 --> 00:01:00,060
+align with the citizens.
+
+21
+00:01:00,060 --> 00:01:02,420
+Some people think this sort of result is fine.
+
+22
+00:01:02,420 --> 00:01:04,860
+It's all about winning local elections, they'll say.
+
+23
+00:01:04,860 --> 00:01:07,320
+Each MP represents their constituency.
+
+24
+00:01:07,320 --> 00:01:11,900
+And while the imbalance in this example is extreme, it's the same problem in the real
+
+25
+00:01:11,900 --> 00:01:17,140
+election and the same argument is given but there are two more problems with it in reality
+
+26
+00:01:17,140 --> 00:01:18,140
+land.
+
+27
+00:01:18,140 --> 00:01:20,940
+First, few citizens have any idea who their MP is.
+
+28
+00:01:20,940 --> 00:01:25,780
+They just know what party they voted for, what party they want to represent their views
+
+29
+00:01:25,780 --> 00:01:30,300
+on the national level and pretending like it's a competition on the local level is a
+
+30
+00:01:30,300 --> 00:01:31,780
+bit disingenuous.
+
+31
+00:01:31,780 --> 00:01:36,380
+In practice, it's an election for how the nation will run, not really for who's going
+
+32
+00:01:36,380 --> 00:01:38,420
+to represent a tiny part of it.
+
+33
+00:01:38,420 --> 00:01:43,100
+And even if it were, the individual constituencies are worse at representing their citizens than
+
+34
+00:01:43,100 --> 00:01:44,100
+parliament.
+
+35
+00:01:44,100 --> 00:01:46,440
+Indulge this spreadsheet-loving nerd for a moment, will you?
+
+36
+00:01:46,440 --> 00:01:49,680
+The difference between what a party earned at the polls and what they got in parliament
+
+37
+00:01:49,680 --> 00:01:52,580
+is the amount of misrepresentation error.
+
+38
+00:01:52,580 --> 00:01:56,660
+If we calculate all the errors for all the parties and add them up, we can say that parliament
+
+39
+00:01:56,660 --> 00:02:01,140
+as a whole has a 47 percentage points of misrepresentation error.
+
+40
+00:02:01,140 --> 00:02:06,580
+That sounds bad but looks like a utopian rainbow of diversity compared to any local election
+
+41
+00:02:06,580 --> 00:02:09,520
+because the local elections have one winner.
+
+42
+00:02:09,520 --> 00:02:18,100
+Out of the 650 constituencies, 647 have a higher representation error than parliament.
+
+43
+00:02:18,100 --> 00:02:23,980
+These are the only three that don't and they're really unusual for having so many of a single
+
+44
+00:02:23,980 --> 00:02:26,260
+kind of voter in one place.
+
+45
+00:02:26,260 --> 00:02:33,180
+Most places look like The Reckon, which is dead in the middle, a mere 101 points off.
+
+46
+00:02:33,180 --> 00:02:37,380
+Note that the winning candidate here didn't reach a majority, which means more than half
+
+47
+00:02:37,380 --> 00:02:41,460
+of constituencies elected their MP with a minority of voters.
+
+48
+00:02:41,460 --> 00:02:47,580
+The worst is Belfast South at the bottom of the list, hilariously unrepresentative.
+
+49
+00:02:47,580 --> 00:02:51,640
+Less than a quarter of the voters get to speak for the entire place in parliament.
+
+50
+00:02:51,640 --> 00:02:56,140
+This is the lowest percentage an MP has ever been elected by.
+
+51
+00:02:56,140 --> 00:03:00,700
+So when people argue that the UK election is a bunch of local elections, it's even more
+
+52
+00:03:00,700 --> 00:03:05,260
+of an argument that the elections are broken because they're worse on this level.
+
+53
+00:03:05,260 --> 00:03:09,080
+These elections are terrible because of the first-past-the-post voting system, which I
+
+54
+00:03:09,080 --> 00:03:12,860
+have complained mightily about and won't repeat everything here, go watch the video.
+
+55
+00:03:12,860 --> 00:03:16,780
+But TLDR, it only works when citizens are limited to two choices.
+
+56
+00:03:16,780 --> 00:03:21,940
+Voting for any party except the biggest makes it more likely the biggest will win by a minority,
+
+57
+00:03:21,940 --> 00:03:24,080
+which is exactly what happened.
+
+58
+00:03:24,080 --> 00:03:27,140
+That citizens keep voting for smaller parties despite knowing the result is against their
+
+59
+00:03:27,140 --> 00:03:31,140
+strategic interests demonstrates that citizenry wants diverse representation.
+
+60
+00:03:31,140 --> 00:03:36,620
+But that success is the very thing that has made this the most unrepresentative parliament
+
+61
+00:03:36,620 --> 00:03:38,500
+in the history of the UK.
+
+62
+00:03:38,500 --> 00:03:42,000
+Now people happy with the result argue that the system is working fine.
+
+63
+00:03:42,000 --> 00:03:43,080
+Of course they do.
+
+64
+00:03:43,080 --> 00:03:44,500
+Their team won.
+
+65
+00:03:44,500 --> 00:03:48,120
+But government isn't a sport where a singular winner must be determined.
+
+66
+00:03:48,120 --> 00:03:53,140
+It's a system to make rules that everyone follows, and so we need a system where everyone
+
+67
+00:03:53,140 --> 00:03:58,040
+can agree that the process is fair, even if they don't like all the rules.
+
+68
+00:03:58,040 --> 00:04:03,280
+If you support a system that disenfranchises people you don't like and turbo-franchises
+
+69
+00:04:03,280 --> 00:04:08,000
+people you do, then it doesn't look like you support representative democracy.
+
+70
+00:04:08,000 --> 00:04:12,800
+It looks like you support a kind of dictatorship light, where a potentially small group of
+
+71
+00:04:12,800 --> 00:04:16,860
+people, including you, gets to make the rules for everyone else.
+
+72
+00:04:16,860 --> 00:04:22,520
+And as it is now, on election day, the more people express what they want, the worse the
+
+73
+00:04:22,520 --> 00:04:29,080
+system looks, which also makes them disengaged at best or angry at worst, and gee I can't
+
+74
+00:04:29,080 --> 00:04:30,520
+imagine why.
+
+75
+00:04:30,520 --> 00:04:31,560
+This is fixable.
+
+76
+00:04:31,560 --> 00:04:34,660
+There are many, many better ways the UK could vote.
+
+77
+00:04:34,660 --> 00:04:37,160
+Here are two that even keep local representatives.
+
+78
+00:04:37,160 --> 00:04:42,680
+And fixing voting really matters, because this is a kind of government illegitimacy
+
+79
+00:04:42,680 --> 00:04:48,000
+score and it's been going up and may continue to do so unless this fundamentally broken
+
+80
+00:04:48,000 --> 00:04:49,720
+voting system is changed.
+

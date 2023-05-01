@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:04,640
+Stuck at an intersection, you always watch unfold the fundamental problem of traffic.
+
+2
+00:00:04,640 --> 00:00:10,880
+On green, the first car accelerates, and then the next, and then the next, and then the next, and then you,
+
+3
+00:00:10,880 --> 00:00:12,680
+only to catch the red.
+
+4
+00:00:12,680 --> 00:00:16,320
+Had the cars accelerated simultaneously, you would have made it through.
+
+5
+00:00:16,320 --> 00:00:19,360
+Coordination, not cars, is the problem,
+
+6
+00:00:19,360 --> 00:00:24,080
+because we are monkey drivers with slow reaction times and short attention spans.
+
+7
+00:00:24,120 --> 00:00:30,520
+Even if we tried, getting everyone to press the pedal on 3, 2, 1, now, would be challenging.
+
+8
+00:00:30,520 --> 00:00:34,120
+This discoordination limits how many cars can get through an intersection,
+
+9
+00:00:34,120 --> 00:00:40,760
+and when one backs up to the next, that's when city-sized gridlock cascades happen, taking forever to clear.
+
+10
+00:00:40,760 --> 00:00:44,520
+In general, more intersections equals more discoordination, which equals more traffic.
+
+11
+00:00:44,520 --> 00:00:46,800
+This is the motive behind big highways.
+
+12
+00:00:46,800 --> 00:00:47,720
+No intersections.
+
+13
+00:00:47,720 --> 00:00:49,240
+Splits and merges, yes.
+
+14
+00:00:49,240 --> 00:00:50,480
+Intersections, no.
+
+15
+00:00:50,480 --> 00:00:53,320
+No stopping, no coordination problems, no traffic.
+
+16
+00:00:53,360 --> 00:00:54,640
+Well, that's the theory anyway.
+
+17
+00:00:54,640 --> 00:00:57,360
+Intersections outside of a highway will back up onto it,
+
+18
+00:00:57,360 --> 00:01:02,360
+again, because human reaction times limit how many cars can escape the off-ramp when the light changes.
+
+19
+00:01:02,360 --> 00:01:06,440
+But, even without intersections, there would still be traffic on the highway.
+
+20
+00:01:06,440 --> 00:01:08,200
+Traffic can just appear.
+
+21
+00:01:08,200 --> 00:01:12,560
+Take a one-lane highway with happy cars flowing until a chicken crosses the road.
+
+22
+00:01:12,560 --> 00:01:14,000
+The driver who sees it breaks a little,
+
+23
+00:01:14,000 --> 00:01:17,440
+the driver behind him doesn't notice immediately and breaks a little harder than necessary,
+
+24
+00:01:17,440 --> 00:01:21,160
+the driver behind him does the same until someone comes to a complete stop.
+
+25
+00:01:21,160 --> 00:01:25,400
+And, oh look, cars approaching at highway speeds must now stop as well.
+
+26
+00:01:25,400 --> 00:01:30,000
+Though the chicken is long gone, it left a phantom intersection on the highway.
+
+27
+00:01:30,000 --> 00:01:32,800
+This is what's happened when you're stuck in traffic for hours thinking
+
+28
+00:01:32,800 --> 00:01:37,560
+there must be a deadly pile up ahead and then suddenly the traffic's over with no wreckage in sight.
+
+29
+00:01:37,560 --> 00:01:40,640
+To your relief, if you're a good person and mild annoyance if you aren't,
+
+30
+00:01:40,640 --> 00:01:44,760
+you just pass through a phantom intersection, the cause of which is long gone.
+
+31
+00:01:44,760 --> 00:01:47,160
+And this phantom intersection moves.
+
+32
+00:01:47,160 --> 00:01:50,120
+It's really a traffic snake slithering down the road,
+
+33
+00:01:50,120 --> 00:01:53,480
+eating oncoming cars at one end and pooping them out the other.
+
+34
+00:01:53,480 --> 00:01:58,840
+On a ring road, a single car slowing down will start an eroporous of traffic that will last forever,
+
+35
+00:01:58,840 --> 00:02:01,440
+even though there's no problem with the road.
+
+36
+00:02:01,440 --> 00:02:05,040
+If the drivers could coordinate to accelerate and separate simultaneously,
+
+37
+00:02:05,040 --> 00:02:06,880
+easy driving would return.
+
+38
+00:02:06,880 --> 00:02:09,200
+But they can't, so traffic eternal.
+
+39
+00:02:09,200 --> 00:02:13,040
+On highways, traffic snakes grow if cars are eated faster than excreted
+
+40
+00:02:13,040 --> 00:02:15,360
+and they shrink if excreted faster than eated,
+
+41
+00:02:15,360 --> 00:02:19,480
+dying when the last car accelerates away before the next car must stop.
+
+42
+00:02:19,480 --> 00:02:22,800
+Now, in multi-lane highways, there needs be no chicken to start gridlock.
+
+43
+00:02:22,800 --> 00:02:26,240
+A driver crossing lanes quickly with cars too close behind
+
+44
+00:02:26,240 --> 00:02:29,720
+is enough to birth a traffic snake that lives for hours in leagues.
+
+45
+00:02:29,720 --> 00:02:34,960
+It's this quick crossing that causes drivers behind to over-brake and begin a chain reaction.
+
+46
+00:02:34,960 --> 00:02:39,560
+But we can make traffic snakes less likely by changing the way we drive.
+
+47
+00:02:39,560 --> 00:02:45,320
+Your goal as a driver is to stay the same distance from the car ahead as from the car behind at all times.
+
+48
+00:02:45,320 --> 00:02:48,400
+Tailgating is trouble, not just because it makes accidents more likely,
+
+49
+00:02:48,400 --> 00:02:53,200
+but because you as the tailgater can start a traffic snake if the driver ahead brakes.
+
+50
+00:02:53,200 --> 00:02:54,960
+Always in the middle.
+
+51
+00:02:54,960 --> 00:02:57,200
+This gives you the most time to prevent over-braking,
+
+52
+00:02:57,200 --> 00:03:00,560
+but also gives the driver behind you the most time as well.
+
+53
+00:03:00,560 --> 00:03:06,240
+And when stuck in traffic, this rule would get all cars to pull apart the snake faster.
+
+54
+00:03:06,240 --> 00:03:10,400
+That's the simple solution to traffic, getting humans to change their behavior,
+
+55
+00:03:10,400 --> 00:03:13,960
+perhaps by sharing this video to show how and why traffic happens,
+
+56
+00:03:14,000 --> 00:03:15,280
+why tailgaters are trouble,
+
+57
+00:03:15,280 --> 00:03:19,000
+and how we can work together to make the roads better for all.
+
+58
+00:03:19,000 --> 00:03:20,520
+The end.
+
+59
+00:03:20,520 --> 00:03:21,560
+Except, yeah.
+
+60
+00:03:21,560 --> 00:03:26,640
+Wishing upon a star that people are better than they are is a terrible solution every time.
+
+61
+00:03:26,640 --> 00:03:29,920
+Instead, what works is a structurally systematized solution,
+
+62
+00:03:29,920 --> 00:03:32,360
+which is exactly what self-driving cars are.
+
+63
+00:03:32,360 --> 00:03:36,760
+Self-driving cars can just be programmed to stay in the middle and accelerate simultaneously.
+
+64
+00:03:36,760 --> 00:03:37,480
+They'll just do it.
+
+65
+00:03:37,480 --> 00:03:41,320
+The more self-driving cars at an intersection, the more efficient the intersection gets.
+
+66
+00:03:41,320 --> 00:03:45,840
+A solid lane of self-driving cars vastly increases throughput.
+
+67
+00:03:45,840 --> 00:03:49,960
+Hmm, actually, if you ban humans from the road, which we should totally do anyway,
+
+68
+00:03:49,960 --> 00:03:52,320
+you can get rid of the intersection entirely.
+
+69
+00:03:52,320 --> 00:03:56,040
+After all, a traffic light is just a tool for drivers on one road
+
+70
+00:03:56,040 --> 00:03:59,600
+to communicate with drivers on another, poorly and coarsely.
+
+71
+00:03:59,600 --> 00:04:02,400
+Red equals don't go now, we are coming through the intersection.
+
+72
+00:04:02,400 --> 00:04:03,800
+Green equals good to go.
+
+73
+00:04:03,800 --> 00:04:07,320
+But self-driving cars can talk to each other at the speed of light.
+
+74
+00:04:07,320 --> 00:04:10,440
+With that kind of coordination, no traffic light necessary.
+
+75
+00:04:10,440 --> 00:04:14,600
+Just as with a highway, the best intersection is no intersection.
+
+76
+00:04:14,600 --> 00:04:17,040
+Humans will never drive this precisely.
+
+77
+00:04:17,040 --> 00:04:21,200
+At the intersection, the fundamental problem with traffic that you watch unfold,
+
+78
+00:04:21,200 --> 00:04:23,160
+as with everything, is people.
+
+79
+00:04:23,160 --> 00:04:27,560
+So the real simple solution to traffic is no more monkeys driving cars.
+

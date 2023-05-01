@@ -1,0 +1,796 @@
+1
+00:00:00,000 --> 00:00:02,600
+When the president dies, who becomes the president?
+
+2
+00:00:02,600 --> 00:00:08,260
+Well, the Constitution says what happens next is the vice president assumes the powers and duties of the office.
+
+3
+00:00:08,260 --> 00:00:11,520
+Simple enough, but one backup president is none backup president.
+
+4
+00:00:11,520 --> 00:00:13,120
+So what happens next next?
+
+5
+00:00:13,120 --> 00:00:16,520
+The Constitution left this question as homework for the new Congress.
+
+6
+00:00:16,520 --> 00:00:18,120
+Important homework, yes.
+
+7
+00:00:18,120 --> 00:00:19,400
+Due date, no.
+
+8
+00:00:19,400 --> 00:00:24,360
+So Congress sort of worked on succession with inconsistent and conflicting drafts,
+
+9
+00:00:24,360 --> 00:00:28,800
+but mostly procrastinated on properly finishing for 200 years,
+
+10
+00:00:28,800 --> 00:00:31,200
+finally turning in the 25th Amendment.
+
+11
+00:00:31,200 --> 00:00:34,720
+Better late than never, though in the meantime, a president had died in office
+
+12
+00:00:34,720 --> 00:00:39,920
+not once, not twice, not thrice, not quadrice, not quintice, not hexice, nor septice, but octagonal ice.
+
+13
+00:00:39,920 --> 00:00:42,200
+Four natural causes, four assassinations.
+
+14
+00:00:42,200 --> 00:00:43,360
+It was Garfield and McKinley.
+
+15
+00:00:43,360 --> 00:00:47,760
+This survival record was only 80%, and even counting to today,
+
+16
+00:00:47,760 --> 00:00:51,320
+the president is technically the most deadly job in America.
+
+17
+00:00:51,320 --> 00:00:56,000
+But the odds are, when you become president, you must roll the celestial 2d6,
+
+18
+00:00:56,000 --> 00:00:58,520
+and if you roll a 7, you die in office.
+
+19
+00:00:58,560 --> 00:01:01,240
+Woof, don't spend a lot of time in Vegas with those odds.
+
+20
+00:01:01,240 --> 00:01:03,400
+So the veep becomes the peep and picks a new veep
+
+21
+00:01:03,400 --> 00:01:06,880
+who must be confirmed by a majority vote of both houses of Congress.
+
+22
+00:01:06,880 --> 00:01:10,120
+If this happens quickly, then hunky-dory, everything is reset.
+
+23
+00:01:10,120 --> 00:01:13,600
+But getting a VP nominee approved might take some time,
+
+24
+00:01:13,600 --> 00:01:17,440
+during which the former VP, who is now the president, who is not immortal,
+
+25
+00:01:17,440 --> 00:01:19,840
+must cast the dice and could roll a 7.
+
+26
+00:01:19,840 --> 00:01:22,040
+The office of the vice president has been vacant
+
+27
+00:01:22,040 --> 00:01:25,240
+for more than a baker's dozen of times in United States history,
+
+28
+00:01:25,240 --> 00:01:27,960
+which, given the historical state of Congress's homework at the time,
+
+29
+00:01:27,960 --> 00:01:31,080
+put the peaceful transfer of power in a precarious position.
+
+30
+00:01:31,080 --> 00:01:33,480
+For example, the first time a president died in office,
+
+31
+00:01:33,480 --> 00:01:35,800
+the 9th, by the way, didn't even make it to double digits,
+
+32
+00:01:35,800 --> 00:01:37,520
+no one knew what should happen.
+
+33
+00:01:37,520 --> 00:01:41,360
+The then-VP just grabbed a judge to administer the oath of the presidency
+
+34
+00:01:41,360 --> 00:01:44,200
+to become number 10, and spent the rest of his term
+
+35
+00:01:44,200 --> 00:01:48,680
+arguing with Congress and the nation about if he was really the president president,
+
+36
+00:01:48,680 --> 00:01:50,280
+or the acting president.
+
+37
+00:01:50,280 --> 00:01:53,000
+Which seems a little, who cares, what's the difference?
+
+38
+00:01:53,000 --> 00:01:55,280
+But there is the office of the president,
+
+39
+00:01:55,280 --> 00:01:57,920
+and there are the powers and duties of the office,
+
+40
+00:01:57,920 --> 00:02:00,120
+which are not quite the same thing.
+
+41
+00:02:00,120 --> 00:02:02,480
+See, it's not just death that can remove a president.
+
+42
+00:02:02,480 --> 00:02:05,240
+A president can resign, a president can be impeached,
+
+43
+00:02:05,240 --> 00:02:09,720
+and a president can be enabled to discharge the powers and duties of the office.
+
+44
+00:02:09,720 --> 00:02:12,080
+This last enable is from the Constitution,
+
+45
+00:02:12,080 --> 00:02:15,160
+which makes no attempt to define what enable means.
+
+46
+00:02:15,160 --> 00:02:18,040
+A president can volunteer themselves to be enabled,
+
+47
+00:02:18,040 --> 00:02:19,640
+for example, during physical illness,
+
+48
+00:02:19,640 --> 00:02:21,640
+upon which they don't leave the office,
+
+49
+00:02:21,640 --> 00:02:24,640
+but the VP gets the powers and duties of the office
+
+50
+00:02:24,640 --> 00:02:26,520
+and becomes acting president.
+
+51
+00:02:26,520 --> 00:02:28,880
+This, on a tiny scale, has happened a few times
+
+52
+00:02:28,880 --> 00:02:31,640
+when the president has undergone non-trivial surgery.
+
+53
+00:02:31,640 --> 00:02:36,600
+A reason for this being to ensure nuclear weapons command and control is maintained at all times.
+
+54
+00:02:36,600 --> 00:02:37,760
+So don't get any ideas.
+
+55
+00:02:37,760 --> 00:02:39,520
+But also, you don't get any ideas.
+
+56
+00:02:39,520 --> 00:02:40,800
+I'm still the president.
+
+57
+00:02:40,800 --> 00:02:42,800
+Power reverts as soon as this is over.
+
+58
+00:02:42,800 --> 00:02:45,720
+And it will, assuming death doesn't make a bedside visit.
+
+59
+00:02:45,720 --> 00:02:48,840
+Anyway, inability is a subjective sliding scale.
+
+60
+00:02:48,840 --> 00:02:52,120
+A president could be perceived as mentally enabled, by some,
+
+61
+00:02:52,120 --> 00:02:56,680
+or become so mentally enabled as to be unable to declare themselves enabled.
+
+62
+00:02:56,680 --> 00:03:00,280
+Or become physically enabled, yet simply refuse to declare it.
+
+63
+00:03:00,280 --> 00:03:05,440
+Here, the 25th Amendment allows for the vice president to perform a kind of gentle coup.
+
+64
+00:03:05,440 --> 00:03:09,040
+Okay, the president has 15 top-level advisors we will get to later.
+
+65
+00:03:09,040 --> 00:03:13,280
+If the VP can get a majority of advisors to state in writing the president is enabled,
+
+66
+00:03:13,280 --> 00:03:16,040
+the VP gets the powers and duties of the office.
+
+67
+00:03:16,040 --> 00:03:17,320
+The president can challenge this,
+
+68
+00:03:17,320 --> 00:03:19,720
+getting a moment to try and consolidate keys to power,
+
+69
+00:03:19,720 --> 00:03:23,720
+but if the VP and advisors reaffirm the president is indeed enabled,
+
+70
+00:03:23,720 --> 00:03:28,400
+the VP is acting president and a 21-day countdown clock begins.
+
+71
+00:03:28,400 --> 00:03:30,600
+What happens next is up to Congress.
+
+72
+00:03:30,600 --> 00:03:34,640
+If they do nothing, when the clock runs out, presidential power returns to the president.
+
+73
+00:03:34,640 --> 00:03:40,280
+But if within the 21 days, Congress votes with a two-thirds majority that the president is enabled,
+
+74
+00:03:40,280 --> 00:03:43,240
+then the vice president is permanently acting president.
+
+75
+00:03:43,240 --> 00:03:46,200
+And the president is still around?
+
+76
+00:03:46,200 --> 00:03:47,120
+Awkward.
+
+77
+00:03:47,120 --> 00:03:51,400
+Obviously, this would be a real delicate maneuver for any VP to pull off,
+
+78
+00:03:51,400 --> 00:03:55,160
+particularly as the president can dismiss their advisors for any reason,
+
+79
+00:03:55,160 --> 00:03:58,840
+as long as the president holds the powers and duties of the office.
+
+80
+00:03:58,840 --> 00:04:02,160
+So getting advisors on board would be... challenging.
+
+81
+00:04:02,160 --> 00:04:07,400
+Case in point, in 1919, the president suffered a stroke and was mostly blinded and partly paralyzed.
+
+82
+00:04:07,400 --> 00:04:11,320
+Don't worry, no big deal, the president just doesn't want to talk to the public
+
+83
+00:04:11,320 --> 00:04:16,960
+or meet with his VP or consult with his advisors or leave the White House at all for a year and a half.
+
+84
+00:04:16,960 --> 00:04:21,520
+And during this time, there was no move by the VP to declare the president enabled.
+
+85
+00:04:21,520 --> 00:04:24,080
+But there might be a way around the VP.
+
+86
+00:04:24,080 --> 00:04:30,160
+The 25th has this line about Congress appointing, like, its own committee to determine the president enabled.
+
+87
+00:04:30,160 --> 00:04:32,880
+But the way it's worded is a little unclear.
+
+88
+00:04:32,880 --> 00:04:38,280
+Does it mean the VP and advisors or Congress committee determine inability?
+
+89
+00:04:38,280 --> 00:04:42,480
+Or does it mean the VP and advisors or Congress committee?
+
+90
+00:04:42,480 --> 00:04:47,680
+If the latter interpretation, that means Congress alone has the power to appoint a committee
+
+91
+00:04:47,680 --> 00:04:51,720
+with the power to remove the power of the president, unilaterally.
+
+92
+00:04:51,720 --> 00:04:55,920
+But as always, with unclear interpretations, were they to happen for realsies,
+
+93
+00:04:55,920 --> 00:04:57,680
+someone might want to weigh in on it.
+
+94
+00:04:57,680 --> 00:05:02,520
+So those are the four or five ways a president can get removed from office.
+
+95
+00:05:02,520 --> 00:05:04,680
+But one of them is clearly the most popular,
+
+96
+00:05:04,680 --> 00:05:08,600
+so let's talk about what the finished congressional homework says about succession.
+
+97
+00:05:08,600 --> 00:05:12,120
+First, the doubt that began with President 10 is dispelled by the 25th,
+
+98
+00:05:12,120 --> 00:05:15,880
+when the president dies, the vice president becomes the president president.
+
+99
+00:05:15,880 --> 00:05:21,240
+In able equals VP acting president, dead equals VP president president.
+
+100
+00:05:21,240 --> 00:05:25,720
+But if both the president and the vice roll sevens, the order of succession is set.
+
+101
+00:05:25,720 --> 00:05:30,200
+And first up is the speaker, who is the elected leader from within the House of Representatives.
+
+102
+00:05:30,200 --> 00:05:34,840
+And next is the president pro tempore of the Senate, who is the longest serving senator.
+
+103
+00:05:34,840 --> 00:05:37,520
+Not automatically, but elected by tradition.
+
+104
+00:05:37,520 --> 00:05:39,960
+Gee, that's a funny thing to mention now. I'm sure it won't matter later.
+
+105
+00:05:40,000 --> 00:05:42,080
+Senators tend to serve for a long time,
+
+106
+00:05:42,080 --> 00:05:47,320
+so the president pro tempore is often in their 80s, with the record holder being 98.
+
+107
+00:05:47,320 --> 00:05:50,360
+Just worth noting, it was up to Congress to set succession order,
+
+108
+00:05:50,360 --> 00:05:55,800
+and Congress just so happened to pick the two most powerful members of Congress as next in line from the VP.
+
+109
+00:05:55,800 --> 00:05:58,240
+After Congress, succession moves to the cabinet.
+
+110
+00:05:58,240 --> 00:06:00,320
+These are the advisors mentioned before.
+
+111
+00:06:00,320 --> 00:06:05,000
+Each here has the title of secretary and our secretary of a same name department.
+
+112
+00:06:05,000 --> 00:06:06,960
+Explaining each in detail would take too long,
+
+113
+00:06:06,960 --> 00:06:12,080
+because it would be to explain the entire structure of the executive branch, which is enormous.
+
+114
+00:06:12,080 --> 00:06:14,960
+And some of their names give you the idea, but some of them don't.
+
+115
+00:06:14,960 --> 00:06:18,920
+For example, number four in line, the secretary of state, who runs the department of state,
+
+116
+00:06:18,920 --> 00:06:22,200
+which has nothing to do with the states, but everything outside the states.
+
+117
+00:06:22,200 --> 00:06:24,280
+The secretary of state is first in the cabinet,
+
+118
+00:06:24,280 --> 00:06:27,440
+because managing the foreign relations of the federal government is a pretty big deal
+
+119
+00:06:27,440 --> 00:06:31,280
+that requires you to be on at least decent speaking terms with other countries.
+
+120
+00:06:31,280 --> 00:06:35,680
+A good thing should say you need their support during a sudden transition of power.
+
+121
+00:06:35,680 --> 00:06:39,960
+The secretary of state is first among the founding four appointed by the first president.
+
+122
+00:06:39,960 --> 00:06:43,840
+The others, secretary of treasury, secretary of war, and secretary of justice.
+
+123
+00:06:43,840 --> 00:06:47,080
+Oh wait, fancy pants here wants to be called the attorney general,
+
+124
+00:06:47,080 --> 00:06:50,400
+but just so happens to be in charge of the department of justice.
+
+125
+00:06:50,400 --> 00:06:54,440
+So the oldest departments have their secretaries in 4567 order of succession.
+
+126
+00:06:54,440 --> 00:06:57,720
+Now from here, Congress decided the rest should continue on seniority.
+
+127
+00:06:57,720 --> 00:07:00,080
+Not for people, but departments.
+
+128
+00:07:00,080 --> 00:07:02,080
+Which has led to an interesting order.
+
+129
+00:07:02,080 --> 00:07:05,080
+The secretary of the interior is next up, because in the 1800s,
+
+130
+00:07:05,080 --> 00:07:08,080
+young America realized she had a lot of interior land to manage,
+
+131
+00:07:08,080 --> 00:07:10,840
+and created the department of the interior to manage the land,
+
+132
+00:07:10,840 --> 00:07:12,080
+and the Indians on the land.
+
+133
+00:07:12,080 --> 00:07:12,680
+No, there's no time.
+
+134
+00:07:12,680 --> 00:07:16,040
+And land needs to be farmed and managed, so the department of agriculture.
+
+135
+00:07:16,040 --> 00:07:19,920
+And then in 1900s part one, America wanted to develop commerce and labor,
+
+136
+00:07:19,920 --> 00:07:23,200
+and part two, health and human services, and housing and urban development,
+
+137
+00:07:23,200 --> 00:07:25,800
+and oh right, transportation between those urban developments.
+
+138
+00:07:25,800 --> 00:07:29,080
+Oh, and energy for those developments, and overseeing nuclear weapons.
+
+139
+00:07:29,080 --> 00:07:29,960
+There really isn't time.
+
+140
+00:07:29,960 --> 00:07:31,000
+And education.
+
+141
+00:07:31,000 --> 00:07:33,760
+Meanwhile, that department of war, renamed Department of Defense,
+
+142
+00:07:33,760 --> 00:07:37,080
+created veterans, and so also the Department of Veterans Affairs.
+
+143
+00:07:37,080 --> 00:07:41,840
+All done until 2001, Department of Homeland Security.
+
+144
+00:07:41,840 --> 00:07:44,600
+So the order is more historical happenstance order,
+
+145
+00:07:44,600 --> 00:07:47,360
+not legislators sat down and thought it through order.
+
+146
+00:07:47,360 --> 00:07:49,840
+Not to cast shade on the secretary of education,
+
+147
+00:07:49,840 --> 00:07:55,120
+but if something has happened where the first 15 backups are out of order,
+
+148
+00:07:55,120 --> 00:07:58,000
+that sounds a lot like a Homeland Security issue.
+
+149
+00:07:58,000 --> 00:07:59,920
+In addition to the debatable order,
+
+150
+00:07:59,920 --> 00:08:03,040
+for everyone below VP, if their spot in succession comes up,
+
+151
+00:08:03,040 --> 00:08:06,120
+they are required to resign their current position to become,
+
+152
+00:08:06,120 --> 00:08:07,160
+wait for it,
+
+153
+00:08:07,160 --> 00:08:08,440
+acting president,
+
+154
+00:08:08,440 --> 00:08:11,240
+most likely serving the rest of the president's term.
+
+155
+00:08:11,240 --> 00:08:12,400
+Why? Most likely?
+
+156
+00:08:12,400 --> 00:08:15,440
+Well, one of Congress's homework attempts raises an issue called
+
+157
+00:08:15,440 --> 00:08:17,040
+bumping with this paragraph,
+
+158
+00:08:17,040 --> 00:08:20,240
+saying the acting president serves the rest of the term
+
+159
+00:08:20,240 --> 00:08:23,920
+unless a prior entitled individual is able to.
+
+160
+00:08:23,920 --> 00:08:26,440
+Ugh, it's another interpretation problem.
+
+161
+00:08:26,440 --> 00:08:28,600
+This does, or doesn't mean,
+
+162
+00:08:28,600 --> 00:08:30,640
+new appointees take priority
+
+163
+00:08:30,640 --> 00:08:34,760
+and bump those lower on the list out of the office instantly.
+
+164
+00:08:34,760 --> 00:08:37,440
+Here's the worst case interpretation and scenario.
+
+165
+00:08:37,440 --> 00:08:39,400
+Imagine while Congress is on recess,
+
+166
+00:08:39,400 --> 00:08:43,560
+the president, VP, both leaders of Congress, and the secretary of state all roll sevens.
+
+167
+00:08:43,560 --> 00:08:45,960
+The secretary of treasury becomes acting president
+
+168
+00:08:45,960 --> 00:08:48,040
+and appoints a new secretary of state,
+
+169
+00:08:48,040 --> 00:08:49,600
+who is higher on the list,
+
+170
+00:08:49,600 --> 00:08:51,760
+bumping the acting treasurer president off,
+
+171
+00:08:51,760 --> 00:08:53,200
+who is now unemployed,
+
+172
+00:08:53,200 --> 00:08:54,720
+at least until reconfirmed.
+
+173
+00:08:54,720 --> 00:08:58,440
+And of course, a new secretary of state is needed posthaste, confirmed.
+
+174
+00:08:58,440 --> 00:09:01,480
+Back from recess, the Senate elects a new president pro tempore,
+
+175
+00:09:01,480 --> 00:09:03,160
+who is higher on the list,
+
+176
+00:09:03,160 --> 00:09:06,000
+and then must resign to become acting president,
+
+177
+00:09:06,000 --> 00:09:07,720
+bumping the current acting president,
+
+178
+00:09:07,720 --> 00:09:09,720
+who was the secretary of state,
+
+179
+00:09:09,720 --> 00:09:11,400
+but is now just unemployed.
+
+180
+00:09:11,400 --> 00:09:13,800
+And then the House elects their new speaker,
+
+181
+00:09:13,800 --> 00:09:15,000
+bump again.
+
+182
+00:09:15,000 --> 00:09:17,760
+While there is debate about bumping constitutionality,
+
+183
+00:09:17,760 --> 00:09:21,440
+the point is, it's still president 10 all over again.
+
+184
+00:09:21,440 --> 00:09:23,880
+Uncertainty is the whole problem.
+
+185
+00:09:23,880 --> 00:09:26,000
+After a government decapitation,
+
+186
+00:09:26,000 --> 00:09:29,400
+just the potential of rapid-fire changes in power
+
+187
+00:09:29,400 --> 00:09:32,600
+is exactly what you don't want to be even debatable
+
+188
+00:09:32,600 --> 00:09:35,720
+when nuclear command and control is on the table
+
+189
+00:09:35,720 --> 00:09:38,680
+in what would obviously be trying times.
+
+190
+00:09:38,680 --> 00:09:41,880
+So maybe a couple more revisions on that homework are due?
+
+191
+00:09:41,880 --> 00:09:44,240
+But whatever. This is the current order.
+
+192
+00:09:44,240 --> 00:09:47,000
+And since the 1950s, for no particular reason,
+
+193
+00:09:47,000 --> 00:09:50,920
+it's been policy to never let all of these people in a room together at once.
+
+194
+00:09:50,920 --> 00:09:53,040
+So when you're watching the next State of the Union address,
+
+195
+00:09:53,080 --> 00:09:56,560
+if you want something to occupy your mind during all the clapping,
+
+196
+00:09:56,560 --> 00:09:59,840
+you can play Guess Who's the Designated Survivor,
+
+197
+00:09:59,840 --> 00:10:03,040
+knocking down successors as you spot them to figure out
+
+198
+00:10:03,040 --> 00:10:04,240
+who isn't there,
+
+199
+00:10:04,240 --> 00:10:08,440
+secreted away in a secure location to be the final backup.
+

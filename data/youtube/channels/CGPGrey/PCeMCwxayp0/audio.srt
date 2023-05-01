@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:04,300
+This is the Tikoy test range, or at least it once was.
+
+2
+00:00:04,300 --> 00:00:08,960
+The site is long abandoned now, but it once served a vital purpose.
+
+3
+00:00:08,960 --> 00:00:10,220
+A military purpose.
+
+4
+00:00:10,220 --> 00:00:14,860
+And the work done at Tikoy is still out in the world today.
+
+5
+00:00:14,860 --> 00:00:20,120
+Constructed during the Cold War, at the entrance to the facility is a warning sign in Russian.
+
+6
+00:00:20,120 --> 00:00:22,620
+But this is not the former Soviet Union.
+
+7
+00:00:22,620 --> 00:00:27,300
+This is the great state of Utah, where, in Skull Valley, Tikoy resides.
+
+8
+00:00:27,300 --> 00:00:32,260
+Much of what happened on site was classified, and equipment and documents were removed.
+
+9
+00:00:32,260 --> 00:00:36,100
+But what remains is enough to piece together the story of Tikoy.
+
+10
+00:00:36,100 --> 00:00:40,220
+The paperwork left behind bears the logo of Hercules Incorporated.
+
+11
+00:00:40,220 --> 00:00:47,020
+Hercules got its start in the late 1800s, with a patent improving on dynamite to the creator named Hercules Powder,
+
+12
+00:00:47,020 --> 00:00:51,560
+and began manufacturing the new explosive just outside of San Francisco,
+
+13
+00:00:51,560 --> 00:00:55,980
+in a company town that would outlive the company, Hercules, California.
+
+14
+00:00:55,980 --> 00:00:59,260
+Chemical manufacturing at the turn of the century was dangerous,
+
+15
+00:00:59,260 --> 00:01:03,560
+and about 60 people would die in several explosions over the years.
+
+16
+00:01:03,560 --> 00:01:12,220
+Hercules made many chemical products, but their smokeless gunpowder rapidly grew them to become a vital United States military supplier during the World Wars.
+
+17
+00:01:12,220 --> 00:01:16,420
+As the posters said, Hercules' men and women in the war keep them shooting.
+
+18
+00:01:16,420 --> 00:01:23,460
+The Cold War came next and brought with it a new weapon, the Intercontinental Ballistic Missile, tipped with a nuclear warhead.
+
+19
+00:01:23,460 --> 00:01:30,300
+Now, one country could destroy another remotely, and the only defense was a credible threat of retaliation.
+
+20
+00:01:30,300 --> 00:01:37,060
+This drew the United States and the Soviet Union into an arms race, building more and better nuclear weapons each year.
+
+21
+00:01:37,060 --> 00:01:40,380
+Technological development led to solid-fuel rocket motors.
+
+22
+00:01:40,380 --> 00:01:45,060
+Unlike earlier liquid-based missiles, which had to be launched out in the open and were slow to fuel,
+
+23
+00:01:45,060 --> 00:01:47,580
+the new motors allowed nuclear missiles to be hidden.
+
+24
+00:01:47,580 --> 00:01:51,860
+America's cornfields would grow to contain 1,000 underground silos,
+
+25
+00:01:51,860 --> 00:01:55,180
+each ready with a fast-launching Minuteman missile inside.
+
+26
+00:01:55,180 --> 00:01:59,740
+But ground silos are in fixed locations and, once discovered, cannot be moved.
+
+27
+00:01:59,740 --> 00:02:03,140
+Nuclear bombers are mobile, but planes can be found by radar.
+
+28
+00:02:03,140 --> 00:02:06,860
+However, submarines can hide in the sea, difficult to find.
+
+29
+00:02:06,860 --> 00:02:14,580
+So the United States developed the Ohio-class submarine, the largest yet built, for carrying a new solid-fuel Trident nuclear missile.
+
+30
+00:02:14,580 --> 00:02:20,460
+The United States ordered 24 Ohios to be built, each with a maximum complement of 24 Tridents.
+
+31
+00:02:20,460 --> 00:02:27,580
+Each Trident carried up to 14 warheads, a combined maximum delivery potential of more than 8,000 nuclear bombs.
+
+32
+00:02:27,580 --> 00:02:33,260
+Thus, were the United States and her Minutemen to be destroyed in a first strike and all her aircraft shot down,
+
+33
+00:02:33,260 --> 00:02:39,260
+there would still be more than enough Tridents launching from the hidden deep to safely assure mutual destruction.
+
+34
+00:02:39,260 --> 00:02:41,980
+Which brings us back to Hercules and T-Coy.
+
+35
+00:02:41,980 --> 00:02:45,500
+For, as the bullet in a round needs powder to hit a target,
+
+36
+00:02:45,500 --> 00:02:50,380
+so too does the nuclear warhead in a Trident missile need its solid-fuel motor.
+
+37
+00:02:50,380 --> 00:02:56,980
+Hercules manufactured the motors at a plant called Bacchus West in Magna, Utah, and brought them to T-Coy for testing.
+
+38
+00:02:56,980 --> 00:03:00,380
+The large concrete cubes still here are thrust blocks.
+
+39
+00:03:00,380 --> 00:03:05,340
+Their purpose to be an immovable object for a missile motor to push against during test firing.
+
+40
+00:03:05,340 --> 00:03:08,020
+Each motor needed to be individually calibrated.
+
+41
+00:03:08,020 --> 00:03:13,020
+Hitting a target a quarter of the world away while traveling at Mach 20 is a precise affair.
+
+42
+00:03:13,020 --> 00:03:18,980
+So, once in place against the thrust block, technicians would connect sensors to the motor to measure heat and pressure.
+
+43
+00:03:18,980 --> 00:03:22,660
+And those sensors connected via underground cables to instrument bunkers,
+
+44
+00:03:22,660 --> 00:03:27,820
+where engineers would record the results with state-of-the-art 1970s computer assistants.
+
+45
+00:03:27,820 --> 00:03:30,260
+Setup for each test could take a week or more.
+
+46
+00:03:30,260 --> 00:03:34,860
+So, the motor and engineers and equipment had to be protected from the elements.
+
+47
+00:03:34,860 --> 00:03:40,860
+But a missile can't be fired inside a building without melting the structure around it and invalidating the test.
+
+48
+00:03:40,860 --> 00:03:46,460
+To solve this, the buildings at T-Coy were constructed on rails so they could be pulled back before firing
+
+49
+00:03:46,460 --> 00:03:51,100
+and also give the nearby camera houses a clear view of the test.
+
+50
+00:04:08,100 --> 00:04:14,100
+Hercules did improve on safety since its start in California a hundred years earlier.
+
+51
+00:04:14,100 --> 00:04:21,700
+The large poles around each test site are lightning rods to divert strikes from the area's numerous storms and to prevent explosions.
+
+52
+00:04:21,700 --> 00:04:24,700
+Nonetheless, one man was killed at T-Coy.
+
+53
+00:04:24,700 --> 00:04:29,900
+In 1984, crushed beneath a motor that came loose during securement to the test block.
+
+54
+00:04:29,900 --> 00:04:36,700
+An accident for which the United States Occupational Safety and Health Administration fined Hercules $640.
+
+55
+00:04:36,700 --> 00:04:40,300
+The end of the 1980s was the beginning of the end for Hercules.
+
+56
+00:04:40,300 --> 00:04:45,500
+The United States had been slowing production of nuclear warheads and needed fewer missiles to carry them.
+
+57
+00:04:45,500 --> 00:04:51,500
+T-Coy was used less as a testing site and more as a storage location as military contracts dried up,
+
+58
+00:04:51,500 --> 00:04:54,500
+leading to hundreds of layoffs in the early 1990s.
+
+59
+00:04:54,500 --> 00:04:58,700
+Though the United States no longer needed the facility for strategic production,
+
+60
+00:04:58,700 --> 00:05:02,700
+it was still strategically useful in a different way—politics.
+
+61
+00:05:02,700 --> 00:05:08,300
+In 1991, the United States and the Soviet Union signed START, the Strategic Arms Reduction Treaty,
+
+62
+00:05:08,300 --> 00:05:11,900
+where both agreed to reduce the size of their nuclear stockpiles.
+
+63
+00:05:11,900 --> 00:05:16,100
+Because, of course, neither country was just going to take the word of the other,
+
+64
+00:05:16,100 --> 00:05:19,300
+numerous trust-but-verify policies were put into place.
+
+65
+00:05:19,300 --> 00:05:25,300
+For example, both sides disabling their long-range bombers out in the open for the other's satellites to see.
+
+66
+00:05:25,300 --> 00:05:29,100
+And each country picked weapon production sites the other could inspect.
+
+67
+00:05:29,100 --> 00:05:32,500
+The United States provided a list of dozens of sites for the Soviets,
+
+68
+00:05:32,500 --> 00:05:37,900
+one of which was the T-Coy test range and is why the sign in Russian is at the entrance.
+
+69
+00:05:37,900 --> 00:05:41,500
+Temporary housing for the inspection team was built in the Soviet Union
+
+70
+00:05:41,500 --> 00:05:46,100
+to ensure the Americans had not installed any bugs in the walls or tampered with the equipment
+
+71
+00:05:46,100 --> 00:05:50,100
+and transported to Utah, forming a small Soviet outpost in Magna.
+
+72
+00:05:50,100 --> 00:05:53,700
+The flags of which had to be changed after the Soviet Union dissolved
+
+73
+00:05:53,700 --> 00:05:56,500
+and inspection duties fell to the Russian Federation.
+
+74
+00:05:56,500 --> 00:05:59,100
+T-Coy limped on during the inspection period.
+
+75
+00:05:59,100 --> 00:06:02,300
+But in 1995, with too many cancelled contracts,
+
+76
+00:06:02,300 --> 00:06:05,700
+the now-failing Hercules Incorporated put itself up for sale,
+
+77
+00:06:05,700 --> 00:06:11,700
+acquired by Alliant Tech Systems, an American aerospace defense and sporting goods company.
+
+78
+00:06:11,700 --> 00:06:14,700
+In 1999, the lease on this land expired.
+
+79
+00:06:14,700 --> 00:06:16,900
+Alliant Tech Systems did not renew,
+
+80
+00:06:16,900 --> 00:06:21,500
+and control of the T-Coy test range reverted to the Skull Valley Indian Reservation,
+
+81
+00:06:21,500 --> 00:06:23,900
+within the borders of which T-Coy sits.
+
+82
+00:06:23,900 --> 00:06:26,900
+Though T-Coy operates no more, its work lives on.
+
+83
+00:06:26,900 --> 00:06:31,500
+220 Trident nuclear missiles are still actively deployed,
+
+84
+00:06:31,500 --> 00:06:38,300
+waiting with their solid-fuel motors, calibrated here at T-Coy, to assure mutual destruction.
+

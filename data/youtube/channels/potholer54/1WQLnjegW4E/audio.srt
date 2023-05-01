@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:03,120
+Several posters pointed out an error in my last video.
+
+2
+00:00:03,840 --> 00:00:08,000
+I corrected it in the video description, but it really needs to be highlighted.
+
+3
+00:00:08,720 --> 00:00:11,520
+In that video, I showed Ivor Cummins saying this.
+
+4
+00:00:23,520 --> 00:00:28,160
+I looked at the Lancet paper he cited, which actually wasn't published in the Lancet,
+
+5
+00:00:28,160 --> 00:00:33,920
+but in E-Clinical Medicine, which is an open access journal published by the Lancet Group,
+
+6
+00:00:33,920 --> 00:00:39,360
+and I said this. Nevertheless, it concluded that lockdowns don't affect mortality rates,
+
+7
+00:00:39,360 --> 00:00:41,600
+which is supportive of Cummins's claims.
+
+8
+00:00:42,400 --> 00:00:47,360
+But here's the problem. When I look for other studies in Lancet-owned journals,
+
+9
+00:00:47,360 --> 00:00:51,920
+and in the Lancet itself, they all reach the opposite conclusion.
+
+10
+00:00:51,920 --> 00:00:55,360
+They all concluded that lockdowns reduced rates of infection.
+
+11
+00:00:56,320 --> 00:01:00,320
+And as people pointed out, that's not the opposite conclusion.
+
+12
+00:01:00,320 --> 00:01:05,600
+The opposite conclusion would be a paper concluding that lockdowns reduce mortality rates.
+
+13
+00:01:06,160 --> 00:01:09,040
+What they show is a reduction in infection rates.
+
+14
+00:01:09,840 --> 00:01:11,600
+Isn't that the same thing, you might think?
+
+15
+00:01:12,240 --> 00:01:16,720
+Well, the argument is that a slower rate of infection might cut down the number of
+
+16
+00:01:16,720 --> 00:01:22,000
+infections in the short term, but they will get infected at some point during the pandemic.
+
+17
+00:01:22,000 --> 00:01:24,160
+So all this does is buy time.
+
+18
+00:01:24,960 --> 00:01:27,920
+But the reason epidemiologists say lockdown is effective
+
+19
+00:01:28,480 --> 00:01:32,880
+is that slowing the rate of infection will ensure that there's enough space in hospitals
+
+20
+00:01:32,880 --> 00:01:37,520
+to treat everyone who contracts Covid, thus ensuring a higher survival rate.
+
+21
+00:01:38,160 --> 00:01:39,920
+It's known as flattening the curve.
+
+22
+00:01:40,800 --> 00:01:43,680
+There are other benefits to delaying infections.
+
+23
+00:01:43,680 --> 00:01:48,320
+For one thing, treatment continually improves the longer the pandemic goes on,
+
+24
+00:01:48,880 --> 00:01:53,200
+so people who get infected now have a much better chance of survival
+
+25
+00:01:53,200 --> 00:01:56,160
+than those who got infected earlier on in the pandemic.
+
+26
+00:01:57,040 --> 00:02:02,240
+And of course, since there's a race to get everyone vaccinated, buying time is crucial.
+
+27
+00:02:03,120 --> 00:02:05,680
+The better chance they have of getting a vaccine,
+
+28
+00:02:05,680 --> 00:02:08,560
+the greater the reduction in deaths per million outcomes.
+
+29
+00:02:09,360 --> 00:02:14,240
+So all other things being equal, there's a link between a reduction in the infection rate
+
+30
+00:02:14,240 --> 00:02:16,480
+and a reduction in the number of deaths per million.
+
+31
+00:02:17,280 --> 00:02:22,960
+But if that isn't explicitly stated in the papers I cited, then I shouldn't infer it.
+
+32
+00:02:23,840 --> 00:02:27,120
+Does that mean Cummins was right when he said that there are many,
+
+33
+00:02:27,120 --> 00:02:33,920
+many publications, as he calls them, showing that lockdown barely or does not affect
+
+34
+00:02:33,920 --> 00:02:35,920
+deaths per million outcomes?
+
+35
+00:02:35,920 --> 00:02:39,120
+No, because on that score, nothing has changed.
+
+36
+00:02:39,120 --> 00:02:42,800
+The first paper on the list certainly does, as I pointed out,
+
+37
+00:02:42,880 --> 00:02:48,480
+but the other ones I looked at in my video, where a proper citation was given, certainly don't.
+
+38
+00:02:49,120 --> 00:02:52,640
+And since I made that video, I've checked a few others on the list,
+
+39
+00:02:52,640 --> 00:02:57,280
+and they don't conclude that lockdown has an effect on death per million outcomes either.
+
+40
+00:02:58,080 --> 00:03:02,560
+In addition, most of the publications on his list aren't peer-reviewed papers.
+
+41
+00:03:02,560 --> 00:03:07,600
+Some are preprints with a specific warning that they shouldn't be reported in news media
+
+42
+00:03:07,600 --> 00:03:10,480
+or relied upon without expert consultation.
+
+43
+00:03:11,040 --> 00:03:13,680
+Others are opinion pieces or news articles.
+
+44
+00:03:14,560 --> 00:03:17,680
+While I was checking this, I got an email from Ken Rice,
+
+45
+00:03:17,680 --> 00:03:20,960
+who basically said exactly the same thing as I said earlier.
+
+46
+00:03:21,600 --> 00:03:24,320
+So he disagrees with Cummins's conclusion
+
+47
+00:03:24,320 --> 00:03:27,760
+that there's little or no effect of deaths per million outcomes.
+
+48
+00:03:28,720 --> 00:03:30,640
+Oh, sorry, who's Ken Rice, you're wondering?
+
+49
+00:03:31,200 --> 00:03:35,600
+Well, he's lead author of this study, which Cummins put 10th,
+
+50
+00:03:35,600 --> 00:03:40,720
+apparently joint 10th, on his list of publications that supposedly
+
+51
+00:03:40,720 --> 00:03:45,600
+support the conclusion that lockdown has little or no effect on death per million outcomes.
+
+52
+00:03:46,240 --> 00:03:50,800
+Dr Rice's model only looked at the effect of mortality on the closure of schools,
+
+53
+00:03:50,800 --> 00:03:55,680
+where there is little or no effect, but in the paper he didn't look at other forms of lockdown
+
+54
+00:03:55,680 --> 00:04:00,400
+like restricted mobility, the closure of businesses, or bans on mass gatherings.
+
+55
+00:04:00,400 --> 00:04:05,680
+When I asked about these more general forms of lockdown, Dr Rice said,
+
+56
+00:04:05,680 --> 00:04:08,720
+the model also indicates that if we had done nothing,
+
+57
+00:04:08,720 --> 00:04:12,480
+we would have had over 200,000 deaths in a matter of months,
+
+58
+00:04:13,040 --> 00:04:14,800
+he's talking about the UK by the way,
+
+59
+00:04:15,360 --> 00:04:19,360
+and would almost certainly have completely overwhelmed the health services
+
+60
+00:04:19,360 --> 00:04:21,920
+which would have had other knock-on effects.
+
+61
+00:04:21,920 --> 00:04:27,280
+Also, we do now seem to have a vaccine, so can protect people who might otherwise have died.
+
+62
+00:04:27,600 --> 00:04:32,320
+So, Cummins does need to recheck the sources on his list.
+
+63
+00:04:32,320 --> 00:04:35,920
+He needs to get rid of the blogs, the preprints, and the news articles,
+
+64
+00:04:36,720 --> 00:04:40,560
+and get rid of the scientific studies that don't say what he claims they say.
+
+65
+00:04:41,920 --> 00:04:46,800
+Now, Cummins can argue that in his opinion, such a conclusion about deaths per million
+
+66
+00:04:46,800 --> 00:04:51,200
+can be inferred, but then he would be making the same mistake that I did,
+
+67
+00:04:51,200 --> 00:04:55,520
+inferring a conclusion that the paper or article doesn't actually give,
+
+68
+00:04:55,520 --> 00:04:58,160
+based on his own amateur and unchecked opinion.
+
+69
+00:04:59,200 --> 00:05:04,000
+Other errors I corrected from my video were wrong images or pronunciation errors
+
+70
+00:05:04,000 --> 00:05:05,920
+that don't affect the substance.
+
+71
+00:05:05,920 --> 00:05:09,600
+But this one does, so I've been happy to put the record straight.
+
+72
+00:05:10,240 --> 00:05:13,760
+I hope Iver Cummins will do likewise. We'll see.
+

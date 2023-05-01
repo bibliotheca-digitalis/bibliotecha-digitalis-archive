@@ -1,0 +1,349 @@
+There are thousands of airports connecting cities, cross-countries and continents,
+yet with just three letters from AAC and BBI to YYZ and ZZU,
+both me and you and our bags root round the world as unambiguously as practically possible.
+Airport codes!
+If you fly, you know them as part of the planning on your tickets, trackers and tags,
+and even as part of the port itself as big big branding.
+It's impossible not to wonder bored on a long haul with only in-flight entertainment
+about potential patterns peeking through, like all the Canadian Y airports.
+Why Canada? And why everyone?
+How do all these codes code?
+Well, neighbour, to find the answer we need to divert this flight to YUL,
+the Canadian city that's capital of codes, Montreal, where is headquartered IATA,
+the International Air Transport Association.
+It's not a governmental organization, more an independent aviation agency for airlines,
+where they work to make airports and airplanes increasingly interoperable,
+using humanity's most exciting and powerful yet oft-maligned-as-dull tool, standards.
+One of which is the IATA airport code, three letters to identify every airport in the world,
+from the most connected to the least.
+All are coded so companies can communicate clearly and concisely complicated connections
+to carry their customers and their bags.
+And actually, the code IATA created isn't only for airports,
+rather technically it's a location code for all kinds of transportation interchanges,
+like plane stations that connect to train stations such as Amsterdam Shipple,
+which is just so intermodally epic.
+Okay, let's try not to get distracted by efficient infrastructure, easier said than done.
+Here's how the IATA code is supposed to work.
+One airport, one code, which is unique because airport names are not.
+Booking passage to Portland?
+Cool, that could be Oregon or Maine or Victoria, Australia.
+Ambiguity is the enemy.
+International flying creates communication connections between every language on Earth.
+So the IATA code helps when you don't speak Greenlandic or Odia,
+but still need to book a flight to Kangerlussac via Bainswar?
+I'm so sorry Greenland and India.
+Instead of mongoling pronunciation, it's just SFJ via BBI.
+Much clearer, not just for you, but also for the ground crew getting the bags through.
+Ideally, the IATA code comes from the first three letters of the location,
+like with Gibraltar, where Gibraltar airport is given GIB.
+Gib, Gibraltar.
+So going to Cork, it'll be C-O-R, Coir, Ireland.
+Oh, that didn't work.
+Seems Córdoba, Argentina built their airport first and got C-O-R ahead of Cork,
+so, uh, Ork for Cork.
+Tufnugi's Ork, Germany, that's an adorable town name you've got there,
+but you're going to need to pick something else for your code.
+Thus, a single code collision kicks off a consistency cascade
+as airports compete for clear codes.
+So if your local airport has an odd three letters,
+there's probably a rival port that picked previously.
+This is one of the major things IATA does.
+Coordinate everyone's code preferences,
+which means dealing with not just individual airports,
+but all the aviation agencies in different countries,
+some with their own desires for intra-country code consistency,
+such as Canada, who clearly claimed all the Y's.
+Thus picking a Y1 at random, at least you know roughly where you're going to go.
+Oops, no, that didn't work.
+YKM brought us to Washington, USA,
+and since we're here, we might as well talk about the FAA.
+In America, the Federal Aviation Administration,
+daughter of the Department of Transportation,
+is given the job of assigning all American airports an American airport code.
+Yes, the FAA actually has her own set of three letter codes,
+but we're not going to talk about it,
+because it means in America there's one airport, two codes,
+and for simplicity, I'm sticking to this story.
+One airport, one code.
+Right?
+Right.
+Now, FAA has letters she'd really rather American airports not.
+Please know N, Q, W, K, Z, or Y.
+N is reserved for the Navy, for OMG, is it aircraft carriers?
+No, they use an unrelated and additional system,
+that we're also not going to talk about.
+The Navy N is given to Navy bases with airports.
+So American airports, like Nashville, that seem like they should start with the letter N,
+were encouraged to pick something else, like B, for Banashville.
+There is also A for the Army and the Air Force, although not all the A's,
+so there's a bunch of A airports, like Albuquerque, Aberdeen, Anchorage, Amarillo, and Augusta.
+Next, Q, FAA once avoided because of,
+checks, notes, Morse code?
+Wow, really?
+There's a set of three letter international Morse codes that begin with Q,
+for quickie communications, that are still used, I guess?
+So, because of 1800's telegraph slang,
+American airports shouldn't start with the letter Q.
+Next, K and W, FAA advises against,
+because FCC, the Federal Communications Commission,
+daughter of no one, she's an independent agency,
+assigns K and W for US civilian broadcast stations.
+So, that thing where on the radio they say,
+K-MAD, Action News, or WDUL, Public Airwaves.
+Yeah, they all start with a K or W, which is actually location information.
+K's are in the west, and W's in the east,
+except for the middle, where it's both.
+FCC, why did you do it this way?
+Well, since you coded those codes first,
+FAA discourages airports from starting with those letters.
+Even though broadcast codes are four letters, not three,
+and they're, you know, radio stations, not airports,
+and definitely not weather stations.
+Of course they're not weather stations, why would you even say that?
+No reason, it won't come up later, don't worry.
+Moving on, Z is reserved for air route traffic control centers themselves,
+and why no why?
+Because Canada, of course.
+Yes, I understand, that's not an explanation, we'll get to it later.
+That's America's preferences for airport codes,
+but other countries exist,
+and their aviation agencies don't care at all which letters the United States avoids,
+so while Bonashville was building her big-big branding,
+Nassau grabbed the N to get NAS for the Bahamian capital.
+There's no shortage of airport codes that start outside the US with America's reluctant letters.
+And also, because FAA's precedents aren't laws,
+you can find American exceptions, like New Kekwa, Yakquig, and Ziv.
+Boy, that was fun to say, let's end the video with more of that, shall we?
+And that new must particularly burn Newark, New Jersey,
+who had to go with Ewerk, U Jersey instead.
+Right, finishing this thought,
+every country and their agencies has their own wacky preferences for letters
+and wants to ignore every other country's preferences,
+and IATA's job is to coordinate between them.
+The result of which is,
+IATA airport codes have no satisfying system at all,
+which is so sad for a standard.
+And the story of one airport, one code,
+also falls apart even within IATA,
+because of mega codes for megacities.
+Example, London, which has six international airports,
+Heathrow, Gatwick City, Luton, Stansted, Southend,
+LHR, LGW, LCY, LTN,
+oh, they all start with L?
+No, STN, SEN.
+But there's a mega code for them all, LON,
+which you can use while searching for flights landing in London,
+but don't care where.
+Even though these airports are ages apart.
+LON is the International City, Mega Ist, Mega Code,
+but there's also Moscow, MOW, and Stockholm STO
+with four airports each,
+and more with two or three, like NYC and BUE.
+And then, code-wise, is the most exceptional airport.
+Euro Airport, Basel, Mulhouse, Freiburg.
+An airport so nice, they coded it thrice.
+MLH, BSL, EAP.
+How this happened is,
+France and Switzerland both wanted an airport here-ish,
+near the German border, and teamed up.
+France provided the land, Switzerland the capital,
+Germany has nothing to do with this,
+and the pair co-built the port,
+constructing duplicate and separate everythings.
+So it was, effectively, two airports,
+run by two countries, with two runways,
+and two sets of rules, and thus needed two airport codes,
+depending on which side passengers could connect through,
+and one mega code if it didn't matter.
+But all of this doesn't mega matter now,
+because the two airports mostly act as one anyway,
+thus one airport, three codes.
+And there are plans to run a railway through
+for epic intermodalness,
+so it could become one airport, four codes, or five codes.
+I mean, why not at this point?
+So yeah, an airport isn't uniquely identified by one code,
+and there's no location information
+coded in this location code?
+Not even a checksum letter?
+What is this, a social security number?
+Without a checksum, if you were planning a flight
+to CGP Airport in Bangladesh, but typo the incorrect CPG,
+you'll end up in Argentina instead.
+Again.
+But at least the chance of a switcheroo like that
+must be pretty small.
+After all, a three letter code means 17,000 permutations,
+way more than the actual number of airports,
+which is only 40,000 airports worldwide?
+How can that possibly be true?
+Well, it's time to introduce you to IKO,
+the International Civil Aviation Organization,
+daughter of the United Nations,
+who also lives in Montreal with IATA.
+And it might seem like they're the same,
+but IATA actually only covers what we might call
+the standard commercial airports
+you'd find searching for flights normally.
+While IKO covers what she calls aerodromes,
+which is everything from the world's busiest
+passenger airport in the always unlikely seeming
+Atlanta, Georgia, down to rarely used runways
+on ranches in Texas,
+of which there are an absolutely absurd number.
+So with all those aerodromes to account for,
+IKO uses four letters, which gives, wow,
+a lot more options, thanks Exponentials.
+And she also uses the extra space
+to add location information.
+Finally, in IKO's system,
+the first letter of an airport code
+is roughly where on earth it is.
+P is for airports in the Pacific,
+one letter to cover flying over
+the most terrifyingly empty half of the earth.
+Try not to think about it as you look down
+into the endless abyss before arriving at South America.
+S, then M for middle America
+and K for continental America.
+C sensibly is Canadian America
+and flying over the pole we get to U,
+for used to be USSR.
+Yes, that's actually the name.
+Look, what makes standard standards is their stubbornness.
+Just because a gigantic country collapsed
+is no reason to change what millions of flight computers
+know in their code and pilots in their brains.
+After IKO's first letter,
+there's also a bunch of second sub-letters.
+Well, except for America and Canada,
+who skipped that, but don't worry.
+Moving on, as an example,
+if your airport starts with an F, it's in Southern Africa.
+And if the next letter is A, that's South Africa.
+And the last two letters are for the airport.
+So Cape Town gets CT for a fact.
+Of course, there are some exceptions like Antarctica,
+the continent no one owns,
+but all the cool kids want to claim.
+Aerodromes here are supposed to use the code
+for the country's claim they're in,
+such as Williams Field, which is American run,
+but uses NZWD because it's in the Kiwi claim.
+But also lots of Antarctic aerodromes use pseudocodes.
+No, we're not gonna talk about what that means,
+which start with a T and end with a number like 27
+for Troll Airfield serving Troll Research Station,
+which runs on troll time.
+Norway, is that you?
+I knew it was.
+But you really should be using EN for Europe, Norway.
+And TR is free.
+Enter trolls, it's so perfect.
+And yes, the 27 means there are at least 26 other runways
+in Antarctica, I was surprised too,
+but this along with all of the ranches
+is how you get to crazy numbers of aerodromes.
+And yes, ICAO has more exceptions to this system
+that we're going to skip,
+but I can't resist just one more,
+which is Region J.
+Looking at the map, you won't be able to find it
+because J is Mars.
+When the rover arrived at Jezero Crater,
+ICAO gave the historic landing location the code JZRO.
+Okay, but that's it for exceptions.
+So to sum up, the story of one airport, one code
+was just that, a story.
+Tons of airports have at least two.
+And when they do, the ICAO code
+is what computers and pilots know
+to plan where the plane needs to go.
+And IATA is what passengers say to get on their way.
+But if ICAO exists with a more comprehensive code,
+why is IATA at all?
+So IATA isn't about you, it's about your bags.
+At an airport, you as a human walk to your connecting flight
+but your bags below need a lot of logistical assistance.
+Before IATA, there was just like a handwritten tag saying,
+please get me where my owner is going,
+written in potentially every language on earth.
+So you can imagine how often that went wrong.
+So IATA used codes to make life better for bags
+with bag tags, with big clear codes
+to get those bags cleanly through connections
+across countries and companies.
+And the original plan was that train stations
+with IATA codes would also let you check in your bag there
+and it would be part of the automatic connection too.
+But that mostly doesn't happen now
+because of logistical difficulties,
+which is the same reason that the IATA code is a club
+that excludes all the little aerodromes
+too annoying to attend to.
+So if your bag's final destination after connecting
+at Austin is one of the many random ranch airstrips,
+the ground crew is not going to swap your bags
+onto the tiny crop duster for you.
+Ditto if you're connecting through Argentina
+to Antarctica, anywhere.
+Those tiny airports, no IATA code for you.
+And without an IATA code, your bag depends on you
+to get it all the way through.
+And that's what IATA is actually for.
+That big, big branding you see is for your bags.
+And because of the tag, it became what customers know,
+which brings us back to the start.
+And oh, sorry, Canada.
+I know I've been avoiding answering the whys,
+but it's just so much more complicated than expected.
+There's a tale that the whys are an old system
+for if Canadian airports had a weather station.
+Y for yes, weather station and W without.
+And since pilots want to know the weather,
+that explains all the whys,
+but also the few oddball Canadian Ws.
+But investigating the truth of that story
+took eight months of my life,
+which I will now give to you
+as an extremely compressed executive summary.
+Working backwards, the American and Canadian IATA codes
+created in the 1950s come from the last three letters
+of ICAO codes created in the 1940s.
+The first letter of ICAO codes come from the ITU,
+the International Telecommunications Union's codes
+created in the 1910s for radio stations,
+which used K for America and CY for Canada.
+So K and CY into four letters
+and back down to three leaves Y for Canada.
+Here is where you would reasonably ask why CY for Canada,
+but that goes all the way back to telegraphs and beyond,
+so is a story for another time.
+But for now, for this video, why Y for Canada?
+Because of radio call signs,
+because of a lot of other things,
+because of US and Canada coordinating
+that four flights within North America,
+it really would be Y for yes, Canada, mostly.
+Well, that was a lot of bureaucratic history,
+so let's finish with the final fun IATA codes
+promised from before, starting with Sioux City
+with the sensible-looking SUX until you say it out loud,
+but to her credit totally owns
+that branding for airport merch.
+Good for you, Sioux.
+And there's also Beaches International Airport,
+Summer Break Central.
+Their top two picks for codes were picked,
+so to help the confused collegiates find their connections,
+the agencies agreed on ECP to stand for Everyone Can Party,
+which is awesome branding,
+but you'd never know because Beaches doesn't bother.
+Jeez, ECP, you could learn a thing or two from Sioux.
+But now everyone can party
+on this round-the-world flight of IATA codes
+entertaining to say out loud.
+Ready?
+Boo, eek, cow, wow, poo, gag, bro,
+but got hot pie, yum, um, mom, dad, mad, run, fun,
+I-O-U-F-A-Q-O-M-G-L-O-L.

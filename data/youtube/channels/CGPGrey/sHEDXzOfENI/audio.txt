@@ -1,0 +1,54 @@
+The United States picks its president with the Electoral College, 538 votes distributed
+by population, mostly to the 50 states and DC.
+To become a president you need to win a majority of those votes.
+But 538 is an even number, so what happens when the race for president is tied?
+Don't worry, there's an 18th century solution to the problem.
+If the Electoral College is tied, the House of Representatives breaks that tie.
+As the name implies, the House is filled with representatives from each of the states.
+The more people in a state, the more representatives it has and there are 435 in total, thankfully
+an odd number and a guaranteed tiebreaker.
+Except there's a catch.
+Each representative doesn't get one vote, it's each state that gets one vote.
+So Florida's 27 representatives have to decide amongst themselves who to support before casting
+Florida's one vote to help break the tie.
+Meanwhile, thinly populated Alaska's sole representative has only to consult himself
+before casting Alaska's vote.
+This is an incredibly disproportionate system because just 10 states — California, Texas,
+New York, Florida, Illinois, Pennsylvania, Ohio, Michigan, Georgia and North Carolina
+— contain more than half the population of the United States but get only 20% of the
+votes if the race for president is tied.
+And the other 40 states with less than half the population get 80% of the votes.
+While an exact tie is unlikely, this system is also used if there are more than two candidates
+for president and none of them gets a majority in the Electoral College.
+Which is exactly what happened when four candidates ran for president in 1824.
+Andrew Jackson got the most votes from Americans and the most votes in the Electoral College
+but not a majority, so the race was turned over to the House of Representatives voting
+as states who picked John Quincy Adams instead.
+In a modern America with more states, a three-way race can have horrifically disproportionate
+results.
+Consider a third-party candidate who loves the small states and who the small states
+love in return.
+He gets the fewest Electoral College votes but enough to ensure that neither of the two
+more popular candidates gets a majority, so now the House decides the winner.
+And those 26 smallest states representing just 17% of the population can pick their
+man as president, even though 83% of Americans didn't vote for him.
+It's unlikely, but it really shouldn't even be possible.
+Anyway, all this talk of presidents has left the vice president unmentioned.
+A reasonable person might assume that he just comes along with the president, but no.
+When there's a tie, the Senate independently picks the vice president, so the United States
+could end up with a president from one party and a vice president from the other, which
+might make for some very uncomfortable meetings.
+But even this crazy system for resolving a tie isn't guaranteed to work because there
+are 100 members of the Senate, and in the House of Representatives they're forced to
+vote as 50 states, and many of those states have 10 or 8 representatives, making the whole
+system titacular with all those even numbers.
+So if the House can't pick the president, but the Senate has picked the vice president,
+then the vice president becomes acting president until the House can make up its mind.
+But if neither the House can pick the president, nor the Senate can pick the vice president,
+then the Speaker of the House becomes acting president until either branch of Congress
+picks someone.
+And that's how the United States would resolve a tied race for president, though it might
+be faster and more fair to just flip a coin.
+Of course, you could get rid of the electoral college and thus this whole crazy system and
+instead have a national popular vote, perhaps with something fancy like preferential voting,
+but maybe that's just a crazy idea.

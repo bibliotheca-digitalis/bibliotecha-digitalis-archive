@@ -1,0 +1,608 @@
+WEBVTT
+
+00:00.000 --> 00:03.760
+You know, hexagons are the bestagons.
+
+00:03.760 --> 00:05.760
+Why? Because bees.
+
+00:05.760 --> 00:09.240
+Bees are the best and build only the bestagon, the hexagon.
+
+00:09.240 --> 00:10.480
+Now, I know what you're thinking.
+
+00:10.480 --> 00:14.120
+Bees build hexagons because they're hexapods with hexagon eyes.
+
+00:14.120 --> 00:15.720
+How could they do otherwise?
+
+00:15.720 --> 00:16.800
+Excellent point.
+
+00:16.800 --> 00:19.760
+But the Humbobumble has an engineering problem to solve.
+
+00:19.760 --> 00:21.040
+She makes two things.
+
+00:21.040 --> 00:22.080
+Honey and wax.
+
+00:22.080 --> 00:25.000
+The former to eat and the latter to contain the former.
+
+00:25.000 --> 00:28.480
+To make but a little honey, she must visit a lot of flowers.
+
+00:28.480 --> 00:31.720
+And to make one unit of wax, she needs eight units of honey.
+
+00:31.720 --> 00:35.760
+Wax is costly for bees in flower terms and honey is drippy in food terms.
+
+00:35.760 --> 00:41.280
+So to make a hive that contains the maximum honey while using the minimum wax is royally vital.
+
+00:41.280 --> 00:43.120
+Thus, a honeycomb conjecture.
+
+00:43.120 --> 00:44.720
+Which shape works best?
+
+00:44.720 --> 00:46.480
+To answer, we need to talk tiles.
+
+00:46.480 --> 00:49.360
+Tiling is covering a surface with a pattern of polygons.
+
+00:49.360 --> 00:52.160
+There's lots of options because there's lots of polygons.
+
+00:52.160 --> 00:54.440
+Even the regulars go on and on again.
+
+00:54.440 --> 00:59.480
+Now for bees picking patterns, the more complicated ones obviously use more lines than necessary.
+
+00:59.480 --> 01:01.160
+That's what complicated means.
+
+01:01.160 --> 01:04.680
+And thus a honeycomb of that tile would use more wax per honey.
+
+01:04.680 --> 01:08.240
+So sticking to the simple regulars, there are just three that tile tightly.
+
+01:08.240 --> 01:09.840
+Triangle, square, and hexagon.
+
+01:09.840 --> 01:13.360
+Pentagons are broken hexagons leaving gaps, same with septagons.
+
+01:13.360 --> 01:15.760
+Octagons are alright, but they're no hexagon.
+
+01:15.760 --> 01:18.440
+Which leaves the tiling trio which tile differently.
+
+01:18.440 --> 01:22.160
+A square is a square of squares, which is a square of squares, and so on.
+
+01:22.160 --> 01:24.320
+Squares tile tightly by basically cheating,
+
+01:24.320 --> 01:27.920
+covering an infinite plane with an infinite number of parallel lines.
+
+01:27.920 --> 01:30.880
+Like, wow, that's what a plane is.
+
+01:30.880 --> 01:31.760
+Boring!
+
+01:31.760 --> 01:35.520
+Triangles pull the same trick, dividing themselves down into infinite nothing.
+
+01:35.520 --> 01:36.960
+But not the hexagon.
+
+01:36.960 --> 01:42.000
+The only regular polygon to tile a plane without resorting to debasing self-division.
+
+01:42.000 --> 01:43.680
+Unlike some squares I could mention.
+
+01:43.680 --> 01:47.120
+At least triangle is trying to be more geometrically interesting than square,
+
+01:47.120 --> 01:49.760
+teaming up a bit to one, two, three, four, five, six-
+
+01:49.760 --> 01:50.640
+Wait, hexagon!
+
+01:50.640 --> 01:52.000
+The other shapes can't help it.
+
+01:52.000 --> 01:54.080
+They just want to be the bestagon.
+
+01:54.080 --> 01:57.040
+Even some of the irregulars like rhombus tile by hexagoning.
+
+01:57.040 --> 02:01.200
+Same with your trackus tiles, and deltoid trihexanoggles,
+
+02:01.200 --> 02:06.560
+and your, uh, crystal rombles, and florid pentanoggles.
+
+02:06.560 --> 02:07.920
+Look, they're all just hexagons.
+
+02:07.920 --> 02:13.200
+Even kyro tiles, poor pentagons tile up as best they can to form a lumpy hexagon.
+
+02:13.200 --> 02:15.920
+The rest just can't compete with the best.
+
+02:15.920 --> 02:19.760
+The hexagon nobly indivisible is the bestagon.
+
+02:19.760 --> 02:20.880
+Uh, where were we?
+
+02:20.880 --> 02:22.240
+Oh right, honeycomb conjecture.
+
+02:22.240 --> 02:24.400
+Max honey, min wax, three options.
+
+02:24.400 --> 02:29.120
+Okay, yes, there's the circle, a shape defined by the least perimeter for the most area,
+
+02:29.120 --> 02:31.120
+but that only works when you need just one.
+
+02:31.120 --> 02:33.680
+Pack circles and this is the best they can do.
+
+02:33.680 --> 02:35.040
+Look at all that wasted space.
+
+02:35.040 --> 02:37.920
+And even if you pack the gaps, you still use more wax.
+
+02:37.920 --> 02:40.240
+And again, the way these circles arrange themselves,
+
+02:40.240 --> 02:42.960
+it's almost like, one, two, three, four, five, six, hidden hexagon.
+
+02:42.960 --> 02:48.560
+Bees use the hexagon because no shape is better to create the maximum area for the minimum wall.
+
+02:48.560 --> 02:53.600
+And this min-max stat of hexagon is one of the many reasons they show up everywhere,
+
+02:53.600 --> 02:56.240
+including in the aforementioned bee's eyes.
+
+02:56.240 --> 03:00.400
+Each hexagon is a long tube that leads to the light-catching cells at the bottom.
+
+03:00.400 --> 03:02.000
+More light equals better vision,
+
+03:02.000 --> 03:06.240
+and hexagons let the most light in using the least amount of wall.
+
+03:06.240 --> 03:08.400
+So why aren't your eyes hexagons?
+
+03:08.400 --> 03:11.200
+Au contraire mon ami, they are le hexagon.
+
+03:11.200 --> 03:14.080
+Not on the outside, but on the inside.
+
+03:14.080 --> 03:16.880
+Your light-catching cells are at the back of your eye,
+
+03:16.880 --> 03:19.840
+in a hexagonal grid for the same reason as bees.
+
+03:19.840 --> 03:21.360
+Max light, min wall.
+
+03:21.360 --> 03:24.560
+Your window to the world is but through the hexagon.
+
+03:24.560 --> 03:26.640
+Does that not make it the bestagon?
+
+03:26.640 --> 03:29.680
+Okay, maybe hexagon as min-maxagon doesn't catch your fancy.
+
+03:29.680 --> 03:31.600
+Then how about a little mystery, oui?
+
+03:31.600 --> 03:33.440
+Let us travel to Saturn.
+
+03:33.440 --> 03:37.520
+Yes, the rings are attention-grabbing, but leave the equator, travel north,
+
+03:37.520 --> 03:39.440
+and here lies the unexplained.
+
+03:39.440 --> 03:41.360
+The great hexagon of Saturn.
+
+03:41.360 --> 03:42.480
+Need something for scale?
+
+03:42.480 --> 03:43.840
+Well, here's the Earth.
+
+03:43.840 --> 03:46.080
+Oh, here's six the Earths.
+
+03:46.080 --> 03:48.720
+Saturn's hexagon is pretty big.
+
+03:48.720 --> 03:49.440
+What is it?
+
+03:49.440 --> 03:52.080
+Well, you might be thinking it's a geological formation,
+
+03:52.080 --> 03:56.080
+an enormous basalt column like the smaller versions you find on Earth.
+
+03:56.080 --> 03:57.920
+But no, Saturn is a gas giant.
+
+03:57.920 --> 04:00.640
+There is no surface or geology to speak of,
+
+04:00.640 --> 04:04.160
+so the great hexagon is composed of shapeless clouds
+
+04:04.160 --> 04:07.200
+somehow keeping shape and changing color.
+
+04:07.200 --> 04:09.680
+It's a magnificent solar system mystery.
+
+04:09.680 --> 04:11.760
+And while I'm no space archaeologist,
+
+04:11.760 --> 04:14.720
+if I was looking for an alien-gifted monolith,
+
+04:14.720 --> 04:19.920
+on the most look-at-me planet under a hexagon beacon with Earth-sized sides,
+
+04:19.920 --> 04:21.200
+that's where I would start.
+
+04:21.200 --> 04:25.760
+After all, what aliens would want to make first contact with the nearby monkeys
+
+04:25.760 --> 04:29.760
+before they became enlightened to pursue the universal truth?
+
+04:29.760 --> 04:31.760
+Hexagon is the bestagon.
+
+04:31.760 --> 04:34.480
+From the largest down to the smallest.
+
+04:34.480 --> 04:37.280
+Say, for example, this tiny snowflake I happen to have.
+
+04:37.280 --> 04:40.080
+That has six sides as all snowflakes do.
+
+04:40.080 --> 04:41.600
+Gee, what could cause that to be?
+
+04:41.600 --> 04:44.160
+Let's zoom down to the atomic realm and see.
+
+04:44.160 --> 04:46.560
+When water molecules join together to make a flake,
+
+04:46.560 --> 04:49.200
+the sturdy shape they prefer is the hexagon.
+
+04:49.200 --> 04:52.400
+As more molecules join, they extend the flake fractally up.
+
+04:52.400 --> 04:54.720
+The beauty of the snowflake on the monkey scale
+
+04:54.720 --> 04:58.720
+is but an extension of the hexagonal perfection on the atomic scale.
+
+04:58.720 --> 05:01.840
+Okay, yes, you will sometimes find snowflakes with 12 sides,
+
+05:01.840 --> 05:04.400
+but this happens when two growing snowflakes get stuck together,
+
+05:04.400 --> 05:05.280
+so it still counts.
+
+05:05.280 --> 05:08.880
+And the hexagon isn't just for snow, but for all ice 1h,
+
+05:08.880 --> 05:11.120
+which means basically all ice on Earth.
+
+05:11.120 --> 05:12.560
+Yeah, there's a little ice 1c,
+
+05:12.560 --> 05:14.720
+which we don't talk about because it's made of cubes
+
+05:14.720 --> 05:17.360
+and cubes are boring and there's a bit of ice 9.
+
+05:17.360 --> 05:18.080
+No, don't touch that.
+
+05:18.080 --> 05:19.520
+But if there is ice in your drink,
+
+05:19.520 --> 05:22.080
+give thanks to the hexagon for keeping it cool.
+
+05:22.080 --> 05:23.200
+And it's not just water.
+
+05:23.200 --> 05:26.240
+Lots of atoms use hexagons because, take a note,
+
+05:26.240 --> 05:28.240
+hexagons are the bestagons.
+
+05:28.240 --> 05:29.600
+Oh, using a pencil?
+
+05:29.600 --> 05:33.520
+Get ready to have your mind blown about the hexagon here too.
+
+05:33.520 --> 05:34.240
+The lead.
+
+05:34.240 --> 05:36.240
+Well, it isn't lead lead, it's carbon.
+
+05:36.240 --> 05:38.560
+And you know what carbon atoms think is the bestagon?
+
+05:39.120 --> 05:40.160
+The hexagon.
+
+05:40.160 --> 05:43.040
+Pencil graphite is a whole bunch of hexagonal carbons,
+
+05:43.040 --> 05:46.160
+and when they happen to be in a straight sheet, that's graphene,
+
+05:46.160 --> 05:50.480
+which happens to be the strongest atomic material in the universe,
+
+05:50.480 --> 05:52.240
+some of which is in that pencil.
+
+05:52.240 --> 05:53.840
+To tear a sheet of graphene apart,
+
+05:53.840 --> 05:57.600
+you would need a hundred times more force than to do so with steel.
+
+05:57.600 --> 05:59.440
+Hexagon is strong-agon.
+
+05:59.440 --> 06:01.440
+This is because when hexagons come together,
+
+06:01.440 --> 06:04.800
+they form three-sided joints 120 degrees apart.
+
+06:04.800 --> 06:08.560
+This, for the least material, is the most mechanically stable arrangement.
+
+06:08.560 --> 06:11.360
+Pull on one joint, and the other two equally pull back.
+
+06:11.360 --> 06:14.880
+Push in, and the other two are the most able and stable to resist.
+
+06:14.880 --> 06:16.960
+Now look anew at a tiling of hexagons,
+
+06:16.960 --> 06:20.240
+and you see it is composed of nothing but these max stable joints,
+
+06:20.240 --> 06:24.000
+each arranged perfectly to help the others be stronger and stabler.
+
+06:24.000 --> 06:27.360
+This is another reason hexagons show up everywhere.
+
+06:27.360 --> 06:30.480
+The universe blesses stability in her physics,
+
+06:30.480 --> 06:32.640
+from those basalt columns to bubbles,
+
+06:32.640 --> 06:34.160
+which, as soon as they can,
+
+06:34.160 --> 06:38.800
+ditch their spheres to become as close to hexagonal perfection as they can.
+
+06:38.800 --> 06:39.760
+That's so cool.
+
+06:39.760 --> 06:40.480
+Oh right, yes.
+
+06:40.480 --> 06:44.560
+So if your pencil lead contains some of the strongest material in the universe,
+
+06:44.560 --> 06:45.600
+how can you write with it?
+
+06:45.600 --> 06:46.320
+Okay, okay.
+
+06:46.320 --> 06:48.880
+This is going to get even more exciting.
+
+06:48.880 --> 06:51.120
+While hexagons are super strong this way,
+
+06:51.120 --> 06:53.040
+they aren't super strong this way.
+
+06:53.040 --> 06:57.040
+On a small scale, that means your pencil can break off in layers to leave a mark.
+
+06:57.040 --> 07:01.520
+But on a big scale, hexagons can be flexible while keeping their strength,
+
+07:01.520 --> 07:04.640
+letting us construct some totally unreal materials.
+
+07:04.640 --> 07:07.840
+Print out a grid of hexagons in whatever from aluminum to cardboard,
+
+07:07.840 --> 07:08.880
+make a little sandwich,
+
+07:08.880 --> 07:11.120
+and pow, you've got honeycomb paneling,
+
+07:11.120 --> 07:15.840
+a redonkulously tear-resistant material that's also super light and flexible.
+
+07:15.840 --> 07:19.200
+It's used everywhere, but particularly in aviation.
+
+07:19.200 --> 07:21.280
+Rockets need to be strong yet light,
+
+07:21.280 --> 07:22.400
+same for aircraft,
+
+07:22.400 --> 07:25.840
+with wings that really can't tear but also need to bend.
+
+07:25.840 --> 07:29.280
+And only the magic of the honeycomb panel can do both as well.
+
+07:29.280 --> 07:32.160
+Give thanks to the hexagon for blessing our flight,
+
+07:32.160 --> 07:36.800
+and we still haven't yet discussed the most important application of the hexagon.
+
+07:36.800 --> 07:37.440
+Games.
+
+07:37.440 --> 07:40.880
+For centuries, there has been great debate over boards.
+
+07:40.880 --> 07:42.560
+Squares or hexagons?
+
+07:42.560 --> 07:44.160
+Spoiler, hexagons wins.
+
+07:44.160 --> 07:47.680
+Square boards are the first thing an unenlightened species would think of.
+
+07:47.680 --> 07:50.080
+They look sensible and are easy to implement,
+
+07:50.080 --> 07:53.760
+but they are terrible, ineffective boards that cause spatial suffering.
+
+07:53.760 --> 07:58.240
+On a square board, move horizontal or vertical one space and you've moved one space.
+
+07:58.240 --> 08:02.320
+But move diagonal and the distance is the square root of two spaces.
+
+08:02.320 --> 08:03.040
+Gross.
+
+08:03.040 --> 08:05.520
+Diagonals warp the distance pieces move.
+
+08:05.520 --> 08:08.480
+Square boards look even and tidy, but it's deceit.
+
+08:08.480 --> 08:12.000
+They're diagonals corrupting the meaning of space and time.
+
+08:12.000 --> 08:16.480
+And of course they must, because a square only has four true neighbors.
+
+08:16.480 --> 08:20.160
+Hexagons, however, have six, which is more than four, which is better.
+
+08:20.160 --> 08:24.160
+And the distance from one space to the next is the same in every direction.
+
+08:24.160 --> 08:25.200
+One space.
+
+08:25.200 --> 08:26.480
+Just as it should be.
+
+08:26.480 --> 08:28.960
+If you are a game based on squares, I'm so sorry.
+
+08:28.960 --> 08:30.320
+But there is hope.
+
+08:30.320 --> 08:34.400
+With thought and effort, you can hexagon yourself into a better place.
+
+08:34.400 --> 08:36.320
+As we all should aspire to do.
+
+08:36.320 --> 08:38.960
+Spreading order and hexagonal enlightenment.
+
+08:38.960 --> 08:41.600
+For hexagons are the bestagons.
+
+08:41.600 --> 08:44.240
+And now that you agree, with your eyes you will see
+
+08:44.240 --> 08:46.880
+there's six-sided perfection in all things.
+
+08:46.880 --> 08:49.840
+And you will say to yourself as part of the order,
+
+08:49.840 --> 08:52.080
+hexagons are the bestagons.
+
+08:56.480 --> 08:59.840
+Uh, thanks for stopping by for communicator coffee.
+
+09:02.640 --> 09:03.120
+Now go.
+
+09:03.680 --> 09:15.200
+Share the enlightenment of the order with others.
+

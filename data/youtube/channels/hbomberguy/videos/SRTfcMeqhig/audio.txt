@@ -1,0 +1,2667 @@
+This video is an offshoot from the video I made about Bloodborne.
+I realized partway through recording it that attempts to defend and talk up Dark Souls 2
+were worming their way into the Bloodborne video,
+so instead of making the Bloodborne video even longer,
+I decided to cut those parts out and then put them in their own video.
+Then I realized this video made no sense
+because it was just a mishmash of stuff lifted from a different video
+pasted together without context,
+so I remade it all, which took bloody ages.
+This game is unfairly maligned.
+I think Dark Souls 1 was incredible,
+and people who really liked that one had kind of unrealistic expectations
+and got inevitably burned by the sequel being different
+or failing to be as spectacular and new as its predecessor when it came out.
+Judging it as a game, I think it's really good.
+It's not as good as Bloodborne,
+but it's a little bit...
+It's a little bit better than Dark Souls 1.
+Oh, I mean, in my opinion, it's a little bit better than Dark Souls 1.
+Okay, it's about as good as Dark Souls 1,
+but it has some differences I prefer.
+Okay, it's not as good as Dark Souls 1,
+but the changes were an interesting and useful risk
+that's more valuable existing than not existing
+and is genuinely better than just getting more of Dark Souls 1,
+which we already have and you can still just go back to and play if you want to.
+And I personally think I had more fun with it.
+I think the Emerald Herald is a better waifu than Guinevere.
+♪
+We might as well start with a discussion of the health system,
+which I feel is the core building block of the Souls games
+because it dictates the rhythm and structure of the gameplay
+and creates the weighty sense of challenge and difficulty the series is known for.
+Ironically, it's very easy to just make something hard.
+Making a game challenging while also being fun
+requires a very dense and carefully arranged interplay of mechanics.
+This is the tightrope games have to walk.
+How do you make a player feel challenged
+so that their success is a rewarding experience
+without making them feel overly punished or simply frustrated?
+This balance is difficult to execute.
+The reason Souls games are difficult in the first place
+is because of the way damage works in the games.
+If everything was the same,
+but all attacks did a half or a quarter the damage they do,
+the game would be fundamentally different,
+less challenging, and less fun as a result.
+Things wouldn't be as weighty because the damage wasn't as important
+and dodging wouldn't feel as necessary and so on.
+This is why a lot of first-person shooters
+have a difficulty mode they explicitly recommend over the others
+because games usually manipulate difficulty
+by making the damage sliders be higher or lower
+and in most games there's a specific amount of damage
+attacks are most enjoyable to be working with.
+Souls games have no difficulty setting
+because there's almost no way to make the game easier
+without fundamentally altering the thing that makes the games fun.
+In a Souls game, you generally can only take a couple of hits before dying.
+Healing, therefore, is an important mechanic.
+How do you let the player gain health back?
+This is an important mechanic to talk about
+because it defines the flow of the rest of the ensuing game experience.
+Let's say there was no healing whatsoever
+or you healed instantly without there even being an animation
+or, as in Bloodborne,
+you could heal back damage you took if you retaliated quickly.
+These utterly change the rest of the mechanics
+and therefore the rest of the game experience
+because they change how the player is led to interact with them.
+The guy who gets to decide how players get health back
+actually is responsible for more of the game
+than the people who design the levels in a weird way.
+Souls games have done this a variety of ways
+with a variety of impacts on core gameplay.
+In Demon's Souls, you healed by using different kinds of grass you found or purchased.
+Stopping to grab a bite, however, was very slow and deliberate
+and it stopped you dead in your tracks.
+While this is fine if you already beat the thing that damaged you,
+in a lot of direct combat situations,
+stopping to heal is either not going to work or is going to get you killed.
+It's a calculated risk every time
+and in boss fights, finding places in the rhythm of the battle
+when healing was a good idea
+was key to survival for people who couldn't always avoid taking that damage.
+There is something of a downside to this, however.
+Firstly, while it is very calculated and purposeful and challenging to heal,
+should it be?
+It's fair, but is it good to be in a situation
+where the most pressing thing, trying to heal,
+is a really bad idea that would itself kill you?
+A lot of early players die while mashing the heal button.
+That's not fun,
+even if simply not doing that is technically the sound response.
+Secondly, in Demon's Souls,
+you immediately have access to all the healing items you'll ever need.
+You can buy as many of them as you want
+as soon as the game properly starts and always go back for more
+and they're fairly easy to farm from enemies.
+This means that if they master the timing to heal in battle,
+they're practically unkillable
+and can't be worn down by attrition as they progress to a level.
+As long as no one encounter can fully drain your life bar,
+which can still happen a lot,
+Demon's Souls' difficulty is reduced quite a bit
+from where it was probably meant to be.
+You technically have access to an infama-
+Infama?
+Infinite amount of life as long as you use it properly.
+Dark Souls replaced this health system entirely with the Estus Flask,
+a healing item which you couldn't buy more of.
+You had a limited amount of uses
+which recharged at bonfires or when you died.
+Yes, I know you can also get health back by using a humanity,
+but doing that burns such a rare resource
+that I couldn't really regard it as a source of healing
+unless you're one of those good-at-Dark-Souls people I've heard so much about.
+This meant you had a finite amount of life at any given time.
+This also means attrition becomes a factor.
+Damage you take is health you aren't getting back
+until you reach a place that restores Estus.
+This can make the game more interesting and more risky.
+It also means that there's a net maximum amount of times
+you can possibly be hit by enemies or a boss in a single run.
+In this regard, Dark Souls is tremendously more difficult,
+but also more satisfying because of the new element of challenge it adds.
+However, you're still left basically prone while you do it,
+and it still takes just long enough that getting killed
+while trying to heal is an annoying and common possibility.
+And it means if you're on a run to a boss
+and you take a certain amount of damage,
+you feel like you're already doomed on this run
+because there's no way you can get past them
+with that little health remaining,
+so you have to go back or just go on a doomed run
+and die and come back again.
+And that can kind of wear down your ability
+to keep playing the game and enjoy it,
+which is a big deal in games.
+Dark Souls 2, in my opinion, fixes some of this pretty well.
+Firstly, it takes an age to drink again,
+making it even more deliberate than the Demon's Souls one,
+and your health actually recovers over a very short amount of time
+instead of instantaneously.
+This forces the player to not even consider healing
+until they're free and clear
+because there's no chance they'll just get the Estus to their lips
+before getting hit and stay alive.
+Ironically, by being even more slow and deliberate,
+it further disencourages the thing that causes annoyance
+when it doesn't work, dying while trying to heal.
+However, Dark Souls 2 also supplements this with life gems.
+Life gems are a little bit like the grass,
+down to being purchasable and coming in numerous sizes.
+They take a while to use, and they heal over time very slowly.
+This is genius.
+You see, attrition isn't necessarily a fun kind of challenge.
+It can create a nice feeling
+and a risk that you'll be worn down too far to make it anywhere,
+but you know what isn't fun?
+Knowing you're definitely fucked
+because you'll most likely lose the remaining health you have
+before you get anywhere new.
+Knowing you're at the limit your healing can possibly take you
+with your abilities and you're just not good enough
+and you're gonna have to keep playing this area over and over
+or go farming and level up or something.
+By bringing back theoretically infinite health
+but making it heal very slowly,
+the creators have introduced a way to get around this annoyance
+without making the player feel totally invincible.
+They also have tactical uses.
+Since they take a while to use and are slow,
+they're risky to use in fights,
+but if you're good at not immediately dying,
+they still heal you,
+so you can run out of Estus and still have access to a source of healing
+that requires some skill to use effectively,
+which is kind of cool and smart.
+They're also useful for if you expect to take damage
+but don't think you'll be able to stop and heal later.
+In some boss fights, using a gem when you get the chance
+and then attacking means you'll get some health back
+even if you get hit a bit later.
+This is frankly a welcome addition.
+I've heard the criticism that the addition of life gems
+utterly destroys the delicate balance of the entire game
+and it's erased the majesty of the Estus flask
+and its purposeful limitation of a player's maximum amount of mistakes.
+This, in a sense, is an accurate analysis.
+The balance is shifted.
+However, it's shifted in favor of the player
+in a way that's overall positive for the experience.
+Bloodborne probably does the best with its use of healing.
+Blood vials are simultaneously infinite and finite.
+You can buy a bunch quite easily
+but only have 20 on hand at any time.
+The more you find in a level are immediately usable
+if you had less than 20 on you,
+so you can use more than 20 if you use one in a fight
+and then one drops from a corpse later,
+which happens fairly often.
+The healing is also quicker
+and you have a lot of control over movement while you do it.
+This is good.
+I just talked about how good it was being made tactical
+the way it was in 2,
+but ultimately, as a mechanic,
+I think it's more enjoyable to be able to heal quickly
+because dying while healing
+or dying because you were unable to heal
+because tactically it would have killed you
+is just never fun or interesting.
+If I was to grade all four games' healing methods,
+I would put Dark Souls last here
+because I don't personally think its method of attrition
+is all that fun when it comes down to it
+and the precise amount of time it takes to heal
+and the way it immobilizes you
+makes it always a tantalizing risk
+you think you might just be able to make,
+which means more players die
+trying to heal in this game than any other.
+I think Dark Souls 2 is the second best behind Bloodborne
+and, hey, that's pretty good.
+♪♪
+One criticism I see made a lot about Dark Souls 2
+is that a lot of the bosses and also a lot of enemies
+are what amounts to humanoid people in armor.
+This isn't just an aesthetic complaint.
+It's also a problem in the sense
+that a lot of the fights with enemies
+amount to learning how they swing a weapon,
+how to get past their weapon,
+and which direction their swings go.
+And since there's a finite amount of ways
+a humanoid can swing a sword,
+it's possible to even start confusing enemies
+and their attacks for each other.
+A lot of bosses are very similar,
+unlike the previous game,
+which has more of a variety of unique bosses
+like the gaping dragon or Nito
+or Seath the Scaleless breaking up the monotony.
+And indeed, there are quite a lot of humanoid opponents
+who fight with swords in what amounts to a duel.
+But here's the thing.
+I'm gonna make a different argument here.
+I'm not gonna argue that the bosses
+are all sufficiently different,
+which, in my opinion, they are,
+or that there are plenty of different kinds of boss fight
+breaking up the monotony,
+which there is,
+but instead I'm going to play the wild card
+and be the needless contrarian that people say I am.
+I'm gonna argue in favor of dudes in armor.
+I think the best kinds of fight in games
+are against enemies on roughly equal footing
+with the player.
+All games, not just Souls games.
+There's something viscerally satisfying
+about facing off with someone
+making use of the same skill set as you.
+The best boss fights in Devil May Cry
+are the fights against Vergil or Dante
+or another human-sized opponent
+with another ridiculous sword.
+The best boss fight in God Hand
+and also gaming history
+is against Azel, who has the Devil Hand, and so on.
+It's far more compelling to fight a person
+making use of skills you yourself could be using
+than someone with far more powers than you
+or who is an incomprehensible mess.
+It feels good, to put it simply.
+Dark Souls had a couple of regular enemies in the game
+who scratched this itch for me,
+like, uh, the NPC invasions,
+like Manny to Mildred,
+uh, Lautrec,
+the crestfallen guy when he goes hollow,
+or Oscar when you return to the asylum,
+or Rickard.
+These kinds of fight are the best
+and most memorable.
+In fact, I just remember those offhand.
+I didn't even put those in the script.
+I just decided to list them
+because I just know them all.
+PvP is so fun in these games
+for this exact reason.
+You're fighting people on the same footing as you
+with access to the same resources.
+It's just great.
+It's- it's a puzzle
+where you all pick your poison
+and then you fight to see who is poisoned the most.
+Um...
+But in Dark Souls, the only boss fight
+that comes really close to getting this right
+is Artorias in the DLC.
+Ornstein and S-
+mmm...
+kind of did it,
+but you were too busy dealing with the other guy,
+uh,
+so you could never really focus
+on the aspect of the fight
+that's like this straightforward, cool duel, you know?
+And then they get really big
+and then it becomes a very different kind of thing.
+Artorias is a really, really good fight.
+He's not exactly on equal footing with you.
+He's presented as a very strong person,
+larger than life, literally,
+corrupted by evil,
+but he's a brilliant fight
+because he never comes off as ridiculous.
+He even dodges and rolls the way a person would.
+You get this fantastic mix of outsmarting
+a fellow consciousness
+trying to beat you in a straight fight,
+Before Dark Souls 2,
+I would describe Knight Artorias
+as the platonic ideal
+of a Dark Souls boss fight.
+It's the most pared-down, purified form
+of single combat
+with another swordsman in the Souls games,
+and that's really, to me,
+the best thing.
+Dark Souls 2 has a lot more of this kind of fight
+than the previous two games
+and more than Bloodborne also,
+and this, I must stress for me,
+this is my opinion,
+is a gift.
+The pursuer, the lost sinner,
+the looking-glass knight,
+Velstadt,
+and in the DLCs, the Fume Knight
+and Sir Valon and the Burnt Ivory King.
+In my opinion,
+these fights are what the Souls games' mechanics
+are vessels for.
+This is what the game should be built around.
+There's even the old Dragon Slayer,
+a version of the Ornstein and Smurfs fight
+that indulges in this aspect
+more than fighting two people at once could do.
+I remember telling my friends
+that I'd wished there'd been a one-on-one fight
+with a character like Ornstein,
+perhaps as a mini-boss later on,
+and those friends played the PS3 version of 2
+while I waited for it to come out on PC.
+The first thing they did when it came out
+was tell me where to go for a cool surprise over Skype,
+and I got the fight I'd wanted from the previous game.
+I'm sure people complained
+that this was a needless rehash or fan pandering,
+but it was literally a fight
+I specifically thought would have been fun
+and missed not having,
+and I'm glad someone working on Dark Souls 2
+agreed with me.
+Honestly, when I saw early critics saying,
+Dark Souls 2 is pretty great,
+but you fight a lot of dudes in armor,
+I remember immediately thinking,
+hell, yes.
+There are other kinds of fight,
+and it's good to have them,
+but they are the best.
+Perhaps one of the worst things
+about Demon's Souls and Dark Souls 1
+is they didn't properly master this idea yet.
+Demon's Souls had the penetrator, don't laugh,
+and some decent NPC fights like Garl Vinland,
+the actual final boss of the Valley of Defilement.
+I mentioned the ones Dark Souls had,
+but 2 elevated these fights to their proper place
+as the core kind of fight you did the most,
+and I love it for that.
+The Heide Knights are criminally underrated.
+They deliberately look and fight very differently
+from the Black Knights of Dark Souls 1,
+and if you let them get up,
+which you should do,
+because why else are you attacking them?
+They sit down and do nothing on purpose
+until you want to fight them.
+The fight is usually pretty cool.
+They kill me a lot,
+so I can't show me beating them here really easily,
+which would have been nice footage to have,
+but, um...
+The narrative critics create
+when they talk about dudes in armor
+is that the developers ran out of ideas,
+but with just a slight change in perspective,
+it becomes clear that the developers
+had a really good new idea,
+which was to use more of a kind of fight
+that was vastly underutilized in previous games
+and worked really well.
+Does that really count as a new idea?
+Yeah, sure.
+Well, I'm gonna claim it is, at least,
+and you can't stop me.
+It's a fundamental change in the makeup of the game,
+and in my opinion, it's for the better.
+That's not to say that's the only kind of boss fight, though.
+Like in Dark Souls,
+there are plenty of different kinds of fight
+breaking up the monotony
+against bigger bosses like the Last Giant.
+Uh, there's unique, one-of-a-kind fights
+like the one with Scorpioness Nagica
+who visually resembles Quelaag
+but is a very different kind of fight,
+but there's all kinds.
+There's the Royal Rat Vanguard,
+there's the Congregation,
+there's the Covetous Demon,
+there's, uh, Mr. Chariot,
+and there's the Dark Lurker
+if you couldn't be bothered to go do all the stuff
+that you need to do to fight him,
+which I couldn't,
+so I didn't get any footage of it.
+I've also heard the criticism
+that there are too many bosses
+that consist of fights with large groups,
+and this is proof of the game's poor design.
+Similar problems extend to other boss fights,
+which seem to follow the mantra,
+if you can't make it good,
+make it difficult by adding more stuff.
+This is Matthew Matosis.
+His Dark Souls 2 critique video came out
+just over a month after the release of the game
+in April 2014.
+It blew up somewhat on the internet,
+to the point that a lot of the times
+I see someone in person or online
+talking about Dark Souls 2,
+they're often using criticisms
+that can be heard in this video,
+and many who don't like the game
+will cite it as a source for their explanation of why.
+In fact, when asking viewers for criticisms
+that they would want to see me respond to,
+the bulk of them linked this video,
+and most of the people that didn't
+did so because they knew for certain
+I would have already seen this one by now.
+We're dealing with a piece of criticism
+that had, in its own way,
+quite a fundamental impact
+on discourse surrounding the game.
+The arguments got copied, repeated, referenced,
+and in many ways, I think,
+the prevailing dismissive attitudes
+towards the game's quality
+started to crystallize as a result of this video.
+That's not to say the video is literally to blame
+for negativity towards Dark Souls 2,
+but regardless, it is necessary
+that this critique be defeated and destroyed at all costs.
+The mechanics of the Souls games
+are built for one-on-one engagements
+thanks to its slow attack animations
+which are uninterruptible once they start,
+and a lock-on camera
+which focuses heavily on a single foe.
+This early criticism is an interesting one.
+The claim is that adding more enemies into the game
+and also into some boss fights
+is a lazy attempt to increase difficulty,
+and that this is bad
+because Souls games are specifically designed
+to work best against single-enemy encounters.
+Matthew Matosis is entitled to his opinion,
+and I respect that,
+but here's why this is a lie.
+There are absolutely ways of dealing
+with larger numbers of crowds.
+It just requires different behavior
+than how you normally deal with enemies
+when there's just one or two.
+Crowd control is a different skill
+than the one that you're normally required to test,
+but it's one that's worth testing
+and really isn't in previous games.
+I remember God Hand being criticized
+for having too many enemies for an engine
+that was claimed to only really work best
+in one-on-one fights,
+but you can look up people playing it
+and see there's plenty of crowd control,
+but not if you always play the way you do
+against just one opponent at a time.
+Take the prowling Magus fight, for example.
+If you want to kill one of the crawling undead
+littering this fight,
+your eyes need to be taken off the casters
+at the back in order to lock on.
+Ah, you see, here's your problem.
+Matthew makes the supposedly obvious criticism
+that locking on makes it hard to see your enemy
+so the fight isn't well-designed,
+or fights against groups are inherently bad
+in this type of game or something,
+but why would you lock on?
+You see, the Dark Souls series has this amazing feature
+where, using the right stick,
+you can rotate the camera
+to show anything you want on the screen.
+You can manually control the camera yourself.
+When you think about it,
+his argument actually is that the lock-on system
+works best against single enemies,
+and he's right about that,
+but that's why you don't lock on
+in a fight against multiple enemies.
+Arguably, the main lesson you're taught
+as early on as the first real areas
+is that enemies are attacking from all over the place
+and you ought to keep your wits about you
+more than just pressing the button
+that focuses on one person and hoping for the best.
+This is a game that prides itself
+on expecting you to look where you're going,
+even as far back as the first game
+with the guy hiding behind the doorway
+and people hiding in corners
+even all the way over in Bloodborne.
+The lock-on system is a tool to be utilized carefully,
+just like every other ability and mechanic.
+Matt found the lock-on function was bad in this scenario
+and concluded that it was a flaw with the game.
+The challenge in this boss fight, like with the rats,
+is to avoid getting swarmed and put into a bad situation
+to keep track of yourself and navigate carefully.
+If you locked directly onto one of the enemies,
+you would have a problem,
+and that means you don't do that.
+Dark Souls II uses fights like this
+and a generally different sort of level design
+to teach you that in this world,
+sometimes focusing down on a specific individual is a mistake.
+Matthew didn't like Dark Souls II as much
+because he didn't learn this lesson
+and kept trying to play it the exact way
+he played the previous two.
+He also invokes the time you fight against the two Dragon Riders,
+and there's a cute little clip I want to show
+where he locks onto one
+and then has to angle himself precisely
+so he can see the two of them.
+The twin Dragon Riders are another example of this.
+You want to avoid attacks from both of them
+while periodically damaging one of them,
+but in order to do so, you need to lock onto one
+and position yourself in such a way
+so you can see the other.
+This clip is meant to show how bad the lock-on system is
+in two-person fights
+and therefore how poorly designed this fight is
+for putting this guy all the way over there,
+but the thing is,
+you could just not hit the lock-on button.
+You could just not do that.
+You can aim the camera wherever you want.
+You can still dodge and attack.
+You know...
+["clicking"]
+I looked back over the footage of me doing this fight
+and I didn't lock on at all
+until one of them was dead
+and it became a good idea to completely focus on one enemy.
+This naturally occurred to me
+because this is how Dark Souls 2 teaches you to play.
+I honestly think the mechanics
+and the way they're utilized in the first two games
+has gotten so ingrained in people who liked those two
+that it makes them play weirdly
+in games that work slightly differently
+or have different kinds of challenge
+and this strikes them as a flaw.
+I got some criticism on my last video
+that it's wrong to say it's possible to play a game wrong
+and there's a lot of ways of playing Dark Souls
+and they're all equally valid
+if that's how the player wants to do it
+and, yeah, kinda,
+but all I can say is I can definitely see
+why Matthew Matosis and other critics
+had a less good time with Dark Souls 2
+if this is how they approached it.
+This looks a whole lot like playing the game wrong
+and blaming the game for it.
+I still do really bad in this fight, though.
+Notice yourself.
+Just cut away from this quicker in the final edit.
+Also, we need to edit out the part where I say this, please.
+Matthew is still trying to use the lock-on mechanic in fights
+even as late as the Watcher and Defender bosses
+and he's still using a shield.
+Aw, bless.
+Someone really liked the previous games
+and tried real hard not to unlearn what they learned there.
+This kind of criticism sheds light on the critical perspective
+that approached the game in the first place.
+Players who went into the game expecting it to be exactly like the previous ones
+inevitably did badly in these sections
+and seemingly blamed the game for it.
+Joseph Anderson, a critic who put out three videos
+about Dark Souls in late 2015
+and was much less negative about the game,
+similarly doesn't use the lock-on feature
+in many of the fights he shows in his video
+and, like me, he fought most of them without using a shield either.
+In the same manner that shields are fine,
+but not if they engender passivity,
+the lock-on system is a great mechanic
+that can accidentally engender a reliance upon it.
+Also, Monster Hunter, a series many regard as very similar in a lot of ways,
+has basically no lock-on functionality whatsoever
+and the subhuman criminals who love Monster Hunter
+seem to do just fine using it to see the enemies however they want.
+That's not to say Monster Hunter wouldn't benefit from having one,
+but if it did have one,
+it would probably be something to use sparingly,
+much like in Dark Souls 2.
+Also, it's worth remembering that this type of boss
+has been present in Souls games for a long time.
+You might remember, I don't know, the Phalanx,
+uh, the first real boss in Demon's Souls.
+It's a fight about balancing the interplay between the actual opponent
+and the numerous creatures that break off from it and act independently,
+threatening to surround and overwhelm you.
+Then, right after, there's the Tower Knight boss fight.
+Jeez, the first two bosses in the first game in the series
+and both of the muse mechanics Matthew Matosis concluded
+are inherently antithetical to the core of the Souls games.
+What, did the developers not realize how their game worked?
+If I look onto the Archer, I can't see the Tower Knight unless I stand here.
+I can't use the function designed for focusing on one person
+and see everyone else.
+What, did the B-team design this game?
+Ahahahahahahaha
+[(static)]
+Attacks also lock on to an unnecessary degree.
+When a boss goes to do an overhead attack,
+it will usually track the player up until the very last moment before impact.
+When Matthew Matosis makes this comment,
+in order to make an example of a superior fight,
+he cuts to footage of the Adjudicator,
+the...least memorable fight in the entire Souls series?
+I forget the Adjudicator exists every time I play Demon's Souls without fail,
+and then I go,
+oh yeah, this guy,
+and I kill him on the first try and forget about him again.
+His attacks go for where you used to be 10 minutes ago.
+No aspect of this boss should be the model for how fights should work in Souls games.
+The simple fact is that in previous entries in the series,
+circle strafing enemies has been an easy way to cheese a lot of the game.
+Because the enemies focus in on you more,
+guess what?
+You actually have to dodge some of their attacks now,
+using timing and knowledge of the right direction to move
+based on judging how the enemy's moving.
+A lot of the fights Mr. Matosis, if that is his real name,
+uses to make examples of this apparent horrific problem
+actually show him mistiming a dodge,
+or dodging in the direction of the swing.
+I don't think this demonstrates what he thinks it's demonstrating.
+Bosses all over the series lock right onto you as their attack goes off.
+This happens because on some level,
+the game is about learning how and when to dodge
+instead of just spinning a circle around someone so they can never hit you.
+The amount of lock-on enemies have in this game
+is only a problem if you don't know how to dodge attacks.
+I honestly think this footage speaks for itself.
+Here we're getting into the bedrock of some fundamental differences
+in the way Dark Souls 2 is made,
+and what it achieves versus the previous game's decisions,
+both in terms of gameplay and in terms of storytelling.
+Dark Souls is commonly lauded for being one large interconnected world.
+I criticized this perception a little in the Bloodborne video,
+and because I'm a hack, I'm gonna rehash that here.
+Dark Souls' interconnectedness is fun
+and creates an interesting sense of being in a real place,
+and it's cool you can find yourself in a real world
+and creates an interesting sense of being in a real place,
+and it's cool you can find ways of getting from one place to another
+and nice little shortcuts,
+but it also weakens the game in a lot of ways.
+Okay, I know that's contentious.
+I'm not stupid. Hear me out here.
+It's technically a good thing
+that the areas lead across and into each other so much.
+Blighttown, for example, is made more interesting
+by the fact it connects both the Depths
+and the Valley of Drakes and the Great Hollow,
+and it leads to Quelaag's domain
+and later is used to access the Demon Ruins.
+However, let's think for a moment
+about level design and encounter design.
+When you're designing a world that can be traversed across
+to all these different places or even simply back and forth,
+in this case, climbing out of Blighttown
+once you first kill Quelaag,
+you're designing a level that makes compromises
+to be usable in all these ways at once.
+No enemy encounter can be designed
+to play really well in one direction
+because you aren't,
+and encounters all have to compensate
+for the fact you're gonna be coming back through it the other way.
+In fact, at a certain point,
+it becomes clear the developers realized
+they'd forgotten to fully compensate for this.
+The blow dart guys who inflict Toxic on you
+are basically unavoidable if you're trying to get out
+because of the inevitable ladder climbing you have to do.
+So they made them not respawn,
+so you only ever have to kill them once,
+and therefore, on your way back out,
+you probably don't have to deal with them at all
+because you killed them all.
+But this also severely compromises
+the challenge of going down
+because it means each blow dart guy
+only ever has to be dealt with once.
+You can basically just run to them,
+die killing them,
+and then carry on in a now much easier area.
+By having to account for the fact
+you're gonna have to come back the other way,
+the fun and challenge of going through it
+either way is hamstrung.
+This is not great design.
+You can even see a more ideal version of Blighttown
+in Anor Londo.
+You can only ever fight these enemies this one way,
+and that means this one way's really interesting.
+You know?
+This section's great.
+There's no way to come back the way you came,
+but there's also no reason to
+because once Anor Londo is beaten,
+you unlock the ability to warp between bonfires,
+seemingly an acknowledgment that this area
+makes no sense going through it backwards to get out.
+Plus, at this point in the game,
+the developers had definitely realized
+that running back and forth between areas
+is actually really tedious.
+But because warping wasn't really fully fleshed out
+in Dark Souls 1,
+there's an awful lot of needless walking.
+Walking back to bonfires you already lit
+but can't warp to,
+walking through long paths,
+or walking through still long
+but slightly shorter paths
+because this one's technically a shortcut,
+and then you die and you have to do it again.
+It's not good.
+It's not the best it could be.
+I just want to fight Artorias again.
+It's a cool fight,
+but there's, like, five minutes of walking
+every single time,
+even with this shortcut.
+And guess what?
+If you didn't find the bonfire at the Daughter of Chaos,
+which, by the way, why would you?
+Because it's a secret hidden behind an illusionary wall.
+There's no nearby warpable bonfire
+for beating the Demon Ruins.
+So, when it's time to go do that bit,
+guess what?
+It's time to go all the way back
+through Blighttown again.
+Yaaaaaay!
+Blighttown was so busy leading down
+into Quelaag's Domain and the Demon Ruins
+and the Great Hollow,
+leading across into the Valley of Drakes,
+and leading up into the depths
+and its own arse
+that it forgot to have particularly good gameplay
+or to have any frames.
+Hey, check it out.
+I didn't even need to invoke Dark Souls 2
+to explain why Dark Souls 1's interconnectedness
+is bad in a lot of cases,
+but I guess I should
+since I'm talking about Dark Souls 2.
+Dark Souls 2's version of Blighttown,
+the Gutter,
+is way better designed
+because it's built to be journeyed through once
+in one direction.
+Once you're in the Gutter,
+it's literally impossible to climb out, actually.
+You would have to warp,
+which you can now mercifully do
+at the beginning of the game
+and between any bonfire.
+It's almost like this game
+was designed to be played by people
+who don't want to fucking
+run around in circles for hours,
+which is an improvement,
+I would say, personally.
+There's a lot of sheer drops
+and daring leaps.
+The enemies can be designed purely
+for this one direction
+and no other bullshit,
+like the beetles,
+which one direction are better than.
+Enemies only stop respawning
+if you've killed them so many times,
+it's clear they're not really a problem for you
+and you just need to get back to later bits
+instead of immediately
+never respawning ever again
+because the developers knew
+they were a bit rubbish.
+The treatment of these areas in particular
+is emblematic—
+I love that word—
+of the game's overall approaches to design
+and I'm not gonna tell you which one is better,
+but it's obvious.
+So far, I've only talked about world design
+in terms of the ensuing level design,
+but that's not the only thing impacted by that.
+There's also an aesthetic component
+and this, I think, is an aspect
+that most exemplifies the difference
+in concerns and goals
+between the first two Dark Souls games in particular.
+Dark Souls 1's world has, let's call it,
+a physical coherency to it.
+If you're standing in a high place
+and look in a direction,
+you will see a place you end up going
+later in the game.
+The world of Lordran feels like
+a physically consistent, objective world.
+Here's a 3D model of the Dark Souls 1 world.
+Apart from a few very clearly separated sections,
+it all physically ties together,
+which is pretty cool.
+Meanwhile, in Dark Souls 2,
+this is far from the case.
+Plenty of places don't make visual sense.
+You can get to the top of a tower
+you physically see in the distance
+and you can see how tall it is,
+but then at the tippy top,
+you find an elevator
+and it takes you further up
+into nowhere
+and you emerge in a lava land
+that couldn't possibly exist.
+Theoretically, you could dig
+a deep enough hole in the ground
+and all the lava would just flow out
+into the world below and kill everyone.
+Remember the compiled 3D model
+of Dark Souls 1?
+Here's the model for Dark Souls 2.
+["Dark Souls II"-style music playing in the background,
+with a fast-paced drum beat,
+and a fast-paced drum beat with a fast-paced drum beat
+and a fast-paced drum beat with a fast-paced drum beat
+and a fast-paced drum beat with a fast-paced drum beat
+and a fast-paced drum beat with a fast-paced drum beat
+It's just they're in the same place.
+The universe of Dark Souls 2
+is a nonsensical, free-associative nightmare
+in which you find yourself in impossible places,
+architecture giving way to other worlds
+without warning,
+the world itself falling apart,
+becoming physically untrustworthy.
+It's an Overlook Hotel-style monster.
+People have criticized the game for being like this,
+but I have a question.
+How is this a bad thing?
+The sense of mystery this creates was really compelling to me
+as I worked my way through the world.
+I never knew what I was going to see next
+because I literally couldn't see it coming.
+Something I enjoyed about Dark Souls 1
+was this idea that time itself was beginning to fall apart.
+You encountered the spirits of those who came before you and died,
+like you could find their armor on presumably their corpses,
+and in the DLC, you literally go back in time.
+The Age of Fire was ending,
+and reality, on some level, was ending with it.
+Dark Souls 2 gets to constantly benefit
+not only from linearity leading to specific visuals
+along with better-planned encounters,
+but it's pushed up even further by embracing inconsistency.
+The result is that you're constantly parading through places
+that feel like they're out of a fantasy film
+or an 80s album cover.
+Take, for example, the Dragon Shrine right here.
+You get this majestic moment of a secret sky castle.
+I say that again.
+Secret sky castle being revealed to you for the first time,
+completely hidden from visibility
+until you go up this one elevator.
+You get this ridiculously epic, in the traditional sense,
+grandiose shot of a majestic, ornate shrine
+circled by a dozen dragons
+revealing itself to you as you go through a passage.
+You can't see the shrine from the ground,
+and you can't see any landmarks on the ground below from here.
+Concrete cohesiveness is thrown out in favor of a puzzling,
+surprising, and beautiful incohesiveness.
+We're dealing with two contrasting methods of showing a fantasy world.
+I say contrasting because, in my opinion,
+neither is inherently superior.
+The trouble, I think, is that some either assume this
+because the first did,
+or simply wanted what the first had.
+And that's not quite the same as judging something on its own merits,
+but I can still see the point there.
+["Dark Souls II"]
+I've heard the complaint that Dark Souls II is linear.
+This is true.
+Many critics then go on to say that this makes it worse than Dark Souls,
+which was non-linear.
+This is treason, and I'll see you in hell.
+As we just established, Dark Souls is interconnected.
+It is not non-linear.
+This is not semantics. This is a big deal.
+I swear to God.
+You have clear-cut objectives that you have to complete in a set order.
+You can technically kill Quelaag first before the bell gargoyles.
+You can also ignore the depths if you want to.
+But you have to kill these two bosses,
+you have to ring two bells,
+you have to do Sen's Fortress,
+and then you do Anor Londo,
+and then you have to collect four Lord Souls to progress,
+which you can do in any order if you want,
+but you have to do all of them.
+This isn't non-linear.
+This is a choice of which linear path you take first.
+This sense of linearity is disguised by the interconnectedness
+and the sense of having to run back and forth through a world
+because the warps weren't fully fleshed out,
+but that's not non-linearity.
+That's actually kind of bad design, uh, masking linearity.
+At least in Dark Souls II,
+you don't technically need to beat all four main bosses
+to unlock the entrance to Drangleic.
+You can just get a lot of souls.
+That's actually way more of an alternative
+than any part of Dark Souls I.
+For a hugely entertaining comparison,
+check out the two AGDQ speedruns of the two games.
+Oh, I started with a Master Key so I can kill the two bosses
+I have no choice but to kill in a slightly different order
+if I want to,
+but I'm, uh, I'm not going to
+because it turns out the intended way was faster anyway.
+Fuck you! I used Bonfire Aesthetics
+to kill the Rotten four times
+and skip three quarters of the main fucking game.
+See you in shit, Dark Souls!
+Also, not only could Dark Souls have easily been less linear
+if it wanted to,
+the game fucking contrives itself
+to ensure that it isn't with needless bullshit.
+Do you want to beat Seath the Skeletalist
+before putting the Lordvessel on the thing?
+Nice try, idiot.
+Impassable magic fog.
+Oh, you just beat Quelaag?
+I want to see what's going on in the obvious path past her
+that it makes sense to go down
+instead of climbing all the way back out immediately.
+Well, fuck you!
+We put some fucking mist here
+because we arbitrarily decided
+you don't get to do this stuff.
+You got to do the other things first.
+See you in 10 to 15 hours, you worthless piss hound.
+Do you want to see what Neato's up to?
+Tune in next time when—
+Go fuck yourself, idiot!
+Do you want to kill the four kings before doing anything else?
+Well, guess what?
+You can.
+You can get their Lord Soul first thing if you want to.
+You just need Artorias' ring from Sif.
+Oh, my goodness.
+There's so much freedom in these games.
+A similar mechanic is used in Dark Souls II,
+but it's with doors that are off the beaten path,
+do not block the most obvious form of progress,
+and you might even forget about them
+until you get the king's ring
+and realize that's the symbol of the king
+they were talking about,
+and it's like you figured out a mystery
+and you get to watch an ancient fantasy door
+slowly unlock when you put it on.
+I like ancient fantasy doors.
+They're—they're a thing that I'm into.
+That sounds really weird, but I mean that.
+I like cool doors.
+Shut up.
+They're nice.
+It's a nice door!
+On top of all of that,
+Dark Souls II has a very different kind of design overall
+with an enhanced focus on player freedom
+in the actual fights,
+which are the things that you spend
+most of the time doing in these games.
+Demon's Souls and Dark Souls 1's encounters
+are, in a sense, kind of restrictive.
+Each area and encounter,
+by which I mean distinguishable fight
+between a group in the game,
+exists to test the player in some specific way.
+The Tower Knight exists to test
+how you deal with an encounter
+with one big slow enemy
+supplemented by a multitude of ranged attackers.
+The player can use any items
+they have at their disposal to deal with this—
+magic, swords, shields, items, or what have you—
+but crucially, the same skill is being tested
+no matter what,
+namely, how you deal with this one situation.
+So no matter what your loadout was—
+you know, axe, big sword, daggers, magic, arrows—
+you're either dodging a ridiculous amount of arrows
+to fight this guy,
+or more likely taking out all the archers one by one
+with whatever you happen to have on you
+and then engaging the knight on his own.
+The archers on the walls of Anor Londo
+exist to test how you deal with
+walking down a straight path
+with attacks that can easily knock you off.
+No matter what sort of character you are,
+the same thing is being tested no matter what,
+and you have to employ the same skills
+to get past it no matter what.
+You're literally walking a straight, linear path.
+A lot of the first two Souls games
+are based on putting you in a specific place,
+then throwing a specific thing at you
+and making you deal with it the way they want you to do.
+In Sen's Fortress,
+you're walking between the same sets of traps
+and negotiating the same fortress in the same way
+no matter what character you built.
+In all of these examples,
+the focus is on an enclosed space
+so you can be forced into dealing with the scenario
+the developers want you to engage with.
+Ironically, despite being supposedly way more linear,
+Dark Souls 2 is generally designed
+in a much more free, open way
+in regards to its encounters.
+Encounters take place in a much wider open area
+with a focus on having more space
+to navigate as you see fit.
+Pair ogs on play.
+In this room, there are several knights.
+The knights are very difficult to face as a bunched-up group,
+but if you want, you can lead them out onto the battlements
+where they're unable to attack all at once.
+However, there's a risk of falling off
+and there's a guy in the distance shooting arrows at you.
+The player is encouraged to know where they want to fight
+and make decisions about how to engage in the combat
+beyond knowing when to dodge
+in fights against more manageable amounts of enemies.
+This approach generally extends
+throughout the rest of the game.
+This increases player freedom
+by letting them decide precisely how and where
+to pitch their battles,
+and mobility and positioning
+become much more important aspects of the game.
+Combat is much more free form as a result.
+Archers in the previous games are, let's call it, forceful.
+They're put there, and you have no choice
+but to deal with them.
+They're usually supplementing a different enemy,
+so you either have to deal with them
+while the archers are shooting at you,
+or you have to take time out before that fight
+just to deal with the archers
+before resuming it unhindered.
+And if you die, you have to take the time out
+to deal with the archers yet again,
+along with walking all the way back
+through a gauntlet of enemies,
+which, in these games, always respawn.
+God, that sounds like fun, doesn't it?
+I wonder why, statistically,
+so many people stop playing here.
+I wonder.
+I-I...
+Maybe it's the player's fault.
+Ranged attackers in Dark Souls II
+are tremendously less annoying.
+Take, for example, the ones in the encounter
+I already described.
+The player has the option of engaging the enemy
+in places the archer can't attack you at all,
+but fighting in that area
+has its own particular trade-offs.
+The player gets to decide
+how to deal with the archers
+instead of basically having no choice
+but to continuously dodge them
+because this is THE place
+this fight is supposed to happen,
+or painstakingly take them out
+every time you want to do the fight.
+There's archers and other kinds of ranged attackers
+in the Forest of Fallen Giants,
+but there's now room to maneuver
+and move your enemies away from their range
+into different areas with different characteristics.
+Like I said, you get to choose
+how and where to have these fights.
+The open space is better for the clump of enemies,
+but you have to worry about the archer,
+or you can go for the ranged attackers first
+and take the risk of being overwhelmed or caught out,
+but then fight them free from that problem.
+You can chase after the archers here,
+but they'll follow you up the ladder,
+and that'll create a gauntlet,
+which you then have to avoid by jumping down
+or cutting through them.
+This fight can play out a lot of different ways
+based on how you choose to move within it,
+whereas in the previous games,
+it's mostly just you have to do this thing
+first till you'll die,
+and then you dodge the attacks
+and attack them to win,
+and honestly, Dark Souls 2's better.
+Often people have criticized this game
+for having multitudes more enemies to fight at once,
+and this is an artificial inflation of difficulty,
+but the thing is, because of Dark Souls 2's
+vastly different kind of level design,
+this is simply a different kind of challenge
+provided to the player than the previous ones,
+and it's not an insurmountable one.
+The challenge in areas with tons of dudes
+is in how you deal with tons of dudes at once.
+If you're out of position,
+you'll get displaced and destroyed by the swarm.
+Videos critical of the amount of enemies in Dark Souls 2
+will often show you contextless footage
+of their character surrounded and being ganked to death,
+and look how unfair this is,
+but what they're showing takes place
+after the point where they already messed up
+by letting themselves get utterly surrounded
+like this in the first place.
+The previous games rarely make your strategy
+when it comes to relative positioning
+as crucial as Dark Souls 2,
+but there are a couple.
+My fave is this bridge in Demon's Souls.
+Once you stand here,
+see the guys blocking the end,
+and turn around and realize
+every enemy you failed to kill on the way here
+is now funneling down the other end,
+you're struck with the beautifully tense realization
+that if you don't do something now,
+you're already dead.
+But many of the main areas and boss fights in Dark Souls 2
+draw this aspect into critical focus
+and in a much more freeform way,
+where instead of simply being trapped in a small area,
+you're in a large area
+and have to deal with a group
+that's actively threatening to surround you.
+Instead of the passive challenge of a physical choke point,
+the fight is a reactive challenge
+in the form of a moving set of enemies
+that can easily form a choke point
+with their own movements,
+which you can then deal with however you like.
+Fights against groups can play out totally differently
+based on how you fight in them,
+and that's just really cool.
+When a friend was playing through Dark Souls 1
+and asking for help,
+I would just tell them literally the thing
+they were meant to do to get past that area,
+because usually there was one main way,
+and if you didn't know what it was,
+it would kill you.
+In Dark Souls 2,
+the same friend never had to ask for advice
+because they were free to figure it out.
+There were other ways through
+based on what things they had with them
+and how they wanted to do that fight.
+It was a lot more interesting
+for players who aren't already mega fans
+of the first Dark Souls game
+and what it specifically did with fights.
+I think people who want to be critical of Dark Souls 2
+can look at the amount of enemies and go,
+ah, they just threw more in,
+but the entire design of the game
+is almost fundamentally different in so many ways
+that I really don't feel like that's an accurate comparison.
+The Shrine of Amarna has a ton of magic users,
+but they're in an area where firing back at them
+is finally doable,
+unlike the archers in the Tower Knight fight
+or the Demon fight,
+and you can use magic or arrows
+based on what you have with you.
+Dodging them is trivial
+because you can see the attacks coming
+far more than a bunch of tiny arrows,
+and there's plenty of cover you can utilize
+in various different ways
+so you can fight enemies
+while not in the way of magic if you want to.
+The final run to the boss is famously very tough,
+but this is a fairly late game area
+in a Dark Souls game.
+It being hard is kind of the thing
+that you paid to do.
+Also, I just summoned for it.
+It's okay. I don't have a problem with it.
+They usually die during the fight,
+and that makes it interesting
+because it's like you take casualties
+and then you carry on.
+I like it.
+I like summoning in these games.
+There's a bunch of purists out there
+who are like,
+I never summon for any fights
+because I want to be the best.
+I want to handle them all.
+I mean, sure.
+Yeah, good for you.
+I'm sure it feels tremendously good,
+and it must be really annoying
+that there are fights
+that you really, really should summon for,
+but I like having friends
+who join me and do stuff.
+I like that.
+Speaking of having friends,
+Dark Souls 2 lets you have friends.
+There are even rings your character can wear
+that mean it's really easy to single out
+exactly who you want to summon.
+You can have friends in Dark Souls now.
+The network isn't going to melt down.
+You're not going to have to install
+a bunch of third-party mods
+and hope that makes it work.
+The game works now, guys.
+I don't want to be seen to be dismissive
+and just say people who die a lot
+in group encounters are just bad at it
+and their criticism is false.
+That would be really stupid
+to just say out loud like that.
+So instead, I said it over...
+10 minutes.
+♪♪
+Some of you might be familiar
+with my video about Bloodborne.
+It kinda revolutionized
+the face of game design for all time.
+Just kidding.
+But it did kind of invent a newish concept,
+at least I think it does.
+I haven't heard anyone else using it before,
+called play conditioning,
+which refers to the way a game
+leads you to play it
+with the execution of its mechanics.
+When a game kills you very easily,
+tells you to prepare to die,
+and hands you a shield,
+and teaches you how to use it,
+you're taught specific rules
+about that game's world
+and it sticks with you.
+The rest of the game experience
+could have been better served
+by a different early approach,
+but you've been quite definitively taught
+a specific one
+and it'll probably be a struggle
+to unlearn it.
+I brought this up in the video
+to make the point that Bloodborne
+quite deftly pushes the player
+into a more frenetic direction
+with a few subtle changes
+to its base mechanics
+and much wider reaching executions
+of those mechanics.
+There is still one or maybe two
+shields in the game,
+but you don't find them for so long
+that you learned not to use them.
+They exist almost to show you
+that you never really needed them.
+The shield engendered passivity.
+That wording's actually kind of genius.
+The game's own item description
+directly blames shields themselves,
+not players for not realizing
+how they're supposed to use them.
+I think that's really clever
+and also an honest admission
+that they kind of messed up
+in Dark Souls 1.
+Some folks disagreed with my comments
+that playing with a shield
+was an inherently wrong,
+slow, overly defensive,
+or boring way to play,
+and I do have to stress
+that's just my opinion.
+You can play the games however you want.
+I'm just describing how the game
+is most fun in my opinion
+and the ways I think the game
+leads people to play it
+in those more fun ways
+than the previous ones.
+While Bloodborne is undisputedly
+the master of this,
+Dark Souls 2 does a lot
+of really great things
+with play conditioning also,
+things that other critics dismiss
+as minor tweaks
+or just don't talk about at all.
+In the Bloodborne video,
+my central example was the shield,
+and we might as well start there too
+because people don't
+fucking mention this.
+Dark Souls 2 has shields.
+It has plenty of them,
+and they're fine.
+They work well,
+and you can get some very defend-y ones
+that do all the stuff you need,
+and you can buff them
+lots of different ways too,
+but here's the thing.
+Only one class
+starts with a shield at all
+in Dark Souls 2.
+In fact, that class, the warrior,
+begins life with a broken sword.
+Every other character
+starts with some semblance
+of a fighting setup.
+The knight has a broadsword,
+the swordsman has two plus one swords,
+the bandit has an axe and a bow,
+and so on.
+Starting with a shield
+handicaps you in many ways
+at the start of this game.
+It forces you to use ingenuity
+to get access to a weapon
+that's more viable.
+It's not even that great a shield.
+Other classes having no shield
+are forced to use dodging or parrying
+or make good use of what they're given.
+This is a tiny, tiny, simple change
+to just starting loadouts,
+but it's fantastic design.
+It alters the shape
+of the entire game experience.
+You're expected, told even,
+to make use of the engine
+in a vastly different way
+from how you're led to think
+you're supposed to play the first game.
+Shields you acquire early on
+don't even block 100% of damage,
+and you don't have much life,
+so blocking is treated as a last resort
+for if you really don't know
+what else to do about an attack
+or haven't learned its timing yet.
+Dark Souls 2 is the first game in the series
+where you started getting players
+who were more casually walking around
+without a shield at all,
+preferring two-handing
+or the new power stance
+added for dual-wielding characters.
+By the time you reach shields
+that actually block lots of damage
+the way early shields did in the first game,
+you've employed a level of skill
+getting to them that means using them
+would be a waste of a good hand
+you could be keeping another weapon in
+or some magic.
+Dodging like this would have seemed
+like a needless, risky waste of time
+to the old me if I had a shield
+and could block the damage perfectly well,
+but it would have been so slow.
+You don't need Dark Souls 2
+to teach you to play this way, obviously.
+You can figure it out
+if you do a lot of practicing
+or look up a lot of YouTube videos
+or do PvP or whatever,
+but being forced to play that way
+by the game
+makes you learn it so much faster.
+Other touches can be seen here, too,
+like parrying.
+In Dark Souls 1, parrying offered
+a brief, clumsy moment
+to get in a riposte.
+Oh, and you can't even do a riposte
+if you're two-handing in Dark Souls 1.
+Thanks, fuckers.
+The sound effect was satisfying
+but hard to make out
+if anything else was happening.
+The window to respond was short
+and the animations that played
+where enemies were parried
+were often really short and vague.
+I didn't parry a lot in Dark Souls 1
+because, frankly, I didn't trust the game
+enough to let me capitalize on it.
+In Dark Souls 2, parrying triggers
+a loud, ultra-cool sound.
+The enemies fall down in a protracted
+dear-god-my-entire-world-is-ending
+animation and stay there for ages
+while they wait for you to capitalize.
+This is, in a word, encouraging.
+You feel like you've made a decisive move
+and might even have already won.
+You feel rewarded for learning
+how an enemy attacks.
+It's obvious you've pulled it off
+and you have plenty of time to react
+to knowing you've done it.
+I felt, like I said,
+encouraged to keep parrying.
+Instead of abandoning it
+after the early levels,
+I only really using it
+on heavily choreographed enemies
+like I did in 1.
+Parrying really only came into its own
+in Bloodborne which handed you a weapon
+specifically for doing it
+and made even monstrous enemies parryable
+but this represents a step
+in the right direction.
+I realized, playing Dark Souls 2,
+that the reason it seemed too hard
+to get to the level of skill
+other people were displaying
+was because getting there required
+lots of time investment and practice
+to get around the fact
+the game itself did a pretty bad job
+of getting you there by itself.
+The phrase,
+"'Get good' has been around for ages
+but was massively popularized
+in the Souls community
+and this is because the gulf of skill
+is so wide between new
+and experienced players
+that it's almost impossible
+to help someone get on their level,
+the only advice being, basically,
+to keep playing until they become good
+at the game.
+No matter how you look at it,
+the fact the community has trouble
+introducing the game it's built around
+to new players
+constitutes something of a problem
+and this is a problem I feel Dark Souls 2
+solves with some very careful changes
+in its design.
+I said before that I thought
+Dark Souls was incredible
+but I owe that to DS2
+showing me the way to appreciate it properly
+and the way to approach it
+in a way that was actually really fun.
+The blueprint for Bloodborne,
+the blood print, if you will,
+of a lot of creative decisions,
+lies in Dark Souls 2.
+I'm unsure if it directly inspired
+the attitudes to shields and healing
+and level design and so on in Bloodborne
+but even if it didn't,
+the way Bloodborne seemingly builds
+on these ideas for me
+shows that 2 was a step in the right direction
+even if it didn't get everything right.
+Dark Souls 1 is, on a technical level,
+interesting and complex.
+The opening cinematic explains
+the setup of the world of the story.
+Gwyn and Co. mess up the ancient dragons,
+build a society using the power of the soul,
+and people start becoming undead and going mad
+and the empire eventually collapses
+when the flames start to go out
+and Gwyn fucks up trying to fix it.
+But what the player actually does
+is run around a mostly empty world
+killing the people who remain
+so they can open a big door.
+There isn't much actual interaction
+with this story.
+The stuff about everlasting dragons
+and a war to kill them all
+doesn't really have much of an impact
+on the story of the player
+killing the people who killed them
+and nicking their souls.
+What the first game excels at is lore.
+In the sense that through item descriptions
+and chance encounters
+with the people who remain in the world
+and are safe to talk to,
+you can learn little tidbits about them as people.
+You can run into a character,
+have a brief conversation,
+and be sure that if you pay attention to the world
+and objects related to them or their people,
+you'll learn something about them and their culture.
+The closest you get to a story
+is a guy saying ring some bells.
+There's an old saying in my family.
+Fuck your family.
+This is the reason for the whole mission.
+Like, you meet this guy who's like,
+you know, my family have this fucked up stupid belief.
+Or another guy saying ring some bells.
+Or a serpent saying, hey, Gwyn was cool.
+Kill his friends.
+Or a different serpent saying,
+Gwyn wasn't cool at all.
+He was really rude.
+Kill his friends.
+The fun of the game comes from figuring out
+a complete picture of what you can find,
+but there isn't really a narrative
+happening for most of it.
+The player isn't really given a chance
+to interact with the important events in this world.
+They're just picking up the pieces
+of stuff that already happened.
+In comparison, to me,
+Dark Souls 2 does something really interesting.
+You get a cool metaphorical sequence in the opening
+where a Darkseid-branded character's family
+melts away under the weight of the curse
+making you live so long you forget everything.
+Already we're given our first proper theme,
+and it works on both the personal and world level
+in that the world is making less and less sense
+because things are falling away,
+which, by the way, coincides really well
+with the fact the world design is like that.
+The story itself, to start with,
+is self-consciously a rehash of the previous game.
+The Emerald Herald tells you you need to face the king,
+and to do that, you need some big souls.
+Oh, cool. Thanks. Nice one.
+So you do that.
+Along the way, you find areas
+and bosses strangely evocative of the previous ones.
+Nadjka is, shall we say, Quelaag-adjacent.
+The gutter is very Blighttown-y, and so on.
+There's a lot of parallels,
+but it's never quite made clear
+that you're explicitly in the same world as Lordran
+or at least not the same places.
+There's just a subtle thing in the back of your head
+about how this all seems oddly familiar.
+So you kill all the enemies,
+and on the way, there are these occasional locked doors.
+There's no explicit sense that you're missing any large areas.
+All the paths terminate in dead ends
+or weird shrines with the primal bonfires in them.
+The game is pretty long just accounting for these four paths.
+So when you go to Castle Drangleic,
+you get the sense this really is the end game.
+You progress all the way through the castle
+to the shrine beneath,
+and then through the Grave of Saints.
+There's a real sense of build-up.
+Then you fight Velstadt,
+who's guarding the door to Vendrick.
+After beating him,
+you finally go to meet your presumably final opponent,
+the same final opponents you fought in Demon's Souls and Dark Souls 1,
+the corrupted king of the world you've been walking through.
+But instead, this happens.
+Vendrick is a shadow of the man talked about in the lore
+and by the characters that remember him.
+He, like the fate of the rest of the undead,
+like the player's character will eventually become,
+has lost his mind.
+You don't have to fight Vendrick at all.
+He's not your enemy.
+He's just a man who lost his way and everything else with it.
+It's hard to relate how touching this is.
+The game genuinely feels like it was building
+to the very final confrontation.
+It's a game about a man who's lost his way,
+and he's trying to find his way back.
+It was building to the very final confrontation.
+The room is built to have a dramatic passage down steps
+similar to the lead-up to Gwyn,
+and it's built so that the camera naturally passes through it
+to reveal what Vendrick has become.
+I feel bad for spoiling it
+for people who haven't experienced the game yet,
+but this moment is pivotal to what makes the story interesting.
+You're built up for the traditional Souls game encounter
+with a fallen king,
+and instead you're faced with a thing
+to whom it doesn't even occur to fight you anymore,
+shambling around almost naked.
+You just have to pick up the king's ring,
+which unlocks the final areas
+and allows you to head to Aldia's keep
+and eventually meet the ancient dragon
+who's also not interested in fighting you.
+He gives you the Ashen Mist Heart,
+which lets you journey into the memories of giants
+from the old war Vendrick fought.
+You get to see a lot of the damage
+that you encounter in the main path happening.
+It's really neat.
+Killing the giant lord lets you face Nashandra,
+Vendrick's queen, at the Throne of Want.
+Killing her nets you precisely one ending.
+Your character sits on the throne,
+presumably having become the new king,
+and then the credits play.
+But instead of resetting the game,
+it just carries on.
+You're put back in the world.
+The game deliberately undercuts its story.
+You win,
+but what do you win?
+Kingship over a dying world?
+The chance to sit in a chair?
+Only one character in the game
+even recognizes you as the new king,
+Shal'Kuar, the seemingly immortal cat
+who also knows most of the rest of the lore
+about the other bosses.
+If you want to,
+you can use bonfire ascetics to refight old bosses
+or refresh enemies if you exhaust them,
+or you can completely kill all the NPCs
+even the Emerald Herald.
+You can make the world of Dark Souls 2
+completely empty of people and monsters.
+The only way to access New Game Plus
+is to sit at a bonfire
+and deliberately choose to start it all over again.
+I like these choices
+because they hammer home the hopelessness
+of the Dark Souls story that was there in one,
+but undercut by the fact
+no matter what ending you got,
+you just started at the beginning again.
+Dark Souls 2 forces you to contemplate
+how little you've really achieved
+with all these deaths,
+and then forces you to decide
+when it's time to do it all again.
+Ultimately, Dark Souls 2 is about cycles.
+The story is deliberately evocative
+of the previous game,
+exploring the empire of a king who fell,
+but with an explicit focus
+on how this has all happened before,
+and not just coincidentally.
+Perhaps it's something we're doomed to keep doing.
+Humanity,
+perhaps unable to ever fully escape its own nature,
+is repeating its mistakes over and over.
+For a game with so much architecture and character
+in so many of its designs,
+the best piece of imagery is the simplest one,
+the symbol of the dark sign.
+It's a loop, a circle,
+reflecting the way the undead return to life
+no matter what,
+continuing even after they lose their minds.
+Humanity itself is trapped in this loop.
+The story is much more for the player
+than in the previous game.
+It's a story in which the player is expected
+to contemplate their own actions
+instead of those of others,
+and recognize that the problem here
+isn't the mistakes of the king or his people,
+but that people as a whole were unable to escape
+the mistakes that happened in Dark Souls 1.
+But what's even better is how it makes sure to tell you
+this isn't just one repeat.
+No, the story of Dark Souls 1 has happened
+maybe countless times,
+so many you don't know and will never fully comprehend it.
+In a prison cell in the Lost Bastille
+is a man made of stone.
+If you unfreeze him, he refers to himself
+as Straid of Olaphis.
+Olaphis was a kingdom where Drangleic now stands,
+untold generations ago,
+so long ago that no one but Straid
+and the descriptions of spells and items
+invented by him or belonging to him
+even mention it.
+In Dark Souls 1, all the various areas and people
+and their stories and what happened
+can be pieced together quite meticulously.
+You can, with enough work,
+put together a complete universe out of the facts.
+In Dark Souls 2, an entire civilization
+can be so utterly lost
+that only one man even knows its name.
+Who knows how many empires rose and fell
+between Olaphis and Drangleic
+or Lordran and Drangleic,
+but pieces of them lie scattered everywhere,
+decayed, colossal wrecks,
+each with their own rise to power
+and their own mad kings
+and their own undead curse rending them apart.
+The Forest of Fallen Giants is Vendrick's doing,
+but Earthen Peak?
+The Old Iron Keep?
+These places rose and fell on their own terms.
+The DLC, which we'll get to later,
+each covers its own completely separate tale
+of a kingdom that rose and fell
+in roughly the same area.
+What's compelling about this
+is that it's more bizarre,
+more unexplained,
+and more human.
+People in the Souls universe are victims
+of a history they might never be able to learn.
+The story is about being lost
+in a confusing maze you can never fully understand,
+a feeling strengthened by the nightmarish
+of the actual physical world.
+Quelaag alone was simply a sad story
+about a woman transformed into a demon
+by an attempt to create more life,
+but now she's contextualized
+as a victim of a far deeper problem
+that mankind is having trouble escaping,
+because no matter what,
+it seems to keep happening over and over.
+Something really cool and kind of subtle
+is hidden in the basement of Majula.
+Down, hidden in the dirt,
+so small not many people notice,
+is a small, fractured piece
+of the Lordvessel from the first game.
+This is the best expression
+of what Dark Souls 2 is doing with its story.
+It's interested in telling a story
+about being unable to fully piece together
+what's happening,
+as the character loses their minds
+in a doomed world of destroyed statues.
+Your character doesn't even know
+what a Lordvessel is.
+To them, this is nothing,
+just a thing lying in the dust.
+It also represents the developers' attempts
+to do their own thing and move on
+by reducing an iconic part of the previous game
+to a piece of rubble in a basement.
+For me, the weakest parts of the previous games
+is when I got handed a whole heap of names,
+roles, and backstory.
+Demon's Souls did this, too,
+by just listing a bunch of people
+who went into the fog.
+I could just find those people
+and learn about them manually,
+but instead, the first games open
+with a needless role call
+and a story about a fight with dragons
+that doesn't really tell me anything.
+The guys I'm going to kill
+killed a bunch of dragons a long time ago,
+and that's important,
+because...
+Mmmmmmm.
+One flaw in the themes of Dark Souls 1
+was for all its criticisms of the world
+Gwyn had built,
+an awful lot of time was dedicated to his kingdom,
+to exploring its majesty,
+and even when you darken Anor Londo,
+you still find yourself compelled
+to look upon his works and despair.
+Dark Souls 2 does the most compelling
+and interesting thing it could possibly do
+with the story of Gwyn,
+Lord of Cinder,
+Master of Anor Londo,
+King of Lordran.
+It asks,
+who?
+I don't even think he's mentioned by name at all.
+Gwyn may well have been a good and mighty king,
+but the lone and level sands stretch far away,
+and he is gone.
+The paranoid king who had Straid petrified is gone,
+the king of Lordran is gone,
+and the king of Drangleic is gone,
+but his burnt-out husk still walks the earth yet,
+and we remember him for now.
+I think a lot of people wanted
+a story with the exact type of intricacies
+of the previous game.
+I can see wanting that
+and understand being disappointed,
+but I prefer the lonesomeness
+and the unsolvable puzzle you're given
+of a world where the weight of time
+has dissolved away most of history,
+and even the physical world
+twists into itself in impossible ways
+and icy peaks can give way to the flames of chaos.
+It's maddening and majestic at the same time
+in a way that no concretely designed physical world
+can ever be.
+This is imagery.
+This is visual metaphor.
+There's doubtless plenty of theory-crafting
+in Souls lore circles
+about who the woman with the spinning wheel is
+when you're told everything you need to know
+in just how she's presented here.
+She's deliberately evocative
+of the fortune-telling spirits with spinning wheels
+that exist seemingly throughout
+human mythology and folklore.
+More specifically,
+this character appears to be a reference
+to one of the most popular portrayals
+of this type of character in film history,
+the one that appears in Akira Kurosawa's
+Throne of Blood,
+also known as Spider-Web Castle.
+Throne of Blood is an adaptation of Macbeth.
+In case you haven't heard of Macbeth,
+Macbeth's about a happy-go-lucky guy
+whose destiny is to become king,
+but it turns out being the king
+isn't all it's cracked up to be.
+["Spider-Web Castle"]
+Interestingly enough,
+right before the character
+who's a reference to Spider-Web Castle,
+just to make sure you know they get it,
+they've just put a spider right there.
+The appearance of a character
+seemingly straight out of this film,
+a film about the darkness befalling people
+whose destiny is to rule,
+is a better piece of storytelling
+than all the item descriptions
+and all the loot drops in the world.
+But because it relies on
+understanding of imagery
+outside of video games
+and visual storytelling,
+none of this information can be found
+on any wiki about the story of the Souls series.
+In a way,
+the story of Dark Souls 2
+is the ultimate in nerd horror.
+It tells a story of a universe
+it's impossible to build
+a comprehensive fucking wiki about.
+And to nerds,
+that's the scariest thing there is.
+This opening proceeds into
+a series of destroyed castles,
+ruined thrones,
+mad, dead kings.
+When you finally get your own throne,
+there's a worrying ambivalence to it.
+The best Dark Souls 1 could muster
+was having sad music
+play over the last boss,
+and if you look at Jimmy's pants,
+it tells you how bad he was
+when he was a kid.
+Dark Souls 2 puts you
+into the role of the last boss,
+becoming patriarch of a world
+on its way to its doom,
+ultimately failing to achieve anything.
+And it asks you how you feel about that
+and where you go from here.
+The pacing of Dark Souls 1
+wasn't great after the Lordvessel,
+but it did a lot more with a lot less
+when it came to its plot.
+Its introductory video set up the world
+and the major players very efficiently.
+Efficient storytelling is being placed over
+good storytelling,
+or even a good story.
+I think gamers on the whole
+are still kind of enamored
+with a wikipedia-style approach to storytelling,
+where everything can be concretely pieced together
+in an objective narrative,
+when really I think there's a lot of other ways
+you can explore a story.
+The intro video to Dark Souls 2
+shows the main character dropping
+into some kind of whirlpool
+because the old lady tells us we're cursed
+and the only hope of a cure
+is to go to Drangleic for some reason.
+She actually says we'll have no idea
+why we're going to do
+any of the stuff we're about to do.
+This visual metaphor for falling into darkness,
+you know,
+the thing that going hollow does to your mind,
+is reduced to falling into
+some kind of whirlpool.
+A woman visually coded
+as having the power to see the future,
+predicting a horrible fate
+in which we do things
+without fully understanding their purpose
+because we lose our minds,
+is reduced to
+the old lady
+telling us to go to Drangleic
+for some reason.
+No wonder this critical approach to storytelling
+resulted in finding the story lacking.
+No, this is just an old lady
+telling us to do things
+for some reason.
+There's no nuance or meaning
+or cinematic language being utilized here.
+That level of understanding
+has no place in my
+nuanced critique of a video game.
+New Game Plus is the bad ending.
+You press a button and admit
+that all that's left
+is for everything to happen again.
+There's another ending,
+which came out when all the DLCs had come out
+and also adds a new character.
+I think this aspect of the story
+is interesting in its own way,
+but I don't like how people use it
+as an excuse to criticize Dark Souls 2,
+pretending there wasn't enough story
+in the initial release
+and this is an admission of that
+and they're finally fixing it,
+or they're patching the story in
+in post or something.
+There's plenty of story,
+but just not the kind everyone wanted.
+For me, it was already complete
+in its incompleteness,
+but giving the player the option
+of getting an ending
+where they beat another boss
+and walk out is a nice little bonus.
+It's a nice extra little thing
+to give people and that's all right.
+The DLC to Dark Souls 2 is fantastic.
+Each one experiments with mechanics
+in cool and interesting ways
+I don't want to get too far into
+because we're already pressed for time.
+Rest assured they're all lengthy enough
+to feel like worthwhile additions.
+I'll rattle off the fun stuff I really liked.
+I like Broom Tower's verticality
+and the way you unlocked more access
+from the central hub
+once you got the key wedge thing.
+I like Crown of the Old Iron King's gimmick
+of having the first boss
+and the Iron King himself
+be just to your left when you come in
+and you can take a series
+of looping paths around
+to make the first boss visible
+then go around again
+once the ice melts
+to gain access to more soldiers
+for the Old Iron King fight.
+You could find and build a little army
+to help you even out the odds
+and that's really cool.
+I like the puzzles that require you
+to actually use a bow to progress.
+The Souls games, when it comes down to it,
+are something of an offshoot from Zelda
+and its attempt to bring some honest-to-god
+bow-and-arrow puzzles to the game.
+It was unexpected,
+but it fit together quite well.
+I like these ghost guys
+who look like phantoms you see online.
+It actually trips you up
+when you discover they're real
+and they attack you.
+It makes for a cool fakeout
+I just spoiled for you,
+so I hope you already played this bit.
+Sin the Slumbering Dragon is a hard fight,
+but the first really fun fight with a dragon
+in basically any of these games
+for me personally,
+especially after the optional
+Ancient Dragon fight
+which is honestly a chore.
+In many ways, the DLC embodies
+Dark Souls 2 in microcosm,
+being willing to go all the way
+and experimenting with its mechanics
+to create new and unique areas,
+and in doing so,
+it also comes to embody
+the very best the Souls series
+has to offer as a whole.
+It's everything that I think I ever wanted
+from a Souls game,
+and it's part of Dark Souls 2,
+so Dark Souls 2 wins.
+Scholar of the First Sin is a second edition
+of Dark Souls 2 that came out
+nearly two years ago now.
+It bundled together the DLCs
+for the original release of the game,
+had some graphical and performance updates,
+and put the items that grant access to the DLC
+in the world itself
+as things to find
+instead of items you simply start with
+if you owned the DLC
+in the previous version.
+This version's really interesting.
+I'm not going to say good,
+interesting.
+Instead of a simple,
+slightly visually improved bundle,
+it actually dramatically changes
+most of the game.
+Almost all of the enemy encounters
+and placements have been altered,
+and the amount of enemies
+has overall increased massively.
+I've played Dark Souls 2 multiple times
+before playing this version,
+and I found it to be very different
+and much harder
+despite superficially being the same game.
+It's more frustrating too.
+A lot of people didn't like
+the amount of enemies
+you often fight at once in Dark Souls 2,
+something I didn't have a problem with
+in that game,
+but in this it's definitely difficult
+enough to be annoying
+even if you know how to deal
+with groups in this engine.
+Honestly,
+the game this reminds me of the most
+is Super Mario Bros. 2.
+The Japanese Mario 2
+is like an optional harder Mario game,
+pushing the engine
+and player skill requirements
+to the absolute limit
+before it becomes unsellable
+as a consumer product.
+Heck,
+they didn't even bother selling it
+in the West for a reason.
+I'd call Scholar a pretty good game.
+It's challenging,
+it's entertainingly funny in places,
+and it's a nice way of playing a game
+I love dearly
+in a new, remixed way.
+However,
+I have to qualify calling it good.
+It's good only within
+the context of Dark Souls 2
+already existing,
+of there being about a year
+of playing the original version
+to prepare for this one.
+I would not recommend this game
+to anyone as a first game in the series,
+which for some people
+this might have saddeningly been.
+It's for people who are diehard fans
+of the series already
+or even just fans of 2 specifically,
+and for those people,
+even when it's not fun,
+it's fun as an entertaining
+little experiment
+with a bunch of aspects of the game
+tweaked just enough.
+It feels almost like a ROM hack
+of Dark Souls 2
+they made for fun,
+and for some people
+that might be a condemnation,
+especially considering
+it's the cost of a full-priced game.
+So I can't heartily recommend it,
+but the Soul games are quite difficult
+to recommend already.
+Something I like specifically
+is the entrance to the Earthen Peak
+from Harvest Valley.
+There's a couple of enemies
+in the original,
+but it seems quite underutilized,
+like it's a short, quick rush
+through an area that could be
+more fleshed out.
+In Scholar,
+it's significantly altered.
+There's way more enemies,
+it's way more difficult,
+there's purposeful traps
+for if you try and run past,
+and it has more enemy types
+that appear in, like,
+two places in the original game,
+which is nice.
+There are also more
+Hidey Nights in general,
+which is great
+and something I wanted,
+and also they're way more aggressive.
+Some of them get up
+and go for you now,
+and that's a really cool thing
+that you just don't expect
+if you play the original,
+and that's really, really fun.
+Also, something I quite like
+about both games
+is that in each one,
+someone's credentials
+are called into question.
+In the original,
+in Hidey's Tower,
+the Dragon Rider looked
+like an idiot.
+There were no dragons
+anywhere for most of the game.
+Why is he called the Dragon Rider?
+What?
+That's ridiculous.
+The guy's obviously lying.
+But in Scholar,
+it's the Dragon Slayer
+just over the way from him
+who's clearly lying on his resume.
+There's a dragon right outside
+his fucking office!
+Don't get the Scholar edition
+unless you similarly
+really like two already
+and don't approach it
+as its own game per se,
+but as another way
+of playing a game
+you already liked
+for what it was doing,
+and you'll probably
+have a good time.
+I honestly want to see
+more games like this.
+I would have liked
+a similar edition
+along these lines
+for every Souls game,
+to be honest.
+Wait, wait.
+Hold on a second.
+Obviously,
+a lot of game criticism
+is based on subjective experience,
+which can't exactly
+be proven wrong,
+sadly,
+but that's not what
+I'm trying to do here.
+My aim as a critic
+isn't just to try and find ways
+of looking at and analyzing games
+and their design
+that are useful
+and help in forming
+better ideas of quality,
+but also to try and understand
+and explain why
+other people reacted differently.
+I've had some pushback
+from people on some of my
+long game analysis videos,
+usually by people who enjoyed
+a game I was being critical about
+or didn't enjoy a game I liked
+or who played the game
+a way I said was wrong
+and happened to like it.
+I in no way mean to diminish
+other people's experiences
+of a game.
+If you didn't like something,
+I can't reason you
+into liking it.
+My aim is to understand
+why people do or don't
+like something
+and learn from that
+and use the information
+in my work.
+I've gone on record
+as thinking the Souls games
+are all very good,
+but that doesn't make
+other people not liking them
+or not thinking that wrong.
+They're useful because
+you learn why people
+wouldn't enjoy something,
+and that's really helpful
+if you, for example,
+are interested in what makes
+a game fun to a lot of people,
+which is really financially
+lucrative nowadays.
+I feel the games got better
+at correcting the sort of problems
+that caused not a lot of people
+to enjoy them early on,
+at least without a lot of friction
+at the start,
+and somewhat interestingly,
+helped them go back
+and appreciate the previous ones.
+Everyone's entitled
+to their opinion,
+and in my opinion,
+every other game critic
+is stupid.
+Okay, I can't even
+make that joke here.
+You see,
+the overly negative
+critical response
+from Souls diehards
+and some spheres of the internet
+isn't even accurate
+to what most game critics said
+when the game first came out.
+On the whole,
+people loved it.
+The misgivings came specifically
+from folks like Matthew Matosis
+and the popularity of his video
+predicated centrally
+on how the game couldn't possibly
+be as good as the first
+because Miyazaki didn't make it
+and locking on in some fights
+isn't a good idea
+and the opening cutscene
+didn't talk about a war
+that already happened
+and has no effect on us
+as a player.
+Ignore how,
+in Dark Souls 2,
+there's a similar ancient war
+in the distant past,
+but you get to learn about it
+over the course of the game
+instead of a pre-rendered cutscene
+at the beginning,
+and then you get to actually
+go fight in it?!
+Critics at the time of release
+liked it a lot,
+the exact same way
+critics liked Demon's Souls
+a lot back when this whole series
+was new and strange
+and not many people played
+or liked it.
+People who think about games a lot
+are more likely to easily
+get into a new experience
+than people who just play them
+as a hobby.
+Internet critics like Yahtzee
+wiped their ass
+all over various aspects
+of the games
+that would later say
+they loved when audiences
+started to get a hang of the games
+and it turned out
+they were talking bollocks.
+Fuck you, Demon's Souls.
+A challenge is one thing,
+but trying to break down
+a fucking cement wall
+with your forehead
+isn't a challenge,
+it's grounds for getting
+fucking sectioned.
+Demon's Souls is one of the most
+rewarding, challenging games
+ever to hit the PS3.
+It may not be for everyone,
+but I still urge everyone
+to at least try it.
+And GameSpot's 2009 game
+of the year is...
+Demon's Souls.
+Demon's Souls is like
+nothing you've ever played.
+Do you hear that?
+It was the best
+and most innovative game
+of 2009.
+That's Kevin Van Flipping Ord.
+That's the thought criminal
+who was so wrong
+about Fallout 3
+he was found dead
+in his cell last year
+next to an apology
+written in my blood.
+Even he has been
+on the ground floor
+of the Souls series
+since day one.
+It turns out that
+professional game critics
+are quite often
+more ahead of the curb
+than the average consumer
+or the not-to-be-rude
+fanboy types
+who will dismiss a sequel
+for being too different
+to the one they first
+fell in love with.
+Mainstream game critics
+can be wrong,
+but they've been consistently
+right about the Souls series
+from day one.
+It's only corners of the internet
+full of rose-tinted fanboyishness
+towards the first Dark Souls
+that result in the ridiculous
+treatment of the second game.
+When it comes down to it,
+Dark Souls was
+a fantastic game,
+even though it's flawed
+in a lot of ways
+that are so much more obvious
+now than ever.
+I think the sheer surprise
+of how good Dark Souls was
+after most people
+missed the boat on Demon's Souls
+made it a hard act to follow
+and lots of fans got
+unrealistic expectations about it.
+The online response to Dark Souls 3
+sounds overall lukewarm
+but positive,
+and I think that might be because
+at least in regards to this one series,
+maybe not a couple others,
+people have cooled
+and learned to manage
+their expectations.
+I'm interested in finally
+getting to play it
+after working for so long
+on videos about the games
+that preceded it.
+I'm a little worried
+that the fan reaction
+to some aspects of 2
+made them walk back
+on the good ideas
+in an effort to be more like
+the first one,
+but I'm gonna play it
+and judge it on its own merits
+as its own game
+before I really consider that.
+In the meantime,
+Dark Souls 2 is not perfect,
+but you can have
+a grand old time with it.
+The gameplay contains
+some of the tightest moments
+in the whole series
+and some really fun variations
+on the formula.
+It tells a story
+that instead of redoing
+the original
+or trying to build on it
+in a straightforward way,
+self-consciously explores
+what it means to exist
+in a specific position
+in gaming culture
+and asks us
+what the things we desire
+from games
+say about us.
+I really enjoyed Dark Souls 2,
+and I think there's a lot of things
+that make it good,
+and if you didn't enjoy it,
+that's okay.
+Your different opinions
+and experiences
+are equally as valid,
+and I know I talk
+authoritatively sometimes,
+but I hope it's clear
+I'm just offering my opinion
+in a way I think is interesting
+or convincing,
+and it's okay to disagree with me.
+For now.
+[♪ Music ♪
+Thanks so much for watching
+this really long addendum
+to a super long video.
+Making this kind of criticism
+takes a ridiculous amount
+of time and effort,
+and it always takes
+so much longer
+than I think it will,
+so I really would like
+to thank my patrons
+for keeping me in spaghetti
+and moisturizer while I work.
+In addition to the names
+going past the screen right now,
+I'd especially like to thank
+Gabriel Mann,
+Aislinn,
+GetDunkedOn,
+CommissarTaco,
+TheCameo,
+Joseph Greco,
+Evan Ritchie,
+Jakutja Boris,
+Eugene Butler,
+Silas Pumpkins,
+Siegfried,
+Slayer of the Immortal Dragon,
+Mr. Clonem,
+Alex Lemkevich,
+Chiboi Kami Kensei,
+Olivia Mello,
+Brennan Arts,
+Malarkey Bingo,
+Daniel Vincent Chilton,
+Scarthorax,
+Lord of the Roaches,
+Kelly M. Kanipi,
+Requiem,
+Emily O,
+Owen Piper,
+Garand,
+Parker Anderson,
+Dylan Tompkins,
+Eitan Goldstrom,
+Caleb McMurphy,
+Amy Lech,
+Spilt Coffee,
+Jenny Angel,
+Zachariah Scott,
+Renee Larshaug,
+Thomas Kistner,
+Jack Harvey,
+David DeMarzallou,
+David the Benevolent Malevolence,
+John Cantwell,
+Procore.
+He's changed it again.
+A huge pair of blue spheres
+on a flacid penis.
+He's spelt flacid wrong now.
+Corwin Light-Williams,
+Sean Kemp,
+Shadowbag,
+Findlay Bowick-Copley,
+Morn Silverplatz-Toonstrom.
+I hope I got that right.
+Kay Plays Dota,
+Jeffrey Theobald,
+Tom Martell,
+Dipshit Chris,
+Scott Gertin,
+A Mysterious Benefactor,
+Lissy Roberts,
+Disciple,
+Toru Kun No. 1,
+Three-Fifths of a Brain,
+Lauren Tacticos,
+Mackenzie Cockerill,
+Ash Stryker,
+Claw Su,
+Daniel Stewart,
+Anna S,
+CASEY EXPLOSION!
+Young Cowrie,
+Clementine,
+Sol,
+Eric Hunter,
+Marco Shard,
+Jan Anders Bremer,
+WEABOO GAMING!
+Gary Marshall,
+Aidan Bradley,
+Graf and Blackpaw,
+Alexander Corbett,
+Sammy J,
+Luke Swanson,
+Fully Automated Queer Gay Cuck Space Communism,
+Zachary Clark,
+Benjamin Davidson,
+Jay Logan,
+Hero R. War,
+Jason Walter,
+PolarWolf98,
+Luke Gould,
+Kieran,
+Recovering Zombie,
+Thadwa Zalewski,
+Bill Mock,
+Mike Stanley,
+Feral Kimchi,
+Caden Patin,
+Elliot Soden,
+Jordan Tullis,
+Apilius Bulge,
+Jerry Terry,
+David Rose,
+Sean Higgins,
+Davis Remy,
+Nathan Hoar,
+Philip Huber,
+Kaphzyl,
+Poggington Jones,
+Lady Naga,
+Richard Pearson,
+Rebecca Washam,
+Sarik,
+Ricard Hevosmar,
+Julius Niborg-Oleson,
+Samael,
+Brock Barber,
+Justin Conkerbeard,
+Alicia Parker Martell,
+Femininja,
+Skeptical Frog,
+Cav P,
+Robert Phillips,
+and Sled.
+If you've made it this far,
+you either listened to the credits like a true believer,
+or guessed correctly I'd put something after the credits and skipped ahead,
+like a meanie.
+In any case,
+the time has come to tally up the votes from the secret vote I held at the end of the Bloodborne video.
+Let's see which one won.
+Drumroll, please.
+Oh, I have to edit that in myself, don't I?
+(*drumroll*)
+(*ding*)
+(*thud*)
+(*sigh*)
+Ah, fuck it. Deus Ex. Let's do that one.

@@ -1,0 +1,380 @@
+1
+00:00:00,000 --> 00:00:02,400
+Ah, Election Day.
+
+2
+00:00:02,400 --> 00:00:06,040
+When Americans everywhere cast their ballot for the next President of the United States.
+
+3
+00:00:06,040 --> 00:00:07,680
+Except not really.
+
+4
+00:00:07,680 --> 00:00:09,480
+Americans don't directly vote for President.
+
+5
+00:00:09,480 --> 00:00:11,320
+So what's happening on Election Day then?
+
+6
+00:00:11,320 --> 00:00:14,640
+It's a bit complicated because of something called the Electoral College.
+
+7
+00:00:14,640 --> 00:00:18,520
+To keep things simple for now, think of the Electoral College as the collection of 538
+
+8
+00:00:18,520 --> 00:00:21,340
+votes that determine who the President of the United States will be.
+
+9
+00:00:21,340 --> 00:00:22,740
+Why 538?
+
+10
+00:00:22,740 --> 00:00:26,280
+Because that's the number of Senators, 100, plus the number of Representatives, 438, in
+
+11
+00:00:26,280 --> 00:00:27,280
+Congress.
+
+12
+00:00:27,280 --> 00:00:29,440
+Why are there 438 Representatives in Congress?
+
+13
+00:00:29,440 --> 00:00:32,000
+Stop asking so many questions right now, we're trying to keep this simple.
+
+14
+00:00:32,000 --> 00:00:36,080
+These 538 votes in the Electoral College aren't given to the citizens directly, but are instead
+
+15
+00:00:36,080 --> 00:00:37,780
+divided among the states.
+
+16
+00:00:37,780 --> 00:00:40,280
+So how does the Electoral College give out the votes?
+
+17
+00:00:40,280 --> 00:00:43,480
+Each state, no matter how populous or not, gets three votes to start.
+
+18
+00:00:43,480 --> 00:00:46,960
+The remaining votes are given out roughly in proportion to the population of the states.
+
+19
+00:00:46,960 --> 00:00:49,480
+The more people the state has, the more votes it gets.
+
+20
+00:00:49,480 --> 00:00:52,400
+Here's a map of the United States showing the voting power each state has by making
+
+21
+00:00:52,400 --> 00:00:55,900
+one hexagon equal to one Electoral College vote for President.
+
+22
+00:00:55,900 --> 00:00:59,560
+Because Electoral College votes mostly, though not completely, scale with population, it's
+
+23
+00:00:59,560 --> 00:01:02,740
+also a map of where people live with a bonus given to the smaller states to make them a
+
+24
+00:01:02,740 --> 00:01:05,220
+bit bigger than they would otherwise be.
+
+25
+00:01:05,220 --> 00:01:08,660
+In early November, when citizens go to the polls, they aren't voting for President directly,
+
+26
+00:01:08,660 --> 00:01:12,660
+but they're really telling their state how they want it to use its electoral votes.
+
+27
+00:01:12,660 --> 00:01:15,820
+Forty-eight of the 50 states give all their Electoral College votes to the candidate who
+
+28
+00:01:15,820 --> 00:01:17,960
+wins a majority in their state.
+
+29
+00:01:17,960 --> 00:01:21,300
+Take Florida, for example, which has 29 Electoral College votes.
+
+30
+00:01:21,300 --> 00:01:25,600
+If a candidate wins a majority, no matter how small that majority, he gets all the votes.
+
+31
+00:01:25,600 --> 00:01:27,360
+So the path to the White House is clear.
+
+32
+00:01:27,360 --> 00:01:30,560
+Win enough majorities in enough states to get more than half of the Electoral College
+
+33
+00:01:30,560 --> 00:01:32,960
+votes and you get to sit at the big desk.
+
+34
+00:01:32,960 --> 00:01:34,560
+That wasn't so complicated, you say?
+
+35
+00:01:34,560 --> 00:01:36,800
+Well, there were a few details left out.
+
+36
+00:01:36,800 --> 00:01:40,120
+The Electoral College loves states, but what about the 11 million Americans who don't live
+
+37
+00:01:40,120 --> 00:01:41,120
+in a state?
+
+38
+00:01:41,120 --> 00:01:43,320
+What happens to their vote and where are these people hiding?
+
+39
+00:01:43,320 --> 00:01:46,980
+There are about 600,000 in the District of Columbia, an area set aside specifically not
+
+40
+00:01:46,980 --> 00:01:50,620
+to be a state so that the capital of the country would be free of local politics.
+
+41
+00:01:50,620 --> 00:01:53,540
+For most of the United States' history, people living in the district didn't get to vote
+
+42
+00:01:53,540 --> 00:01:54,540
+for President.
+
+43
+00:01:54,540 --> 00:01:58,540
+But then, in 1964, the Constitution was amended to give D.C. the same number of votes as the
+
+44
+00:01:58,540 --> 00:02:00,560
+least populous state, Wyoming.
+
+45
+00:02:00,560 --> 00:02:03,320
+So the Electoral College likes D.C., but you know who it doesn't like?
+
+46
+00:02:03,320 --> 00:02:04,460
+The territories.
+
+47
+00:02:04,460 --> 00:02:08,000
+The often-forgotten Puerto Rico, Guam, U.S. Virgin Islands and Northern Mariana Islands
+
+48
+00:02:08,000 --> 00:02:11,520
+get no votes from the Electoral College because they aren't states and they don't have a special
+
+49
+00:02:11,520 --> 00:02:13,840
+constitutional amendment to recognize them.
+
+50
+00:02:13,840 --> 00:02:16,520
+Which is a bit odd considering they're part of the United States and everyone who lives
+
+51
+00:02:16,520 --> 00:02:20,680
+there is a citizen, so for most practical purposes they're just like D.C. and 4.4 million
+
+52
+00:02:20,680 --> 00:02:22,300
+people live in the territories.
+
+53
+00:02:22,300 --> 00:02:25,360
+It might not sound like a lot, but it's more than the populations of Wyoming, Vermont,
+
+54
+00:02:25,360 --> 00:02:28,680
+North Dakota, South Dakota, Alaska and Delaware combined.
+
+55
+00:02:28,680 --> 00:02:31,360
+But still, no votes from the Electoral College do they get.
+
+56
+00:02:31,360 --> 00:02:34,300
+The whole situation with territories is extra strange when you consider the final group
+
+57
+00:02:34,300 --> 00:02:38,380
+of Americans who don't live in the states, the 6.3 million Americans who live abroad.
+
+58
+00:02:38,380 --> 00:02:41,280
+If you're a United States citizen who moves to a foreign country, you can usually send
+
+59
+00:02:41,280 --> 00:02:43,460
+a postal vote to the last state that you resided in.
+
+60
+00:02:43,460 --> 00:02:46,680
+But if you move within the United States to one of its territories, you lose your right
+
+61
+00:02:46,680 --> 00:02:49,760
+to vote for President as long as you live there, making these the only spots on the
+
+62
+00:02:49,760 --> 00:02:53,160
+whole earth where Americans are not allowed to vote for President.
+
+63
+00:02:53,160 --> 00:02:56,120
+Actually they're the only spots in the whole universe because American astronauts are allowed
+
+64
+00:02:56,120 --> 00:02:57,120
+to vote from space.
+
+65
+00:02:57,120 --> 00:03:01,200
+The last bit of Electoral College complication is the weirdest and has to do with the votes
+
+66
+00:03:01,200 --> 00:03:02,200
+themselves.
+
+67
+00:03:02,200 --> 00:03:05,820
+The state of Florida and all the others don't really give votes to a candidate, that's just
+
+68
+00:03:05,820 --> 00:03:09,940
+a simplified way to think about it because the reality of the situation is odd.
+
+69
+00:03:09,940 --> 00:03:13,700
+What citizens are voting for on election day is a group of electors appointed by the political
+
+70
+00:03:13,700 --> 00:03:16,760
+parties who choose the President on the citizen's behalf.
+
+71
+00:03:16,760 --> 00:03:20,100
+The number of votes that a state gets from the Electoral College is actually the number
+
+72
+00:03:20,100 --> 00:03:24,260
+of electors the state is allowed to send to a collegiate meeting to vote on who the President
+
+73
+00:03:24,260 --> 00:03:25,440
+will be.
+
+74
+00:03:25,440 --> 00:03:28,480
+What makes it odd is that while these electors promise they will vote for President as their
+
+75
+00:03:28,480 --> 00:03:32,400
+state citizens want them to, they aren't required to do so.
+
+76
+00:03:32,400 --> 00:03:34,360
+Electors are free to vote the way they want.
+
+77
+00:03:34,360 --> 00:03:38,080
+While this has never swung an election, 87 times in the past electors have voted against
+
+78
+00:03:38,080 --> 00:03:40,660
+the wishes of the very people who elected them.
+
+79
+00:03:40,660 --> 00:03:43,760
+Why set up this crazy system where a small group of people essentially unknown to the
+
+80
+00:03:43,760 --> 00:03:46,720
+general public are the ones who really decide on the President?
+
+81
+00:03:46,720 --> 00:03:50,080
+In the 1700s, when the Electoral College was designed, the quickest way to send a piece
+
+82
+00:03:50,080 --> 00:03:54,320
+of information was to write it down on a piece of paper, hand it to a guy in a horse, wish
+
+83
+00:03:54,320 --> 00:03:58,320
+him Godspeed good sir, and hope he didn't get killed by Indians or die of dysentery
+
+84
+00:03:58,320 --> 00:04:00,160
+along the way.
+
+85
+00:04:00,160 --> 00:04:03,600
+Because information moved so slowly and because the young country was so big, the idea was
+
+86
+00:04:03,600 --> 00:04:07,080
+to send all the electors to Washington where they could have the most up-to-date information
+
+87
+00:04:07,080 --> 00:04:10,360
+to make decisions for the people back home who wouldn't know the latest news.
+
+88
+00:04:10,360 --> 00:04:14,560
+Though now, when we carry information on beams of light in fiber optic cables rather than
+
+89
+00:04:14,560 --> 00:04:18,480
+on the backs of herd animals, this particular aspect of the Electoral College might seem
+
+90
+00:04:18,480 --> 00:04:19,800
+a little out of date.
+
+91
+00:04:19,800 --> 00:04:22,600
+Nonetheless, while most people think that the election for President takes place in
+
+92
+00:04:22,600 --> 00:04:24,440
+early November, it doesn't.
+
+93
+00:04:24,440 --> 00:04:27,460
+That's the election that determines who the electors will be.
+
+94
+00:04:27,460 --> 00:04:31,640
+The 538 electors who are chosen then meet in early December and they cast the real votes
+
+95
+00:04:31,640 --> 00:04:34,480
+that determine who is the next President of the United States.
+

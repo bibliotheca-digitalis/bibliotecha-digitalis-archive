@@ -1,0 +1,79 @@
+A calendar year is made of 365 days, a number that refuses to be divided nicely, which is
+why we end up with uneven months of either 30 or 31 days, except for February, the runt
+of the litter, which gets only 28.
+Except when it gets 29, and then the year is 366 days long.
+Why does that happen?
+What kind of crazy universe do we live in where some years are longer than others?
+To answer this, we need to know, just what is a year?
+Way over simplifying it, a year is the time it takes the Earth to make one trip around
+the Sun.
+This happens to line up with a cycle of the seasons.
+Now drawing a little diagram like this showing the Earth jauntily going around the Sun is
+easy to do, but accurately tracking a year is tricky when you're on Earth because the
+universe doesn't provide an overhead map.
+On Earth you only get to see the seasons change, and the obvious way to keep track of their
+comings and goings is to count the days passing, which gives you a 365 day calendar.
+But as soon as you start to use that calendar, it slowly gets out of sync with the seasons,
+and with each passing year the gap gets bigger and bigger and bigger.
+In three decades the calendar will be off by a week, and in a few hundred years the
+seasons would be flipped, meaning Christmas celebrations taking place in summer, which
+would be crazy.
+Why does this happen?
+Did we count the days wrong?
+Well, the calendar predicts that the time it takes for the Earth to go around the Sun
+is 8760 hours, but if you actually timed it with a stopwatch you'd see that a year is
+really longer than the calendar predicts by almost six hours, so our calendar is moving
+ever so slightly faster than the seasons actually change.
+And thus we come to the fundamental problem of all calendars.
+The day-night cycle, while easy to count, has nothing to do with the yearly cycle.
+Day and night are caused by Earth rotating about its axis.
+When you're on the side facing the Sun, it's daytime, and when you're on the other side
+it's night.
+But this rotation is no more connected to the orbital motion around the Sun than a ballerina
+spinning on the back of a truck is connected to the truck's cruising speed.
+Counting the number of ballerina turns to predict how long the truck takes to drive
+in a circle might give you a rough idea, but it's crazy to expect it to be precise.
+Counting the days to track the orbit is pretty much the same thing, and so it shouldn't be
+a surprise when the Earth doesn't happen to make 365 complete spins in a year.
+Rotatingly, while 365 days are too few, 366 days are too many, and still cause the seasons
+to drift out of sync, just in the opposite way.
+The solution to all this is the leap year, where February gets an extra day, but only
+every four years.
+This works pretty well, as each year the calendar is about a quarter day short, so after four
+years you add an extra day to get back in alignment.
+Huzzah, the problem has been solved.
+Except it hasn't.
+Lengthening the calendar by one day every four years is slightly too much, and the calendar
+still falls behind the seasons at a rate of one day per hundred years, which is fine for
+the apathetic, but not for calendar designers who want everything to line up perfectly.
+To fix the irregularity, every century the leap year is skipped.
+So 1896 and 1904 were leap years, but 1900 wasn't.
+This is better, but still leaves the calendar ever so slightly too fast, with an error of
+one day and four hundred years.
+So an additional clause is added to the skip the century rule, that if the century is divisible
+by four hundred, then it will be a leap year.
+So 1900 and 2100 aren't leap years, but 2000 is.
+With these three rules, the error is now just one day off and almost eight thousand years,
+which the current calendar declares mission accomplished and so calls it a day.
+Which is probably quite reasonable, because eight thousand years ago, humans were just
+figuring out that farming might be a good idea, and eight thousand years from now we'll
+hopefully be using a calendar with a better date tracking system.
+But perhaps you're a mathematician and a 0.0001% error is an abomination in your eyes and must
+be removed.
+Tough luck says the universe, because the length of a day isn't even consistent.
+It randomly varies a few milliseconds on average and very slowly decreases by about one millisecond
+per hundred years, which means it's literally impossible to build a perfect calendar that
+lasts forever.
+In theory the length of a day will expand to be as long as the current month, but don't
+worry in practice it will take tens of billions of years and our own expanding sun will destroy
+the earth long before that happens.
+Sorry not quite sure how we got from counting the days of the months to the fiery unavoidable
+end of all human civilization, unless of course we have an adequately funded space program,
+hint hint.
+But there you have it.
+For the next eight millennia, leap years will keep the calendar in sync with the seasons
+but in a surprisingly complicated way.
+You can learn a lot more about orbits, different kinds of years, and supermassive black holes
+over at MinutePhysics.
+As always, Henry does a great job of explaining it all in his new video.
+Go check it out.

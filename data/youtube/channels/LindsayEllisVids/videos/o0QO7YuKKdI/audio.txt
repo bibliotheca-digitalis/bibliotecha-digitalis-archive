@@ -1,0 +1,314 @@
+So, in the Hercules video, I talked a lot about the three-act structure that is really common in Hollywood screenplays,
+and someone in the comments linked to an article by Film Crit Hulk from 2013,
+wherein Hulk argues against what he calls the myth of the three-act structure.
+Now, Hulk has written some great film journalism over the years,
+but on this, well, I pretty much disagree with most of his assertions,
+and I think this stems from a disagreement on what an act even is and what purpose it serves in a narrative.
+There is a misconception that an act in a screenplay pertains to where any given scene falls in the narrative.
+Hulk even points this out, that most people, when asked, think it's an issue of placement rather than function.
+Hulk contends that his fellow journalists, film students, writers, etc.,
+can't actually define an act except for where it falls in the story, and that the idea of three acts is actually meaningless.
+Now, applying a structure to a narrative is a form of theory, and people get confused by this all the time,
+what we mean by theory, so in this context, it's this.
+It's not a scientific theory, like theory of evolution, or like a colloquial theory, as in, like, a hypothesis,
+but analytical theory is a form of academia that aims to frame a work, an artist, or a movement
+in terms of history, meaning, interpretation, sociology, psychology, etc.
+Film theory is distinct from, say, film criticism and film history, although there is some overlap.
+For instance, applying feminist film theory or psychoanalytical film theory to, say, Hitchcock's North by Northwest,
+vagina, will net you a different reading than if you were to apply auteur theory to the same, though not completely different.
+Theory is taking a guideline of thought based on a comparable precedent to an already existing body of work.
+So when we talk about theory as it applies to the three-act structure,
+I do agree that it's not terribly useful for writers to start their own work,
+be it a short story, a novel, a screenplay, or a web video, feeling the need to hit the points of a three-act structure.
+When you're outlining something, it's best not to think about that sort of thing,
+but when you come out the other side, you will probably find that you've unconsciously created a three-act structure
+just by the nature of the way story structure has evolved throughout the history of Western civilization.
+You have probably learned how to write a three-act structure simply by osmosis.
+However, if you go online and look at forums where people try to find examples of movies that don't adhere to three-act structure,
+most of their examples will.
+I see movies like No Country for Old Men, Eternal Sunshine of the Spotless Mind, and Pulp Fiction as counterexamples.
+The three-act structure is there in all of these movies, but it's hidden in storytelling that is less conventional than, say, Independence Day,
+which has its three acts so carefully outlined that they are divided by date.
+I was originally going to use Transformers Revenge of the Fallen as a counterexample, but nope.
+All of these act points are there, even the twist in the third act,
+but these points are so buried in plot clutter that it feels a lot more muddied and random than it actually is.
+Hulk's main contention is that dividing stories into three parts is arbitrary
+because a movie can have any number of breaks and therefore acts that create propulsion.
+He cites the Shakespearean five-act structure as superior and uses 2008's Iron Man as an example,
+which I find particularly odd as Iron Man uses a very rigid three-act structure.
+The conventional wisdom contends Hulk is that an act marks the point where a character can't go back,
+and I don't think that's an accurate or helpful assessment.
+But story structure is not a myth, it is theory and can be interpreted in a variety of different ways
+depending on what framework you're using.
+You can argue that any narrative has three acts or five or nine,
+but it is useful to keep in mind that while most feature-length movies will adhere to a fairly easy-to-recognize three-act structure,
+not all do.
+Psycho is a good, more well-known example of a Hollywood movie that doesn't use the classic three-act structure.
+Hulk cites Malcolm X as an example, and on that I would have to agree,
+but the simple three-act structure tends to be most popular because it lends itself well to a 90-minute-to-two-hour screenplay,
+given the length of sequences that tend to be satisfying to a mainstream audience.
+So I've provided a link to the article in question below,
+and also the de-Hulkifier bookmarklet if you have a hard time reading Film Crit Hulk's all-caps mode of writing.
+And again, being broken up into three acts doesn't mean acts need to adhere to any particular length.
+Movies like The Lion King, The Hunger Games, and Spider-Man all have really long first acts,
+and their midpoints are generally 60% to 70% through the movie.
+Act breaks aren't a question of length, but function.
+For another source, Todd Vanderwerf of Vox.com wrote a more recent article about the decay of the second act
+we've seen in more recent Hollywood fare, like Independence Day Resurgence and Fan-for-stick.
+That article is also linked below.
+I don't think it's a question of which structure is superior, five acts versus three,
+but which structure is most effective for the story it's trying to tell.
+Formula can be used to great end or to not-so-great end.
+So, needless to say, not all narratives adhere to this structure,
+but the vast majority of Hollywood films and even smaller indie films do.
+And obviously, the examples I've chosen have all pretty clear three-act structures,
+because this is a video about three-act structures.
+And also, spoilers for the following films.
+So in this context, the operative word here is tension.
+Individual acts and sequences have tension, and the narrative as a whole has tension.
+The beginning and end of acts marks the changes or shift in the tension.
+A typical screenplay features eight sequences.
+Two in Act 1, four in Act 2, two in Act 3.
+Sequences are defined by a build and release of minor tensions,
+all while contributing to the main tension.
+There are main act tensions, and there are individual sequence tensions.
+An example of a sequence tension would be,
+will Tony be able to build a suit that works?
+Two...
+One.
+That tension is relieved when he successfully tests it.
+The following sequence tension is,
+is Tony's new suit capable of doing what he wants it to do?
+The tension is relieved at the end of the sequence,
+but also builds to the main tension of the bigger bad wanting to take him down.
+There must be more than this provincial life!
+A backstory establishes the status quo for the protagonist,
+and sets the rules of the universe.
+This usually happens at the very beginning of Act 1, but can be weaved throughout.
+Sequence 1 usually explains the universe,
+and will also usually give us some sort of flaw or desire
+that's leaving the protagonist feeling incomplete.
+Die!
+You do not die!
+Luke wants to go to flight academy.
+Eddie is an alcoholic racist who hasn't mourned the loss of his brother.
+Shia LaBeouf is a sh**ty human being.
+Your point of attack is the thing that gets the ball rolling.
+This probably has nothing to do with the protagonist,
+and instead focuses on the universe.
+This creates a story element for your protagonist to react to,
+and that reaction becomes the inciting incident.
+And yes, I did get the point of attack and inciting incident reversed in the Hercules video.
+That's my bad. It's been a long time since I've taken this class. Shut up.
+Your point of attack will probably be outside of the protagonist's control or even knowledge,
+and the inciting incident is where the conflict comes home to roost for our protagonist,
+meaning our protagonist needs to do something.
+It can also be something that will eventually lead the main character
+to making an important decision at the end of Act 1.
+That inciting incident marks the end of the first sequence of the first act.
+That first sequence tension is resolved by however the protagonist reacts to that inciting incident.
+Be it finding a bag of money in the desert,
+or volunteering as tribute.
+I volunteer as tribute!
+Realizing the satellite signal is a countdown,
+or finding out that Roger Rabbit allegedly killed a guy.
+Marvin Acme.
+The rabbit cacked him last night.
+In a film with a more passive protagonist, like Mad Max Fury Road,
+the inciting incident is where Furiosa decides to go off-roading.
+And yes, we all know it's Furiosa's story,
+but Max is the point-of-view character and his growth defines the structure of the story,
+and therefore he is the protagonist.
+The inciting incident will also set up the central conflict,
+which is displayed through character motivation.
+That central conflict can be the desire to win over the princess,
+the desire to win over the princess,
+or the desire to win over the...
+robo...
+princess...
+See, this one's compelling and easy to resolve,
+which is why romance is such a common narrative device.
+In super utmost simplest terms, the want will drive the main tension,
+which is resolved at the end of the second act.
+I'm here to erase Clementine Krasinski.
+Max wants to survive and be alone.
+Tony wants to take control of the weapons he's sold.
+Eddie Valiant wants to find out who's made a patsy out of him.
+Somebody's made a patsy out of me, and I'm gonna find a wife!
+And the protagonist's need, which defines the character growth,
+will resolve the tension of the third act.
+Again, these are rules that don't apply to all films,
+and you're more likely to see them in really conventional, easy-to-digest narratives like Disney movies.
+The want is the protagonist's internal motivation and pushes the narrative forward.
+There's this girl.
+Even in ensemble pieces, where everyone gets their own subplot and character arc,
+the momentum of the plot is generally going to be pushed by one character's central conflict.
+In X-Men 2, for instance, it's Wolverine's search for his past,
+which culminates in him turning his back on the one guy with the key to it.
+So, the incident being incited, the second sequence of the first act builds to the creation of the main tension,
+culminating with a lock-in, or the hero deciding to go on their quest.
+You have my word.
+Done!
+The quest can be small and interpersonal, like deciding to go to France to get your cheating fiance back,
+or to erase all memory of your ex-girlfriend,
+or more epic, like volunteering to take the ring to Mordor,
+or deciding to go with Obi-Wan to learn the ways of the Jedi,
+or deciding to help Furiosa and the wives escape Immortan Joe.
+It can also mean that your basic human decency means you are now stuck in a deadly game of cat and mouse.
+The end of Act 1 establishes what's called the main tension.
+We're going to the green place of many mothers.
+Will Luke and Obi-Wan find Princess Leia?
+Will Luella now smart Chigurh?
+Will Jango succeed in rescuing his wife from Kandi?
+Sequence 3 marks the first sequence of Act 2.
+Usually, this will show the quest making some ground,
+and culminate with our heroes achieving some milestone, or learning something.
+Hercules competes his training.
+Simba decides Hakuna Matata.
+Tony begins to develop a new Iron Man suit.
+Sequence 4 sees the build-up to the midpoint,
+which most commonly shows us the protagonist working towards the first serious attempt to achieve their goal.
+I'm erasing you, and I'm happy!
+Megamind trains his replacement rival for their first battle.
+Hercules goes looking for a fight to prove himself.
+Simba begins to revisit his past.
+Sequence 4 culminates with the midpoint.
+Usually, this will change the aim of the hero's quest.
+The midpoint marks some sort of disruption.
+The protagonist runs into his childhood lion best friend,
+disrupting his idyllic life and making him question his decisions.
+Maybe our protagonist's little friend died,
+showing them that they're not only fighting for themselves,
+and also gaining them sympathy in the eyes of the masses.
+Or maybe getting dumped makes them revert to their old, evil ways.
+Joel realizes he doesn't want to have his memory of Clementine erased,
+and begins trying to stop the process.
+Can you hear me? I don't want this anymore! I want to call it off!
+The main tension of the second act hasn't been resolved,
+but something about it has changed.
+The midpoint ups the tension for the final match
+by shifting the focus of the main tension while not yet resolving it.
+The fifth sequence following the midpoint will build on this change.
+The challenge here is generally to keep from second act sag.
+When someone says that there are problems in the second act,
+that's probably what they mean.
+The shift in focus from the midpoint doesn't follow through in a satisfactory manner,
+where there's filler in the middle that lengthens the runtime or adds action scenes,
+but doesn't really add any momentum or tension.
+The fifth sequence will also usually focus on some subplot or secondary character backstory,
+so as not to make the story too monolithic, and also to ease some tension.
+Meg realizes she's falling in love with Hercules.
+The war boy, who was our hero's enemy, now joins the side of the righteous.
+The receptionist, while outwardly dating Mark Ruffalo,
+begins to show an unusual interest in her boss.
+Subplots are important.
+They keep the story from feeling too episodic,
+like one guy just encountering a series of obstacles,
+and other characters can help resolve loose threads and expand on more universal themes.
+The sixth sequence is the last sequence of the second act.
+The end of act two shows us the main culmination, or the resolution of the main tension.
+The end of act two will generally have the protagonist encounter their biggest challenge yet,
+which is why the end of act two typically is when we see our hero at their lowest point.
+Our hero's a zero! Our hero's a zero!
+And is generally the preamble to some momentous decision that defines character growth,
+and creates the new tension in act three.
+We have set out to find the Green Place, only to find out it no longer exists.
+Joel's memories of Clementine have now been all erased.
+Jafar just golfed me into the Himalayas or something,
+and now everything seems hopeless.
+If it's a whodunit, generally this is where you will find out whodunit.
+That's the gun that killed R.K. Maroon, and Doom pulled the trigger.
+And act three will be about bringing whodunit to justice.
+Also, if there is a big betrayal, or the plot is built on some character deceiving another,
+that generally goes here.
+Being your little chickie-poo here was working for me all the time.
+Llewellyn dies at the end of act two of No Country for Old Men,
+and act three is a much more thematic build and release of tension,
+rather than being action-driven as the first two acts had been,
+with the conclusion of the film being much more existential.
+It is still very much three acts, as demonstrated by the build and release of different tensions.
+Sequence seven marks the beginning of act three,
+and begins with the protagonist making some momentous decision that creates act three's tension.
+I suggest we go back the same way we came.
+Act three's tension will be related to the main tension, but is now different.
+The tension is no longer escape with Jango's wife, it's destroy Candyland completely.
+It is no longer will Katniss save herself, but will Katniss and Peeta save each other.
+It is no longer escape to the Green Place, but overthrow the existing power structure completely.
+It is important to note that the third act tension can't come completely out of nowhere.
+It can't simply be an extension of the main tension,
+but must also build on it in order to be satisfying to the audience.
+Holy smoke, he's a dude!
+The twist in the third act is important because it makes the tension more interesting
+than just straight fighting for 45 minutes.
+Although just straight fighting for 45 minutes has become increasingly popular.
+The twist in the third act also generally brings the focus of the third act tension
+from something more grand, like saving the world,
+to something more intimate and character-oriented, like saving a beloved character's life.
+Furiosa gets stabbed.
+This shifts the focus from overthrowing the Citadel to saving her life.
+Wally gets squished.
+This shifts the focus from bringing the humans home to saving Wally's life.
+Same for Meg getting squished.
+Or the MacGuffin being given to the physically weaker, but more central protagonist to go do the thing.
+The twist in the third act isn't also necessarily a twist,
+as Merelda's fake death in Hunchback of Notre Dame brings the conflict to a more intimate place,
+but it doesn't really change anything, because she was always Quasimodo's focus.
+But it is something that narrows or shifts the focus of the third act's main tension.
+Stop!
+The climax shows us the resolution to the final tension.
+Eve races to save Wally and succeeds.
+The magic spell is broken, Beast turns human, and Belle's like,
+eh, you'll do.
+Max gives his blood to save Furiosa's life,
+symbolized by him finally telling her his name.
+Max.
+My name is Max.
+In a romance, the couple finally gets together, and love conquers all,
+though this does not necessarily preclude someone dying.
+The climax usually pertains to some form of character growth,
+such as Luke learning to trust his feelings, allowing him to destroy the Death Star,
+or Megamind's goodness being defined by finally learning from his mistakes,
+which he never did as a villain.
+There's a benefit to losing.
+You get to learn from your mistakes.
+And the character growth we see in the third act was probably addressed in the first sequence.
+The tomb runs.
+Eddie has come to terms with his brother's death and no longer blames all of Toondam for it.
+Aladdin realizes that pretending to be something he's not won't win him love.
+Joel accepts that our memories, even painful ones, make us who we are and must be lived with.
+Shia LaBeouf, well, he's still a s**t,
+but now he's a s**t that stuck a cube in Megatron's chest, I guess.
+But this resolution doesn't always have to be so conventional.
+For instance, with Nightcrawler, where the growth is that he doesn't grow,
+and that's what makes the narrative unsettling.
+Hopefully, you don't notice structure elements while you're watching a movie for the first time,
+unless you're bored and that's all you can focus on.
+And I've definitely done that.
+But they are there for us to learn from and to help us learn how tension and conflict
+is created and maintained throughout a two-hour-ish narrative.
+We don't study the three-act structure to learn how to be more creative,
+but to be more critical of writing and aware of what drives momentum of a story.
+Hulk asserts that learning about act structure is not instructing you how to actually write.
+It provides none of the good stuff that is critical to understanding narrative.
+And I would agree with the first part,
+but not the assessment that it provides no basis for understanding narrative.
+I don't think the study of story helps with the creative process
+so much as it helps us to understand why what we've already created works.
+But structure and tension also does not exist independent from character.
+Far from it.
+You need character motivation in order for narrative to have tension,
+and you need to have plot stuff in order to have character motivation.
+As a writer, if you think only in terms of ticking boxes for the sake of structure,
+yeah, it's probably not going to be a very great story.
+That, I think, is one of the biggest problems with Hercules.
+But it can help us to understand where and how tension and conflict exist and can be bettered.
+I also don't think of the three-act structure as necessarily something to advocate or not advocate,
+but simply the most common and commercial style of narrative,
+and therefore a good place to start learning.
+I don't think it's mandatory for all film narratives to have a three-act structure,
+but I do think it helps to understand how it works before one decides to expand upon that structure.
+It is, after all, the most common and utilized for a reason.
+Thank you for watching.
+If you have any examples or discussions about movies that do or do not necessarily adhere to the three-act structure,
+go ahead and leave them in the comments below.
+Thanks for watching, and I will see you next time.
