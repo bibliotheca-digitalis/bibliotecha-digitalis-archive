@@ -83,7 +83,7 @@ TODO
 ## Channels Fully Archived and Uploaded
 
 - [X] [ContraPoints](https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA)
-- [ ] [hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
+- [X] [hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
 - [X] [Lindsay Ellis](https://www.youtube.com/channel/UCG1h-Wqjtwz7uUANw6gazRw)
 - [ ] [Philosophy
   Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
