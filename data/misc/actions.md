@@ -25,6 +25,12 @@ I try my best not to compete with the original channel. So, in addition to
 providing additional information in from where the video is from, consider this
 extra info that directly differentiates my videos from the original ones.
 
+### Append [Audio Backup] to title
+
+From now on, all videos will have [Audio Backup] appended to the title. This is
+to further distinguish my videos from the original ones. Again, the whole is not
+to compete with the original channel as much as possible.
+
 ## GitHub
 
 ## Removing
