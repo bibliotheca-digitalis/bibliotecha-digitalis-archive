@@ -1,0 +1,904 @@
+1
+00:00:00,000 --> 00:00:05,340
+I thought I'd spend a bit of time making corrections, responding to criticisms, and perhaps clarifying
+
+2
+00:00:05,340 --> 00:00:06,340
+a few things.
+
+3
+00:00:06,340 --> 00:00:11,640
+First of all, thanks for the messages, positive and negative, and I assure you that I do appreciate
+
+4
+00:00:11,640 --> 00:00:13,140
+and read them.
+
+5
+00:00:13,140 --> 00:00:16,800
+One of the most common questions I get asked is, why don't you make more videos?
+
+6
+00:00:16,800 --> 00:00:18,600
+Well, the reason is simple.
+
+7
+00:00:18,600 --> 00:00:22,640
+To make just one video, I first have to spend a lot of time listening to what's being claimed
+
+8
+00:00:22,640 --> 00:00:25,840
+on the internet, in newspapers and TV reports.
+
+9
+00:00:25,840 --> 00:00:30,520
+I have to ensure that any myth I debunk is something that's widespread and popularly
+
+10
+00:00:30,520 --> 00:00:31,520
+believed.
+
+11
+00:00:31,520 --> 00:00:35,400
+That way I can't be accused of creating a straw man argument.
+
+12
+00:00:35,400 --> 00:00:39,220
+Then I spend even more time going through the scientific literature and reading papers
+
+13
+00:00:39,220 --> 00:00:41,760
+that deal with that particular subject.
+
+14
+00:00:41,760 --> 00:00:45,640
+If I didn't bother doing all this research, then of course I could churn out several videos
+
+15
+00:00:45,640 --> 00:00:50,680
+a week, just by sitting in front of a video camera and spouting opinions and beliefs.
+
+16
+00:00:50,680 --> 00:00:55,040
+The whole point of this channel is to get away from mindless opinion and belief, and
+
+17
+00:00:55,040 --> 00:00:58,840
+to explain science as it's represented in the scientific literature.
+
+18
+00:00:58,840 --> 00:01:03,840
+I thought Monitor 301 summed it up rather well in this comment from the forum of my
+
+19
+00:01:03,840 --> 00:01:05,640
+video, Who Am I?
+
+20
+00:01:05,640 --> 00:01:09,180
+No noteworthy scientific credentials to speak of.
+
+21
+00:01:09,180 --> 00:01:10,720
+He's referring to me.
+
+22
+00:01:10,720 --> 00:01:13,360
+And a similar point from Research Siempre.
+
+23
+00:01:13,360 --> 00:01:14,680
+Who is potholder?
+
+24
+00:01:14,680 --> 00:01:17,360
+And what scientific research has he conducted?
+
+25
+00:01:17,360 --> 00:01:20,400
+Just reading IPCC talking points doesn't count.
+
+26
+00:01:20,400 --> 00:01:24,720
+Well, I'm happy to tell you that I don't do any scientific research.
+
+27
+00:01:24,720 --> 00:01:29,000
+All I can do is report what people who do have scientific credentials have discovered
+
+28
+00:01:29,000 --> 00:01:31,240
+through their research.
+
+29
+00:01:31,240 --> 00:01:36,200
+By the way, Research Siempre, I don't use the IPCC as a source, as you could quite easily
+
+30
+00:01:36,200 --> 00:01:42,200
+ascertain by reading the list of my sources provided on the videos and in the video descriptions.
+
+31
+00:01:42,200 --> 00:01:46,240
+In a similar vein, this kind of comment was also quite common.
+
+32
+00:01:46,240 --> 00:01:49,400
+Pothola54 claims that CO2 drives warming.
+
+33
+00:01:49,400 --> 00:01:54,160
+Actually, the claim is that CO2 is one of the factors that drives climate, but never
+
+34
+00:01:54,160 --> 00:01:55,160
+mind.
+
+35
+00:01:55,160 --> 00:01:59,280
+The point is, it's not my claim, because I'm not a climate researcher.
+
+36
+00:01:59,280 --> 00:02:03,640
+What's presented in my videos are the discoveries and conclusions of people who are climate
+
+37
+00:02:03,640 --> 00:02:04,640
+researchers.
+
+38
+00:02:04,640 --> 00:02:08,160
+Now, of course, I may get things wrong in reporting the science.
+
+39
+00:02:08,160 --> 00:02:13,280
+In my last series, Our Origins Made Easy, I issued two errata videos correcting mistakes
+
+40
+00:02:13,280 --> 00:02:17,540
+that had been pointed out by viewers, and I'm also very grateful to those who've pointed
+
+41
+00:02:17,540 --> 00:02:22,200
+out mistakes in the climate change series, so here they are.
+
+42
+00:02:22,200 --> 00:02:25,720
+Several people noticed that this animation in the first video was wrong.
+
+43
+00:02:25,720 --> 00:02:30,000
+It should be the electron shells that are excited, not the nucleus.
+
+44
+00:02:30,000 --> 00:02:34,740
+Zebauer pointed out a mistake in language in my video Climate Change the Objections,
+
+45
+00:02:34,740 --> 00:02:35,740
+in which I said this.
+
+46
+00:02:35,740 --> 00:02:41,360
+A very good correlation between global temperatures and solar output over most of the last 250
+
+47
+00:02:41,360 --> 00:02:46,560
+years, but not the very period that covers a dramatic rise in global temperatures.
+
+48
+00:02:46,560 --> 00:02:50,360
+I agree the term dramatic is meaningless and hyperbolic.
+
+49
+00:02:50,360 --> 00:02:55,600
+Scientifically speaking, the rise in temperatures should be described as statistically significant.
+
+50
+00:02:55,600 --> 00:03:00,240
+In other words, it's due to something other than normal background fluctuations.
+
+51
+00:03:00,240 --> 00:03:04,580
+There were two mistakes in my most recent video, hurricanes, atolls and coral.
+
+52
+00:03:04,580 --> 00:03:09,200
+The calcium carbonate that makes up coral skeletons takes the mineral form aragonite,
+
+53
+00:03:09,200 --> 00:03:13,920
+not calcite, and the chemical equation I showed in the paper related to lower saturation of
+
+54
+00:03:13,920 --> 00:03:18,520
+carbonate ions in seawater, not the formation of carbonic acid.
+
+55
+00:03:18,520 --> 00:03:23,200
+This is yet another problem for coral that I didn't have time to discuss, but both saturation
+
+56
+00:03:23,200 --> 00:03:26,320
+and acidification are discussed in the same paper.
+
+57
+00:03:26,320 --> 00:03:29,320
+I just put up the wrong image by mistake.
+
+58
+00:03:29,320 --> 00:03:33,080
+Here's another error in my videos which looks rather serious.
+
+59
+00:03:33,080 --> 00:03:35,400
+This guy potholer isn't worth the time to watch.
+
+60
+00:03:35,400 --> 00:03:39,480
+I caught him in another video manipulating data the second after claiming the other side
+
+61
+00:03:39,480 --> 00:03:40,960
+of the debate is manipulating.
+
+62
+00:03:40,960 --> 00:03:43,620
+I've been manipulating data?
+
+63
+00:03:43,620 --> 00:03:48,940
+Well then, I definitely have to correct this and apologise profusely to my subscribers.
+
+64
+00:03:48,940 --> 00:03:51,700
+What did I manipulate, night version?
+
+65
+00:03:51,700 --> 00:03:56,180
+In the video climate change supplement at around one minute, watch how he uses the images
+
+66
+00:03:56,180 --> 00:03:59,540
+to jump past Jones's reply to question A and jumps to B.
+
+67
+00:03:59,540 --> 00:04:03,540
+Oh, so I didn't manipulate any data at all.
+
+68
+00:04:03,540 --> 00:04:05,260
+Apparently, I missed something.
+
+69
+00:04:05,260 --> 00:04:08,680
+Okay, still, let's take a look and see what I missed.
+
+70
+00:04:08,680 --> 00:04:11,660
+Here's the part of the video night version mentions.
+
+71
+00:04:11,660 --> 00:04:12,740
+Night version goes on.
+
+72
+00:04:12,740 --> 00:04:15,300
+I tried to read the text, but it is concealed.
+
+73
+00:04:15,300 --> 00:04:18,180
+Well, no, it's not concealed at all.
+
+74
+00:04:18,180 --> 00:04:22,660
+I was just giving you an establishing shot to show the webpage with the BBC logo at the
+
+75
+00:04:22,660 --> 00:04:28,020
+top and then I dissolved to the answer that was the focus of the Daily Mail story.
+
+76
+00:04:28,020 --> 00:04:33,340
+If you want to see the entire BBC webpage, I give a link to it in my video description,
+
+77
+00:04:33,340 --> 00:04:38,340
+so if I did want to conceal this information, obviously I'm doing a piss poor job.
+
+78
+00:04:38,340 --> 00:04:41,820
+He does this because he doesn't like Jones's answer to A.
+
+79
+00:04:41,820 --> 00:04:45,460
+But science has nothing to do with liking or disliking answers.
+
+80
+00:04:45,460 --> 00:04:50,020
+It's only concerned with whether answers are based on proper observation and are correct.
+
+81
+00:04:50,020 --> 00:04:54,780
+No, the reason I focused on the answer to question B is because that was the focus of
+
+82
+00:04:54,780 --> 00:04:59,080
+the Daily Mail headline that was copied all over the internet.
+
+83
+00:04:59,080 --> 00:05:01,740
+So what is this mysterious answer A?
+
+84
+00:05:01,740 --> 00:05:08,820
+Well, Jones looks at three periods of warming over the past 150 years, 1860 to 1880, 1910
+
+85
+00:05:08,820 --> 00:05:12,900
+to 1940 and 1975 to 2009.
+
+86
+00:05:12,900 --> 00:05:18,140
+And he told the BBC all three have statistically significant periods of warming.
+
+87
+00:05:18,140 --> 00:05:22,140
+At first I didn't know why Knight version thought this was so extraordinary.
+
+88
+00:05:22,140 --> 00:05:26,620
+You can find these and other examples of past warming in dozens of papers and they are clearly
+
+89
+00:05:26,620 --> 00:05:28,660
+shown in reconstructions.
+
+90
+00:05:28,660 --> 00:05:32,820
+But then I searched the political websites and it turns out that this is yet another
+
+91
+00:05:32,820 --> 00:05:37,780
+argument that climate change is natural, the climate always changes and that there is nothing
+
+92
+00:05:37,780 --> 00:05:41,140
+unusual about the current rise in temperatures.
+
+93
+00:05:41,140 --> 00:05:45,140
+Anyone who's watched this series knows that of course that's true.
+
+94
+00:05:45,140 --> 00:05:49,700
+Carbon dioxide is a natural gas that's been around for billions of years and many times
+
+95
+00:05:49,700 --> 00:05:54,420
+in the past the Earth has warmed and cooled as levels of carbon dioxide have risen and
+
+96
+00:05:54,420 --> 00:05:55,460
+fallen.
+
+97
+00:05:55,460 --> 00:05:58,000
+But as I've also mentioned more than once…
+
+98
+00:05:58,000 --> 00:06:02,700
+The climate isn't driven by carbon dioxide alone because carbon dioxide isn't the only
+
+99
+00:06:02,700 --> 00:06:04,780
+factor that affects global temperatures.
+
+100
+00:06:04,780 --> 00:06:08,860
+I don't want to go through all this again, just watch the earlier videos.
+
+101
+00:06:08,860 --> 00:06:12,580
+Climate is driven by a number of different factors known as forcings.
+
+102
+00:06:12,580 --> 00:06:18,420
+The 1860 to 1880 rise in temperatures coincided with an increase in solar forcing.
+
+103
+00:06:18,420 --> 00:06:24,000
+The 1910 to 1940 period also experienced solar forcing but climatologists have found other
+
+104
+00:06:24,000 --> 00:06:29,380
+influencing factors such as higher levels of carbon dioxide and Atlantic Ocean circulation
+
+105
+00:06:29,380 --> 00:06:30,460
+patterns.
+
+106
+00:06:30,500 --> 00:06:36,140
+All these forcings have to be looked at together, not just carbon dioxide alone.
+
+107
+00:06:36,140 --> 00:06:40,700
+While we're on the subject of the BBC Jones Q&A, Guffpot, who writes more words on my
+
+108
+00:06:40,700 --> 00:06:45,420
+channel than I do, insisted that the Daily Mail got its headline right.
+
+109
+00:06:45,420 --> 00:06:50,260
+So as always when someone points out a mistake, I ask where and when Jones had said there'd
+
+110
+00:06:50,260 --> 00:06:53,220
+been no warming since 1995.
+
+111
+00:06:53,220 --> 00:06:57,940
+Guffpot responded, are you really insisting those specific words must be spoken?
+
+112
+00:06:57,980 --> 00:07:03,180
+No, but I do insist that if a newspaper is going to paraphrase, then it does have a duty
+
+113
+00:07:03,180 --> 00:07:07,120
+not to completely change the meaning of what someone says.
+
+114
+00:07:07,120 --> 00:07:11,260
+In case I made a mistake, let's look again at what Jones really did say.
+
+115
+00:07:11,260 --> 00:07:15,860
+I also calculated the trend for the period 1995 to 2009.
+
+116
+00:07:15,860 --> 00:07:21,020
+This trend at 0.12 degrees centigrade per decade is positive.
+
+117
+00:07:21,020 --> 00:07:25,380
+To correctly paraphrase what Jones is saying, the temperature trend is up.
+
+118
+00:07:25,380 --> 00:07:30,740
+He's saying the Earth has been warming by about 0.12 degrees centigrade per decade since
+
+119
+00:07:30,740 --> 00:07:32,140
+1995.
+
+120
+00:07:32,140 --> 00:07:37,340
+He goes on, but not significant at the 95% significance level.
+
+121
+00:07:37,340 --> 00:07:41,260
+The positive trend is quite close to the significance level.
+
+122
+00:07:41,260 --> 00:07:45,820
+In other words, there's maybe a 90% confidence level that it's more likely than not that
+
+123
+00:07:45,820 --> 00:07:52,220
+the warming is caused by something other than background fluctuations, but we can't be 95%
+
+124
+00:07:52,220 --> 00:07:53,300
+confident of that.
+
+125
+00:07:53,300 --> 00:07:57,380
+We're confident we are about the cause of this warming, whether it's due to carbon dioxide,
+
+126
+00:07:57,380 --> 00:08:00,480
+reflections from the Moon, or Al Gore letting off steam.
+
+127
+00:08:00,480 --> 00:08:06,180
+The fact is, Jones said that the Earth has been warming since 1995.
+
+128
+00:08:06,180 --> 00:08:12,140
+Could anyone really think the Daily Mail got that right when it claimed the complete opposite?
+
+129
+00:08:12,140 --> 00:08:20,180
+It's like watching this, and then seeing the headline in the Daily Mail the next day, or
+
+130
+00:08:20,180 --> 00:08:23,740
+seeing this headline in 1963.
+
+131
+00:08:23,740 --> 00:08:24,740
+Or this.
+
+132
+00:08:24,740 --> 00:08:30,140
+I often wonder just how outrageously wrong a claim has to be before critics of climate
+
+133
+00:08:30,140 --> 00:08:32,580
+science have the sense to disown it.
+
+134
+00:08:32,580 --> 00:08:36,060
+If you're going to see science as some kind of a game, does it really mean you have to
+
+135
+00:08:36,060 --> 00:08:40,640
+defend someone on your team who says the sky is green?
+
+136
+00:08:40,640 --> 00:08:46,100
+By all means castigate the IPCC for sloppy mistakes like the melting of Himalayan glaciers
+
+137
+00:08:46,100 --> 00:08:49,640
+or Al Gore's misrepresentation of sea level rise.
+
+138
+00:08:49,640 --> 00:08:54,720
+But then equally acknowledge the sloppy mistakes by researchers like Sun and Ballyunas, or
+
+139
+00:08:54,720 --> 00:08:58,200
+fabrications in the film The Great Global Warming Swindle.
+
+140
+00:08:58,200 --> 00:09:02,720
+If the Daily Mail obviously got something wrong, don't stubbornly insist it was right
+
+141
+00:09:02,720 --> 00:09:07,220
+simply because it's on what you childishly believe is your side.
+
+142
+00:09:07,220 --> 00:09:11,360
+We should all be mature enough to want to understand what's happening in nature, and
+
+143
+00:09:11,360 --> 00:09:15,320
+acknowledge when something's right and when it's wrong.
+
+144
+00:09:15,320 --> 00:09:18,760
+Another common complaint is that I've ignored something.
+
+145
+00:09:18,880 --> 00:09:23,880
+Some of the myths people think I'm ignoring are on other videos, like the warming troposphere.
+
+146
+00:09:23,880 --> 00:09:28,240
+You really have to watch them all before hitting the keyboard and saying I've missed something.
+
+147
+00:09:28,240 --> 00:09:32,340
+Some of the myths I haven't dealt with yet, and other myths are completely new to me because
+
+148
+00:09:32,340 --> 00:09:35,680
+they keep popping up on the internet like gophers.
+
+149
+00:09:35,680 --> 00:09:39,760
+But Zebower, you can debunk a lot of these myths quite easily yourself.
+
+150
+00:09:39,760 --> 00:09:43,060
+Just go online and find out where the information comes from.
+
+151
+00:09:43,060 --> 00:09:46,620
+If there's no source for it, chances are it's made up.
+
+152
+00:09:46,620 --> 00:09:49,600
+If a source is quoted, track that down.
+
+153
+00:09:49,600 --> 00:09:52,960
+Then find out where that source got the information from.
+
+154
+00:09:52,960 --> 00:09:58,700
+Track that right back to its origins, then compare the original research with the myth.
+
+155
+00:09:58,700 --> 00:10:02,180
+And if you think something on Wikipedia, or something you thought up at the breakfast
+
+156
+00:10:02,180 --> 00:10:07,540
+table, debunks a hundred years of well-researched physics, try to find out why researchers haven't
+
+157
+00:10:07,540 --> 00:10:09,580
+thought of the same thing.
+
+158
+00:10:09,580 --> 00:10:14,260
+Or why they do know about it, but don't come to the same conclusions that you do.
+
+159
+00:10:14,260 --> 00:10:18,360
+I wish I could investigate other mistakes people say I've made in the videos, but for
+
+160
+00:10:18,360 --> 00:10:21,940
+some reason they seem very reluctant to tell me what they are.
+
+161
+00:10:21,940 --> 00:10:25,700
+All I get are generalisations like this.
+
+162
+00:10:25,700 --> 00:10:30,240
+I don't mind being told I've made mistakes in the videos, I've repeatedly invited corrections
+
+163
+00:10:30,240 --> 00:10:34,140
+because I want to ensure that any errors are expunged from my channel.
+
+164
+00:10:34,140 --> 00:10:38,620
+So any time people tell me I'm lying or I've made mistakes, I've always asked them to specify
+
+165
+00:10:38,620 --> 00:10:40,480
+what these are.
+
+166
+00:10:40,480 --> 00:10:44,520
+The Warhead 3000 kept telling me the videos were full of lies, but couldn't summon up
+
+167
+00:10:44,520 --> 00:10:48,600
+the strength to tell me where they were, I even posted a form for him to fill out to
+
+168
+00:10:48,600 --> 00:10:50,400
+make it easier.
+
+169
+00:10:50,400 --> 00:10:54,640
+So I would welcome the citation of any mistakes, and I don't even mind if they're characterised
+
+170
+00:10:54,640 --> 00:10:55,720
+as lies.
+
+171
+00:10:55,720 --> 00:11:00,320
+But if you're going to make accusations like these, do me the courtesy of substantiating
+
+172
+00:11:00,320 --> 00:11:01,320
+them.
+
+173
+00:11:01,320 --> 00:11:04,820
+I go to a lot of trouble to ensure that my videos are an accurate reporting of what's
+
+174
+00:11:04,820 --> 00:11:06,520
+in the scientific literature.
+
+175
+00:11:06,520 --> 00:11:11,320
+I have to go through dozens of papers, catalogue authors, publications, dates, and make notes
+
+176
+00:11:11,320 --> 00:11:12,840
+on the evidence presented.
+
+177
+00:11:12,840 --> 00:11:16,760
+I have to check references to make sure I've found and read every important paper on the
+
+178
+00:11:16,760 --> 00:11:17,760
+issue.
+
+179
+00:11:17,760 --> 00:11:22,440
+So if you claim these videos are full of lies and mistakes, then have the balls or the intelligence
+
+180
+00:11:22,440 --> 00:11:26,480
+or the maturity or the integrity to point them out.
+
+181
+00:11:26,480 --> 00:11:30,200
+After I've done all this work to present a factually accurate reflection of the science
+
+182
+00:11:30,200 --> 00:11:35,880
+as best I can, and willingly agree to correct any mistakes, don't just hide behind fatuous
+
+183
+00:11:35,880 --> 00:11:38,960
+accusations that you refuse to substantiate.
+
+184
+00:11:38,960 --> 00:11:43,520
+You have no excuse not to follow up my sources, because they're given to you in full.
+
+185
+00:11:43,520 --> 00:11:46,040
+I've got an open forum on every video.
+
+186
+00:11:46,040 --> 00:11:50,920
+No comments on my videos get removed unless they breach the guidelines in the channel,
+
+187
+00:11:50,920 --> 00:11:52,720
+and no one gets blocked.
+
+188
+00:11:52,720 --> 00:11:56,600
+Saying that my videos are full of mistakes and then not being able to pinpoint a single
+
+189
+00:11:56,600 --> 00:12:02,220
+mistake doesn't reflect badly on my videos, it reflects on your shallow level of intellect.
+
+190
+00:12:02,220 --> 00:12:06,640
+It suggests that instead of lifting a finger to check a single fact, you're just sticking
+
+191
+00:12:06,640 --> 00:12:10,540
+your fingers in your ears and shouting liar, because you've heard something you didn't
+
+192
+00:12:10,540 --> 00:12:12,340
+particularly want to hear.
+
+193
+00:12:12,340 --> 00:12:16,020
+This is not sceptical, it's infantile.
+
+194
+00:12:16,020 --> 00:12:21,400
+Also again to detractors, please try to watch the videos before commenting, because mindlessly
+
+195
+00:12:21,400 --> 00:12:27,140
+repeating a myth that's already been busted won't make it magically come to life again.
+
+196
+00:12:27,140 --> 00:12:31,300
+In the fourth video of this series, I cited an analysis of the scientific literature in
+
+197
+00:12:31,300 --> 00:12:36,700
+the 1970s, showing that the consensus of another ice age was a complete myth.
+
+198
+00:12:36,700 --> 00:12:37,700
+Remember?
+
+199
+00:12:37,700 --> 00:12:43,900
+Three climatologists searched scientific journals between 1965 and 1979.
+
+200
+00:12:43,900 --> 00:12:49,940
+And yes, they found seven papers predicting not an ice age, but global cooling.
+
+201
+00:12:49,940 --> 00:12:55,580
+The only problem is, they also found 44 articles predicting global warming.
+
+202
+00:12:55,580 --> 00:12:56,580
+Well guess what?
+
+203
+00:12:56,580 --> 00:12:59,060
+A good myth never dies.
+
+204
+00:12:59,060 --> 00:13:02,980
+Thirty years ago, the scientific consensus was that the climate was cooling.
+
+205
+00:13:02,980 --> 00:13:07,500
+According to scientists of the 1970s, we should be entering a mini ice age, remember that
+
+206
+00:13:07,500 --> 00:13:08,500
+bit of science?
+
+207
+00:13:08,500 --> 00:13:10,500
+No, I don't.
+
+208
+00:13:10,500 --> 00:13:11,700
+And neither do you.
+
+209
+00:13:11,700 --> 00:13:15,980
+This is either a figment of your imagination, or something you've read, and not being the
+
+210
+00:13:15,980 --> 00:13:20,860
+least bit sceptical, something you swallowed without bothering to check.
+
+211
+00:13:20,860 --> 00:13:25,300
+I also rebutted the misconception that an unusual weather event can be linked to climate
+
+212
+00:13:25,300 --> 00:13:26,300
+change.
+
+213
+00:13:26,300 --> 00:13:31,500
+Similarly, unusually cold weather doesn't show there's no anthropogenic climate change.
+
+214
+00:13:31,500 --> 00:13:36,220
+Climate scientists take a moving average of temperatures globally over five to eleven
+
+215
+00:13:36,220 --> 00:13:41,460
+years, so hands up those who still think we measure average global temperatures by looking
+
+216
+00:13:41,460 --> 00:13:44,420
+out the bedroom window.
+
+217
+00:13:44,420 --> 00:13:47,900
+Look I don't mind if you can show that the facts I present are erroneous.
+
+218
+00:13:47,900 --> 00:13:51,620
+As I've said, I'd welcome that, because I don't like errors in my videos.
+
+219
+00:13:51,620 --> 00:13:57,060
+So if I cite papers that show the solar system is not warming, and papers that show no significant
+
+220
+00:13:57,060 --> 00:14:01,780
+solar activity over the last thirty years, then by all means show me how I read that
+
+221
+00:14:01,780 --> 00:14:05,260
+incorrectly, or cite other research that overturns it.
+
+222
+00:14:05,260 --> 00:14:08,220
+Don't just repeat the same old internet myths.
+
+223
+00:14:08,220 --> 00:14:10,060
+Like this.
+
+224
+00:14:10,060 --> 00:14:15,660
+Unfortunately, times run out, so I'm going to do two separate videos to look at alleged
+
+225
+00:14:15,660 --> 00:14:19,880
+mistakes in Meet the Scientists and those hacked emails.
+
+226
+00:14:19,880 --> 00:14:22,980
+These videos seem to have provoked the most vehement responses.
+

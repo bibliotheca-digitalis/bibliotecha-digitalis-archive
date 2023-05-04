@@ -1,0 +1,139 @@
+Isn't it amazing? A tabloid newspaper runs a story,
+calls it Climate Gate 2, and the blogosphere lights up.
+According to the Mail, a retired scientist who worked for the NCEI,
+the National Centres for Environmental Information, said Noah breached protocol
+by fast-forwarding a flawed scientific paper that artificially raised temperatures
+and artificially erased the so-called pause in global warming.
+And without bothering to check the accuracy of the story, which comes from a newspaper
+famous for reporting a 50-foot crab off the coast of Whitstable, and a reporter with a
+history of making up spurious stories about climate science, bloggers and politicians
+announced it was all true. I thank Dr John Bates for courageously stepping forward to
+tell the truth about Noah's senior officials playing fast and loose with the data in order
+to meet a politically pre-determined conclusion. This endorsement came not from a blogger,
+but from senior members of the House Committee on Science, Space and Technology in Congress,
+within hours of publication and without even the need to check the story.
+So let's check it for them.
+There are two issues here. One is whether Noah fast-forwarded publication to get the paper
+published in time for the Paris climate meeting. That may be best answered by the publisher itself,
+Science, whose editor sent a copy of his email exchange with the Mail's reporter to Roz Pidcock.
+According to Science, the Noah paper by Tom Karl et al. took six months to thoroughly peer review,
+two months longer than normal, and all of the data were publicly available prior to publication.
+That sheds a bit more light on whether the paper was fast-forwarded,
+but none of this information was in the Mail story.
+Of course that doesn't mean protocols weren't breached,
+and that's a serious question and one that needs to be properly investigated.
+The other issue is whether the paper was flawed, and that's much easier to determine.
+The Karl paper explained that the so-called pause in global warming
+was probably the result of erroneous ocean temperature measurements.
+The pause refers to a slowdown at the beginning of this century
+in the rate of warming of the atmosphere, where about 8% of global warming is going.
+90% is going into the oceans.
+To put it simply, the trend line appears to go up more steeply in the 90s than in the noughties.
+So a lot of studies have been done by lots of different scientific institutions
+to try to find out why the atmospheric trend line changed,
+and it turns out to be most likely a combination of factors.
+Lower solar output, increasing aerosol pollution,
+and the transfer of extra heat into the oceans all play a part.
+And it was this transfer of heat into the oceans that NOAA was mostly concerned with,
+because that would show up in higher sea surface temperatures.
+In the old days, this temperature reading was always taken on ships.
+Then a system of buoys was set up to take these measurements.
+But researchers noticed a problem.
+The measurements from the ships was recording slightly higher temperatures than the buoys,
+because the intake of seawater was near the hot engine room.
+And as the number of readings from buoys increased,
+that difference, called a bias, was influencing the trend line.
+So crudely put, it goes like this.
+Temperature reading from a ship, temperature reading from a ship, temperature reading from a ship.
+Then we switch to a temperature reading from a buoy, and another reading from a buoy.
+Now obviously the ocean hasn't suddenly cooled, but if you publish this as a temperature graph,
+then it's going to look as though it has, so the data has to be adjusted.
+This is what caused consternation in the blogosphere,
+because those who don't understand the difference between temperature anomalies and trend lines
+thought NOAA was deliberately trying to push up temperatures.
+But according to the Mail, this newspaper has learnt that NOAA has now decided that the sea
+data set will have to be replaced and substantially revised just 18 months after it was issued,
+because it used unreliable methods which overstated the speed of warming.
+Well, the Mail may have just found out about it, but it wasn't a surprise to everybody else.
+The 2015 results were part of an ongoing series of studies
+under a programme called Extended Reconstruction Sea Surface Temperature, or IRST for short.
+The 2015 results were called IRST4, updating the previously much less accurate IRST3B.
+And when IRST5 comes out, that's the new data set the Mail is referring to,
+it'll be more accurate still. A preliminary report suggests it'll bring the trend down
+about 10% from IRST4, but it'll still be about 50% up from IRST3B.
+So contrary to the Mail's claim, IRST5 isn't being published because IRST4 used unreliable methods
+or overstated the speed of warming. It'll be published because it's part of a continuous
+process of updating and increasing the accuracy of data.
+Science rarely has eureka moments, it just gets more and more accurate,
+as more and better measurements are taken. IRST5 will itself be replaced by IRST6.
+So the updating of information is not evidence that the data set was flawed,
+let alone fraudulently manipulated. Perhaps the most damning evidence for
+that is this quote in the Mail story, supposedly from John Bates.
+He said,
+It's a line that's been repeated by bloggers, newspapers and TV networks that regularly run
+stories trying to undermine climate science. But did Bates really say that?
+David Rose has been accused of making up quotes by someone he interviewed before,
+and if he follows past practice, he'll refuse to release his notes or recordings of the Bates
+interview for verification. But fortunately, we can check what
+Bates actually did say on the subject elsewhere, without having David Rose act as our rather
+questionable interpreter. In his own words, on a climate blog run by Judith Curry,
+Bates explains the problem he has with the Carl paper and the archiving of the IRST4 data set.
+This was posted just before the Mail published its story,
+and the contrast is revealing. The link to this is in my video description,
+so take the time to read it. You'll see why the Mail chose to embellish Bates' actual complaints,
+because his actual complaints would have put their readers to sleep and not cause much of a stir.
+So what does Bates have to say about, they had good data from buoys and they threw it out?
+Funnily enough, absolutely nothing. His only mention of the procedure is here,
+and it's purely factual. For ocean temperatures, the IRST4 is used in the K15 paper,
+that's the Carl paper, and represents a major update from the previous version.
+The bias correction procedure was changed, and this resulted in different SST anomalies
+and different trends during the last 15 plus years relative to IRST3. Which of course is all true,
+and he certainly doesn't suggest good data from buoys was thrown out.
+And since the Mail story was published, Bates has reportedly told ClimateWire that he's not
+suggesting any malfeasance. The issue here is not an issue of tampering with data, but rather
+really of timing of a release of a paper that had not properly disclosed everything it was, he said.
+And he told Associated Press the same thing.
+It's really a story of not disclosing what you did, Bates said in the interview,
+it's not trumped up data in any way, shape or form. But whether Bates said Noah was throwing
+out good data or Rose did, it's complete nonsense anyway. Noah didn't throw out the good data from
+buoys at all, they did completely the opposite. Instead of relying mostly on ship data, IRST4
+researchers overwhelmingly favoured data from buoys, as is explained in all the published
+research. And if the reference to changing good data is a reference to adjusting the temperature
+data to take account of the difference between ships and buoys, then it's absurd to claim that
+this is throwing out good data. No one in climate research disagrees with the decision to eliminate
+the bias, not even Bates. If it hadn't been done, the record would be showing a spurious temperature
+drop, which I'm sure is what David Rose would like to see, but it doesn't match reality.
+Whatever objections Rose has to the way it was done, the way it was done turned out to be right.
+A January 2017 paper by Zeke Housefather et al. confirmed the validity of the Noah adjustments,
+and concluded that they agreed with what other scientific institutions had found,
+including Berkeley Earth, the Hadley Centre in the UK, and the Japan Meteorological Agency.
+All get the same results as Noah. Rose tried to substantiate his claims with a graph,
+which purports to show that Noah is fraudulently raising temperatures. In fact, all it shows is
+that the male doesn't understand temperature reconstructions. They're not showing global
+temperatures, they're showing global temperature anomalies. Different institutions use different
+baselines. That makes no difference to absolute temperatures or temperature trends. These graphs
+show the variance of those temperatures from different averages in the past. Hadley uses
+the baseline 1961 to 1990, while Noah uses the baseline 1901 to 2000. Putting these together
+without adjusting the baseline is like putting two graphs together, one measuring Fahrenheit
+and the other measuring centigrade and claiming that the Fahrenheit graph shows more warming.
+The male also claims, in the caption, that the graph reveals that Noah has been adjusted
+to show a steeper warming trend. But of course it does nothing of the sort. All it reveals is that
+the male doesn't understand how to put two graphs on the same baseline, so that we can compare them
+and see what the trend is. Fortunately for us, Housefather has done just that. And guess what?
+The trend is exactly the same. Why didn't the male put the two graphs on the same baseline?
+Because if they had, they would have proved that the Noah dataset agrees perfectly with verified
+data from Hadley. And that's not the conclusion their readers want to hear. Taken together with
+the land data, the Noah trend again shows no slowdown in global warming. Not just from Noah,
+but from other scientific institutions as well, like Berkeley Earth, NASA and
+Canton and Way. They all show no global warming pause. There are a lot more errors in the male
+story, and if I was doing my usual month-long investigation, I'd go in-depth and pick it apart
+in more detail. But at least I've done some checking, which is more than can be said for
+the bloggers and the politicians who immediately proclaimed the story true. So I'm not saying
+accusations by tabloid newspapers should be dismissed, but they should at least be checked,
+especially those with a history of getting their facts wrong. What's really shocking is that the
+House Committee on Science, Space and Technology, which oversees science on behalf of the most
+powerful country in the world, is happy to blindly believe a tabloid newspaper that says Noah got it
+wrong, rather than peer-reviewed scientific papers that verified Noah's conclusions,
+and scientific institutions around the world that got exactly the same results.
+Maybe the House Committee on Science, Space and Technology's next job
+should be to prepare defences against Crabzilla. It must be true. It's in the mail.

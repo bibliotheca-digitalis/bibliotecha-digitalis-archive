@@ -1,0 +1,548 @@
+1
+00:00:00,000 --> 00:00:19,720
+For a hundred thousand years, humans have looked up at the night sky and wondered about
+
+2
+00:00:19,720 --> 00:00:22,160
+those awesome points of light.
+
+3
+00:00:22,160 --> 00:00:23,160
+What are they?
+
+4
+00:00:23,160 --> 00:00:24,300
+What are they made of?
+
+5
+00:00:24,300 --> 00:00:26,480
+How did they get there?
+
+6
+00:00:26,480 --> 00:00:31,100
+They didn't have the technology to find out, so they guessed that magical beings had created
+
+7
+00:00:31,100 --> 00:00:32,280
+it all.
+
+8
+00:00:32,280 --> 00:00:37,520
+If you prefer making wild guesses instead of using observation, measurement and calculation,
+
+9
+00:00:37,520 --> 00:00:39,480
+then here's a sealed box.
+
+10
+00:00:39,480 --> 00:00:43,440
+Spend the next ten minutes guessing what's inside and come back again at the end of this
+
+11
+00:00:43,440 --> 00:00:44,880
+video.
+
+12
+00:00:44,880 --> 00:00:49,720
+Because this video doesn't cover what we guess about the universe, but what we know, and
+
+13
+00:00:49,720 --> 00:00:52,440
+more importantly, how we know it.
+
+14
+00:00:52,440 --> 00:01:01,060
+How do we know where the stars and galaxies came from and how old they are?
+
+15
+00:01:01,060 --> 00:01:04,960
+The first person to take a stab at gauging the scale of the world around him was the
+
+16
+00:01:04,960 --> 00:01:08,340
+Greek scientist Eratosthenes of Cyrene.
+
+17
+00:01:08,340 --> 00:01:13,000
+He knew that on the longest day of the year, the sun was directly overhead at Syene in
+
+18
+00:01:13,000 --> 00:01:17,480
+the south of Egypt, but cast a shadow in Alexandria to the north.
+
+19
+00:01:17,480 --> 00:01:22,260
+By measuring the length of the shadow, he could work out the Earth's diameter.
+
+20
+00:01:22,260 --> 00:01:27,260
+And while the Earth might be spherical, the dogma of a fixed Earth still held sway, backed
+
+21
+00:01:27,260 --> 00:01:29,820
+by a powerful church.
+
+22
+00:01:29,820 --> 00:01:34,520
+Problem was, this didn't fit the observable evidence, especially the observation that
+
+23
+00:01:34,520 --> 00:01:40,760
+some wandering stars, or planets in Greek, had very erratic orbits around the Earth.
+
+24
+00:01:40,760 --> 00:01:44,980
+When the telescope was invented, these planets turned out to be very different to the fixed
+
+25
+00:01:44,980 --> 00:01:46,140
+stars.
+
+26
+00:01:46,140 --> 00:01:51,260
+But it wasn't until Johannes Kepler calculated the exact orbits of the planets that a model
+
+27
+00:01:51,260 --> 00:01:54,740
+of the solar system at last fit the observations.
+
+28
+00:01:54,740 --> 00:02:02,320
+His law of planetary motion turned this into this.
+
+29
+00:02:02,320 --> 00:02:07,660
+In the 18th century, a transit of Venus across the sun, timed at opposite ends of the Earth,
+
+30
+00:02:07,660 --> 00:02:12,540
+made it possible to calculate the exact distance of the sun, and by extension the distances
+
+31
+00:02:12,540 --> 00:02:14,600
+of all the known planets.
+
+32
+00:02:14,600 --> 00:02:16,980
+But that still left the stars.
+
+33
+00:02:16,980 --> 00:02:21,080
+The easiest way to measure their distance is a system called triangulation, which is
+
+34
+00:02:21,080 --> 00:02:23,940
+used to measure distant objects on Earth.
+
+35
+00:02:23,940 --> 00:02:27,820
+With stars, the baseline is the Earth's orbit around the sun.
+
+36
+00:02:27,820 --> 00:02:34,900
+Take an angle measurement here, and six months later here, and just do the math.
+
+37
+00:02:34,900 --> 00:02:39,460
+This principle was known in the 17th century, that their instruments simply weren't accurate
+
+38
+00:02:39,460 --> 00:02:42,380
+enough to measure such a tiny angle.
+
+39
+00:02:42,380 --> 00:02:45,740
+But in 1838 the technology had caught up.
+
+40
+00:02:45,740 --> 00:02:51,140
+The Prussian astronomer Bessel found that the binary star 61 Cygni was an astounding
+
+41
+00:02:51,140 --> 00:02:53,260
+60 trillion miles away.
+
+42
+00:02:53,260 --> 00:02:57,440
+It was a distance so huge that it had to be measured in terms of the number of years it
+
+43
+00:02:57,440 --> 00:03:01,820
+took light to cross it, 10.3 light years.
+
+44
+00:03:01,820 --> 00:03:05,740
+Our universe just got bigger.
+
+45
+00:03:05,740 --> 00:03:10,500
+Triangulation only works for stars up to 100 light years away, but it was a start.
+
+46
+00:03:10,500 --> 00:03:14,780
+Knowing the distances of these stars, astronomers could work out the relationship between a
+
+47
+00:03:14,820 --> 00:03:19,900
+star's distance and its brightness, because closer stars are generally brighter than distant
+
+48
+00:03:19,900 --> 00:03:21,340
+ones.
+
+49
+00:03:21,340 --> 00:03:25,500
+Using this calculation, they could now estimate the distance of the faintest stars they could
+
+50
+00:03:25,500 --> 00:03:26,500
+see.
+
+51
+00:03:26,500 --> 00:03:30,380
+It was only an estimate, but our universe got bigger again.
+
+52
+00:03:30,380 --> 00:03:35,940
+We seemed to be on the edge of a huge wheel of stars in space.
+
+53
+00:03:35,940 --> 00:03:40,220
+While the brightness of a star gives us an estimate of its distance, confirmation comes
+
+54
+00:03:40,220 --> 00:03:43,020
+in another trick of triangulation.
+
+55
+00:03:43,020 --> 00:03:47,060
+In 1987, a star was seen to explode inside our galaxy.
+
+56
+00:03:47,060 --> 00:03:51,740
+The exploding star is called a supernova, and it's very bright.
+
+57
+00:03:51,740 --> 00:03:56,560
+As it happened, this particular supernova was surrounded by a huge gas cloud far out
+
+58
+00:03:56,560 --> 00:03:57,900
+into space.
+
+59
+00:03:57,900 --> 00:04:03,260
+The light from the exploding supernova raced across the gap, and eight months later it
+
+60
+00:04:03,260 --> 00:04:05,460
+hit the surrounding gas cloud.
+
+61
+00:04:05,460 --> 00:04:08,980
+Cosmologists saw the reflective glow.
+
+62
+00:04:08,980 --> 00:04:13,220
+We know the speed of light, so we know how far it can travel in eight months.
+
+63
+00:04:13,220 --> 00:04:17,520
+And that means we know the distance between the supernova and the gas cloud.
+
+64
+00:04:17,520 --> 00:04:22,140
+All cosmologists had to do is measure the angle between the two, as seen from Earth,
+
+65
+00:04:22,140 --> 00:04:25,020
+and once again its simple triangulation.
+
+66
+00:04:25,020 --> 00:04:30,780
+We can work out the distance of the supernova, 169,000 light years.
+
+67
+00:04:30,780 --> 00:04:37,660
+That means we're looking at an event that happened 169,000 years ago.
+
+68
+00:04:37,660 --> 00:04:39,900
+The universe was now huge.
+
+69
+00:04:39,900 --> 00:04:45,900
+By simply observing and measuring, we'd calculated a scale in time and space that was far greater
+
+70
+00:04:45,900 --> 00:04:49,220
+than Bronze Age people ever imagined.
+
+71
+00:04:49,220 --> 00:04:52,320
+But one question still confounded scientists.
+
+72
+00:04:52,320 --> 00:04:54,980
+What are all these stars made of?
+
+73
+00:04:54,980 --> 00:04:59,340
+To understand the evidence, we have to understand the atom.
+
+74
+00:04:59,340 --> 00:05:03,260
+There are around 92 different types of atom, known as elements.
+
+75
+00:05:03,260 --> 00:05:07,580
+They differ in the number of electrons, protons and neutrons they have.
+
+76
+00:05:07,580 --> 00:05:12,340
+When an atom emits light, it absorbs the light of particular wavelengths.
+
+77
+00:05:12,340 --> 00:05:15,980
+Each element absorbs a different set of wavelengths.
+
+78
+00:05:15,980 --> 00:05:20,100
+We can see these absorption patterns as lines when we look through an instrument called
+
+79
+00:05:20,100 --> 00:05:21,700
+a spectroscope.
+
+80
+00:05:21,700 --> 00:05:25,820
+This one shows the spectral lines of three elements that were very familiar to early
+
+81
+00:05:25,820 --> 00:05:30,940
+19th century scientists, hydrogen, lithium and oxygen.
+
+82
+00:05:30,940 --> 00:05:36,940
+But when the French astronomer Pierre Janssen pointed a spectroscope at the Sun in 1868,
+
+83
+00:05:36,940 --> 00:05:40,740
+he found a set of spectral lines no one had ever seen before.
+
+84
+00:05:40,740 --> 00:05:43,340
+It was a completely unknown element.
+
+85
+00:05:43,340 --> 00:05:47,620
+He called it helium, after the Greek word helios, the Sun.
+
+86
+00:05:47,620 --> 00:05:53,660
+The new element also showed up in stars, along with another abundant element, hydrogen.
+
+87
+00:05:53,660 --> 00:05:57,780
+Inside this tightly bound universe, which they called the galaxy, astronomers could
+
+88
+00:05:57,780 --> 00:06:01,420
+see strange swirling clouds through their telescopes.
+
+89
+00:06:01,420 --> 00:06:06,380
+Some astronomers thought these could be other galaxies, just like our own.
+
+90
+00:06:06,380 --> 00:06:12,900
+In 1917, a supernova was seen to explode inside a cloud called Andromeda.
+
+91
+00:06:12,900 --> 00:06:17,460
+Supernovas are usually very bright, but this one was quite faint.
+
+92
+00:06:17,460 --> 00:06:22,780
+Using the brightness and distance calculation, cosmologists work out just how far away Andromeda
+
+93
+00:06:22,780 --> 00:06:25,780
+was, two million light years.
+
+94
+00:06:25,780 --> 00:06:31,780
+That put it well outside our own galaxy, and triangulation showed just how big it was,
+
+95
+00:06:31,780 --> 00:06:34,140
+about the size of our own galaxy.
+
+96
+00:06:34,140 --> 00:06:39,460
+The universe, it turned out, extended well beyond our own cluster of stars, and millions
+
+97
+00:06:39,460 --> 00:06:42,740
+of years back in time.
+
+98
+00:06:42,740 --> 00:06:47,700
+American astronomer Edwin Hubble soon discovered that other galaxies were even further away.
+
+99
+00:06:47,700 --> 00:06:52,660
+He also confirmed an observation that they were all moving away from us at incredible
+
+100
+00:06:52,660 --> 00:06:53,660
+speed.
+
+101
+00:06:53,660 --> 00:06:56,260
+Those furthest away were going the fastest.
+
+102
+00:06:56,260 --> 00:07:03,140
+In other words, our universe was expanding, as if we were caught up in a huge explosion.
+
+103
+00:07:03,140 --> 00:07:04,700
+How do we know this?
+
+104
+00:07:04,700 --> 00:07:07,820
+I'll explain with a more prosaic example.
+
+105
+00:07:07,820 --> 00:07:12,660
+When you watch a car speed past sounding its horn, the pitch seems to change.
+
+106
+00:07:12,660 --> 00:07:16,660
+As it's coming towards you, the sound waves are bunched up, so the horn seems to have
+
+107
+00:07:16,660 --> 00:07:19,100
+a high pitch.
+
+108
+00:07:19,100 --> 00:07:23,940
+As it passes by, the pitch suddenly drops, because now the sound waves are being stretched
+
+109
+00:07:23,940 --> 00:07:25,220
+out.
+
+110
+00:07:25,220 --> 00:07:27,380
+This is called the Doppler effect.
+
+111
+00:07:27,380 --> 00:07:32,020
+Just by measuring the change in pitch, an observer can calculate the speed of the car,
+
+112
+00:07:32,020 --> 00:07:35,660
+and whether it's coming towards him, or moving away.
+
+113
+00:07:35,660 --> 00:07:40,120
+We can do the same with stars and galaxies, using light instead of sound.
+
+114
+00:07:40,120 --> 00:07:45,680
+If a galaxy is moving away, the spectral lines will shift towards the red end of the spectrum.
+
+115
+00:07:45,680 --> 00:07:50,580
+The opposite happens if a galaxy is coming closer, they move towards the blue end.
+
+116
+00:07:50,580 --> 00:07:55,260
+So cosmologists could not only calculate which direction the galaxies are moving, but also
+
+117
+00:07:55,260 --> 00:07:57,320
+their speed.
+
+118
+00:07:57,320 --> 00:08:02,840
+If we reverse the course of these galaxies and wind the film back, space itself contracts
+
+119
+00:08:02,840 --> 00:08:07,440
+back to a single point, just under 14 billion years ago.
+
+120
+00:08:07,440 --> 00:08:10,560
+The start of this expansion is called the Big Bang.
+
+121
+00:08:10,560 --> 00:08:16,360
+That's as far as we've got so far in our understanding of the scale and time span of the universe.
+
+122
+00:08:16,360 --> 00:08:20,880
+Research is now continuing to discover what happened before the Big Bang.
+
+123
+00:08:20,880 --> 00:08:23,480
+Now let's come back to that sealed box.
+
+124
+00:08:23,480 --> 00:08:27,760
+For the people who decided to skip the video in order to speculate on the contents, have
+
+125
+00:08:27,760 --> 00:08:30,160
+you figured out what's inside yet?
+
+126
+00:08:30,160 --> 00:08:31,360
+Of course not.
+
+127
+00:08:31,360 --> 00:08:35,200
+Sitting in an armchair and making wild guesses tells you nothing.
+
+128
+00:08:35,200 --> 00:08:39,360
+You're really no better off than the Bronze Age farmers who looked up at the stars and
+
+129
+00:08:39,360 --> 00:08:41,780
+tried to guess what they were.
+
+130
+00:08:41,780 --> 00:08:45,800
+Just because the Big Bang is the current extent of our knowledge, doesn't mean we've reached
+
+131
+00:08:45,800 --> 00:08:47,480
+the end of the story.
+
+132
+00:08:47,480 --> 00:08:51,720
+Every time in history people thought they knew the scale of the universe, they've always
+
+133
+00:08:51,720 --> 00:08:53,960
+been proved wrong.
+
+134
+00:08:53,960 --> 00:08:59,280
+To me the real story of the universe is way more interesting than myths and fairy tales.
+
+135
+00:08:59,280 --> 00:09:04,980
+For 100,000 years humans have stared up at the same night sky and wondered.
+
+136
+00:09:04,980 --> 00:09:10,120
+We are the first people in human history not to wonder, not to guess, but to know.
+
+137
+00:09:21,720 --> 00:09:23,800
+you
+

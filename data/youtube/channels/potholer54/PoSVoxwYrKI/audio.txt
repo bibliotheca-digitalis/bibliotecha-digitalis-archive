@@ -1,0 +1,159 @@
+In the first video of this series I looked at the science behind anthropogenic climate change,
+the idea that man-made carbon gases are responsible for global warming.
+70 years ago the view that carbon dioxide could affect the global climate
+was held by only a tiny minority of climate scientists.
+Many assumed that there would be some sort of self-regulating mechanism
+that would put things back into balance.
+Then there was the scientifically valid view that water vapour also traps radiation
+and warms up the earth, and it's far more abundant in the atmosphere than carbon dioxide.
+But research in the 1940s changed all that.
+Guy Stewart Callender, a British engineer, showed that radiation absorption is not even.
+Water vapour absorbs radiation mainly in the 18 to 30 micrometre band
+and allows most of the rest to escape into space.
+In effect, these absorption gaps act like cooling vents.
+But carbon dioxide absorbs radiation in a different range, 8 to 18 micrometres.
+So Callender concluded that carbon dioxide mops up this escaping radiation,
+effectively acting as a plug to these cooling vents.
+Over the next few decades, objections to the idea of anthropogenic climate change
+were gradually eroded as more and more evidence emerged in support of it.
+Today, by almost any measure, the overwhelming majority of climate scientists
+accept not only that the earth is warming, but that man-made carbon gases are responsible.
+In 2004, the magazine Science published a study by Naomi Oreskes
+looking at the degree of consensus.
+A search of scientific papers over the previous ten years
+showed that all of those commenting or dealing with recent global warming,
+nearly 700 papers, explicitly endorsed the view that man-made gases are responsible.
+This survey is sometimes used to suggest that there are no papers
+disputing anthropogenic climate change and no alternative hypotheses.
+As we'll see, that's simply not the case.
+The survey results were obtained by doing a search for the words
+global climate change in scientific abstracts,
+so the results can't be regarded as 100% accurate.
+But they do give an indication of the overwhelming consensus
+supporting anthropogenic climate change.
+Oreskes also found that all major scientific bodies in the United States
+agreed that man-made gases are responsible for recent climate change.
+But although they're few in number,
+there are scientific papers supporting alternative hypotheses.
+Far from ignoring them, climate scientists are very familiar with them.
+The alternatives can be broken down into two basic ideas.
+Firstly, the proposal that increased output from the sun is driving climate change,
+a phenomenon known as solar forcing.
+Secondly, the proposal that cloud cover is affecting global temperatures.
+But first things first, nearly all climate scientists agree
+that the Earth's climate warms and cools in concert with the varying energy output from the sun.
+But the crucial question is whether that's the cause of the recent rise in global temperatures,
+basically over the last 40 or 50 years.
+27 years ago, a paper was published with very strong evidence for exactly that.
+Egel Fries Kristensen and Knud Lassen of the Danish Meteorological Institute
+looked at the pattern of solar activity over the last 250 years
+and it matched almost perfectly with global temperature changes.
+But closer examination of the data revealed a flaw.
+To get their graph, Fries Kristensen and Lassen had to filter the data.
+That basically means smoothing it out to account for background variation and local anomalies.
+This is standard practice and they did that for most of the graph.
+But they didn't do it for the most recent part of the graph
+because the data needed to do it wasn't available at the time of publication.
+When it did become available, the graph showed a very different story.
+A very good correlation between global temperatures and solar output
+over most of the last 250 years,
+but not the very period that covers a dramatic rise in global temperatures.
+While global temperatures have been rising, solar activity has remained more or less static.
+Since the 1991 paper, a number of other research papers have been written
+and nearly all confirmed what the revised Fries Kristensen-Lassen graph showed.
+Solar activity explains most of the temperature changes over the last few hundred years,
+but not the recent period of rising global temperatures.
+But there's one more thing to check before discounting solar forcing as an option.
+All the historical data measuring the amount of solar energy falling on the Earth
+are derived by secondary methods.
+Sunspot counts, levels of carbon-14 and beryllium-10, for example.
+To get a measure of the Sun's exact output, you have to go into space,
+away from all the meteorological clutter on Earth.
+So in the early 2000s, several researchers looked at the satellite data,
+which measures something called the TSI, total solar irradiance.
+But there's a problem.
+The main satellite series they depend on for their data is called ACRIM.
+The first ACRIM satellite, ACRIM-1, was in orbit from 1980 to 1989,
+when it was due to be replaced by ACRIM-2.
+But then the Challenger disaster happened,
+and ACRIM-2 didn't get launched for another two years.
+So there's a gap in the data.
+And exactly where the gap occurs, there's an apparent jump in the TSI.
+Richard Wilson of Columbia University, who helped devise the ACRIM equipment,
+made up for the gap by looking at data from another satellite,
+which confirmed the increase.
+Wilson derived a small increase of total solar irradiance of 0.05% per decade.
+But Judith Lean of the Naval Research Laboratory in Washington,
+using data from another satellite, found no increase in solar output,
+and other researchers confirmed that with measurements of ultraviolet radiation and sunspot counts.
+A third satellite even showed a decrease in TSI during what's become known as the ACRIM gap.
+But most climatologists say even if the ACRIM increase is real, it's too small to be significant,
+about the same order of variation we get in a typical 11-year solar cycle.
+This was also the conclusion of a review in the magazine Nature, which looked at all the varying data.
+The bottom line on solar forcing is that a lot of studies have been done,
+and this is far from an issue that's being ignored.
+Output from the sun is an important factor driving the Earth's climate.
+But climate scientists say that although there have been fluctuations,
+there's been no significant increase in solar output over the last 40 years.
+Solar forcing simply doesn't explain the recent dramatic rise in global temperatures.
+So what about the other objection to anthropogenic climate change focusing on cloud formation?
+This can be divided into two basic hypotheses.
+The first suggests that cosmic rays seed clouds.
+When solar activity increases, particles from the sun keep these cosmic rays away from the Earth,
+and that reduces cloud cover.
+With less cloud to reflect sunlight, the Earth warms up.
+The idea was proposed in 1997 by Fris Christiansen and Henrik Svensmark.
+They backed up their hypothesis with satellite data,
+showing a correlation between low-atmosphere cloud cover
+and the intensity of cosmic rays arriving at the Earth between 1980 and 1995.
+It's an interesting idea, and one that's been seriously looked at by a number of climate scientists,
+but only a few supported.
+The most obvious problem is that the hypothesis once again
+hinges on increased solar output over the last 40 years,
+and climate scientists say that hasn't been happening.
+If that's the case, why the apparent correlation?
+Two researchers writing in the journal Astronomy and Geophysics
+studied this further and discovered that the correlation in fact breaks down after 1991.
+And any correlation that does exist may be difficult to pin down
+because of the age-old problem of cause and effect.
+The second idea on cloud cover comes from Richard Linson
+of the Department of Meteorology at MIT.
+He postulates that warmer tropical oceans result in fewer high-altitude cirrus clouds.
+Fewer clouds mean more infrared radiation can escape into space, cooling the Earth down.
+In other words, the Earth has a self-regulating mechanism.
+Linson calls this the Infrared Iris Hypothesis.
+Before I look at this, let me clear something up.
+Linson says fewer clouds cool the Earth down because clouds trap heat.
+Fritz Christensen and Svensmarck argue that fewer clouds warm the Earth up
+because clouds reflect sunlight.
+Well, this whole area is a bit tricky. Clouds do both.
+When planes were grounded across the United States following the 9-11 attacks in 2001,
+American skies were suddenly clear of contrails for three days.
+Contrails form high-altitude clouds, so this was a unique opportunity to study their effect.
+Scientists from the University of Wisconsin and Penn State
+analyzed temperatures for the three days before and after 9-11.
+They found that daytime temperatures rose by a little less than one degree
+thanks to the disappearance of the contrails that no longer block the sun.
+But nighttime temperatures fell by an equal amount
+because the contrail cloud cover was no longer there to act as a blanket,
+preventing the escape of infrared radiation into space.
+Bing Lin, an atmospheric research scientist at NASA,
+found that instead of cooling the Earth, as Linson had predicted,
+the effect of fewer cirrus clouds in the tropics is to very slightly warm it.
+Lin also couldn't replicate Linson's results on increased cirrus cloud formation
+and he soon found out why.
+Linson had chosen to base his model around Indonesia,
+which has the warmest pool of water on the planet,
+so it's not typical of the tropics.
+Lin found that over the tropics as a whole,
+the increase in cirrus cloud cover from warmer temperatures
+is much less than Linson had predicted.
+There are other factors affecting the Earth's climate,
+most notably volcanic eruptions,
+but climate scientists agree that this isn't a significant factor
+in the current period of global warming.
+This and the previous video covered the science of global warming
+and the scientific debate among experts.
+In the next video we'll descend into something far easier to unravel,
+the urban myth swamp, as we try to sort out fact from fiction
+and track misinformation back to its source.

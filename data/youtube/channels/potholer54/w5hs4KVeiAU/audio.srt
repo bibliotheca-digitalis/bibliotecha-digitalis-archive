@@ -1,0 +1,808 @@
+1
+00:00:00,000 --> 00:00:04,000
+Climate change is a natural phenomenon that has always been, but always will be.
+
+2
+00:00:04,000 --> 00:00:08,000
+Climate does change. It always has, and it always will.
+
+3
+00:00:08,000 --> 00:00:13,000
+Yes, OK, the climate changes. In science that's what's called an observation,
+
+4
+00:00:13,000 --> 00:00:17,000
+just as we can observe lightning, shooting stars and earthquakes.
+
+5
+00:00:17,000 --> 00:00:22,000
+They're all natural. But the role of scientists isn't to sit back and marvel at all these natural mysteries.
+
+6
+00:00:22,000 --> 00:00:25,000
+It's to find out why they happen.
+
+7
+00:00:25,000 --> 00:00:29,000
+So what climatologists want to know is what causes the climate to change.
+
+8
+00:00:29,000 --> 00:00:33,000
+And after two centuries of research, they now have a pretty good idea.
+
+9
+00:00:33,000 --> 00:00:35,000
+Let's just recap.
+
+10
+00:00:35,000 --> 00:00:38,000
+Insulation is the amount of energy we get from the Sun.
+
+11
+00:00:38,000 --> 00:00:41,000
+It depends not only on the energy output of the Sun,
+
+12
+00:00:41,000 --> 00:00:46,000
+but on how the Earth is positioned to receive it, its tilt and orbit.
+
+13
+00:00:46,000 --> 00:00:50,000
+Greenhouse gases, things like water vapour, carbon dioxide and methane.
+
+14
+00:00:50,000 --> 00:00:55,000
+And thirdly, particulates and aerosols. They come from volcanoes and meteorite impacts.
+
+15
+00:00:55,000 --> 00:00:57,000
+They block sunlight and cool the Earth down,
+
+16
+00:00:57,000 --> 00:01:01,000
+and aerosols caused by industrial pollution do the same thing.
+
+17
+00:01:01,000 --> 00:01:05,000
+Finally, the Earth itself can amplify these changes through positive feedback,
+
+18
+00:01:05,000 --> 00:01:08,000
+and even the configuration of the continents.
+
+19
+00:01:08,000 --> 00:01:10,000
+And so we come to our first urban myth,
+
+20
+00:01:10,000 --> 00:01:14,000
+which happened to pop up in the comments forum of one of my climate videos.
+
+21
+00:01:14,000 --> 00:01:19,000
+The myth is that since temperatures were higher in the past with lower CO2,
+
+22
+00:01:19,000 --> 00:01:21,000
+and sometimes lower with higher CO2,
+
+23
+00:01:21,000 --> 00:01:24,000
+carbon dioxide can't be a factor in climate change.
+
+24
+00:01:24,000 --> 00:01:27,000
+Even Bob Carter has fallen for this one.
+
+25
+00:01:27,000 --> 00:01:30,000
+Here's a graph he produced, apparently showing no correlation
+
+26
+00:01:30,000 --> 00:01:33,000
+between carbon dioxide and global temperatures
+
+27
+00:01:33,000 --> 00:01:37,000
+over the Phanerozoic, the last 500 million years of the Earth's history.
+
+28
+00:01:37,000 --> 00:01:39,000
+But I'm pretty sure on this one, Bob,
+
+29
+00:01:39,000 --> 00:01:41,000
+because it's in all the scientific literature.
+
+30
+00:01:41,000 --> 00:01:43,000
+You wouldn't expect to get a match-up
+
+31
+00:01:43,000 --> 00:01:47,000
+because carbon dioxide isn't the only factor that affects global temperatures.
+
+32
+00:01:47,000 --> 00:01:51,000
+No climatologist ever said it was. Just read the journals.
+
+33
+00:01:52,000 --> 00:01:56,000
+On a geological time scale, the Sun is the other main driver of climate.
+
+34
+00:01:56,000 --> 00:01:58,000
+And as every geologist should know,
+
+35
+00:01:58,000 --> 00:02:01,000
+solar output was much weaker in the deep past.
+
+36
+00:02:01,000 --> 00:02:05,000
+The red line here shows solar output throughout the Earth's history.
+
+37
+00:02:05,000 --> 00:02:09,000
+What we're interested in is the last 500 million years.
+
+38
+00:02:09,000 --> 00:02:13,000
+Like most stars, the Sun has been growing increasingly brighter with time.
+
+39
+00:02:13,000 --> 00:02:16,000
+If I compared solar irradiance with global temperatures
+
+40
+00:02:16,000 --> 00:02:18,000
+over the last half billion years,
+
+41
+00:02:18,000 --> 00:02:22,000
+I'd get no better a correlation than Carter did with carbon dioxide.
+
+42
+00:02:22,000 --> 00:02:26,000
+But if we combine the two, solar irradiation and carbon dioxide,
+
+43
+00:02:26,000 --> 00:02:29,000
+then there's a very good correlation.
+
+44
+00:02:29,000 --> 00:02:31,000
+I'll come back to this later,
+
+45
+00:02:31,000 --> 00:02:35,000
+but why is the correlation so good if there are all these other factors?
+
+46
+00:02:35,000 --> 00:02:39,000
+Well, the Earth's tilt and orbit are predictable and run in cycles.
+
+47
+00:02:39,000 --> 00:02:42,000
+The effect of particulates is usually short-lived.
+
+48
+00:02:42,000 --> 00:02:45,000
+And the concentration of water vapour is controlled by temperature,
+
+49
+00:02:45,000 --> 00:02:49,000
+so it acts as an amplifier rather than a prime driver of climate.
+
+50
+00:02:49,000 --> 00:02:53,000
+Over the long term, carbon dioxide and solar output, or irradiance,
+
+51
+00:02:53,000 --> 00:02:55,000
+are the biggest variables.
+
+52
+00:02:55,000 --> 00:02:58,000
+Let me put this very simply with an analogy.
+
+53
+00:02:58,000 --> 00:03:00,000
+Let's say you're staying in a house in mid-winter
+
+54
+00:03:00,000 --> 00:03:04,000
+and all you have to heat it with is a fireplace and an electric heater.
+
+55
+00:03:04,000 --> 00:03:06,000
+If they're both full-on, you'll bake,
+
+56
+00:03:06,000 --> 00:03:09,000
+and if they're both turned down very low, you'll freeze.
+
+57
+00:03:09,000 --> 00:03:12,000
+The house could even get cold if the fire's going nicely,
+
+58
+00:03:12,000 --> 00:03:14,000
+but the heater's turned down very low.
+
+59
+00:03:14,000 --> 00:03:17,000
+So the Earth's climate depends on a combination of factors,
+
+60
+00:03:17,000 --> 00:03:19,000
+and it's actually quite lucky for us
+
+61
+00:03:19,000 --> 00:03:23,000
+that carbon dioxide levels have generally fallen over geological time
+
+62
+00:03:23,000 --> 00:03:26,000
+to balance the growing irradiance of the Sun.
+
+63
+00:03:26,000 --> 00:03:29,000
+Two researchers who are sceptical of the influence of CO2
+
+64
+00:03:29,000 --> 00:03:31,000
+have put forward an alternative idea
+
+65
+00:03:31,000 --> 00:03:35,000
+that the Earth cools as it passes through the spiral arms of our galaxy.
+
+66
+00:03:35,000 --> 00:03:40,000
+The idea is that cosmic rays ionise the air and that seeds clouds,
+
+67
+00:03:40,000 --> 00:03:44,000
+and clouds reflect sunlight, and that cools the Earth down.
+
+68
+00:03:44,000 --> 00:03:47,000
+Shivivam Veda's paper has been widely circulated
+
+69
+00:03:47,000 --> 00:03:51,000
+but not widely accepted within the scientific community.
+
+70
+00:03:51,000 --> 00:03:54,000
+No, not because of some conspiracy of evil scientists,
+
+71
+00:03:54,000 --> 00:03:57,000
+but because the idea that cosmic rays seed clouds
+
+72
+00:03:57,000 --> 00:04:00,000
+and that clouds cool the climate hasn't been shown.
+
+73
+00:04:00,000 --> 00:04:02,000
+I explained the background to this in my video
+
+74
+00:04:02,000 --> 00:04:04,000
+Climate Change the Objections.
+
+75
+00:04:04,000 --> 00:04:08,000
+Also, geologists say there are problems with the dating method used
+
+76
+00:04:08,000 --> 00:04:10,000
+and with the correlation itself.
+
+77
+00:04:10,000 --> 00:04:13,000
+And as the authors themselves admit,
+
+78
+00:04:13,000 --> 00:04:16,000
+the hypothesis can't explain current climate change
+
+79
+00:04:16,000 --> 00:04:18,000
+because it takes millions of years for the Solar System
+
+80
+00:04:18,000 --> 00:04:20,000
+to pass through a spiral arm.
+
+81
+00:04:20,000 --> 00:04:24,000
+I'm very glad a couple of qualified sceptics who know their subject
+
+82
+00:04:24,000 --> 00:04:27,000
+chose to publish their research in a respected peer-reviewed journal.
+
+83
+00:04:27,000 --> 00:04:30,000
+That's how scientific procedure is supposed to work.
+
+84
+00:04:30,000 --> 00:04:34,000
+Unfortunately, Shiviv's university issued a press release at the same time
+
+85
+00:04:34,000 --> 00:04:38,000
+the paper was published, making claims that weren't in there.
+
+86
+00:04:38,000 --> 00:04:40,000
+Most journalists read the press release
+
+87
+00:04:40,000 --> 00:04:42,000
+and didn't bother to read the paper.
+
+88
+00:04:42,000 --> 00:04:45,000
+So the headline that went around the world was this one,
+
+89
+00:04:45,000 --> 00:04:48,000
+even though the paper says nothing of the sort.
+
+90
+00:04:48,000 --> 00:04:52,000
+In fact, it specifically argues against drawing inferences
+
+91
+00:04:52,000 --> 00:04:54,000
+about current climate change.
+
+92
+00:04:54,000 --> 00:04:57,000
+Shivivam Veda go on to say that other research suggests
+
+93
+00:04:57,000 --> 00:05:00,000
+cosmic rays may also work on a smaller time scale,
+
+94
+00:05:00,000 --> 00:05:03,000
+but that hypothesis has since collapsed
+
+95
+00:05:03,000 --> 00:05:05,000
+because of a mathematical error,
+
+96
+00:05:05,000 --> 00:05:09,000
+which I explained in my video, Climate Change, the Objections.
+
+97
+00:05:09,000 --> 00:05:12,000
+So what we're left with are two very clear drivers of climate
+
+98
+00:05:12,000 --> 00:05:16,000
+that fit very well with the reconstruction of the Earth's climatic history.
+
+99
+00:05:16,000 --> 00:05:20,000
+From 2004 to 2006, researchers reviewed the scientific literature
+
+100
+00:05:20,000 --> 00:05:24,000
+and examined solar output, carbon dioxide levels and temperature data
+
+101
+00:05:24,000 --> 00:05:27,000
+from every period of the Phanerozoic,
+
+102
+00:05:27,000 --> 00:05:29,000
+from the Tertiary to the lower Ordovician.
+
+103
+00:05:29,000 --> 00:05:32,000
+And they found a very good correlation.
+
+104
+00:05:32,000 --> 00:05:35,000
+Critics say the correlation breaks down in two places,
+
+105
+00:05:35,000 --> 00:05:37,000
+the Ordovician and the Cretaceous periods,
+
+106
+00:05:37,000 --> 00:05:42,000
+when there were very high CO2 levels coinciding with extensive ice cover.
+
+107
+00:05:42,000 --> 00:05:47,000
+But of course we have to remember the climate isn't driven by carbon dioxide alone,
+
+108
+00:05:47,000 --> 00:05:51,000
+and at times even the combined influence of solar output and CO2 levels
+
+109
+00:05:51,000 --> 00:05:54,000
+can be upset by the other factors that affect climate.
+
+110
+00:05:54,000 --> 00:05:58,000
+The Ordovician seems to be a particular favourite with amateur sceptics
+
+111
+00:05:58,000 --> 00:06:01,000
+because it experienced a full-blown ice age.
+
+112
+00:06:01,000 --> 00:06:06,000
+I'm often referred to this website, run not by a climatologist, no surprise,
+
+113
+00:06:06,000 --> 00:06:09,000
+but by a mining engineer called Monty Hebe.
+
+114
+00:06:09,000 --> 00:06:11,000
+To the consternation of global warming proponents,
+
+115
+00:06:11,000 --> 00:06:14,000
+the late Ordovician period was also an ice age,
+
+116
+00:06:14,000 --> 00:06:20,000
+while at the same time CO2 concentrations then were nearly 12 times higher than today.
+
+117
+00:06:20,000 --> 00:06:24,000
+According to greenhouse theory, Earth should have been exceedingly hot, blah blah blah.
+
+118
+00:06:24,000 --> 00:06:28,000
+No, according to greenhouse theory, if you want to call it that,
+
+119
+00:06:28,000 --> 00:06:33,000
+global temperatures vary depending on several factors, not just carbon dioxide.
+
+120
+00:06:33,000 --> 00:06:37,000
+So let's go back over 20 years of research into the Ordovician climate
+
+121
+00:06:37,000 --> 00:06:41,000
+and see what real climate scientists have discovered.
+
+122
+00:06:41,000 --> 00:06:44,000
+First of all, solar output during the Ordovician was, of course,
+
+123
+00:06:44,000 --> 00:06:48,000
+much weaker than today, about 4.5% weaker.
+
+124
+00:06:48,000 --> 00:06:51,000
+That should have been enough to plunge the Earth into an ice age.
+
+125
+00:06:51,000 --> 00:06:53,000
+It certainly would today.
+
+126
+00:06:53,000 --> 00:06:55,000
+But in fact the climate was much hotter,
+
+127
+00:06:55,000 --> 00:06:59,000
+way beyond any forecast of what we're expecting in the next 100 years.
+
+128
+00:06:59,000 --> 00:07:01,000
+How can that be?
+
+129
+00:07:01,000 --> 00:07:05,000
+Well, paleoclimatologists have concluded it's because carbon dioxide levels
+
+130
+00:07:05,000 --> 00:07:08,000
+were around 18 times higher than today.
+
+131
+00:07:08,000 --> 00:07:11,000
+So if all that carbon dioxide was keeping the Earth hot,
+
+132
+00:07:11,000 --> 00:07:14,000
+why did it suddenly descend into an ice age?
+
+133
+00:07:14,000 --> 00:07:18,000
+This was a problem facing geologists over a decade ago.
+
+134
+00:07:18,000 --> 00:07:21,000
+The only way to cool the Earth down would have been to remove
+
+135
+00:07:21,000 --> 00:07:24,000
+billions of tonnes of carbon dioxide from the atmosphere.
+
+136
+00:07:24,000 --> 00:07:26,000
+But there was no known mechanism for that happening
+
+137
+00:07:26,000 --> 00:07:29,000
+over such a short period of time.
+
+138
+00:07:29,000 --> 00:07:32,000
+In 1994 geologists discovered that carbon dioxide levels
+
+139
+00:07:32,000 --> 00:07:36,000
+did indeed drop dramatically towards the end of the Ordovician.
+
+140
+00:07:36,000 --> 00:07:38,000
+The reason still wasn't clear.
+
+141
+00:07:38,000 --> 00:07:40,000
+Climatologists calculated that such a drop
+
+142
+00:07:40,000 --> 00:07:42,000
+would have caused global temperatures to fall,
+
+143
+00:07:42,000 --> 00:07:45,000
+but there was still more than enough CO2 in the atmosphere
+
+144
+00:07:45,000 --> 00:07:47,000
+to prevent an ice age.
+
+145
+00:07:47,000 --> 00:07:51,000
+Then in 1995 researchers from Texas A&M showed that
+
+146
+00:07:51,000 --> 00:07:53,000
+one other factor had come into play,
+
+147
+00:07:53,000 --> 00:07:55,000
+the position of the continents,
+
+148
+00:07:55,000 --> 00:07:58,000
+which had joined into a supercontinent near the South Pole.
+
+149
+00:07:58,000 --> 00:08:01,000
+They also concluded that the Earth's orbit might have played a role
+
+150
+00:08:01,000 --> 00:08:04,000
+in reducing solar irradiance even further.
+
+151
+00:08:04,000 --> 00:08:07,000
+Two years later researchers from Pennsylvania State University
+
+152
+00:08:07,000 --> 00:08:10,000
+calculated that all these factors put together,
+
+153
+00:08:10,000 --> 00:08:13,000
+including the drop in carbon dioxide levels,
+
+154
+00:08:13,000 --> 00:08:16,000
+would have been enough to precipitate an ice age.
+
+155
+00:08:16,000 --> 00:08:19,000
+Then in 1999 and 2005,
+
+156
+00:08:19,000 --> 00:08:23,000
+newspapers began to shed light on the reason carbon dioxide levels fell.
+
+157
+00:08:23,000 --> 00:08:26,000
+During the Ordovician, the Atlantic Oceanic crust
+
+158
+00:08:26,000 --> 00:08:29,000
+was subducting under the North American continent.
+
+159
+00:08:29,000 --> 00:08:31,000
+This thrust up the Appalachian Mountains.
+
+160
+00:08:31,000 --> 00:08:36,000
+As they rose, the silicate rocks in these newly formed mountains rapidly weathered.
+
+161
+00:08:36,000 --> 00:08:39,000
+This happens through a simple chemical process.
+
+162
+00:08:39,000 --> 00:08:41,000
+Carbon dioxide reacts with silicate rock,
+
+163
+00:08:41,000 --> 00:08:44,000
+forming calcium or magnesium carbonate.
+
+164
+00:08:44,000 --> 00:08:46,000
+This is washed away into the sea,
+
+165
+00:08:46,000 --> 00:08:48,000
+gets taken up by organisms in their shells,
+
+166
+00:08:48,000 --> 00:08:52,000
+and then gets buried as sediment that turns into limestone or chalk.
+
+167
+00:08:52,000 --> 00:08:56,000
+So the carbon that was once in the atmosphere got buried at sea,
+
+168
+00:08:56,000 --> 00:09:01,000
+and over millions of years, trillions of tons of carbon were removed from the air.
+
+169
+00:09:01,000 --> 00:09:04,000
+So scientists are more than happy to talk about this U-boat 21.
+
+170
+00:09:04,000 --> 00:09:08,000
+In fact, they've been yakking about it for well over two decades.
+
+171
+00:09:08,000 --> 00:09:10,000
+It's just that you haven't noticed
+
+172
+00:09:10,000 --> 00:09:13,000
+because it's all been published in scientific journals.
+
+173
+00:09:13,000 --> 00:09:17,000
+These aren't inaccessible. You can find them quite easily online.
+
+174
+00:09:17,000 --> 00:09:20,000
+But they don't get passed around and re-pasted on internet blogs.
+
+175
+00:09:20,000 --> 00:09:22,000
+They require a bit of effort.
+
+176
+00:09:22,000 --> 00:09:25,000
+I suppose it's quicker and easier to read a blog by a mining engineer
+
+177
+00:09:25,000 --> 00:09:28,000
+and come away thinking you're an instant expert.
+
+178
+00:09:28,000 --> 00:09:31,000
+It's kind of the fast-food approach to science.
+
+179
+00:09:31,000 --> 00:09:34,000
+So all the Mc-experts who argue that the Earth was cold
+
+180
+00:09:34,000 --> 00:09:37,000
+when carbon dioxide levels were high
+
+181
+00:09:37,000 --> 00:09:40,000
+miss the equally irrelevant point that the Earth was much hotter than today
+
+182
+00:09:40,000 --> 00:09:43,000
+when solar output was much lower than today.
+
+183
+00:09:43,000 --> 00:09:46,000
+It's a combination of factors that drives our climate.
+
+184
+00:09:46,000 --> 00:09:50,000
+But a lot of people continue to think that the sun is acting alone.
+
+185
+00:09:50,000 --> 00:09:54,000
+None of the major climate changes in the last thousand years
+
+186
+00:09:54,000 --> 00:09:57,000
+can be explained by CO2.
+
+187
+00:09:57,000 --> 00:09:59,000
+Well, I can beat that.
+
+188
+00:09:59,000 --> 00:10:03,000
+None of the major climate changes in the last 1,150 years
+
+189
+00:10:03,000 --> 00:10:05,000
+can be explained by CO2.
+
+190
+00:10:05,000 --> 00:10:07,000
+And there's a very good reason for that.
+
+191
+00:10:07,000 --> 00:10:11,000
+CO2 levels have been more or less constant during that time.
+
+192
+00:10:11,000 --> 00:10:14,000
+As we saw with the example of the house in winter,
+
+193
+00:10:14,000 --> 00:10:17,000
+if one fire is constant, then the temperature rises and falls
+
+194
+00:10:17,000 --> 00:10:20,000
+according to the output of the other.
+
+195
+00:10:20,000 --> 00:10:24,000
+A study that looked at global temperatures over the last 1,150 years
+
+196
+00:10:24,000 --> 00:10:26,000
+found exactly that.
+
+197
+00:10:26,000 --> 00:10:30,000
+With carbon dioxide levels steady, the sun was the main driver of climate.
+
+198
+00:10:30,000 --> 00:10:34,000
+But for the last 30 years, the output of the sun has been more or less constant.
+
+199
+00:10:34,000 --> 00:10:38,000
+So as climatologists predicted, temperatures have risen concurrently
+
+200
+00:10:38,000 --> 00:10:43,000
+with the rise in the other historical driver of climate, carbon dioxide.
+
+201
+00:10:43,000 --> 00:10:47,000
+And to the other MOOC experts that make the obvious and rather puerile observation
+
+202
+00:10:47,000 --> 00:10:51,000
+that the climate always changes, well, now you know why.
+

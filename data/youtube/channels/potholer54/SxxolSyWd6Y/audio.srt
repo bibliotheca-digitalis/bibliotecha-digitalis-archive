@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:02,820
+You've got a cow.
+
+2
+00:00:02,820 --> 00:00:08,960
+You want to teach it how to live all of its life in the open ocean, still retaining its
+
+3
+00:00:08,960 --> 00:00:11,120
+air-breathing characteristics.
+
+4
+00:00:11,120 --> 00:00:15,960
+What do you have to do from an engineering point of view to change the cow into a whale?
+
+5
+00:00:15,960 --> 00:00:17,320
+Good question.
+
+6
+00:00:17,320 --> 00:00:21,960
+David Bielinski was nominated for a Golden Crocoduck a few years ago, but I've resurrected
+
+7
+00:00:21,960 --> 00:00:26,360
+the nomination because we had a couple of other nominations this year on exactly the
+
+8
+00:00:26,360 --> 00:00:29,400
+same theme, improbability.
+
+9
+00:00:29,400 --> 00:00:35,880
+Bielinski is pondering evolution, which apparently requires turning cows into whales.
+
+10
+00:00:35,880 --> 00:00:41,080
+Virtually every feature of the cow has to be changed, it has to be adapted.
+
+11
+00:00:41,080 --> 00:00:47,960
+But since we know that life on Earth and life in the water are fundamentally different enterprises,
+
+12
+00:00:47,960 --> 00:00:50,120
+we have some sense of the number of changes.
+
+13
+00:00:50,120 --> 00:00:53,840
+We're not talking about genetics, we're talking about simple numbers.
+
+14
+00:00:53,840 --> 00:00:58,440
+The skin has to change completely, it has to become impermeable to water.
+
+15
+00:00:58,440 --> 00:00:59,800
+That's one change.
+
+16
+00:00:59,800 --> 00:01:04,720
+Breathing apparatus has to change, a diving apparatus has to be put in place, lactation
+
+17
+00:01:04,720 --> 00:01:09,240
+systems have to be designed, the eyes have to be protected, the hearing has to be altered,
+
+18
+00:01:09,240 --> 00:01:12,760
+salivary organs have to be changed, feeding mechanisms have to be changed.
+
+19
+00:01:12,760 --> 00:01:16,120
+After all, a cow eats grass, a whale doesn't.
+
+20
+00:01:16,120 --> 00:01:21,360
+As I say, I've tried to do some of these calculations, the calculations are certainly, certainly
+
+21
+00:01:21,360 --> 00:01:22,840
+not hard.
+
+22
+00:01:22,840 --> 00:01:26,880
+But they're interesting because I stopped at 50,000, that is morphological changes.
+
+23
+00:01:26,880 --> 00:01:27,880
+Okay, that's enough.
+
+24
+00:01:27,880 --> 00:01:28,880
+Let's go back a bit.
+
+25
+00:01:28,880 --> 00:01:33,880
+Dr Balinski, you're a mathematician and a philosopher, and I freely admit that you're
+
+26
+00:01:33,880 --> 00:01:35,760
+much, much smarter than me.
+
+27
+00:01:35,760 --> 00:01:39,280
+You've taught at university, and I came bottom of the class.
+
+28
+00:01:39,280 --> 00:01:42,720
+But even I know that cows did not turn into whales.
+
+29
+00:01:42,720 --> 00:01:46,880
+I think you've been watching too many creationist videos.
+
+30
+00:01:46,880 --> 00:01:56,120
+Yes, I understand you're talking philosophically, and the principle of one animal turning into
+
+31
+00:01:56,120 --> 00:01:57,120
+another.
+
+32
+00:01:57,120 --> 00:02:01,860
+But if you're going to count the number of changes from one particular species to another,
+
+33
+00:02:01,860 --> 00:02:04,680
+at least get your examples right.
+
+34
+00:02:04,680 --> 00:02:09,640
+Whales and cows both evolved from a common ancestor that lived about 50 million years
+
+35
+00:02:09,640 --> 00:02:13,600
+ago, partly in the water and partly on land.
+
+36
+00:02:13,600 --> 00:02:18,520
+By the way, I know Balinski claims not to be a creationist, but he's using a creationist
+
+37
+00:02:18,520 --> 00:02:23,560
+argument, he's a senior fellow of the Discovery Institute, and his breach of the ninth commandment
+
+38
+00:02:23,560 --> 00:02:30,200
+is promoting the creationist cause, so he does qualify for a coveted golden crocoduck.
+
+39
+00:02:30,200 --> 00:02:36,160
+Balinski counts at least 50,000 changes from a cow to a whale because, he explains, a cow
+
+40
+00:02:36,160 --> 00:02:40,520
+is a land animal completely unadapted to living in the water.
+
+41
+00:02:40,520 --> 00:02:46,160
+But the artiodactyl is already halfway there, so let's say it needs half as many changes,
+
+42
+00:02:46,160 --> 00:02:48,060
+about 25,000.
+
+43
+00:02:48,060 --> 00:02:52,380
+It needs to get bigger, have its nostrils moved higher, its hands would have to be used
+
+44
+00:02:52,380 --> 00:02:54,380
+as flippers, and so on.
+
+45
+00:02:54,380 --> 00:02:57,820
+And this has to be done over the course of about 50 million years.
+
+46
+00:02:57,820 --> 00:02:59,360
+Well, let's see.
+
+47
+00:02:59,360 --> 00:03:05,140
+If the animal takes seven years to reach breeding age, about halfway between a whale and a rodent,
+
+48
+00:03:05,140 --> 00:03:10,740
+then 25,000 changes would have to take place over 7 million generations.
+
+49
+00:03:10,740 --> 00:03:18,420
+That's about one change every 285 generations, hardly outside the bounds of possibility.
+
+50
+00:03:18,420 --> 00:03:22,820
+But what are the chances of these thousands of changes happening in exactly the right
+
+51
+00:03:22,820 --> 00:03:24,980
+way to make a whale?
+
+52
+00:03:24,980 --> 00:03:27,140
+Now there I would agree with Balinski.
+
+53
+00:03:27,140 --> 00:03:30,320
+The odds against it are staggeringly high.
+
+54
+00:03:30,320 --> 00:03:33,500
+So how did such impossible odds get beaten?
+
+55
+00:03:33,500 --> 00:03:39,500
+The answer lies in the story of Sandeep Singh, who won $30 million in the Mega Millions lottery.
+
+56
+00:03:39,500 --> 00:03:55,180
+And here's Jack Whittaker, who won $315 million in the Powerball lottery, Neil Wanlass
+
+57
+00:03:55,180 --> 00:04:00,900
+won $232 million, and Solomon Jackson Jr. won $260 million.
+
+58
+00:04:00,900 --> 00:04:02,380
+So what, you might think?
+
+59
+00:04:02,380 --> 00:04:09,020
+Well, the odds of Singh, or any of the others, winning is 1 in 175 million, which means that
+
+60
+00:04:09,020 --> 00:04:16,660
+the odds of Singh and Whittaker and Wanlass and Jackson winning are 875 million billion
+
+61
+00:04:16,660 --> 00:04:18,880
+billion to 1.
+
+62
+00:04:18,880 --> 00:04:23,020
+So how were such odds beaten without any of us thinking it extraordinary?
+
+63
+00:04:23,020 --> 00:04:26,840
+Well, the astute among you will already have figured out why.
+
+64
+00:04:26,840 --> 00:04:31,300
+The odds against anything happening are of course going to be astronomically high if
+
+65
+00:04:31,300 --> 00:04:34,140
+you try to achieve a known outcome.
+
+66
+00:04:34,140 --> 00:04:37,460
+In other words, if you name those people who are going to win the lotteries.
+
+67
+00:04:38,180 --> 00:04:41,740
+I don't play the lottery, but as far as I know, a jackpot just keeps getting bigger
+
+68
+00:04:41,740 --> 00:04:43,420
+until a winner is found.
+
+69
+00:04:43,420 --> 00:04:49,020
+So the odds of someone winning are in fact statistically 1 in 1, a certainty.
+
+70
+00:04:49,020 --> 00:04:54,560
+If Singh and Whittaker and Wanlass and Jackson hadn't won, 4 other people would have won.
+
+71
+00:04:54,560 --> 00:04:58,740
+We can lengthen the odds even more by looking at the chances of Singh or Whittaker or Wanlass
+
+72
+00:04:58,740 --> 00:05:00,460
+even being born.
+
+73
+00:05:00,460 --> 00:05:04,680
+They're about the same as the chances of me being born, which are astronomically high
+
+74
+00:05:04,680 --> 00:05:05,940
+against it.
+
+75
+00:05:06,100 --> 00:05:10,300
+Maybe I'm only here because a German pilot met a girl at a wedding, and the extra few
+
+76
+00:05:10,300 --> 00:05:15,620
+seconds he spent waving goodbye to her from the cockpit of his bomber delayed his take-off,
+
+77
+00:05:15,620 --> 00:05:20,000
+which meant that he dropped his bombs over Portsmouth a few seconds later than planned,
+
+78
+00:05:20,000 --> 00:05:23,780
+so that instead of killing my father, one of the bombs killed the man standing next
+
+79
+00:05:23,780 --> 00:05:25,040
+to him.
+
+80
+00:05:25,040 --> 00:05:29,220
+Going even further back, if my ancestor John Hadfield hadn't signed this contract to
+
+81
+00:05:29,220 --> 00:05:34,980
+buy a farm in 1605, he would have stayed at his old farm in Whitfold, and all of my subsequent
+
+82
+00:05:35,020 --> 00:05:37,420
+family history would have been different.
+
+83
+00:05:37,420 --> 00:05:41,780
+Even my great-great-great-great-great-great-great-grandparents wouldn't have been born.
+
+84
+00:05:41,780 --> 00:05:47,660
+The odds against me being born are astronomical, because every tiny event in history had to
+
+85
+00:05:47,660 --> 00:05:49,860
+happen exactly the way it happened.
+
+86
+00:05:49,860 --> 00:05:53,820
+No, it's not fate or divine will, it's simple.
+
+87
+00:05:53,820 --> 00:05:57,220
+If I hadn't been born, someone else would have been born.
+
+88
+00:05:57,220 --> 00:06:00,820
+If Sandeep Singh hadn't won the lottery, someone else would.
+
+89
+00:06:00,820 --> 00:06:05,020
+And if the artiodactyl hadn't evolved into a whale, it would have evolved into something
+
+90
+00:06:05,020 --> 00:06:06,580
+else.
+
+91
+00:06:06,580 --> 00:06:10,780
+And that's the problem with similar probability arguments, like the one that says the odds
+
+92
+00:06:10,780 --> 00:06:14,780
+are astronomically against the Earth to exist as we know it.
+
+93
+00:06:14,780 --> 00:06:19,020
+Again, if you start with the Earth as we know it and work backwards, then of course the
+
+94
+00:06:19,020 --> 00:06:24,220
+odds are astronomically against, but if you start with the universe as it is and calculate
+
+95
+00:06:24,220 --> 00:06:28,580
+the odds of an Earth-like planet, in other words a planet that's cool enough for water
+
+96
+00:06:28,580 --> 00:06:33,300
+not to boil and warm enough that it doesn't freeze, a planet with a magnetic field to
+
+97
+00:06:33,300 --> 00:06:37,620
+warn off solar wind, then the odds shorten to near certainty.
+
+98
+00:06:37,620 --> 00:06:42,300
+Out of the trillions upon trillions of star systems, there must be billions of planets
+
+99
+00:06:42,300 --> 00:06:44,300
+that fit the bill.
+
+100
+00:06:44,300 --> 00:06:47,980
+But that brings us to the next probability argument, the planet might have the right
+
+101
+00:06:47,980 --> 00:06:52,320
+environment and ingredients, but what are the chances chemicals will come together to
+
+102
+00:06:52,320 --> 00:06:53,320
+form life?
+
+103
+00:06:53,320 --> 00:06:57,700
+Abiogenesis is the idea that life can form from non-living material, which is also called
+
+104
+00:06:57,820 --> 00:07:01,020
+Spontaneous Generation, which was proven wrong over 200 years ago.
+
+105
+00:07:01,020 --> 00:07:02,660
+Woah, hey, what?
+
+106
+00:07:02,660 --> 00:07:04,620
+Oh, it's Cherry Boy.
+
+107
+00:07:04,620 --> 00:07:07,180
+He's back as a YouTuber called Horsewillbe.
+
+108
+00:07:07,180 --> 00:07:08,180
+As what?
+
+109
+00:07:08,180 --> 00:07:09,180
+I don't know.
+
+110
+00:07:09,180 --> 00:07:13,940
+Now what's this about Abiogenesis also being called Spontaneous Generation?
+
+111
+00:07:13,940 --> 00:07:17,260
+No prizes for guessing that Horsewillbe got this wrong.
+
+112
+00:07:17,260 --> 00:07:21,220
+Abiogenesis is called Abiogenesis.
+
+113
+00:07:21,220 --> 00:07:26,980
+Spontaneous Generation is a discredited Aristotelian idea that tried to explain the sudden overnight
+
+114
+00:07:27,260 --> 00:07:29,860
+appearance of things like maggots and mushrooms.
+
+115
+00:07:29,860 --> 00:07:33,580
+It didn't try to explain the formation of nucleic acids.
+
+116
+00:07:33,580 --> 00:07:35,580
+That's Abiogenesis.
+
+117
+00:07:35,580 --> 00:07:37,620
+See the difference?
+
+118
+00:07:37,620 --> 00:07:43,100
+Spontaneous Generation was disproved by Louis Pasteur and John Tyndall in this simple experiment.
+
+119
+00:07:43,100 --> 00:07:48,540
+They showed that apparently spontaneously generated organisms had their origins in spores
+
+120
+00:07:48,540 --> 00:07:49,540
+and eggs.
+
+121
+00:07:49,540 --> 00:07:53,440
+But we wouldn't expect Horsewillbe to know that because he's just reading some crap
+
+122
+00:07:53,440 --> 00:07:55,180
+he got off the internet.
+
+123
+00:07:55,180 --> 00:07:57,260
+But back to the question of probability.
+
+124
+00:07:57,260 --> 00:08:02,740
+The smallest living cell on Earth has a DNA string of some one million pairs of DNA, and
+
+125
+00:08:02,740 --> 00:08:04,540
+it has 600 genes.
+
+126
+00:08:04,540 --> 00:08:10,620
+If we cut this number and just took a quarter of that, we would have a string of some 250,000
+
+127
+00:08:10,620 --> 00:08:11,620
+base pairs of DNA.
+
+128
+00:08:11,620 --> 00:08:13,540
+That is still a hefty number.
+
+129
+00:08:13,540 --> 00:08:19,100
+The chances of such an arrangement of DNA arising by sheer chance are four to the 250,000th
+
+130
+00:08:19,100 --> 00:08:20,700
+power, and that's generous.
+
+131
+00:08:20,700 --> 00:08:24,020
+A video called Chatting with Charlie makes the same case.
+
+132
+00:08:24,020 --> 00:08:30,000
+Sir Frederick Hoyle said the chance of the chemicals of which DNA occur were to show
+
+133
+00:08:30,000 --> 00:08:34,900
+up in the same place at the same time is like 10 to the 40,000th.
+
+134
+00:08:34,900 --> 00:08:39,980
+Of course Hoyle wrote this long before new discoveries showed that DNA had evolved, probably
+
+135
+00:08:39,980 --> 00:08:41,580
+from RNA.
+
+136
+00:08:41,580 --> 00:08:44,940
+And sorry Horsewillbe, but the cell evolved too.
+
+137
+00:08:44,940 --> 00:08:50,040
+For these things to suddenly appear, fully formed, would be Spontaneous Generation, which
+
+138
+00:08:50,040 --> 00:08:53,460
+Horsewillbe has already told us doesn't happen.
+
+139
+00:08:53,460 --> 00:08:56,140
+Except in imaginary cases.
+
+140
+00:08:56,140 --> 00:09:01,760
+And as every creationist doesn't know, evolution is not driven by some random process, it's
+
+141
+00:09:01,760 --> 00:09:04,540
+driven by natural selection.
+
+142
+00:09:04,540 --> 00:09:09,940
+I addressed this in a much earlier video that was on my other channel, Potola 54 Debunks.
+
+143
+00:09:09,940 --> 00:09:15,020
+In trying to similarly explain the difficulty in getting all of the sequences of DNA together,
+
+144
+00:09:15,020 --> 00:09:19,500
+Hal Halbrook is explaining the impossibility of getting 20 numbers in sequence.
+
+145
+00:09:19,500 --> 00:09:25,100
+Now let's suppose that I could play at blinding speed and get all 20 blocks out in just one
+
+146
+00:09:25,100 --> 00:09:29,540
+second, then do it again the next second and every second thereafter.
+
+147
+00:09:29,540 --> 00:09:34,420
+The law of averages says that I can expect to get the 20 blocks out of the box in order
+
+148
+00:09:34,420 --> 00:09:40,100
+at the rate of once every 77 billion years.
+
+149
+00:09:40,100 --> 00:09:45,900
+Natural selection works by selecting those traits, in this case numbers, that are advantageous,
+
+150
+00:09:45,900 --> 00:09:49,660
+fit to survive, and rejecting those that aren't.
+
+151
+00:09:49,660 --> 00:09:52,480
+That's what survival of the fittest is all about.
+
+152
+00:09:52,480 --> 00:09:55,040
+So we pick the numbers at random, sure.
+
+153
+00:09:55,040 --> 00:10:00,500
+If the first one out of the box is a 6 or a 12, it gets rejected and goes back.
+
+154
+00:10:00,500 --> 00:10:04,700
+If it's a 1, then that's an advantageous trait that survives.
+
+155
+00:10:04,700 --> 00:10:07,900
+We then move on to the second number, and so on.
+
+156
+00:10:07,900 --> 00:10:12,920
+If we pick one number every second, as the video suggests, then it would only take 20
+
+157
+00:10:12,920 --> 00:10:16,840
+seconds at the most to get our first correct number, number 1.
+
+158
+00:10:16,840 --> 00:10:21,480
+It'll take 19 seconds at the most to get the next number in the sequence, number 2, and
+
+159
+00:10:21,480 --> 00:10:24,820
+18 seconds at the most to get number 3.
+
+160
+00:10:24,820 --> 00:10:30,960
+This means it'll take the mayor of Amity Island just 346 seconds, less than 6 minutes, to
+
+161
+00:10:30,960 --> 00:10:33,180
+get all the numbers in sequence.
+
+162
+00:10:33,180 --> 00:10:38,200
+That's very different to 77 million years, and that's the difference between natural
+
+163
+00:10:38,200 --> 00:10:58,800
+selection and natural chance.
+
+164
+00:10:58,800 --> 00:11:01,460
+If this was a random process, yes.
+
+165
+00:11:01,460 --> 00:11:06,400
+But now let's apply the rules of natural selection, which says that beneficial traits are kept
+
+166
+00:11:06,400 --> 00:11:09,140
+and non-beneficial ones are rejected.
+
+167
+00:11:09,140 --> 00:11:13,520
+Every time a slot machine comes up with a little bacterium, it stays there and the wheels
+
+168
+00:11:13,520 --> 00:11:16,480
+that didn't show a bacterium roll again.
+
+169
+00:11:16,480 --> 00:11:20,800
+If there are six symbols on the rollers, each of these wheels will come up with a bacterium
+
+170
+00:11:20,800 --> 00:11:22,600
+one time out of six.
+
+171
+00:11:22,600 --> 00:11:26,640
+If it takes 10 seconds for each pull on the slot machine, that means it'll take about
+
+172
+00:11:26,640 --> 00:11:30,120
+a minute for each wheel to register a bacterium.
+
+173
+00:11:30,120 --> 00:11:34,360
+And since each wheel is running at the same time, and all 250 machines are running at
+
+174
+00:11:34,360 --> 00:11:40,360
+the same time, it'll take just one minute for every single one to hit the jackpot.
+
+175
+00:11:40,360 --> 00:11:45,280
+This is why the casinos don't let you select which symbol to hold on every wheel.
+
+176
+00:11:45,280 --> 00:11:47,880
+Apparently they understand evolution.
+
+177
+00:11:47,880 --> 00:11:52,240
+And finally there's the probability pusher who has the occasional senior moment.
+
+178
+00:11:52,240 --> 00:12:03,240
+I'm assuming that one million beneficial mutations are needed to make a species evolve into another.
+
+179
+00:12:03,240 --> 00:12:07,520
+I'm assuming that 30 million species have existed throughout all time.
+
+180
+00:12:07,520 --> 00:12:15,240
+This is actually the estimate for species alive today.
+
+181
+00:12:15,240 --> 00:12:19,760
+I'm assuming that every single beneficial mutation is kept in the population once it
+
+182
+00:12:19,760 --> 00:12:24,240
+occurs, which means that natural selection is perfect.
+
+183
+00:12:24,240 --> 00:12:29,840
+Now the probability of evolution is one in ten to the power of...
+
+184
+00:12:29,920 --> 00:12:30,920
+Wait, wait, wait, wait.
+
+185
+00:12:30,920 --> 00:12:34,840
+I got all the assumptions, and I saw the final result.
+
+186
+00:12:34,840 --> 00:12:38,080
+What's missing is how you actually work this all out.
+
+187
+00:12:38,080 --> 00:12:40,520
+You know, the yada yada yada in the middle.
+
+188
+00:12:40,520 --> 00:12:42,640
+I guess we'll never know.
+
+189
+00:12:42,640 --> 00:12:47,600
+Creationists love to focus on the huge numbers, and show just how improbable improbable odds
+
+190
+00:12:47,600 --> 00:12:52,280
+are, while skipping over the detail of how these numbers are derived in the first place.
+
+191
+00:12:52,280 --> 00:12:58,400
+Like, for example, the calculation I've made that VenomFangX, now calling himself HorseWillBe,
+
+192
+00:12:58,400 --> 00:13:03,360
+will ever stop reading internet blogs and read just one page of a primary school science
+
+193
+00:13:03,360 --> 00:13:04,360
+book.
+
+194
+00:13:04,360 --> 00:13:08,800
+Computing the amount of homeschooling he must have received from creationist parents, coupled
+
+195
+00:13:08,800 --> 00:13:13,800
+with a high level of hormonal activity, the calculation is yada yada yada, and the answer
+
+196
+00:13:13,800 --> 00:13:18,080
+is one in ten to the power of ninety trillion.
+
+197
+00:13:18,080 --> 00:13:19,720
+Ten to the forty thousand.
+
+198
+00:13:19,720 --> 00:13:22,520
+Four to the two hundred and fifty thousandth power.
+

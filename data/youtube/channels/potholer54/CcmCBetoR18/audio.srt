@@ -1,0 +1,896 @@
+1
+00:00:00,000 --> 00:00:05,000
+How much CO2 is up there anyway?
+
+2
+00:00:05,000 --> 00:00:09,000
+Alright, so you know it's 0.03%
+
+3
+00:00:09,000 --> 00:00:13,000
+and of that, 4% of that is due to man.
+
+4
+00:00:13,000 --> 00:00:18,000
+Hang on, only 4% of the CO2 in the atmosphere is due to man?
+
+5
+00:00:18,000 --> 00:00:20,000
+Then what are we worrying about?
+
+6
+00:00:20,000 --> 00:00:23,000
+Even if we halve the amount of CO2 we produce,
+
+7
+00:00:23,000 --> 00:00:28,000
+it would barely make any difference if 96% is produced by nature.
+
+8
+00:00:28,000 --> 00:00:32,000
+Of course that depends on Piers Corbin being correct.
+
+9
+00:00:32,000 --> 00:00:34,000
+Do we have any confirmation of that?
+
+10
+00:00:34,000 --> 00:00:36,000
+Yes, sort of.
+
+11
+00:00:36,000 --> 00:00:43,000
+Human activity is maybe 3% contributing to the 3% of carbon dioxide
+
+12
+00:00:43,000 --> 00:00:45,000
+that's in Earth's atmosphere.
+
+13
+00:00:45,000 --> 00:00:51,000
+It's so negligible, it's a fraction of a fraction of a fraction of a percent.
+
+14
+00:00:51,000 --> 00:00:54,000
+OK, not 4% but 3% either way.
+
+15
+00:00:54,000 --> 00:00:57,000
+When I did my video on Steven Crowder last month,
+
+16
+00:00:57,000 --> 00:01:00,000
+this is the claim I actually wanted to take apart.
+
+17
+00:01:00,000 --> 00:01:02,000
+It's on his blog.
+
+18
+00:01:02,000 --> 00:01:06,000
+Most of the rise in CO2 is coming from natural sources.
+
+19
+00:01:06,000 --> 00:01:11,000
+But for some reason it didn't make it from Crowder's blog to his video.
+
+20
+00:01:11,000 --> 00:01:12,000
+What's his source?
+
+21
+00:01:12,000 --> 00:01:18,000
+It turns out there's only one and of course it's a blog by someone called Ed Carroll.
+
+22
+00:01:18,000 --> 00:01:22,000
+Before we try to verify what Carroll is claiming, here's some background.
+
+23
+00:01:22,000 --> 00:01:28,000
+Carbon dioxide concentration in the atmosphere has been pretty steady for over 2000 years.
+
+24
+00:01:28,000 --> 00:01:34,000
+And about the time the Industrial Revolution started, when we began burning coal, it started to rise.
+
+25
+00:01:34,000 --> 00:01:40,000
+And when we started burning oil, it rose more and more again as the whole world industrialised.
+
+26
+00:01:40,000 --> 00:01:47,000
+In fact, CO2 has been rising pretty consistently with our increased production of CO2.
+
+27
+00:01:47,000 --> 00:01:52,000
+Carroll argues that the extra carbon dioxide is not coming from burning coal and oil.
+
+28
+00:01:52,000 --> 00:01:55,000
+It's being degassed from the ocean.
+
+29
+00:01:55,000 --> 00:01:59,000
+Sea surface temperature seems to be driving atmospheric CO2 changes.
+
+30
+00:01:59,000 --> 00:02:04,000
+This makes sense because CO2's solubility in seawater is temperature dependent.
+
+31
+00:02:04,000 --> 00:02:10,000
+His argument is that the sun causes warming and this has caused the oceans to warm.
+
+32
+00:02:10,000 --> 00:02:15,000
+And as we know from basic physics, carbon dioxide is more soluble in colder water,
+
+33
+00:02:15,000 --> 00:02:19,000
+so as the oceans warm, they release carbon dioxide.
+
+34
+00:02:19,000 --> 00:02:26,000
+So he says this explains why the oceans are warming and it explains why there's been an increase in carbon dioxide.
+
+35
+00:02:26,000 --> 00:02:31,000
+Sounds convincing. So what is it Carroll is concealing?
+
+36
+00:02:31,000 --> 00:02:37,000
+Well, one thing is that solar output hasn't been increasing over the last 50 years.
+
+37
+00:02:37,000 --> 00:02:42,000
+It's been getting weaker. So something else must be causing the oceans to warm.
+
+38
+00:02:42,000 --> 00:02:48,000
+Secondly, the oceans haven't been degassing carbon dioxide. They've been absorbing it.
+
+39
+00:02:48,000 --> 00:02:54,000
+So the two pillars on which Carroll's model is based are simply wrong.
+
+40
+00:02:54,000 --> 00:02:58,000
+But this article by Ed Carroll isn't the source of all the claims on the internet
+
+41
+00:02:58,000 --> 00:03:04,000
+about anthropogenic sources being 3% or 4% of carbon dioxide in our atmosphere.
+
+42
+00:03:04,000 --> 00:03:11,000
+I did a Google search going back 10 years and the myth goes back much further than Carroll's article.
+
+43
+00:03:11,000 --> 00:03:19,000
+A lot of them trace back to this 2007 blog by Monty Heeb, which went viral in 2008.
+
+44
+00:03:19,000 --> 00:03:24,000
+The blogger is a former West Virginia office of miners safety engineer.
+
+45
+00:03:24,000 --> 00:03:29,000
+He wrote, human activities contribute slightly to greenhouse gas concentrations
+
+46
+00:03:29,000 --> 00:03:34,000
+but they're dwarfed in comparison to emissions from natural sources.
+
+47
+00:03:34,000 --> 00:03:40,000
+Heeb claims anthropogenic CO2 is just 3.225% of total CO2
+
+48
+00:03:40,000 --> 00:03:42,000
+and he worked this out from his own table.
+
+49
+00:03:42,000 --> 00:03:54,000
+The anthropogenic component, 11,880ppb, divided by the total CO2 concentration in the atmosphere, 368,400ppb.
+
+50
+00:03:54,000 --> 00:03:57,000
+But where do these figures come from?
+
+51
+00:03:57,000 --> 00:04:01,000
+First of all, Heeb's figure for natural additions is rather odd.
+
+52
+00:04:01,000 --> 00:04:09,000
+If nature is responsible for increasing CO2 concentration by 68,520ppb over the last 200 years,
+
+53
+00:04:09,000 --> 00:04:16,000
+after remaining in balance for over 2,000 years, then where did all this extra CO2 suddenly come from?
+
+54
+00:04:16,000 --> 00:04:24,000
+After all, that represents over half a billion tonnes of carbon dioxide suddenly erupting from the oceans and the biosphere,
+
+55
+00:04:24,000 --> 00:04:33,000
+equivalent to about 50,000 Mount St Helens-sized volcanoes, 25,000 of them popping off in the last 40 years.
+
+56
+00:04:33,000 --> 00:04:37,000
+And if most of the increase is due to some mysterious natural cause,
+
+57
+00:04:37,000 --> 00:04:42,000
+then where did all the CO2 from 200 years of fossil fuel burning go?
+
+58
+00:04:42,000 --> 00:04:49,000
+Did nature decide to hide all of our CO2 and substitute it with CO2 from some mysterious source?
+
+59
+00:04:49,000 --> 00:04:56,000
+But the clincher is isotopic evidence that the extra carbon has come from the burning of fossil fuels.
+
+60
+00:04:56,000 --> 00:05:01,000
+Very little of the carbon in coal and oil contains the isotope carbon-13,
+
+61
+00:05:01,000 --> 00:05:07,000
+whereas the carbon in volcanoes and oceans comprises about 1% carbon-13.
+
+62
+00:05:07,000 --> 00:05:14,000
+So if the extra CO2 is coming from the burning of fossil fuels, rather than volcanoes and ocean degasification,
+
+63
+00:05:14,000 --> 00:05:18,000
+then researchers ought to see the proportion of C-13 go down.
+
+64
+00:05:18,000 --> 00:05:20,000
+And they do.
+
+65
+00:05:20,000 --> 00:05:27,000
+So Heeb's claim is looking distinctly dodgy from the start, but let's check his sources to be sure.
+
+66
+00:05:27,000 --> 00:05:33,000
+He says the figure for natural additions comes from the Department of Energy, October 2000.
+
+67
+00:05:33,000 --> 00:05:39,000
+But I can't find any such estimate from the DOE for that year or any other year.
+
+68
+00:05:39,000 --> 00:05:44,000
+What the Department of Energy does say is exactly what other researchers say,
+
+69
+00:05:44,000 --> 00:05:48,000
+that there are no net natural additions to the atmosphere.
+
+70
+00:05:48,000 --> 00:05:53,000
+All the carbon that nature puts into the atmosphere gets absorbed back again.
+
+71
+00:05:53,000 --> 00:06:02,000
+As for the 11,880 parts per billion figure, Heeb says that comes from a 1997 blog by Tom Segelstad.
+
+72
+00:06:02,000 --> 00:06:10,000
+But I've checked, and the blog doesn't give any such figure, or an equivalent like 11.88 parts per million.
+
+73
+00:06:10,000 --> 00:06:17,000
+What I think Heeb's done is confuse accumulated carbon in the atmosphere with carbon flux,
+
+74
+00:06:17,000 --> 00:06:23,000
+because his figure of 3.22% for the anthropogenic component is very close to the 4%
+
+75
+00:06:23,000 --> 00:06:28,000
+that the DOE estimates is the anthropogenic component of carbon flux.
+
+76
+00:06:28,000 --> 00:06:36,000
+So bear with me while I explain this, because in a minute we'll see other bloggers make exactly the same mistake.
+
+77
+00:06:36,000 --> 00:06:41,000
+Every year around 220 billion tonnes of carbon is released into the atmosphere
+
+78
+00:06:41,000 --> 00:06:49,000
+from natural sources like ocean de-gasification, rotting vegetation, soil degradation, volcanic eruptions, and so on.
+
+79
+00:06:49,000 --> 00:06:56,000
+That's been going on for over 2000 years, and now humans are adding over 9 billion tonnes a year
+
+80
+00:06:56,000 --> 00:07:01,000
+by digging up and burning stuff that was underground, around 4% of the total.
+
+81
+00:07:01,000 --> 00:07:06,000
+By the way, I'm talking carbon here. The weight for carbon dioxide is obviously more.
+
+82
+00:07:06,000 --> 00:07:10,000
+So in a literal sense the bloggers would seem to have it right.
+
+83
+00:07:10,000 --> 00:07:13,000
+Anthropogenic sources hardly make any difference.
+
+84
+00:07:13,000 --> 00:07:16,000
+So what gives?
+
+85
+00:07:16,000 --> 00:07:19,000
+Well, once again the answer isn't rocket science.
+
+86
+00:07:19,000 --> 00:07:25,000
+While rotting vegetation releases carbon, living vegetation grows and takes it back.
+
+87
+00:07:25,000 --> 00:07:33,000
+While some CO2 is de-gassed from the oceans, even more CO2 is being dissolved in the oceans, as I explained earlier.
+
+88
+00:07:33,000 --> 00:07:39,000
+Although carbon is being released by soils, carbon is also being absorbed by soils.
+
+89
+00:07:39,000 --> 00:07:48,000
+And we're lucky enough that volcanic venting of CO2 is roughly balanced by CO2 taken out of the atmosphere through chemical weathering.
+
+90
+00:07:48,000 --> 00:07:51,000
+So it's a two-way street.
+
+91
+00:07:51,000 --> 00:07:57,000
+OK, it's not an exact equation, but it's been pretty much in balance for over 2000 years,
+
+92
+00:07:57,000 --> 00:08:01,000
+and that's what's kept CO2 levels in the atmosphere stable.
+
+93
+00:08:01,000 --> 00:08:07,000
+So when a whole load of extra CO2 is introduced into the mix, nature can't absorb it all
+
+94
+00:08:07,000 --> 00:08:10,000
+and the system is thrown out of balance.
+
+95
+00:08:10,000 --> 00:08:17,000
+Around half of the carbon we release is absorbed by the oceans in the biosphere, and half accumulates in the atmosphere.
+
+96
+00:08:17,000 --> 00:08:28,000
+So over the last 200 years, it's caused CO2 concentration to go from around 270 ppm to over 400 ppm.
+
+97
+00:08:28,000 --> 00:08:38,000
+As I say, I suspect this is what he's done, because his 3.22% is very close to the 4% of anthropogenic carbon added to the carbon flux.
+
+98
+00:08:38,000 --> 00:08:41,000
+And the difference could be that he's using older figures.
+
+99
+00:08:41,000 --> 00:08:49,000
+Whatever the case, his citation of Department of Energy data is wrong, because the Department of Energy gives completely different figures,
+
+100
+00:08:49,000 --> 00:08:52,000
+and his citing of another blog doesn't bear out.
+
+101
+00:08:52,000 --> 00:08:56,000
+So that's the end of that particular trail.
+
+102
+00:08:56,000 --> 00:09:05,000
+Then there was another flurry of activity six years later, when bloggers and posters claimed the anthropogenic component is 3.75%.
+
+103
+00:09:06,000 --> 00:09:11,000
+New paper finds only about 3.75% of atmospheric CO2 is man-made from burning of fossil fuels.
+
+104
+00:09:11,000 --> 00:09:14,000
+Only 3.75% of atmospheric CO2 comes from humans.
+
+105
+00:09:14,000 --> 00:09:18,000
+New paper finds only about 3.75% of atmospheric CO2 is man-made from burning of fossil fuels.
+
+106
+00:09:18,000 --> 00:09:21,000
+EPA document supports about 3% of atmospheric carbon dioxide.
+
+107
+00:09:21,000 --> 00:09:27,000
+New paper finds only about 3.75% of atmospheric carbon dioxide.
+
+108
+00:09:27,000 --> 00:09:32,000
+They claim their source is this paper, published in the Journal of Atmospheric Chemistry and Physics.
+
+109
+00:09:32,000 --> 00:09:36,000
+But as we'll see in a minute, the paper made no such conclusion.
+
+110
+00:09:36,000 --> 00:09:40,000
+So how did so many people make exactly the same mistake?
+
+111
+00:09:40,000 --> 00:09:44,000
+Was the paper ambiguous? Badly worded?
+
+112
+00:09:44,000 --> 00:09:47,000
+No, it turns out they didn't read the paper.
+
+113
+00:09:47,000 --> 00:09:55,000
+As so often happens, they read a blog that told them that the paper made this claim, and they didn't bother to verify it.
+
+114
+00:09:55,000 --> 00:09:59,000
+If you click on this link, for example, it doesn't take you to the paper being quoted.
+
+115
+00:09:59,000 --> 00:10:05,000
+It takes you to a blog called The Hockey Stik, run by someone called Tom Nelson.
+
+116
+00:10:05,000 --> 00:10:11,000
+And whatever route you take, direct or indirect, all the claims lead back to Nelson's blog.
+
+117
+00:10:11,000 --> 00:10:19,000
+He seems to be the only one to have read the paper, or at least a part of it, and he completely misunderstood what it was saying.
+
+118
+00:10:19,000 --> 00:10:27,000
+The authors examine how radiation from nuclear power plants in Europe can affect the ratio of carbon isotopes in the atmosphere.
+
+119
+00:10:27,000 --> 00:10:35,000
+Nelson read in the abstract that fossil fuel CO2 in the lower 1200m of the atmosphere are close to 15ppm.
+
+120
+00:10:35,000 --> 00:10:48,000
+And without bothering to read or understand the rest of the paper, he immediately worked out that 15ppm out of a total CO2 concentration of around 400ppm equals 3.75%.
+
+121
+00:10:48,000 --> 00:10:51,000
+So that became his headline.
+
+122
+00:10:51,000 --> 00:10:54,000
+Before I go on, here's a piece of advice Tom.
+
+123
+00:10:54,000 --> 00:11:00,000
+If nearly every scientific study concludes that about a third of CO2 in the atmosphere is anthropogenic,
+
+124
+00:11:00,000 --> 00:11:05,000
+and a group of researchers discovers that the actual figure is one-eighth of that,
+
+125
+00:11:05,000 --> 00:11:09,000
+they wouldn't mention it in passing in a paper titled
+
+126
+00:11:09,000 --> 00:11:15,000
+Simulating the Integrated Summertime CO2 Signature from Anthropogenic Emissions over Western Europe.
+
+127
+00:11:15,000 --> 00:11:19,000
+That's what's known in my business as burying the lead.
+
+128
+00:11:19,000 --> 00:11:22,000
+They'd shout it out loud in a paper titled
+
+129
+00:11:22,000 --> 00:11:29,000
+Anthropogenic CO2 Comprises Only 3.75% of Atmospheric CO2 and Hope for a Nobel Prize.
+
+130
+00:11:29,000 --> 00:11:36,000
+So that should have been your first clue that perhaps the paper doesn't say what you think it says.
+
+131
+00:11:36,000 --> 00:11:38,000
+So where did Nelson go wrong?
+
+132
+00:11:38,000 --> 00:11:41,000
+Well, it's not hard to figure out.
+
+133
+00:11:41,000 --> 00:11:46,000
+The 15ppm figure he seized on wasn't referring to accumulated CO2 content.
+
+134
+00:11:46,000 --> 00:11:52,000
+Once again, it was referring to carbon dioxide flux, which I explained earlier.
+
+135
+00:11:52,000 --> 00:11:58,000
+This concept seems so hard for bloggers to grasp that I'll try to explain it with an analogy.
+
+136
+00:11:58,000 --> 00:12:04,000
+Think of the carbon cycle as water circulating in an open tank with a plate across the middle.
+
+137
+00:12:04,000 --> 00:12:10,000
+The tank holds 1000 litres, 500 in the top chamber and 500 in the bottom.
+
+138
+00:12:10,000 --> 00:12:14,000
+And every day 100 litres of water is pumped into the upper chamber at one end,
+
+139
+00:12:14,000 --> 00:12:19,000
+and at the same time 100 litres a day descends into the lower chamber through a valve.
+
+140
+00:12:19,000 --> 00:12:22,000
+What happens to the level of water?
+
+141
+00:12:22,000 --> 00:12:25,000
+Nothing. It stays pretty much the same.
+
+142
+00:12:25,000 --> 00:12:28,000
+This is our carbon cycle.
+
+143
+00:12:28,000 --> 00:12:34,000
+Now let's introduce some extra water into the upper chamber, which is our atmosphere, from a completely new source.
+
+144
+00:12:34,000 --> 00:12:41,000
+Every day we'll add 2 litres of water, representing the 2% of anthropogenic carbon that isn't taken up by the carbon sink.
+
+145
+00:12:41,000 --> 00:12:43,000
+And what happens?
+
+146
+00:12:43,000 --> 00:12:46,000
+The level of the water goes up.
+
+147
+00:12:46,000 --> 00:12:48,000
+The amount being added isn't much.
+
+148
+00:12:48,000 --> 00:12:51,000
+It's only 2% of our total flux, after all.
+
+149
+00:12:51,000 --> 00:12:58,000
+But it accumulates, and after 100 days there's an extra 200 litres in the tank.
+
+150
+00:12:58,000 --> 00:13:03,000
+That represents two fifths of all the water in our upper tank, the atmosphere.
+
+151
+00:13:03,000 --> 00:13:07,000
+So we now have two figures representing the water we've introduced.
+
+152
+00:13:07,000 --> 00:13:13,000
+One figure is 2%, comparing our newly introduced water to the amount of water in circulation.
+
+153
+00:13:13,000 --> 00:13:21,000
+The other is 40%, comparing the amount of this newly introduced water to the total amount of water in the upper tank.
+
+154
+00:13:21,000 --> 00:13:26,000
+At the risk of labouring the point, our bloggers have confused these two figures.
+
+155
+00:13:26,000 --> 00:13:32,000
+I hope the science is clear, but I'm sure a lot of people will still prefer to believe the hockey stick.
+
+156
+00:13:32,000 --> 00:13:34,000
+So here's the twist.
+
+157
+00:13:34,000 --> 00:13:40,000
+The authors of the ACP paper learned how their study was being misinterpreted around the internet,
+
+158
+00:13:40,000 --> 00:13:43,000
+and they also traced the myth back to the hockey stick.
+
+159
+00:13:43,000 --> 00:13:47,000
+They contacted Tom Nelson and told him he'd got it wrong.
+
+160
+00:13:47,000 --> 00:13:52,000
+Researchers have occasionally done that in the past with little effect,
+
+161
+00:13:52,000 --> 00:13:57,000
+but in this case, to his credit, Tom Nelson understood and issued a retraction.
+
+162
+00:13:58,000 --> 00:14:02,000
+Unfortunately, the bloggers who copied from the hockey stick were less forthcoming.
+
+163
+00:14:02,000 --> 00:14:08,000
+Jonathan Duhamel, who runs the Rye Heat blog, picked up on the hockey stick's retraction,
+
+164
+00:14:08,000 --> 00:14:13,000
+but claimed Nelson had taken the site down because of pressure from the paper's authors.
+
+165
+00:14:13,000 --> 00:14:17,000
+Even where he hints that this was in fact due to an error by Nelson,
+
+166
+00:14:17,000 --> 00:14:21,000
+he blames the authors for not saying what they mean.
+
+167
+00:14:21,000 --> 00:14:26,000
+And then Duhamel announces that Nelson didn't get it wrong after all.
+
+168
+00:14:26,000 --> 00:14:30,000
+The contention made by hockey stick seems to be supported by old table
+
+169
+00:14:30,000 --> 00:14:34,000
+from the Energy Information Administration, which shows the same thing.
+
+170
+00:14:34,000 --> 00:14:40,000
+Only about 3% of atmospheric carbon dioxide is attributable to human sources.
+
+171
+00:14:40,000 --> 00:14:42,000
+Look at the table and do the arithmetic.
+
+172
+00:14:42,000 --> 00:14:48,000
+23,100 divided by 793,100 equals 0.029.
+
+173
+00:14:48,000 --> 00:14:55,000
+Well, the math is right, but once again in the caption it explains that this is carbon dioxide flux.
+
+174
+00:14:55,000 --> 00:14:59,000
+This is exactly the same mistake that Nelson made earlier in the hockey stick,
+
+175
+00:14:59,000 --> 00:15:05,000
+and that Duhamel copied, mistaking CO2 flux for accumulated CO2.
+
+176
+00:15:05,000 --> 00:15:09,000
+And blow-me-down, the lead author of the misquoted paper,
+
+177
+00:15:09,000 --> 00:15:14,000
+Denika Boshinova, again had to intervene to explain the mistake.
+
+178
+00:15:14,000 --> 00:15:21,000
+In reply, she was given a fact by Duhamel that only 3% of CO2 in the atmosphere is due to humans.
+
+179
+00:15:21,000 --> 00:15:24,000
+This should be interesting.
+
+180
+00:15:24,000 --> 00:15:26,000
+Boshinova tried to explain.
+
+181
+00:15:26,000 --> 00:15:29,000
+Duhamel said, I don't understand your comment.
+
+182
+00:15:29,000 --> 00:15:32,000
+What else but gross fluxes is worth looking at?
+
+183
+00:15:32,000 --> 00:15:39,000
+There follows a long series of remedial lessons in basic climatology, which Duhamel finally begins to grasp.
+
+184
+00:15:39,000 --> 00:15:43,000
+Then he suggests doing something he should have done on day one.
+
+185
+00:15:43,000 --> 00:15:47,000
+I would be interested in reading the whole paper. No kidding.
+
+186
+00:15:47,000 --> 00:15:49,000
+Then this.
+
+187
+00:15:49,000 --> 00:15:53,000
+Many of us do not have access to the full paper, only the abstract.
+
+188
+00:15:53,000 --> 00:15:58,000
+Studies funded by public money should be available to the interested public for free.
+
+189
+00:15:58,000 --> 00:16:05,000
+Nice try, but in fact this paper is available for free. It's in an open access journal.
+
+190
+00:16:05,000 --> 00:16:12,000
+Duhamel could have got his free copy as soon as he saw it being quoted by the hockey stick, just like I did.
+
+191
+00:16:12,000 --> 00:16:18,000
+Then Duhamel complains that scientific papers are full of jargon that's hard to understand.
+
+192
+00:16:18,000 --> 00:16:25,000
+Well John, then perhaps you shouldn't be running a blog telling people the science is wrong based on a paper you didn't read
+
+193
+00:16:25,000 --> 00:16:29,000
+and which you thought is full of hard to understand jargon.
+
+194
+00:16:29,000 --> 00:16:34,000
+Because the problem is, a lot of people assume that bloggers know what they're talking about
+
+195
+00:16:34,000 --> 00:16:38,000
+and blindly copy and paste what you've written without bothering to check it.
+
+196
+00:16:38,000 --> 00:16:42,000
+Case in point, what's up with that?
+
+197
+00:16:42,000 --> 00:16:46,000
+And when it was all shown to be rubbish, Anthony Watts, who runs the blog,
+
+198
+00:16:46,000 --> 00:16:52,000
+made the excuse that, since the original author had worked for the Tucson Citizen, that's Jonathan Duhamel,
+
+199
+00:16:52,000 --> 00:16:55,000
+I made the mistake of assuming it was properly vetted.
+
+200
+00:16:55,000 --> 00:17:02,000
+Well, of course, as we all know, bloggers who copy other bloggers are well known for having all their claims properly vetted.
+
+201
+00:17:02,000 --> 00:17:07,000
+But let's face it, if the authors of the ACP paper hadn't contacted Tom Nelson,
+
+202
+00:17:07,000 --> 00:17:14,000
+and if he hadn't issued a retraction, Watts would still be under the impression that the right-heat blog was properly vetted,
+
+203
+00:17:14,000 --> 00:17:17,000
+and it would still be on the what's up with that blog.
+
+204
+00:17:17,000 --> 00:17:24,000
+Actually, it is. The only clue that the whole thing is bunkum is a small note here saying it has an error.
+
+205
+00:17:24,000 --> 00:17:26,000
+One error?
+
+206
+00:17:26,000 --> 00:17:31,000
+And you have to scroll down to the update to find out that the error is the entire thing.
+
+207
+00:17:31,000 --> 00:17:33,000
+Maybe, or maybe not.
+
+208
+00:17:33,000 --> 00:17:38,000
+According to this letter from Duhamel, which is also printed in the update, it could be censorship,
+
+209
+00:17:38,000 --> 00:17:42,000
+or duplicitous scientists going back on what they wrote in the paper.
+
+210
+00:17:42,000 --> 00:17:45,000
+Says the man who couldn't understand the paper.
+
+211
+00:17:45,000 --> 00:17:52,000
+Anthony, why not do what Tom Nelson did and cross out the bits of Duhamel's story that were wrong,
+
+212
+00:17:52,000 --> 00:17:57,000
+so that people can still see what was originally written, but they'll understand it was all nonsense.
+
+213
+00:17:57,000 --> 00:18:06,000
+They won't do what this guy did and copy your what's up with that page a year later without any indication that the whole thing is baloney.
+
+214
+00:18:06,000 --> 00:18:11,000
+I've been warning about the danger of relying on these bloggers for years,
+
+215
+00:18:11,000 --> 00:18:16,000
+but thanks to the recent presidential election, this warning has finally gone mainstream.
+
+216
+00:18:16,000 --> 00:18:24,000
+We've seen fake news stories about the two candidates, and the phrase post-truth applied to the world of social media.
+
+217
+00:18:24,000 --> 00:18:30,000
+But it's not just phony sites that are disseminating fake news, it's far more widespread than that.
+
+218
+00:18:30,000 --> 00:18:37,000
+A blogger makes a mistake, whether intentionally or through sloppy research, or just plain ignorance,
+
+219
+00:18:37,000 --> 00:18:43,000
+his blog is copied by another blogger and copied by another blogger until millions of people believe it.
+
+220
+00:18:43,000 --> 00:18:49,000
+This is fake news being passed around by people who can't be bothered to check it.
+
+221
+00:18:49,000 --> 00:18:55,000
+So you can't trust the people who generate this fake news to get it right or to correct it.
+
+222
+00:18:55,000 --> 00:19:02,000
+It's up to us to do that, by checking where these stories come from when they land on Twitter or Facebook.
+
+223
+00:19:02,000 --> 00:19:05,000
+And it's not always from Macedonia.
+
+224
+00:19:07,000 --> 00:19:11,000
+For more information, visit www.aclu.org
+

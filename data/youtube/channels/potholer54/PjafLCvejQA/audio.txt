@@ -1,0 +1,244 @@
+Of all the blogs and essays speculating that the SARS-CoV-2 virus was man-made, this one
+seems to have got the most attention, so I'm happy to take up the numerous requests and
+challenges for me to fact-check it.
+It's by someone called Nicholas Wade. Who's he? According to one poster on the forum,
+he's a well-respected journalist with a 30-plus year track record who used to write for Nature
+magazine and the New York Times. Unfortunately, you can't assume he's got everything right
+by simply having a bit of faith and weighing up the credibility of any journalist based
+on their experience, reputation and track record. If that was the case, then Wade would
+actually be off to a pretty bad start, because he doesn't have a great track record of accurate
+reporting and he has a pretty low reputation among the scientific community for getting
+his facts straight.
+Fortunately, fact-checking isn't about personalities. It's about checking someone's source to see
+if his claim matches. So even a journalist with a great track record can get things wrong,
+and even a journalist with a terrible track record can get things right.
+Neither can you assume that the Bulletin of Atomic Scientists has fact-checked his piece
+because it's not a peer-reviewed journal. I can't go through the whole thing in a short
+video, and it includes a range of arguments from politics and personalities to hard science.
+My beat is the science, but whatever I choose to debunk, I could be cherry-picking. So I
+asked people on the Forum, who cited Wade's essay, to pick the most convincing piece of
+scientific evidence that they found to support the idea that the virus is man-made. They
+cited Wade's critique of the Nature Medicine Study by Anderson et al, the seamless method
+of genome manipulation, and a claim about a National Institute of Health funding brief.
+So let's go through them.
+You could start with this take-down of Dr Anderson's letter to the Journal of Nature
+Medicine, as this was the main basis for your strong claim that it was not lab-made. Just
+to be clear, I'm a complete idiot, so I can't make any such claim. I can only tell you what
+the science says. It's the science that shows it's man-made. If you have some personal,
+political or religious belief that leads you to reject scientific conclusions, that's fine
+with me. This is the part of Wade's claim that deals with the Nature Medicine Study.
+According to Wade, a second statement that had enormous influence in shaping public attitudes
+was a letter, in other words an opinion piece, not a scientific article. This is the study
+he's referring to, and his claim that it's just an opinion piece is inaccurate and very
+misleading. Firstly, it's listed as an article in the correspondence section of Nature Medicine.
+A correspondence article is certainly less than a peer-reviewed paper, but it's more
+than just an opinion piece, unless you consider inferences in science to be nothing more than
+opinions. The correspondence section of Nature Medicine is a forum for professional researchers,
+and articles published there still have to adhere to scientific principles. The scientific
+evidence, methodology and inferences presented in correspondence articles can be responded
+to corrected, confirmed or disproved, just like any other published study. Far from being
+disproved or corrected, the article, authored by senior virology researchers from the Scripps
+Institute, Tulane University, the University of Sydney, the University of Edinburgh and
+Columbia University, has been cited by over 3,000 scientific studies. Wade goes on to
+say, the discussion part of the letter begins, it is improbable that SARS-CoV-2 emerged through
+laboratory manipulation of a related SARS-CoV-like coronavirus. But wait, didn't the lead say
+the virus had clearly not been manipulated? Actually, no, it didn't say that at all. What
+it said was, our analyses clearly show that SARS-CoV-2 is not a laboratory construct,
+or a purposefully manipulated virus. If you think what Wade says means the same thing
+as what the authors said, why did he need to change it? As I explained in my video,
+The Scientific Method Made Easy, the word show in a scientific paper means something
+has been demonstrated scientifically. Taking that word out completely changed this from
+a scientific inference based on the evidence provided into an opinion based on dogma. When
+the correct wording is put back, there's nothing contradictory in these two terms at
+all. For example, the fossil and stratigraphical evidence clearly shows that animals evolved
+over billions of years. The reason this is called the theory of evolution is that science
+can never rule out the possibility that they were placed there by aliens or popped into
+existence at the whim of a deity, who cleverly arranged things to look as though animals
+had evolved over time. It's just that such an event is improbable.
+As far as substance goes, Wade criticises two claims made by the authors of the Nature
+Medicine article. Wade says, first they say the spike protein of SARS-CoV-2 binds very
+well to its target, the human ACE2 receptor, but does so in a different way from that which
+physical calculations suggest would be the best fit. Therefore, the virus must have arisen
+by natural selection, not manipulation. If that's all the authors had said, then
+Wade could be forgiven for thinking the inference doesn't match the evidence. In fact, what
+the authors show is a lot stronger and more detailed than just that one short sentence.
+Another part of the virus spike protein that binds to the ACE2 receptor in a human cell
+is called the receptor binding domain, the RBD. The Nature Medicine article explains
+that five of the amino acids that make up the RBD aren't found in other SARS-CoV viruses.
+So that's one piece of strong evidence against manipulation. When researchers are trying
+to see how close a natural zoonotic virus is to becoming infectious, they want to make
+as few changes as possible to just get it to that point. There'd be no point in spending
+time and effort replacing five out of the six amino acids.
+The other strong piece of evidence is that these radical changes wouldn't be expected
+to work anyway. Researchers always run calculations first to see what effect any change might
+have. They don't do things willy-nilly by trial and error, that would just be wasting
+their time. The Nature Medicine authors discovered that computation analyses predict that the
+interaction is not ideal. In other words, those changes are unlikely to work.
+So again, no point in doing them. Because while lab researchers wouldn't waste their
+time coming up with weird and inefficient structures that are unlikely to work, nature
+does it all the time. Because it works not by calculation, but through a process of trial
+and error. So there's a lot more evidence than Wade's
+simplistic summation. A good example of how evolution comes out with odd and counterintuitive
+designs is easier to see in this example. This hand has wrist bones for swivelling and
+an intricate array of knuckles, fingers and a thumb, perfect for grasping branches, picking
+up food and fashioning tools. It looks like an example of something intelligently designed
+for its purpose. Except it's not a hand, it's a remnant of evolution inside a dolphin's
+flipper. An intelligent designer wouldn't have bothered spending time and effort coming
+up with a pointless and intricate system of wrist bones, knuckles, fingers and thumbs,
+or if you prefer, ankles, tarsals, metatarsals and toes, to put them inside a flipper where
+they can't be used. But the hit and miss approach of evolution throws up all kinds of oddities
+like this all the time, not only in the animal world, but in the world of viruses too.
+So Wade is firstly misquoting and then completely misrepresenting the author's evidence and
+their conclusion. The problem is that most people don't read the study, they just read
+Wade's summary of what he claims the study says. Wade goes on to say, the author's basic
+assumption, not spelled out, is that anyone trying to make a bat virus bind to human cells
+could do so in only one way. First they would calculate the strongest possible fit between
+the human ACE2 receptor and the spike protein with which the virus latches onto it. Then
+they would design the spike protein. But the reason that's not spelled out is because that's
+not the author's assumption. It's Wade's assumption that that's how virus research
+is done. The authors know better because they're virology researchers themselves.
+Researchers in this field are not looking for the strongest possible fit. As I explained
+earlier, they're trying to determine how close a natural virus is to infecting humans, a
+transition known as spillover. So they're looking for the minimal number of changes
+needed for a possible fit. Wade then tells the virology researchers, again, how he thinks
+they do their job. And again, he gets it wrong. This ignores the way that virologists do,
+in fact, get spike proteins to bind to chosen targets, which is not by calculation, but
+by splicing in spike protein genes from other viruses or by serial passage.
+The authors aren't ignoring Wade's imagined account of how they do their research. They
+happen to know that researchers in this field do make their calculations first, and then
+they get the spike proteins to bind to chosen targets based on those calculations. How many
+of the people who were convinced by Wade's essay actually bothered to check the Nature
+Medicine article to see if it says what Wade claims it says.
+Wade's next argument against the Nature Medicine article concerns the nature of the virus backbone,
+which I covered in my first video on the origin of SARS-CoV-2. I said this. When researchers
+are bioengineering a virus, they usually don't build the entire thing from scratch.
+What they're interested in is the business end of the virus, called the spike proteins.
+They house the receptor binding domain, the RBD, where the virus attaches itself to the
+host cell, and the cleavage sites, where it breaks in and enters the cell. So, except
+in exceptional circumstances, they build the spike proteins onto the structure of an existing
+infectious virus. I suppose the best analogy is graffiti artists. They usually don't
+spend lots of time and money building an entire wall from scratch in order to spray paint
+their art. They find an existing wall and use that.
+Wade doesn't dispute the fact that virologists use existing backbones in their research or
+that the SARS-CoV-2 backbone is novel, but he argues that researchers might have built
+it themselves because, he says, backbones are quite easy to make. So it's possible.
+Since he doesn't quantify how easy it is, we need to check his source and find out.
+Unfortunately, as so often in his essay, he doesn't give a source, it's just his assumption.
+Since Wade has no expertise in this field, we need to find out from a real research virologist
+how easy it is to make a novel backbone. A couple of researchers I spoke to thought
+it would take years, and when I did a search online, I found that the Ben Hur-Lee lab,
+which does research in this field, says making a new backbone takes months or even years.
+Robert Gary, a professor of microbiology and immunology at Tulane University and one of
+the authors of the Nature Medicine study, didn't even think it was possible. He told
+Business Insider, people just don't know enough about what makes a virus pathogenic
+to be able to assemble that. So quite easy varies from a few months to impossible. But
+even if we take the lowest estimate of a few months, why would any researcher bother? After
+all, researchers are trying to see how close a virus is to spill over, and that's why all
+their research is focused on this, the spike protein, the infectious part of the virus.
+They don't need to spend time, effort and money trying to build a completely new backbone,
+and Wade doesn't explain why they would, except he assumes it's quite easy.
+Using the analogy, when most of us see something like this, we'd say it clearly shows that
+someone spray painted a rock. We wouldn't seriously entertain the idea that someone
+took time, effort and money to buy a lot of gravel melted in a furnace to make the rock
+and then go to even greater efforts to make the rock look perfectly natural. I think we'd
+all agree that such a pointless and time consuming exercise is improbable. The more obvious and
+simple explanation is that someone's just spray painted a rock. It's a principle known
+as Occam's Razor. Wade closes the section on the Nature Science paper by saying, and
+that's it. These are the two arguments made by the Anderson group in support of their
+declaration that the SARS-2 virus was clearly not manipulated.
+Well, that's not quite it. First of all, this wasn't a declaration, it was an inference
+based on the evidence that Wade mostly misrepresented. Secondly, there was a lot more in the study
+than just two arguments, and certainly a lot that's very different to Wade's two line
+misquotes. He continues, and this conclusion, grounded in nothing but two inconclusive speculations,
+convinced the world's press that SARS-2 could not have escaped from a lab. Again, they certainly
+weren't inconclusive speculations. They were very detailed and very conclusive. But you
+wouldn't know that if all you read was Wade's inaccurate summation.
+It isn't the world's press that was convinced by the Nature Medicine Study. It's unlikely
+most journalists read it. It was thousands of virology researchers who cited it in their
+own research papers, like these ones. They were convinced because they're professional
+researchers who didn't see these scientific inferences as inconclusive speculations. They
+did read the study and they did understand it. That's why they cited it.
+So we'll move on to the second poster who asked me to fact check Wade's essay. He
+wrote, I think the most important part to address there would be where he talks about
+the seamless method of genome manipulation. Here's the part of Wade's essay being referred
+to. Wade says, Unfortunately, this was another case of poor science, in the sense defined
+above. True, some older methods of cutting and pasting viral genomes retain telltale
+signs of manipulation, but newer methods, called noceum or seamless approaches, leave
+no defining marks. But the authors aren't arguing that cutting
+and pasting viral genomes retains telltale signs of manipulation, or that it represents
+any kind of evidence that SARS-CoV-2 is natural. This seems to be an argument Wade has invented
+himself, just so he can knock it down, which he then proceeds to do. He says, But newer
+methods, called noceum or seamless approaches, leave no defining marks, nor do other methods
+for manipulating viruses, such as serial passage, the repeated transfer of viruses
+from one culture of cells to another. If a virus has been manipulated, whether with a
+seamless method or by serial passage, there's no way of knowing that this is the case. Anderson
+and his colleagues were assuring their readers of something they could not know. But Anderson
+and his colleagues weren't trying to assure readers of anything of the sort. They never
+even mentioned it. No one's trying to argue that there might
+or might not be telltale signs of manipulation. It's irrelevant. It's the fact that these
+features are there at all, which shows a natural evolutionary path. The noceum technique is
+a method of gene insertion used in cloning. It doesn't mean we can't see these new
+genetic sequences, so it doesn't affect the evidence at all.
+Going back to the example of a hand inside a dolphin's flipper, I'm equally happy
+to accept a creationist's argument that any intelligent designer could have done
+this without leaving any incriminating toolmarks. But that's not the point. It's the fact
+that all these hand bones are in there that argues against intelligent design, because
+an intelligent designer wouldn't have bothered with all these pointless and complex design
+features. And we can see transitions for some of these changes, just as we can see
+the pathway to many of the odd and counter-intuitive features of SARS-CoV-2 in other viruses.
+On to the next argument in Wade's essay that someone said is the most convincing.
+The poster C-Panic gave this example, so again, this is his choice, not my cherry pick. Look
+at this section. This is the grant from NIH. C-Panic then quoted part of a National Institute
+of Health grant document addressed to the Wuhan Institute of Virology, which has a brief
+laying out what its funding is to be used for. C-Panic then explained. What this means,
+in non-technical language, he said, is that she set out to create…
+But wait a minute. This is just a huge chunk of text lifted directly from Wade's essay.
+This is what Wade thinks it means. So how do we know he's understood it, or that he's
+explaining it accurately? The good news is that Wade gives a source
+for his claims, which means it can be easily checked. This is the NIH funding brief he's
+referring to, and he even quotes the section of the document he's referring to. Wade
+claims it instructs Dr Shee, the researcher, to create novel coronaviruses with the highest
+possible infectivity for human cells, which, if true, would be an incredibly reckless and
+dangerous thing for any lab to do. Making the most infectious virus possible is the
+recipe for a terror weapon. And even if you believe that there was a conspiracy to make
+such a weapon, it would be a bit odd for the United States to fund such research in China,
+and odder still that it would be spelled out in a publicly available document.
+So wherever else you think this conspiracy is being played out, it's certainly not in
+the document Wade's citing, or in the passage he cites.
+As I mentioned earlier, the spillover potential of a naturally occurring virus means the potential
+of the virus to mutate into a form that can infect humans. So researchers need to identify
+which of the many viruses found in nature is closest to this point. In other words,
+the idea is to make as few changes as possible to the spike protein just to get to the point
+where spillover will occur, not to make the most infectious virus. The reason for doing
+this is it helps predict which of the viruses in nature is closest to becoming infectious
+to humans. Wade compounds his error by adding,
+The methodical approach was designed to find the best combination of coronavirus backbone
+and spike protein for infecting human cells. I found it very hard to believe the NIH brief
+said this, because it's funding research into the infectivity of the virus, which doesn't
+come from the backbone, it comes from the spike protein. As we've seen, for experimentation
+purposes researchers simply pick a backbone off the shelf. And when I searched for anything
+resembling this claim in Wade's source, I couldn't find it and Wade doesn't quote it.
+So that's the problem with believing Wade on the basis that he sounds credible or assuming
+he has a good track record as a science journalist. So those were supposedly the most convincing
+pieces of scientific evidence in Wade's essay, not picked by me but by people on the
+forum who responded when asked. Of course, now that this has been addressed, I have no
+doubt it'll be answered with the what about arguments. What about the rest of Wade's essay?
+What about this blog or that video? What about something else? All I can say is, guys, even
+if I had time to make a hundred videos a year in order to whack down every new misunderstanding
+and misquote that pops up on the internet, you don't need me to fact check this stuff
+anyway. You can fact check it yourself. Wade asks why virologists don't make the
+same claims he's making. It can't be because he's wrong. It must be because researchers
+are all corrupt. As with climate change, evolution and every other scientific conclusion that
+people don't want to believe, they use the standard fallback position that scientists
+don't risk having their next grant application turned down. I've covered this default excuse
+in several videos. If the research conflicts with your belief, it can't be because you're
+wrong. The research must be wrong, and therefore all the researchers must be corrupt. The simple
+fact of the matter is that other virologists don't contradict the published science because
+they've ascertained that the published science is correct.
+Finally, if you're seeing ads on this video, it's because I've now monetised the channel
+and have made Health in Harmony the beneficiary of the income. Health in Harmony is the charity
+that I've been asking people to support if they want to support this channel, so if you
+want to find out more about it, take a look at the links in the video description. And
+for those who've donated in the past, thanks very much for doing so, and I hope many of
+you will continue to donate in the future, even though we now have advertisements running.
+If you're not seeing ads on this video, then that's due to my pathetic technology skills.

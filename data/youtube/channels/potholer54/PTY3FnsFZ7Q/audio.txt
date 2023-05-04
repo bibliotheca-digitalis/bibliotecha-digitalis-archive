@@ -1,0 +1,170 @@
+Let's take Professor Richard Linden, for instance, who has produced paper after paper
+showing that climate sensitivity is around a quarter to a seventh of what the Euro has
+changed. That means three watts per square meter, all anthropogenic forcings estimated
+by the IPCC, 0.8, five times as much forcing for natural causes.
+The question I asked in my first video on Moncton is, why do people believe him? And
+here we start to get an insight. Here he is on national television in Australia debating
+a professional climate scientist and easily getting the better of him. You can tell Dr
+Ben McNeill is thinking, shit, I thought this would be a pushover. I wish I'd prepared.
+Yes, McNeill would have been wise to find out a bit more about Moncton and his arguments
+before coming on the programme, because Moncton certainly did his homework on McNeill.
+With all respect, you are not an expert on the central question in this debate, which
+is climate sensitivity. How much warming will you get if you add CO2 to the atmosphere?
+And he's right. McNeill isn't an expert on climate sensitivity. He's an expert on carbon
+dioxide absorption in oceans, which is the subject of most of his research. So when Moncton
+turns to an area outside of McNeill's expertise, Moncton can pretty well make any claim he
+likes without fear of contradiction. Let's face it, he sounds bold, confident, eloquent
+and sure of his assertions. McNeill can't check whether Moncton's claims are correct.
+Neither can the interviewer. But we can. So that's exactly what we're going to do.
+First, let me explain some terms that you'll hear a lot. Put simply, forcing is the amount
+of warming caused by whatever might be warming the Earth. It could be the sun, or a greenhouse
+gas or a light reflective surface turning into a darker one. The amount of forcing or
+warming due to a doubling of CO2 levels is pretty much agreed on by all climatologists.
+Richard Linson, the skeptic everyone likes to quote, says this figure is about 3.5 watts
+per square metre, as noted in the last three IPCC scientific assessments. The IPCC actually
+puts the figure at 3.7 watts per square metre, but there's a margin of error, so we're in
+the same ballpark. When forcing increases, the average global surface temperature rises
+until it reaches a stage where the amount of energy leaving the Earth is about the same
+as the amount of energy being pumped in by the forcing. This is called the equilibrium
+temperature and in its most basic form it's very easy to work out. Temperature equals
+forcing times lambda, which is the Earth's sensitivity. It's usually written as delta
+T to denote a change in temperature in response to delta F, a change in forcing. So forcing
+is like a heater in a cabin, and sensitivity tells us the final temperature the cabin will
+reach in response to that heat. It's important to understand the difference between forcing
+and sensitivity, because as we'll see in a minute, Moncton gets them completely mixed
+up. If no other factors are involved, climate sensitivity is about 0.27, so if we plug in
+a forcing of 3.7 watts per square metre caused by a doubling of CO2, we'd get an increase
+in temperature of about 1 degree centigrade. This is also generally agreed on by all climate
+scientists. Unfortunately, other factors are involved. As the Earth warms towards this
+level, changes happen that tend to amplify and reduce the warming, known as positive
+and negative feedback. Lindsen argues that more water vapour will produce more clouds,
+which reflect sunlight and may act as a negative feedback, outweighing all the positives. The
+reason this isn't generally accepted is because other climatologists have found flaws in Lindsen's
+hypothesis. For one thing, it only encompasses the tropics, not the whole Earth. And even
+clouds in the tropics not only reflect sunlight and act as a negative feedback, they also
+send outgoing longwave radiation back to Earth, and so act as a positive feedback. And the
+other reason Lindsen's hypothesis doesn't fit is that researchers working in a completely
+different field, geology, found that the feedback effects from CO2 in the past were clearly
+positive, not negative. So these various feedbacks have to be plugged in to find out
+what the Earth's sensitivity really is, and therefore what the equilibrium temperature
+will be. Modelling is just one of many different ways sensitivity can be determined. Glaciologists
+and geologists determine sensitivity by looking at how global temperatures changed according
+to carbon dioxide level rises in the past. A review of the various results from a dozen
+different methods, each denoted by a different colour, shows that nearly all cluster around
+the 2 to 4.5 degree range. I'll squash them up so we can see them in one frame. The thicker
+lines show more results and greater probability. Individual results that are well outside the
+cluster, known as outliers, are marked with crosses. So let's just pick a result at random.
+This study, for instance, shows that global temperatures will rise by 10 degrees because
+of a doubling of CO2. And this one, for instance, says the same thing. So we now know that temperatures
+will rise by 10 degrees, which is three times higher than the IPCC estimate. What do you
+mean that's nonsense? Rats. The Moncton fans have spotted what I did. Yes, I completely
+ignored the majority of results clustered in the middle and just happened to deliberately
+pick the most extreme outliers. Then I pretended that they were representative of the body
+of evidence and claimed that we know these results are correct. You could just as easily
+pick a couple of studies from the opposite extreme and do the same thing. But who would
+do something as obviously bogus as that? Let's take Professor Richard Linden, for instance,
+who has produced paper after paper showing that climate sensitivity is around a quarter
+to a second. So now we're beginning to see Moncton's performance in context. He cherry-picked
+extremely low figures that are clearly outside the range of most research. Then he conveys
+the impression that this result is correct, undisputed, known and settled. The biggest
+problem is that a number of papers have found flaws in the research of Lindsen, Douglas
+and Knox and Moncton makes no mention of this. Here's my own calculation and we get 1.6 degrees
+Celsius as the change in temperature for a doubling of CO2. The warming we would expect
+to get if we doubled the CO2 concentration in the atmosphere, that is what's known as
+climate sensitivity, will be about a fifth of a Celsius degree, just a little bit more
+than a fifth of a Celsius degree. In his piece in the Forum on Physics and Society newsletter,
+Moncton gives yet another figure for temperature rise, 0.58 degrees centigrade. Which one Moncton
+decides to settle on really doesn't matter, because we'll see that his calculation method
+is nonsense anyway. He laid it out in the APS newsletter piece. I'm not going to go
+over the whole thing because people far better qualified than me have already done that. I'll
+just point out one of the most egregious errors that even the most scientifically illiterate
+can grasp. It concerns the figure for forcing, which Moncton initially puts at 3.405 watts
+per square metre. Okay, this is lower than the accepted estimate of 3.5 to 3.7, but never
+mind, that small beer compared to what he does next. He divides it by three. So he now
+gives us a forcing of just 1.135 watts per square metre. Moncton says this is to take
+account of the observed failure of the tropical mid-troposphere to warm as projected by the
+models, citing a paper by Richard Linson. But whether the tropical mid-troposphere warms
+as projected or not, this isn't forcing. It's sensitivity. Nowhere in the cited paper does
+Linson cut forcing. In fact, Linson specifically says in the same paper that forcing is 3.5
+watts per square metre for a doubling of CO2. Nowhere near Moncton's 1.135. Surely
+no-one who testifies to Congress on the subject of climate could possibly mix up sensitivity
+and forcing, especially in what he claims is his peer-reviewed paper. That would be
+like confusing time and distance, or pressure and volume. They're two completely different
+things. But then our old ally comes along to show that's exactly what he did. In an
+attempt to hit back at his critics, Moncton justified his decision by citing a passage
+from Linson's 2007 paper. He made a mistake on the date, by the way. But it's obvious
+that in the passage Moncton quotes, Linson is talking about sensitivity, not forcing.
+After reading the critiques of his calculation, Moncton obviously and rather belatedly realised
+this. But instead of admitting his mistake, Moncton decides to simply substitute one word
+for another, as if no-one will notice. In his rebuttal, he justifies dividing sensitivity
+by three. But if we check back with his APS piece, we can see he didn't do any such thing.
+He divided forcing by three, and he says so. It even came in a section titled, radiative
+forcing reconsidered. I don't think anyone could show more clearly that Moncton mistook
+sensitivity for forcing than this attempt at a rebuttal by Moncton himself. So as impressive
+as Moncton's equations may seem, and as clever as they make Moncton look in front
+of audiences, they're nonsense. The trouble is, audiences do get dazzled by sums and symbols,
+and can't tell the difference between good physics and crap.
+If we apply that equation to this question of whether the clouds building up would make
+the earth warmer or cooler, we get an extremely clear answer. It would make it cooler if you
+had more clouds. I'm not going to go through this calculation now. You'll be glad to
+hear it. Anyone who's nerdy enough to want to follow it, get my slides and read the text
+underneath.
+Please sir, I'm nerdy enough. First, another quick explanation. Albedo is the reflectivity
+of a surface. So a black surface will have a very low albedo and a warming effect because
+it doesn't reflect much radiation. A white or shiny surface will have a very high albedo
+and a cooling effect. So let's go to the slides. Moncton's hypothesis on this is called
+bears crap in the woods. Here we demonstrate very easily that increasing the earth's albedo
+has a very large cooling effect. Well, yes, that was easy. Since increasing albedo has
+a cooling effect, Moncton has successfully demonstrated that increasing albedo has a
+cooling effect, and sitting under a shade has a shading effect. Then Moncton imagines
+the earth without an atmosphere, so that an increase in cloud cover is represented by
+an increase in whiteness on the planet's surface. Again, no arguments about the result.
+If you paint dark areas of a planet white, you increase the albedo and cool it down.
+Moncton concludes that therefore, the higher the albedo, the cooler the planet. Well, no,
+that's different. A cooling effect is not the same as saying that one thing will be
+cooler than another. The best way to empirically show that this is crap is to apply it to a
+couple of planets. Venus has a very high albedo of around 0.75, while Mercury is less
+than 0.1. So according to Moncton, Venus should be much cooler than Mercury. In fact, it's
+hotter, even though it's much further from the sun. Why? Because it has an atmosphere.
+Of course, Moncton eliminated the earth's atmosphere in order to do his hypothetical
+calculation, but as we can see from the example of Venus and Mercury, this hypothetical exercise
+leads to a hypothetical result that doesn't match reality. So let's come back to the real
+world and put the earth's atmosphere back. Now, instead of just reflecting solar radiation
+and cooling the earth down, the clouds do what they do in the real world. They also
+stop radiation escaping from earth and add warming. In his speeches, of course, Moncton
+doesn't tell his audience that his proof requires the omission of the atmosphere. Well then,
+is there anyone who can support Moncton on this? Now, this paper was written in 2005
+by a satellite nerd named Pinker. He is wholly unconcerned with the global warming debate.
+And what he found was this, that there was a significant, naturally occurring decline
+in cloud cover between 1983 and 2001. So what we know from this is that something like four
+fifths of the warming over that period in the satellite era, when we can work out what
+caused it, was in fact caused by a change in cloud cover. The radiative forcing, the
+change in temperature forced by something happening was naturally occurring. Cloud cover
+change of three watts per square meter. Hold that thought while we watch a clip from Annie
+Hall. I think that my insight into Mr. McLuhan will have a great deal of validity. Oh, do
+you? Well, that's funny because I happen to have Mr. McLuhan right here. So, so, yeah,
+just let me, let me, let me come over here a second. Oh, I heard what you were saying.
+You know nothing of my work. You mean my whole fallacy is wrong. How you ever got to
+teach a course in anything is totally amazing. Boy, if life were only like this. Well, sometimes
+life is like that. When Monckton again pontificated on the work of Dr. Pinker at a debate in Australia,
+his opponent Tim Lambert was ready for him. So here we have an enormous, naturally occurring
+forcing verified in Pinker's paper by four separate methods. Lambert did the next best
+thing to dragging Pinker on stage. He had a recording of someone reading a statement
+from her. The CO2 radiative forcing value that Mr. Christopher Monckton is quoting refers
+to the impact on the Earth's radiative balance. The numbers that we quote in our paper represent
+the change in surface shortwave radiation due to changes in the atmosphere. Clouds,
+water vapour, aerosols. These two numbers cannot be compared at their face value. To
+the best of my understanding, this is the source of the misunderstanding. This might
+seem amusing, but several months after hearing Dr. Pinker's words for himself, Monckton was
+still misrepresenting her paper, this time to members of Congress. This is Dr. Pinker's
+paper establishing that the warming of that period was caused largely by a naturally occurring
+reduction in cloud cover, extra sunlight reaching the ground. For some reason they preferred
+to hear an explanation of Dr. Pinker's work from Monckton rather than Dr. Pinker. So once
+again Pinker had to issue a rebuttal, this time to Congress, detailing Monckton's misreading
+and misunderstanding of her research. I'm going to testify not of course as a scientist
+because I'm not one, but as a policy maker. And the role of policy makers when confronted
+with scientists is to know what questions to ask and I'm going to raise one or two questions
+now. It relies on a bogus statistical technique. It is defective as I shall now show. Not very
+much warming is going to happen. The reality however is just 0.7. The IPCC should not have
+used that first graph. Let us now see what the true position is. The conclusion from
+this is that we can explain the warming by other methods.

@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:07,000
+The one thing we all know about the theory of evolution is that it was proposed by Charles
+
+2
+00:00:08,200 --> 00:00:15,200
+Darwin about 150 years ago. Well, not quite. The idea that organisms evolved was floating
+
+3
+00:00:15,400 --> 00:00:20,880
+around for 2000 years before Darwin and was revived a bit before his time by Jean-Baptiste
+
+4
+00:00:20,880 --> 00:00:25,760
+Lamarck. But it didn't gain much ground because there was no obvious mechanism by which one
+
+5
+00:00:25,760 --> 00:00:30,440
+type of animal could change into another. Lamarck suggested that maybe animals changed
+
+6
+00:00:30,440 --> 00:00:36,120
+because they felt the need to change. It didn't sound very scientific and with no evidence
+
+7
+00:00:36,120 --> 00:00:42,380
+to support it the idea didn't go very far. What Darwin did was to show a plausible mechanism
+
+8
+00:00:42,380 --> 00:00:47,320
+by which these changes could happen and let's not forget poor old Alfred Wallace who came
+
+9
+00:00:47,320 --> 00:00:53,000
+up with the same idea and published it jointly. The paper they wrote was this. Darwin had
+
+10
+00:00:53,000 --> 00:00:58,000
+to come up with what he called the principle of natural selection. These days we tend to
+
+11
+00:00:58,000 --> 00:01:03,060
+call this the theory of evolution as a kind of shorthand but that's confusing because
+
+12
+00:01:03,060 --> 00:01:08,680
+we also use the term theory of evolution to describe the fact that organisms evolve. I
+
+13
+00:01:08,680 --> 00:01:12,920
+want to leave the physical evidence and the proof of evolution for the next video. In
+
+14
+00:01:12,920 --> 00:01:18,100
+this video I just want to look at the mechanism to see whether sitting in our armchairs and
+
+15
+00:01:18,100 --> 00:01:23,060
+not doing a bit of research we can predict evolution in animals purely on the basis of
+
+16
+00:01:23,060 --> 00:01:29,220
+what we know. That animals replicate themselves and that the replication isn't perfect. There's
+
+17
+00:01:29,220 --> 00:01:34,620
+always variation. Just taking these two known facts and nothing else what do we expect might
+
+18
+00:01:34,620 --> 00:01:40,300
+happen if we keep copying a hypothetical animal generation after generation in a changing
+
+19
+00:01:40,300 --> 00:01:45,920
+environment. Let's say the hypotheticus lives in a tropical climate grazing happily on grass
+
+20
+00:01:45,920 --> 00:01:51,480
+and plants. We know from our two principles that not every hypotheticus is the same. This
+
+21
+00:01:51,480 --> 00:01:56,400
+one has been born with a slightly longer neck. This one has slightly longer legs. The third
+
+22
+00:01:56,400 --> 00:02:01,960
+has slightly longer claws and the fourth has a slightly hairier body. Over time herds of
+
+23
+00:02:01,960 --> 00:02:07,920
+hypotheticus spread across the continent but the climate changes and the continent dries up. Only
+
+24
+00:02:07,920 --> 00:02:13,680
+scrubby bushes and hardy tubers can survive. The hypotheticus with the slightly longer neck can
+
+25
+00:02:13,680 --> 00:02:19,280
+obviously get to more leaves than its neighbours. Inevitably taller and longer necked hypothetica
+
+26
+00:02:19,280 --> 00:02:25,120
+are better fed and fitter and therefore reproduce more. A few generations later the drought has
+
+27
+00:02:25,120 --> 00:02:30,600
+caused overall numbers to dwindle but there are more long-necked animals but natural selection
+
+28
+00:02:30,600 --> 00:02:35,520
+doesn't suddenly stop just because average neck length has increased. The longest of the long
+
+29
+00:02:35,520 --> 00:02:41,680
+necks now has an advantage over ordinary long necks and so the process continues. This principle
+
+30
+00:02:41,680 --> 00:02:47,200
+is so easy to understand you have to wonder why it's so frequently misunderstood. So let's take
+
+31
+00:02:47,200 --> 00:02:56,680
+this one step at a time and see where the confusion lies. Surely no argument there. By which I mean
+
+32
+00:02:56,680 --> 00:03:03,920
+children are like their parents and inherit their traits. For example if it gets colder animals with
+
+33
+00:03:03,920 --> 00:03:10,840
+hairier bodies will have a slightly better chance of survival. Pretty obvious? Like genes for hairy
+
+34
+00:03:10,840 --> 00:03:16,320
+bodies. Genes that don't confer these advantages tend not to get passed on because the animals
+
+35
+00:03:16,320 --> 00:03:21,880
+that carry them have a lower chance of survival. So if each of these steps is blindingly obvious
+
+36
+00:03:21,880 --> 00:03:28,760
+then so is the conclusion. Over time animals should change. So why don't we see it? Why does
+
+37
+00:03:28,760 --> 00:03:35,000
+a dog always give birth to a dog and a horse always gives birth to a horse? Well natural
+
+38
+00:03:35,000 --> 00:03:40,120
+selection doesn't suggest they shouldn't. What natural selection tells us is that a horse will
+
+39
+00:03:40,120 --> 00:03:45,440
+always give birth to a horse that's very slightly different. After thousands of generations these
+
+40
+00:03:45,440 --> 00:03:51,320
+differences add up. If you want an example of imperceptible changes you once looked like this.
+
+41
+00:03:51,320 --> 00:03:56,880
+Maybe now you look something like this but you've probably looked in a mirror every day of your life.
+
+42
+00:03:56,880 --> 00:04:03,280
+So when did this change take place? Did you notice it? Okay let's accept that organisms do change
+
+43
+00:04:03,280 --> 00:04:08,920
+over time but how do we know they change into different species? A process known as speciation.
+
+44
+00:04:08,920 --> 00:04:14,400
+I'll leave the evidence of speciation for the next video and look at this through the example
+
+45
+00:04:14,400 --> 00:04:19,680
+of our hypotheticus. We've seen how it can grow taller over time in order to survive a change of
+
+46
+00:04:19,680 --> 00:04:25,560
+climate but there may be other ways of surviving. This hypotheticus for example may not be able to
+
+47
+00:04:25,560 --> 00:04:31,520
+compete well for leaves but because of its longer claws it can dig more easily for tubers so it would
+
+48
+00:04:31,520 --> 00:04:36,880
+have a better chance of survival and its genes would be passed on. The question is not whether
+
+49
+00:04:36,920 --> 00:04:42,040
+the hypotheticus would change over time but what could possibly stop these changes from happening.
+
+50
+00:04:42,040 --> 00:04:48,760
+Each generational change may be tiny but millions of years of accumulated change in a changing
+
+51
+00:04:48,760 --> 00:04:54,560
+environment leads to two completely different animals. The question is whether their DNA would
+
+52
+00:04:54,560 --> 00:04:59,840
+by then be so different that they could no longer breed. In the next video we'll see if there's any
+
+53
+00:04:59,840 --> 00:05:04,720
+physical evidence to give us the answer. Anti-evolutionists have other objections
+
+54
+00:05:04,720 --> 00:05:11,720
+which come up time and again. Well if you're imagining something like this then obviously
+
+55
+00:05:11,720 --> 00:05:17,120
+you can't but using our theory of natural selection and breaking it down into evolutionary
+
+56
+00:05:17,120 --> 00:05:23,680
+steps it's easy to understand. Simple organisms would have a sensory system like the amoeba which
+
+57
+00:05:23,680 --> 00:05:29,040
+can sense heat, cold and chemicals. This could then evolve into a sensory system with a central
+
+58
+00:05:29,040 --> 00:05:34,960
+processor just like in insects. Individuals with better organised centralised nervous systems would
+
+59
+00:05:34,960 --> 00:05:40,640
+be able to do more things and pass on this improved trait. The central processor would get
+
+60
+00:05:40,640 --> 00:05:47,160
+bigger and better. Again in stages. I won't spend time explaining the evolution of the eye here
+
+61
+00:05:47,160 --> 00:05:52,320
+because there are a number of good videos on YouTube that do that job including this one.
+
+62
+00:05:52,320 --> 00:06:00,560
+No, evolution requires variation. If information is a fancy way of saying bigger ears,
+
+63
+00:06:00,560 --> 00:06:07,040
+hairier bodies and longer necks then fine, we know that happens. We can see it. If information
+
+64
+00:06:07,040 --> 00:06:12,560
+means miraculously adding completely new parts then of course that doesn't happen and we know
+
+65
+00:06:12,560 --> 00:06:18,680
+why. In the next video I'll show the evidence that animals adapt existing morphology for new tasks.
+
+66
+00:06:18,680 --> 00:06:26,000
+Trying to characterise evolution as an accident doesn't change what it is or the evidence for it
+
+67
+00:06:26,000 --> 00:06:31,480
+and clearly there's nothing random about natural selection itself because genes survive only if
+
+68
+00:06:31,480 --> 00:06:37,720
+they're best suited to survive. Mutations are just the inevitable result of DNA that didn't make a
+
+69
+00:06:37,720 --> 00:06:43,840
+perfect copy and they're very common. The result is variation not some science fiction army of
+
+70
+00:06:43,840 --> 00:06:48,960
+mutant ninja turtles. In fact there's new evidence that mutations don't play such an
+
+71
+00:06:48,960 --> 00:06:53,560
+important role in natural selection and this might be a good time to look at what we've learned since
+
+72
+00:06:53,560 --> 00:06:59,440
+Darwin. At the time Darwin and Wallace published their paper on natural selection Louis Pasteur
+
+73
+00:06:59,440 --> 00:07:05,600
+was developing his pathogenic theory of medicine the idea that germs cause disease but it would be
+
+74
+00:07:05,600 --> 00:07:11,040
+laughable to presume that biologists haven't learned anything new about pathogens since 1860.
+
+75
+00:07:11,040 --> 00:07:16,400
+Of course our knowledge has advanced so why would our knowledge of evolution be any different?
+
+76
+00:07:16,400 --> 00:07:23,160
+Biologists now know that mutations may not be the big engine of change. DNA can be changed by
+
+77
+00:07:23,160 --> 00:07:30,440
+proteins which turn genes on and off a process known as cis regulation. Epigenetics is a huge
+
+78
+00:07:30,440 --> 00:07:36,120
+field but it drastically changes Darwin's premise that genes are just passively sitting there being
+
+79
+00:07:36,120 --> 00:07:41,640
+manipulated by environmental changes around them. Putting this very simply biologists have
+
+80
+00:07:41,640 --> 00:07:48,120
+discovered that DNA can exaggerate traits that are being naturally selected. Instead of being the slow
+
+81
+00:07:48,120 --> 00:07:53,920
+and steady change that Darwin envisaged evolution seems to happen in fits and starts. It's as if
+
+82
+00:07:53,920 --> 00:08:00,440
+natural selection is occasionally turbocharged. Cis regulation and epigenetics might explain why
+
+83
+00:08:00,440 --> 00:08:05,920
+this happens. These and many other discoveries don't overturn the 19th century idea of natural
+
+84
+00:08:06,200 --> 00:08:11,000
+selection any more than modern microbiology overturns the discoveries of Louis Pasteur
+
+85
+00:08:11,000 --> 00:08:17,360
+but they do show that Darwin's ideas were crude and incomplete. There's a lot more to the mechanism
+
+86
+00:08:17,360 --> 00:08:23,200
+that drives evolution yet to be uncovered. Okay so we've deduced from the comfort of our armchairs
+
+87
+00:08:23,200 --> 00:08:28,800
+that evolution ought to happen. At least I hope so. Now it's time to do the research and see if
+
+88
+00:08:28,800 --> 00:08:33,160
+these ideas are supported by physical evidence. Meet me in the next video.
+
+89
+00:08:35,920 --> 00:08:36,000
+you
+

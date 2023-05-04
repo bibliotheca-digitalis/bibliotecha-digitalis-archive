@@ -1,0 +1,120 @@
+Here again is Pothola's first law.
+Myths are created much faster than they can be debunked.
+So when I received a message containing yet another triumphant proof that we don't need to be concerned about CO2,
+I knew it would be at least a couple of months before I could get around to doing a video on it.
+But since the story, in a blog called The Register, included a detailed source,
+and since the mistakes were so obvious, I decided I had time to do a quick debunk.
+First, here's the myth.
+It now appears that the previous current state of climate science may simply have been wrong,
+and that there's really no need to get in an immediate flap.
+We can go a couple of centuries without any dangerous warming.
+But who says so?
+Apparently someone called Lewis Page, who, according to this bio, is an expert in military history.
+So how does he know we won't experience dangerous warming for another two centuries?
+And if the climate change issue is thus resolved, why isn't this headline news all over the world?
+It could be because there's a secret plot by the media to keep us from the truth.
+Page cites real researchers at NASA, and a real study, and a real explanation.
+So where does he go wrong?
+Let's start with the study.
+There are a number of things that tend to enhance global warming due to CO2.
+This is called positive feedback.
+And a number of things that tend to reduce global warming due to CO2, called negative feedback.
+Among the negatives is evapotranspiration in plants, which tends to cool the air around them.
+There's still a lot of uncertainty about how much evapotranspiration there'll be,
+but NASA researchers made an estimate and plugged that into a model.
+So far, no problem.
+But then Page and reality part company.
+He says the NASA study shows that when evapotranspiration is taken into account,
+a doubling of CO2 levels would cause the Earth to warm by just 1.64 degrees.
+So he concludes that all the other models which don't take evapotranspiration into account,
+and show much higher amounts of warming, are therefore wrong.
+Page seems to think the study consists of just one model which includes evapotranspiration.
+But it doesn't.
+Researchers clearly state in their paper that they made three models.
+The first was a controlled climate model that did not take evapotranspiration into account,
+and it suggested that a doubling of CO2 would lead to a warming of around 1.94 degrees centigrade.
+This wasn't the important part of the paper, this was just a base to work from,
+because what they really wanted to find out was how much this figure rose and fell as other factors were included.
+In the third model they plugged in evapotranspiration and found a warming of 1.68 degrees.
+So their conclusion was, and this is what they were after,
+that evapotranspiration reduced warming by 0.26 degrees centigrade.
+There's nothing to suggest that the control model is any more or less correct
+than all the other models that have been produced.
+As the authors themselves pointed out, 1.94 degrees is at the low end of a range of results
+from other computer models which vary from 2 degrees to 4.5 degrees.
+If we deduct the cooling effect of evapotranspiration from the high end of the range mentioned in the paper,
+we get warming of around 4.24 degrees.
+So even when evapotranspiration is included, most models still project temperature increases
+that are not that different and are a cause for concern.
+So while Page tells us we no longer have a problem with CO2 concentrations,
+the researchers who actually wrote the paper came to a completely different conclusion.
+Bunoa stressed that while the model's results show a negative feedback,
+it is not a strong enough response to alter the global warming trend that is expected.
+This feedback slows but does not alleviate the projected warming, Bunoa said.
+But that still doesn't explain why Page thought the warming would be 1.64 degrees
+when the researchers said it would be 1.68.
+It's a small difference, but it tells a bigger story.
+It tells us that Page didn't read the paper at all. He only read NASA's press release.
+Because the press release didn't include the researchers' figure of 1.68 degrees,
+it gave the correct result of the control, 1.94 degrees,
+but when it gave the figure for the cooling effect of evapotranspiration, it rounded it up to 0.3 degrees.
+Page was obviously working with the figures from the press release
+because when he subtracted one from the other, he got 1.64.
+OK, so that explains the spurious temperature projection,
+but what about the two centuries Page says it'll take to get there?
+Page gives no source for this, but it's easy to see how he figured this out on his own.
+He read in the press release that the researchers based their model on a doubling of CO2 concentration,
+so he doubled today's accepted figure of 390 parts per million and came up with 780 parts per million.
+Next, he needed a growth rate for CO2 being pumped into the atmosphere, 2 parts per million per year.
+Divide 390 by 2 and you get 195 years, which is roughly a couple of centuries.
+No wonder people complain about the millions of dollars spent on scientific research
+when all you need is five minutes and a pocket calculator.
+It was beautifully worked out and wonderfully wrong.
+First, Page's assertion that a doubling of CO2 meant 780 parts per million was a good guess,
+but if he'd checked the paper, he would have seen that the model was based on a concentration of 700 parts per million, not 780.
+That's another 310 parts per million more than today, not 390.
+So at the assumed growth rate of 2 parts per million per year, it would take 155 years to reach this figure, not 195.
+As for the growth rate itself, Page gives us a source, the Mauna Loa monitoring station in Hawaii.
+But this is only the current growth rate of CO2 emissions. Page assumes the growth rate won't increase
+and, more importantly, that the land and oceans will continue to absorb carbon dioxide at the same rate.
+Unfortunately, that absorption rate is already declining.
+A 2009 study by the Massachusetts Institute of Technology found that without curbs,
+CO2 concentrations are likely to reach between 716 and 1,095 parts per million by 2095,
+just 85 years away, not 155 or 195.
+Inevitably, Page's story was copied and pasted in blogs all over the Internet
+and attracted comments from people who were so unskeptical they believed it without bothering to check
+either the abstract of the paper or the accompanying news release on NASA's website.
+And this one is my personal favourite.
+The blogger took Page's unsourced opinion that global warming won't be a problem for another 200 years
+and attributed it to scientists from NASA.
+Wait, what? It's right!
+Look, I understand we can't spend our days checking every bit of information that comes our way
+and we may not even have the expertise to do that.
+But if a piece of information makes you go, wait, what, and seems to run counter to prevailing science
+and isn't being reported by the quality media, it can't hurt to check the source.
+People who copy and paste this stuff on their own blogs have an even greater duty to check its veracity.
+Remember, the opposite of sceptical is gullible.
+But after wading through all the blunders and the bullshit, the NASA study is important.
+The warming effect of carbon dioxide is well understood because it's basic physics.
+Even sceptics, I mean real sceptics who are actual climate scientists,
+accept that carbon dioxide causes warming and even agree on how much warming.
+Where more research needs to be done is the question of sensitivity
+and that's why positive and negative feedbacks are being quantified.
+The idea that evapotranspiration is one of these feedback systems is not a new one
+but the question is how much of an effect will it have?
+Even NASA's model may have to be revised because research that was published after NASA's model was put together
+shows that evapotranspiration rates are in fact declining.
+So the negative feedback may turn out to be a lot less.
+It's interesting that the register chose to put a quote from Benoit at the top of the page article.
+Important to get these things right.
+Well, I couldn't agree more. Perhaps they should have taken that advice on board.
+Every week I see claims like this that there's some new proof that climate change theory is all wrong
+and that scientists are now having to abandon the theory of climate change.
+Pothola's Law holds true because it only takes 15 minutes to make up a myth and post it on a blog.
+But it usually takes days of painstaking work to try to track down where the myth comes from,
+read the relevant research papers and write a detailed rebuttal complete with references.
+In this particular case, a debunk was very easy because the source was right there
+and anyone who's skeptical can see where page went wrong.
+Even so, in the few hours it's taken me to put this debunk together,
+someone else could have invented five new myths that have already been posted.
+Inevitably, they're going to pop up faster than they can be whacked down.

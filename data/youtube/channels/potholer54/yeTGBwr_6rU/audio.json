@@ -1,0 +1,1 @@
+{"text": " you", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.06, "text": " you", "tokens": [50363, 345, 50466], "temperature": 0.0, "avg_logprob": -0.5232313275337219, "compression_ratio": 0.2727272727272727, "no_speech_prob": 0.9375824332237244}], "language": "en"}

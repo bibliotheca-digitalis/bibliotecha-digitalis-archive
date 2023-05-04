@@ -1,0 +1,732 @@
+1
+00:00:00,000 --> 00:00:04,520
+In the first video of this series I looked at Al Gore's suggestion that this graph,
+
+2
+00:00:04,520 --> 00:00:09,080
+which comes from the Vostok ice core, shows carbon dioxide and temperature in lock step
+
+3
+00:00:09,080 --> 00:00:11,960
+over the last 400,000 years.
+
+4
+00:00:11,960 --> 00:00:16,200
+Just to recap I'll let the film The Great Global Warming Swindle counter that one.
+
+5
+00:00:16,200 --> 00:00:21,760
+So here we're looking at the ice core record from Vostok and in the red we see temperature
+
+6
+00:00:21,760 --> 00:00:27,080
+going up from early time to later time at a very key interval when we came out of a
+
+7
+00:00:27,080 --> 00:00:34,240
+glaciation and we see the temperature going up and then we see the CO2 coming up.
+
+8
+00:00:34,240 --> 00:00:41,520
+CO2 lags behind that increase, it's got an 800 year lag so temperature is leading CO2
+
+9
+00:00:41,520 --> 00:00:44,000
+by 800 years.
+
+10
+00:00:44,000 --> 00:00:48,680
+There have now been several major ice core surveys, every one of them shows the same
+
+11
+00:00:48,680 --> 00:00:49,880
+thing.
+
+12
+00:00:49,880 --> 00:00:56,680
+The temperature rises or falls and then after a few hundred years carbon dioxide follows.
+
+13
+00:00:56,680 --> 00:01:03,320
+So obviously carbon dioxide is not the cause of that warming, in fact we can say that the
+
+14
+00:01:03,320 --> 00:01:06,880
+warming produced the increase in carbon dioxide.
+
+15
+00:01:06,880 --> 00:01:11,920
+And that's absolutely right, researchers say carbon dioxide was not the cause of the initial
+
+16
+00:01:11,920 --> 00:01:15,180
+warming during any of the recent deglaciations.
+
+17
+00:01:15,180 --> 00:01:20,020
+The most likely trigger was the Milankovitch cycles, changes in the Earth's tilt and orbit
+
+18
+00:01:20,020 --> 00:01:22,720
+that caused more insulation.
+
+19
+00:01:22,760 --> 00:01:26,960
+In climatology, something that triggers higher temperatures is called a forcing.
+
+20
+00:01:26,960 --> 00:01:33,240
+So greater insulation due to the Earth's orbit is called orbital forcing or insulation forcing.
+
+21
+00:01:33,240 --> 00:01:37,360
+The problem is this explanation has given rise to yet another myth that I'm going to
+
+22
+00:01:37,360 --> 00:01:39,620
+deal with in this video.
+
+23
+00:01:39,620 --> 00:01:42,800
+But first, a quick recap of myth number one.
+
+24
+00:01:42,800 --> 00:01:46,960
+CO2 clearly cannot be causing temperature changes.
+
+25
+00:01:46,960 --> 00:01:50,760
+It's a product of temperature, it's following temperature changes.
+
+26
+00:01:50,800 --> 00:01:54,920
+Just because an increase in temperature puts more carbon dioxide into the atmosphere, which
+
+27
+00:01:54,920 --> 00:02:00,400
+is true, that doesn't preclude carbon dioxide also causing temperatures to rise.
+
+28
+00:02:00,400 --> 00:02:04,760
+Similarly, just because insulation causes temperature rises, that doesn't mean carbon
+
+29
+00:02:04,760 --> 00:02:07,540
+dioxide can't cause temperatures to rise.
+
+30
+00:02:07,540 --> 00:02:12,200
+Otherwise you could say that because kinetic energy can produce heat, then it must mean
+
+31
+00:02:12,200 --> 00:02:15,320
+that heat can't produce kinetic energy.
+
+32
+00:02:15,320 --> 00:02:19,800
+So let's go back to that graph which Durkin attributes to Kion et al.
+
+33
+00:02:19,840 --> 00:02:24,640
+He's probably referring to this famous 2003 paper in the journal Science, which is where
+
+34
+00:02:24,640 --> 00:02:27,280
+that 800 year lag comes from.
+
+35
+00:02:27,280 --> 00:02:31,600
+By the way, Kion says there's a margin of error of 200 years.
+
+36
+00:02:31,600 --> 00:02:36,220
+Kion was looking at the end of one of several glaciations during the ice age, this one called
+
+37
+00:02:36,220 --> 00:02:38,040
+Termination 3.
+
+38
+00:02:38,040 --> 00:02:42,720
+It marks the end of a glaciation about 240,000 years ago.
+
+39
+00:02:42,720 --> 00:02:47,260
+Durkin's correct in saying there's an 800 year lag, but he didn't tell his audience
+
+40
+00:02:47,620 --> 00:02:50,440
+what was in the rest of Kion's paper.
+
+41
+00:02:50,440 --> 00:02:55,820
+The data for the graph – here's the real one by Kion et al – comes from an ice core
+
+42
+00:02:55,820 --> 00:02:58,860
+at the Vostok station in Antarctica.
+
+43
+00:02:58,860 --> 00:03:03,820
+Since the 1980s, ice cores have been getting progressively deeper, and the 800 year lag
+
+44
+00:03:03,820 --> 00:03:09,300
+everyone now talks about comes from a core that was first analysed in 1999.
+
+45
+00:03:09,300 --> 00:03:14,620
+So Vostok doesn't record global temperatures, it records Antarctic temperatures.
+
+46
+00:03:14,620 --> 00:03:19,820
+And although temperature did indeed lead CO2 in Antarctica, Kion concluded that temperature
+
+47
+00:03:19,820 --> 00:03:24,900
+rises lagged CO2 in the northern hemisphere, and he said so in his paper.
+
+48
+00:03:24,900 --> 00:03:30,500
+A more recent paper by Shakun et al shows how much temperature leads CO2 in the southern
+
+49
+00:03:30,500 --> 00:03:34,700
+hemisphere, and how much it lags in the northern hemisphere.
+
+50
+00:03:34,700 --> 00:03:39,540
+The rise of CO2 level and the warming effect that produces is not only consistent with
+
+51
+00:03:39,540 --> 00:03:44,340
+observation, it also explains something that's otherwise inexplicable.
+
+52
+00:03:44,340 --> 00:03:50,620
+A paper by Lorius et al shows that insulation has varied by only 0.7 watts per square metre
+
+53
+00:03:50,620 --> 00:03:53,580
+over the last 160,000 years.
+
+54
+00:03:53,580 --> 00:03:57,620
+In other words, the tiny amount of forcing due to the Earth's orbit wasn't enough
+
+55
+00:03:57,620 --> 00:04:02,100
+to defrost miles of thick ice covering a large part of the planet.
+
+56
+00:04:02,100 --> 00:04:07,140
+It was the amplification of this initial warming by other factors – mostly greenhouse gases
+
+57
+00:04:07,140 --> 00:04:12,020
+– that gives us the complete picture, which goes like this.
+
+58
+00:04:12,020 --> 00:04:17,260
+The initial warming at the end of each glaciation was probably caused by orbital forcing.
+
+59
+00:04:17,260 --> 00:04:22,020
+Carbon dioxide in the atmosphere played little or no part in this initial warming, and because
+
+60
+00:04:22,020 --> 00:04:28,060
+CO2 is more soluble in colder water, a lot of it was dissolved in the deep oceans.
+
+61
+00:04:28,060 --> 00:04:33,720
+But the higher temperatures caused by orbital forcing led to stronger winds and warmer water.
+
+62
+00:04:33,720 --> 00:04:38,420
+Over several hundred years, that caused CO2 to circulate up from the ocean depths and
+
+63
+00:04:38,420 --> 00:04:41,180
+eventually degas at the surface.
+
+64
+00:04:41,180 --> 00:04:45,940
+As CO2 levels in the atmosphere rose, over the next few thousand years the greenhouse
+
+65
+00:04:45,940 --> 00:04:52,420
+effect gradually took over from orbital forcing to become the predominant cause of warming.
+
+66
+00:04:52,420 --> 00:04:57,180
+This amplification of the initial warming is a process known as positive feedback, which
+
+67
+00:04:57,180 --> 00:05:00,640
+I explained in the first video of this series.
+
+68
+00:05:00,640 --> 00:05:06,140
+Then as the Earth continues its wobble and erratic orbit, less insulation begins to fall
+
+69
+00:05:06,140 --> 00:05:11,820
+and that triggers lower temperatures, causes more atmospheric CO2 to dissolve in the oceans,
+
+70
+00:05:11,820 --> 00:05:13,740
+and the process goes into reverse.
+
+71
+00:05:13,740 --> 00:05:16,020
+We get another glaciation.
+
+72
+00:05:16,020 --> 00:05:20,780
+So Laureus's and Chacun's conclusion was the same as the conclusion of Kion and every
+
+73
+00:05:20,780 --> 00:05:27,500
+other researcher in this field that carbon dioxide both lags and leads temperature rises.
+
+74
+00:05:27,500 --> 00:05:32,260
+Kion explains all of this in his paper, but that wasn't mentioned in the Great Global
+
+75
+00:05:32,260 --> 00:05:33,820
+Warming Swindle.
+
+76
+00:05:33,820 --> 00:05:38,600
+Neither Kion nor Severinghaus nor Juzelle or any of the authors of the paper Durkin
+
+77
+00:05:38,600 --> 00:05:41,700
+cited were interviewed for the film.
+
+78
+00:05:41,700 --> 00:05:47,620
+Instead Durkin got a geochemist with no publishing history in this field to voice his beliefs.
+
+79
+00:05:47,620 --> 00:05:53,020
+If he and Clark has some reason for believing that CO2 can't lead as well as lag, he doesn't
+
+80
+00:05:53,020 --> 00:05:57,820
+tell us what it is, neither does he publish a paper showing his evidence.
+
+81
+00:05:57,820 --> 00:06:01,760
+Of course it's possible that real climate researchers are all corrupt and hurriedly
+
+82
+00:06:01,760 --> 00:06:06,720
+made up this nonsense in order to explain the embarrassing fact of the time lag, because
+
+83
+00:06:06,720 --> 00:06:09,320
+it threatened to scupper their hoax.
+
+84
+00:06:09,320 --> 00:06:13,400
+Here's what civil engineer Frank Landsner wrote about the 800 year lag on What's Up
+
+85
+00:06:13,400 --> 00:06:14,660
+With That.
+
+86
+00:06:14,660 --> 00:06:19,760
+This is the climate debate, so massive rescue missions have been launched to save the CO2
+
+87
+00:06:19,760 --> 00:06:25,280
+hypothesis, so explanation for the unfortunate CO2 data is as follows.
+
+88
+00:06:25,280 --> 00:06:31,040
+First a solar or orbital change induces some minor warming, cooling, and then CO2 raises
+
+89
+00:06:31,040 --> 00:06:37,120
+or drops, after this it's the CO2 that drives the temperature up or down.
+
+90
+00:06:37,120 --> 00:06:40,140
+Well that's more or less the theory in a nutshell.
+
+91
+00:06:40,140 --> 00:06:44,720
+But if Landsner thinks this explanation was hurriedly cobbled together to explain away
+
+92
+00:06:44,720 --> 00:06:50,520
+an unfortunate lag, he obviously hasn't looked at any of the scientific papers from decades
+
+93
+00:06:50,520 --> 00:06:51,520
+past.
+
+94
+00:06:51,520 --> 00:06:55,500
+I've done a trawl through the scientific literature and there was no question that
+
+95
+00:06:55,500 --> 00:07:01,080
+since at least the 1980s researchers had been expecting carbon dioxide to lag the
+
+96
+00:07:01,080 --> 00:07:02,980
+initial temperature rise.
+
+97
+00:07:02,980 --> 00:07:07,180
+The only question at the time was, how big would the lag be?
+
+98
+00:07:07,180 --> 00:07:13,780
+Neftel et al. in 1988 thought CO2 probably lagged by less than 1,200 years.
+
+99
+00:07:13,780 --> 00:07:20,060
+A 1990 paper by Lorius et al. predicted a lag of between a decade and over 100 years.
+
+100
+00:07:20,060 --> 00:07:25,940
+A paper by Barnola et al. estimated the lag time at less than 1,000 years.
+
+101
+00:07:25,940 --> 00:07:31,500
+So why were they all so sure that CO2 lagged the initial temperature rise?
+
+102
+00:07:31,500 --> 00:07:35,600
+Because there had never been any question of it not doing that, I couldn't find any
+
+103
+00:07:35,600 --> 00:07:41,980
+papers suggesting that carbon dioxide led temperature rise at the end of each glaciation.
+
+104
+00:07:41,980 --> 00:07:47,180
+Here's a paper going back half a century, explaining how orbital forcing was the likely
+
+105
+00:07:47,180 --> 00:07:52,260
+cause, and by the 1970s that explanation was widely accepted.
+
+106
+00:07:52,260 --> 00:07:56,260
+And by the 1970s, positive feedback was also well understood.
+
+107
+00:07:56,260 --> 00:07:59,260
+Here's a Nature paper from 1972.
+
+108
+00:07:59,260 --> 00:08:04,500
+It was talking about warming predicted because of a 20th century rise in carbon dioxide,
+
+109
+00:08:04,500 --> 00:08:08,100
+but the same principle applies whatever the cause of warming.
+
+110
+00:08:08,100 --> 00:08:13,340
+A rise in temperature of the oceans will itself release additional CO2 to the atmosphere and
+
+111
+00:08:13,340 --> 00:08:19,180
+provide a positive feedback, tending to enhance slightly the carbon dioxide effect.
+
+112
+00:08:19,180 --> 00:08:24,380
+This paper by Soutsman also describes how carbon dioxide released from a warming ocean
+
+113
+00:08:24,380 --> 00:08:27,540
+amplifies initial warming.
+
+114
+00:08:27,540 --> 00:08:32,340
+Just as Lorius and Barnola had predicted, and other researchers have confirmed, it was
+
+115
+00:08:32,340 --> 00:08:37,700
+positive feedback that defrosted the planet, not orbital forcing.
+
+116
+00:08:37,700 --> 00:08:42,260
+But this myth that the unexpected discovery of a lag has turned climate theory on its
+
+117
+00:08:42,260 --> 00:08:47,820
+head has persisted simply because it's been copied and pasted again and again for the
+
+118
+00:08:47,820 --> 00:08:52,700
+internet version of the scientific literature, the blogosphere.
+
+119
+00:08:52,700 --> 00:08:57,060
+Even this year, when the Niels Bohr Institute in Denmark published yet another paper on
+
+120
+00:08:57,060 --> 00:09:02,220
+what's become the standard model of deglaciation, this time calculating the time lag at much
+
+121
+00:09:02,220 --> 00:09:08,940
+less than 800 years, the bloggers still saw it as confirmation that CO2 always lags temperature
+
+122
+00:09:08,940 --> 00:09:11,300
+and therefore cannot lead.
+
+123
+00:09:11,340 --> 00:09:15,140
+Introducing the study on what's up with that, Anthony Watts wrote,
+
+124
+00:09:15,140 --> 00:09:20,500
+The question of which comes first, the temperature or the CO2 rise, has been much like the proverbial
+
+125
+00:09:20,500 --> 00:09:23,420
+which came first, the chicken or the egg question.
+
+126
+00:09:23,420 --> 00:09:25,080
+This seems to settle it.
+
+127
+00:09:25,080 --> 00:09:29,580
+Temperature came first, followed by an increase in CO2, outgassing from the oceans surrounding
+
+128
+00:09:29,580 --> 00:09:30,580
+Antarctica.
+
+129
+00:09:30,580 --> 00:09:35,100
+Well, welcome to a conclusion that was first reached 40 years ago.
+
+130
+00:09:35,100 --> 00:09:38,620
+Sorry, but this isn't like the chicken or the egg question.
+
+131
+00:09:38,740 --> 00:09:40,940
+The authors have known for decades which came first.
+
+132
+00:09:40,940 --> 00:09:46,340
+I know I'm repeating myself, but just how hard is it to check these past papers?
+
+133
+00:09:46,340 --> 00:09:51,100
+Even the news release accompanying the study and reprinted right below Watts' statement
+
+134
+00:09:51,100 --> 00:09:56,480
+belied the chicken or the egg metaphor and confirmed exactly what I've been saying.
+
+135
+00:09:56,480 --> 00:10:00,180
+It had previously been thought that as the temperature began to rise at the end of the
+
+136
+00:10:00,180 --> 00:10:06,100
+ice age, an increase in the amount of CO2 in the atmosphere followed with a delay of
+
+137
+00:10:06,100 --> 00:10:08,560
+up to 1,000 years.
+
+138
+00:10:08,560 --> 00:10:13,940
+And further down, also reprinted on WhatsUp with that, the same news release said this,
+
+139
+00:10:13,940 --> 00:10:18,440
+The global temperature changed naturally because of the changing solar radiation caused by
+
+140
+00:10:18,440 --> 00:10:23,620
+variations in the Earth's orbit around the Sun, the Earth's tilt and the orientation
+
+141
+00:10:23,620 --> 00:10:25,580
+of the Earth's axis.
+
+142
+00:10:25,580 --> 00:10:32,040
+The natural warming of the climate was intensified by the increased amount of CO2 in the atmosphere.
+
+143
+00:10:32,040 --> 00:10:34,060
+Sound familiar?
+
+144
+00:10:34,060 --> 00:10:39,060
+This understanding of the CO2 lag is a pretty persistent myth, and it crops up all the time.
+
+145
+00:10:39,060 --> 00:10:44,180
+It's not an easy one to understand because it's part fact and part fallacy, so you
+
+146
+00:10:44,180 --> 00:10:49,020
+have to unravel what's actually in the scientific literature and what isn't.
+
+147
+00:10:49,020 --> 00:10:51,620
+So let's sum all this up with a quick quiz.
+
+148
+00:10:51,620 --> 00:10:57,420
+Published papers clearly, clearly shows that it is always the temperature rises first by
+
+149
+00:10:57,420 --> 00:11:01,460
+at least several hundred years to a few thousand years.
+
+150
+00:11:01,460 --> 00:11:04,020
+And then the carbon dioxide curve responds.
+
+151
+00:11:04,020 --> 00:11:09,540
+True, if we're talking about the initial cause of deglaciations and Antarctic temperatures
+
+152
+00:11:09,540 --> 00:11:12,000
+rather than global temperatures.
+
+153
+00:11:12,000 --> 00:11:16,460
+Willy soon doesn't make that clear, but let's give him a point anyway.
+
+154
+00:11:16,460 --> 00:11:21,120
+And since researchers predicted this lag over 20 years ago, then of course they deserve
+
+155
+00:11:21,120 --> 00:11:23,180
+a point too.
+
+156
+00:11:23,180 --> 00:11:25,100
+Temperatures go up, then CO2 concentrations go up.
+
+157
+00:11:25,100 --> 00:11:26,620
+CO2 does not drive temperatures.
+
+158
+00:11:26,620 --> 00:11:31,940
+Carbon dioxide may in fact follow the atmosphere temperature change as opposed to being a leading
+
+159
+00:11:31,940 --> 00:11:32,940
+indicator.
+
+160
+00:11:32,940 --> 00:11:33,940
+False.
+
+161
+00:11:33,940 --> 00:11:37,780
+If the only argument here is that something can't be both a cause and a product of that
+
+162
+00:11:37,780 --> 00:11:41,860
+cause, because nature proves that wrong time and time again.
+
+163
+00:11:41,860 --> 00:11:44,500
+The Amazon rainforest is a good example.
+
+164
+00:11:44,500 --> 00:11:48,940
+More vegetation promotes evapotranspiration and encourages rainfall.
+
+165
+00:11:48,940 --> 00:11:51,640
+More rainfall leads to more vegetation.
+
+166
+00:11:51,640 --> 00:11:55,140
+More vegetation promotes evapotranspiration and so on.
+
+167
+00:11:55,140 --> 00:12:00,820
+They said if the CO2 increases in the atmosphere as a greenhouse gas, then the temperature
+
+168
+00:12:00,820 --> 00:12:02,640
+will go up.
+
+169
+00:12:02,640 --> 00:12:05,500
+But the ice core record shows exactly the opposite.
+
+170
+00:12:05,500 --> 00:12:10,980
+So the fundamental assumption, the most fundamental assumption of the whole theory of climate
+
+171
+00:12:10,980 --> 00:12:15,060
+change due to humans is shown to be wrong.
+
+172
+00:12:15,060 --> 00:12:16,060
+False.
+
+173
+00:12:16,060 --> 00:12:20,380
+The most fundamental assumption for decades was that temperatures would rise first because
+
+174
+00:12:20,380 --> 00:12:21,980
+of orbital forcing.
+
+175
+00:12:21,980 --> 00:12:23,900
+Then carbon dioxide would rise.
+
+176
+00:12:23,900 --> 00:12:27,700
+In that, carbon dioxide would cause further warming and the release of more greenhouse
+
+177
+00:12:27,700 --> 00:12:31,740
+gases until the temperature stabilised at a much higher level.
+
+178
+00:12:31,740 --> 00:12:35,940
+These assumptions, if Ball wants to call them that, turned out to be correct.
+
+179
+00:12:35,940 --> 00:12:40,940
+At the end of that round of scores are...
+
+180
+00:12:40,940 --> 00:12:46,140
+So either the critics don't know the whole story or they're deliberately ignoring it.
+
+181
+00:12:46,140 --> 00:12:50,900
+I don't know which it is and as always I'm not going to ascribe motivation.
+
+182
+00:12:50,900 --> 00:12:56,140
+All I can do is show what's in the scientific literature and cite the sources so that you
+
+183
+00:12:56,140 --> 00:12:56,700
+can check it.
+

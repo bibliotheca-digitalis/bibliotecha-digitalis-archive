@@ -1,0 +1,1028 @@
+1
+00:00:00,800 --> 00:00:04,160
+NASA now says burning fossil fuels cools the planet?
+
+2
+00:00:05,280 --> 00:00:08,080
+Yes, the question mark and exclamation point are right.
+
+3
+00:00:08,080 --> 00:00:08,640
+What the f***?
+
+4
+00:00:09,680 --> 00:00:13,440
+NASA, along with every other major scientific institution in the world,
+
+5
+00:00:13,440 --> 00:00:17,200
+has been telling us for decades that burning fossil fuels increases
+
+6
+00:00:17,200 --> 00:00:19,840
+the concentration of CO2 in the atmosphere.
+
+7
+00:00:19,840 --> 00:00:26,080
+And as scientists have known for over 120 years, an increase of CO2 causes global warming.
+
+8
+00:00:26,080 --> 00:00:29,200
+And now all of a sudden NASA's telling us it causes cooling?
+
+9
+00:00:30,000 --> 00:00:33,680
+This fact has been brought to us by my old friend Steve Crowder.
+
+10
+00:00:33,680 --> 00:00:37,360
+And the only reason I spotted it is because it was above a tweet of his
+
+11
+00:00:37,360 --> 00:00:41,600
+that someone had told me about, claiming that I'd declined to come on his show.
+
+12
+00:00:42,240 --> 00:00:46,640
+So before I set the record straight on that, let me deal with this claim first.
+
+13
+00:00:47,600 --> 00:00:52,800
+Regular subscribers to my channel know exactly what to do when a transparently silly claim like
+
+14
+00:00:52,800 --> 00:00:58,320
+this hits the blogosphere. Find out where it comes from, trace it right back to its source,
+
+15
+00:00:58,320 --> 00:01:03,520
+and see how the primary source has been misunderstood or misrepresented along the way.
+
+16
+00:01:03,520 --> 00:01:07,200
+And in this case starting that trail is as easy as clicking on this link.
+
+17
+00:01:08,080 --> 00:01:13,200
+It comes from the Sunday Express from over a year earlier.
+
+18
+00:01:14,080 --> 00:01:18,800
+OK, the next step is to see where the Express got its information from so we can check it.
+
+19
+00:01:19,600 --> 00:01:21,360
+And it wasn't hard to find out.
+
+20
+00:01:21,360 --> 00:01:25,040
+I simply googled some of the NASA quotes from the Express story
+
+21
+00:01:25,040 --> 00:01:28,320
+and it turned out they all came from this NASA press release.
+
+22
+00:01:28,880 --> 00:01:34,000
+And the source of the NASA press release was this paper which was published in 2015.
+
+23
+00:01:34,720 --> 00:01:38,400
+People often ask me how to track down sources and that's how it's done.
+
+24
+00:01:39,040 --> 00:01:43,120
+Now all we have to do is see how the information has changed along the way,
+
+25
+00:01:43,120 --> 00:01:47,680
+just like the old telephone game, or what we call in the UK, Chinese whispers.
+
+26
+00:01:48,720 --> 00:01:53,440
+Well, the press release reported the conclusions of the paper accurately, so no change there.
+
+27
+00:01:54,000 --> 00:01:58,240
+And here's the Express story, with the material copied and pasted verbatim from
+
+28
+00:01:58,240 --> 00:02:02,560
+the NASA press release highlighted in yellow. So that's all accurate.
+
+29
+00:02:03,200 --> 00:02:05,680
+What's interesting are the bits in between,
+
+30
+00:02:05,680 --> 00:02:10,400
+the bits of the press release that for some reason the Express decided to change.
+
+31
+00:02:11,280 --> 00:02:12,800
+Let's start with the headline.
+
+32
+00:02:12,800 --> 00:02:14,960
+The title of the NASA paper was
+
+33
+00:02:14,960 --> 00:02:18,800
+Implications for climate sensitivity from the response to individual forcings.
+
+34
+00:02:19,440 --> 00:02:21,680
+The NASA press release headline was
+
+35
+00:02:21,680 --> 00:02:26,240
+NASA study examination of Earth's recent history key to predicting global temperatures.
+
+36
+00:02:26,960 --> 00:02:30,160
+And let's see what headline the Express decided to run with.
+
+37
+00:02:30,160 --> 00:02:34,560
+Climate change shock! Burning fossil fuels cools planet, says NASA.
+
+38
+00:02:35,840 --> 00:02:38,240
+And Crowder echoed the Sunday Express line.
+
+39
+00:02:38,240 --> 00:02:41,360
+NASA now says burning fossil fuels cools the planet?
+
+40
+00:02:42,240 --> 00:02:43,440
+Beginning to see the difference?
+
+41
+00:02:44,080 --> 00:02:46,640
+Let's go to more detail about this alleged cooling.
+
+42
+00:02:47,360 --> 00:02:48,400
+According to the paper,
+
+43
+00:02:49,040 --> 00:02:53,280
+Forcings that project more strongly on the northern hemisphere, land or polar regions
+
+44
+00:02:53,280 --> 00:02:57,840
+are systematically more effective at changing temperatures than an equivalent amount of CO2
+
+45
+00:02:57,840 --> 00:03:01,120
+whose forcing is more uniformly distributed throughout the globe.
+
+46
+00:03:02,080 --> 00:03:03,680
+The press release says,
+
+47
+00:03:03,680 --> 00:03:07,280
+Because earlier studies do not account for what amounts to a net cooling effect
+
+48
+00:03:07,280 --> 00:03:09,120
+for part of the northern hemisphere,
+
+49
+00:03:09,120 --> 00:03:12,720
+predictions for TCR and ECS have been lower than they should be.
+
+50
+00:03:13,600 --> 00:03:15,840
+Now how does the Sunday Express change that?
+
+51
+00:03:16,400 --> 00:03:17,200
+It goes with,
+
+52
+00:03:17,200 --> 00:03:21,200
+NASA found a net cooling in the northern hemisphere due to industrial activity.
+
+53
+00:03:22,080 --> 00:03:23,360
+And Crowder says,
+
+54
+00:03:23,360 --> 00:03:27,600
+The latest talking point to march to its death, fossil fuels cause global warming,
+
+55
+00:03:27,600 --> 00:03:29,040
+because they don't!
+
+56
+00:03:29,040 --> 00:03:33,120
+In fact, NASA says fossil fuels actually cause temporary global cooling.
+
+57
+00:03:34,560 --> 00:03:38,880
+So we've gone from aerosols causing net cooling in parts of the northern hemisphere
+
+58
+00:03:39,760 --> 00:03:42,320
+to causing net cooling in the northern hemisphere
+
+59
+00:03:42,320 --> 00:03:45,120
+to causing temporary cooling across the entire planet.
+
+60
+00:03:45,760 --> 00:03:48,960
+And from that, let's call it a misunderstanding,
+
+61
+00:03:48,960 --> 00:03:52,720
+Crowder concludes that fossil fuels don't cause global warming.
+
+62
+00:03:53,520 --> 00:03:56,560
+If Crowder had checked the tabloid newspaper's source,
+
+63
+00:03:56,560 --> 00:03:59,040
+instead of simply believing what it said,
+
+64
+00:03:59,040 --> 00:04:03,760
+he would have discovered the error and not embellished it with completely the wrong conclusion.
+
+65
+00:04:04,720 --> 00:04:08,480
+What probably confused the Sunday Express and Crowder
+
+66
+00:04:08,480 --> 00:04:12,240
+is that this may be the first time they've learned that some types of fossil fuels
+
+67
+00:04:12,240 --> 00:04:14,160
+produce sulfate aerosols,
+
+68
+00:04:14,160 --> 00:04:17,840
+and that these aerosols reflect sunlight and therefore have a cooling effect.
+
+69
+00:04:18,560 --> 00:04:22,080
+This was mentioned by NASA because it's what prompted the study,
+
+70
+00:04:22,080 --> 00:04:24,960
+but of course it wasn't the conclusion of the study.
+
+71
+00:04:25,840 --> 00:04:29,440
+After all, the cooling effect of aerosols has been known for decades,
+
+72
+00:04:29,440 --> 00:04:31,920
+and I've even talked about it in my videos.
+
+73
+00:04:31,920 --> 00:04:37,360
+If you burn high sulfur fossil fuels, you get a lot of sulfate pollution known as aerosols,
+
+74
+00:04:37,360 --> 00:04:40,560
+and this pollution mitigates the warming effect of CO2.
+
+75
+00:04:41,120 --> 00:04:46,240
+If you switch to cleaner fuels like natural gas, which doesn't produce so many sulfates,
+
+76
+00:04:46,240 --> 00:04:49,280
+the aerosols very quickly get washed out of the atmosphere,
+
+77
+00:04:49,280 --> 00:04:53,360
+the air clears, and you feel the full effects of CO2-induced warming.
+
+78
+00:04:54,080 --> 00:04:57,280
+Several papers have tried to quantify the effect of aerosols,
+
+79
+00:04:57,280 --> 00:05:01,200
+and the NASA paper was simply doing that using a more accurate method.
+
+80
+00:05:01,840 --> 00:05:07,040
+What it found was that previous studies had underestimated the cooling effect of aerosols,
+
+81
+00:05:07,040 --> 00:05:10,240
+and that means the underlying warming effect of CO2
+
+82
+00:05:10,240 --> 00:05:13,760
+must be much greater than was previously calculated.
+
+83
+00:05:13,760 --> 00:05:15,360
+Here's what the NASA study said.
+
+84
+00:05:16,000 --> 00:05:19,680
+This has been rewritten quite accurately by the press release as,
+
+85
+00:05:19,680 --> 00:05:23,200
+because earlier studies do not account for what amounts to a net cooling effect
+
+86
+00:05:23,200 --> 00:05:25,040
+for parts of the northern hemisphere,
+
+87
+00:05:25,040 --> 00:05:28,400
+predictions for TCR and ECS have been lower than they should be.
+
+88
+00:05:29,440 --> 00:05:31,120
+The Express changed that to,
+
+89
+00:05:31,120 --> 00:05:36,320
+existing climate change models have underestimated what the future impact on global temperatures will be.
+
+90
+00:05:37,120 --> 00:05:40,320
+The Express makes it sound as though other climate models haven't taken
+
+91
+00:05:40,320 --> 00:05:42,480
+the cooling effect of aerosols into account,
+
+92
+00:05:42,480 --> 00:05:46,160
+and therefore the Earth is not going to warm as much as we thought.
+
+93
+00:05:46,160 --> 00:05:48,720
+That's certainly the impression Crowder got.
+
+94
+00:05:48,720 --> 00:05:51,920
+For years we heard burning fossil fuels caused global warming,
+
+95
+00:05:51,920 --> 00:05:55,200
+but now they've found that, whoops, no, we meant cooling.
+
+96
+00:05:56,400 --> 00:05:59,520
+In fact, the NASA paper and the NASA press release
+
+97
+00:05:59,520 --> 00:06:02,720
+make it clear that their conclusion is the complete opposite.
+
+98
+00:06:03,280 --> 00:06:06,800
+Burning fossil fuels actually causes more warming than we thought.
+
+99
+00:06:07,440 --> 00:06:10,880
+I know, again, a lot of Crowder fans will write in
+
+100
+00:06:10,880 --> 00:06:14,800
+refusing to believe that he could have drawn completely the opposite conclusion
+
+101
+00:06:14,800 --> 00:06:17,440
+to the conclusion of the NASA study he didn't read.
+
+102
+00:06:18,080 --> 00:06:22,160
+Well, Crowder always encourages his fans to engage in critical thinking,
+
+103
+00:06:22,160 --> 00:06:25,360
+so if you don't believe what I'm showing you, that's good.
+
+104
+00:06:25,360 --> 00:06:28,240
+Do some critical thinking and read the blog,
+
+105
+00:06:28,800 --> 00:06:33,360
+read the newspaper, the press release, and the study for yourselves.
+
+106
+00:06:33,360 --> 00:06:35,520
+All my sources are in the video description.
+
+107
+00:06:36,480 --> 00:06:40,800
+While I was making this video, Crowder posted yet another fallacy on his blog,
+
+108
+00:06:41,360 --> 00:06:45,280
+and while I was checking and correcting that one, yet another one popped up.
+
+109
+00:06:46,080 --> 00:06:48,960
+It's hard to keep up, but let's deal with this one first.
+
+110
+00:06:49,600 --> 00:06:52,400
+Crowder fell for a phony Mail on Sunday story
+
+111
+00:06:52,400 --> 00:06:56,160
+that claimed a whistleblower had exposed a fiddling of figures by NOAA.
+
+112
+00:06:56,880 --> 00:07:02,160
+I've done a video on this already, and just a minimal amount of checking brought me to this.
+
+113
+00:07:02,160 --> 00:07:06,000
+It's an article written by the supposed whistleblower John Bates
+
+114
+00:07:06,000 --> 00:07:08,960
+just a few days before the Mail story was published.
+
+115
+00:07:09,600 --> 00:07:12,960
+In it, he outlined in detail what his grievances were,
+
+116
+00:07:12,960 --> 00:07:16,240
+and they all had to do with the way NOAA archived its material.
+
+117
+00:07:16,880 --> 00:07:19,280
+Not one mention of fiddling the data.
+
+118
+00:07:20,000 --> 00:07:23,360
+That all seems to have come from Mail reporter David Rose,
+
+119
+00:07:23,360 --> 00:07:26,720
+who has a history of getting his facts and his quotes wrong.
+
+120
+00:07:27,440 --> 00:07:32,720
+Even after the Mail story was published, Bates again said NOAA had not fiddled the figures.
+
+121
+00:07:34,000 --> 00:07:39,680
+Not only did the Mail get that wrong, it tried to substantiate it with its own made-up graph,
+
+122
+00:07:39,680 --> 00:07:43,760
+putting the NOAA results on a different baseline to imply that their results
+
+123
+00:07:43,760 --> 00:07:47,360
+showed a different temperature trend to other temperature monitoring bodies.
+
+124
+00:07:48,000 --> 00:07:51,440
+But in fact, NOAA's temperature trend is exactly the same
+
+125
+00:07:51,440 --> 00:07:54,720
+as other temperature monitoring bodies around the world.
+
+126
+00:07:54,720 --> 00:07:57,760
+It's really not that hard to find this stuff out.
+
+127
+00:07:58,560 --> 00:08:04,400
+Crowder not only believed the Mail story without question, he even copied the misleading graph.
+
+128
+00:08:04,400 --> 00:08:08,640
+And he also copied, without verifying, the Mail's claim that this was done
+
+129
+00:08:08,640 --> 00:08:12,720
+just before the Paris Climate Agreement in order to influence it.
+
+130
+00:08:12,720 --> 00:08:16,400
+In fact, the magazine that published the NOAA results, Science,
+
+131
+00:08:16,400 --> 00:08:21,920
+told Mail on Sunday reporter David Rose that it took six months to peer review the information.
+
+132
+00:08:22,880 --> 00:08:27,360
+Crowder always advocates critical thinking, which I certainly endorse.
+
+133
+00:08:27,360 --> 00:08:29,920
+But the critical thinking in this case seems to be,
+
+134
+00:08:29,920 --> 00:08:34,960
+I read it in the Mail, so it must be true, so it's okay to tell my readers it's true.
+
+135
+00:08:34,960 --> 00:08:37,920
+It's a shame no-one warned him that the Daily Mail is in the habit
+
+136
+00:08:37,920 --> 00:08:41,840
+of publishing questionable quotes and spurious stories.
+
+137
+00:08:41,840 --> 00:08:44,000
+Well, this guy tried to.
+
+138
+00:08:44,000 --> 00:08:47,040
+In February, this alert was posted showing that the Daily Mail
+
+139
+00:08:47,040 --> 00:08:50,000
+had published a phony story about Neil Gorsuch.
+
+140
+00:08:50,240 --> 00:08:52,240
+If only Crowder had seen it,
+
+141
+00:08:52,240 --> 00:08:55,520
+he might have thought twice about trusting something he read in the Mail.
+
+142
+00:08:56,240 --> 00:08:59,280
+So who exposed the Mail as a purveyor of fake news?
+
+143
+00:09:01,840 --> 00:09:04,960
+And this other thing got posted claiming that, surprise,
+
+144
+00:09:04,960 --> 00:09:08,000
+study shows climate change likely not man-made.
+
+145
+00:09:08,880 --> 00:09:10,320
+And a link to this paper.
+
+146
+00:09:11,040 --> 00:09:14,240
+Now look at this headline. What do you think it's saying?
+
+147
+00:09:15,920 --> 00:09:19,360
+Like me, you probably assume it means that a scientific paper
+
+148
+00:09:19,360 --> 00:09:23,840
+has shown that the recent rise in global temperature is not man-made,
+
+149
+00:09:23,840 --> 00:09:25,760
+contrary to all scientific opinion.
+
+150
+00:09:26,640 --> 00:09:29,280
+And that seems to be echoed in the body of the piece.
+
+151
+00:09:29,840 --> 00:09:34,480
+These scientists have concluded that the climate change has very little to do with humans.
+
+152
+00:09:34,480 --> 00:09:40,640
+But no, it turns out that the climate change is referring to another period of climate change,
+
+153
+00:09:40,640 --> 00:09:45,200
+one that happened thousands of years ago while humans were still banging rocks together.
+
+154
+00:09:45,840 --> 00:09:47,760
+So a more accurate headline would be,
+
+155
+00:09:48,480 --> 00:09:53,680
+scientific study shows climate change before the appearance of modern man not man-made.
+
+156
+00:09:53,680 --> 00:09:55,200
+Totally unsurprising.
+
+157
+00:09:55,920 --> 00:09:59,520
+Team Crowder found something else in the paper that was clearly new to them.
+
+158
+00:10:00,240 --> 00:10:04,080
+Their theory implies that the Earth has been transmorphing for a while now
+
+159
+00:10:04,080 --> 00:10:05,520
+and will continue to do so.
+
+160
+00:10:06,320 --> 00:10:11,120
+I presume they think the word transmorphing means changing climate rather than changing shape.
+
+161
+00:10:11,760 --> 00:10:16,640
+So does the paper imply that the Earth's climate has always changed and will continue to do so?
+
+162
+00:10:17,440 --> 00:10:21,440
+Yes, it not only implies that, it takes it for granted,
+
+163
+00:10:21,440 --> 00:10:26,320
+as does every other paper that's been written on the subject of geology for the last 200 years.
+
+164
+00:10:26,880 --> 00:10:29,760
+Of course the Earth's climate's always been changing.
+
+165
+00:10:29,760 --> 00:10:33,520
+If you're wondering how and why the climate could have changed before humans came along,
+
+166
+00:10:33,520 --> 00:10:39,120
+I've explained that in my video, climate change isn't it natural, and the 800-year lag explained.
+
+167
+00:10:39,760 --> 00:10:42,400
+It has to do with changing levels of carbon dioxide.
+
+168
+00:10:43,200 --> 00:10:45,360
+So what was the conclusion of the paper?
+
+169
+00:10:45,920 --> 00:10:50,320
+Well it wasn't that humans weren't responsible for climate change during the Stone Age,
+
+170
+00:10:50,320 --> 00:10:52,160
+I think we already knew that.
+
+171
+00:10:52,160 --> 00:10:55,520
+And it wasn't that humans aren't responsible for climate change now,
+
+172
+00:10:55,520 --> 00:10:57,840
+because the paper never discussed that.
+
+173
+00:10:57,840 --> 00:11:01,840
+And it wasn't that the Earth's climate has always changed, because we knew that too.
+
+174
+00:11:02,880 --> 00:11:06,080
+No, the conclusion of the paper, get ready for it,
+
+175
+00:11:06,080 --> 00:11:09,680
+is that there was a decreasing trend for increases in insulation
+
+176
+00:11:09,680 --> 00:11:12,320
+to lead to deglaciations during the Quaternary.
+
+177
+00:11:12,960 --> 00:11:17,600
+I know, sounds rather dull, but that's why the paper didn't get anyone excited
+
+178
+00:11:17,600 --> 00:11:21,040
+except Team Crowder, who obviously never read the conclusion.
+
+179
+00:11:22,080 --> 00:11:26,000
+And they obviously never read this bit either, which says that one of the factors
+
+180
+00:11:26,000 --> 00:11:31,440
+that led to strong warming at the end of each Quaternary glaciation was carbon dioxide.
+
+181
+00:11:31,440 --> 00:11:36,080
+So the paper endorses the very theory Team Crowder seems to think it overturns.
+
+182
+00:11:36,960 --> 00:11:40,880
+All these errors come on top of Crowder's other errors about climate science
+
+183
+00:11:40,880 --> 00:11:42,720
+that I've already covered.
+
+184
+00:11:42,720 --> 00:11:46,480
+Such as his claim that falling polar bear numbers are a myth.
+
+185
+00:11:46,480 --> 00:11:48,720
+His claim that ice sheets aren't melting.
+
+186
+00:11:48,720 --> 00:11:53,920
+His claim that only 3% of carbon dioxide in the atmosphere comes from anthropogenic sources.
+
+187
+00:11:54,480 --> 00:11:57,840
+Check my video descriptions for the links and all my sources.
+
+188
+00:11:59,120 --> 00:12:03,200
+The first time I fact checked Crowder, a lot of his fans got very upset.
+
+189
+00:12:03,920 --> 00:12:09,280
+Brought in a number of people who told me I'd missed the point of his Top 5 Myths video,
+
+190
+00:12:09,280 --> 00:12:11,760
+but then couldn't agree on what the point was.
+
+191
+00:12:12,400 --> 00:12:17,920
+A lot of them claimed his video wasn't about the Top 5 Climate Myths, it was about politics.
+
+192
+00:12:17,920 --> 00:12:21,840
+Even though Top 5 Climate Myths was the title of the video,
+
+193
+00:12:21,840 --> 00:12:24,320
+and each of the 5 myths was clearly spelled out.
+
+194
+00:12:25,040 --> 00:12:29,120
+Others say the point is that these 5 myths are left-wing fallacies.
+
+195
+00:12:29,120 --> 00:12:34,960
+But as I explained in my response, they're not left-wing fallacies or even right-wing fallacies.
+
+196
+00:12:34,960 --> 00:12:39,200
+They're either unknown and therefore plausible, or they're scientific facts.
+
+197
+00:12:39,920 --> 00:12:45,040
+If he'd made left-wing fallacies his top climate change myths, then I would have applauded him.
+
+198
+00:12:45,040 --> 00:12:47,840
+Because whether they come from left-wingers or right-wingers,
+
+199
+00:12:47,840 --> 00:12:51,040
+bullshit is bullshit, and it needs to be corrected.
+
+200
+00:12:51,040 --> 00:12:54,640
+What a shame he didn't choose any of these left-wing fallacies
+
+201
+00:12:54,640 --> 00:12:58,240
+as his top 5 climate myths, because I've tackled quite a few of them.
+
+202
+00:12:59,040 --> 00:13:03,600
+Another common message from his fans is that Crowder isn't saying man-made climate change is
+
+203
+00:13:03,600 --> 00:13:07,200
+false. Sorry, but that's exactly what he's saying.
+
+204
+00:13:08,480 --> 00:13:10,960
+Unless you want to assume that because he's a comedian,
+
+205
+00:13:10,960 --> 00:13:13,680
+he's saying the opposite to what he actually thinks.
+
+206
+00:13:13,680 --> 00:13:17,200
+And that's another argument. He's a comedian, so it's okay,
+
+207
+00:13:17,200 --> 00:13:22,400
+doesn't excuse the spreading of inaccurate information, either for Crowder or anyone else.
+
+208
+00:13:23,680 --> 00:13:26,640
+So now we come to the question, why won't I debate him?
+
+209
+00:13:27,280 --> 00:13:31,360
+The problem is, Crowder's fans are once again unquestioningly believing
+
+210
+00:13:31,360 --> 00:13:36,480
+what they read on Crowder's website, which as we've seen is not always a good idea.
+
+211
+00:13:37,360 --> 00:13:39,840
+The answer is, I've offered to do just that.
+
+212
+00:13:40,480 --> 00:13:43,360
+I'm sure Crowder's just misremembering our exchange.
+
+213
+00:13:44,080 --> 00:13:49,360
+After I wrote my first response to Steve Crowder and his 5 top climate change myths,
+
+214
+00:13:49,360 --> 00:13:53,040
+he said some of my criticisms were valid and others weren't.
+
+215
+00:13:53,040 --> 00:13:58,880
+And I responded by asking him to point out the invalid criticisms, either on my channel or on his.
+
+216
+00:13:58,880 --> 00:14:05,440
+I was, and still am, happy to debate him. It was Crowder who never responded.
+
+217
+00:14:06,160 --> 00:14:11,360
+As for going on his show, I responded to that invitation by saying it was possible.
+
+218
+00:14:11,360 --> 00:14:14,560
+Well, here's a copy of the email I sent to his producer, Jared.
+
+219
+00:14:15,600 --> 00:14:19,520
+As for the offer of going on the programme, it's possible, but a pain in the arse trying
+
+220
+00:14:19,520 --> 00:14:23,520
+to coordinate times, especially since I'm on assignment most of the time
+
+221
+00:14:23,520 --> 00:14:26,640
+and around 12 hours away from US time zones.
+
+222
+00:14:26,640 --> 00:14:29,120
+But I'm sure we can resolve this very easily
+
+223
+00:14:29,120 --> 00:14:33,200
+if you just tell me how I misrepresented your position with supporting evidence.
+
+224
+00:14:33,760 --> 00:14:36,960
+I will then have time to check your evidence and write a response.
+
+225
+00:14:37,600 --> 00:14:40,960
+Science isn't a matter of opinion but a matter of facts,
+
+226
+00:14:40,960 --> 00:14:43,840
+and either you got your facts wrong or I did.
+
+227
+00:14:43,840 --> 00:14:47,920
+If I got my facts wrong, I will be delighted to have them corrected.
+
+228
+00:14:48,960 --> 00:14:53,200
+I still don't know what these differences are because I still don't know which of my
+
+229
+00:14:53,200 --> 00:14:56,560
+corrections Crowder accepts and which he doesn't.
+
+230
+00:14:56,560 --> 00:14:58,480
+So I'm still waiting for a response.
+
+231
+00:14:59,520 --> 00:15:04,640
+Steve, my invitation for you to respond on your channel or mine still stands,
+
+232
+00:15:04,640 --> 00:15:07,120
+and here are the claims you made that I dispute.
+
+233
+00:15:08,000 --> 00:15:12,480
+So pick which ones you accept were wrong and which ones you still stand by.
+
+234
+00:15:12,480 --> 00:15:13,440
+Let's pin you down.
+
+235
+00:15:14,080 --> 00:15:18,080
+Of the claims you still stand by, I'll pick one and we'll debate it.
+
+236
+00:15:18,080 --> 00:15:22,320
+Not all of them at once because pinning you down means sticking to a subject
+
+237
+00:15:22,320 --> 00:15:26,320
+instead of you or I trying to pivot whenever the going gets tough.
+
+238
+00:15:27,120 --> 00:15:29,680
+I've rebutted you by quoting your own sources.
+
+239
+00:15:29,680 --> 00:15:33,360
+So if I'm wrong then either I've misrepresented your sources
+
+240
+00:15:33,360 --> 00:15:36,320
+or you have some other sources that support your claim.
+
+241
+00:15:36,960 --> 00:15:39,920
+If you have, tell me what they are and I'll check them.
+
+242
+00:15:40,800 --> 00:15:44,640
+If you'd rather do this on air, fine, but I'm in Laos at the moment
+
+243
+00:15:44,640 --> 00:15:48,960
+and then I'm in Korea and Taiwan so I won't be back home until September.
+
+244
+00:15:49,600 --> 00:15:52,480
+So let's start the debate on your channel or mine,
+
+245
+00:15:52,480 --> 00:15:55,280
+and then when I'm back in Australia I can phone your show.
+
+246
+00:15:56,240 --> 00:15:59,360
+But even if we do this on air, the same rules apply.
+
+247
+00:15:59,360 --> 00:16:02,720
+We can't simply make up facts and shout them at one another.
+
+248
+00:16:02,720 --> 00:16:03,600
+Agreed?
+
+249
+00:16:03,600 --> 00:16:07,200
+If we cite facts and figures we have to say where they come from
+
+250
+00:16:07,200 --> 00:16:09,280
+and give the other person time to check them.
+
+251
+00:16:10,000 --> 00:16:13,440
+I know that doesn't make great radio, but play some music or something.
+
+252
+00:16:14,160 --> 00:16:19,200
+I think most intelligent people want to know whose facts are right and whose facts are bogus,
+
+253
+00:16:19,200 --> 00:16:23,680
+so they would appreciate a calm joint appraisal of the papers you've cited
+
+254
+00:16:23,760 --> 00:16:27,040
+rather than a shouting match where neither of us is held accountable.
+
+255
+00:16:27,840 --> 00:16:31,920
+Let's engage in something you always advocate, critical thinking,
+
+256
+00:16:31,920 --> 00:16:34,720
+rather than just slinging made-up facts at one another.
+
+257
+00:16:35,360 --> 00:16:36,000
+Agreed?
+

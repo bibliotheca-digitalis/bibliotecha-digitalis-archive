@@ -1,0 +1,181 @@
+In the first two videos we looked at the age of our universe
+but how do we know the age of the earth and the ages of the rocks it contains?
+Fortunately there are a number of different techniques
+and they can all be checked against each other and they all tell us the same story.
+Let's start with the benchmark, comparative dating.
+The golden rule is that newer sedimentary deposits are always laid on
+top of
+older ones so except where rocks have been folded
+this orange bed would be older than the green one and the green one is older
+than the blue one.
+Geologists can then follow a single bed to make similar deductions in a
+different locality.
+The dark grey bed may be at the surface
+or even at a higher point than the others but it's older than all of them
+and the light grey bed is older still. What we end up with
+is what's called the geological column. To get the absolute dates of these rocks
+scientists use a variety of different methods. I'll start with one of the
+easiest and most recent.
+We all know trees have rings because in summer they grow faster than in winter
+but seasonal growing conditions vary according to the weather
+so the bands will vary in size. Each time period in each geographical location
+has its own distinctive pattern of tree rings like a fingerprint.
+So if we take wood of a known age we can match the oldest part of it
+with the youngest part of another piece of wood and so on back through time.
+Our upper atmosphere is constantly being bombarded by neutrons from the Sun.
+When one of them hits a nitrogen atom in the air it knocks off a proton
+changing the atom from nitrogen into carbon. But this is a heavy and unstable
+form of carbon called carbon 14
+or C14. The normal form of carbon
+is C12. In the atmosphere C14 combines with oxygen to make carbon dioxide
+which is then absorbed by plants and into the bodies of
+animals that eat the plants. The ratio of these two isotopes in animals and plants
+is roughly the same as the ratio in the atmosphere around them.
+But when the animal or plant dies C14 decays over time
+and reverts back to nitrogen. So compared to C12 which doesn't change
+the amount of C14 falls at a constant measurable rate.
+By measuring this ratio inside the dead animal or plant
+scientists can find out when it died. Before I look at other dating techniques
+I'll bat a few hoary old myths about carbon 14
+out of the ballpark. No it's not.
+That's like saying cars don't work because sometimes drivers get lost.
+Carbon dating works fine but if the wrong stuff gets analyzed then you'll
+end up getting the wrong date.
+So if there's bacteria or mold or any kind of contamination on the sample
+the date will be wrong. If the results aren't calibrated properly
+the results will be wrong. And in some environments carbon dating is
+impractical
+so the results will be wrong. But when everything's done properly
+the results are right. That's no different to any sophisticated analysis
+technique
+from x-ray imaging to spectroscopy. Contaminated samples don't invalidate
+the principle of DNA analysis
+or chromatography or spectroscopy. We know they work
+and we know carbon dating works. Firstly carbon dating can be checked against
+artifacts of known age
+such as ship's timber. Secondly it can be checked by sending the same artifact to
+different labs for analysis.
+Thirdly let's take a sample of organic material from each of these layers.
+If carbon dating was random nonsense you'd expect the chronological
+order of these samples to be all over the place but that doesn't happen.
+The results show each of these samples in its correct chronological
+order. The ones from the upper beds are younger and the ones from the lower beds
+are older.
+Is it magic or is it because carbon dating works
+and that's why it's used?
+Samples don't come with labels attached telling the lab their age.
+Testing is always blind. If it's not blind
+it's not science.
+But carbon dating isn't used on diamonds and coal and for very good reason.
+As I explained C14 is formed when neutrons collide with nitrogen atoms.
+The C14 used in carbon dating originated in the atmosphere
+but you can also get it deep underground in places where decaying uranium
+is giving off neutrons. Coal and diamonds are made of carbon
+so you'd expect to find higher levels of C14
+in coal and diamonds close to rocks that contain uranium
+and much lower levels away from those rocks. And that's exactly what we do find.
+Carbon dating is only used and only useful
+for dating organic material in the top most sedimentary layers.
+Now that we've got carbon dating out of the way let's quickly run through a few
+more
+absolute dating methods. Biologists know that human DNA mutates at a fairly
+regular rate
+and they can trace these mutations back like following the branches of a tree
+back to the trunk. It's not a greatly accurate method but it does give a rough
+idea of when humans migrated
+and a very definite idea of where.
+Africa around 50,000 years ago just as
+other dating methods suggested it should. Every 250,000 years or so
+the Earth's magnetic fields flip over and the South Pole becomes the North Pole.
+Magnetized minerals within rocks show the polarity of the Earth when the rocks
+were laid down
+so throughout the geological column rocks show a regular magnetic banding
+depending on the polarity of the Earth and that can be dated.
+Potassium-argon dating works on the same principle as carbon dating
+but instead of carbon decaying to nitrogen we have potassium decaying to
+argon
+and instead of a half-life of 5,500 years
+we have a half-life of 1.3 billion years.
+That means the method can be used for dating rocks and fossils hundreds of
+millions of years old.
+The technique has largely been replaced with the far more accurate
+argon-argon method and there are other decay processes that can be measured
+each with different half-lives such as uranium thorium
+and rubidium strontium. Radiometric dating takes us back to the
+oldest rocks we found on Earth 3.8 billion years old.
+If you want to go back even further you have to look into space.
+My video The History of the Universe Made Easy explains how we can calculate
+the age of stars and galaxies so I won't repeat that here.
+Just take a look at the video. What's important is that the results fit
+perfectly with the chronology we find on Earth. The Sun for example
+doesn't turn out to be younger than the Earth or older than the universe.
+Its age based on the amount of hydrogen fused into helium
+is exactly what you'd expect and as with dating methods devised for rocks on Earth
+the method for measuring the age of stars and galaxies
+is devised first and tested afterwards. There's no way of knowing in advance
+what age these tests will show
+but every time the age confirms the known chronology of our world.
+There's thermoluminescence that can measure the number of trapped electrons
+on the surface of volcanic rock.
+The speed that continents are drifting can be measured today
+so their position millions of years ago can be calculated.
+It matches perfectly with the geological chronology we've already worked out.
+Climatic banding in sedimentary rocks can be measured
+caused by a wobble in the Earth's motion every 12,000 years.
+I could go on but there's no time here to list every dating method
+let alone spell out the details of how they work.
+The important thing is that they do work and attempts to show that they don't
+have all been spectacular failures.
+I've heard quite a few urban myths about these dating methods.
+Here are a few you may have heard.
+Yes this really did happen. Because of the rate of radioactive decay
+which is very slow, this method can't be used on rocks less than 100,000 years old.
+That's very young in geological terms so most volcanic rocks can be dated using
+this method
+and it works very well. But subjecting a sample of new rock to this dating method
+is rather like weighing an elephant on the kitchen scales.
+Any result you get is going to be garbage. Actually the best way to date
+young volcanic rock samples
+is thermoluminescence. Obviously if you want an inaccurate result
+well then choose the wrong test and that's just what you're going to get.
+This urban myth comes from a bogus test that was performed in 1990
+on four fossilized dinosaur bones. The bones came from a museum
+and were heavily coated in preservative resin. Hugh Miller
+who commissioned these tests was told by the testing laboratory in Arizona
+that there was no carbon in the bones so they couldn't be carbon dated.
+Now that's one of the most basic principles of carbon dating.
+You obviously have to have carbon in the samples and dinosaur bones are so old
+the carbon has nearly always been replaced by minerals
+as was the case with these samples. The laboratory warned Miller that carbon in
+the preservative resin would be measured
+not the dinosaur fossil which of course has no carbon in it.
+But Miller wanted to do the test anyway. I guess so he could pretend he had
+20,000 year old dinosaur bones
+and he got the result he wanted. I suppose he could just as well have
+spread jam on the fossils
+and pretended that they were five years old.
+One of the golden rules about carbon dating is that you can't carbon date
+marine organisms
+and there's a very good reason for that. The further away you get from
+atmospheric carbon the less reliable the results and the carbon that goes into
+marine organisms is very far removed from the atmosphere.
+So carbon dating is useless. In the 1960s one of the biologists who
+discovered this phenomenon
+known as the reservoir effect warned other biologists about it in a
+scientific paper.
+To illustrate the point he carbon dated live snails and the result was two
+thousand three hundred years.
+But while biologists have heeded the lesson and no longer carbon date marine
+organisms
+the false dating has passed into urban mythology as proof that carbon dating
+doesn't work.
+So the simple answer to that is on marine organisms
+it doesn't. On land it does. So not only do we have the intelligence to work out
+what happened in the past
+we also have a number of tools to work out when it happened.
+And if anyone thinks these tools don't work they shouldn't have to mislead or
+cheat.
+Just send samples of known age to a lab, ask the technicians to perform the
+appropriate test on the material
+and see if they come up with the right answer. It's so easy to do
+you have to wonder why the skeptics don't dare do it.

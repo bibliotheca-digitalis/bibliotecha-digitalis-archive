@@ -1,0 +1,904 @@
+1
+00:00:00,000 --> 00:00:05,360
+A lot of people have been telling me that my video on some of the lab origin myths about
+
+2
+00:00:05,360 --> 00:00:12,200
+SARS-CoV-2 was wrong and out of date and there were lots of milk comparisons.
+
+3
+00:00:12,200 --> 00:00:16,960
+As always, I'm happy to issue corrections if an error is brought to my attention.
+
+4
+00:00:16,960 --> 00:00:19,820
+So I made the same request to each of them.
+
+5
+00:00:19,820 --> 00:00:27,140
+If you think there are errors in the video, please quote what I said and explain why you
+
+6
+00:00:27,140 --> 00:00:28,860
+think it's wrong.
+
+7
+00:00:28,860 --> 00:00:33,660
+Only one person did find an error, which of course I immediately added to the corrections
+
+8
+00:00:33,660 --> 00:00:36,180
+section of the video description.
+
+9
+00:00:36,180 --> 00:00:42,340
+But all the other supposed errors were either just opinions and expressions of disapproval,
+
+10
+00:00:42,340 --> 00:00:47,780
+a belief that the published science is wrong, a few predictable insults, one person didn't
+
+11
+00:00:47,780 --> 00:00:51,700
+like the title, or I got no response at all.
+
+12
+00:00:51,700 --> 00:00:55,900
+The funniest response I got is one which I think I'll have framed.
+
+13
+00:00:56,100 --> 00:01:01,600
+Just because this clip didn't have any errors doesn't mean it's not fake news.
+
+14
+00:01:01,600 --> 00:01:06,000
+To those who haven't seen the video, I looked at various claims that were going viral at
+
+15
+00:01:06,000 --> 00:01:12,520
+the time, like the mysterious intern who supposedly had been infected in a Wuhan lab.
+
+16
+00:01:12,520 --> 00:01:15,440
+That one went all the way up to a White House press briefing.
+
+17
+00:01:15,440 --> 00:01:20,480
+An intern was infected who later infected her boyfriend and then went to the wet market
+
+18
+00:01:20,480 --> 00:01:23,280
+in Wuhan where it began to spread.
+
+19
+00:01:23,280 --> 00:01:27,980
+When I fact checked that, it turned out to be based on a YouTube video claiming to have
+
+20
+00:01:27,980 --> 00:01:30,980
+found the source of the coronavirus.
+
+21
+00:01:30,980 --> 00:01:35,860
+There was no evidence presented except that the intern had no photo on one of the lab's
+
+22
+00:01:35,860 --> 00:01:38,260
+website pages.
+
+23
+00:01:38,260 --> 00:01:44,340
+That video, which got over two million hits, was also the source of other widespread myths.
+
+24
+00:01:44,340 --> 00:01:49,120
+I showed how it had mixed up two different research institutes and was at the end of
+
+25
+00:01:49,120 --> 00:01:55,140
+a trail of misquotes and deliberate misrepresentations that started with a Chinese professor, Xiao
+
+26
+00:01:55,140 --> 00:01:56,980
+Butao.
+
+27
+00:01:56,980 --> 00:02:01,260
+My video also looked at spurious claims that the virus could have leaked because it was
+
+28
+00:02:01,260 --> 00:02:05,340
+being held in a freezer with an alleged broken seal.
+
+29
+00:02:05,340 --> 00:02:11,380
+I showed that a supposed secret leaked dossier was in fact just a compilation of information
+
+30
+00:02:11,380 --> 00:02:14,700
+that was freely available on the internet.
+
+31
+00:02:14,700 --> 00:02:19,680
+And I showed how researchers had discovered that SARS-CoV-2 has a unique and counterintuitive
+
+32
+00:02:19,680 --> 00:02:25,840
+backbone, which is consistent with a natural origin, not bioengineering.
+
+33
+00:02:25,840 --> 00:02:30,680
+But people seem to have mixed up the issue of a man-made virus with the possibility of
+
+34
+00:02:30,680 --> 00:02:34,240
+a natural virus escaping from the lab.
+
+35
+00:02:34,240 --> 00:02:38,400
+These are two different things, and here's what I said about the latter.
+
+36
+00:02:38,400 --> 00:02:42,880
+After all, it's possible someone might have come into contact with bat samples and not
+
+37
+00:02:42,880 --> 00:02:44,520
+noticed.
+
+38
+00:02:44,520 --> 00:02:48,760
+According to the Washington Post, officials from the US Embassy in Beijing visited the
+
+39
+00:02:48,760 --> 00:02:54,140
+Wuhan Institute of Virology a few years ago and were concerned about safety standards
+
+40
+00:02:54,140 --> 00:02:55,620
+there.
+
+41
+00:02:55,620 --> 00:03:00,380
+According to the Post, the Chinese researchers at WIV were receiving assistance from the
+
+42
+00:03:00,380 --> 00:03:05,300
+Galveston National Laboratory, but the Chinese requested additional help.
+
+43
+00:03:05,300 --> 00:03:10,140
+The cables argued that the United States should give the Wuhan lab further support, mainly
+
+44
+00:03:10,140 --> 00:03:15,400
+because its research on bat coronaviruses was important but also dangerous.
+
+45
+00:03:15,400 --> 00:03:18,460
+I haven't seen anything that changes any of that.
+
+46
+00:03:18,460 --> 00:03:23,740
+The myths are still busted, the paper I cited has gone on to be cited by over 3,000 other
+
+47
+00:03:23,740 --> 00:03:28,880
+research papers, and the possibility of a lab leak remains.
+
+48
+00:03:28,880 --> 00:03:33,200
+So what has happened that's caused this sudden flurry of interest?
+
+49
+00:03:33,200 --> 00:03:38,520
+Well, firstly, a report published in the Wall Street Journal cited anonymous sources in
+
+50
+00:03:38,520 --> 00:03:44,500
+the US State Department based on the assessment of an unidentified international partner that
+
+51
+00:03:44,500 --> 00:03:51,180
+three people had got sick at a lab in Wuhan in November 2019 and gone to hospital.
+
+52
+00:03:51,180 --> 00:03:56,220
+Some media outlets, including the Daily Mail of course, claimed for a fact that this was
+
+53
+00:03:56,220 --> 00:03:57,940
+Covid-19.
+
+54
+00:03:57,940 --> 00:04:03,780
+But the fact is we don't know, as the Wall Street Journal makes clear further down the
+
+55
+00:04:03,780 --> 00:04:04,780
+story.
+
+56
+00:04:05,320 --> 00:04:10,120
+Look, I know in this day and age we're all supposed to pick a side and have a definitive
+
+57
+00:04:10,120 --> 00:04:11,440
+opinion.
+
+58
+00:04:11,440 --> 00:04:16,640
+But I'm not saying the story isn't true, I'm not saying they didn't have Covid, I'm just
+
+59
+00:04:16,640 --> 00:04:22,680
+saying I have no idea, so like so much of this new information, I find it pointless
+
+60
+00:04:22,680 --> 00:04:27,940
+to speculate, let alone reach a conclusion based on that speculation.
+
+61
+00:04:27,940 --> 00:04:32,240
+The other thing that happened was that the US President has asked the intelligence services
+
+62
+00:04:32,240 --> 00:04:37,580
+to redouble their efforts into finding the origin of the virus after previous investigations
+
+63
+00:04:37,580 --> 00:04:39,140
+were inconclusive.
+
+64
+00:04:39,140 --> 00:04:46,740
+Again, all this shows is that a lab leak is possible, it tells us no more than that.
+
+65
+00:04:46,740 --> 00:04:47,740
+What else happened?
+
+66
+00:04:47,740 --> 00:04:53,460
+Well, there's been a WHO report into the origin of the virus, but that was compromised by
+
+67
+00:04:53,460 --> 00:04:59,720
+delays in allowing investigators into China and alleged obstruction by the Chinese authorities
+
+68
+00:04:59,720 --> 00:05:03,780
+in granting full access and complete transparency.
+
+69
+00:05:03,780 --> 00:05:05,680
+Does that mean there's a cover-up?
+
+70
+00:05:05,680 --> 00:05:08,700
+Is this typical Chinese government secrecy?
+
+71
+00:05:08,700 --> 00:05:11,860
+Or is it resentment of what they see as a foreign interference?
+
+72
+00:05:11,860 --> 00:05:14,800
+Again, I have no idea.
+
+73
+00:05:14,800 --> 00:05:21,380
+It doesn't mean a lab leak happened, or that it didn't happen, only that it's possible.
+
+74
+00:05:21,380 --> 00:05:27,420
+So let's get on to the science and the other hypothesis that the virus is man-made.
+
+75
+00:05:27,420 --> 00:05:31,660
+The problem, as I explained in my video, is that researchers have found that the virus
+
+76
+00:05:31,660 --> 00:05:35,140
+shows all the hallmarks of being natural.
+
+77
+00:05:35,140 --> 00:05:40,240
+Not just the spike protein, which is often manipulated in gain-of-function experiments
+
+78
+00:05:40,240 --> 00:05:45,400
+because it's the infectious part of the virus, but also the delivery system known as the
+
+79
+00:05:45,400 --> 00:05:47,200
+backbone.
+
+80
+00:05:47,200 --> 00:05:49,840
+So has there been anything new on that front?
+
+81
+00:05:49,840 --> 00:05:55,440
+Well, yes, there was a hypothesis put forward by Segreto and Dagen that the virus could
+
+82
+00:05:55,460 --> 00:06:00,780
+be man-made, because the furring cleavage site in the SARS-CoV-2 virus could not have
+
+83
+00:06:00,780 --> 00:06:03,060
+evolved naturally.
+
+84
+00:06:03,060 --> 00:06:07,500
+As for the backbone problem, they argue that the Wuhan lab researchers could have used
+
+85
+00:06:07,500 --> 00:06:14,980
+the backbone of an existing virus, RATG13, because that's genetically very close to SARS-CoV-2,
+
+86
+00:06:14,980 --> 00:06:18,220
+and deliberately evolved it in the lab.
+
+87
+00:06:18,220 --> 00:06:23,840
+The hypothesis has been laid out in two papers, but both lines of argument have been contradicted
+
+88
+00:06:23,840 --> 00:06:25,900
+by other research.
+
+89
+00:06:25,900 --> 00:06:32,140
+This paper shows that a similar furring cleavage site does occur in a natural virus, and another
+
+90
+00:06:32,140 --> 00:06:35,520
+paper shows the method by which this can happen.
+
+91
+00:06:35,520 --> 00:06:39,920
+On the second argument, a response paper to Segreto and Dagen pointed out that there's
+
+92
+00:06:39,920 --> 00:06:46,540
+about a 4% genetic difference between RATG13 and SARS-CoV-2.
+
+93
+00:06:46,540 --> 00:06:53,260
+That may not sound like much, but there's only a 1% difference between humans and chimpanzees.
+
+94
+00:06:53,280 --> 00:07:00,200
+Virologists have concluded that SARS-CoV-2 and RATG13 last had a common ancestor in about
+
+95
+00:07:00,200 --> 00:07:02,200
+1948.
+
+96
+00:07:02,200 --> 00:07:07,480
+The two viruses are so far apart genetically that changing one into the other would cost
+
+97
+00:07:07,480 --> 00:07:12,360
+a huge amount of money, time and effort if it could be done at all.
+
+98
+00:07:12,360 --> 00:07:17,280
+It would also have been completely unnecessary, since backbones are readily available off
+
+99
+00:07:17,280 --> 00:07:18,280
+the shelf.
+
+100
+00:07:18,820 --> 00:07:23,700
+I'll be looking at that in more detail in my next video on popular claims by the journalist
+
+101
+00:07:23,700 --> 00:07:25,660
+Nicholas Wade.
+
+102
+00:07:25,660 --> 00:07:31,840
+For those reasons, the Segreto and Dagen hypothesis hasn't been widely adopted or cited, in
+
+103
+00:07:31,840 --> 00:07:37,900
+contrast to the Nature Medicine Study that's been cited over 3,000 times and is consistent
+
+104
+00:07:37,900 --> 00:07:39,940
+with other research.
+
+105
+00:07:39,940 --> 00:07:45,840
+The other new development was an explosive new study by Sorensen et al, a journal article
+
+106
+00:07:45,840 --> 00:07:50,100
+set to make waves among the scientific community.
+
+107
+00:07:50,100 --> 00:07:53,740
+I was first alluded to it by a post on my forum.
+
+108
+00:07:53,740 --> 00:07:57,380
+More evidence mounts as we debunk the debunker.
+
+109
+00:07:57,380 --> 00:08:00,020
+The debunker's supposed to be me, by the way.
+
+110
+00:08:00,020 --> 00:08:06,540
+According to the poster, this explosive new study shows that the virus is man-made.
+
+111
+00:08:06,540 --> 00:08:12,300
+But it's never a good sign when the source of your information isn't the journal itself.
+
+112
+00:08:12,300 --> 00:08:14,260
+It's the Daily Mail.
+
+113
+00:08:14,260 --> 00:08:18,760
+The Daily Mail says the study was about to be published in the Quarterly Review of Biophysics
+
+114
+00:08:18,760 --> 00:08:25,160
+Discovery, QRB Discovery, which is a perfectly respectable peer-reviewed journal.
+
+115
+00:08:25,160 --> 00:08:32,400
+And for some reason, the Daily Mail posted an embargoed copy of the paper on its website.
+
+116
+00:08:32,400 --> 00:08:37,080
+Straight away that struck me as fishy, as I mentioned to someone else who asked me about
+
+117
+00:08:37,080 --> 00:08:38,680
+this paper.
+
+118
+00:08:38,680 --> 00:08:43,560
+Because I often get embargoed papers sent to me, it's very common in the media, and
+
+119
+00:08:43,560 --> 00:08:48,140
+the whole point of an embargo is that it gives a journalist time to read the paper
+
+120
+00:08:48,140 --> 00:08:50,340
+and write up the story.
+
+121
+00:08:50,340 --> 00:08:55,620
+But a news organisation isn't supposed to post the story until after the paper has been
+
+122
+00:08:55,620 --> 00:08:57,420
+published.
+
+123
+00:08:57,420 --> 00:09:02,220
+Here the Mail is not only posting a story prior to publication, it's posting a copy
+
+124
+00:09:02,220 --> 00:09:04,340
+of the paper itself.
+
+125
+00:09:04,340 --> 00:09:09,540
+I've never seen this happen, so it's quite bizarre.
+
+126
+00:09:09,540 --> 00:09:13,380
+That aside, what's the evidence shown in the alleged paper?
+
+127
+00:09:13,400 --> 00:09:18,280
+According to the Daily Mail, the authors found a fingerprint that shows the SARS-CoV-2 virus
+
+128
+00:09:18,280 --> 00:09:24,280
+couldn't be natural, because it has four positively charged amino acids in a row.
+
+129
+00:09:24,280 --> 00:09:29,560
+It's rare to find even three in a row in naturally occurring organisms, while four
+
+130
+00:09:29,560 --> 00:09:33,700
+in a row is extremely unlikely, the scientists said.
+
+131
+00:09:33,700 --> 00:09:39,520
+The laws of physics mean that you cannot have four positively charged amino acids in a row.
+
+132
+00:09:39,520 --> 00:09:47,100
+The only way you can get this is if you artificially manufacture it, Dalglish told Dailymail.com.
+
+133
+00:09:47,100 --> 00:09:50,020
+But this was very easy to check.
+
+134
+00:09:50,020 --> 00:09:54,140
+One of the posters on my forum said it didn't take him long to find several instances of
+
+135
+00:09:54,140 --> 00:10:00,060
+four positively charged amino acids in a row in naturally occurring viruses.
+
+136
+00:10:00,060 --> 00:10:03,460
+I checked his sources, and I found them too.
+
+137
+00:10:03,460 --> 00:10:08,980
+In two papers I did a simple search for four positively charged amino acids and came up
+
+138
+00:10:08,980 --> 00:10:11,040
+with several results.
+
+139
+00:10:11,040 --> 00:10:14,440
+So much for this supposed law of physics.
+
+140
+00:10:14,440 --> 00:10:19,800
+So why would a reputable peer-reviewed journal like the QRB Discovery be willing to publish
+
+141
+00:10:19,800 --> 00:10:21,440
+such obvious twaddle?
+
+142
+00:10:21,440 --> 00:10:22,440
+Answer?
+
+143
+00:10:22,440 --> 00:10:24,660
+You're ahead of me.
+
+144
+00:10:24,660 --> 00:10:26,240
+Of course it wasn't.
+
+145
+00:10:26,240 --> 00:10:30,540
+The Daily Mail's claim that this study was about to be published in that journal, or
+
+146
+00:10:30,540 --> 00:10:33,200
+any journal, was nonsense.
+
+147
+00:10:33,200 --> 00:10:37,500
+They simply took the author's word for it, without bothering to check with the journal's
+
+148
+00:10:37,500 --> 00:10:38,500
+editor.
+
+149
+00:10:39,220 --> 00:10:44,280
+Once it became clear a few weeks later that this imminent publication wasn't happening,
+
+150
+00:10:44,280 --> 00:10:48,360
+the Daily Mail removed the name of the journal from the story.
+
+151
+00:10:48,360 --> 00:10:50,660
+But the damage had already been done.
+
+152
+00:10:50,660 --> 00:10:56,460
+Hundreds of news sites, blogs and fora had reprinted the Daily Mail claim that this was
+
+153
+00:10:56,460 --> 00:11:02,620
+a legitimate study about to be published in the QRB Discovery, again without bothering
+
+154
+00:11:02,620 --> 00:11:04,700
+to check.
+
+155
+00:11:04,880 --> 00:11:08,720
+Neither did they check the spurious evidence that you can't get four positively charged
+
+156
+00:11:08,720 --> 00:11:13,940
+amino acids in a row, which is still up there on the Mail website.
+
+157
+00:11:13,940 --> 00:11:19,180
+You have to go a long way down the Daily Mail story, past the photos and the clickbait to
+
+158
+00:11:19,180 --> 00:11:26,420
+discover that virologists dismiss this unpublished claim as magical and explain that this amino
+
+159
+00:11:26,420 --> 00:11:30,040
+acid conjunction is often found in nature.
+
+160
+00:11:30,080 --> 00:11:35,160
+Unfortunately, that glimpse of reality is in a box relaying how Sorensen et al have
+
+161
+00:11:35,160 --> 00:11:41,160
+been thwarted in previous publication efforts, not because their essay is bunk, but by a
+
+162
+00:11:41,160 --> 00:11:44,760
+conspiracy of scientists to silence them.
+
+163
+00:11:44,760 --> 00:11:49,720
+Next, there was a claim that the lab leak theory had gained credibility because of a
+
+164
+00:11:49,720 --> 00:11:52,360
+study by Piplani et al.
+
+165
+00:11:52,360 --> 00:11:57,560
+I think what they mean is that the man-made virus theory had gained credibility since
+
+166
+00:11:57,560 --> 00:12:03,320
+the study wasn't about a lab leak, it was about how well adapted SARS-CoV-2 is to human
+
+167
+00:12:03,320 --> 00:12:04,920
+cells.
+
+168
+00:12:04,920 --> 00:12:10,820
+The authors found that SARS-CoV-2 binds very tightly to human ACE2, the entry point for
+
+169
+00:12:10,820 --> 00:12:14,320
+coronaviruses into the human body.
+
+170
+00:12:14,320 --> 00:12:19,640
+Their conclusion is that if the virus is well adapted to human ACE2 it couldn't have jumped
+
+171
+00:12:19,640 --> 00:12:24,340
+directly from bats to humans, so the authors looked at various candidates that might have
+
+172
+00:12:24,340 --> 00:12:29,300
+acted as intermediate species, and although some looked promising, they couldn't find
+
+173
+00:12:29,300 --> 00:12:31,160
+a perfect match.
+
+174
+00:12:31,160 --> 00:12:35,340
+Which means we're back to where we started, the intermediate species still hasn't been
+
+175
+00:12:35,340 --> 00:12:41,540
+found, we don't know where the virus came from, and that vacuum of knowledge is what's
+
+176
+00:12:41,540 --> 00:12:44,700
+been quickly filled with speculation.
+
+177
+00:12:44,700 --> 00:12:50,500
+So why is it very unlikely that this affinity for human ACE2 is the result of deliberate
+
+178
+00:12:50,500 --> 00:12:53,300
+manipulation in a lab?
+
+179
+00:12:53,300 --> 00:12:57,300
+And apart from the reasons already covered, researchers have found that the virus seems
+
+180
+00:12:57,300 --> 00:13:03,680
+to have evolved in the presence of a human immune system, in other words, naturally.
+
+181
+00:13:03,680 --> 00:13:09,140
+And the way it binds to ACE2, like so many other things in the SARS-CoV-2 virus, is a
+
+182
+00:13:09,140 --> 00:13:14,860
+bit messy and counter-intuitive, an intelligent designer wouldn't have designed it that way,
+
+183
+00:13:14,860 --> 00:13:17,460
+but evolution frequently does.
+
+184
+00:13:17,460 --> 00:13:22,200
+Finally, another thing that's new is that we've had the email from a senior researcher
+
+185
+00:13:22,200 --> 00:13:27,120
+at the Scripps Institute saying that one really small part of the genome looks potentially
+
+186
+00:13:27,120 --> 00:13:32,760
+engineered, but a team of researchers is going to look at it critically, and further analysis
+
+187
+00:13:32,760 --> 00:13:37,640
+needs to be done, and they should know more by the end of the weekend.
+
+188
+00:13:37,640 --> 00:13:41,280
+And it turned out that when they did look at it more critically, they discovered that
+
+189
+00:13:41,280 --> 00:13:44,760
+the virus bore all the hallmarks of being natural.
+
+190
+00:13:44,760 --> 00:13:49,320
+At least that's what the team, researchers from five different universities and scientific
+
+191
+00:13:49,320 --> 00:13:54,560
+institutes from three different countries, concluded in Nature Medicine.
+
+192
+00:13:54,560 --> 00:13:59,740
+So does this mean that the researcher's initial impression had to be correct, and that any
+
+193
+00:13:59,740 --> 00:14:04,160
+change must therefore be the result of corruption and dishonesty?
+
+194
+00:14:04,160 --> 00:14:09,900
+Or does it mean that initial impressions in science are often overturned as research continues
+
+195
+00:14:09,900 --> 00:14:12,720
+and more evidence is found?
+
+196
+00:14:12,720 --> 00:14:17,320
+I can't claim to know the answer to that one either, so feel free to speculate on your
+
+197
+00:14:17,320 --> 00:14:18,600
+own.
+
+198
+00:14:18,600 --> 00:14:23,640
+All I can tell you is that I've been reporting on scientific research for over three decades,
+
+199
+00:14:23,640 --> 00:14:27,360
+and I don't find such changes at all surprising.
+
+200
+00:14:27,360 --> 00:14:32,100
+In fact, I've reported this on my channel before, when a rather crude estimate of past
+
+201
+00:14:32,100 --> 00:14:36,920
+temperatures was improved as better data became available.
+
+202
+00:14:36,920 --> 00:14:42,340
+That update led to howls of protest because the latest information didn't fit what a lot
+
+203
+00:14:42,340 --> 00:14:45,280
+of people wanted to believe.
+
+204
+00:14:45,280 --> 00:14:49,200
+The bottom line is that there are a lot of questions that we still don't have answers
+
+205
+00:14:49,200 --> 00:14:54,460
+to, and I wish I could make something up for you, like so many others are doing.
+
+206
+00:14:54,460 --> 00:14:58,560
+In fact, a lot of the theories that are coming out of this speculation are simply throwing
+
+207
+00:14:58,560 --> 00:15:01,480
+up more questions that don't have answers.
+
+208
+00:15:01,480 --> 00:15:06,020
+All I can do is check some of the claims that are bouncing around the internet and weed
+
+209
+00:15:06,020 --> 00:15:08,160
+out the ones that are bullcrap.
+
+210
+00:15:08,160 --> 00:15:10,580
+I hope that helps.
+
+211
+00:15:10,580 --> 00:15:15,060
+Asking lots of questions and then speculating and offering opinion is fine.
+
+212
+00:15:15,060 --> 00:15:19,860
+If you enjoy that kind of thing, but I'd rather not join the pack.
+
+213
+00:15:19,860 --> 00:15:23,000
+Of course, we do need to know where the virus came from.
+
+214
+00:15:23,000 --> 00:15:29,060
+But a definitive answer will only come from solid evidence, not misquotes, changed documents,
+
+215
+00:15:29,060 --> 00:15:35,400
+fake dossiers, exaggerations, fabrications, misrepresentations and magical facts dreamed
+
+216
+00:15:35,400 --> 00:15:38,380
+up in published papers that don't exist.
+
+217
+00:15:38,380 --> 00:15:44,180
+It won't come from circumstantial evidence, suspicions, guesswork or possibilities either,
+
+218
+00:15:44,180 --> 00:15:50,400
+unless and until the questions thrown up by this speculation are themselves answered.
+
+219
+00:15:50,400 --> 00:15:54,960
+But of course, that's not going to stop people pointlessly speculating.
+
+220
+00:15:54,960 --> 00:16:00,000
+These pundits always love to put quotes alongside their speculation to give it some kind of
+
+221
+00:16:00,000 --> 00:16:02,420
+intellectual legitimacy.
+
+222
+00:16:02,420 --> 00:16:07,820
+So I'm going to leave you with the wise words of that much overlooked philosopher and 20th
+
+223
+00:16:07,820 --> 00:16:11,900
+century intellectual giant, Ryan O'Neill, who said this.
+
+224
+00:16:11,900 --> 00:16:15,620
+Anything is possible, but possible don't make it true.
+
+225
+00:16:41,900 --> 00:16:42,900
+Thank you.
+
+226
+00:16:42,900 --> 00:16:42,900
+
+

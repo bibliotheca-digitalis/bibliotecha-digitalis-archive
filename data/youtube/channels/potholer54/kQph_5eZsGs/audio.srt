@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:03,280
+Isn't it amazing? A tabloid newspaper runs a story,
+
+2
+00:00:03,280 --> 00:00:06,960
+calls it Climate Gate 2, and the blogosphere lights up.
+
+3
+00:00:08,160 --> 00:00:11,920
+According to the Mail, a retired scientist who worked for the NCEI,
+
+4
+00:00:11,920 --> 00:00:16,240
+the National Centres for Environmental Information, said Noah breached protocol
+
+5
+00:00:16,240 --> 00:00:21,200
+by fast-forwarding a flawed scientific paper that artificially raised temperatures
+
+6
+00:00:21,200 --> 00:00:25,040
+and artificially erased the so-called pause in global warming.
+
+7
+00:00:25,040 --> 00:00:30,800
+And without bothering to check the accuracy of the story, which comes from a newspaper
+
+8
+00:00:30,800 --> 00:00:35,840
+famous for reporting a 50-foot crab off the coast of Whitstable, and a reporter with a
+
+9
+00:00:35,840 --> 00:00:40,720
+history of making up spurious stories about climate science, bloggers and politicians
+
+10
+00:00:40,720 --> 00:00:46,080
+announced it was all true. I thank Dr John Bates for courageously stepping forward to
+
+11
+00:00:46,080 --> 00:00:51,040
+tell the truth about Noah's senior officials playing fast and loose with the data in order
+
+12
+00:00:51,040 --> 00:00:56,320
+to meet a politically pre-determined conclusion. This endorsement came not from a blogger,
+
+13
+00:00:56,320 --> 00:01:01,360
+but from senior members of the House Committee on Science, Space and Technology in Congress,
+
+14
+00:01:01,360 --> 00:01:05,440
+within hours of publication and without even the need to check the story.
+
+15
+00:01:06,000 --> 00:01:07,520
+So let's check it for them.
+
+16
+00:01:08,320 --> 00:01:13,440
+There are two issues here. One is whether Noah fast-forwarded publication to get the paper
+
+17
+00:01:13,440 --> 00:01:19,200
+published in time for the Paris climate meeting. That may be best answered by the publisher itself,
+
+18
+00:01:19,200 --> 00:01:24,960
+Science, whose editor sent a copy of his email exchange with the Mail's reporter to Roz Pidcock.
+
+19
+00:01:25,600 --> 00:01:31,920
+According to Science, the Noah paper by Tom Karl et al. took six months to thoroughly peer review,
+
+20
+00:01:31,920 --> 00:01:37,120
+two months longer than normal, and all of the data were publicly available prior to publication.
+
+21
+00:01:37,840 --> 00:01:41,920
+That sheds a bit more light on whether the paper was fast-forwarded,
+
+22
+00:01:41,920 --> 00:01:44,480
+but none of this information was in the Mail story.
+
+23
+00:01:45,360 --> 00:01:48,080
+Of course that doesn't mean protocols weren't breached,
+
+24
+00:01:48,080 --> 00:01:52,240
+and that's a serious question and one that needs to be properly investigated.
+
+25
+00:01:53,120 --> 00:01:57,440
+The other issue is whether the paper was flawed, and that's much easier to determine.
+
+26
+00:01:58,000 --> 00:02:01,840
+The Karl paper explained that the so-called pause in global warming
+
+27
+00:02:01,840 --> 00:02:05,120
+was probably the result of erroneous ocean temperature measurements.
+
+28
+00:02:05,760 --> 00:02:09,120
+The pause refers to a slowdown at the beginning of this century
+
+29
+00:02:09,120 --> 00:02:13,440
+in the rate of warming of the atmosphere, where about 8% of global warming is going.
+
+30
+00:02:14,000 --> 00:02:16,000
+90% is going into the oceans.
+
+31
+00:02:16,720 --> 00:02:21,760
+To put it simply, the trend line appears to go up more steeply in the 90s than in the noughties.
+
+32
+00:02:22,960 --> 00:02:26,800
+So a lot of studies have been done by lots of different scientific institutions
+
+33
+00:02:26,800 --> 00:02:30,560
+to try to find out why the atmospheric trend line changed,
+
+34
+00:02:30,560 --> 00:02:33,760
+and it turns out to be most likely a combination of factors.
+
+35
+00:02:34,400 --> 00:02:37,520
+Lower solar output, increasing aerosol pollution,
+
+36
+00:02:37,520 --> 00:02:41,040
+and the transfer of extra heat into the oceans all play a part.
+
+37
+00:02:41,840 --> 00:02:46,400
+And it was this transfer of heat into the oceans that NOAA was mostly concerned with,
+
+38
+00:02:46,400 --> 00:02:49,440
+because that would show up in higher sea surface temperatures.
+
+39
+00:02:50,240 --> 00:02:53,280
+In the old days, this temperature reading was always taken on ships.
+
+40
+00:02:53,840 --> 00:02:57,680
+Then a system of buoys was set up to take these measurements.
+
+41
+00:02:57,680 --> 00:03:00,240
+But researchers noticed a problem.
+
+42
+00:03:00,240 --> 00:03:05,120
+The measurements from the ships was recording slightly higher temperatures than the buoys,
+
+43
+00:03:05,120 --> 00:03:08,080
+because the intake of seawater was near the hot engine room.
+
+44
+00:03:08,880 --> 00:03:11,840
+And as the number of readings from buoys increased,
+
+45
+00:03:11,840 --> 00:03:15,680
+that difference, called a bias, was influencing the trend line.
+
+46
+00:03:16,240 --> 00:03:18,560
+So crudely put, it goes like this.
+
+47
+00:03:18,560 --> 00:03:22,560
+Temperature reading from a ship, temperature reading from a ship, temperature reading from a ship.
+
+48
+00:03:23,120 --> 00:03:27,760
+Then we switch to a temperature reading from a buoy, and another reading from a buoy.
+
+49
+00:03:27,760 --> 00:03:33,120
+Now obviously the ocean hasn't suddenly cooled, but if you publish this as a temperature graph,
+
+50
+00:03:33,120 --> 00:03:37,280
+then it's going to look as though it has, so the data has to be adjusted.
+
+51
+00:03:37,280 --> 00:03:40,320
+This is what caused consternation in the blogosphere,
+
+52
+00:03:40,320 --> 00:03:45,360
+because those who don't understand the difference between temperature anomalies and trend lines
+
+53
+00:03:45,360 --> 00:03:48,640
+thought NOAA was deliberately trying to push up temperatures.
+
+54
+00:03:49,200 --> 00:03:53,760
+But according to the Mail, this newspaper has learnt that NOAA has now decided that the sea
+
+55
+00:03:53,760 --> 00:03:59,280
+data set will have to be replaced and substantially revised just 18 months after it was issued,
+
+56
+00:03:59,280 --> 00:04:03,280
+because it used unreliable methods which overstated the speed of warming.
+
+57
+00:04:03,920 --> 00:04:08,640
+Well, the Mail may have just found out about it, but it wasn't a surprise to everybody else.
+
+58
+00:04:08,640 --> 00:04:12,640
+The 2015 results were part of an ongoing series of studies
+
+59
+00:04:12,640 --> 00:04:18,640
+under a programme called Extended Reconstruction Sea Surface Temperature, or IRST for short.
+
+60
+00:04:18,640 --> 00:04:25,440
+The 2015 results were called IRST4, updating the previously much less accurate IRST3B.
+
+61
+00:04:26,480 --> 00:04:30,800
+And when IRST5 comes out, that's the new data set the Mail is referring to,
+
+62
+00:04:30,800 --> 00:04:35,760
+it'll be more accurate still. A preliminary report suggests it'll bring the trend down
+
+63
+00:04:35,760 --> 00:04:40,720
+about 10% from IRST4, but it'll still be about 50% up from IRST3B.
+
+64
+00:04:41,440 --> 00:04:47,360
+So contrary to the Mail's claim, IRST5 isn't being published because IRST4 used unreliable methods
+
+65
+00:04:47,360 --> 00:04:52,000
+or overstated the speed of warming. It'll be published because it's part of a continuous
+
+66
+00:04:52,000 --> 00:04:55,840
+process of updating and increasing the accuracy of data.
+
+67
+00:04:56,800 --> 00:05:01,360
+Science rarely has eureka moments, it just gets more and more accurate,
+
+68
+00:05:01,360 --> 00:05:07,360
+as more and better measurements are taken. IRST5 will itself be replaced by IRST6.
+
+69
+00:05:08,160 --> 00:05:12,160
+So the updating of information is not evidence that the data set was flawed,
+
+70
+00:05:12,160 --> 00:05:16,880
+let alone fraudulently manipulated. Perhaps the most damning evidence for
+
+71
+00:05:16,880 --> 00:05:20,480
+that is this quote in the Mail story, supposedly from John Bates.
+
+72
+00:05:21,280 --> 00:05:21,760
+He said,
+
+73
+00:05:33,280 --> 00:05:38,960
+It's a line that's been repeated by bloggers, newspapers and TV networks that regularly run
+
+74
+00:05:38,960 --> 00:05:43,840
+stories trying to undermine climate science. But did Bates really say that?
+
+75
+00:05:44,560 --> 00:05:49,040
+David Rose has been accused of making up quotes by someone he interviewed before,
+
+76
+00:05:49,040 --> 00:05:53,920
+and if he follows past practice, he'll refuse to release his notes or recordings of the Bates
+
+77
+00:05:53,920 --> 00:05:57,920
+interview for verification. But fortunately, we can check what
+
+78
+00:05:57,920 --> 00:06:03,440
+Bates actually did say on the subject elsewhere, without having David Rose act as our rather
+
+79
+00:06:03,440 --> 00:06:09,920
+questionable interpreter. In his own words, on a climate blog run by Judith Curry,
+
+80
+00:06:09,920 --> 00:06:15,520
+Bates explains the problem he has with the Carl paper and the archiving of the IRST4 data set.
+
+81
+00:06:16,400 --> 00:06:19,520
+This was posted just before the Mail published its story,
+
+82
+00:06:19,520 --> 00:06:24,080
+and the contrast is revealing. The link to this is in my video description,
+
+83
+00:06:24,080 --> 00:06:30,160
+so take the time to read it. You'll see why the Mail chose to embellish Bates' actual complaints,
+
+84
+00:06:30,160 --> 00:06:35,360
+because his actual complaints would have put their readers to sleep and not cause much of a stir.
+
+85
+00:06:36,560 --> 00:06:41,360
+So what does Bates have to say about, they had good data from buoys and they threw it out?
+
+86
+00:06:42,160 --> 00:06:47,120
+Funnily enough, absolutely nothing. His only mention of the procedure is here,
+
+87
+00:06:47,120 --> 00:06:53,360
+and it's purely factual. For ocean temperatures, the IRST4 is used in the K15 paper,
+
+88
+00:06:53,360 --> 00:06:57,440
+that's the Carl paper, and represents a major update from the previous version.
+
+89
+00:06:57,440 --> 00:07:01,760
+The bias correction procedure was changed, and this resulted in different SST anomalies
+
+90
+00:07:01,760 --> 00:07:08,320
+and different trends during the last 15 plus years relative to IRST3. Which of course is all true,
+
+91
+00:07:08,320 --> 00:07:12,080
+and he certainly doesn't suggest good data from buoys was thrown out.
+
+92
+00:07:12,880 --> 00:07:18,000
+And since the Mail story was published, Bates has reportedly told ClimateWire that he's not
+
+93
+00:07:18,000 --> 00:07:23,360
+suggesting any malfeasance. The issue here is not an issue of tampering with data, but rather
+
+94
+00:07:23,360 --> 00:07:28,240
+really of timing of a release of a paper that had not properly disclosed everything it was, he said.
+
+95
+00:07:29,440 --> 00:07:31,760
+And he told Associated Press the same thing.
+
+96
+00:07:32,560 --> 00:07:36,960
+It's really a story of not disclosing what you did, Bates said in the interview,
+
+97
+00:07:36,960 --> 00:07:42,880
+it's not trumped up data in any way, shape or form. But whether Bates said Noah was throwing
+
+98
+00:07:42,880 --> 00:07:49,200
+out good data or Rose did, it's complete nonsense anyway. Noah didn't throw out the good data from
+
+99
+00:07:49,200 --> 00:07:55,680
+buoys at all, they did completely the opposite. Instead of relying mostly on ship data, IRST4
+
+100
+00:07:55,680 --> 00:08:01,280
+researchers overwhelmingly favoured data from buoys, as is explained in all the published
+
+101
+00:08:01,280 --> 00:08:06,400
+research. And if the reference to changing good data is a reference to adjusting the temperature
+
+102
+00:08:06,400 --> 00:08:11,520
+data to take account of the difference between ships and buoys, then it's absurd to claim that
+
+103
+00:08:11,520 --> 00:08:17,120
+this is throwing out good data. No one in climate research disagrees with the decision to eliminate
+
+104
+00:08:17,120 --> 00:08:22,960
+the bias, not even Bates. If it hadn't been done, the record would be showing a spurious temperature
+
+105
+00:08:22,960 --> 00:08:28,000
+drop, which I'm sure is what David Rose would like to see, but it doesn't match reality.
+
+106
+00:08:29,200 --> 00:08:34,880
+Whatever objections Rose has to the way it was done, the way it was done turned out to be right.
+
+107
+00:08:34,880 --> 00:08:41,760
+A January 2017 paper by Zeke Housefather et al. confirmed the validity of the Noah adjustments,
+
+108
+00:08:41,760 --> 00:08:46,160
+and concluded that they agreed with what other scientific institutions had found,
+
+109
+00:08:46,160 --> 00:08:52,080
+including Berkeley Earth, the Hadley Centre in the UK, and the Japan Meteorological Agency.
+
+110
+00:08:52,080 --> 00:08:58,480
+All get the same results as Noah. Rose tried to substantiate his claims with a graph,
+
+111
+00:08:58,480 --> 00:09:04,000
+which purports to show that Noah is fraudulently raising temperatures. In fact, all it shows is
+
+112
+00:09:04,000 --> 00:09:09,040
+that the male doesn't understand temperature reconstructions. They're not showing global
+
+113
+00:09:09,040 --> 00:09:14,720
+temperatures, they're showing global temperature anomalies. Different institutions use different
+
+114
+00:09:14,720 --> 00:09:20,320
+baselines. That makes no difference to absolute temperatures or temperature trends. These graphs
+
+115
+00:09:20,320 --> 00:09:25,360
+show the variance of those temperatures from different averages in the past. Hadley uses
+
+116
+00:09:25,360 --> 00:09:32,960
+the baseline 1961 to 1990, while Noah uses the baseline 1901 to 2000. Putting these together
+
+117
+00:09:32,960 --> 00:09:38,240
+without adjusting the baseline is like putting two graphs together, one measuring Fahrenheit
+
+118
+00:09:38,240 --> 00:09:42,720
+and the other measuring centigrade and claiming that the Fahrenheit graph shows more warming.
+
+119
+00:09:43,520 --> 00:09:48,560
+The male also claims, in the caption, that the graph reveals that Noah has been adjusted
+
+120
+00:09:48,560 --> 00:09:54,000
+to show a steeper warming trend. But of course it does nothing of the sort. All it reveals is that
+
+121
+00:09:54,000 --> 00:09:59,680
+the male doesn't understand how to put two graphs on the same baseline, so that we can compare them
+
+122
+00:09:59,680 --> 00:10:06,160
+and see what the trend is. Fortunately for us, Housefather has done just that. And guess what?
+
+123
+00:10:06,720 --> 00:10:12,560
+The trend is exactly the same. Why didn't the male put the two graphs on the same baseline?
+
+124
+00:10:12,560 --> 00:10:17,840
+Because if they had, they would have proved that the Noah dataset agrees perfectly with verified
+
+125
+00:10:17,840 --> 00:10:23,760
+data from Hadley. And that's not the conclusion their readers want to hear. Taken together with
+
+126
+00:10:23,760 --> 00:10:29,520
+the land data, the Noah trend again shows no slowdown in global warming. Not just from Noah,
+
+127
+00:10:29,520 --> 00:10:34,160
+but from other scientific institutions as well, like Berkeley Earth, NASA and
+
+128
+00:10:34,160 --> 00:10:40,800
+Canton and Way. They all show no global warming pause. There are a lot more errors in the male
+
+129
+00:10:40,800 --> 00:10:45,840
+story, and if I was doing my usual month-long investigation, I'd go in-depth and pick it apart
+
+130
+00:10:45,840 --> 00:10:50,320
+in more detail. But at least I've done some checking, which is more than can be said for
+
+131
+00:10:50,320 --> 00:10:56,400
+the bloggers and the politicians who immediately proclaimed the story true. So I'm not saying
+
+132
+00:10:56,400 --> 00:11:01,840
+accusations by tabloid newspapers should be dismissed, but they should at least be checked,
+
+133
+00:11:01,840 --> 00:11:07,200
+especially those with a history of getting their facts wrong. What's really shocking is that the
+
+134
+00:11:07,200 --> 00:11:11,840
+House Committee on Science, Space and Technology, which oversees science on behalf of the most
+
+135
+00:11:11,840 --> 00:11:17,920
+powerful country in the world, is happy to blindly believe a tabloid newspaper that says Noah got it
+
+136
+00:11:17,920 --> 00:11:23,200
+wrong, rather than peer-reviewed scientific papers that verified Noah's conclusions,
+
+137
+00:11:23,200 --> 00:11:27,200
+and scientific institutions around the world that got exactly the same results.
+
+138
+00:11:28,320 --> 00:11:31,680
+Maybe the House Committee on Science, Space and Technology's next job
+
+139
+00:11:31,680 --> 00:11:37,520
+should be to prepare defences against Crabzilla. It must be true. It's in the mail.
+

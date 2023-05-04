@@ -1,0 +1,340 @@
+1
+00:00:00,000 --> 00:00:08,000
+About 400 years ago, Galileo set up an experiment to test his hypothesis that objects accelerate as they fall.
+
+2
+00:00:08,000 --> 00:00:13,000
+It was an extraordinary act. Arab intellectuals had been doing the same thing for centuries,
+
+3
+00:00:13,000 --> 00:00:20,000
+but while their science was widely accepted and admired in Europe, their methods of experimentation were looked down on.
+
+4
+00:00:20,000 --> 00:00:28,000
+The Christian Church maintained that conclusions could only be reached by discussion and logic, as had been taught by Aristotle.
+
+5
+00:00:28,000 --> 00:00:38,000
+Galileo's simple experiment changed all that and began a revolution that led us away from medieval superstitions and beliefs into what's known as the Enlightenment.
+
+6
+00:00:38,000 --> 00:00:46,000
+Science is simply knowledge. What we really mean when we talk about science is the method by which that knowledge is derived.
+
+7
+00:00:46,000 --> 00:00:54,000
+Over hundreds of years, the golden rules of science have been honed and perfected to ensure meticulous accuracy and impartiality,
+
+8
+00:00:54,000 --> 00:00:58,000
+and they start with something that was anathema to the medieval church.
+
+9
+00:00:58,000 --> 00:01:08,000
+Evidence, in its most basic form, is an observation, so this rule means that a conclusion has to be based on observations.
+
+10
+00:01:08,000 --> 00:01:14,000
+This isn't only the basis of the scientific method, it's the basis of our entire legal system.
+
+11
+00:01:14,000 --> 00:01:24,000
+No court of law starts with a conclusion that a suspect is guilty or innocent, then passes sentence, and then later hears the evidence to confirm the infallibility of its verdict.
+
+12
+00:01:24,000 --> 00:01:32,000
+The other ground rules for scientific research may sound equally obvious. See how many of them are also applied in courts of law.
+
+13
+00:01:44,000 --> 00:02:00,000
+All scientific research has to follow these golden rules, and if the rules aren't followed, then it's not science.
+
+14
+00:02:00,000 --> 00:02:10,000
+This isn't an impediment to open-minded research any more than the rules of the courtroom are an impediment to justice, or the rules of a football game are an impediment to fair play.
+
+15
+00:02:10,000 --> 00:02:15,000
+On the contrary, they ensure impartiality and a fair and accurate result.
+
+16
+00:02:15,000 --> 00:02:22,000
+So if we all agree that these rules are fair, then let's go on to the next step, which I'll call the scientific procedure.
+
+17
+00:02:22,000 --> 00:02:30,000
+Let's follow a budding young scientist called Jane. She reads research reports and data about a mysterious natural phenomenon.
+
+18
+00:02:30,000 --> 00:02:36,000
+Suddenly she gets a hunch as to its nature. In scientific parlance, she has a hypothesis.
+
+19
+00:02:36,000 --> 00:02:44,000
+To see if her hypothesis is right, Jane makes a prediction about what should happen with this natural phenomenon under certain circumstances.
+
+20
+00:02:44,000 --> 00:02:57,000
+Now comes her first hurdle. For three years, Jane has to perform experiments, take measurements, and collect data as she tests her hypothesis, all the time meticulously following the golden rules of the scientific method.
+
+21
+00:02:57,000 --> 00:03:05,000
+When the research project is over, Jane might discover that her prediction is wrong and have to change the hypothesis and start all over again.
+
+22
+00:03:05,000 --> 00:03:11,000
+But if the prediction is correct, she writes up her results in a paper and submits it to a scientific journal.
+
+23
+00:03:11,000 --> 00:03:18,000
+Then she meets the second hurdle. Experts in the same field pull the paper apart, looking for any mistakes.
+
+24
+00:03:18,000 --> 00:03:25,000
+If she's followed the scientific method meticulously and got her calculations right, the paper is published.
+
+25
+00:03:25,000 --> 00:03:33,000
+The final hurdle comes when other researchers try to replicate Jane's experiments. They'll make sure there's no other explanation for her results.
+
+26
+00:03:33,000 --> 00:03:40,000
+One of these researchers might even take Jane's experiment further and discover not only what happens, but why.
+
+27
+00:03:40,000 --> 00:03:46,000
+There's a lot of misunderstanding about replication, and it's often used as an argument against evolution.
+
+28
+00:03:46,000 --> 00:03:53,000
+But science is a deduction based on evidence, not the recreation of past events in a laboratory.
+
+29
+00:03:53,000 --> 00:04:02,000
+Prosecutors don't have to replicate a murder to show that a murder took place. A bound and gagged corpse with multiple stab wounds is usually enough.
+
+30
+00:04:02,000 --> 00:04:11,000
+The replication of results means that if Jane bases her conclusions on an experiment, then that experiment has to be repeatable by other researchers.
+
+31
+00:04:11,000 --> 00:04:16,000
+If she bases it on something she's observed, they have to be able to observe it too.
+
+32
+00:04:16,000 --> 00:04:24,000
+If she claims to have rubbed an oil lamp and seen a genie rising out of it, then her result will be invalid if other researchers can't do the same.
+
+33
+00:04:24,000 --> 00:04:32,000
+It's no use Jane explaining that the genie will only come out again a thousand years from now. There's simply no way of falsifying that claim.
+
+34
+00:04:32,000 --> 00:04:36,000
+A hypothesis has to be falsifiable, or it can't be tested.
+
+35
+00:04:36,000 --> 00:04:43,000
+Only after these hurdles have been successfully overcome will Jane's hypothesis become Jane's theory.
+
+36
+00:04:43,000 --> 00:04:51,000
+There's also a lot of misunderstanding about the word theory. We can never say Jane's proved something, however solid her evidence.
+
+37
+00:04:51,000 --> 00:05:02,000
+Proof is a mathematical term. A theory is an explanation that's consistent with all the observable evidence, and every new piece of evidence has to be consistent with the theory.
+
+38
+00:05:02,000 --> 00:05:10,000
+The theory has to be consistent with new theories in other fields, and of course new technologies based on the theory have to work.
+
+39
+00:05:10,000 --> 00:05:18,000
+As long as no other theories even remotely match this consistency, Jane's theory is a fact and can be added to school textbooks.
+
+40
+00:05:18,000 --> 00:05:28,000
+But that doesn't mean it can't be modified. Even pillars of science like the theory of gravity and the theory of evolution have been modified as new evidence comes along.
+
+41
+00:05:28,000 --> 00:05:34,000
+But these modifications don't overturn the theories, they just show more precisely how they work.
+
+42
+00:05:34,000 --> 00:05:39,000
+Let's look at this through a branch of science that everyone can understand, cartography.
+
+43
+00:05:40,000 --> 00:05:49,000
+In the 15th century, gaps in European knowledge of what lay beyond the oceans were always filled with fanciful myths of sea dragons and monsters.
+
+44
+00:05:49,000 --> 00:05:57,000
+After land was discovered, some geographers hypothesized that this might be a new continent. Of course, these early explorers made mistakes.
+
+45
+00:05:57,000 --> 00:06:03,000
+In the early days of any field of science, the evidence is sparse and technology is inaccurate.
+
+46
+00:06:03,000 --> 00:06:10,000
+But as the amount of evidence increases and measurements become more precise, we move towards increasing certainty.
+
+47
+00:06:10,000 --> 00:06:17,000
+Just because there are some errors doesn't mean we have to scrap our continent theory and go back to believing in sea dragons and monsters.
+
+48
+00:06:17,000 --> 00:06:23,000
+On the contrary, each correction makes us more certain about the shape and character of the continent.
+
+49
+00:06:23,000 --> 00:06:30,000
+So the scientific method doesn't guarantee that mistakes won't be made, but it does guarantee they'll be corrected.
+
+50
+00:06:31,000 --> 00:06:37,000
+Let's say Jane has an evil twin brother, John, who has a hypothesis in a different field of science.
+
+51
+00:06:37,000 --> 00:06:41,000
+Unlike Jane, John's sloppy and his data is faulty.
+
+52
+00:06:41,000 --> 00:06:47,000
+If that's the case, it's unlikely he'll get past the second hurdle of peer review and his paper would be rejected.
+
+53
+00:06:47,000 --> 00:06:52,000
+So let's say he fakes his results to make it seem as though his hypothesis was correct.
+
+54
+00:06:52,000 --> 00:06:57,000
+Based on his fake data, John's fraudulent paper is published.
+
+55
+00:06:57,000 --> 00:07:01,000
+There you go, proof that the scientific method doesn't work.
+
+56
+00:07:01,000 --> 00:07:08,000
+But then other researchers can't replicate his results. New evidence isn't consistent with John's hypothesis.
+
+57
+00:07:08,000 --> 00:07:14,000
+Over time, the hypothesis doesn't fit and John's fake results become a puzzling anomaly.
+
+58
+00:07:14,000 --> 00:07:17,000
+Increasingly, they're marginalized and ignored.
+
+59
+00:07:17,000 --> 00:07:23,000
+Then a different hypothesis is suggested by another researcher and that is successfully tested.
+
+60
+00:07:23,000 --> 00:07:27,000
+That does fit all the evidence and it leads to technology that works.
+
+61
+00:07:27,000 --> 00:07:32,000
+Whether other researchers think John cheated or just got things wrong doesn't matter.
+
+62
+00:07:32,000 --> 00:07:40,000
+Over time, bad science will always be found out because it won't be consistent. It'll be impossible to make it fit.
+
+63
+00:07:40,000 --> 00:07:43,000
+So the scientific procedure is a kind of screening process.
+
+64
+00:07:43,000 --> 00:07:51,000
+It ensures that whatever children learn in science class has been thoroughly tested, verified and supported by evidence.
+
+65
+00:07:51,000 --> 00:07:54,000
+It also has one compelling virtue. It works.
+
+66
+00:07:54,000 --> 00:08:04,000
+All of the technology around you, from your computer screen to the plastic in your chair to the vitamin tablets you might be taking, owe their existence to the scientific method.
+
+67
+00:08:09,000 --> 00:08:15,000
+That's like saying scientists presuppose relativity or electromagnetism or radioactive decay.
+
+68
+00:08:15,000 --> 00:08:19,000
+None of these concepts was known before it was discovered.
+
+69
+00:08:22,000 --> 00:08:26,000
+Science doesn't start with an assumption that something's natural or supernatural.
+
+70
+00:08:26,000 --> 00:08:31,000
+It starts with something that happens and then works out how and why it happens.
+
+71
+00:08:31,000 --> 00:08:35,000
+In the past, people thought fairy rings were a supernatural phenomenon.
+
+72
+00:08:35,000 --> 00:08:39,000
+Now we know they're caused by the subterranean spread of fungus.
+
+73
+00:08:39,000 --> 00:08:47,000
+Science is an explanation based on impartial research backed by rigorous checks and balances, not belief.
+
+74
+00:08:47,000 --> 00:08:52,000
+That was me speaking a few years ago, when I first posted this video.
+
+75
+00:08:52,000 --> 00:08:59,000
+It was taken down because of copyright infringement and I promised I'd re-upload it when I got home from six months on the road.
+
+76
+00:08:59,000 --> 00:09:05,000
+Now that I'm home, I'll also work on some of my other videos that got spiked because of music problems.
+
+77
+00:09:05,000 --> 00:09:13,000
+Since I made that video, several people have pointed out that a hypothesis is not necessarily something that turns into a theory.
+
+78
+00:09:13,000 --> 00:09:17,000
+And I agree that part of the explanation was a little simplistic.
+
+79
+00:09:17,000 --> 00:09:28,000
+You could, for example, say that the hypothesis of continental drift, which is supported by similar rock types and fossils on different continents, turned into the theory of plate tectonics.
+
+80
+00:09:28,000 --> 00:09:40,000
+But you could also argue that that only happened because on top of the evidence for continental drift, plate tectonic theory was supported by a number of other successfully tested hypotheses such as seafloor spreading.
+
+81
+00:09:40,000 --> 00:09:49,000
+But the main point to understand is that a hypothesis and a theory are different, and the word theory should not be cheapened by applying it to ideas.
+
+82
+00:09:49,000 --> 00:09:57,000
+In science, a theory is and has to remain the highest form of proof you can get in science, short of a mathematical law.
+
+83
+00:09:57,000 --> 00:10:06,000
+Don't forget, in lieu of a Patreon account, I really appreciate any donations to a charity that's resulting in better health and less deforestation.
+
+84
+00:10:06,000 --> 00:10:08,000
+Links are in the video description.
+
+85
+00:10:08,000 --> 00:10:15,000
+The last I heard, they had received over 4,000 US dollars from my subscribers. A big thank you to all.
+

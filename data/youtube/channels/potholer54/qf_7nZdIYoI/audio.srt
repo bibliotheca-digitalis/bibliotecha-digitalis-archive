@@ -1,0 +1,1604 @@
+1
+00:00:00,000 --> 00:00:04,800
+There have been a litany of complaints about the World Health Organisation in the popular
+
+2
+00:00:04,800 --> 00:00:10,320
+and social media, so in this video I'm going to fact check everything from the transmissibility
+
+3
+00:00:10,320 --> 00:00:16,440
+of the SARS-CoV-2 virus to the effectiveness of face masks. These are the most common complaints
+
+4
+00:00:16,440 --> 00:00:21,280
+laid out in blogs and newspapers and in a White House letter listing the reasons why
+
+5
+00:00:21,280 --> 00:00:27,600
+the United States was withdrawing itself and its funding from the WHO.
+
+6
+00:00:27,600 --> 00:00:33,080
+So let's start with the first complaint in the White House letter, that the WHO consistently
+
+7
+00:00:33,080 --> 00:00:40,520
+ignored credible reports of the virus spreading in Wuhan in early December 2019, or even earlier,
+
+8
+00:00:40,520 --> 00:00:43,440
+including reports from the Lancet Medical Journal.
+
+9
+00:00:43,440 --> 00:00:50,040
+Well, I couldn't find any reports of the virus in early December 2019 in the Lancet.
+
+10
+00:00:50,040 --> 00:00:54,640
+Even Richard Horton, the Lancet's editor-in-chief, says there's no such report.
+
+11
+00:00:55,160 --> 00:00:59,920
+Please let me correct the record, he tweeted, the Lancet did not publish any report in early
+
+12
+00:00:59,920 --> 00:01:06,560
+December 2019 about a virus spreading in Wuhan. Neither could I find any other reports of
+
+13
+00:01:06,560 --> 00:01:12,740
+a possible virus published in early December, and the letter doesn't cite any. So I turned
+
+14
+00:01:12,740 --> 00:01:18,320
+to a reputable source, the Congressional Research Service, to find out what reports the White
+
+15
+00:01:18,320 --> 00:01:22,740
+House is referring to. The CRS's role is to give information to
+
+16
+00:01:22,780 --> 00:01:30,060
+members of Congress on both sides of the aisle, so it has to be strictly factual and non-partisan.
+
+17
+00:01:30,060 --> 00:01:35,660
+But they couldn't find any reports prior to December 30th either. The CRS concluded that
+
+18
+00:01:35,660 --> 00:01:40,940
+the first publicly available reports of the outbreak were on a financial news website
+
+19
+00:01:40,940 --> 00:01:47,380
+called Yikai on December 31st, Beijing time. Yikai had learned about the outbreak from
+
+20
+00:01:47,380 --> 00:01:53,340
+this in-house notice sent to hospitals by the Wuhan Municipal Health Commission. The
+
+21
+00:01:53,340 --> 00:01:58,900
+Yikai report was picked up by several other Chinese websites, including Sina, and the
+
+22
+00:01:58,900 --> 00:02:04,460
+Sina report was picked up by the Programme for Monitoring Emerging Diseases, PROMED,
+
+23
+00:02:04,460 --> 00:02:10,940
+an open source platform in the USA. They translated it into English and posted it just three hours
+
+24
+00:02:10,940 --> 00:02:16,620
+after Yikai had broken the story. A few hours after that, the PROMED story was seen by the
+
+25
+00:02:16,620 --> 00:02:22,660
+WHO in Geneva. According to the CRS, the WHO contacted the
+
+26
+00:02:22,660 --> 00:02:28,140
+Chinese authorities the same day and asked for more details, in compliance with the international
+
+27
+00:02:28,140 --> 00:02:34,060
+health regulations that govern it. So the White House claim that the WHO ignored reports
+
+28
+00:02:34,060 --> 00:02:39,460
+in early December is false, and the claim that China's media highlighted a new virus
+
+29
+00:02:39,460 --> 00:02:46,540
+emerging in Wuhan between December 26th and December 30th is also false. The first publicly
+
+30
+00:02:46,540 --> 00:02:53,100
+available reports were media stories published on December 31st, Beijing time. If the White
+
+31
+00:02:53,100 --> 00:02:58,540
+House wants to insist that it does have knowledge of reports in early December, then these reports
+
+32
+00:02:58,540 --> 00:03:03,300
+are known only to the White House, and for some reason it failed to act on the information
+
+33
+00:03:03,300 --> 00:03:09,740
+at the time or pass it on, and it's unable to cite these reports today.
+
+34
+00:03:09,740 --> 00:03:11,620
+Let's hear the next claim from a couple of vloggers.
+
+35
+00:03:11,620 --> 00:03:26,620
+On December 31st, China notified the WHO that there was an issue. Taiwan did the same
+
+36
+00:03:26,620 --> 00:03:31,460
+thing on the same day with evidence of human-to-human transmission.
+
+37
+00:03:31,460 --> 00:03:35,820
+This seems to have originated with a claim from Taiwanese health officials, which were
+
+38
+00:03:35,820 --> 00:03:42,520
+widely reported. Health officials in Taipei say they alerted the WHO at the end of December
+
+39
+00:03:42,520 --> 00:03:47,760
+about the risk of human-to-human transmission of the new virus, but said its concerns were
+
+40
+00:03:47,760 --> 00:03:52,540
+not passed on to other countries. The Wall Street Journal took the Taiwanese at their
+
+41
+00:03:52,540 --> 00:03:58,260
+word. Taiwanese officials warned WHO on December 31st that they had seen evidence that the
+
+42
+00:03:58,260 --> 00:04:02,660
+virus could be transmitted human-to-human. And of course the claim was copied in the
+
+43
+00:04:02,660 --> 00:04:08,960
+list of reasons why the USA was withdrawing from the WHO. The WHO chose not to share any
+
+44
+00:04:08,960 --> 00:04:13,040
+of this critical information with the rest of the world.
+
+45
+00:04:13,040 --> 00:04:17,420
+But no-one thought to check the email from Taiwan to see if the internet chatter was
+
+46
+00:04:17,420 --> 00:04:24,700
+true. It's publicly available because Taiwan released a copy. Dated December 31st, it said,
+
+47
+00:04:24,700 --> 00:04:29,660
+news resources today indicate that at least seven atypical pneumonia cases were reported
+
+48
+00:04:29,660 --> 00:04:34,460
+in Wuhan China. Their health authorities replied to the media that the cases were
+
+49
+00:04:34,460 --> 00:04:39,700
+believed not SARS, however the samples are still under examination and cases have been
+
+50
+00:04:39,700 --> 00:04:44,780
+isolated for treatment. I would greatly appreciate it if you have relevant information to share
+
+51
+00:04:44,780 --> 00:04:50,580
+with us. So there was no warning of human-to-human transmission.
+
+52
+00:04:50,580 --> 00:04:56,700
+And where did Taiwan get its information? No, Taiwan explicitly said that its sources
+
+53
+00:04:56,700 --> 00:05:03,500
+were news resources published on December 31st and the response of the health authorities.
+
+54
+00:05:03,500 --> 00:05:08,700
+Those are exactly the same sources and the same information that the WHO had on the same
+
+55
+00:05:08,700 --> 00:05:14,940
+day. There was no critical information that wasn't already known. The email from Taiwan
+
+56
+00:05:14,940 --> 00:05:20,860
+was simply repeating what ProMed, the WHO and everyone else monitoring China had already
+
+57
+00:05:20,860 --> 00:05:25,700
+seen, including statements from the Chinese authorities saying that patients had been
+
+58
+00:05:25,700 --> 00:05:32,060
+put into isolation, which is a standard protocol for suspected infections. In a separate statement
+
+59
+00:05:32,060 --> 00:05:37,520
+about this timeline, the Taiwanese CDC made no mention of knowing about human-to-human
+
+60
+00:05:37,520 --> 00:05:44,100
+transmission in December or warning the WHO of human-to-human transmission. They say they
+
+61
+00:05:44,100 --> 00:05:48,380
+only thought they could be human-to-human transmission when they dispatched experts
+
+62
+00:05:48,380 --> 00:05:53,700
+to Wuhan in mid-January. By the way, this again dispels the claim that
+
+63
+00:05:53,700 --> 00:05:59,220
+the Chinese media were reporting a new virus in early December. Taiwan keeps a very close
+
+64
+00:05:59,220 --> 00:06:04,820
+track of Chinese media and yet, according to the Taiwanese government, it was only alerted
+
+65
+00:06:04,820 --> 00:06:11,820
+to reports about a possible virus at the same time as the WHO on December 31st. The first
+
+66
+00:06:11,820 --> 00:06:16,980
+public indication that they had been human-to-human transmission came on January 9th when the
+
+67
+00:06:16,980 --> 00:06:23,460
+WHO reported, according to Chinese authorities, the virus in question can cause severe illness
+
+68
+00:06:23,460 --> 00:06:28,600
+in some patients and does not transmit readily between people.
+
+69
+00:06:28,600 --> 00:06:33,520
+The information prompted the WHO to issue an immediate worldwide alert, saying the route
+
+70
+00:06:33,520 --> 00:06:38,900
+of transmission was unknown but suspected to be respiratory and that specimens should
+
+71
+00:06:38,900 --> 00:06:44,300
+be regarded as potentially infectious and that health authorities should assume that
+
+72
+00:06:44,300 --> 00:06:49,660
+this was a coronavirus with the potential for respiratory spread, in other words human-to-human
+
+73
+00:06:49,660 --> 00:06:55,500
+transmission. On January 14th, the Wuhan Municipal Health Commission issued a statement
+
+74
+00:06:55,500 --> 00:07:00,660
+saying there is no clear evidence of human-to-human transmission and that was also passed on by
+
+75
+00:07:00,660 --> 00:07:05,500
+the WHO. But the WHO omitted the next two lines of
+
+76
+00:07:05,500 --> 00:07:11,220
+the statement that would have clarified that. We cannot exclude the possibility of human-to-human
+
+77
+00:07:11,220 --> 00:07:17,640
+transmission, it said, but the risk of continued human-to-human transmission is low. The Chinese
+
+78
+00:07:17,640 --> 00:07:22,600
+statement was technically correct because there's no definition of the word clear,
+
+79
+00:07:22,600 --> 00:07:28,020
+but that made it vague and even misleading because it didn't tell the whole story.
+
+80
+00:07:28,020 --> 00:07:33,580
+As early as December 27th, Dr Zhang Jixiang saw three patients suffering from atypical
+
+81
+00:07:33,580 --> 00:07:40,120
+pneumonia at her hospital in Wuhan, a father, mother and son. In an interview given months
+
+82
+00:07:40,120 --> 00:07:45,680
+later with a Chinese magazine, Dr Zhang said she thought it's unlikely that all three
+
+83
+00:07:45,680 --> 00:07:50,640
+members of a family caught the same disease at the same time unless it's an infectious
+
+84
+00:07:50,640 --> 00:07:54,640
+disease. So a more informative statement from the Chinese
+
+85
+00:07:54,640 --> 00:07:59,340
+health authorities would have been that there is some evidence of limited human-to-human
+
+86
+00:07:59,340 --> 00:08:05,060
+transmission based on the small amount of data available but no clear evidence of sustained
+
+87
+00:08:05,060 --> 00:08:09,680
+human-to-human transmission. But as well as being obliged to pass on information from
+
+88
+00:08:09,680 --> 00:08:16,760
+the health authorities in an infected country, the WHO is also free to make its own evaluation.
+
+89
+00:08:16,760 --> 00:08:23,160
+Which it did, at a news conference the same day. The WHO's Acting Head of Emerging Diseases,
+
+90
+00:08:23,160 --> 00:08:28,400
+Maria Vanka Kovar, said, from the information that we have, it is possible that there is
+
+91
+00:08:28,400 --> 00:08:33,820
+limited human-to-human transmission potentially among families, but it's very clear right
+
+92
+00:08:33,820 --> 00:08:38,380
+now that we have no sustained human-to-human transmission.
+
+93
+00:08:38,380 --> 00:08:43,900
+According to NPR and the BBC, an anonymous WHO official told their reporters that Dr
+
+94
+00:08:43,900 --> 00:08:50,820
+Kerkova had been misunderstood. Whoever that official was, he was wrong. Kerkova's statement
+
+95
+00:08:50,820 --> 00:08:55,900
+was completely accurate based on the data available and very well understood by the
+
+96
+00:08:55,900 --> 00:08:59,420
+reporters in the room. The news went around the world.
+
+97
+00:08:59,420 --> 00:09:05,220
+The new coronavirus discovered in China may have had some limited spread among humans.
+
+98
+00:09:05,220 --> 00:09:18,780
+WHO says new coronavirus could spread, warns hospitals worldwide, world on alert for potential
+
+99
+00:09:18,780 --> 00:09:25,180
+spread of new SARS-like virus found in China, and so on in Turkey, Singapore, the United
+
+100
+00:09:25,180 --> 00:09:30,500
+States and elsewhere. In its critical op-ed, the Wall Street Journal
+
+101
+00:09:30,500 --> 00:09:37,900
+wrote, on January 22nd-23rd, a WHO emergency committee debated whether to declare COVID-19
+
+102
+00:09:37,900 --> 00:09:43,700
+a public health emergency of international concern. According to the Wall Street Journal,
+
+103
+00:09:43,700 --> 00:09:48,720
+it should have been an easy decision, despite Beijing's objections. The White House letter
+
+104
+00:09:48,720 --> 00:09:55,440
+makes the same complaint, claiming that China had put pressure on the WHO. Whether or not
+
+105
+00:09:55,440 --> 00:10:00,880
+there was pressure applied to the WHO, the decision to declare a public health emergency
+
+106
+00:10:00,880 --> 00:10:06,920
+is based on the advice of the WHO's International Health Response Committee. They're all independent
+
+107
+00:10:06,920 --> 00:10:13,680
+experts from different institutes in different countries outside the WHO. They met on January
+
+108
+00:10:13,680 --> 00:10:20,680
+22nd, but couldn't reach agreement, and deliberations continued into the 23rd. But even on that
+
+109
+00:10:20,720 --> 00:10:26,360
+second day, they were still evenly split. The explanation given is that while they all
+
+110
+00:10:26,360 --> 00:10:31,040
+agreed the outbreak should merit a scale-up of awareness, there wasn't a gradation of
+
+111
+00:10:31,040 --> 00:10:36,960
+warnings that they could call. There's no one-alarm fire or two-alarm fire. It's either
+
+112
+00:10:36,960 --> 00:10:42,320
+a five-alarm fire or nothing. Declaring a public health emergency of international
+
+113
+00:10:42,320 --> 00:10:48,420
+concern is a big step because it's the highest alert the WHO can give and triggers a number
+
+114
+00:10:48,420 --> 00:10:53,660
+of actions that have to be taken by member states. At the time of their meeting, the
+
+115
+00:10:53,660 --> 00:10:58,780
+city of Wuhan had been put in lockdown, so there was hope that the virus could be contained,
+
+116
+00:10:58,780 --> 00:11:04,500
+and there were only about 100 cases of coronavirus outside of China. So the committee agreed
+
+117
+00:11:04,500 --> 00:11:11,620
+a compromise, come back in a week and review the data again. Which they did. And by that
+
+118
+00:11:11,620 --> 00:11:16,660
+time the virus was clearly not being contained and a public health emergency of international
+
+119
+00:11:16,660 --> 00:11:23,940
+concern was declared. The question is, was the length of time taken to declare the emergency
+
+120
+00:11:23,940 --> 00:11:30,660
+unduly long? The designation of a public health emergency of international concern was only
+
+121
+00:11:30,660 --> 00:11:35,980
+developed in 2005 and has been invoked six times since then.
+
+122
+00:11:35,980 --> 00:11:43,580
+So let's look at two of the largest. The 2009 H1N1 virus was first reported by the WHO on
+
+123
+00:11:43,580 --> 00:11:49,840
+March 18th. It crossed into the United States on April 15th and a public health emergency
+
+124
+00:11:49,840 --> 00:11:57,860
+of international concern was declared on April 25th. That's a gap of just over a month.
+
+125
+00:11:57,860 --> 00:12:05,420
+The 2014 Ebola virus was first reported to the WHO on March 23rd. The WHO declared the
+
+126
+00:12:05,420 --> 00:12:11,220
+epidemic a public health emergency of international concern on August 8th. So that's a gap of
+
+127
+00:12:11,220 --> 00:12:16,540
+over four months. So in terms of time, the emergency declaration for coronavirus at
+
+128
+00:12:16,540 --> 00:12:23,780
+the end of January was relatively fast. But that could be a reflection of a faster spread.
+
+129
+00:12:23,780 --> 00:12:29,300
+So next I compared the severity of the two previous largest outbreaks. At the time the
+
+130
+00:12:29,300 --> 00:12:35,820
+international health emergency was declared on April 25th 2009, there were around 2,000
+
+131
+00:12:35,820 --> 00:12:44,980
+cases and 149 deaths from H1N1 in two countries. As for the 2014 Ebola outbreak, by the end
+
+132
+00:12:44,980 --> 00:12:49,980
+of July 27th, two weeks before the public health emergency was declared, there were
+
+133
+00:12:49,980 --> 00:12:59,060
+already 1,323 cases and 729 deaths spanning three countries.
+
+134
+00:12:59,060 --> 00:13:03,340
+So the severity of the coronavirus outbreak at the time of the first meeting on January
+
+135
+00:13:03,340 --> 00:13:11,500
+23rd was nowhere near as bad as for the previous two worse pandemics. A week later it was worse,
+
+136
+00:13:11,500 --> 00:13:15,660
+which is when a public health emergency was declared.
+
+137
+00:13:15,660 --> 00:13:19,980
+By the way, a lot of people, including whoever drafted the White House letter, seemed to
+
+138
+00:13:19,980 --> 00:13:26,300
+think that the WHO declared a pandemic. It didn't. It characterised the virus as a pandemic,
+
+139
+00:13:26,300 --> 00:13:31,700
+but there wasn't any practical or legal implication to that. The highest level of alert at the
+
+140
+00:13:31,700 --> 00:13:38,780
+WHO is the public health emergency of international concern, which it had already declared.
+
+141
+00:13:38,780 --> 00:13:44,260
+Of course, the WHO described this as a pandemic weeks after it fit the WHO's own definition
+
+142
+00:13:44,260 --> 00:13:49,460
+of a pandemic. It's just that calling it a pandemic didn't change anything. If any
+
+143
+00:13:49,460 --> 00:13:54,460
+government was ignoring the public health emergency of international concern and waiting
+
+144
+00:13:54,460 --> 00:13:59,340
+for the virus to be called a pandemic, then it was either ignorant of international health
+
+145
+00:13:59,340 --> 00:14:03,800
+protocols or completely incompetent.
+
+146
+00:14:03,800 --> 00:14:09,300
+The Wall Street Journal also took issue with the WHO praising China for its efforts. According
+
+147
+00:14:09,300 --> 00:14:13,340
+to the White House letter, this is one of the reasons given for defunding and leaving
+
+148
+00:14:13,340 --> 00:14:15,340
+the WHO.
+
+149
+00:14:15,340 --> 00:14:20,260
+On January 28th, after meeting with President Xi in Beijing, he praised the Chinese government
+
+150
+00:14:20,260 --> 00:14:26,280
+for its transparency with respect to the coronavirus, announcing that China had set a new standard
+
+151
+00:14:26,280 --> 00:14:30,360
+for outbreak control and bought the world time.
+
+152
+00:14:30,360 --> 00:14:35,820
+So did China deserve such effusive praise? From a human rights perspective, many civil
+
+153
+00:14:35,820 --> 00:14:42,020
+libertarians would say no. 60 million people were confined to their homes, there was mass
+
+154
+00:14:42,020 --> 00:14:47,840
+testing, and anyone who tested positive for the virus was forced into isolation. But from
+
+155
+00:14:47,840 --> 00:14:54,100
+an epidemiological perspective, the actions China took dealt with the virus very effectively.
+
+156
+00:14:54,100 --> 00:14:59,820
+Two huge hospitals were built from scratch, and a national travel ban slowed the spread.
+
+157
+00:14:59,820 --> 00:15:05,100
+Wuhan International Airport was shut down. Within a couple of months, most restrictions
+
+158
+00:15:05,100 --> 00:15:10,800
+had been lifted. Draconian as these actions were, the Chinese government did set a standard
+
+159
+00:15:10,800 --> 00:15:16,020
+for outbreak control. As the virus spread, most Western countries followed the Chinese
+
+160
+00:15:16,020 --> 00:15:23,780
+model of a national plan, mass testing, lockdown of hotspots, and mandatory mask wearing.
+
+161
+00:15:23,780 --> 00:15:27,880
+That doesn't mean these draconian measures were a good thing or a bad thing, or that
+
+162
+00:15:27,880 --> 00:15:33,820
+containing the virus at the expense of personal liberty and the economy was justified. That's
+
+163
+00:15:33,820 --> 00:15:41,620
+a matter of opinion. But from an epidemiological perspective, it worked and was widely copied.
+
+164
+00:15:41,620 --> 00:15:46,900
+In fact, the measures in China were so effective that the WHO wasn't the only voice of praise.
+
+165
+00:15:46,900 --> 00:15:51,300
+I spoke with President Xi and they're working very, very hard and I think it's going to
+
+166
+00:15:51,300 --> 00:15:57,380
+all work out fine. He loves his country and he's doing a very good job with a very, very
+
+167
+00:15:57,380 --> 00:16:02,460
+tough situation. But the issue of transparency is another matter.
+
+168
+00:16:02,460 --> 00:16:07,180
+Several people criticised me for saying in an earlier video that China was slow in getting
+
+169
+00:16:07,180 --> 00:16:13,260
+information out and underplayed the virus in its early stages. But examples of that
+
+170
+00:16:13,260 --> 00:16:18,780
+have been shown in this video as well as my previous two. Even the mayor of Wuhan agreed
+
+171
+00:16:18,780 --> 00:16:24,700
+that information release was slow. To their credit, the time between China suspecting
+
+172
+00:16:24,700 --> 00:16:31,060
+a new virus and completely shutting down a city of 10 million people was just three weeks,
+
+173
+00:16:31,060 --> 00:16:36,880
+which by international standards is remarkably fast. But there was a delay of about a week
+
+174
+00:16:36,880 --> 00:16:42,740
+in getting information out. There was a pattern of only making important announcements about
+
+175
+00:16:42,740 --> 00:16:48,100
+the virus after the news had been published in the media. The mayor of Wuhan blamed the
+
+176
+00:16:48,100 --> 00:16:53,980
+slow release of information on China's tightly controlled society and centralised decision
+
+177
+00:16:53,980 --> 00:17:00,300
+making. The WHO was well aware of this. In secret recordings obtained by the Associated
+
+178
+00:17:00,300 --> 00:17:06,780
+Press, officials at the WHO constantly expressed frustration at the slow pace of information
+
+179
+00:17:06,780 --> 00:17:14,140
+release. For example, China shared the genetic map of the virus with the WHO on January 12th,
+
+180
+00:17:14,140 --> 00:17:19,340
+which to give them credit was laudably fast. But according to the AP, that was more than
+
+181
+00:17:19,340 --> 00:17:24,860
+a week after the Chinese government labs had sequenced it, and ten days after Xi Zhengli
+
+182
+00:17:24,860 --> 00:17:30,080
+at the Wuhan Institute of Virology had sequenced it, according to a statement Xi made several
+
+183
+00:17:30,080 --> 00:17:36,500
+weeks later. None of this information was shared with the WHO. It was only when a Chinese
+
+184
+00:17:36,500 --> 00:17:41,700
+research consortium sequenced the virus and released its findings independent of the government
+
+185
+00:17:41,700 --> 00:17:47,240
+on January 9th that the Chinese authorities released theirs.
+
+186
+00:17:47,240 --> 00:17:51,700
+So while China might rightly deserve praise for quickly dealing with the virus, why did
+
+187
+00:17:51,700 --> 00:17:57,900
+the WHO praise it for transparency? According to the leaked recordings, the WHO felt that
+
+188
+00:17:57,900 --> 00:18:02,840
+criticising the Chinese government wouldn't be at all productive and could result in China
+
+189
+00:18:02,840 --> 00:18:08,820
+simply refusing to cooperate, for example by not releasing data or refusing to allow
+
+190
+00:18:08,820 --> 00:18:15,020
+the WHO experts into Wuhan to investigate. What the President's rationale was for praising
+
+191
+00:18:15,020 --> 00:18:22,860
+China's so-called transparency is a little less clear. China has been working very hard
+
+192
+00:18:22,860 --> 00:18:29,460
+to contain the coronavirus. The United States greatly appreciates their efforts and transparency.
+
+193
+00:18:29,460 --> 00:18:34,820
+It will all work out well. On January 12th, the WHO advised against the
+
+194
+00:18:34,820 --> 00:18:40,980
+application of international travel restrictions because of the new coronavirus. That was criticised
+
+195
+00:18:40,980 --> 00:18:46,020
+by many commentators and included in the White House letter giving reasons for the US withdrawal
+
+196
+00:18:46,020 --> 00:18:51,020
+from the WHO. You also praised China's strict domestic travel
+
+197
+00:18:51,020 --> 00:18:56,420
+restrictions but were inexplicably against my closing of the United States border or
+
+198
+00:18:56,420 --> 00:19:02,380
+the ban with respect to people coming from China. That's partly correct. The WHO lauded
+
+199
+00:19:02,380 --> 00:19:08,200
+domestic travel restrictions but advised against international travel restrictions.
+
+200
+00:19:08,200 --> 00:19:13,340
+From an epidemiological perspective, a virus can't distinguish between provincial and
+
+201
+00:19:13,340 --> 00:19:19,320
+international boundaries, so what works for one also works for the other.
+
+202
+00:19:19,320 --> 00:19:24,780
+But it wasn't inexplicable because the WHO did in fact explain the reason travel restrictions
+
+203
+00:19:24,780 --> 00:19:30,700
+don't stop the spread of a virus. Which is true, but they do slow it down. A study in
+
+204
+00:19:30,700 --> 00:19:35,500
+the journal Science found that the closure of Wuhan International Airport, for example,
+
+205
+00:19:35,500 --> 00:19:39,020
+cut case importations in other countries by 80%.
+
+206
+00:19:39,020 --> 00:19:44,620
+Up to that point, the complaint is correct. Unfortunately, the rest of the complaint needs
+
+207
+00:19:44,620 --> 00:19:50,380
+some fact checking. The United States border wasn't closed. Flights from China continued
+
+208
+00:19:50,380 --> 00:19:55,860
+because Americans living in China, Chinese residents in the USA and their families were
+
+209
+00:19:55,860 --> 00:20:00,560
+still allowed to travel freely. Several of those flights brought the first confirmed
+
+210
+00:20:00,560 --> 00:20:07,100
+coronavirus cases into the USA and international travel continued unchecked even from heavily
+
+211
+00:20:07,100 --> 00:20:13,820
+infected countries like Italy. In fact, nearly every country ignored the WHO's advice and
+
+212
+00:20:13,820 --> 00:20:19,840
+imposed travel restrictions and contrary to the White House claim, the WHO didn't criticise
+
+213
+00:20:19,840 --> 00:20:25,600
+the United States or any other country for taking these actions.
+
+214
+00:20:25,600 --> 00:20:29,840
+The White House letter complained that the WHO had downplayed the very serious risk of
+
+215
+00:20:29,840 --> 00:20:35,000
+asymptomatic spread, telling the world that COVID-19 does not transmit as efficiently
+
+216
+00:20:35,000 --> 00:20:40,900
+as influenza and that unlike influenza, this disease was not primarily driven by people
+
+217
+00:20:40,900 --> 00:20:47,780
+who are infected but not yet sick. Well, not quite. Let me just get the quote correct.
+
+218
+00:20:47,780 --> 00:20:52,840
+The director general of the WHO certainly did say COVID-19 does not transmit as efficiently
+
+219
+00:20:52,840 --> 00:20:59,200
+as influenza but he added, from the data we have so far. The second quote also had
+
+220
+00:20:59,200 --> 00:21:04,680
+the caveat that asymptomatic cases of COVID-19 did not appear to be the major drivers of
+
+221
+00:21:04,680 --> 00:21:11,720
+transmission. Leaving aside the misquotes, was what Tedros actually said correct? The
+
+222
+00:21:11,720 --> 00:21:17,780
+infectiousness of a virus is measured by the basic reproduction number or the R number.
+
+223
+00:21:17,780 --> 00:21:22,420
+This is an approximate figure for the average number of people each infected person will
+
+224
+00:21:23,000 --> 00:21:28,340
+A review paper published in mid February, more than two weeks before Tedros's speech,
+
+225
+00:21:28,340 --> 00:21:37,880
+found that the R number of SARS-CoV-2 in three separate studies averaged 2.44, 4.2 and 2.67.
+
+226
+00:21:37,880 --> 00:21:45,080
+Seasonal flu is between 0.9 and 2.1. In other words, SARS-CoV-2 is roughly twice as infectious
+
+227
+00:21:45,080 --> 00:21:51,180
+as seasonal flu. That evidence was available to Tedros at the time of his speech, so his
+
+228
+00:21:51,180 --> 00:21:57,740
+statement was incorrect. As for asymptomatic cases not seeming to be the major driver of
+
+229
+00:21:57,740 --> 00:22:03,400
+transmission, the fact is there was uncertainty as this research paper published just three
+
+230
+00:22:03,400 --> 00:22:08,880
+days after Tedros's speech shows. But there was also increasing evidence at the time of
+
+231
+00:22:08,880 --> 00:22:15,600
+the speech of asymptomatic cases spreading the virus. Even so, as late as June, Maria
+
+232
+00:22:15,600 --> 00:22:22,140
+Van Kerkhove was still saying that asymptomatic transmission was rare. The next day she corrected
+
+233
+00:22:22,140 --> 00:22:26,740
+her statement to explain that she was talking about a small subset of studies.
+
+234
+00:22:26,740 --> 00:22:32,240
+I got a few comments in an earlier video forum saying this.
+
+235
+00:22:32,240 --> 00:22:37,820
+What about WHO, an international body suggesting face masks don't work? Why would you follow
+
+236
+00:22:37,820 --> 00:22:42,720
+official medical advice when they lied about masks not working?
+
+237
+00:22:42,720 --> 00:22:48,800
+Well let's start as always by getting the facts straight. The WHO never said masks don't
+
+238
+00:22:48,800 --> 00:22:54,180
+work. Here's the earliest advice from the WHO given in January and it specifically says
+
+239
+00:22:54,180 --> 00:22:59,120
+that wearing a medical mask is one of the prevention measures to limit spread of certain
+
+240
+00:22:59,120 --> 00:23:06,880
+respiratory diseases, including 2019 ENCOV in affected areas. However, it then goes on
+
+241
+00:23:06,880 --> 00:23:11,900
+to explain that masks are only effective if they are properly worn, properly handled and
+
+242
+00:23:11,900 --> 00:23:16,740
+accompanied by other preventive measures, like hand washing.
+
+243
+00:23:16,740 --> 00:23:22,140
+Long before the outbreak of Covid-19, virologists had shown that masks do protect against water
+
+244
+00:23:22,140 --> 00:23:27,700
+droplets that carry the virus and even smaller particles called aerosols if the mask is a
+
+245
+00:23:27,700 --> 00:23:34,220
+type N95. The effectiveness in preventing the virus getting through in one study was
+
+246
+00:23:34,220 --> 00:23:40,800
+68% and 91% respectively. But viruses can also be spread by touching
+
+247
+00:23:40,800 --> 00:23:46,880
+contaminated surfaces or droplets getting into the eyes. So the effectiveness of masks
+
+248
+00:23:46,880 --> 00:23:52,840
+depends on proper hygiene. One Hong Kong study found that masks alone had little effect in
+
+249
+00:23:52,840 --> 00:23:59,800
+reducing the spread of influenza in a group that wore masks but didn't wash their hands.
+
+250
+00:23:59,800 --> 00:24:04,640
+Masks are even more effective in preventing infected people from spreading the virus.
+
+251
+00:24:04,640 --> 00:24:09,940
+This test shows droplets, they're visible in green, emanating from someone just talking
+
+252
+00:24:09,940 --> 00:24:22,020
+without a mask. But wearing a mask stops that completely.
+
+253
+00:24:22,020 --> 00:24:26,740
+So right from the start of the outbreak the WHO recommended the use of masks for people
+
+254
+00:24:26,740 --> 00:24:31,980
+with symptoms and healthcare workers because they do work. They didn't recommend it for
+
+255
+00:24:31,980 --> 00:24:37,780
+the general population at that time because the supply of masks was limited. That was
+
+256
+00:24:37,780 --> 00:24:44,200
+the same advice given by the CDC and the UK's Chief Medical Advisor for the same reasons.
+
+257
+00:24:44,200 --> 00:24:50,920
+As more masks became available and the asymptomatic spread of SARS-CoV-2 was discovered, the advice
+
+258
+00:24:50,920 --> 00:24:56,620
+changed. The claim that masks don't work isn't coming from the WHO, it's coming from people
+
+259
+00:24:56,620 --> 00:25:03,480
+who distrust or even ignore medical advice. If I hadn't been wearing a mask so much in
+
+260
+00:25:03,480 --> 00:25:10,740
+the last 10 days or so, I really wonder if I would have gotten it. But I know moving
+
+261
+00:25:10,740 --> 00:25:18,280
+the mask around, getting it just right, I'm bound to put some virus on the mask that I
+
+262
+00:25:18,280 --> 00:25:23,280
+sucked in. That's most likely what happened. With respect, sir, if your hand hygiene is
+
+263
+00:25:23,280 --> 00:25:28,120
+so bad that you think you're spreading the virus onto your mask by touching it, then
+
+264
+00:25:28,120 --> 00:25:33,200
+it's your filthy hands that are the cause of the problem, not the mask. Masks shouldn't
+
+265
+00:25:33,240 --> 00:25:37,820
+need constant adjustment anyway. So why are you... Oh, well, if you're going to dress
+
+266
+00:25:37,820 --> 00:25:42,480
+up like Jesse James, then it's not surprising you have to keep fiddling with this ridiculous
+
+267
+00:25:42,480 --> 00:25:48,000
+handkerchief tied round the back of your neck. If you want to know how a mask should be worn
+
+268
+00:25:48,000 --> 00:25:52,040
+and how to wash your hands, the WHO has a helpful guide.
+
+269
+00:25:52,040 --> 00:25:58,640
+Place the mask on your face, covering your nose, mouth and chin, making sure there are
+
+270
+00:25:58,640 --> 00:26:01,720
+no gaps between your face and the mask.
+
+271
+00:26:01,720 --> 00:26:06,260
+Not that, Jesse James. But obviously, no advice on how to wear a mask is going to be
+
+272
+00:26:06,260 --> 00:26:09,880
+effective if you willfully want to infect other people.
+
+273
+00:26:09,880 --> 00:26:16,880
+You spent $53, writes this lady. No mask. Only one in the store maskless. No one said
+
+274
+00:26:16,880 --> 00:26:20,720
+a word. Be brave. Try it. You'll like it.
+
+275
+00:26:20,720 --> 00:26:24,580
+Well, good for you if you think you're being brave by going into a supermarket without
+
+276
+00:26:24,580 --> 00:26:29,520
+a mask. But unless you're following hand washing protocols, the mask isn't so much to protect
+
+277
+00:26:29,520 --> 00:26:35,360
+you, but to protect other people from you if you're carrying the virus. It's a bit like
+
+278
+00:26:35,360 --> 00:26:40,320
+driving at 80 miles an hour through a busy school zone. You may think you're being brave
+
+279
+00:26:40,320 --> 00:26:45,200
+by risking your life at such high speeds, but in reality, you're more likely to kill
+
+280
+00:26:45,200 --> 00:26:50,640
+someone else. The problem is that in many parts of the United States, this isn't seen
+
+281
+00:26:50,640 --> 00:26:57,880
+as a medical issue, but a political one. Both of these people are members of Congress.
+
+282
+00:26:57,880 --> 00:26:59,520
+Can you take it up because I cannot hear you?
+
+283
+00:26:59,520 --> 00:27:00,600
+I'll just speak louder, sir.
+
+284
+00:27:00,600 --> 00:27:02,680
+Oh, OK. You want to be politically correct.
+
+285
+00:27:02,680 --> 00:27:08,560
+Why masks are effective and under what circumstances is not a matter of political correctness,
+
+286
+00:27:08,560 --> 00:27:14,320
+but scientific correctness. I don't know whether the person in this video is a fascist, a communist,
+
+287
+00:27:14,320 --> 00:27:20,800
+a Democrat or a Republican. Viruses work the same way for everyone. This gets us away from
+
+288
+00:27:20,800 --> 00:27:25,580
+the point that these complaints about the WHO are factually incorrect. But I thought
+
+289
+00:27:25,580 --> 00:27:31,020
+it was important not only to explain the WHO's true position on masks, but also why
+
+290
+00:27:31,020 --> 00:27:38,100
+and how mask wearing is effective, regardless of your political persuasion.
+
+291
+00:27:38,100 --> 00:27:42,880
+I've already looked at the false claim that Taiwan warned the WHO about human-to-human
+
+292
+00:27:42,880 --> 00:27:48,500
+transmission back in December. The criticism that the WHO doesn't have a normal relationship
+
+293
+00:27:48,500 --> 00:27:54,180
+with Taiwan is perfectly true. It doesn't. It can't even acknowledge the existence
+
+294
+00:27:54,180 --> 00:27:58,060
+of Taiwan as a country, leading to this embarrassing exchange.
+
+295
+00:27:58,060 --> 00:28:02,500
+Would the WHO consider Taiwan's membership?
+
+296
+00:28:02,500 --> 00:28:08,060
+At first, Dr Aylward pretended not to hear the question. Then he disconnected the link.
+
+297
+00:28:08,060 --> 00:28:13,020
+And when the interview resumed, he asked the interviewer to move on. It prompted these
+
+298
+00:28:13,020 --> 00:28:19,100
+comments in a YouTube forum. It's proof that the WHO has been bought by China or that Dr
+
+299
+00:28:19,580 --> 00:28:24,740
+Aylward is taking money for his stance, or that this is all some kind of conspiracy.
+
+300
+00:28:24,740 --> 00:28:30,260
+Actually, the reason Dr Aylward can't answer that question is fairly well known, and it's
+
+301
+00:28:30,260 --> 00:28:35,960
+been the subject of discussion for the last 40 years. It's not the WHO that gets to decide
+
+302
+00:28:35,960 --> 00:28:40,620
+whether Taiwan should be a member. It's up to member countries, including the United
+
+303
+00:28:40,620 --> 00:28:46,380
+States. The reason the WHO doesn't have a normal relationship with Taiwan is because
+
+304
+00:28:46,380 --> 00:28:51,860
+the United States and other nations, including Taiwan itself, have ruled that Taiwan as a
+
+305
+00:28:51,860 --> 00:28:58,860
+country doesn't exist. It's a province of China. So by international law, UN agencies,
+
+306
+00:28:59,340 --> 00:29:02,820
+including the WHO, aren't allowed to officially deal with it.
+
+307
+00:29:02,820 --> 00:29:08,780
+OK, I know we use the terms China and Taiwan as shorthand, but even Taiwan doesn't officially
+
+308
+00:29:08,780 --> 00:29:14,940
+call itself Taiwan. By mutual agreement and under international law, there's only one
+
+309
+00:29:14,940 --> 00:29:20,180
+country, but it has two rival claimants. There's the Republic of China with its government
+
+310
+00:29:20,180 --> 00:29:26,860
+in Taipei, and the People's Republic of China with its government in Beijing. Both agree
+
+311
+00:29:26,860 --> 00:29:32,460
+that Taiwan is just a province of their country. Several years ago I came face to face with
+
+312
+00:29:32,460 --> 00:29:37,840
+this bizarre situation personified when I met the Governor of Taiwan at a Kuomintang
+
+313
+00:29:37,840 --> 00:29:43,460
+Convention in Taipei. I asked him exactly what he does every day, and the short answer
+
+314
+00:29:43,500 --> 00:29:50,140
+is not much. Because there's only one country, every nation has to decide which of the two
+
+315
+00:29:50,140 --> 00:29:55,580
+governments to recognise. And since nearly every country, including the United States,
+
+316
+00:29:55,580 --> 00:30:01,660
+those churned in red, have now opted to recognise Beijing, it's the People's Republic of China
+
+317
+00:30:01,660 --> 00:30:07,420
+that occupies China's seat at the United Nations. That's why the USA doesn't have an official
+
+318
+00:30:07,420 --> 00:30:13,300
+embassy in Taiwan. It's represented by something called the American Institute. It's why
+
+319
+00:30:13,300 --> 00:30:18,860
+members of the WHO, including the United States when it was a member, have given China's seat
+
+320
+00:30:18,860 --> 00:30:25,540
+at the WHO to the People's Republic of China, not the Republic of China. It means the People's
+
+321
+00:30:25,540 --> 00:30:31,900
+Republic of China gets to decide on what terms the province of Taiwan participates in international
+
+322
+00:30:31,900 --> 00:30:38,700
+gatherings. The WHO can and does have regular unofficial contacts with Taiwan, but it can't
+
+323
+00:30:38,700 --> 00:30:44,340
+be officially recognised. Taiwan can't even compete in the Olympics or attend international
+
+324
+00:30:44,340 --> 00:30:50,380
+conferences or join international organisations like APEC under the name of Republic of China.
+
+325
+00:30:50,380 --> 00:30:58,340
+It has to participate as something called Chinese Taipei. I know, how dare I call Taiwan a province
+
+326
+00:30:58,340 --> 00:31:04,500
+of China? Well until Taiwan declares independence, which it shows no sign of doing because the
+
+327
+00:31:04,500 --> 00:31:10,340
+consequences would be far too bloody, both Taipei and Beijing do regard it as a province
+
+328
+00:31:10,340 --> 00:31:16,260
+of China, so you can't blame Dr Elwood either. He's lumbered with a system imposed on him
+
+329
+00:31:16,260 --> 00:31:21,640
+by the two Chinas and by members of the United Nations, including the United States, which
+
+330
+00:31:21,640 --> 00:31:28,060
+chose to recognise Beijing rather than Taipei. If critics want the WHO and other UN bodies
+
+331
+00:31:28,060 --> 00:31:33,420
+to give Taiwan official recognition, then they need to lobby the US government to switch
+
+332
+00:31:33,420 --> 00:31:38,820
+recognition from the People's Republic of China to the Republic of China and then get
+
+333
+00:31:38,820 --> 00:31:45,960
+a majority of UN members to do likewise. Perhaps having a normal relationship in a very abnormal
+
+334
+00:31:45,960 --> 00:31:51,660
+situation is more complicated than the op-ed writers of the Wall Street Journal and casual
+
+335
+00:31:51,660 --> 00:31:57,980
+posters on a YouTube video forum assume. It's a shame that the real shortcomings of the
+
+336
+00:31:57,980 --> 00:32:03,980
+WHO have been buried under an avalanche of false information, fabrications, misquotes
+
+337
+00:32:03,980 --> 00:32:09,020
+and misrepresentations, exemplified by the White House letter that seems to have been
+
+338
+00:32:09,020 --> 00:32:14,980
+based on internet myths compiled from blogs. Most of the factually based complaints against
+
+339
+00:32:14,980 --> 00:32:23,420
+the WHO come from within the scientific community. For example, in July 239 scientists openly
+
+340
+00:32:23,420 --> 00:32:31,040
+criticised the WHO for not recognising the potential of SARS-CoV-2 spread through aerosols,
+
+341
+00:32:31,040 --> 00:32:36,840
+in other words micro-droplets less than 5 micrometres in diameter. Some of the signatories
+
+342
+00:32:36,840 --> 00:32:42,980
+told the New York Times, the Infection Prevention and Control Committee in particular is bound
+
+343
+00:32:42,980 --> 00:32:48,780
+by a rigid and overly medicalised view of the scientific evidence, is slow and risk-averse
+
+344
+00:32:48,780 --> 00:32:55,240
+in updating its guidance and allows a few conservative voices to shout down dissent.
+
+345
+00:32:55,240 --> 00:32:59,780
+Another example, although this is just my opinion and therefore carries as much weight
+
+346
+00:32:59,780 --> 00:33:06,080
+as an empty thought bubble, the WHO's long-standing travel advice might have been fine for SARS
+
+347
+00:33:06,080 --> 00:33:12,260
+and MERS and even valid in the early stages of the novel coronavirus, but it wasn't appropriate
+
+348
+00:33:12,260 --> 00:33:17,200
+by February and should have been changed, especially since part of the rationale was
+
+349
+00:33:17,200 --> 00:33:25,100
+to prevent business disruption and adverse economic effects. That's not the WHO's job.
+
+350
+00:33:25,100 --> 00:33:30,360
+And while the WHO was perfectly right and obliged to pass on the information it received
+
+351
+00:33:30,360 --> 00:33:37,000
+from China, the message it gave was messy and uncoordinated. Its alert to hospitals
+
+352
+00:33:37,000 --> 00:33:42,260
+on January 5th was clear and concise and should have also gone out in a media release at the
+
+353
+00:33:42,260 --> 00:33:47,860
+same time. It wasn't reported by the media until nine days later when it was mentioned
+
+354
+00:33:47,860 --> 00:33:53,580
+at a news conference. The WHO should also have reported the January 14th statements
+
+355
+00:33:53,580 --> 00:33:58,780
+from the Chinese health authorities in full and Van Gogh-Kover's analysis should have
+
+356
+00:33:58,780 --> 00:34:04,280
+been included, not just given at the news conference. Fortunately, the media picked
+
+357
+00:34:04,280 --> 00:34:10,540
+up on the significance of what she said and made it their lead story. Why so many people
+
+358
+00:34:10,540 --> 00:34:15,460
+didn't know that the WHO had warned of the danger of human-to-human transmission on January
+
+359
+00:34:15,460 --> 00:34:21,460
+14th or alerted hospitals as far back as January 5th could be because they have their heads
+
+360
+00:34:21,460 --> 00:34:25,300
+buried in the blogs instead of simply listening to the evening news.
+
+361
+00:34:25,300 --> 00:34:29,380
+You may have had some limited spread among humans. That's the latest from the World Health
+
+362
+00:34:29,380 --> 00:34:35,060
+Organisation. When I investigated the WHO's stance on asymptomatic transmissibility and
+
+363
+00:34:35,060 --> 00:34:39,920
+the reproduction rate, I was surprised to find at least two papers with a high number
+
+364
+00:34:39,920 --> 00:34:46,160
+of citations that the WHO had apparently overlooked. These problems may be the result
+
+365
+00:34:46,160 --> 00:34:52,620
+of the WHO's bureaucratic protocols, but that's fixable. None of the world's health authorities
+
+366
+00:34:52,620 --> 00:34:58,420
+or even the scientists who are sometimes critical of the WHO advocates defunding it because
+
+367
+00:34:58,420 --> 00:35:03,280
+the work it does in monitoring disease and improving the health of millions of people
+
+368
+00:35:03,280 --> 00:35:09,000
+is invaluable. And that's especially true in the middle of a pandemic.
+
+369
+00:35:09,000 --> 00:35:14,520
+If the US administration is concerned about the increasing influence of China at the WHO,
+
+370
+00:35:14,520 --> 00:35:20,000
+then it should have done what China did and taken active role in the organisation. Instead,
+
+371
+00:35:20,000 --> 00:35:25,880
+the US seat on the executive board was left unfilled for three long years. It was only
+
+372
+00:35:25,880 --> 00:35:31,040
+in March this year that the President finally appointed a US representative to fill the
+
+373
+00:35:31,040 --> 00:35:37,820
+seat, just a few weeks before its withdrawal. And ironically, by withdrawing from the WHO,
+
+374
+00:35:37,820 --> 00:35:42,840
+the United States is now ensuring the very outcome it wants to prevent. The US withdrawal
+
+375
+00:35:42,840 --> 00:35:48,800
+is leaving the field wide open to China. I realise that by presenting facts in this video
+
+376
+00:35:48,800 --> 00:35:54,440
+I'm up against human nature. People tend to believe the first thing they read or hear,
+
+377
+00:35:54,440 --> 00:35:59,200
+and with so much disinformation on the internet, it's then very hard for them to change their
+
+378
+00:35:59,200 --> 00:36:04,280
+minds – even when presented with the facts in black and white, which they can read for
+
+379
+00:36:04,280 --> 00:36:05,880
+themselves.
+
+380
+00:36:05,880 --> 00:36:11,120
+So before you comment with the usual unsupported cries of, this is all bullshit, take a look
+
+381
+00:36:11,120 --> 00:36:16,280
+again at the facts, and by all means check them. If you want to maintain that Taiwan
+
+382
+00:36:16,280 --> 00:36:21,280
+warned about human-to-human transmission, or that the Lancet or anyone else published
+
+383
+00:36:21,280 --> 00:36:27,080
+an article about the virus in early December, or that the WHO said somewhere that masks
+
+384
+00:36:27,080 --> 00:36:33,440
+don't work, by all means cite these articles and documents and let everyone read them.
+
+385
+00:36:33,440 --> 00:36:37,400
+Don't just point to a blog that tells you these things happened and expect everyone
+
+386
+00:36:37,400 --> 00:36:42,020
+else to share your faith. And if you think it's wrong that Taiwan isn't allowed to
+
+387
+00:36:42,020 --> 00:36:48,180
+fully participate in United Nations organisations, and I wholeheartedly agree, then instead of
+
+388
+00:36:48,180 --> 00:36:54,240
+blaming the WHO for a situation not of its making, tell us your solution. Should the
+
+389
+00:36:54,240 --> 00:36:59,440
+Taiwanese government drop the One China policy and declare independence? Should the United
+
+390
+00:36:59,440 --> 00:37:05,280
+States switch recognition from Beijing to Taipei? Let's see what workable ideas you
+
+391
+00:37:05,280 --> 00:37:07,060
+come up with.
+
+392
+00:37:07,060 --> 00:37:11,740
+If you think the WHO shouldn't have to flatter countries in order to gain access to crucial
+
+393
+00:37:11,740 --> 00:37:17,900
+medical information, let's hear your solution. Should the WHO be given powers to subpoena
+
+394
+00:37:17,900 --> 00:37:23,180
+doctors and medical records from a country? Should it have the power to forcibly send
+
+395
+00:37:23,180 --> 00:37:28,280
+in health specialists even if the host country doesn't want them there? And what should
+
+396
+00:37:28,280 --> 00:37:33,980
+be the consequences if the target country refuses? Bomb them? I'm really looking forward
+
+397
+00:37:33,980 --> 00:37:39,580
+to your solutions rather than just the usual mindless criticism.
+
+398
+00:37:39,580 --> 00:37:44,300
+If you'd like to support this channel, please don't send money to me. My videos are free
+
+399
+00:37:44,300 --> 00:37:49,540
+and my channel isn't monetised, so if you'd like to donate and encourage me to spend the
+
+400
+00:37:49,540 --> 00:37:54,020
+time and effort it takes to check all this information, please send the money to a very
+
+401
+00:37:54,020 --> 00:37:59,720
+worthy and unique charity that I endorse, listed in the video description. Thanks.
+

@@ -1,0 +1,976 @@
+1
+00:00:00,000 --> 00:00:04,160
+To those who don't know this channel, I'm a former geologist who's been a science journalist for
+
+2
+00:00:04,160 --> 00:00:10,640
+25 years. My YouTube channel debunks all kinds of scientific urban myths. So here's a summary
+
+3
+00:00:10,640 --> 00:00:14,960
+of the most common misrepresentations of science I've come across over the years
+
+4
+00:00:14,960 --> 00:00:19,680
+regarding climate change, and the real science they're misrepresenting or omitting.
+
+5
+00:00:20,480 --> 00:00:24,320
+Let's start with a famous myth about the name of the subject we're talking about.
+
+6
+00:00:24,320 --> 00:00:33,760
+No, first of all, they started with global warming because they wanted to focus on CO2,
+
+7
+00:00:33,760 --> 00:00:36,080
+and they started talking about climate change.
+
+8
+00:00:37,120 --> 00:00:39,520
+That's why they call it climate change now and not global warming.
+
+9
+00:00:39,520 --> 00:00:44,560
+No, it goes back a lot further than that. The conclusion that CO2 concentration affects
+
+10
+00:00:44,560 --> 00:00:50,560
+global temperature was made 120 years ago and confirmed in the 1930s and 40s.
+
+11
+00:00:51,040 --> 00:00:56,320
+In the 1950s, it became known as the carbon dioxide theory of climatic change,
+
+12
+00:00:56,320 --> 00:01:00,560
+or climate change for short. This paper was written in 1955.
+
+13
+00:01:01,200 --> 00:01:05,440
+That's why back in the 1980s, we saw the formation of something called
+
+14
+00:01:05,440 --> 00:01:08,400
+the Intergovernmental Panel on Climate Change.
+
+15
+00:01:09,360 --> 00:01:14,320
+The term global warming describes the global warming that causes this climate change.
+
+16
+00:01:16,240 --> 00:01:19,760
+Climate changes all the time. It's a very natural thing.
+
+17
+00:01:19,760 --> 00:01:22,640
+Climate change is a natural phenomenon that always will be.
+
+18
+00:01:23,600 --> 00:01:25,600
+The climate change has always been occurring.
+
+19
+00:01:26,160 --> 00:01:31,120
+How do you explain climate change that occurred 10,000 years ago before man had a carbon footprint?
+
+20
+00:01:32,080 --> 00:01:36,000
+Because of course it's not the mere presence of humans that's changing the climate,
+
+21
+00:01:36,000 --> 00:01:41,280
+it's carbon dioxide. We know why carbon dioxide concentration is rising now,
+
+22
+00:01:41,280 --> 00:01:43,680
+and geologists know why it rose in the past.
+
+23
+00:01:44,400 --> 00:01:49,680
+First of all, let's get one thing clear. The main active drivers of global temperature now
+
+24
+00:01:49,680 --> 00:01:53,680
+are exactly the same as in the past, long before humans came along.
+
+25
+00:01:54,320 --> 00:01:58,720
+Which shouldn't really be a surprise, because the laws of physics haven't changed.
+
+26
+00:01:58,720 --> 00:02:01,760
+They're threefold. Changes in solar irradiance,
+
+27
+00:02:01,760 --> 00:02:04,000
+which is the amount of heat we receive from the sun,
+
+28
+00:02:04,560 --> 00:02:08,560
+changes in carbon dioxide concentration, which traps that heat,
+
+29
+00:02:08,560 --> 00:02:12,320
+and changes in aerosol concentration, which reflects that heat.
+
+30
+00:02:13,520 --> 00:02:16,480
+Just to anticipate a few other myths that I'll cover later,
+
+31
+00:02:16,480 --> 00:02:20,320
+things like water vapour content, cloud cover and ice albedo
+
+32
+00:02:20,320 --> 00:02:24,320
+respond to these changes in temperature, but they aren't the primary causes.
+
+33
+00:02:25,200 --> 00:02:28,080
+And although winds and oceans move the heat around,
+
+34
+00:02:28,080 --> 00:02:32,960
+they don't significantly change the temperature of the earth, so they aren't active forcings either.
+
+35
+00:02:34,000 --> 00:02:38,720
+So how did carbon dioxide levels change before factories and SUVs came along?
+
+36
+00:02:39,840 --> 00:02:44,000
+Well, let's start at the beginning of the Phanerozoic, about 500 million years ago,
+
+37
+00:02:44,000 --> 00:02:47,280
+when CO2 levels were nearly 20 times higher than today.
+
+38
+00:02:47,840 --> 00:02:52,800
+Over hundreds of millions of years they got taken out of the atmosphere by chemical weathering,
+
+39
+00:02:52,800 --> 00:02:57,520
+which turns the carbon dioxide into calcium carbonates and deposits it as sediment in the
+
+40
+00:02:57,520 --> 00:03:03,280
+oceans. So trillions of tonnes of CO2 that were once in the atmosphere are now locked up in
+
+41
+00:03:03,280 --> 00:03:09,600
+limestone. The other way CO2 got taken out was when living matter got buried as coal and oil.
+
+42
+00:03:10,320 --> 00:03:17,200
+But this gradual decline in CO2 concentration is punctuated by sporadic increases in CO2 during
+
+43
+00:03:17,200 --> 00:03:22,400
+flood basalt events – occasional weaknesses in the earth's crust that spill thousands of
+
+44
+00:03:22,400 --> 00:03:27,760
+square miles of thick lava and release billions of tonnes of CO2 back into the atmosphere.
+
+45
+00:03:29,200 --> 00:03:34,000
+So that brings us to the next myth. Since CO2 is a powerful greenhouse gas
+
+46
+00:03:34,000 --> 00:03:39,200
+and CO2 levels were much higher in the past, why was the earth sometimes colder?
+
+47
+00:03:39,600 --> 00:03:46,400
+Here there was an ice age when CO2 was at least 10 times higher than it is today.
+
+48
+00:03:46,400 --> 00:03:52,800
+The reason is very simple. The sun was much weaker back then. Over the last 500 million years there's
+
+49
+00:03:52,800 --> 00:03:59,040
+been a slow and steady increase in solar output. So during the late Ordovician, the time period
+
+50
+00:03:59,040 --> 00:04:05,360
+Patrick Moore is talking about, solar output was about 4% lower than today. So it's no surprise
+
+51
+00:04:05,360 --> 00:04:11,360
+that the earth was in an ice age. The question the critics need to answer is why was that the
+
+52
+00:04:11,360 --> 00:04:17,520
+exception? Why was it much hotter than today for hundreds of millions of years either side of this
+
+53
+00:04:17,520 --> 00:04:28,080
+brief ice age? And here we had almost 7,000 parts per million of CO2 compared with 385 or thereby
+
+54
+00:04:28,080 --> 00:04:35,200
+today. 7,000 then. Temperature managed to get up to about 22 Celsius. That's the point. How did it
+
+55
+00:04:35,200 --> 00:04:41,280
+manage to get up to 22 Celsius, which is 6 degrees hotter than today, even though the sun was about
+
+56
+00:04:41,280 --> 00:04:48,240
+4% cooler? There's never been an answer from the critics, but scientists explain it quite easily.
+
+57
+00:04:48,240 --> 00:04:54,880
+Since CO2 has a strong warming effect, it was this insulating blanket of CO2 that kept the earth
+
+58
+00:04:54,880 --> 00:05:00,320
+warm. And researchers have found that the reason it cooled during the Ordovician was because a
+
+59
+00:05:00,320 --> 00:05:06,480
+series of tectonic collisions led to a period of mountain building that sped up chemical weathering
+
+60
+00:05:06,480 --> 00:05:13,520
+and took a lot of CO2 out of the atmosphere. As CO2 levels fell, the earth cooled and triggered
+
+61
+00:05:13,520 --> 00:05:19,920
+an ice age. Since the increase in solar irradiance has been very slow and steady over the last 500
+
+62
+00:05:19,920 --> 00:05:25,360
+million years, researchers have found that it's these sporadic increases and decreases in CO2
+
+63
+00:05:25,360 --> 00:05:31,680
+levels that have largely driven global temperature. By the way, the graph Christopher Mungton is using
+
+64
+00:05:31,680 --> 00:05:37,440
+is the same graph Patrick Moore was using, just in different colours. It comes from a blog.
+
+65
+00:05:37,440 --> 00:05:42,880
+CO2 levels compiled by a researcher called Robert Berner, shown in black, have been put alongside
+
+66
+00:05:42,880 --> 00:05:48,240
+global temperatures compiled by Christopher Scottese, shown in blue. Scottese drew the
+
+67
+00:05:48,240 --> 00:05:54,800
+temperature sketch nearly 20 years ago based on a book that's now 26 years old, so he's recently
+
+68
+00:05:54,800 --> 00:05:59,920
+updated it. This is Scottese's more accurate and more recent reconstruction.
+
+69
+00:06:03,840 --> 00:06:07,680
+And look at how little correlation there is in that graph between
+
+70
+00:06:07,680 --> 00:06:13,600
+temperature in blue there and CO2 concentration in black. And it shows very clearly that there's
+
+71
+00:06:13,600 --> 00:06:20,720
+no lockstep correlation between CO2 and global temperature. But there's no lockstep correlation
+
+72
+00:06:20,720 --> 00:06:26,400
+between solar irradiation and global temperature either. But surely we can't conclude from that
+
+73
+00:06:26,400 --> 00:06:32,560
+that the Sun has no effect on global temperature. Since there are three main active drivers of
+
+74
+00:06:32,560 --> 00:06:37,600
+global temperature, you can't just ignore the other two, you have to look at all three.
+
+75
+00:06:37,600 --> 00:06:42,960
+And when you do that, you get a very good correlation. Correlation doesn't necessarily mean
+
+76
+00:06:42,960 --> 00:06:47,600
+causation, of course, so in this video I'm not going to try to show you the evidence for the
+
+77
+00:06:47,600 --> 00:06:53,440
+strong link between CO2 and global temperature. That's in another video I made. In this video,
+
+78
+00:06:53,440 --> 00:06:58,160
+I'm just debunking the most widespread myths about climate science and the claim that there's
+
+79
+00:06:58,160 --> 00:07:04,960
+no correlation is one of them. Now let's move forward in time to the present. And to do that,
+
+80
+00:07:04,960 --> 00:07:10,160
+I want to give you an idea of the difference in time scale that represents. Let's take a walk up
+
+81
+00:07:10,160 --> 00:07:17,520
+the Mississippi River from New Orleans to Memphis. That's 485 miles, so that represents about a mile
+
+82
+00:07:17,520 --> 00:07:23,280
+for every million years of the Phanerozoic. It's a long walk that Google Maps reckons would take
+
+83
+00:07:23,280 --> 00:07:30,720
+about a week non-stop. Only the last two miles represents our ice age and the last 40 years of
+
+84
+00:07:30,720 --> 00:07:36,480
+strong warming is just a couple of inches. That's the period of time we're going to be looking at in
+
+85
+00:07:36,480 --> 00:07:42,960
+the next couple of myths. So what do you think is causing global warming? The Sun. There's
+
+86
+00:07:42,960 --> 00:07:49,200
+definitely no question. They virtually ignore the Sun as a factor of climate change. The Sun is
+
+87
+00:07:49,200 --> 00:07:55,840
+driving climate change. CO2 is irrelevant. It's the Sun's stupid. So why do climate researchers
+
+88
+00:07:55,840 --> 00:08:01,920
+say it's not the Sun? Because solar irradiance, shown here in blue, has been decreasing over the
+
+89
+00:08:01,920 --> 00:08:08,480
+last 40 years, so it can't possibly have caused temperatures, shown in red, to go higher. The
+
+90
+00:08:08,480 --> 00:08:13,440
+claim that the role of the Sun has been ignored by scientists is also wrong. Scientists have devoted
+
+91
+00:08:13,440 --> 00:08:18,800
+a huge amount of effort into monitoring the output of the Sun and studying its effects on global
+
+92
+00:08:18,800 --> 00:08:24,640
+temperature, both now and in the past. When I mentioned this before, people have been confused
+
+93
+00:08:24,640 --> 00:08:29,280
+by the fact that the Sun has been getting cooler over the last 40 years, when I've also said that
+
+94
+00:08:29,280 --> 00:08:34,160
+for the last 500 million years it's been getting hotter. That's because of the difference in
+
+95
+00:08:34,160 --> 00:08:40,000
+magnitude and time scale. Here's where the time illustration will help. Because the growing output
+
+96
+00:08:40,000 --> 00:08:46,960
+of the Sun represents our uphill climb from New Orleans to Memphis. We're climbing 308 feet, which
+
+97
+00:08:46,960 --> 00:08:52,880
+is quite a lot. It's the height of the Statue of Liberty. That represents the 4% increase in
+
+98
+00:08:52,880 --> 00:09:00,640
+solar output. But over 485 miles you wouldn't even notice it. The road looks pretty flat. What you
+
+99
+00:09:00,640 --> 00:09:06,800
+would notice are the very small dips and inclines over short periods. Even this wheelchair ramp down
+
+100
+00:09:06,800 --> 00:09:12,800
+from a sidewalk onto the road represents a decrease in solar activity over hundreds of years, similar
+
+101
+00:09:12,800 --> 00:09:18,800
+to the Little Ice Age. In other words, the tiny drop in solar irradiation over the last 40 years
+
+102
+00:09:18,800 --> 00:09:24,960
+would go unnoticed when set against the huge rise in solar irradiation over the last 500 million
+
+103
+00:09:24,960 --> 00:09:31,760
+years. And the other side of the coin is that the long-term rise in solar irradiation is so slow
+
+104
+00:09:31,760 --> 00:09:34,640
+that it wouldn't even be noticed over a 40-year period.
+
+105
+00:09:38,240 --> 00:09:44,640
+There are many more factors in play than simply the concentration of CO2 in the atmosphere.
+
+106
+00:09:46,000 --> 00:09:50,880
+Factors such as the shape and size of the Earth's elliptical orbit around the Sun.
+
+107
+00:09:50,960 --> 00:09:57,600
+Lead scientist at NASA said this. He said that what ended the Ice Age was global wobbling.
+
+108
+00:09:57,600 --> 00:10:02,320
+Is the wobbling of the Earth included in any of your modellings? And the answer was no.
+
+109
+00:10:02,320 --> 00:10:07,280
+When you have a model and you say we're going to leave out the most important impact of that model
+
+110
+00:10:07,840 --> 00:10:13,680
+out of our theory and not talk about global wobbling, how can you make projections?
+
+111
+00:10:13,680 --> 00:10:19,200
+Because right now these wobbles are not affecting us. They're well known and very predictable.
+
+112
+00:10:19,200 --> 00:10:22,800
+At the moment there's a very small change over a period of thousands of years,
+
+113
+00:10:22,800 --> 00:10:27,360
+but for reasons I've just explained this is too small to be measurable over a 40-year or
+
+114
+00:10:27,360 --> 00:10:32,320
+100-year period. The last time the Earth's wobble had a significant effect was about
+
+115
+00:10:32,320 --> 00:10:37,360
+15,000 years ago and the next time will be at least 16,000 years from now.
+
+116
+00:10:39,760 --> 00:10:44,000
+Now one thing that kind of jumps out at you is, do they ever fit together?
+
+117
+00:10:44,000 --> 00:10:49,520
+But looks can be deceiving. Al Gore is glossing over the fact that the start of each deglaciation
+
+118
+00:10:49,520 --> 00:10:55,920
+was not caused by CO2. It was caused, as we've seen, by a wobble in the Earth's axis and orbit
+
+119
+00:10:55,920 --> 00:11:01,280
+that allowed a little more sunlight to hit the Earth. Over most of the Phanerozoic these wobbles
+
+120
+00:11:01,280 --> 00:11:07,360
+have no discernible effect. The change in global temperature is too small. But an Ice Age is
+
+121
+00:11:07,360 --> 00:11:13,200
+different because ice has properties that amplify the warming far more than when the Earth is ice
+
+122
+00:11:13,200 --> 00:11:19,520
+free. When a small amount of ice melts less sunlight is reflected back into space and methane
+
+123
+00:11:19,520 --> 00:11:26,320
+and carbon dioxide locked up in frozen soils and cold oceans are released and that causes more
+
+124
+00:11:26,320 --> 00:11:32,960
+warming. The amount of extra sunlight the Earth receives due to its orbital wobbling isn't enough
+
+125
+00:11:32,960 --> 00:11:38,160
+to melt ice sheets the size of continents. What does that are the amplifying factors,
+
+126
+00:11:38,160 --> 00:11:42,960
+as we'll see when we move on to our next myth, the complete opposite of the previous one.
+
+127
+00:11:43,200 --> 00:11:51,440
+So here we're looking at the ice core record from Vostok and in the red we see temperature
+
+128
+00:11:51,440 --> 00:11:58,000
+going up from early time to later time at a very key interval when we came out of a glaciation
+
+129
+00:11:58,000 --> 00:12:05,840
+and we see the temperature going up and then we see the CO2 coming up. CO2 lags behind that
+
+130
+00:12:05,840 --> 00:12:11,840
+increase. It's got an 800 year lag so temperature is leading CO2 by 800 years.
+
+131
+00:12:12,720 --> 00:12:20,000
+So obviously carbon dioxide is not the cause of that warming. In fact we can say that the warming
+
+132
+00:12:20,800 --> 00:12:25,600
+produced the increase in carbon dioxide. And that's correct. Researchers have found that
+
+133
+00:12:25,600 --> 00:12:31,520
+carbon dioxide is not the cause of that warming. The critics are specifying that this happens at
+
+134
+00:12:31,520 --> 00:12:36,320
+the end of a glaciation and as we've seen the little bit of extra sunlight the Earth
+
+135
+00:12:36,320 --> 00:12:43,280
+receives at the end of a glaciation does indeed warm the Earth. As oceans warm dissolved CO2 is
+
+136
+00:12:43,280 --> 00:12:50,160
+less soluble and it's released into the atmosphere. CO2 and methane locked up in frozen soils is also
+
+137
+00:12:50,160 --> 00:12:57,520
+released and methane also breaks down into CO2. So it's no surprise that at the end of a glaciation,
+
+138
+00:12:57,520 --> 00:13:03,440
+which is the start of a period called deglaciation, CO2 lags temperature. The
+
+139
+00:13:03,440 --> 00:13:09,360
+problem is that the critics assume this means that CO2 can only lag temperature and that it
+
+140
+00:13:09,360 --> 00:13:16,320
+therefore can't be a greenhouse gas. But this focus only on the early stages of deglaciation
+
+141
+00:13:16,320 --> 00:13:21,600
+ignores the fact that research scientists say that in the latter stages of deglaciation
+
+142
+00:13:21,600 --> 00:13:27,840
+CO2 leads temperature. Just ask the researchers who are credited with making this graph,
+
+143
+00:13:27,840 --> 00:13:34,800
+Nicolas Cayon et al. Here's the original graph in the paper being referenced by the critics.
+
+144
+00:13:34,800 --> 00:13:40,560
+The authors explain how CO2 lags temperature in the early part of deglaciation in the southern
+
+145
+00:13:40,560 --> 00:13:46,960
+hemisphere but it leads temperature rise during the rest of deglaciation in the northern hemisphere.
+
+146
+00:13:47,600 --> 00:13:53,280
+The authors write, this sequence of events is still in full agreement with the idea that CO2
+
+147
+00:13:53,280 --> 00:13:59,600
+plays, through its greenhouse effect, a key role in amplifying the initial orbital forcing.
+
+148
+00:13:59,600 --> 00:14:04,640
+That means the Earth's wobble. Other researchers have found exactly the same thing.
+
+149
+00:14:06,320 --> 00:14:11,760
+So telling us that CO2 lags temperature rise at the end of a glaciation is correct.
+
+150
+00:14:11,760 --> 00:14:16,480
+But it's only telling half the story and sometimes the critics blur that.
+
+151
+00:14:16,560 --> 00:14:20,480
+CO2 clearly cannot be causing temperature changes.
+
+152
+00:14:20,480 --> 00:14:23,840
+It's a product of temperature. It's following temperature changes.
+
+153
+00:14:23,840 --> 00:14:29,200
+This is giving the impression that CO2 only ever lags temperature. Lots of people have
+
+154
+00:14:29,200 --> 00:14:32,880
+come onto my channel convinced that that's what the researchers have found.
+
+155
+00:14:34,400 --> 00:14:38,480
+The positive feedback doesn't go on forever, of course, because as the temperature of the
+
+156
+00:14:38,480 --> 00:14:43,520
+Earth rises it radiates more heat. So once the initial forcing has stopped,
+
+157
+00:14:43,520 --> 00:14:47,280
+the temperature keeps rising until the amount of heat leaving the Earth
+
+158
+00:14:47,280 --> 00:14:49,200
+balances the amount of heat coming in.
+
+159
+00:14:50,480 --> 00:14:55,040
+The Earth then stabilises at a higher temperature called the equilibrium temperature.
+
+160
+00:14:55,920 --> 00:15:00,400
+So the longer it takes to stop the CO2 forcing that we're experiencing now,
+
+161
+00:15:00,400 --> 00:15:03,200
+the longer it'll take for temperatures to stabilise
+
+162
+00:15:03,200 --> 00:15:06,000
+and the higher the final equilibrium temperature will be.
+
+163
+00:15:06,000 --> 00:15:15,200
+How much CO2 is up there anyway? 4% of that is due to man.
+
+164
+00:15:16,000 --> 00:15:22,400
+Human activity contributes perhaps 3% of the 3%.
+
+165
+00:15:23,600 --> 00:15:27,680
+No, the figure is actually 10 times higher. It's around 33%.
+
+166
+00:15:28,640 --> 00:15:33,040
+How do we know? Because since the Industrial Revolution, humans have poured hundreds of
+
+167
+00:15:33,040 --> 00:15:37,760
+billions of tonnes of carbon dioxide into the atmosphere and researchers can measure
+
+168
+00:15:37,760 --> 00:15:43,600
+where it's gone. About half has been dissolved in the oceans, where it's turned into carbonic acid,
+
+169
+00:15:43,600 --> 00:15:50,560
+and about half has accumulated in the atmosphere. That's why after about 8,000 years of CO2 levels
+
+170
+00:15:50,560 --> 00:15:58,880
+between 260 and 280 ppm, the concentration has risen to over 400 ppm since the Industrial
+
+171
+00:15:58,880 --> 00:16:05,120
+Revolution began 200 years ago. So where do the critics get this 3% figure from?
+
+172
+00:16:06,080 --> 00:16:12,480
+97% of all CO2 emitted every year around the world is naturally caused.
+
+173
+00:16:12,480 --> 00:16:18,160
+Only about 3% is from humans. We're creating only 3% of the Earth's CO2.
+
+174
+00:16:18,160 --> 00:16:23,280
+The biggest sources are decaying plants, volcanoes and forest fires.
+
+175
+00:16:23,280 --> 00:16:27,280
+But that's normal carbon flux. Since this is not explained,
+
+176
+00:16:27,280 --> 00:16:31,200
+it leads people to believe the figure refers to the human contribution to the
+
+177
+00:16:31,200 --> 00:16:36,160
+increase in atmospheric carbon dioxide. So what is carbon flux?
+
+178
+00:16:37,280 --> 00:16:41,920
+Pence writes when he says the surface of the Earth is constantly expelling carbon dioxide
+
+179
+00:16:41,920 --> 00:16:47,920
+in a variety of ways. But what he doesn't mention is that at the same time it's reabsorbing
+
+180
+00:16:47,920 --> 00:16:54,720
+carbon dioxide in a variety of different ways. For every tree that dies and releases carbon dioxide,
+
+181
+00:16:54,720 --> 00:16:59,920
+another tree grows and absorbs it. The ocean is expelling carbon dioxide,
+
+182
+00:16:59,920 --> 00:17:03,440
+but it's also dissolving carbon dioxide, and so on.
+
+183
+00:17:04,160 --> 00:17:10,640
+So CO2 is constantly cycling in and out of the biosphere. And for the last 8,000 years,
+
+184
+00:17:10,640 --> 00:17:16,000
+since the end of the last glaciation, that recycling, called carbon flux,
+
+185
+00:17:16,000 --> 00:17:21,440
+has pretty much been in balance. In other words, very little of this carbon in circulation
+
+186
+00:17:21,440 --> 00:17:28,400
+accumulates and builds up in the atmosphere. The problem is into this balanced circulation system,
+
+187
+00:17:28,400 --> 00:17:32,640
+billions of tonnes of extra carbon has been introduced from a new source,
+
+188
+00:17:32,640 --> 00:17:36,160
+the burning of coal and oil that had previously been sequestered.
+
+189
+00:17:36,880 --> 00:17:41,360
+About half of this new carbon has been matched by ocean and biosphere absorption,
+
+190
+00:17:41,360 --> 00:17:46,800
+in other words it simply joined the carbon flux cycle. But the other half has been slowly
+
+191
+00:17:46,800 --> 00:17:50,240
+accumulating in the atmosphere since the industrial revolution.
+
+192
+00:17:51,120 --> 00:17:55,760
+That accumulation now comprises around a third of atmospheric CO2,
+
+193
+00:17:55,760 --> 00:17:59,280
+so it's the accumulated CO2 that has the warming effect.
+
+194
+00:18:00,320 --> 00:18:06,640
+In my video Are Humans Contributing Only 3% of CO2, I show the difference between carbon flux
+
+195
+00:18:06,640 --> 00:18:10,720
+and carbon accumulation, using the example of two tanks of water.
+
+196
+00:18:11,280 --> 00:18:16,320
+Water is going out of tank A into tank B at the rate of 100 litres a day,
+
+197
+00:18:16,320 --> 00:18:20,880
+at the same time water is being pumped from tank B into tank A at the same rate.
+
+198
+00:18:21,680 --> 00:18:24,960
+The result is that the level in tank A stays where it is.
+
+199
+00:18:25,600 --> 00:18:29,920
+But if we introduce water from a new source at the rate of 2 litres a day,
+
+200
+00:18:29,920 --> 00:18:34,400
+that's just 2% of the water in circulation, it steadily accumulates.
+
+201
+00:18:34,960 --> 00:18:39,120
+The level of water in tank A rises, and that's where the problem lies with
+
+202
+00:18:39,120 --> 00:18:43,600
+CO2 accumulating in the atmosphere, and that's what's causing the warming.
+
+203
+00:18:45,280 --> 00:18:49,280
+How do we know that the extra CO2 is from fossil fuel burning?
+
+204
+00:18:49,280 --> 00:18:56,480
+Because carbon has three main isotopes, carbon-12, the most common one, carbon-13 and carbon-14.
+
+205
+00:18:57,040 --> 00:19:01,680
+Unlike volcanoes, fossil fuels contain almost no carbon-13,
+
+206
+00:19:01,760 --> 00:19:05,440
+and unlike plants, they contain almost no carbon-14.
+
+207
+00:19:06,080 --> 00:19:10,480
+The evidence that the extra carbon that's accumulating is from fossil fuel burning,
+
+208
+00:19:10,480 --> 00:19:13,200
+rather than living matter or volcanoes,
+
+209
+00:19:13,200 --> 00:19:19,360
+is that the ratio of these C-13 and C-14 isotopes has gone down in the atmosphere and oceans.
+
+210
+00:19:20,720 --> 00:19:25,280
+If critics still want to insist that the CO2 isn't from fossil fuel burning,
+
+211
+00:19:25,280 --> 00:19:31,040
+then they have to explain how all this extra CO2 suddenly appeared in the atmosphere and oceans,
+
+212
+00:19:31,040 --> 00:19:34,480
+and they have to explain where the hundreds of billions of tonnes of
+
+213
+00:19:34,480 --> 00:19:39,040
+CO2 that humans have produced over the last 200 years has gone.
+
+214
+00:19:42,800 --> 00:19:46,720
+Can global warming be happening as expected if the world has stopped getting hotter?
+
+215
+00:19:47,600 --> 00:19:50,560
+The Earth basically has not been warming for the last 15 years or so.
+
+216
+00:19:50,560 --> 00:19:55,040
+No, the Earth has continued to warm, and this has been confirmed by every single
+
+217
+00:19:55,040 --> 00:19:59,280
+temperature monitoring body across the world, in a number of different countries.
+
+218
+00:19:59,840 --> 00:20:05,680
+It may be cold right now wherever you are, but these measurements are taken on a global scale,
+
+219
+00:20:05,680 --> 00:20:10,480
+on the ground, in the air and under the sea, and averaged over the entire year.
+
+220
+00:20:11,440 --> 00:20:16,320
+Hundreds of people from dozens of different scientific institutes all over the world
+
+221
+00:20:16,320 --> 00:20:21,680
+are involved in this process. Collectively and individually they all show that despite
+
+222
+00:20:21,680 --> 00:20:27,200
+lower solar irradiance and increased aerosol pollution, the Earth continues to warm.
+
+223
+00:20:28,160 --> 00:20:32,000
+Well, maybe the temperature data has been faked, the critics will say.
+
+224
+00:20:32,000 --> 00:20:36,160
+And even if there has been warming, it isn't as much as the models predicted.
+
+225
+00:20:36,160 --> 00:20:41,680
+And even if it is, warming will be good. And didn't they predict an ice age in the 1970s?
+
+226
+00:20:41,680 --> 00:20:45,040
+And aren't we expecting an ice age now, because the sun's about to go dim?
+
+227
+00:20:45,840 --> 00:20:51,200
+Yes, there are lots of other myths, I know, and unfortunately I can't cover them all in just one
+
+228
+00:20:51,200 --> 00:20:56,560
+video. But I have covered them all in my climate change series, so take a look and see what the
+
+229
+00:20:57,200 --> 00:21:03,120
+science has to say. But I hope the moral of this story is that if you want to call yourself a
+
+230
+00:21:03,120 --> 00:21:09,280
+sceptic, that's admirable, but in that case be sceptical. If you're told there's no correlation
+
+231
+00:21:09,280 --> 00:21:14,720
+between CO2 and temperature, then ask why researchers conclude that there is a link.
+
+232
+00:21:15,360 --> 00:21:20,320
+Find out what it is they know that the critics don't, or that the critics aren't telling you.
+
+233
+00:21:21,600 --> 00:21:25,840
+Instead of just accepting that the scientists must be wrong because someone tells you the
+
+234
+00:21:25,840 --> 00:21:31,760
+sun is causing global warming, turn that into a question. How come researchers don't think the
+
+235
+00:21:31,760 --> 00:21:37,600
+sun is responsible? Find out. And obviously, if only 3% of carbon dioxide in the atmosphere
+
+236
+00:21:37,600 --> 00:21:43,440
+is attributed to humans, then we don't have a problem, so why all the fuss? What is it that
+
+237
+00:21:43,440 --> 00:21:49,440
+the researchers know that the amateurs don't? Because either professional researchers are so
+
+238
+00:21:49,440 --> 00:21:54,720
+incompetent that in 120 years of published research they haven't spotted something so
+
+239
+00:21:54,720 --> 00:22:00,800
+simple and obvious that even an amateur can post it in a YouTube video, or they know something the
+
+240
+00:22:00,800 --> 00:22:08,080
+amateurs don't. Start by asking a question and finding the answer. As always, don't even believe
+
+241
+00:22:08,080 --> 00:22:13,120
+what I'm telling you either. Check my sources, which are in the video description and shown
+
+242
+00:22:13,120 --> 00:22:18,160
+on the screen, and see for yourself if the critics are telling you the whole story.
+
+243
+00:22:18,160 --> 00:22:21,600
+That's the hallmark of a true sceptic.
+
+244
+00:22:24,720 --> 00:22:26,720
+Thank you.
+

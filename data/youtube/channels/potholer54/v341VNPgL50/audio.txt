@@ -1,0 +1,607 @@
+Typically you quarantine the sick. When someone has measles you quarantine them.
+We've never seen where we quarantine the healthy.
+Actually we have. The word quarantine itself comes from the practice of locking down healthy people for 40 days.
+Quarantena, in old Italian, when ships arrived in Venice from areas of plague.
+In the 17th century the villagers of Iam in England, most of them healthy,
+locked themselves down when a few of their number caught bubonic plague.
+If you don't recognise this guy, he's Dan Erickson, one of two doctors who held a press conference back in April.
+They work for Accelerated Urgent Care in Bakersfield, California.
+They specialise in common ailments like these.
+And the reason for the press conference was to voice concern that their business was suffering because of Covid-19 restrictions.
+This has caused some severe disruption for Accelerated as we have people coming in seven in the morning till midnight
+or reporting to the health department or calling patients back and at the same time our volumes have dropped significantly.
+Now I'm not unsympathetic to opinions that lockdowns may be doing more harm than good.
+After all these doctors, like so many people running a business, have seen a sharp decline in income because of lockdowns.
+They also have an adverse effect on mental health.
+They increase domestic violence, economic hardship, infringe on civil liberty, raise unemployment and lower GDP.
+So I don't mind listening to arguments for and against.
+But I do mind when people try to support their case by misrepresenting scientific facts and figures and presenting bogus information.
+And that's what's happening here.
+They claimed that lockdown isn't necessary because they calculated, wrongly as it turns out,
+that the infection fatality rate of Covid-19 is only 0.03%, a third that of flu.
+That claim, of course, went viral.
+So let's go through their calculation and just buzz in when you spot the mistake.
+So if we look at California, these numbers are from yesterday.
+We have 33,865 Covid cases out of a total of 280,900 total tested.
+That's 12% of Californians were positive for Covid.
+Good use of the buzzer.
+And you're right.
+It's not 12% of Californians who were Covid positive.
+It's 12% of the people who got tested.
+And they obviously aren't representative of the population as a whole.
+Because before mass testing came in, people got tested because they had symptoms or were exposed to the virus
+or thought they might have been exposed to the virus.
+So there's going to be a much higher percentage of positive cases among those tested during the early weeks of the pandemic
+compared to the general population.
+It's like doing a survey of a waiting room at a Texas hospital
+and then discovering that a third of the people waiting are critically ill.
+You can't scale that up and assume that therefore a third of Texans must be critically ill.
+So the more you test, the more positives you get.
+But that's a classic case of mixing up measurements.
+You get more positive cases but the percentage of positive cases
+which is what the doctors are measuring for their calculation
+doesn't go up, it goes down.
+Even if the doctors don't understand the difference between a number and a percentage
+which I find hard to believe
+all they have to do is look at the data they claim to be using.
+As testing expanded to the California population as a whole
+shown by the light brown bars on this graph
+the number of positive cases went up, shown by the darker brown at the bottom.
+But the percentage of positive cases went down
+shown by the blue line with the percentage scale on the right hand side.
+A month after the doctors held their press conference
+far more people were being tested
+and of course the positivity rate was down from 12% to around 4.5%.
+The doctors' analysis was so bad and so amateurish
+that the American College of Emergency Physicians
+and the American Academy of Emergency Medicine
+took the extraordinary step of issuing a joint statement disowning it.
+They called the doctors' claims reckless and untested musings.
+I got interested in this topic when someone posted this on the forum
+and it seems to be a view that's widely shared.
+Listening to the science didn't work out so well
+seven months later and a global recession
+even Fauci now says on a recent 60 Minutes
+he would not shut down the economy when faced with a similar virus.
+Actually that's not what Fauci said
+but I'm more interested in the idea that listening to the science isn't a good idea.
+Because science can't tell you whether lockdowns are the right policy
+that's a personal opinion and ultimately a political decision.
+All it can tell you is what the epidemiological effects of a lockdown will be
+the reproduction rate of the virus, the number of infections
+and roughly how many people would die over what period of time.
+That's why listening to the science always works out well
+because it ensures that when a government weighs the pros and cons of lockdown
+it does so on the basis of facts and figures
+rather than ideological dogma, blind guesses and wishful thinking.
+So what do real scientific studies say about lockdowns?
+Lockdown has become a catch-all word to describe
+restricted movements, limits on social gatherings
+and the closure of certain businesses.
+Sometimes the rules are tightened, sometimes they're relaxed
+depending on whether the number of cases is rising or falling.
+Scientific studies refer to these as restrictions or non-pharmaceutical interventions.
+What about Sweden?
+Sweden, Sweden, Sweden, Sweden.
+Hold on, I'm going to look at Sweden in a minute.
+A lot of posters on my channel suggested I take a look at the claims of Ivor Cummins
+an Irish biochemical engineer who runs a YouTube channel.
+Unlike the Bakersfield doctors, he actually cites scientific studies
+which is commendable.
+We now have many, many publications, including Lancet
+that show clearly, based on the data, that lockdown
+barely or does not affect deaths per million outcomes.
+Well here's the first one on the list and the one Cummins highlights.
+It wasn't published in The Lancet, which is one of the world's top two medical journals
+it was published in eClinical Medicine
+a separate open access journal owned by The Lancet.
+Nevertheless, it concluded that lockdowns don't affect mortality rates
+which is supportive of Cummins' claims.
+But here's the problem.
+When I look for other studies in Lancet-owned journals
+and in The Lancet itself
+they all reach the opposite conclusion.
+They all concluded that lockdowns reduced rates of infection.
+Some showed that the stricter lockdown measures were
+the more effective they were
+and they showed that when the strictest lockdown measures were lifted
+infection rates began to rise again.
+Picking one study from The Lancet group that supports your case
+and ignoring all the others that don't
+is called cherry picking
+and it's a familiar tactic on social media.
+So then I moved on to the second paper on Cummins' list
+which was published by a very reputable journal, Science.
+It's a shame that Cummins doesn't show the paper
+and give a proper citation or link
+so that people can read it for themselves.
+I could only find the study by doing a search of Google Scholar
+using the part of the title that Cummins showed.
+It's a paper by Denning et al.
+But when I clicked on the link
+it turns out that the title of the paper has changed.
+According to Cummins, the paper claimed
+lockdown had only a minor effect.
+In fact, their study
+which looked at lockdowns in Germany
+found a clear reduction of the spreading rate
+related to each governmental intervention.
+And it concluded
+results suggest that the full extent of government interventions
+was necessary to stop exponential growth.
+Then I checked the third citation in the list
+which turns out to be ambiguous.
+There's no such thing as the Koch Institute.
+There's the Robert Koch Institute in Germany
+a respected government medical agency
+that advises on responses to the pandemic.
+And there's the Charles Koch Institute
+in the United States
+an American lobby group that gives frequent opinions
+and conclusions on the pandemic
+from a political perspective.
+If Cummins is citing
+the political lobby group
+Charles Koch, then its opinions
+about the reproduction rate
+are irrelevant because it isn't a scientific body.
+If Cummins is citing
+the scientific institute
+the Robert Koch Institute
+it's stated very clearly that lockdowns are effective.
+In this bulletin
+the RKI says
+Oh, sorry.
+Isolation measures
+of confirmed cases and the quarantining
+of contact persons lead not only
+to a reduction in the number of secondary cases
+but also to a shortening of
+the generation time.
+The RKI even did a review of studies
+that looked at the effect of restrictions
+and interventions.
+It listed the conclusions of each one.
+The vast majority
+found that restrictions slowed the
+reproduction rate of the virus
+and reduced the number of cases
+or both.
+If you want to check them for yourselves
+the review is linked in the video description.
+Based on this thorough review
+of the scientific literature
+the RKI doesn't conclude
+that lockdowns are ineffective
+it says the complete opposite.
+In our analysis we find
+a strong dose response effect
+of restrictions on gatherings
+the requirement to wear masks
+and the closings of workplaces and schools
+and both of the COVID-19 pandemic.
+I'm not going to go through the list
+and track down every blog article
+and study.
+That's something Cummins should have done
+before he posted it.
+But at number 17 I did spot one that I'd already read
+in the British Medical Journal
+so I knew that Cummins had misrepresented
+that one too.
+It's not a scientific study
+it's a non peer reviewed news article
+looking at why Belarus had so few deaths
+due to COVID-19.
+The likely explanations
+the article reports are a high
+proportion of hospital beds per thousand
+population, 40 times
+that of the UK, and a
+structural bias towards dealing with
+pandemics and mass testing
+and very few care homes
+and the relative isolation
+of the country that means borders
+could be easily closed and
+travellers monitored.
+And finally because Belarus is a dictatorship
+where the figures may have been
+fudged anyway, some experts
+fear that many coronavirus
+related deaths are registered
+as cases of pneumonia.
+Most importantly even if it
+had been a scientific study
+the article made no conclusion about
+the effectiveness of lockdown
+and nothing in the article that suggests
+lockdowns are ineffective.
+So just like numbers two and three
+what on earth is it doing on
+Cummins' list?
+He needs to check all these supposed sources
+read them properly, make sure
+they're peer reviewed scientific studies and
+not newspaper stories or political
+blogs, pick out the ones that really
+do show that lockdowns are ineffective
+and then repost an accurate
+list.
+If you don't cherry pick and misread
+what real scientific studies
+show is that lockdowns are effective.
+It doesn't mean they're a good
+idea, it just means that
+they are effective in reducing the spread
+of an infectious disease.
+That's been known since 14th century
+Venice and it's pretty obvious
+why. So all other things
+being equal the strictest lockdown
+measures, which most countries
+do when the R8 gets dangerously high
+ought to result in a reduction of
+Covid-19 cases after
+about 10 to 14 days.
+And that's exactly what we see.
+What about Sweden? Sweden. Sweden.
+Sweden. Sweden. Alright, so what
+about Sweden? Sweden never
+locked down, never mandated masks
+never closed their borders,
+never closed their under-16 schools,
+never closed the restaurants
+and bars and did everything they could
+to avoid trampling on human rights.
+Sweden took an approach based
+on science. Well, Tony Heller
+did get one thing right. Sweden
+took an approach based on science,
+just like most countries with a couple
+of obvious exceptions.
+Swedish epidemiologists know as well
+as American or British epidemiologists
+that eliminating mass gatherings
+and restricting movement
+slow the spread of the virus,
+including the architect of the Swedish
+model Anders Tegnell.
+He says people who claim Sweden
+didn't have restrictions are
+wrong. You're saying
+that the strategy here, apart from the face mask
+is pretty much the same as everywhere else, is that?
+To a great extent, yes.
+I mean, we also slow down many
+things.
+The
+domestic air flights
+in Sweden were slowed down to
+basically nothing. There was no domestic
+flights in Sweden anymore.
+This was due to people stopped travelling, not because
+we made it mandatory for the flights to stop.
+Trains were also cut down
+quite a lot, so
+the society really slowed down
+quite a lot also in Sweden.
+I think much more than many people in other countries
+understand. The reason Tegnell
+thought a voluntary system would work
+is that Sweden has a number of advantages
+over countries outside
+of Scandinavia.
+For one thing, it has a modern universal
+healthcare system that the authorities
+calculated had enough ICU
+beds to cope with a high number
+of COVID cases and treat
+them effectively. Secondly,
+most Swedes live alone,
+and the country isn't a major tourist destination
+or a travel crossroads,
+so it would be less vulnerable to a rapid
+spread of the virus.
+Sweden isn't a particularly religious
+country, so you don't see many
+mass gatherings in churches or mosques.
+And most importantly,
+imposing rules is probably not
+even necessary. After all,
+this is the nation that gave us ABBA
+and Volvo's. Swedes don't
+go around raping and pillaging anymore.
+They're a pretty sensible, responsible
+people who for the most part follow
+government advice.
+Isn't that a little racist?
+If I like their race,
+how can that be racist?
+So the authorities opted for guidelines
+like these rather than legally
+enforced rules. Refrain
+from unnecessary journeys,
+avoid public transport, don't go
+to meetings and concerts, and so on.
+Life looks pretty good in Sweden.
+Things are open, their schools
+are open, their universities are
+open. People in Sweden are
+going about their lives normally.
+Well, not really. A photograph doesn't
+tell the whole story.
+Sweden may have a more relaxed approach
+than countries like Britain and France,
+but life in Sweden over the last 11
+months has been anything but normal.
+As well as the voluntary
+guidelines, there are also restrictions
+mandated by law.
+Crowd sizes at public events
+were limited to 50 people,
+and as the virus got worse, that number
+was reduced to just eight.
+Restaurants and bars can only serve
+customers who are seated.
+Visits to nursing homes are restricted.
+There are travel restrictions from other
+countries. Twice, schools have
+switched to remote learning, and
+that's in addition to all the voluntary
+guidelines I just showed you regarding
+gatherings, social distancing, and
+staying home.
+A survey by Sweden's Civil Contingencies
+Agency suggests that
+87% of the population
+are continuing to follow social distancing
+recommendations, and domestic
+airlines are grounded.
+And according to Anders Tenjel,
+Swedes have only around 30%
+of the social interactions that
+they did prior to the pandemic.
+Sweden travelled a lot less than they
+usually do. They actually decreased their
+travel more than the travel was
+decreased in our Scandinavian
+neighbours.
+If you ask Swedes,
+80-90% of them say that
+their lives have been very much affected
+by the Covid-19. So
+I think you make a mistake if
+you think that the Swedish lockdown was
+less in place
+and was less effective than in many
+places just because it was a voluntary
+lockdown. So admire the Swedish
+model by all means, but let's
+not pretend that life in Sweden has
+gone on as normal. This is
+all far from normal.
+Sweden has reached herd immunity
+even as the United States
+panics. But Sweden is nowhere
+near reaching herd immunity.
+That's the problem with believing tabloid
+newspapers like the Daily Mail
+instead of listening to epidemiologists
+and checking the figures.
+Back in May, Professor Bjorn
+Olsson said herd immunity in
+Sweden is a long way off
+if we ever reach it. And in August
+he co-authored a study showing
+rates of infection way below the
+60-70% needed
+for herd immunity.
+As did a study commissioned by the
+Swedish Public Health Agency in May
+and a third study in December.
+And even the man
+every proponent of the Swedish model
+likes to quote, Anders Tegnell,
+said as late as November
+that the issue of herd immunity is
+difficult and there are no signs
+of immunity in the population that
+are slowing down the infection.
+In this graph you can see the difference
+between what's going on in Sweden
+with Dr Anders Tegnell
+versus the US with Dr Fauci.
+But of course the United States
+is doing even worse than Sweden.
+Anders Tegnell was put in charge
+of Sweden's pandemic policy
+while Anthony Fauci had no
+executive power at all.
+He could only advise a president
+who routinely ignored his advice.
+So while Sweden had a national
+plan led by an epidemiologist
+the United States had none
+led by a politician.
+And there are other differences.
+Sweden had a universal healthcare
+system which could cope with a
+pandemic and where everyone could get
+treated free of charge.
+Whether you think that's a good thing or a bad thing
+it's something the United States
+doesn't have.
+And unlike Sweden where few people go to church
+millions of Americans continued
+to pack places of worship.
+And Swedes are pretty healthy.
+Compare the level of diabetes
+in Sweden with that of the
+United States.
+This is the level of obesity in Sweden
+compared to the USA.
+And while most domestic
+flights in Sweden were grounded
+in the United States they continued
+flying. And most Swedes
+followed government guidelines and restrictions.
+In the United States these
+varied from state to state and
+were often ignored even by the
+leader of the country. And even
+by politicians urging others to follow
+the guidelines.
+So why would anyone be surprised that the
+American death toll was higher?
+To see how Sweden's been doing
+it's no good comparing it to countries with
+completely different population densities
+different obesity levels
+different healthcare systems and different
+cultures. You need to compare it with
+countries where all those things are similar.
+And that's not hard.
+Sweden's neighbours have very
+similar profiles in all those respects.
+The only significant differences
+were mandatory lockdowns
+versus voluntary lockdown
+and policies on mask wearing, test
+and trace.
+The result? At the time of writing
+Sweden has a mortality rate
+in other words the number of deaths per million people
+four times that of Denmark
+eight times that of Finland
+and ten times that of Norway.
+And now even mainstream
+media outlets like Newsweek
+are acknowledging the fact that they succeeded.
+Well that may be Newsweek's
+opinion, but opinion is not
+fact. If the United States
+had the same mortality rate as Sweden
+then instead of having 260,000
+deaths at the time of writing
+it would have had 210,000
+deaths.
+People can have their own opinions about whether
+that's a success, but they aren't
+entitled to change the facts to
+fit that opinion.
+So what's my opinion?
+Well of course the whole point of this channel is not
+to tell you what I think, but to
+fact check the claims of those who do
+give you their opinion and to present
+facts so you can form your own opinion.
+You just can't
+borrow someone else's opinion off the shelf
+or beat the drum for a team.
+You have to answer questions
+that are rather difficult to answer.
+For example, apart from the
+fatalities caused by COVID-19
+how do we assess the downside
+of millions of people who didn't die
+but continue to feel the effects?
+I also wanted to mention that 96%
+of people in California who get COVID
+recover with almost no significant
+sequelae, or no significant
+continuing medical
+problems. But where does that
+figure come from? That's the
+trouble with doing science by press conference.
+There's a tendency to dream up
+some figures on the back of an envelope
+and throw others out with a confident
+knowledge they can't be checked.
+Ericsson is saying that only
+about 4% of people suffer
+long-term effects from COVID-19.
+It's impossible to say if Ericsson
+got that figure from a reliable source
+or made a mistake, or found
+it in a blog, or simply made it
+up. All I can do is
+cite proper studies and real figures
+which do have sources you can
+check. For example, a British
+study found that 10% of people
+experience prolonged illness after
+COVID-19. A paper
+in the Journal of the American Medical Association
+found that 71% of
+COVID cases in Italy had
+symptoms during infection,
+and of those, 32%
+still had one or two symptoms two months
+later, and 44%
+had a worse quality of life.
+Another US study found that
+only 35% of people
+didn't return to their previous level of
+health two to three weeks after
+a positive test.
+It's known as long-COVID,
+the long-term health problems brought on
+by COVID-19.
+Symptoms range from fatigue and joint
+pain to chest pain and
+diarrhoea, and more seriously heart
+problems and breathing difficulties.
+I sympathise with people like
+the Bakersfield doctors whose businesses
+are suffering, but giving misinformation
+like that isn't helping.
+If we, as Tony Abbott
+suggested, let nature run its course
+and take no action to curb the virus,
+would these doctors be back in business
+or would patients be even
+less likely to visit their hospital?
+Would it make businesses
+like cafes, bars and movie theatres
+more popular, or would
+people be worried about an uncontrolled
+pandemic and stay away?
+In other words, would keeping
+everything open and letting
+the pandemic run its course
+result in better economic conditions
+or worse?
+And what about the people who work in these places
+and interact with a heavily infected
+public? Is it fair
+to ask them to risk their lives,
+and if they refuse, would it be fair
+to sack them? And if people
+were free to contract COVID, which
+is surely their right, is
+that fair on people they might
+infect, or on hospital staff who
+would then have to risk their lives treating
+these people? And how do
+we factor in the cost of lockdown
+in terms of mental health,
+educational setback, how do you
+assess that level of pain felt by
+millions of people under lockdown
+and then compare it to, say, the
+pain of losing a loved one or
+the suffering caused by long COVID?
+I know that borrowing
+an opinion off the shelf is very
+simple, quick and easy, and
+thinking about questions like these,
+weighing them in the balance and checking
+all the facts and figures is
+much harder work.
+But if you're going to voice an opinion and
+hold that opinion very firmly,
+then I hope you have weighed each of these
+questions carefully and are very
+sure of your answers.
+Thank you.

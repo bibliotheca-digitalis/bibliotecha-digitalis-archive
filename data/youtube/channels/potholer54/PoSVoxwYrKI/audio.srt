@@ -1,0 +1,636 @@
+1
+00:00:00,000 --> 00:00:05,000
+In the first video of this series I looked at the science behind anthropogenic climate change,
+
+2
+00:00:05,000 --> 00:00:09,000
+the idea that man-made carbon gases are responsible for global warming.
+
+3
+00:00:09,000 --> 00:00:14,000
+70 years ago the view that carbon dioxide could affect the global climate
+
+4
+00:00:14,000 --> 00:00:17,000
+was held by only a tiny minority of climate scientists.
+
+5
+00:00:17,000 --> 00:00:21,000
+Many assumed that there would be some sort of self-regulating mechanism
+
+6
+00:00:21,000 --> 00:00:23,000
+that would put things back into balance.
+
+7
+00:00:23,000 --> 00:00:28,000
+Then there was the scientifically valid view that water vapour also traps radiation
+
+8
+00:00:28,000 --> 00:00:33,000
+and warms up the earth, and it's far more abundant in the atmosphere than carbon dioxide.
+
+9
+00:00:33,000 --> 00:00:36,000
+But research in the 1940s changed all that.
+
+10
+00:00:36,000 --> 00:00:42,000
+Guy Stewart Callender, a British engineer, showed that radiation absorption is not even.
+
+11
+00:00:42,000 --> 00:00:47,000
+Water vapour absorbs radiation mainly in the 18 to 30 micrometre band
+
+12
+00:00:47,000 --> 00:00:50,000
+and allows most of the rest to escape into space.
+
+13
+00:00:50,000 --> 00:00:53,000
+In effect, these absorption gaps act like cooling vents.
+
+14
+00:00:54,000 --> 00:00:59,000
+But carbon dioxide absorbs radiation in a different range, 8 to 18 micrometres.
+
+15
+00:00:59,000 --> 00:01:04,000
+So Callender concluded that carbon dioxide mops up this escaping radiation,
+
+16
+00:01:04,000 --> 00:01:07,000
+effectively acting as a plug to these cooling vents.
+
+17
+00:01:07,000 --> 00:01:11,000
+Over the next few decades, objections to the idea of anthropogenic climate change
+
+18
+00:01:11,000 --> 00:01:16,000
+were gradually eroded as more and more evidence emerged in support of it.
+
+19
+00:01:16,000 --> 00:01:20,000
+Today, by almost any measure, the overwhelming majority of climate scientists
+
+20
+00:01:20,000 --> 00:01:26,000
+accept not only that the earth is warming, but that man-made carbon gases are responsible.
+
+21
+00:01:26,000 --> 00:01:31,000
+In 2004, the magazine Science published a study by Naomi Oreskes
+
+22
+00:01:31,000 --> 00:01:33,000
+looking at the degree of consensus.
+
+23
+00:01:33,000 --> 00:01:36,000
+A search of scientific papers over the previous ten years
+
+24
+00:01:36,000 --> 00:01:40,000
+showed that all of those commenting or dealing with recent global warming,
+
+25
+00:01:40,000 --> 00:01:46,000
+nearly 700 papers, explicitly endorsed the view that man-made gases are responsible.
+
+26
+00:01:46,000 --> 00:01:50,000
+This survey is sometimes used to suggest that there are no papers
+
+27
+00:01:50,000 --> 00:01:54,000
+disputing anthropogenic climate change and no alternative hypotheses.
+
+28
+00:01:54,000 --> 00:01:57,000
+As we'll see, that's simply not the case.
+
+29
+00:01:57,000 --> 00:02:00,000
+The survey results were obtained by doing a search for the words
+
+30
+00:02:00,000 --> 00:02:03,000
+global climate change in scientific abstracts,
+
+31
+00:02:03,000 --> 00:02:07,000
+so the results can't be regarded as 100% accurate.
+
+32
+00:02:07,000 --> 00:02:10,000
+But they do give an indication of the overwhelming consensus
+
+33
+00:02:10,000 --> 00:02:13,000
+supporting anthropogenic climate change.
+
+34
+00:02:13,000 --> 00:02:17,000
+Oreskes also found that all major scientific bodies in the United States
+
+35
+00:02:17,000 --> 00:02:22,000
+agreed that man-made gases are responsible for recent climate change.
+
+36
+00:02:22,000 --> 00:02:24,000
+But although they're few in number,
+
+37
+00:02:24,000 --> 00:02:27,000
+there are scientific papers supporting alternative hypotheses.
+
+38
+00:02:27,000 --> 00:02:31,000
+Far from ignoring them, climate scientists are very familiar with them.
+
+39
+00:02:31,000 --> 00:02:34,000
+The alternatives can be broken down into two basic ideas.
+
+40
+00:02:34,000 --> 00:02:38,000
+Firstly, the proposal that increased output from the sun is driving climate change,
+
+41
+00:02:38,000 --> 00:02:41,000
+a phenomenon known as solar forcing.
+
+42
+00:02:41,000 --> 00:02:45,000
+Secondly, the proposal that cloud cover is affecting global temperatures.
+
+43
+00:02:45,000 --> 00:02:48,000
+But first things first, nearly all climate scientists agree
+
+44
+00:02:48,000 --> 00:02:53,000
+that the Earth's climate warms and cools in concert with the varying energy output from the sun.
+
+45
+00:02:53,000 --> 00:02:58,000
+But the crucial question is whether that's the cause of the recent rise in global temperatures,
+
+46
+00:02:58,000 --> 00:03:01,000
+basically over the last 40 or 50 years.
+
+47
+00:03:01,000 --> 00:03:06,000
+27 years ago, a paper was published with very strong evidence for exactly that.
+
+48
+00:03:06,000 --> 00:03:10,000
+Egel Fries Kristensen and Knud Lassen of the Danish Meteorological Institute
+
+49
+00:03:10,000 --> 00:03:14,000
+looked at the pattern of solar activity over the last 250 years
+
+50
+00:03:14,000 --> 00:03:18,000
+and it matched almost perfectly with global temperature changes.
+
+51
+00:03:18,000 --> 00:03:21,000
+But closer examination of the data revealed a flaw.
+
+52
+00:03:21,000 --> 00:03:25,000
+To get their graph, Fries Kristensen and Lassen had to filter the data.
+
+53
+00:03:25,000 --> 00:03:30,000
+That basically means smoothing it out to account for background variation and local anomalies.
+
+54
+00:03:30,000 --> 00:03:34,000
+This is standard practice and they did that for most of the graph.
+
+55
+00:03:34,000 --> 00:03:37,000
+But they didn't do it for the most recent part of the graph
+
+56
+00:03:37,000 --> 00:03:41,000
+because the data needed to do it wasn't available at the time of publication.
+
+57
+00:03:41,000 --> 00:03:45,000
+When it did become available, the graph showed a very different story.
+
+58
+00:03:45,000 --> 00:03:49,000
+A very good correlation between global temperatures and solar output
+
+59
+00:03:49,000 --> 00:03:51,000
+over most of the last 250 years,
+
+60
+00:03:51,000 --> 00:03:56,000
+but not the very period that covers a dramatic rise in global temperatures.
+
+61
+00:03:56,000 --> 00:04:01,000
+While global temperatures have been rising, solar activity has remained more or less static.
+
+62
+00:04:02,000 --> 00:04:06,000
+Since the 1991 paper, a number of other research papers have been written
+
+63
+00:04:06,000 --> 00:04:10,000
+and nearly all confirmed what the revised Fries Kristensen-Lassen graph showed.
+
+64
+00:04:10,000 --> 00:04:15,000
+Solar activity explains most of the temperature changes over the last few hundred years,
+
+65
+00:04:15,000 --> 00:04:18,000
+but not the recent period of rising global temperatures.
+
+66
+00:04:18,000 --> 00:04:22,000
+But there's one more thing to check before discounting solar forcing as an option.
+
+67
+00:04:22,000 --> 00:04:26,000
+All the historical data measuring the amount of solar energy falling on the Earth
+
+68
+00:04:26,000 --> 00:04:28,000
+are derived by secondary methods.
+
+69
+00:04:28,000 --> 00:04:33,000
+Sunspot counts, levels of carbon-14 and beryllium-10, for example.
+
+70
+00:04:33,000 --> 00:04:37,000
+To get a measure of the Sun's exact output, you have to go into space,
+
+71
+00:04:37,000 --> 00:04:40,000
+away from all the meteorological clutter on Earth.
+
+72
+00:04:40,000 --> 00:04:44,000
+So in the early 2000s, several researchers looked at the satellite data,
+
+73
+00:04:44,000 --> 00:04:48,000
+which measures something called the TSI, total solar irradiance.
+
+74
+00:04:48,000 --> 00:04:50,000
+But there's a problem.
+
+75
+00:04:50,000 --> 00:04:54,000
+The main satellite series they depend on for their data is called ACRIM.
+
+76
+00:04:54,000 --> 00:04:59,000
+The first ACRIM satellite, ACRIM-1, was in orbit from 1980 to 1989,
+
+77
+00:04:59,000 --> 00:05:02,000
+when it was due to be replaced by ACRIM-2.
+
+78
+00:05:02,000 --> 00:05:05,000
+But then the Challenger disaster happened,
+
+79
+00:05:05,000 --> 00:05:08,000
+and ACRIM-2 didn't get launched for another two years.
+
+80
+00:05:08,000 --> 00:05:10,000
+So there's a gap in the data.
+
+81
+00:05:10,000 --> 00:05:14,000
+And exactly where the gap occurs, there's an apparent jump in the TSI.
+
+82
+00:05:14,000 --> 00:05:19,000
+Richard Wilson of Columbia University, who helped devise the ACRIM equipment,
+
+83
+00:05:19,000 --> 00:05:22,000
+made up for the gap by looking at data from another satellite,
+
+84
+00:05:22,000 --> 00:05:24,000
+which confirmed the increase.
+
+85
+00:05:24,000 --> 00:05:31,000
+Wilson derived a small increase of total solar irradiance of 0.05% per decade.
+
+86
+00:05:31,000 --> 00:05:34,000
+But Judith Lean of the Naval Research Laboratory in Washington,
+
+87
+00:05:34,000 --> 00:05:39,000
+using data from another satellite, found no increase in solar output,
+
+88
+00:05:39,000 --> 00:05:45,000
+and other researchers confirmed that with measurements of ultraviolet radiation and sunspot counts.
+
+89
+00:05:45,000 --> 00:05:51,000
+A third satellite even showed a decrease in TSI during what's become known as the ACRIM gap.
+
+90
+00:05:51,000 --> 00:05:57,000
+But most climatologists say even if the ACRIM increase is real, it's too small to be significant,
+
+91
+00:05:57,000 --> 00:06:02,000
+about the same order of variation we get in a typical 11-year solar cycle.
+
+92
+00:06:02,000 --> 00:06:08,000
+This was also the conclusion of a review in the magazine Nature, which looked at all the varying data.
+
+93
+00:06:08,000 --> 00:06:12,000
+The bottom line on solar forcing is that a lot of studies have been done,
+
+94
+00:06:12,000 --> 00:06:15,000
+and this is far from an issue that's being ignored.
+
+95
+00:06:15,000 --> 00:06:19,000
+Output from the sun is an important factor driving the Earth's climate.
+
+96
+00:06:19,000 --> 00:06:23,000
+But climate scientists say that although there have been fluctuations,
+
+97
+00:06:23,000 --> 00:06:28,000
+there's been no significant increase in solar output over the last 40 years.
+
+98
+00:06:28,000 --> 00:06:33,000
+Solar forcing simply doesn't explain the recent dramatic rise in global temperatures.
+
+99
+00:06:33,000 --> 00:06:39,000
+So what about the other objection to anthropogenic climate change focusing on cloud formation?
+
+100
+00:06:39,000 --> 00:06:42,000
+This can be divided into two basic hypotheses.
+
+101
+00:06:42,000 --> 00:06:45,000
+The first suggests that cosmic rays seed clouds.
+
+102
+00:06:46,000 --> 00:06:51,000
+When solar activity increases, particles from the sun keep these cosmic rays away from the Earth,
+
+103
+00:06:51,000 --> 00:06:53,000
+and that reduces cloud cover.
+
+104
+00:06:53,000 --> 00:06:57,000
+With less cloud to reflect sunlight, the Earth warms up.
+
+105
+00:06:57,000 --> 00:07:02,000
+The idea was proposed in 1997 by Fris Christiansen and Henrik Svensmark.
+
+106
+00:07:02,000 --> 00:07:05,000
+They backed up their hypothesis with satellite data,
+
+107
+00:07:05,000 --> 00:07:08,000
+showing a correlation between low-atmosphere cloud cover
+
+108
+00:07:08,000 --> 00:07:14,000
+and the intensity of cosmic rays arriving at the Earth between 1980 and 1995.
+
+109
+00:07:15,000 --> 00:07:20,000
+It's an interesting idea, and one that's been seriously looked at by a number of climate scientists,
+
+110
+00:07:20,000 --> 00:07:22,000
+but only a few supported.
+
+111
+00:07:22,000 --> 00:07:25,000
+The most obvious problem is that the hypothesis once again
+
+112
+00:07:25,000 --> 00:07:29,000
+hinges on increased solar output over the last 40 years,
+
+113
+00:07:29,000 --> 00:07:32,000
+and climate scientists say that hasn't been happening.
+
+114
+00:07:32,000 --> 00:07:35,000
+If that's the case, why the apparent correlation?
+
+115
+00:07:35,000 --> 00:07:39,000
+Two researchers writing in the journal Astronomy and Geophysics
+
+116
+00:07:39,000 --> 00:07:45,000
+studied this further and discovered that the correlation in fact breaks down after 1991.
+
+117
+00:07:45,000 --> 00:07:49,000
+And any correlation that does exist may be difficult to pin down
+
+118
+00:07:49,000 --> 00:07:52,000
+because of the age-old problem of cause and effect.
+
+119
+00:07:52,000 --> 00:07:55,000
+The second idea on cloud cover comes from Richard Linson
+
+120
+00:07:55,000 --> 00:07:58,000
+of the Department of Meteorology at MIT.
+
+121
+00:07:58,000 --> 00:08:03,000
+He postulates that warmer tropical oceans result in fewer high-altitude cirrus clouds.
+
+122
+00:08:03,000 --> 00:08:09,000
+Fewer clouds mean more infrared radiation can escape into space, cooling the Earth down.
+
+123
+00:08:09,000 --> 00:08:12,000
+In other words, the Earth has a self-regulating mechanism.
+
+124
+00:08:12,000 --> 00:08:16,000
+Linson calls this the Infrared Iris Hypothesis.
+
+125
+00:08:16,000 --> 00:08:19,000
+Before I look at this, let me clear something up.
+
+126
+00:08:19,000 --> 00:08:24,000
+Linson says fewer clouds cool the Earth down because clouds trap heat.
+
+127
+00:08:24,000 --> 00:08:28,000
+Fritz Christensen and Svensmarck argue that fewer clouds warm the Earth up
+
+128
+00:08:28,000 --> 00:08:30,000
+because clouds reflect sunlight.
+
+129
+00:08:30,000 --> 00:08:33,000
+Well, this whole area is a bit tricky. Clouds do both.
+
+130
+00:08:33,000 --> 00:08:39,000
+When planes were grounded across the United States following the 9-11 attacks in 2001,
+
+131
+00:08:39,000 --> 00:08:43,000
+American skies were suddenly clear of contrails for three days.
+
+132
+00:08:43,000 --> 00:08:49,000
+Contrails form high-altitude clouds, so this was a unique opportunity to study their effect.
+
+133
+00:08:49,000 --> 00:08:52,000
+Scientists from the University of Wisconsin and Penn State
+
+134
+00:08:52,000 --> 00:08:56,000
+analyzed temperatures for the three days before and after 9-11.
+
+135
+00:08:56,000 --> 00:09:00,000
+They found that daytime temperatures rose by a little less than one degree
+
+136
+00:09:00,000 --> 00:09:04,000
+thanks to the disappearance of the contrails that no longer block the sun.
+
+137
+00:09:04,000 --> 00:09:07,000
+But nighttime temperatures fell by an equal amount
+
+138
+00:09:07,000 --> 00:09:11,000
+because the contrail cloud cover was no longer there to act as a blanket,
+
+139
+00:09:11,000 --> 00:09:14,000
+preventing the escape of infrared radiation into space.
+
+140
+00:09:14,000 --> 00:09:18,000
+Bing Lin, an atmospheric research scientist at NASA,
+
+141
+00:09:18,000 --> 00:09:21,000
+found that instead of cooling the Earth, as Linson had predicted,
+
+142
+00:09:22,000 --> 00:09:26,000
+the effect of fewer cirrus clouds in the tropics is to very slightly warm it.
+
+143
+00:09:26,000 --> 00:09:30,000
+Lin also couldn't replicate Linson's results on increased cirrus cloud formation
+
+144
+00:09:30,000 --> 00:09:32,000
+and he soon found out why.
+
+145
+00:09:32,000 --> 00:09:35,000
+Linson had chosen to base his model around Indonesia,
+
+146
+00:09:35,000 --> 00:09:38,000
+which has the warmest pool of water on the planet,
+
+147
+00:09:38,000 --> 00:09:41,000
+so it's not typical of the tropics.
+
+148
+00:09:41,000 --> 00:09:43,000
+Lin found that over the tropics as a whole,
+
+149
+00:09:43,000 --> 00:09:46,000
+the increase in cirrus cloud cover from warmer temperatures
+
+150
+00:09:46,000 --> 00:09:49,000
+is much less than Linson had predicted.
+
+151
+00:09:49,000 --> 00:09:52,000
+There are other factors affecting the Earth's climate,
+
+152
+00:09:52,000 --> 00:09:54,000
+most notably volcanic eruptions,
+
+153
+00:09:54,000 --> 00:09:57,000
+but climate scientists agree that this isn't a significant factor
+
+154
+00:09:57,000 --> 00:10:00,000
+in the current period of global warming.
+
+155
+00:10:00,000 --> 00:10:03,000
+This and the previous video covered the science of global warming
+
+156
+00:10:03,000 --> 00:10:06,000
+and the scientific debate among experts.
+
+157
+00:10:06,000 --> 00:10:10,000
+In the next video we'll descend into something far easier to unravel,
+
+158
+00:10:10,000 --> 00:10:14,000
+the urban myth swamp, as we try to sort out fact from fiction
+
+159
+00:10:14,000 --> 00:10:17,000
+and track misinformation back to its source.
+

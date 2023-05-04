@@ -1,0 +1,224 @@
+How much CO2 is up there anyway?
+Alright, so you know it's 0.03%
+and of that, 4% of that is due to man.
+Hang on, only 4% of the CO2 in the atmosphere is due to man?
+Then what are we worrying about?
+Even if we halve the amount of CO2 we produce,
+it would barely make any difference if 96% is produced by nature.
+Of course that depends on Piers Corbin being correct.
+Do we have any confirmation of that?
+Yes, sort of.
+Human activity is maybe 3% contributing to the 3% of carbon dioxide
+that's in Earth's atmosphere.
+It's so negligible, it's a fraction of a fraction of a fraction of a percent.
+OK, not 4% but 3% either way.
+When I did my video on Steven Crowder last month,
+this is the claim I actually wanted to take apart.
+It's on his blog.
+Most of the rise in CO2 is coming from natural sources.
+But for some reason it didn't make it from Crowder's blog to his video.
+What's his source?
+It turns out there's only one and of course it's a blog by someone called Ed Carroll.
+Before we try to verify what Carroll is claiming, here's some background.
+Carbon dioxide concentration in the atmosphere has been pretty steady for over 2000 years.
+And about the time the Industrial Revolution started, when we began burning coal, it started to rise.
+And when we started burning oil, it rose more and more again as the whole world industrialised.
+In fact, CO2 has been rising pretty consistently with our increased production of CO2.
+Carroll argues that the extra carbon dioxide is not coming from burning coal and oil.
+It's being degassed from the ocean.
+Sea surface temperature seems to be driving atmospheric CO2 changes.
+This makes sense because CO2's solubility in seawater is temperature dependent.
+His argument is that the sun causes warming and this has caused the oceans to warm.
+And as we know from basic physics, carbon dioxide is more soluble in colder water,
+so as the oceans warm, they release carbon dioxide.
+So he says this explains why the oceans are warming and it explains why there's been an increase in carbon dioxide.
+Sounds convincing. So what is it Carroll is concealing?
+Well, one thing is that solar output hasn't been increasing over the last 50 years.
+It's been getting weaker. So something else must be causing the oceans to warm.
+Secondly, the oceans haven't been degassing carbon dioxide. They've been absorbing it.
+So the two pillars on which Carroll's model is based are simply wrong.
+But this article by Ed Carroll isn't the source of all the claims on the internet
+about anthropogenic sources being 3% or 4% of carbon dioxide in our atmosphere.
+I did a Google search going back 10 years and the myth goes back much further than Carroll's article.
+A lot of them trace back to this 2007 blog by Monty Heeb, which went viral in 2008.
+The blogger is a former West Virginia office of miners safety engineer.
+He wrote, human activities contribute slightly to greenhouse gas concentrations
+but they're dwarfed in comparison to emissions from natural sources.
+Heeb claims anthropogenic CO2 is just 3.225% of total CO2
+and he worked this out from his own table.
+The anthropogenic component, 11,880ppb, divided by the total CO2 concentration in the atmosphere, 368,400ppb.
+But where do these figures come from?
+First of all, Heeb's figure for natural additions is rather odd.
+If nature is responsible for increasing CO2 concentration by 68,520ppb over the last 200 years,
+after remaining in balance for over 2,000 years, then where did all this extra CO2 suddenly come from?
+After all, that represents over half a billion tonnes of carbon dioxide suddenly erupting from the oceans and the biosphere,
+equivalent to about 50,000 Mount St Helens-sized volcanoes, 25,000 of them popping off in the last 40 years.
+And if most of the increase is due to some mysterious natural cause,
+then where did all the CO2 from 200 years of fossil fuel burning go?
+Did nature decide to hide all of our CO2 and substitute it with CO2 from some mysterious source?
+But the clincher is isotopic evidence that the extra carbon has come from the burning of fossil fuels.
+Very little of the carbon in coal and oil contains the isotope carbon-13,
+whereas the carbon in volcanoes and oceans comprises about 1% carbon-13.
+So if the extra CO2 is coming from the burning of fossil fuels, rather than volcanoes and ocean degasification,
+then researchers ought to see the proportion of C-13 go down.
+And they do.
+So Heeb's claim is looking distinctly dodgy from the start, but let's check his sources to be sure.
+He says the figure for natural additions comes from the Department of Energy, October 2000.
+But I can't find any such estimate from the DOE for that year or any other year.
+What the Department of Energy does say is exactly what other researchers say,
+that there are no net natural additions to the atmosphere.
+All the carbon that nature puts into the atmosphere gets absorbed back again.
+As for the 11,880 parts per billion figure, Heeb says that comes from a 1997 blog by Tom Segelstad.
+But I've checked, and the blog doesn't give any such figure, or an equivalent like 11.88 parts per million.
+What I think Heeb's done is confuse accumulated carbon in the atmosphere with carbon flux,
+because his figure of 3.22% for the anthropogenic component is very close to the 4%
+that the DOE estimates is the anthropogenic component of carbon flux.
+So bear with me while I explain this, because in a minute we'll see other bloggers make exactly the same mistake.
+Every year around 220 billion tonnes of carbon is released into the atmosphere
+from natural sources like ocean de-gasification, rotting vegetation, soil degradation, volcanic eruptions, and so on.
+That's been going on for over 2000 years, and now humans are adding over 9 billion tonnes a year
+by digging up and burning stuff that was underground, around 4% of the total.
+By the way, I'm talking carbon here. The weight for carbon dioxide is obviously more.
+So in a literal sense the bloggers would seem to have it right.
+Anthropogenic sources hardly make any difference.
+So what gives?
+Well, once again the answer isn't rocket science.
+While rotting vegetation releases carbon, living vegetation grows and takes it back.
+While some CO2 is de-gassed from the oceans, even more CO2 is being dissolved in the oceans, as I explained earlier.
+Although carbon is being released by soils, carbon is also being absorbed by soils.
+And we're lucky enough that volcanic venting of CO2 is roughly balanced by CO2 taken out of the atmosphere through chemical weathering.
+So it's a two-way street.
+OK, it's not an exact equation, but it's been pretty much in balance for over 2000 years,
+and that's what's kept CO2 levels in the atmosphere stable.
+So when a whole load of extra CO2 is introduced into the mix, nature can't absorb it all
+and the system is thrown out of balance.
+Around half of the carbon we release is absorbed by the oceans in the biosphere, and half accumulates in the atmosphere.
+So over the last 200 years, it's caused CO2 concentration to go from around 270 ppm to over 400 ppm.
+As I say, I suspect this is what he's done, because his 3.22% is very close to the 4% of anthropogenic carbon added to the carbon flux.
+And the difference could be that he's using older figures.
+Whatever the case, his citation of Department of Energy data is wrong, because the Department of Energy gives completely different figures,
+and his citing of another blog doesn't bear out.
+So that's the end of that particular trail.
+Then there was another flurry of activity six years later, when bloggers and posters claimed the anthropogenic component is 3.75%.
+New paper finds only about 3.75% of atmospheric CO2 is man-made from burning of fossil fuels.
+Only 3.75% of atmospheric CO2 comes from humans.
+New paper finds only about 3.75% of atmospheric CO2 is man-made from burning of fossil fuels.
+EPA document supports about 3% of atmospheric carbon dioxide.
+New paper finds only about 3.75% of atmospheric carbon dioxide.
+They claim their source is this paper, published in the Journal of Atmospheric Chemistry and Physics.
+But as we'll see in a minute, the paper made no such conclusion.
+So how did so many people make exactly the same mistake?
+Was the paper ambiguous? Badly worded?
+No, it turns out they didn't read the paper.
+As so often happens, they read a blog that told them that the paper made this claim, and they didn't bother to verify it.
+If you click on this link, for example, it doesn't take you to the paper being quoted.
+It takes you to a blog called The Hockey Stik, run by someone called Tom Nelson.
+And whatever route you take, direct or indirect, all the claims lead back to Nelson's blog.
+He seems to be the only one to have read the paper, or at least a part of it, and he completely misunderstood what it was saying.
+The authors examine how radiation from nuclear power plants in Europe can affect the ratio of carbon isotopes in the atmosphere.
+Nelson read in the abstract that fossil fuel CO2 in the lower 1200m of the atmosphere are close to 15ppm.
+And without bothering to read or understand the rest of the paper, he immediately worked out that 15ppm out of a total CO2 concentration of around 400ppm equals 3.75%.
+So that became his headline.
+Before I go on, here's a piece of advice Tom.
+If nearly every scientific study concludes that about a third of CO2 in the atmosphere is anthropogenic,
+and a group of researchers discovers that the actual figure is one-eighth of that,
+they wouldn't mention it in passing in a paper titled
+Simulating the Integrated Summertime CO2 Signature from Anthropogenic Emissions over Western Europe.
+That's what's known in my business as burying the lead.
+They'd shout it out loud in a paper titled
+Anthropogenic CO2 Comprises Only 3.75% of Atmospheric CO2 and Hope for a Nobel Prize.
+So that should have been your first clue that perhaps the paper doesn't say what you think it says.
+So where did Nelson go wrong?
+Well, it's not hard to figure out.
+The 15ppm figure he seized on wasn't referring to accumulated CO2 content.
+Once again, it was referring to carbon dioxide flux, which I explained earlier.
+This concept seems so hard for bloggers to grasp that I'll try to explain it with an analogy.
+Think of the carbon cycle as water circulating in an open tank with a plate across the middle.
+The tank holds 1000 litres, 500 in the top chamber and 500 in the bottom.
+And every day 100 litres of water is pumped into the upper chamber at one end,
+and at the same time 100 litres a day descends into the lower chamber through a valve.
+What happens to the level of water?
+Nothing. It stays pretty much the same.
+This is our carbon cycle.
+Now let's introduce some extra water into the upper chamber, which is our atmosphere, from a completely new source.
+Every day we'll add 2 litres of water, representing the 2% of anthropogenic carbon that isn't taken up by the carbon sink.
+And what happens?
+The level of the water goes up.
+The amount being added isn't much.
+It's only 2% of our total flux, after all.
+But it accumulates, and after 100 days there's an extra 200 litres in the tank.
+That represents two fifths of all the water in our upper tank, the atmosphere.
+So we now have two figures representing the water we've introduced.
+One figure is 2%, comparing our newly introduced water to the amount of water in circulation.
+The other is 40%, comparing the amount of this newly introduced water to the total amount of water in the upper tank.
+At the risk of labouring the point, our bloggers have confused these two figures.
+I hope the science is clear, but I'm sure a lot of people will still prefer to believe the hockey stick.
+So here's the twist.
+The authors of the ACP paper learned how their study was being misinterpreted around the internet,
+and they also traced the myth back to the hockey stick.
+They contacted Tom Nelson and told him he'd got it wrong.
+Researchers have occasionally done that in the past with little effect,
+but in this case, to his credit, Tom Nelson understood and issued a retraction.
+Unfortunately, the bloggers who copied from the hockey stick were less forthcoming.
+Jonathan Duhamel, who runs the Rye Heat blog, picked up on the hockey stick's retraction,
+but claimed Nelson had taken the site down because of pressure from the paper's authors.
+Even where he hints that this was in fact due to an error by Nelson,
+he blames the authors for not saying what they mean.
+And then Duhamel announces that Nelson didn't get it wrong after all.
+The contention made by hockey stick seems to be supported by old table
+from the Energy Information Administration, which shows the same thing.
+Only about 3% of atmospheric carbon dioxide is attributable to human sources.
+Look at the table and do the arithmetic.
+23,100 divided by 793,100 equals 0.029.
+Well, the math is right, but once again in the caption it explains that this is carbon dioxide flux.
+This is exactly the same mistake that Nelson made earlier in the hockey stick,
+and that Duhamel copied, mistaking CO2 flux for accumulated CO2.
+And blow-me-down, the lead author of the misquoted paper,
+Denika Boshinova, again had to intervene to explain the mistake.
+In reply, she was given a fact by Duhamel that only 3% of CO2 in the atmosphere is due to humans.
+This should be interesting.
+Boshinova tried to explain.
+Duhamel said, I don't understand your comment.
+What else but gross fluxes is worth looking at?
+There follows a long series of remedial lessons in basic climatology, which Duhamel finally begins to grasp.
+Then he suggests doing something he should have done on day one.
+I would be interested in reading the whole paper. No kidding.
+Then this.
+Many of us do not have access to the full paper, only the abstract.
+Studies funded by public money should be available to the interested public for free.
+Nice try, but in fact this paper is available for free. It's in an open access journal.
+Duhamel could have got his free copy as soon as he saw it being quoted by the hockey stick, just like I did.
+Then Duhamel complains that scientific papers are full of jargon that's hard to understand.
+Well John, then perhaps you shouldn't be running a blog telling people the science is wrong based on a paper you didn't read
+and which you thought is full of hard to understand jargon.
+Because the problem is, a lot of people assume that bloggers know what they're talking about
+and blindly copy and paste what you've written without bothering to check it.
+Case in point, what's up with that?
+And when it was all shown to be rubbish, Anthony Watts, who runs the blog,
+made the excuse that, since the original author had worked for the Tucson Citizen, that's Jonathan Duhamel,
+I made the mistake of assuming it was properly vetted.
+Well, of course, as we all know, bloggers who copy other bloggers are well known for having all their claims properly vetted.
+But let's face it, if the authors of the ACP paper hadn't contacted Tom Nelson,
+and if he hadn't issued a retraction, Watts would still be under the impression that the right-heat blog was properly vetted,
+and it would still be on the what's up with that blog.
+Actually, it is. The only clue that the whole thing is bunkum is a small note here saying it has an error.
+One error?
+And you have to scroll down to the update to find out that the error is the entire thing.
+Maybe, or maybe not.
+According to this letter from Duhamel, which is also printed in the update, it could be censorship,
+or duplicitous scientists going back on what they wrote in the paper.
+Says the man who couldn't understand the paper.
+Anthony, why not do what Tom Nelson did and cross out the bits of Duhamel's story that were wrong,
+so that people can still see what was originally written, but they'll understand it was all nonsense.
+They won't do what this guy did and copy your what's up with that page a year later without any indication that the whole thing is baloney.
+I've been warning about the danger of relying on these bloggers for years,
+but thanks to the recent presidential election, this warning has finally gone mainstream.
+We've seen fake news stories about the two candidates, and the phrase post-truth applied to the world of social media.
+But it's not just phony sites that are disseminating fake news, it's far more widespread than that.
+A blogger makes a mistake, whether intentionally or through sloppy research, or just plain ignorance,
+his blog is copied by another blogger and copied by another blogger until millions of people believe it.
+This is fake news being passed around by people who can't be bothered to check it.
+So you can't trust the people who generate this fake news to get it right or to correct it.
+It's up to us to do that, by checking where these stories come from when they land on Twitter or Facebook.
+And it's not always from Macedonia.
+For more information, visit www.aclu.org

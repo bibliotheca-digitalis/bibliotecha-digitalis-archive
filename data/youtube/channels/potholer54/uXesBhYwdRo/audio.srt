@@ -1,0 +1,424 @@
+1
+00:00:00,000 --> 00:00:03,440
+In my last video I looked at a couple of emails that have been held up as
+
+2
+00:00:03,440 --> 00:00:09,520
+Exhibit A for fudging climate data, and as we saw it's not quite as simple as that.
+
+3
+00:00:09,520 --> 00:00:13,600
+This goes for the other area I said I'd be happy to look at, which is the contention
+
+4
+00:00:13,600 --> 00:00:18,640
+that the emailers were trying to stifle scientific debate and block alternative ideas.
+
+5
+00:00:19,440 --> 00:00:23,600
+First, let me clear up any misunderstanding about how these papers get published
+
+6
+00:00:23,600 --> 00:00:29,200
+and especially the process of peer review. It's a system that's been around for over 200 years,
+
+7
+00:00:29,280 --> 00:00:32,960
+and its purpose is to keep bad research out of the scientific literature.
+
+8
+00:00:33,680 --> 00:00:38,880
+Referees look through submitted papers for obvious mistakes and flaws in methodology,
+
+9
+00:00:38,880 --> 00:00:44,400
+and advise the editor of the journal accordingly. Papers are excluded if the mistakes and flaws are
+
+10
+00:00:44,400 --> 00:00:50,480
+very obvious. A paper should not be excluded simply because a referee or an editor disagrees
+
+11
+00:00:50,480 --> 00:00:56,320
+with its contents or its conclusions. The question is, did the emailers want to keep papers from
+
+12
+00:00:56,320 --> 00:01:01,120
+being published because they disagreed with them, or because the papers were full of basic errors?
+
+13
+00:01:01,840 --> 00:01:06,960
+The assumption among conspiracy theorists is the former. The rationale the emailers themselves
+
+14
+00:01:06,960 --> 00:01:12,240
+give is that the research is crap, and we even see them rebutting privately and publicly what
+
+15
+00:01:12,240 --> 00:01:16,400
+they deem to be crap coming from their own colleagues who support climate change.
+
+16
+00:01:17,200 --> 00:01:22,000
+I couldn't find one comment about wanting to keep a paper out because it highlights flaws
+
+17
+00:01:22,000 --> 00:01:26,640
+in the climate change model. Of course the emailers could be lying, but if they're part
+
+18
+00:01:26,640 --> 00:01:32,400
+of a conspiracy and communicating privately, why would they lie to each other? Here's an email
+
+19
+00:01:32,400 --> 00:01:37,680
+that's been held up in the media and on skeptic blogs as a prime example. I didn't cherry pick
+
+20
+00:01:37,680 --> 00:01:42,800
+this, it's been cherry picked by hundreds of blogs and media commentators out of a thousand emails
+
+21
+00:01:42,800 --> 00:01:48,080
+that had already been cherry picked. So if you think I shouldn't be talking about it, blame them,
+
+22
+00:01:48,080 --> 00:01:53,200
+not me. It refers to boycotting the journal Climate Research, following the publication
+
+23
+00:01:53,200 --> 00:02:00,000
+of a 2003 paper by climate skeptics Willie Soon and Sally Baliunas. At first sight it seems like
+
+24
+00:02:00,000 --> 00:02:04,880
+a very clumsy attempt at censoring a paper that didn't conform to the consensus model.
+
+25
+00:02:05,440 --> 00:02:11,120
+But let's look at some of the background. Their work wasn't original research, it was a review of
+
+26
+00:02:11,120 --> 00:02:17,200
+around 240 previously published studies. They looked at climate proxy records such as tree
+
+27
+00:02:17,200 --> 00:02:22,240
+rings, lake sediments and ice cores over the last thousand years and concluded that overall
+
+28
+00:02:22,240 --> 00:02:27,600
+the 20th century doesn't contain the warmest anomaly of the past millennium. The problem
+
+29
+00:02:27,600 --> 00:02:32,800
+with the paper wasn't that it contained mistakes and the methodology was flawed. A lot of papers
+
+30
+00:02:32,800 --> 00:02:38,000
+get published and then mistakes and flaws are found afterwards. The problem was that the mistakes
+
+31
+00:02:38,000 --> 00:02:43,680
+were so obvious and the methodology so clearly flawed, climatologists say the paper should never
+
+32
+00:02:43,680 --> 00:02:48,480
+have been published in the first place. Even authors of the papers being cited as source
+
+33
+00:02:48,480 --> 00:02:54,000
+material objected to the way their work was misinterpreted. One problem may have been that
+
+34
+00:02:54,000 --> 00:02:59,840
+Soon and Baliunas, who were astrophysicists, were looking at things like tree ring data with little
+
+35
+00:02:59,840 --> 00:03:05,360
+knowledge or expertise in that field. A number of climatologists later critiqued the study.
+
+36
+00:03:05,360 --> 00:03:10,160
+They found that Soon and Baliunas had confused tree ring growth due to warmth with tree ring
+
+37
+00:03:10,160 --> 00:03:14,720
+growth due to rainfall. They had compared historical proxies with average temperatures
+
+38
+00:03:14,720 --> 00:03:19,760
+for the 20th century as a whole, instead of the late 20th century, which is the period of
+
+39
+00:03:19,760 --> 00:03:24,960
+anomalous warming. They had assumed that local variations in temperature could be interpreted
+
+40
+00:03:24,960 --> 00:03:29,920
+as global variations. If this had been an undergraduate paper, it would have been returned
+
+41
+00:03:29,920 --> 00:03:36,160
+with an F. Soon and Baliunas' paper was so bad that half the editorial board of the journal
+
+42
+00:03:36,160 --> 00:03:41,280
+Climate Research resigned after one of the editors was refused permission to publish an
+
+43
+00:03:41,280 --> 00:03:47,040
+editorial pointing out the mistakes. This is some of the background and context that's missing,
+
+44
+00:03:47,040 --> 00:03:50,960
+from the line that Phil Jones and his colleagues were threatening to boycott the journal
+
+45
+00:03:50,960 --> 00:03:56,880
+because they wanted to stifle alternative views. Scientific journals aren't like books or news
+
+46
+00:03:56,880 --> 00:04:02,160
+magazines. Their purpose isn't to give unsubstantiated opinions or stir up controversy
+
+47
+00:04:02,160 --> 00:04:07,280
+or spark debate. They're supposed to document observations and give conclusions that are
+
+48
+00:04:07,280 --> 00:04:12,480
+consistent with those observations. Once a paper is published, it can be legitimately used to
+
+49
+00:04:12,480 --> 00:04:18,080
+support future papers. It's impossible to keep all flawed research out of the scientific literature
+
+50
+00:04:18,080 --> 00:04:23,280
+because, as I said, sometimes the flaws aren't found until after publications. But if the
+
+51
+00:04:23,280 --> 00:04:28,000
+mistakes are blindingly obvious, then there's absolutely no excuse for publishing them.
+
+52
+00:04:28,720 --> 00:04:33,840
+What concerned me when I saw these emails wasn't that the email is objected to crappy papers being
+
+53
+00:04:33,840 --> 00:04:38,480
+published in reputable journals. I expect scientists in any field would be similarly
+
+54
+00:04:38,480 --> 00:04:43,440
+opposed. What concerned me was that they might also be trying to keep out well-written
+
+55
+00:04:43,440 --> 00:04:47,200
+scientific papers simply because they didn't conform to the consensus.
+
+56
+00:04:47,840 --> 00:04:51,920
+If you've watched my climate change series from the beginning, you'll know my position.
+
+57
+00:04:52,480 --> 00:04:56,720
+I'm very much in favour of publishing well-researched studies that challenge the
+
+58
+00:04:56,720 --> 00:05:01,680
+climate change model. Challengers force scientists to test their evidence and oblige
+
+59
+00:05:01,680 --> 00:05:06,480
+them to look at alternative explanations. So throughout my climate change series,
+
+60
+00:05:06,480 --> 00:05:11,120
+I've highlighted alternative models that have been proposed by thoughtful researchers like
+
+61
+00:05:11,120 --> 00:05:17,040
+Egel Fries Christensen and Nia Shaviv. But while problems have been found with these models,
+
+62
+00:05:17,040 --> 00:05:22,560
+they certainly don't fall under the category of grade F papers. As far as I know, no one has
+
+63
+00:05:22,560 --> 00:05:28,400
+bothered to check whether these better quality papers have been similarly opposed. It's not hard.
+
+64
+00:05:28,400 --> 00:05:33,840
+I simply word-searched Christi, Weser, Shaviv, Lindsen, Svensmark and Fries Christensen,
+
+65
+00:05:33,840 --> 00:05:37,680
+sceptics who know their stuff and who've written important papers challenging
+
+66
+00:05:37,680 --> 00:05:42,720
+anthropogenic climate change. Given the importance and influence of their research,
+
+67
+00:05:42,720 --> 00:05:47,120
+you would have thought they'd be talked about endlessly in these emails over the last 13 years.
+
+68
+00:05:47,840 --> 00:05:52,880
+And if this is a conspiracy, then a lot of that talk would surely be about blocking their papers
+
+69
+00:05:52,880 --> 00:05:58,720
+from the scientific literature. But I found only one polite reference to Svensmark and no
+
+70
+00:05:58,720 --> 00:06:04,400
+references at all to Weser, Shaviv and Fries Christensen. No doubt they were talked about,
+
+71
+00:06:04,400 --> 00:06:09,280
+but the talk didn't make it into the list of 1000 emails guiding us towards a conspiracy.
+
+72
+00:06:09,840 --> 00:06:14,640
+John Christi was mentioned many times because he was in regular correspondence with the Climatic
+
+73
+00:06:14,640 --> 00:06:20,720
+Research Unit. Richard Lindsen's papers came in for a lot of criticism, including a point-by-point
+
+74
+00:06:20,720 --> 00:06:26,560
+scientific rebuttal by Kevin Trenberth. But there was no talk of trying to block his papers.
+
+75
+00:06:26,560 --> 00:06:32,160
+The closest I got was this email from Phil Jones, which refers to passages by Lindsen in a US
+
+76
+00:06:32,160 --> 00:06:38,080
+climate change science programme study. In 13 years of emails, I couldn't find any talk of
+
+77
+00:06:38,080 --> 00:06:44,240
+blocking any papers written by any of these prominent sceptics. So let me repeat what I
+
+78
+00:06:44,240 --> 00:06:48,880
+said in the first video. This doesn't mean there was no skullduggery. It doesn't mean there was
+
+79
+00:06:48,880 --> 00:06:54,720
+no rejection of papers on spurious grounds, no fudging of data. But simply reading out these
+
+80
+00:06:54,720 --> 00:07:00,240
+emails and yelling fraud tells us nothing. They all need to be properly investigated.
+
+81
+00:07:00,880 --> 00:07:05,280
+Finally, let me clear up a persistent misunderstanding about tree ring data.
+
+82
+00:07:05,280 --> 00:07:10,080
+We can measure global temperatures quite easily in the industrial era with thermometers and other
+
+83
+00:07:10,080 --> 00:07:16,400
+devices. But pre-record temperatures are measured by other means, things like tree rings, ice cores,
+
+84
+00:07:16,400 --> 00:07:22,320
+lake bed sediments and coral. But tree rings present a particular problem. Generally, they're
+
+85
+00:07:22,320 --> 00:07:28,000
+wider when it's warm and narrower when it's cool. Tree ring data fit reasonably well with all the
+
+86
+00:07:28,000 --> 00:07:34,000
+other proxy temperature data. But about 50 years ago, temperatures indicated by tree ring data
+
+87
+00:07:34,000 --> 00:07:38,080
+in some trees began to diverge from temperatures recorded by thermometers.
+
+88
+00:07:38,640 --> 00:07:43,520
+While modern instruments show the earth has been warming over the last 50 years, the tree ring data
+
+89
+00:07:43,520 --> 00:07:49,200
+suggests it was cooling. Even sceptics don't doubt that the instruments are right and the tree ring
+
+90
+00:07:49,200 --> 00:07:55,360
+data are wrong. We know the earth's been warming and not cooling. Skeptics argue that the divergence
+
+91
+00:07:55,360 --> 00:08:01,520
+means tree rings can't be trusted as a proxy and shouldn't be used. Proponents argue that recent
+
+92
+00:08:01,520 --> 00:08:06,640
+tree ring growth has been influenced by post-war industrialisation and since it correlates well
+
+93
+00:08:06,640 --> 00:08:12,080
+prior to that, it should be used. So much fuss is made of this, you'd think it was a central
+
+94
+00:08:12,080 --> 00:08:17,600
+pillar of the theory of climate change. It isn't. The link between carbon dioxide and global
+
+95
+00:08:17,600 --> 00:08:22,720
+temperatures was established before Phil Jones and his colleagues were even born. And that won't
+
+96
+00:08:22,720 --> 00:08:28,320
+change however warm or widespread the medieval warm period happened to be. According to a study
+
+97
+00:08:28,320 --> 00:08:34,160
+in 2008, if tree ring proxies are included in a reconstruction, the last decade of the northern
+
+98
+00:08:34,160 --> 00:08:39,760
+hemisphere has been the warmest for 1700 years. If tree ring proxies aren't used, we're in the
+
+99
+00:08:39,760 --> 00:08:45,520
+warmest period for 1300 years. The link between carbon dioxide and the recent rise in global
+
+100
+00:08:45,520 --> 00:08:51,440
+temperatures isn't affected either way. An independent inquiry will now examine the emails
+
+101
+00:08:51,440 --> 00:08:55,680
+including serious allegations that some were destroyed while subject to a freedom of
+
+102
+00:08:55,680 --> 00:09:01,200
+information request. But conspiracy theorists shouldn't expect reality to match the hype of
+
+103
+00:09:01,200 --> 00:09:06,720
+talk radio. Even if you erased all the reconstructions, the link between carbon dioxide and
+
+104
+00:09:06,720 --> 00:09:12,000
+global temperature would be unaffected. And if you think a different shaped graph would undermine the
+
+105
+00:09:12,000 --> 00:09:18,000
+idea that the earth is doomed or the human race faces extinction, well it won't do that either.
+
+106
+00:09:18,000 --> 00:09:21,280
+Because none of this is in the scientific literature in the first place.
+

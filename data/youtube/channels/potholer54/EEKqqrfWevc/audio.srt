@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:10,000
+Previous videos showed how the earth's sedimentary rocks are like the pages of a book, taking
+
+2
+00:00:10,000 --> 00:00:11,840
+us back through time.
+
+3
+00:00:11,840 --> 00:00:16,480
+Nineteenth century geologists discovered that the lowest and oldest layers contained a small
+
+4
+00:00:16,480 --> 00:00:19,640
+variety of very primitive marine species.
+
+5
+00:00:19,640 --> 00:00:23,900
+Higher sedimentary layers held more varied and more complex creatures.
+
+6
+00:00:23,900 --> 00:00:28,280
+The progression suggested that these animals didn't appear suddenly but were gradually
+
+7
+00:00:28,280 --> 00:00:29,880
+evolving.
+
+8
+00:00:29,880 --> 00:00:32,320
+But there were sudden disappearances.
+
+9
+00:00:32,320 --> 00:00:38,840
+This layer of rock, for example, marks a catastrophic mass extinction about 250 million years ago.
+
+10
+00:00:38,840 --> 00:00:43,440
+The rocks below this line are full of marine fossils but in the rocks above they're all
+
+11
+00:00:43,440 --> 00:00:44,700
+gone.
+
+12
+00:00:44,700 --> 00:00:49,640
+There were five global mass extinctions we know of, each one wiping out between 50 and
+
+13
+00:00:49,640 --> 00:00:52,200
+95% of species.
+
+14
+00:00:52,200 --> 00:00:57,480
+Each was followed by the gradual recolonization of the earth by surviving organisms that again
+
+15
+00:00:57,480 --> 00:01:02,640
+began to change and become more complex until the next mass extinction.
+
+16
+00:01:02,640 --> 00:01:07,300
+If this increasing complexity really did mean some kind of evolution, we'd expect to see
+
+17
+00:01:07,300 --> 00:01:12,600
+it in individual species as we track their fossils through millions of years of sedimentary
+
+18
+00:01:12,600 --> 00:01:13,600
+rock.
+
+19
+00:01:13,600 --> 00:01:14,600
+And we do.
+
+20
+00:01:14,600 --> 00:01:18,840
+Either each species is suddenly being killed off, only to be replaced by the sudden appearance
+
+21
+00:01:18,840 --> 00:01:23,460
+of something that's almost identical, or we're seeing the changing morphology of a single
+
+22
+00:01:23,460 --> 00:01:25,520
+species through time.
+
+23
+00:01:25,520 --> 00:01:30,760
+We also expect to see traces of an animal's evolutionary ancestry in its morphology today,
+
+24
+00:01:30,760 --> 00:01:32,040
+and we do.
+
+25
+00:01:32,040 --> 00:01:34,520
+Take a look at this skeleton of an ape's hand.
+
+26
+00:01:34,520 --> 00:01:38,000
+It looks just like a human hand, except it's not.
+
+27
+00:01:38,000 --> 00:01:40,600
+In fact, it's not an ape's hand either.
+
+28
+00:01:40,600 --> 00:01:45,560
+It's a whale's hand, or at least what used to be a hand in its ancestral past and is
+
+29
+00:01:45,560 --> 00:01:47,480
+now used as a flipper.
+
+30
+00:01:47,480 --> 00:01:51,880
+The morphology of animals today is full of remnant body parts that have been changed
+
+31
+00:01:51,880 --> 00:01:55,360
+and adapted, just as evolution predicts.
+
+32
+00:01:55,360 --> 00:01:59,580
+In a video on natural selection, I showed how a hypothetical animal might evolve into
+
+33
+00:01:59,580 --> 00:02:01,420
+two different species.
+
+34
+00:02:01,420 --> 00:02:06,520
+At first the two types would be able to reproduce, then reproduce with difficulty, and then not
+
+35
+00:02:06,520 --> 00:02:08,360
+reproduce at all.
+
+36
+00:02:08,360 --> 00:02:13,300
+We can't watch it happening in mammals today because it takes several thousand generations,
+
+37
+00:02:13,300 --> 00:02:17,040
+but we can see snapshots of it frozen in time.
+
+38
+00:02:17,040 --> 00:02:21,300
+Modern horses, for example, separated from zebras several million years ago.
+
+39
+00:02:21,300 --> 00:02:27,080
+They can still reproduce, but with difficulty, because a horse's DNA has 64 chromosomes
+
+40
+00:02:27,080 --> 00:02:29,260
+and a zebra's 44.
+
+41
+00:02:29,260 --> 00:02:34,060
+When an offspring is produced, it's sterile, exactly what evolution would predict.
+
+42
+00:02:34,060 --> 00:02:40,100
+An even better example is found around mountains, where a species evolves as it spreads geographically.
+
+43
+00:02:40,100 --> 00:02:44,260
+Each species can interbreed with the one next to it, but the species at each end of the
+
+44
+00:02:44,260 --> 00:02:47,380
+line can't interbreed with each other.
+
+45
+00:02:47,380 --> 00:02:52,380
+With organisms with very fast reproduction rates, such as bacteria and flies, separation
+
+46
+00:02:52,380 --> 00:02:55,860
+into new species has indeed been seen.
+
+47
+00:02:55,860 --> 00:02:59,460
+This for example is a flavobacterium that eats nylon.
+
+48
+00:02:59,460 --> 00:03:04,100
+It was found in a waste outlet near a Japanese factory that produces the stuff.
+
+49
+00:03:04,100 --> 00:03:09,860
+The problem is nylon was only invented in 1935 and is completely synthetic and undigestible
+
+50
+00:03:09,860 --> 00:03:12,340
+to other bacteria.
+
+51
+00:03:12,340 --> 00:03:17,220
+Does this fit perfectly with evolution, and they evolve because of a mutation some time
+
+52
+00:03:17,220 --> 00:03:22,120
+between the invention of nylon and their discovery 40 years later?
+
+53
+00:03:22,120 --> 00:03:27,140
+The answer came when researchers kept a completely different bacterium in a similar nylon-rich
+
+54
+00:03:27,140 --> 00:03:30,500
+environment and the same mutation occurred.
+
+55
+00:03:30,500 --> 00:03:36,340
+DNA research has only added to the overwhelming evidence of evolution, but it's also completely
+
+56
+00:03:36,340 --> 00:03:41,360
+shaken up the evolutionary tree and shown in much greater detail which animals share
+
+57
+00:03:41,360 --> 00:03:45,420
+a common ancestor and when they separated.
+
+58
+00:03:45,420 --> 00:03:50,460
+Ancestors are now manipulating DNA to discover a treasure trove of evolutionary information.
+
+59
+00:03:50,460 --> 00:03:55,220
+It's long been known that ancestral traits buried deep inside DNA can get switched on
+
+60
+00:03:55,220 --> 00:04:00,600
+by accident with very obvious results, but they can also now be deliberately switched
+
+61
+00:04:00,600 --> 00:04:02,580
+on in research labs.
+
+62
+00:04:02,580 --> 00:04:07,280
+Chickens for example don't have teeth, but their distant ancestors did and the code for
+
+63
+00:04:07,280 --> 00:04:09,700
+it is still buried in their DNA.
+
+64
+00:04:09,700 --> 00:04:13,620
+Activate the right gene and you get a chicken with teeth.
+
+65
+00:04:13,620 --> 00:04:17,560
+One of the commonest misconceptions about evolution is that we never find a transitional
+
+66
+00:04:17,560 --> 00:04:20,560
+form between one species and another.
+
+67
+00:04:20,560 --> 00:04:25,180
+But the fossil record is full of animals changing from one kind into another.
+
+68
+00:04:25,180 --> 00:04:28,400
+It's one of the reasons we know evolution happened.
+
+69
+00:04:28,400 --> 00:04:32,940
+Every animal is a transition between what went before and what comes after.
+
+70
+00:04:32,940 --> 00:04:38,220
+If you think we haven't captured the instantaneous moment that one species turns into another,
+
+71
+00:04:38,220 --> 00:04:40,540
+that's because there isn't one.
+
+72
+00:04:40,540 --> 00:04:45,220
+It's like asking where's the intermediate form between this and this?
+
+73
+00:04:45,220 --> 00:04:49,580
+We know that this species existed at one time and is now gone and it seems to have been
+
+74
+00:04:49,580 --> 00:04:51,500
+replaced by this species.
+
+75
+00:04:51,500 --> 00:04:57,020
+We can scour the archives and dig up as many transitional photos of George Bush as we like,
+
+76
+00:04:57,020 --> 00:05:02,420
+but we're never going to find a single shot of Dubya changing from a baby into a man.
+
+77
+00:05:02,420 --> 00:05:06,500
+What we will find are the various transitional forms in between.
+
+78
+00:05:06,500 --> 00:05:10,900
+If you're talking about gaps in the record, sure, there are lots of them.
+
+79
+00:05:10,900 --> 00:05:15,260
+This is all I could find when I googled images from the life of George Bush, so of course
+
+80
+00:05:15,260 --> 00:05:16,640
+there are gaps.
+
+81
+00:05:16,640 --> 00:05:20,780
+If I went on a digging expedition I could probably find a hundred more, but even if
+
+82
+00:05:20,780 --> 00:05:25,840
+I had a thousand chronologically spaced photos of George Bush, there would still be gaps
+
+83
+00:05:25,840 --> 00:05:27,220
+in between.
+
+84
+00:05:27,220 --> 00:05:31,900
+As I mentioned in the last video, we now know that evolution, just like the growth of George
+
+85
+00:05:31,900 --> 00:05:34,460
+Bush, doesn't happen evenly.
+
+86
+00:05:34,460 --> 00:05:39,580
+The few years in between this photo and this one mark very few changes, but there's been
+
+87
+00:05:39,580 --> 00:05:44,180
+a huge change in the same period of time between this photo and this one.
+
+88
+00:05:44,180 --> 00:05:48,460
+But even when evolution happens quickly it's still not instantaneous.
+
+89
+00:05:48,460 --> 00:05:53,460
+For some animals we've got a very good fossil record and the time gaps between fossils are
+
+90
+00:05:53,460 --> 00:05:54,460
+small.
+
+91
+00:05:54,460 --> 00:05:56,180
+This shows evolution very clearly.
+
+92
+00:05:56,180 --> 00:06:00,580
+For other animals the gaps are longer and the record is far less complete.
+
+93
+00:06:00,580 --> 00:06:03,940
+Yes, I get that a lot.
+
+94
+00:06:03,940 --> 00:06:08,300
+A theory in scientific nomenclature is the highest form of proof you can get.
+
+95
+00:06:08,300 --> 00:06:11,660
+To go any higher you have to enter the realm of mathematics.
+
+96
+00:06:11,660 --> 00:06:16,260
+In all the sciences there's still a lot more to discover, a lot more to understand and
+
+97
+00:06:16,260 --> 00:06:21,260
+a lot more to explain, whether it's atomic theory, the theory of gravity or the theory
+
+98
+00:06:21,260 --> 00:06:22,660
+of evolution.
+
+99
+00:06:22,660 --> 00:06:27,260
+These are all called theories, so if you don't understand what a theory is in scientific
+
+100
+00:06:27,260 --> 00:06:30,560
+terms then they're what you would call facts.
+
+101
+00:06:30,560 --> 00:06:34,000
+And using common terminology evolution is a fact.
+
+102
+00:06:34,000 --> 00:06:39,280
+It's so much a fact that researchers now depend on evolutionary theory to study antibiotic
+
+103
+00:06:39,280 --> 00:06:44,840
+resistance and crop pests and new diseases and to develop new drugs.
+
+104
+00:06:44,840 --> 00:06:49,560
+Understanding evolution isn't just important for understanding our past, but our future.
+

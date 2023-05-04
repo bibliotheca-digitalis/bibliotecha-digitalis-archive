@@ -1,0 +1,2428 @@
+1
+00:00:00,000 --> 00:00:05,140
+Typically you quarantine the sick. When someone has measles you quarantine them.
+
+2
+00:00:05,140 --> 00:00:08,980
+We've never seen where we quarantine the healthy.
+
+3
+00:00:08,980 --> 00:00:16,180
+Actually we have. The word quarantine itself comes from the practice of locking down healthy people for 40 days.
+
+4
+00:00:16,180 --> 00:00:21,180
+Quarantena, in old Italian, when ships arrived in Venice from areas of plague.
+
+5
+00:00:21,180 --> 00:00:26,180
+In the 17th century the villagers of Iam in England, most of them healthy,
+
+6
+00:00:26,360 --> 00:00:31,360
+locked themselves down when a few of their number caught bubonic plague.
+
+7
+00:00:31,360 --> 00:00:38,360
+If you don't recognise this guy, he's Dan Erickson, one of two doctors who held a press conference back in April.
+
+8
+00:00:38,360 --> 00:00:42,360
+They work for Accelerated Urgent Care in Bakersfield, California.
+
+9
+00:00:42,360 --> 00:00:45,360
+They specialise in common ailments like these.
+
+10
+00:00:45,360 --> 00:00:53,360
+And the reason for the press conference was to voice concern that their business was suffering because of Covid-19 restrictions.
+
+11
+00:00:53,540 --> 00:01:00,540
+This has caused some severe disruption for Accelerated as we have people coming in seven in the morning till midnight
+
+12
+00:01:00,540 --> 00:01:08,540
+or reporting to the health department or calling patients back and at the same time our volumes have dropped significantly.
+
+13
+00:01:08,540 --> 00:01:13,540
+Now I'm not unsympathetic to opinions that lockdowns may be doing more harm than good.
+
+14
+00:01:13,540 --> 00:01:20,540
+After all these doctors, like so many people running a business, have seen a sharp decline in income because of lockdowns.
+
+15
+00:01:20,720 --> 00:01:23,720
+They also have an adverse effect on mental health.
+
+16
+00:01:23,720 --> 00:01:31,720
+They increase domestic violence, economic hardship, infringe on civil liberty, raise unemployment and lower GDP.
+
+17
+00:01:31,720 --> 00:01:35,720
+So I don't mind listening to arguments for and against.
+
+18
+00:01:35,720 --> 00:01:44,720
+But I do mind when people try to support their case by misrepresenting scientific facts and figures and presenting bogus information.
+
+19
+00:01:44,720 --> 00:01:47,720
+And that's what's happening here.
+
+20
+00:01:47,900 --> 00:01:53,900
+They claimed that lockdown isn't necessary because they calculated, wrongly as it turns out,
+
+21
+00:01:53,900 --> 00:02:01,900
+that the infection fatality rate of Covid-19 is only 0.03%, a third that of flu.
+
+22
+00:02:01,900 --> 00:02:04,900
+That claim, of course, went viral.
+
+23
+00:02:04,900 --> 00:02:09,900
+So let's go through their calculation and just buzz in when you spot the mistake.
+
+24
+00:02:10,080 --> 00:02:13,080
+So if we look at California, these numbers are from yesterday.
+
+25
+00:02:13,080 --> 00:02:21,080
+We have 33,865 Covid cases out of a total of 280,900 total tested.
+
+26
+00:02:21,080 --> 00:02:25,080
+That's 12% of Californians were positive for Covid.
+
+27
+00:02:25,080 --> 00:02:28,080
+Good use of the buzzer.
+
+28
+00:02:28,080 --> 00:02:29,080
+And you're right.
+
+29
+00:02:29,080 --> 00:02:32,080
+It's not 12% of Californians who were Covid positive.
+
+30
+00:02:32,080 --> 00:02:35,080
+It's 12% of the people who got tested.
+
+31
+00:02:35,260 --> 00:02:39,260
+And they obviously aren't representative of the population as a whole.
+
+32
+00:02:39,260 --> 00:02:46,260
+Because before mass testing came in, people got tested because they had symptoms or were exposed to the virus
+
+33
+00:02:46,260 --> 00:02:49,260
+or thought they might have been exposed to the virus.
+
+34
+00:02:49,260 --> 00:02:55,260
+So there's going to be a much higher percentage of positive cases among those tested during the early weeks of the pandemic
+
+35
+00:02:55,260 --> 00:02:58,260
+compared to the general population.
+
+36
+00:02:58,260 --> 00:03:02,260
+It's like doing a survey of a waiting room at a Texas hospital
+
+37
+00:03:02,440 --> 00:03:06,440
+and then discovering that a third of the people waiting are critically ill.
+
+38
+00:03:06,440 --> 00:03:11,440
+You can't scale that up and assume that therefore a third of Texans must be critically ill.
+
+39
+00:03:11,440 --> 00:03:15,440
+So the more you test, the more positives you get.
+
+40
+00:03:15,440 --> 00:03:18,440
+But that's a classic case of mixing up measurements.
+
+41
+00:03:18,440 --> 00:03:22,440
+You get more positive cases but the percentage of positive cases
+
+42
+00:03:22,440 --> 00:03:26,440
+which is what the doctors are measuring for their calculation
+
+43
+00:03:26,440 --> 00:03:29,440
+doesn't go up, it goes down.
+
+44
+00:03:29,620 --> 00:03:33,620
+Even if the doctors don't understand the difference between a number and a percentage
+
+45
+00:03:33,620 --> 00:03:35,620
+which I find hard to believe
+
+46
+00:03:35,620 --> 00:03:38,620
+all they have to do is look at the data they claim to be using.
+
+47
+00:03:38,620 --> 00:03:42,620
+As testing expanded to the California population as a whole
+
+48
+00:03:42,620 --> 00:03:45,620
+shown by the light brown bars on this graph
+
+49
+00:03:45,620 --> 00:03:50,620
+the number of positive cases went up, shown by the darker brown at the bottom.
+
+50
+00:03:50,620 --> 00:03:54,620
+But the percentage of positive cases went down
+
+51
+00:03:54,620 --> 00:03:58,620
+shown by the blue line with the percentage scale on the right hand side.
+
+52
+00:03:58,800 --> 00:04:01,800
+A month after the doctors held their press conference
+
+53
+00:04:01,800 --> 00:04:03,800
+far more people were being tested
+
+54
+00:04:03,800 --> 00:04:09,800
+and of course the positivity rate was down from 12% to around 4.5%.
+
+55
+00:04:09,800 --> 00:04:13,800
+The doctors' analysis was so bad and so amateurish
+
+56
+00:04:13,800 --> 00:04:16,800
+that the American College of Emergency Physicians
+
+57
+00:04:16,800 --> 00:04:19,800
+and the American Academy of Emergency Medicine
+
+58
+00:04:19,800 --> 00:04:23,800
+took the extraordinary step of issuing a joint statement disowning it.
+
+59
+00:04:23,980 --> 00:04:27,980
+They called the doctors' claims reckless and untested musings.
+
+60
+00:04:29,980 --> 00:04:33,980
+I got interested in this topic when someone posted this on the forum
+
+61
+00:04:33,980 --> 00:04:35,980
+and it seems to be a view that's widely shared.
+
+62
+00:04:35,980 --> 00:04:38,980
+Listening to the science didn't work out so well
+
+63
+00:04:38,980 --> 00:04:41,980
+seven months later and a global recession
+
+64
+00:04:41,980 --> 00:04:44,980
+even Fauci now says on a recent 60 Minutes
+
+65
+00:04:44,980 --> 00:04:48,980
+he would not shut down the economy when faced with a similar virus.
+
+66
+00:04:48,980 --> 00:04:51,980
+Actually that's not what Fauci said
+
+67
+00:04:52,160 --> 00:04:56,160
+but I'm more interested in the idea that listening to the science isn't a good idea.
+
+68
+00:04:56,160 --> 00:05:00,160
+Because science can't tell you whether lockdowns are the right policy
+
+69
+00:05:00,160 --> 00:05:04,160
+that's a personal opinion and ultimately a political decision.
+
+70
+00:05:04,160 --> 00:05:09,160
+All it can tell you is what the epidemiological effects of a lockdown will be
+
+71
+00:05:09,160 --> 00:05:13,160
+the reproduction rate of the virus, the number of infections
+
+72
+00:05:13,160 --> 00:05:17,160
+and roughly how many people would die over what period of time.
+
+73
+00:05:17,160 --> 00:05:21,160
+That's why listening to the science always works out well
+
+74
+00:05:21,340 --> 00:05:25,340
+because it ensures that when a government weighs the pros and cons of lockdown
+
+75
+00:05:25,340 --> 00:05:28,340
+it does so on the basis of facts and figures
+
+76
+00:05:28,340 --> 00:05:32,340
+rather than ideological dogma, blind guesses and wishful thinking.
+
+77
+00:05:32,340 --> 00:05:36,340
+So what do real scientific studies say about lockdowns?
+
+78
+00:05:36,340 --> 00:05:40,340
+Lockdown has become a catch-all word to describe
+
+79
+00:05:40,340 --> 00:05:43,340
+restricted movements, limits on social gatherings
+
+80
+00:05:43,340 --> 00:05:45,340
+and the closure of certain businesses.
+
+81
+00:05:45,340 --> 00:05:49,340
+Sometimes the rules are tightened, sometimes they're relaxed
+
+82
+00:05:49,520 --> 00:05:53,520
+depending on whether the number of cases is rising or falling.
+
+83
+00:05:53,520 --> 00:05:59,520
+Scientific studies refer to these as restrictions or non-pharmaceutical interventions.
+
+84
+00:05:59,520 --> 00:06:00,520
+What about Sweden?
+
+85
+00:06:00,520 --> 00:06:02,520
+Sweden, Sweden, Sweden, Sweden.
+
+86
+00:06:02,520 --> 00:06:05,520
+Hold on, I'm going to look at Sweden in a minute.
+
+87
+00:06:05,520 --> 00:06:09,520
+A lot of posters on my channel suggested I take a look at the claims of Ivor Cummins
+
+88
+00:06:09,520 --> 00:06:13,520
+an Irish biochemical engineer who runs a YouTube channel.
+
+89
+00:06:13,520 --> 00:06:17,520
+Unlike the Bakersfield doctors, he actually cites scientific studies
+
+90
+00:06:17,700 --> 00:06:19,700
+which is commendable.
+
+91
+00:06:19,700 --> 00:06:23,700
+We now have many, many publications, including Lancet
+
+92
+00:06:23,700 --> 00:06:27,700
+that show clearly, based on the data, that lockdown
+
+93
+00:06:27,700 --> 00:06:31,700
+barely or does not affect deaths per million outcomes.
+
+94
+00:06:31,700 --> 00:06:35,700
+Well here's the first one on the list and the one Cummins highlights.
+
+95
+00:06:35,700 --> 00:06:40,700
+It wasn't published in The Lancet, which is one of the world's top two medical journals
+
+96
+00:06:40,700 --> 00:06:43,700
+it was published in eClinical Medicine
+
+97
+00:06:43,700 --> 00:06:46,700
+a separate open access journal owned by The Lancet.
+
+98
+00:06:46,880 --> 00:06:50,880
+Nevertheless, it concluded that lockdowns don't affect mortality rates
+
+99
+00:06:50,880 --> 00:06:53,880
+which is supportive of Cummins' claims.
+
+100
+00:06:53,880 --> 00:06:55,880
+But here's the problem.
+
+101
+00:06:55,880 --> 00:06:58,880
+When I look for other studies in Lancet-owned journals
+
+102
+00:06:58,880 --> 00:07:00,880
+and in The Lancet itself
+
+103
+00:07:00,880 --> 00:07:03,880
+they all reach the opposite conclusion.
+
+104
+00:07:03,880 --> 00:07:07,880
+They all concluded that lockdowns reduced rates of infection.
+
+105
+00:07:07,880 --> 00:07:10,880
+Some showed that the stricter lockdown measures were
+
+106
+00:07:10,880 --> 00:07:12,880
+the more effective they were
+
+107
+00:07:12,880 --> 00:07:15,880
+and they showed that when the strictest lockdown measures were lifted
+
+108
+00:07:16,060 --> 00:07:19,060
+infection rates began to rise again.
+
+109
+00:07:19,060 --> 00:07:23,060
+Picking one study from The Lancet group that supports your case
+
+110
+00:07:23,060 --> 00:07:25,060
+and ignoring all the others that don't
+
+111
+00:07:25,060 --> 00:07:27,060
+is called cherry picking
+
+112
+00:07:27,060 --> 00:07:30,060
+and it's a familiar tactic on social media.
+
+113
+00:07:30,060 --> 00:07:34,060
+So then I moved on to the second paper on Cummins' list
+
+114
+00:07:34,060 --> 00:07:38,060
+which was published by a very reputable journal, Science.
+
+115
+00:07:38,060 --> 00:07:41,060
+It's a shame that Cummins doesn't show the paper
+
+116
+00:07:41,060 --> 00:07:43,060
+and give a proper citation or link
+
+117
+00:07:43,060 --> 00:07:45,060
+so that people can read it for themselves.
+
+118
+00:07:45,240 --> 00:07:49,240
+I could only find the study by doing a search of Google Scholar
+
+119
+00:07:49,240 --> 00:07:52,240
+using the part of the title that Cummins showed.
+
+120
+00:07:52,240 --> 00:07:54,240
+It's a paper by Denning et al.
+
+121
+00:07:54,240 --> 00:07:56,240
+But when I clicked on the link
+
+122
+00:07:56,240 --> 00:07:59,240
+it turns out that the title of the paper has changed.
+
+123
+00:07:59,240 --> 00:08:01,240
+According to Cummins, the paper claimed
+
+124
+00:08:01,240 --> 00:08:03,240
+lockdown had only a minor effect.
+
+125
+00:08:03,240 --> 00:08:05,240
+In fact, their study
+
+126
+00:08:05,240 --> 00:08:07,240
+which looked at lockdowns in Germany
+
+127
+00:08:07,240 --> 00:08:10,240
+found a clear reduction of the spreading rate
+
+128
+00:08:10,240 --> 00:08:12,240
+related to each governmental intervention.
+
+129
+00:08:12,240 --> 00:08:14,240
+And it concluded
+
+130
+00:08:14,420 --> 00:08:17,420
+results suggest that the full extent of government interventions
+
+131
+00:08:17,420 --> 00:08:20,420
+was necessary to stop exponential growth.
+
+132
+00:08:20,420 --> 00:08:23,420
+Then I checked the third citation in the list
+
+133
+00:08:23,420 --> 00:08:25,420
+which turns out to be ambiguous.
+
+134
+00:08:25,420 --> 00:08:28,420
+There's no such thing as the Koch Institute.
+
+135
+00:08:28,420 --> 00:08:31,420
+There's the Robert Koch Institute in Germany
+
+136
+00:08:31,420 --> 00:08:33,420
+a respected government medical agency
+
+137
+00:08:33,420 --> 00:08:36,420
+that advises on responses to the pandemic.
+
+138
+00:08:36,420 --> 00:08:38,420
+And there's the Charles Koch Institute
+
+139
+00:08:38,420 --> 00:08:40,420
+in the United States
+
+140
+00:08:40,420 --> 00:08:42,420
+an American lobby group that gives frequent opinions
+
+141
+00:08:42,600 --> 00:08:44,600
+and conclusions on the pandemic
+
+142
+00:08:44,600 --> 00:08:46,600
+from a political perspective.
+
+143
+00:08:46,600 --> 00:08:48,600
+If Cummins is citing
+
+144
+00:08:48,600 --> 00:08:50,600
+the political lobby group
+
+145
+00:08:50,600 --> 00:08:52,600
+Charles Koch, then its opinions
+
+146
+00:08:52,600 --> 00:08:54,600
+about the reproduction rate
+
+147
+00:08:54,600 --> 00:08:57,600
+are irrelevant because it isn't a scientific body.
+
+148
+00:08:57,600 --> 00:08:59,600
+If Cummins is citing
+
+149
+00:08:59,600 --> 00:09:01,600
+the scientific institute
+
+150
+00:09:01,600 --> 00:09:03,600
+the Robert Koch Institute
+
+151
+00:09:03,600 --> 00:09:06,600
+it's stated very clearly that lockdowns are effective.
+
+152
+00:09:06,600 --> 00:09:08,600
+In this bulletin
+
+153
+00:09:08,600 --> 00:09:10,600
+the RKI says
+
+154
+00:09:10,780 --> 00:09:12,780
+Oh, sorry.
+
+155
+00:09:12,780 --> 00:09:14,780
+Isolation measures
+
+156
+00:09:14,780 --> 00:09:16,780
+of confirmed cases and the quarantining
+
+157
+00:09:16,780 --> 00:09:18,780
+of contact persons lead not only
+
+158
+00:09:18,780 --> 00:09:20,780
+to a reduction in the number of secondary cases
+
+159
+00:09:20,780 --> 00:09:22,780
+but also to a shortening of
+
+160
+00:09:22,780 --> 00:09:24,780
+the generation time.
+
+161
+00:09:24,780 --> 00:09:26,780
+The RKI even did a review of studies
+
+162
+00:09:26,780 --> 00:09:28,780
+that looked at the effect of restrictions
+
+163
+00:09:28,780 --> 00:09:30,780
+and interventions.
+
+164
+00:09:30,780 --> 00:09:32,780
+It listed the conclusions of each one.
+
+165
+00:09:32,780 --> 00:09:34,780
+The vast majority
+
+166
+00:09:34,780 --> 00:09:36,780
+found that restrictions slowed the
+
+167
+00:09:36,780 --> 00:09:38,780
+reproduction rate of the virus
+
+168
+00:09:38,960 --> 00:09:40,960
+and reduced the number of cases
+
+169
+00:09:40,960 --> 00:09:42,960
+or both.
+
+170
+00:09:42,960 --> 00:09:44,960
+If you want to check them for yourselves
+
+171
+00:09:44,960 --> 00:09:46,960
+the review is linked in the video description.
+
+172
+00:09:46,960 --> 00:09:48,960
+Based on this thorough review
+
+173
+00:09:48,960 --> 00:09:50,960
+of the scientific literature
+
+174
+00:09:50,960 --> 00:09:52,960
+the RKI doesn't conclude
+
+175
+00:09:52,960 --> 00:09:54,960
+that lockdowns are ineffective
+
+176
+00:09:54,960 --> 00:09:56,960
+it says the complete opposite.
+
+177
+00:09:56,960 --> 00:09:58,960
+In our analysis we find
+
+178
+00:09:58,960 --> 00:10:00,960
+a strong dose response effect
+
+179
+00:10:00,960 --> 00:10:02,960
+of restrictions on gatherings
+
+180
+00:10:02,960 --> 00:10:04,960
+the requirement to wear masks
+
+181
+00:10:04,960 --> 00:10:06,960
+and the closings of workplaces and schools
+
+182
+00:10:07,140 --> 00:10:09,140
+and both of the COVID-19 pandemic.
+
+183
+00:10:09,140 --> 00:10:11,140
+I'm not going to go through the list
+
+184
+00:10:11,140 --> 00:10:13,140
+and track down every blog article
+
+185
+00:10:13,140 --> 00:10:15,140
+and study.
+
+186
+00:10:15,140 --> 00:10:17,140
+That's something Cummins should have done
+
+187
+00:10:17,140 --> 00:10:19,140
+before he posted it.
+
+188
+00:10:19,140 --> 00:10:21,140
+But at number 17 I did spot one that I'd already read
+
+189
+00:10:21,140 --> 00:10:23,140
+in the British Medical Journal
+
+190
+00:10:23,140 --> 00:10:25,140
+so I knew that Cummins had misrepresented
+
+191
+00:10:25,140 --> 00:10:27,140
+that one too.
+
+192
+00:10:27,140 --> 00:10:29,140
+It's not a scientific study
+
+193
+00:10:29,140 --> 00:10:31,140
+it's a non peer reviewed news article
+
+194
+00:10:31,140 --> 00:10:33,140
+looking at why Belarus had so few deaths
+
+195
+00:10:33,140 --> 00:10:35,140
+due to COVID-19.
+
+196
+00:10:35,320 --> 00:10:37,320
+The likely explanations
+
+197
+00:10:37,320 --> 00:10:39,320
+the article reports are a high
+
+198
+00:10:39,320 --> 00:10:41,320
+proportion of hospital beds per thousand
+
+199
+00:10:41,320 --> 00:10:43,320
+population, 40 times
+
+200
+00:10:43,320 --> 00:10:45,320
+that of the UK, and a
+
+201
+00:10:45,320 --> 00:10:47,320
+structural bias towards dealing with
+
+202
+00:10:47,320 --> 00:10:49,320
+pandemics and mass testing
+
+203
+00:10:49,320 --> 00:10:51,320
+and very few care homes
+
+204
+00:10:51,320 --> 00:10:53,320
+and the relative isolation
+
+205
+00:10:53,320 --> 00:10:55,320
+of the country that means borders
+
+206
+00:10:55,320 --> 00:10:57,320
+could be easily closed and
+
+207
+00:10:57,320 --> 00:10:59,320
+travellers monitored.
+
+208
+00:10:59,320 --> 00:11:01,320
+And finally because Belarus is a dictatorship
+
+209
+00:11:01,320 --> 00:11:03,320
+where the figures may have been
+
+210
+00:11:03,320 --> 00:11:05,320
+fudged anyway, some experts
+
+211
+00:11:05,320 --> 00:11:07,320
+fear that many coronavirus
+
+212
+00:11:07,320 --> 00:11:09,320
+related deaths are registered
+
+213
+00:11:09,320 --> 00:11:11,320
+as cases of pneumonia.
+
+214
+00:11:11,320 --> 00:11:13,320
+Most importantly even if it
+
+215
+00:11:13,320 --> 00:11:15,320
+had been a scientific study
+
+216
+00:11:15,320 --> 00:11:17,320
+the article made no conclusion about
+
+217
+00:11:17,320 --> 00:11:19,320
+the effectiveness of lockdown
+
+218
+00:11:19,320 --> 00:11:21,320
+and nothing in the article that suggests
+
+219
+00:11:21,320 --> 00:11:23,320
+lockdowns are ineffective.
+
+220
+00:11:23,320 --> 00:11:25,320
+So just like numbers two and three
+
+221
+00:11:25,320 --> 00:11:27,320
+what on earth is it doing on
+
+222
+00:11:27,320 --> 00:11:29,320
+Cummins' list?
+
+223
+00:11:29,320 --> 00:11:31,320
+He needs to check all these supposed sources
+
+224
+00:11:31,320 --> 00:11:33,320
+read them properly, make sure
+
+225
+00:11:33,320 --> 00:11:35,320
+they're peer reviewed scientific studies and
+
+226
+00:11:35,320 --> 00:11:37,320
+not newspaper stories or political
+
+227
+00:11:37,320 --> 00:11:39,320
+blogs, pick out the ones that really
+
+228
+00:11:39,320 --> 00:11:41,320
+do show that lockdowns are ineffective
+
+229
+00:11:41,320 --> 00:11:43,320
+and then repost an accurate
+
+230
+00:11:43,320 --> 00:11:45,320
+list.
+
+231
+00:11:45,320 --> 00:11:47,320
+If you don't cherry pick and misread
+
+232
+00:11:47,320 --> 00:11:49,320
+what real scientific studies
+
+233
+00:11:49,320 --> 00:11:51,320
+show is that lockdowns are effective.
+
+234
+00:11:51,320 --> 00:11:53,320
+It doesn't mean they're a good
+
+235
+00:11:53,320 --> 00:11:55,320
+idea, it just means that
+
+236
+00:11:55,320 --> 00:11:57,320
+they are effective in reducing the spread
+
+237
+00:11:57,320 --> 00:11:59,320
+of an infectious disease.
+
+238
+00:11:59,320 --> 00:12:01,320
+That's been known since 14th century
+
+239
+00:12:01,320 --> 00:12:03,320
+Venice and it's pretty obvious
+
+240
+00:12:03,320 --> 00:12:05,320
+why. So all other things
+
+241
+00:12:05,320 --> 00:12:07,320
+being equal the strictest lockdown
+
+242
+00:12:07,320 --> 00:12:09,320
+measures, which most countries
+
+243
+00:12:09,320 --> 00:12:11,320
+do when the R8 gets dangerously high
+
+244
+00:12:11,320 --> 00:12:13,320
+ought to result in a reduction of
+
+245
+00:12:13,320 --> 00:12:15,320
+Covid-19 cases after
+
+246
+00:12:15,320 --> 00:12:17,320
+about 10 to 14 days.
+
+247
+00:12:17,320 --> 00:12:19,320
+And that's exactly what we see.
+
+248
+00:12:19,320 --> 00:12:21,320
+What about Sweden? Sweden. Sweden.
+
+249
+00:12:21,320 --> 00:12:23,320
+Sweden. Sweden. Alright, so what
+
+250
+00:12:23,320 --> 00:12:25,320
+about Sweden? Sweden never
+
+251
+00:12:25,320 --> 00:12:27,320
+locked down, never mandated masks
+
+252
+00:12:27,320 --> 00:12:29,320
+never closed their borders,
+
+253
+00:12:29,320 --> 00:12:31,320
+never closed their under-16 schools,
+
+254
+00:12:31,320 --> 00:12:33,320
+never closed the restaurants
+
+255
+00:12:33,320 --> 00:12:35,320
+and bars and did everything they could
+
+256
+00:12:35,320 --> 00:12:37,320
+to avoid trampling on human rights.
+
+257
+00:12:37,320 --> 00:12:39,320
+Sweden took an approach based
+
+258
+00:12:39,320 --> 00:12:41,320
+on science. Well, Tony Heller
+
+259
+00:12:41,320 --> 00:12:43,320
+did get one thing right. Sweden
+
+260
+00:12:43,320 --> 00:12:45,320
+took an approach based on science,
+
+261
+00:12:45,320 --> 00:12:47,320
+just like most countries with a couple
+
+262
+00:12:47,320 --> 00:12:49,320
+of obvious exceptions.
+
+263
+00:12:49,320 --> 00:12:51,320
+Swedish epidemiologists know as well
+
+264
+00:12:51,320 --> 00:12:53,320
+as American or British epidemiologists
+
+265
+00:12:53,320 --> 00:12:55,320
+that eliminating mass gatherings
+
+266
+00:12:55,320 --> 00:12:57,320
+and restricting movement
+
+267
+00:12:57,320 --> 00:12:59,320
+slow the spread of the virus,
+
+268
+00:12:59,320 --> 00:13:01,320
+including the architect of the Swedish
+
+269
+00:13:01,320 --> 00:13:03,320
+model Anders Tegnell.
+
+270
+00:13:03,320 --> 00:13:05,320
+He says people who claim Sweden
+
+271
+00:13:05,320 --> 00:13:07,320
+didn't have restrictions are
+
+272
+00:13:07,320 --> 00:13:09,320
+wrong. You're saying
+
+273
+00:13:09,320 --> 00:13:11,320
+that the strategy here, apart from the face mask
+
+274
+00:13:11,320 --> 00:13:13,320
+is pretty much the same as everywhere else, is that?
+
+275
+00:13:13,320 --> 00:13:15,320
+To a great extent, yes.
+
+276
+00:13:15,320 --> 00:13:17,320
+I mean, we also slow down many
+
+277
+00:13:17,320 --> 00:13:19,320
+things.
+
+278
+00:13:19,320 --> 00:13:21,320
+The
+
+279
+00:13:21,320 --> 00:13:23,320
+domestic air flights
+
+280
+00:13:23,320 --> 00:13:25,320
+in Sweden were slowed down to
+
+281
+00:13:25,320 --> 00:13:27,320
+basically nothing. There was no domestic
+
+282
+00:13:27,320 --> 00:13:29,320
+flights in Sweden anymore.
+
+283
+00:13:29,320 --> 00:13:31,320
+This was due to people stopped travelling, not because
+
+284
+00:13:31,320 --> 00:13:33,320
+we made it mandatory for the flights to stop.
+
+285
+00:13:33,320 --> 00:13:35,320
+Trains were also cut down
+
+286
+00:13:35,320 --> 00:13:37,320
+quite a lot, so
+
+287
+00:13:37,320 --> 00:13:39,320
+the society really slowed down
+
+288
+00:13:39,320 --> 00:13:41,320
+quite a lot also in Sweden.
+
+289
+00:13:41,320 --> 00:13:43,320
+I think much more than many people in other countries
+
+290
+00:13:43,320 --> 00:13:45,320
+understand. The reason Tegnell
+
+291
+00:13:45,320 --> 00:13:47,320
+thought a voluntary system would work
+
+292
+00:13:47,320 --> 00:13:49,320
+is that Sweden has a number of advantages
+
+293
+00:13:49,320 --> 00:13:51,320
+over countries outside
+
+294
+00:13:51,320 --> 00:13:53,320
+of Scandinavia.
+
+295
+00:13:53,320 --> 00:13:55,320
+For one thing, it has a modern universal
+
+296
+00:13:55,320 --> 00:13:57,320
+healthcare system that the authorities
+
+297
+00:13:57,320 --> 00:13:59,320
+calculated had enough ICU
+
+298
+00:13:59,320 --> 00:14:01,320
+beds to cope with a high number
+
+299
+00:14:01,320 --> 00:14:03,320
+of COVID cases and treat
+
+300
+00:14:03,320 --> 00:14:05,320
+them effectively. Secondly,
+
+301
+00:14:05,320 --> 00:14:07,320
+most Swedes live alone,
+
+302
+00:14:07,320 --> 00:14:09,320
+and the country isn't a major tourist destination
+
+303
+00:14:09,320 --> 00:14:11,320
+or a travel crossroads,
+
+304
+00:14:11,320 --> 00:14:13,320
+so it would be less vulnerable to a rapid
+
+305
+00:14:13,320 --> 00:14:15,320
+spread of the virus.
+
+306
+00:14:15,320 --> 00:14:17,320
+Sweden isn't a particularly religious
+
+307
+00:14:17,320 --> 00:14:19,320
+country, so you don't see many
+
+308
+00:14:19,320 --> 00:14:21,320
+mass gatherings in churches or mosques.
+
+309
+00:14:21,320 --> 00:14:23,320
+And most importantly,
+
+310
+00:14:23,320 --> 00:14:25,320
+imposing rules is probably not
+
+311
+00:14:25,320 --> 00:14:27,320
+even necessary. After all,
+
+312
+00:14:27,320 --> 00:14:29,320
+this is the nation that gave us ABBA
+
+313
+00:14:29,320 --> 00:14:31,320
+and Volvo's. Swedes don't
+
+314
+00:14:31,320 --> 00:14:33,320
+go around raping and pillaging anymore.
+
+315
+00:14:33,320 --> 00:14:35,320
+They're a pretty sensible, responsible
+
+316
+00:14:35,320 --> 00:14:37,320
+people who for the most part follow
+
+317
+00:14:37,320 --> 00:14:39,320
+government advice.
+
+318
+00:14:39,320 --> 00:14:41,320
+Isn't that a little racist?
+
+319
+00:14:41,320 --> 00:14:43,320
+If I like their race,
+
+320
+00:14:43,320 --> 00:14:45,320
+how can that be racist?
+
+321
+00:14:45,320 --> 00:14:47,320
+So the authorities opted for guidelines
+
+322
+00:14:47,320 --> 00:14:49,320
+like these rather than legally
+
+323
+00:14:49,320 --> 00:14:51,320
+enforced rules. Refrain
+
+324
+00:14:51,320 --> 00:14:53,320
+from unnecessary journeys,
+
+325
+00:14:53,320 --> 00:14:55,320
+avoid public transport, don't go
+
+326
+00:14:55,320 --> 00:14:57,320
+to meetings and concerts, and so on.
+
+327
+00:14:57,320 --> 00:14:59,320
+Life looks pretty good in Sweden.
+
+328
+00:14:59,320 --> 00:15:01,320
+Things are open, their schools
+
+329
+00:15:01,320 --> 00:15:03,320
+are open, their universities are
+
+330
+00:15:03,320 --> 00:15:05,320
+open. People in Sweden are
+
+331
+00:15:05,320 --> 00:15:07,320
+going about their lives normally.
+
+332
+00:15:07,320 --> 00:15:09,320
+Well, not really. A photograph doesn't
+
+333
+00:15:09,320 --> 00:15:11,320
+tell the whole story.
+
+334
+00:15:11,320 --> 00:15:13,320
+Sweden may have a more relaxed approach
+
+335
+00:15:13,320 --> 00:15:15,320
+than countries like Britain and France,
+
+336
+00:15:15,320 --> 00:15:17,320
+but life in Sweden over the last 11
+
+337
+00:15:17,320 --> 00:15:19,320
+months has been anything but normal.
+
+338
+00:15:19,320 --> 00:15:21,320
+As well as the voluntary
+
+339
+00:15:21,320 --> 00:15:23,320
+guidelines, there are also restrictions
+
+340
+00:15:23,320 --> 00:15:25,320
+mandated by law.
+
+341
+00:15:25,320 --> 00:15:27,320
+Crowd sizes at public events
+
+342
+00:15:27,320 --> 00:15:29,320
+were limited to 50 people,
+
+343
+00:15:29,320 --> 00:15:31,320
+and as the virus got worse, that number
+
+344
+00:15:31,320 --> 00:15:33,320
+was reduced to just eight.
+
+345
+00:15:33,320 --> 00:15:35,320
+Restaurants and bars can only serve
+
+346
+00:15:35,320 --> 00:15:37,320
+customers who are seated.
+
+347
+00:15:37,320 --> 00:15:39,320
+Visits to nursing homes are restricted.
+
+348
+00:15:39,320 --> 00:15:41,320
+There are travel restrictions from other
+
+349
+00:15:41,320 --> 00:15:43,320
+countries. Twice, schools have
+
+350
+00:15:43,320 --> 00:15:45,320
+switched to remote learning, and
+
+351
+00:15:45,320 --> 00:15:47,320
+that's in addition to all the voluntary
+
+352
+00:15:47,320 --> 00:15:49,320
+guidelines I just showed you regarding
+
+353
+00:15:49,320 --> 00:15:51,320
+gatherings, social distancing, and
+
+354
+00:15:51,320 --> 00:15:53,320
+staying home.
+
+355
+00:15:53,320 --> 00:15:55,320
+A survey by Sweden's Civil Contingencies
+
+356
+00:15:55,320 --> 00:15:57,320
+Agency suggests that
+
+357
+00:15:57,320 --> 00:15:59,320
+87% of the population
+
+358
+00:15:59,320 --> 00:16:01,320
+are continuing to follow social distancing
+
+359
+00:16:01,320 --> 00:16:03,320
+recommendations, and domestic
+
+360
+00:16:03,320 --> 00:16:05,320
+airlines are grounded.
+
+361
+00:16:05,320 --> 00:16:07,320
+And according to Anders Tenjel,
+
+362
+00:16:07,320 --> 00:16:09,320
+Swedes have only around 30%
+
+363
+00:16:09,320 --> 00:16:11,320
+of the social interactions that
+
+364
+00:16:11,320 --> 00:16:13,320
+they did prior to the pandemic.
+
+365
+00:16:13,320 --> 00:16:15,320
+Sweden travelled a lot less than they
+
+366
+00:16:15,320 --> 00:16:17,320
+usually do. They actually decreased their
+
+367
+00:16:17,320 --> 00:16:19,320
+travel more than the travel was
+
+368
+00:16:19,320 --> 00:16:21,320
+decreased in our Scandinavian
+
+369
+00:16:21,320 --> 00:16:23,320
+neighbours.
+
+370
+00:16:23,320 --> 00:16:25,320
+If you ask Swedes,
+
+371
+00:16:25,320 --> 00:16:27,320
+80-90% of them say that
+
+372
+00:16:27,320 --> 00:16:29,320
+their lives have been very much affected
+
+373
+00:16:29,320 --> 00:16:31,320
+by the Covid-19. So
+
+374
+00:16:31,320 --> 00:16:33,320
+I think you make a mistake if
+
+375
+00:16:33,320 --> 00:16:35,320
+you think that the Swedish lockdown was
+
+376
+00:16:35,320 --> 00:16:37,320
+less in place
+
+377
+00:16:37,320 --> 00:16:39,320
+and was less effective than in many
+
+378
+00:16:39,320 --> 00:16:41,320
+places just because it was a voluntary
+
+379
+00:16:41,320 --> 00:16:43,320
+lockdown. So admire the Swedish
+
+380
+00:16:43,320 --> 00:16:45,320
+model by all means, but let's
+
+381
+00:16:45,320 --> 00:16:47,320
+not pretend that life in Sweden has
+
+382
+00:16:47,320 --> 00:16:49,320
+gone on as normal. This is
+
+383
+00:16:49,320 --> 00:16:51,320
+all far from normal.
+
+384
+00:16:51,320 --> 00:16:53,320
+Sweden has reached herd immunity
+
+385
+00:16:53,320 --> 00:16:55,320
+even as the United States
+
+386
+00:16:55,320 --> 00:16:57,320
+panics. But Sweden is nowhere
+
+387
+00:16:57,320 --> 00:16:59,320
+near reaching herd immunity.
+
+388
+00:16:59,320 --> 00:17:01,320
+That's the problem with believing tabloid
+
+389
+00:17:01,320 --> 00:17:03,320
+newspapers like the Daily Mail
+
+390
+00:17:03,320 --> 00:17:05,320
+instead of listening to epidemiologists
+
+391
+00:17:05,320 --> 00:17:07,320
+and checking the figures.
+
+392
+00:17:07,320 --> 00:17:09,320
+Back in May, Professor Bjorn
+
+393
+00:17:09,320 --> 00:17:11,320
+Olsson said herd immunity in
+
+394
+00:17:11,320 --> 00:17:13,320
+Sweden is a long way off
+
+395
+00:17:13,320 --> 00:17:15,320
+if we ever reach it. And in August
+
+396
+00:17:15,320 --> 00:17:17,320
+he co-authored a study showing
+
+397
+00:17:17,320 --> 00:17:19,320
+rates of infection way below the
+
+398
+00:17:19,320 --> 00:17:21,320
+60-70% needed
+
+399
+00:17:21,320 --> 00:17:23,320
+for herd immunity.
+
+400
+00:17:23,320 --> 00:17:25,320
+As did a study commissioned by the
+
+401
+00:17:25,320 --> 00:17:27,320
+Swedish Public Health Agency in May
+
+402
+00:17:27,320 --> 00:17:29,320
+and a third study in December.
+
+403
+00:17:29,320 --> 00:17:31,320
+And even the man
+
+404
+00:17:31,320 --> 00:17:33,320
+every proponent of the Swedish model
+
+405
+00:17:33,320 --> 00:17:35,320
+likes to quote, Anders Tegnell,
+
+406
+00:17:35,320 --> 00:17:37,320
+said as late as November
+
+407
+00:17:37,320 --> 00:17:39,320
+that the issue of herd immunity is
+
+408
+00:17:39,320 --> 00:17:41,320
+difficult and there are no signs
+
+409
+00:17:41,320 --> 00:17:43,320
+of immunity in the population that
+
+410
+00:17:43,320 --> 00:17:45,320
+are slowing down the infection.
+
+411
+00:17:45,320 --> 00:17:47,320
+In this graph you can see the difference
+
+412
+00:17:47,320 --> 00:17:49,320
+between what's going on in Sweden
+
+413
+00:17:49,320 --> 00:17:51,320
+with Dr Anders Tegnell
+
+414
+00:17:51,320 --> 00:17:53,320
+versus the US with Dr Fauci.
+
+415
+00:17:53,320 --> 00:17:55,320
+But of course the United States
+
+416
+00:17:55,320 --> 00:17:57,320
+is doing even worse than Sweden.
+
+417
+00:17:57,320 --> 00:17:59,320
+Anders Tegnell was put in charge
+
+418
+00:17:59,320 --> 00:18:01,320
+of Sweden's pandemic policy
+
+419
+00:18:01,320 --> 00:18:03,320
+while Anthony Fauci had no
+
+420
+00:18:03,320 --> 00:18:05,320
+executive power at all.
+
+421
+00:18:05,320 --> 00:18:07,320
+He could only advise a president
+
+422
+00:18:07,320 --> 00:18:09,320
+who routinely ignored his advice.
+
+423
+00:18:09,320 --> 00:18:11,320
+So while Sweden had a national
+
+424
+00:18:11,320 --> 00:18:13,320
+plan led by an epidemiologist
+
+425
+00:18:13,320 --> 00:18:15,320
+the United States had none
+
+426
+00:18:15,320 --> 00:18:17,320
+led by a politician.
+
+427
+00:18:17,320 --> 00:18:19,320
+And there are other differences.
+
+428
+00:18:19,320 --> 00:18:21,320
+Sweden had a universal healthcare
+
+429
+00:18:21,320 --> 00:18:23,320
+system which could cope with a
+
+430
+00:18:23,320 --> 00:18:25,320
+pandemic and where everyone could get
+
+431
+00:18:25,320 --> 00:18:27,320
+treated free of charge.
+
+432
+00:18:27,320 --> 00:18:29,320
+Whether you think that's a good thing or a bad thing
+
+433
+00:18:29,320 --> 00:18:31,320
+it's something the United States
+
+434
+00:18:31,320 --> 00:18:33,320
+doesn't have.
+
+435
+00:18:33,320 --> 00:18:35,320
+And unlike Sweden where few people go to church
+
+436
+00:18:35,320 --> 00:18:37,320
+millions of Americans continued
+
+437
+00:18:37,320 --> 00:18:39,320
+to pack places of worship.
+
+438
+00:18:39,320 --> 00:18:41,320
+And Swedes are pretty healthy.
+
+439
+00:18:41,320 --> 00:18:43,320
+Compare the level of diabetes
+
+440
+00:18:43,320 --> 00:18:45,320
+in Sweden with that of the
+
+441
+00:18:45,320 --> 00:18:47,320
+United States.
+
+442
+00:18:47,320 --> 00:18:49,320
+This is the level of obesity in Sweden
+
+443
+00:18:49,320 --> 00:18:51,320
+compared to the USA.
+
+444
+00:18:51,320 --> 00:18:53,320
+And while most domestic
+
+445
+00:18:53,320 --> 00:18:55,320
+flights in Sweden were grounded
+
+446
+00:18:55,320 --> 00:18:57,320
+in the United States they continued
+
+447
+00:18:57,320 --> 00:18:59,320
+flying. And most Swedes
+
+448
+00:18:59,320 --> 00:19:01,320
+followed government guidelines and restrictions.
+
+449
+00:19:01,320 --> 00:19:03,320
+In the United States these
+
+450
+00:19:03,320 --> 00:19:05,320
+varied from state to state and
+
+451
+00:19:05,320 --> 00:19:07,320
+were often ignored even by the
+
+452
+00:19:07,320 --> 00:19:09,320
+leader of the country. And even
+
+453
+00:19:09,320 --> 00:19:11,320
+by politicians urging others to follow
+
+454
+00:19:11,320 --> 00:19:13,320
+the guidelines.
+
+455
+00:19:13,320 --> 00:19:15,320
+So why would anyone be surprised that the
+
+456
+00:19:15,320 --> 00:19:17,320
+American death toll was higher?
+
+457
+00:19:17,320 --> 00:19:19,320
+To see how Sweden's been doing
+
+458
+00:19:19,320 --> 00:19:21,320
+it's no good comparing it to countries with
+
+459
+00:19:21,320 --> 00:19:23,320
+completely different population densities
+
+460
+00:19:23,320 --> 00:19:25,320
+different obesity levels
+
+461
+00:19:25,320 --> 00:19:27,320
+different healthcare systems and different
+
+462
+00:19:27,320 --> 00:19:29,320
+cultures. You need to compare it with
+
+463
+00:19:29,320 --> 00:19:31,320
+countries where all those things are similar.
+
+464
+00:19:31,320 --> 00:19:33,320
+And that's not hard.
+
+465
+00:19:33,320 --> 00:19:35,320
+Sweden's neighbours have very
+
+466
+00:19:35,320 --> 00:19:37,320
+similar profiles in all those respects.
+
+467
+00:19:37,320 --> 00:19:39,320
+The only significant differences
+
+468
+00:19:39,320 --> 00:19:41,320
+were mandatory lockdowns
+
+469
+00:19:41,320 --> 00:19:43,320
+versus voluntary lockdown
+
+470
+00:19:43,320 --> 00:19:45,320
+and policies on mask wearing, test
+
+471
+00:19:45,320 --> 00:19:47,320
+and trace.
+
+472
+00:19:47,320 --> 00:19:49,320
+The result? At the time of writing
+
+473
+00:19:49,320 --> 00:19:51,320
+Sweden has a mortality rate
+
+474
+00:19:51,320 --> 00:19:53,320
+in other words the number of deaths per million people
+
+475
+00:19:53,320 --> 00:19:55,320
+four times that of Denmark
+
+476
+00:19:55,320 --> 00:19:57,320
+eight times that of Finland
+
+477
+00:19:57,320 --> 00:19:59,320
+and ten times that of Norway.
+
+478
+00:19:59,320 --> 00:20:01,320
+And now even mainstream
+
+479
+00:20:01,320 --> 00:20:03,320
+media outlets like Newsweek
+
+480
+00:20:03,320 --> 00:20:05,320
+are acknowledging the fact that they succeeded.
+
+481
+00:20:05,320 --> 00:20:07,320
+Well that may be Newsweek's
+
+482
+00:20:07,320 --> 00:20:09,320
+opinion, but opinion is not
+
+483
+00:20:09,320 --> 00:20:11,320
+fact. If the United States
+
+484
+00:20:11,320 --> 00:20:13,320
+had the same mortality rate as Sweden
+
+485
+00:20:13,320 --> 00:20:15,320
+then instead of having 260,000
+
+486
+00:20:15,320 --> 00:20:17,320
+deaths at the time of writing
+
+487
+00:20:17,320 --> 00:20:19,320
+it would have had 210,000
+
+488
+00:20:19,320 --> 00:20:21,320
+deaths.
+
+489
+00:20:21,320 --> 00:20:23,320
+People can have their own opinions about whether
+
+490
+00:20:23,320 --> 00:20:25,320
+that's a success, but they aren't
+
+491
+00:20:25,320 --> 00:20:27,320
+entitled to change the facts to
+
+492
+00:20:27,320 --> 00:20:29,320
+fit that opinion.
+
+493
+00:20:29,320 --> 00:20:31,320
+So what's my opinion?
+
+494
+00:20:31,320 --> 00:20:33,320
+Well of course the whole point of this channel is not
+
+495
+00:20:33,320 --> 00:20:35,320
+to tell you what I think, but to
+
+496
+00:20:35,320 --> 00:20:37,320
+fact check the claims of those who do
+
+497
+00:20:37,320 --> 00:20:39,320
+give you their opinion and to present
+
+498
+00:20:39,320 --> 00:20:41,320
+facts so you can form your own opinion.
+
+499
+00:20:41,320 --> 00:20:43,320
+You just can't
+
+500
+00:20:43,320 --> 00:20:45,320
+borrow someone else's opinion off the shelf
+
+501
+00:20:45,320 --> 00:20:47,320
+or beat the drum for a team.
+
+502
+00:20:47,320 --> 00:20:49,320
+You have to answer questions
+
+503
+00:20:49,320 --> 00:20:51,320
+that are rather difficult to answer.
+
+504
+00:20:51,320 --> 00:20:53,320
+For example, apart from the
+
+505
+00:20:53,320 --> 00:20:55,320
+fatalities caused by COVID-19
+
+506
+00:20:55,320 --> 00:20:57,320
+how do we assess the downside
+
+507
+00:20:57,320 --> 00:20:59,320
+of millions of people who didn't die
+
+508
+00:20:59,320 --> 00:21:01,320
+but continue to feel the effects?
+
+509
+00:21:01,320 --> 00:21:03,320
+I also wanted to mention that 96%
+
+510
+00:21:03,320 --> 00:21:05,320
+of people in California who get COVID
+
+511
+00:21:05,320 --> 00:21:07,320
+recover with almost no significant
+
+512
+00:21:07,320 --> 00:21:09,320
+sequelae, or no significant
+
+513
+00:21:09,320 --> 00:21:11,320
+continuing medical
+
+514
+00:21:11,320 --> 00:21:13,320
+problems. But where does that
+
+515
+00:21:13,320 --> 00:21:15,320
+figure come from? That's the
+
+516
+00:21:15,320 --> 00:21:17,320
+trouble with doing science by press conference.
+
+517
+00:21:17,320 --> 00:21:19,320
+There's a tendency to dream up
+
+518
+00:21:19,320 --> 00:21:21,320
+some figures on the back of an envelope
+
+519
+00:21:21,320 --> 00:21:23,320
+and throw others out with a confident
+
+520
+00:21:23,320 --> 00:21:25,320
+knowledge they can't be checked.
+
+521
+00:21:25,320 --> 00:21:27,320
+Ericsson is saying that only
+
+522
+00:21:27,320 --> 00:21:29,320
+about 4% of people suffer
+
+523
+00:21:29,320 --> 00:21:31,320
+long-term effects from COVID-19.
+
+524
+00:21:31,320 --> 00:21:33,320
+It's impossible to say if Ericsson
+
+525
+00:21:33,320 --> 00:21:35,320
+got that figure from a reliable source
+
+526
+00:21:35,320 --> 00:21:37,320
+or made a mistake, or found
+
+527
+00:21:37,320 --> 00:21:39,320
+it in a blog, or simply made it
+
+528
+00:21:39,320 --> 00:21:41,320
+up. All I can do is
+
+529
+00:21:41,320 --> 00:21:43,320
+cite proper studies and real figures
+
+530
+00:21:43,320 --> 00:21:45,320
+which do have sources you can
+
+531
+00:21:45,320 --> 00:21:47,320
+check. For example, a British
+
+532
+00:21:47,320 --> 00:21:49,320
+study found that 10% of people
+
+533
+00:21:49,320 --> 00:21:51,320
+experience prolonged illness after
+
+534
+00:21:51,320 --> 00:21:53,320
+COVID-19. A paper
+
+535
+00:21:53,320 --> 00:21:55,320
+in the Journal of the American Medical Association
+
+536
+00:21:55,320 --> 00:21:57,320
+found that 71% of
+
+537
+00:21:57,320 --> 00:21:59,320
+COVID cases in Italy had
+
+538
+00:21:59,320 --> 00:22:01,320
+symptoms during infection,
+
+539
+00:22:01,320 --> 00:22:03,320
+and of those, 32%
+
+540
+00:22:03,320 --> 00:22:05,320
+still had one or two symptoms two months
+
+541
+00:22:05,320 --> 00:22:07,320
+later, and 44%
+
+542
+00:22:07,320 --> 00:22:09,320
+had a worse quality of life.
+
+543
+00:22:09,320 --> 00:22:11,320
+Another US study found that
+
+544
+00:22:11,320 --> 00:22:13,320
+only 35% of people
+
+545
+00:22:13,320 --> 00:22:15,320
+didn't return to their previous level of
+
+546
+00:22:15,320 --> 00:22:17,320
+health two to three weeks after
+
+547
+00:22:17,320 --> 00:22:19,320
+a positive test.
+
+548
+00:22:19,320 --> 00:22:21,320
+It's known as long-COVID,
+
+549
+00:22:21,320 --> 00:22:23,320
+the long-term health problems brought on
+
+550
+00:22:23,320 --> 00:22:25,320
+by COVID-19.
+
+551
+00:22:25,320 --> 00:22:27,320
+Symptoms range from fatigue and joint
+
+552
+00:22:27,320 --> 00:22:29,320
+pain to chest pain and
+
+553
+00:22:29,320 --> 00:22:31,320
+diarrhoea, and more seriously heart
+
+554
+00:22:31,320 --> 00:22:33,320
+problems and breathing difficulties.
+
+555
+00:22:33,320 --> 00:22:35,320
+I sympathise with people like
+
+556
+00:22:35,320 --> 00:22:37,320
+the Bakersfield doctors whose businesses
+
+557
+00:22:37,320 --> 00:22:39,320
+are suffering, but giving misinformation
+
+558
+00:22:39,320 --> 00:22:41,320
+like that isn't helping.
+
+559
+00:22:41,320 --> 00:22:43,320
+If we, as Tony Abbott
+
+560
+00:22:43,320 --> 00:22:45,320
+suggested, let nature run its course
+
+561
+00:22:45,320 --> 00:22:47,320
+and take no action to curb the virus,
+
+562
+00:22:47,320 --> 00:22:49,320
+would these doctors be back in business
+
+563
+00:22:49,320 --> 00:22:51,320
+or would patients be even
+
+564
+00:22:51,320 --> 00:22:53,320
+less likely to visit their hospital?
+
+565
+00:22:53,320 --> 00:22:55,320
+Would it make businesses
+
+566
+00:22:55,320 --> 00:22:57,320
+like cafes, bars and movie theatres
+
+567
+00:22:57,320 --> 00:22:59,320
+more popular, or would
+
+568
+00:22:59,320 --> 00:23:01,320
+people be worried about an uncontrolled
+
+569
+00:23:01,320 --> 00:23:03,320
+pandemic and stay away?
+
+570
+00:23:03,320 --> 00:23:05,320
+In other words, would keeping
+
+571
+00:23:05,320 --> 00:23:07,320
+everything open and letting
+
+572
+00:23:07,320 --> 00:23:09,320
+the pandemic run its course
+
+573
+00:23:09,320 --> 00:23:11,320
+result in better economic conditions
+
+574
+00:23:11,320 --> 00:23:13,320
+or worse?
+
+575
+00:23:13,320 --> 00:23:15,320
+And what about the people who work in these places
+
+576
+00:23:15,320 --> 00:23:17,320
+and interact with a heavily infected
+
+577
+00:23:17,320 --> 00:23:19,320
+public? Is it fair
+
+578
+00:23:19,320 --> 00:23:21,320
+to ask them to risk their lives,
+
+579
+00:23:21,320 --> 00:23:23,320
+and if they refuse, would it be fair
+
+580
+00:23:23,320 --> 00:23:25,320
+to sack them? And if people
+
+581
+00:23:25,320 --> 00:23:27,320
+were free to contract COVID, which
+
+582
+00:23:27,320 --> 00:23:29,320
+is surely their right, is
+
+583
+00:23:29,320 --> 00:23:31,320
+that fair on people they might
+
+584
+00:23:31,320 --> 00:23:33,320
+infect, or on hospital staff who
+
+585
+00:23:33,320 --> 00:23:35,320
+would then have to risk their lives treating
+
+586
+00:23:35,320 --> 00:23:37,320
+these people? And how do
+
+587
+00:23:37,320 --> 00:23:39,320
+we factor in the cost of lockdown
+
+588
+00:23:39,320 --> 00:23:41,320
+in terms of mental health,
+
+589
+00:23:41,320 --> 00:23:43,320
+educational setback, how do you
+
+590
+00:23:43,320 --> 00:23:45,320
+assess that level of pain felt by
+
+591
+00:23:45,320 --> 00:23:47,320
+millions of people under lockdown
+
+592
+00:23:47,320 --> 00:23:49,320
+and then compare it to, say, the
+
+593
+00:23:49,320 --> 00:23:51,320
+pain of losing a loved one or
+
+594
+00:23:51,320 --> 00:23:53,320
+the suffering caused by long COVID?
+
+595
+00:23:53,320 --> 00:23:55,320
+I know that borrowing
+
+596
+00:23:55,320 --> 00:23:57,320
+an opinion off the shelf is very
+
+597
+00:23:57,320 --> 00:23:59,320
+simple, quick and easy, and
+
+598
+00:23:59,320 --> 00:24:01,320
+thinking about questions like these,
+
+599
+00:24:01,320 --> 00:24:03,320
+weighing them in the balance and checking
+
+600
+00:24:03,320 --> 00:24:05,320
+all the facts and figures is
+
+601
+00:24:05,320 --> 00:24:07,320
+much harder work.
+
+602
+00:24:07,320 --> 00:24:09,320
+But if you're going to voice an opinion and
+
+603
+00:24:09,320 --> 00:24:11,320
+hold that opinion very firmly,
+
+604
+00:24:11,320 --> 00:24:13,320
+then I hope you have weighed each of these
+
+605
+00:24:13,320 --> 00:24:15,320
+questions carefully and are very
+
+606
+00:24:15,320 --> 00:24:17,320
+sure of your answers.
+
+607
+00:24:37,320 --> 00:24:39,320
+Thank you.
+

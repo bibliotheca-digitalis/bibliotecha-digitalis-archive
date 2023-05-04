@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:04,600
+I don't know if anyone has seen the headlines recently, but all the newspapers are talking
+
+2
+00:00:04,600 --> 00:00:10,140
+about a new study published in Nature which looked at our planet's ice loss from 2003
+
+3
+00:00:10,140 --> 00:00:11,980
+to 2010.
+
+4
+00:00:11,980 --> 00:00:14,180
+Earth loses huge amounts of ice.
+
+5
+00:00:14,180 --> 00:00:18,820
+Scientists say 4.3 trillion tonnes of ice melted in just eight years.
+
+6
+00:00:18,820 --> 00:00:22,780
+Nearly 150 cubic miles of ice being lost every year.
+
+7
+00:00:22,780 --> 00:00:24,740
+You didn't see these headlines?
+
+8
+00:00:24,740 --> 00:00:29,420
+Well hardly surprising, because although this is what the study showed, this isn't what
+
+9
+00:00:29,840 --> 00:00:33,060
+headline editors have been running recently.
+
+10
+00:00:33,060 --> 00:00:37,560
+It's headlines like this that have been repeated ad nauseam and have now become the latest
+
+11
+00:00:37,560 --> 00:00:40,040
+mantra in the war against science.
+
+12
+00:00:40,040 --> 00:00:41,560
+What's their source?
+
+13
+00:00:41,560 --> 00:00:44,200
+Well it's this paper in Nature.
+
+14
+00:00:44,200 --> 00:00:47,140
+Hang on, isn't that the same paper?
+
+15
+00:00:47,140 --> 00:00:50,480
+How can the same paper say two completely different things?
+
+16
+00:00:50,480 --> 00:00:51,800
+There's no ice melt.
+
+17
+00:00:51,800 --> 00:00:53,360
+There's a huge amount of ice melt.
+
+18
+00:00:53,360 --> 00:00:54,920
+Which is it?
+
+19
+00:00:54,920 --> 00:00:58,940
+Well let me try to unravel it by doing something most journalists covering this story clearly
+
+20
+00:00:59,480 --> 00:01:00,480
+haven't done.
+
+21
+00:01:00,480 --> 00:01:02,560
+Read the paper itself.
+
+22
+00:01:02,560 --> 00:01:07,000
+The researchers wanted to quantify the melt rate of glaciers and ice caps around the world
+
+23
+00:01:07,000 --> 00:01:09,600
+outside of Greenland and Antarctica.
+
+24
+00:01:09,600 --> 00:01:14,140
+So they used a satellite program called GRACE, which measures gravitational attraction over
+
+25
+00:01:14,140 --> 00:01:16,160
+different parts of the Earth.
+
+26
+00:01:16,160 --> 00:01:20,560
+Where ice is melting, there's less gravitational attraction, and where it's gaining, there's
+
+27
+00:01:20,560 --> 00:01:21,560
+more.
+
+28
+00:01:21,560 --> 00:01:26,560
+So bluer areas are where ice is melting, the redder areas show ice gain.
+
+29
+00:01:26,560 --> 00:01:31,620
+And the first thing you'll notice of course are huge areas of blue and very little red.
+
+30
+00:01:31,620 --> 00:01:36,980
+A massive quantity of ice is melting all over the world, especially rapidly in Patagonia,
+
+31
+00:01:36,980 --> 00:01:40,160
+Alaska, Iceland and Northern Canada.
+
+32
+00:01:40,160 --> 00:01:44,580
+But when it came to the Himalayas, they calculated there was very little net loss of ice over
+
+33
+00:01:44,580 --> 00:01:46,220
+the area as a whole.
+
+34
+00:01:46,220 --> 00:01:48,080
+Now how can that be?
+
+35
+00:01:48,080 --> 00:01:52,940
+After all, most studies so far have suggested strong melt of the Himalayan glaciers.
+
+36
+00:01:52,940 --> 00:01:56,940
+The problem is the only direct measurements have come from accessible glaciers at lower
+
+37
+00:01:56,940 --> 00:01:58,120
+altitudes.
+
+38
+00:01:58,120 --> 00:02:03,340
+The rate of melt of high altitude glaciers, which are inaccessible, has either been extrapolated
+
+39
+00:02:03,340 --> 00:02:07,040
+from these results or measured by remote sensing.
+
+40
+00:02:07,040 --> 00:02:10,760
+And the Nature Study suggests both methods are flawed.
+
+41
+00:02:10,760 --> 00:02:15,680
+The nature researchers, on the other hand, could only measure blocks of 100 square kilometres.
+
+42
+00:02:15,680 --> 00:02:19,220
+They couldn't differentiate between individual glaciers.
+
+43
+00:02:19,220 --> 00:02:24,320
+So they postulated that melting at lower altitudes is compensated for by ice gain at
+
+44
+00:02:24,320 --> 00:02:26,320
+higher altitudes.
+
+45
+00:02:26,320 --> 00:02:31,080
+So the conclusion was that while most glacial areas around the world are melting, high altitude
+
+46
+00:02:31,080 --> 00:02:34,640
+glaciers, notably in the Himalayas, are not.
+
+47
+00:02:34,640 --> 00:02:38,640
+One of the researchers, John Warr, suggested by way of explanation,
+
+48
+00:02:38,640 --> 00:02:43,400
+Unlike the lower glaciers, most of the high glaciers are located in very cold environments
+
+49
+00:02:43,400 --> 00:02:48,040
+and require greater amounts of atmospheric warming before local temperatures rise enough
+
+50
+00:02:48,040 --> 00:02:50,860
+to cause significant melting.
+
+51
+00:02:50,860 --> 00:02:55,580
+As a result of this revised data, the researchers found that the rate of melt from glaciers
+
+52
+00:02:55,580 --> 00:03:00,780
+and ice caps around the world is about 30% smaller than previously estimated for the
+
+53
+00:03:00,780 --> 00:03:01,960
+same period.
+
+54
+00:03:01,960 --> 00:03:06,320
+In other words, about 63 billion tonnes less melted ice.
+
+55
+00:03:06,320 --> 00:03:11,340
+But while the Himalayas had no net loss, nearly every other glacial area showed significant
+
+56
+00:03:11,340 --> 00:03:14,980
+loss and so did Greenland and Antarctica.
+
+57
+00:03:15,000 --> 00:03:20,720
+So how does the revised Himalayan ice loss affect melt rates worldwide?
+
+58
+00:03:20,720 --> 00:03:26,520
+Well according to the paper, glaciers and ice caps alone accounted for 148 billion tonnes
+
+59
+00:03:26,520 --> 00:03:29,960
+of melting ice a year over the study period.
+
+60
+00:03:29,960 --> 00:03:36,040
+Peripheral glaciers and ice caps in Greenland and Antarctica accounted for 81 billion tonnes.
+
+61
+00:03:36,040 --> 00:03:41,920
+And ice sheets in Greenland and Antarctica accounted for 303 billion tonnes.
+
+62
+00:03:41,980 --> 00:03:49,780
+That's a total of 532 billion tonnes, or nearly 150 cubic miles of ice melting every year.
+
+63
+00:03:49,780 --> 00:03:55,340
+Since this is around 63 billion tonnes less than expected, it's a drop of around 10.5%
+
+64
+00:03:55,340 --> 00:03:57,380
+from what was previously thought.
+
+65
+00:03:57,380 --> 00:04:01,660
+So the headlines about the Himalayas don't tell the whole story, and in many news articles
+
+66
+00:04:01,660 --> 00:04:05,340
+the rest of the story was buried much further down.
+
+67
+00:04:05,340 --> 00:04:07,220
+No further.
+
+68
+00:04:07,220 --> 00:04:08,220
+There it is.
+
+69
+00:04:08,220 --> 00:04:12,680
+The study clearly notes that lower altitude glaciers and ice caps are melting to the tune
+
+70
+00:04:12,680 --> 00:04:17,660
+of about 150 billion tonnes of ice annually, which the study predicts could lead to an
+
+71
+00:04:17,660 --> 00:04:20,600
+overall rise in sea levels.
+
+72
+00:04:20,600 --> 00:04:24,940
+But of course most commentators and opinion makers either missed that or decided to completely
+
+73
+00:04:24,940 --> 00:04:25,940
+ignore it.
+
+74
+00:04:25,940 --> 00:04:30,640
+Now it's okay to run with this headline because it was a significant piece of news.
+
+75
+00:04:30,640 --> 00:04:34,720
+For scientists, the fact that the world is warming and ice is rapidly melting is old
+
+76
+00:04:34,720 --> 00:04:39,380
+news, and indeed the study wasn't supposed to be evidence for global warming, its purpose
+
+77
+00:04:39,380 --> 00:04:43,880
+was to look at how much sea level rise can be expected from this ice melt.
+
+78
+00:04:43,880 --> 00:04:47,660
+But for the popular press, the headline has to be balanced with what was shown in the
+
+79
+00:04:47,660 --> 00:04:53,020
+rest of the study, otherwise it's going to be misunderstood, as it was.
+
+80
+00:04:53,020 --> 00:04:57,500
+Too many commentators simply looked at the headline and assumed this meant ice isn't
+
+81
+00:04:57,500 --> 00:05:00,820
+melting and therefore the world can't be warming.
+
+82
+00:05:00,820 --> 00:05:03,880
+And that ubiquitous ten-year figure is an invention.
+
+83
+00:05:03,880 --> 00:05:07,160
+The study covered eight years and clearly said so.
+
+84
+00:05:07,160 --> 00:05:11,760
+But the fact that a ten-year figure has been so widely circulated suggests that journalists
+
+85
+00:05:11,760 --> 00:05:17,560
+didn't read the paper, but in time-honoured tradition they simply copied off each other.
+
+86
+00:05:17,560 --> 00:05:21,040
+But there is one silver lining in this catalogue of misreporting.
+
+87
+00:05:21,040 --> 00:05:25,740
+Normally, when a scientific paper like this comes out, critics of climate science dismiss
+
+88
+00:05:25,740 --> 00:05:31,600
+it as propaganda, fake figures and dishonest scientists chasing after research grants.
+
+89
+00:05:31,600 --> 00:05:35,400
+But I'm delighted that in this case they've decided to accept it.
+
+90
+00:05:35,400 --> 00:05:36,400
+Great!
+
+91
+00:05:36,400 --> 00:05:43,480
+So they accept that over 1,000 cubic miles of ice melted between 2003 and 2010.
+
+92
+00:05:43,480 --> 00:05:48,000
+So the next question they have to answer is, what on earth could be causing that?
+

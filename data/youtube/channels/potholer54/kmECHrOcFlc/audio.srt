@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:06,560
+The movie The Day After Tomorrow is based very loosely on a hypothesis that increased
+
+2
+00:00:06,560 --> 00:00:11,240
+global warming will trigger another ice age. It's a theme that's also been taken up by
+
+3
+00:00:11,240 --> 00:00:16,560
+the media. But in this video, as always, I want to look at the science and compare it
+
+4
+00:00:16,560 --> 00:00:18,180
+to the hype.
+
+5
+00:00:18,180 --> 00:00:22,720
+So let's start with Wally Broecker, who postulated that increasing meltwater flowing south from
+
+6
+00:00:22,720 --> 00:00:27,080
+Greenland would interrupt the Gulf Stream. That's the current that brings warm water
+
+7
+00:00:27,080 --> 00:00:32,600
+up from the Caribbean to the North Atlantic, and most climatologists agree, keeps Western
+
+8
+00:00:32,600 --> 00:00:34,720
+Europe warm in winter.
+
+9
+00:00:34,720 --> 00:00:39,640
+Normally the Gulf Stream gets more salty as water evaporates on the journey northwards.
+
+10
+00:00:39,640 --> 00:00:44,400
+Since salty water is dense, it sinks in the North Atlantic, forming a deep-sea current
+
+11
+00:00:44,400 --> 00:00:49,680
+that makes the return journey southwards. This is known as the Atlantic Meridional Overturning
+
+12
+00:00:49,680 --> 00:00:54,940
+Circulation, or AMOC, which is part of a much larger thermohaline circulation extending
+
+13
+00:00:54,940 --> 00:00:56,720
+around the world.
+
+14
+00:00:56,720 --> 00:01:01,720
+And meltwater from Greenland is fresh water. If that mixes with the Gulf Stream, then the
+
+15
+00:01:01,720 --> 00:01:07,720
+salt content is diluted and the water no longer sinks. The result would be a slowdown or even
+
+16
+00:01:07,720 --> 00:01:14,220
+a shutdown of the AMOC. Western Europe would experience the same kinds of winters as Canada.
+
+17
+00:01:14,220 --> 00:01:19,480
+Evidence from the past supports the idea because the same thing has happened several times.
+
+18
+00:01:19,480 --> 00:01:23,960
+Most recently, at the end of the last glaciation, the probable cause of what's known as the
+
+19
+00:01:23,960 --> 00:01:29,200
+Younger Dryas was a huge lake of melted ice in North America that burst its banks and
+
+20
+00:01:29,200 --> 00:01:34,480
+spilled into the Atlantic. Oceanographers say it's likely increasing amounts of meltwater
+
+21
+00:01:34,480 --> 00:01:40,140
+will begin to slow down the ocean's circulation system, but not in the next few decades. It'll
+
+22
+00:01:40,140 --> 00:01:44,680
+take at least 100 years for there to be enough meltwater to do that.
+
+23
+00:01:44,680 --> 00:01:50,320
+Even so, they began to monitor the strength of the Atlantic circulation. In 2005, researchers
+
+24
+00:01:50,320 --> 00:01:55,360
+at the National Oceanography Centre in Britain surveyed the Atlantic and compared their findings
+
+25
+00:01:55,360 --> 00:02:00,960
+with records going back to 1957. Now, the figures had to be extrapolated because previous
+
+26
+00:02:00,960 --> 00:02:05,920
+surveys had recorded different criteria, but the results suggested that the deep current
+
+27
+00:02:05,920 --> 00:02:12,600
+taking cold water south had slowed 30%. The tabloid press, of course, immediately hyped
+
+28
+00:02:12,600 --> 00:02:13,600
+the story.
+
+29
+00:02:13,600 --> 00:02:17,920
+Is Britain on the brink of a new ice age? asked one British newspaper.
+
+30
+00:02:17,920 --> 00:02:22,360
+The body of the story answered the question unequivocally, as the Gulf Stream that warms
+
+31
+00:02:22,360 --> 00:02:28,160
+our shores falters was the first line. The story went on. This week's news that the Gulf
+
+32
+00:02:28,160 --> 00:02:33,160
+Stream has abruptly begun to weaken could be one of the most important and most devastating
+
+33
+00:02:33,160 --> 00:02:39,440
+scientific observations ever to hit the headlines. Researchers at the National Oceanography Centre
+
+34
+00:02:39,440 --> 00:02:44,240
+in Southampton, who have measured the strength of the current far out into the Atlantic,
+
+35
+00:02:44,240 --> 00:02:49,880
+have found that it has slowed by a massive 30%. But there was no data to show whether
+
+36
+00:02:49,880 --> 00:02:56,000
+the slowdown, even if it was real, was anything abnormal or permanent. Science is sceptical
+
+37
+00:02:56,000 --> 00:03:01,240
+by nature. Most scientists don't jump to conclusions, especially based on just one
+
+38
+00:03:01,240 --> 00:03:07,340
+inconclusive study. realclimate.org, a blog run by climate scientists, warned that while
+
+39
+00:03:07,340 --> 00:03:12,320
+continued monitoring of this key climatic area is clearly warranted, the imminent chilling
+
+40
+00:03:12,320 --> 00:03:17,400
+of Europe is a ways off yet. Gavin Schmidt, a climate modeller at the Goddard Institute
+
+41
+00:03:17,400 --> 00:03:22,440
+for Space Studies, and Richard Woods, chief oceanographer at the Hadley Centre in Britain,
+
+42
+00:03:22,440 --> 00:03:26,720
+both said the same thing, that a decline in circulation should have produced a decline
+
+43
+00:03:26,720 --> 00:03:32,400
+in European surface temperatures, but it hadn't. So it's likely that even the result itself
+
+44
+00:03:32,400 --> 00:03:37,560
+was erroneous. Robert Dixon of the British Centre for Environment, Fisheries and Aquaculture
+
+45
+00:03:37,560 --> 00:03:41,900
+Science told the New York Times that much more data was needed to determine whether
+
+46
+00:03:41,900 --> 00:03:48,200
+a slowdown was underway. Even Harry Brydon, lead author of the study, was cautious about
+
+47
+00:03:48,200 --> 00:03:53,180
+his own results. He told news scientists he wasn't yet sure if the change was temporary
+
+48
+00:03:53,180 --> 00:03:59,660
+or signals a long-term trend. But caution and caveats are not what sell news stories.
+
+49
+00:03:59,660 --> 00:04:04,260
+Critics of the anthropogenic climate change theory often accuse the media of alarmism,
+
+50
+00:04:04,260 --> 00:04:09,140
+and this is a prime example. When Brydon and his colleagues checked newly installed sensors
+
+51
+00:04:09,140 --> 00:04:14,340
+a few months later as part of a follow-up study, the results were more ambiguous.
+
+52
+00:04:14,340 --> 00:04:18,740
+We've got a variable signal, but it's too early to detect any trends, Brydon told news
+
+53
+00:04:18,740 --> 00:04:24,420
+scientists, in a story titled No New Ice Age for Western Europe. You couldn't get a clearer
+
+54
+00:04:24,420 --> 00:04:30,780
+headline than that. Carl Wunsch, an oceanographer at MIT, was quoted as saying, it's a complicated
+
+55
+00:04:30,780 --> 00:04:36,280
+story reduced to a fairy tale. And yet the mainstream media was still fixated on the
+
+56
+00:04:36,280 --> 00:04:41,160
+idea of an imminent shutdown. Sea change, why global warming could leave Brydon feeling
+
+57
+00:04:41,160 --> 00:04:46,480
+the cold, was the headline in The Guardian. In 2007, the full results of the follow-up
+
+58
+00:04:46,480 --> 00:04:52,680
+study were published. And it confirmed the preliminary 2006 results, showing a huge variation
+
+59
+00:04:52,680 --> 00:04:59,040
+in the speed of the thermohaline circulation. Even if the 30% slowdown found in 2005 was
+
+60
+00:04:59,040 --> 00:05:03,880
+real, it could easily be part of this natural variation, which is what prominent climate
+
+61
+00:05:03,880 --> 00:05:09,560
+scientists had been saying all along. Then in March 2010, researchers from NASA's Jet
+
+62
+00:05:09,560 --> 00:05:15,640
+Propulsion Laboratory used other data to measure the circulation, including satellite altimetry,
+
+63
+00:05:15,640 --> 00:05:22,560
+and found no significant change between 2002 and 2009. So the Daily Mail fearlessly busted
+
+64
+00:05:22,560 --> 00:05:29,560
+the media's Ice Age fearmongering. New climate change myth! Gulf Stream is not slowing down.
+
+65
+00:05:30,080 --> 00:05:33,860
+Fears that global warming will shut down the Gulf Stream and plunge Britain into a mini
+
+66
+00:05:33,860 --> 00:05:39,920
+Ice Age are unfounded, a study shows. Some environmentalists have argued that global
+
+67
+00:05:39,920 --> 00:05:44,680
+warming could shut off the stream, sending temperatures spiralling down across Europe
+
+68
+00:05:44,680 --> 00:05:49,680
+as they rise elsewhere. Hang on, it was the media that was telling us that global warming
+
+69
+00:05:49,680 --> 00:05:54,200
+would shut off the Gulf Stream, and they didn't get that from environmentalists. If the Daily
+
+70
+00:05:54,200 --> 00:05:58,760
+Mail wants to name and shame those who created the myth, it should start with this piece
+
+71
+00:05:58,760 --> 00:06:05,760
+of hysterical nonsense from 2005. Okay, who printed it? Why, shock horror, it was the
+
+72
+00:06:06,760 --> 00:06:12,520
+Daily Mail. Obviously, in its outrage that we'd all been hoodwinked by yet another myth,
+
+73
+00:06:12,520 --> 00:06:16,800
+the Mail forgot that it had helped start the myth five years earlier with this kind of
+
+74
+00:06:16,800 --> 00:06:22,760
+scaremongering rubbish. Without the Gulf Stream, Britain would be scarcely habitable, its broad
+
+75
+00:06:22,760 --> 00:06:29,200
+acres would turn to tundra, and winter temperatures would plunge to minus 20 degrees centigrade.
+
+76
+00:06:29,200 --> 00:06:33,720
+The Daily Mail could easily have checked with climate scientists to see if this was at all
+
+77
+00:06:33,720 --> 00:06:38,720
+likely. It could have read the science media, which managed to get the story right. Instead,
+
+78
+00:06:38,720 --> 00:06:43,600
+it drew its own conclusions based on a limited understanding of the scientific method and
+
+79
+00:06:43,600 --> 00:06:48,560
+ramped up the hype. It is hard to imagine the devastating effect such a climatic flip
+
+80
+00:06:48,560 --> 00:06:53,920
+would have on our tightly populated islands, and on the world as a whole. Civilization
+
+81
+00:06:53,920 --> 00:06:59,600
+could scarcely survive it. Now, five years on, the Daily Mail is railing against a myth
+
+82
+00:06:59,600 --> 00:07:04,540
+of its own making. The idea that a slowdown of the ocean currents would trigger such a
+
+83
+00:07:04,540 --> 00:07:11,540
+rapid change in climate is pure fantasy, explained Dr Willis. Well, yes. But four years earlier,
+
+84
+00:07:11,800 --> 00:07:16,320
+Carl Wunsch had told news scientists exactly the same thing, except he had called it a
+
+85
+00:07:16,360 --> 00:07:21,680
+fairy tale. Where was the Daily Mail then? I guess reporters were too busy having one
+
+86
+00:07:21,680 --> 00:07:27,560
+last shag in anticipation that civilization was about to end. The Daily Mail wasn't the
+
+87
+00:07:27,560 --> 00:07:32,560
+only one to help create a myth, then turn around five years later to disown it, and
+
+88
+00:07:32,560 --> 00:07:37,240
+have the Schutzpah to blame someone else. Britain's Daily Telegraph also went overboard
+
+89
+00:07:37,240 --> 00:07:42,800
+on Brydon's 2005 study. The discovery has alarmed scientists because ancient climate
+
+90
+00:07:42,800 --> 00:07:47,560
+records show that northern air temperatures can drop by up to 10 degrees centigrade within
+
+91
+00:07:47,560 --> 00:07:53,620
+decades of the circulation slowing, or even stopping. But despite quoting two experts
+
+92
+00:07:53,620 --> 00:07:58,560
+in the story, the Telegraph failed to find a single one who said he was alarmed. The
+
+93
+00:07:58,560 --> 00:08:03,640
+alarm seemed to be sounded by the Telegraph itself. The changes in the Atlantic currents
+
+94
+00:08:03,640 --> 00:08:08,560
+would cause average temperatures over Britain to fall by up to 6 degrees centigrade in as
+
+95
+00:08:08,560 --> 00:08:14,280
+little as 20 years. No prizes for guessing the Telegraph's stance five years on, when
+
+96
+00:08:14,280 --> 00:08:19,500
+it had to report that scientists were not predicting any such thing. Research suggests
+
+97
+00:08:19,500 --> 00:08:25,960
+that fears that Britain could be plunged into an ice age by a waning Gulf Stream are unfounded.
+
+98
+00:08:25,960 --> 00:08:30,960
+The findings call into question theories proposed by some environmentalists that global warming
+
+99
+00:08:30,960 --> 00:08:36,880
+could shut down the stream, causing temperatures to fall dramatically in Europe. But this theory
+
+100
+00:08:36,880 --> 00:08:41,520
+isn't proposed by some environmentalists. The Telegraph based its story on a study by
+
+101
+00:08:41,520 --> 00:08:46,700
+the Oceanography Centre, which it didn't understand, and then added its own speculation
+
+102
+00:08:46,700 --> 00:08:52,480
+based on a poor understanding of climate science. Broca's theory, actually a hypothesis, has
+
+103
+00:08:52,480 --> 00:08:57,400
+remained unchanged and unchallenged throughout this saga, and it doesn't say we're about
+
+104
+00:08:57,400 --> 00:09:03,000
+to be plunged into another ice age. The smokescreen and spin put out by some of the media, whether
+
+105
+00:09:03,000 --> 00:09:07,760
+they're hyping the science or trying to undermine it, make it harder and harder to get across
+
+106
+00:09:07,760 --> 00:09:13,440
+the reality that's turning up in the research. Oceanographers say a slowdown of the thermohaline
+
+107
+00:09:13,440 --> 00:09:19,140
+circulation is at least 100 years away, although that depends on the Greenland ice sheet continuing
+
+108
+00:09:19,140 --> 00:09:24,880
+to melt at the current rate. Many glaciologists say it's likely to accelerate. Even if and
+
+109
+00:09:24,880 --> 00:09:29,300
+when it happens, not one of the models predicts what the Daily Mail and the Daily Telegraph
+
+110
+00:09:29,300 --> 00:09:35,760
+call an ice age. You know, Britain scarcely habitable, civilisation scarcely surviving
+
+111
+00:09:35,760 --> 00:09:41,840
+it. Oceanographers say the world isn't facing the same situation it did 12,500 years ago,
+
+112
+00:09:41,840 --> 00:09:46,520
+when it was coming out of a glaciation and global temperatures were much cooler. So even
+
+113
+00:09:46,520 --> 00:09:50,900
+if and when a slowdown happens, the Mail's prediction that another ice age would cover
+
+114
+00:09:50,900 --> 00:09:55,960
+Britain in permanently frozen soil is nothing more than tabloid journalists drawing their
+
+115
+00:09:55,960 --> 00:10:02,580
+own conclusions. Does all this sound familiar? The 1970s myth about an imminent ice age was
+
+116
+00:10:02,580 --> 00:10:07,540
+also largely the work of the media, for which scientists are now getting the blame. How
+
+117
+00:10:07,540 --> 00:10:12,500
+long do you think before people are proclaiming the Daily Mail a champion of truth for busting
+
+118
+00:10:12,500 --> 00:10:15,580
+a myth that those fraudulent scientists started?
+
