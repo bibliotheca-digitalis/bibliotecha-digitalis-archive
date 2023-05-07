@@ -1,0 +1,880 @@
+1
+00:00:00,000 --> 00:00:02,720
+Look around the room you're sitting in right now.
+
+2
+00:00:02,720 --> 00:00:05,760
+Let's fill it top to bottom with trillions of grains of sand,
+
+3
+00:00:05,760 --> 00:00:08,400
+billions of grains of rice, hundreds of thousands
+
+4
+00:00:08,400 --> 00:00:10,560
+of grapes, a few thousand apples,
+
+5
+00:00:10,560 --> 00:00:12,320
+and a dozen watermelons.
+
+6
+00:00:12,320 --> 00:00:15,760
+This is what the inside of your cells looks like.
+
+7
+00:00:15,760 --> 00:00:17,400
+In terms of numbers, they're mostly
+
+8
+00:00:17,400 --> 00:00:20,640
+filled up with water molecules, the grains of sand.
+
+9
+00:00:20,640 --> 00:00:24,000
+Water gives the cells insides the consistency of soft jelly
+
+10
+00:00:24,000 --> 00:00:27,000
+and enables other things to move around easily.
+
+11
+00:00:27,000 --> 00:00:29,720
+Almost all the other things, the rice and fruit,
+
+12
+00:00:29,720 --> 00:00:32,600
+are proteins, several billion in total,
+
+13
+00:00:32,600 --> 00:00:34,760
+more than 10,000 different kinds,
+
+14
+00:00:34,760 --> 00:00:37,000
+depending on the function of the cell.
+
+15
+00:00:37,000 --> 00:00:41,600
+Your cells are basically protein robots, as is all life, really.
+
+16
+00:00:41,600 --> 00:00:44,640
+In fact, all solid non-fat parts of your body
+
+17
+00:00:44,640 --> 00:00:47,920
+are mostly made out of protein, even your bones.
+
+18
+00:00:47,920 --> 00:00:51,440
+Proteins are dead things that make life happen.
+
+19
+00:00:51,440 --> 00:00:53,400
+How does this work?
+
+20
+00:00:53,400 --> 00:00:55,480
+The language of life.
+
+21
+00:00:55,480 --> 00:00:59,240
+Cells need to do many very hard things to stay alive.
+
+22
+00:00:59,280 --> 00:01:03,560
+Get food in and waste out, grow and build structures,
+
+23
+00:01:03,560 --> 00:01:06,040
+escape danger or react to stimuli,
+
+24
+00:01:06,040 --> 00:01:08,640
+make copies of themselves, and so on.
+
+25
+00:01:08,640 --> 00:01:12,040
+All of this is done by speaking the language of life.
+
+26
+00:01:12,040 --> 00:01:15,000
+And the words of this language are proteins.
+
+27
+00:01:15,000 --> 00:01:18,360
+This is how this language works in a nutshell.
+
+28
+00:01:18,360 --> 00:01:22,480
+It all begins with amino acids, tiny organic molecules.
+
+29
+00:01:22,480 --> 00:01:25,280
+They're the alphabet of the language of life.
+
+30
+00:01:25,280 --> 00:01:28,600
+There are 21 different ones, like different letters.
+
+31
+00:01:28,600 --> 00:01:32,920
+Amino acid A, amino acid B, C, and so on.
+
+32
+00:01:32,920 --> 00:01:36,840
+If you put around 50 amino acids together, they form a protein,
+
+33
+00:01:36,840 --> 00:01:39,640
+which in the language of life is a word.
+
+34
+00:01:39,640 --> 00:01:42,320
+And if you put many of these protein words together,
+
+35
+00:01:42,320 --> 00:01:46,280
+you get a sentence called a biological pathway.
+
+36
+00:01:46,280 --> 00:01:48,840
+Let's oversimplify a bit and say, for example,
+
+37
+00:01:48,840 --> 00:01:52,200
+your cell needs to break down sugar with the language of life.
+
+38
+00:01:52,200 --> 00:01:57,640
+It may take the amino acids for the letters B, R, E, A, and K
+
+39
+00:01:57,680 --> 00:02:00,360
+to form the protein word break.
+
+40
+00:02:00,360 --> 00:02:03,240
+Then combine this word with other protein words
+
+41
+00:02:03,240 --> 00:02:05,960
+to form a biological pathway sentence
+
+42
+00:02:05,960 --> 00:02:08,960
+that means break down sugar.
+
+43
+00:02:08,960 --> 00:02:12,200
+In reality, this language of life is so complex
+
+44
+00:02:12,200 --> 00:02:14,120
+that it defies imagination.
+
+45
+00:02:14,120 --> 00:02:16,040
+You need to know about 8,000 words
+
+46
+00:02:16,040 --> 00:02:18,160
+to speak a human language really well.
+
+47
+00:02:18,160 --> 00:02:22,080
+But in the language of life, there are an estimated 20,000.
+
+48
+00:02:22,080 --> 00:02:24,920
+And while the average English word has five letters,
+
+49
+00:02:24,960 --> 00:02:29,640
+human proteins have an average of 375 amino acids.
+
+50
+00:02:29,640 --> 00:02:33,920
+The longest protein has more than 30,000.
+
+51
+00:02:33,920 --> 00:02:36,560
+And cells need to execute thousands of steps
+
+52
+00:02:36,560 --> 00:02:37,960
+at any moment.
+
+53
+00:02:37,960 --> 00:02:41,760
+If they ever stop speaking the language of life, they die.
+
+54
+00:02:41,760 --> 00:02:46,360
+OK, but how do mindless cells speak a language this complex?
+
+55
+00:02:46,360 --> 00:02:48,720
+Let's dive a little deeper.
+
+56
+00:02:48,720 --> 00:02:50,560
+There are 21 amino acids that can
+
+57
+00:02:50,560 --> 00:02:52,960
+be combined to form proteins.
+
+58
+00:02:52,960 --> 00:02:55,240
+And proteins are made up of dozens to hundreds
+
+59
+00:02:55,240 --> 00:02:57,520
+to thousands of amino acids.
+
+60
+00:02:57,520 --> 00:02:59,680
+For the average protein length of a human cell
+
+61
+00:02:59,680 --> 00:03:04,360
+of 375 amino acids, you get a stunning 6.8 times
+
+62
+00:03:04,360 --> 00:03:09,360
+10 to the power of 495 possible proteins your cells can make,
+
+63
+00:03:09,360 --> 00:03:13,560
+a quadrillion googol, googol, googol, googol times more
+
+64
+00:03:13,560 --> 00:03:16,480
+than there are atoms in the universe.
+
+65
+00:03:16,480 --> 00:03:19,000
+Most of these possible proteins are useless.
+
+66
+00:03:19,000 --> 00:03:22,120
+Just like with human language, most random letter combinations
+
+67
+00:03:22,120 --> 00:03:23,400
+are just gibberish.
+
+68
+00:03:23,400 --> 00:03:26,000
+So you need to know which words, which proteins,
+
+69
+00:03:26,000 --> 00:03:29,000
+make up a language to speak it properly.
+
+70
+00:03:29,000 --> 00:03:32,280
+And this is the job of your DNA, a long sequence
+
+71
+00:03:32,280 --> 00:03:34,360
+of instructions.
+
+72
+00:03:34,360 --> 00:03:36,520
+If you untangle the cell's DNA, it
+
+73
+00:03:36,520 --> 00:03:38,520
+would be about two meters long.
+
+74
+00:03:38,520 --> 00:03:41,520
+All of your body's DNA combined into one long string
+
+75
+00:03:41,520 --> 00:03:44,960
+would reach to the sun and back over 20 times.
+
+76
+00:03:44,960 --> 00:03:48,120
+Around 1% of your DNA is made up of genes,
+
+77
+00:03:48,120 --> 00:03:50,160
+which are basically protein dictionaries that
+
+78
+00:03:50,160 --> 00:03:52,320
+contain all the words of the language of life
+
+79
+00:03:52,320 --> 00:03:54,040
+your cells speak.
+
+80
+00:03:54,040 --> 00:03:56,080
+But genes are also the building manuals
+
+81
+00:03:56,080 --> 00:03:59,400
+for all the proteins your cells need to function.
+
+82
+00:03:59,400 --> 00:04:02,080
+The rest of your DNA is probably not useless,
+
+83
+00:04:02,080 --> 00:04:04,400
+but basically like a set of rules.
+
+84
+00:04:04,400 --> 00:04:07,360
+It's like the book of grammar of the language of life.
+
+85
+00:04:07,360 --> 00:04:10,400
+Which proteins need to be built at which time?
+
+86
+00:04:10,400 --> 00:04:12,320
+How many of them do you need?
+
+87
+00:04:12,320 --> 00:04:15,600
+Which protein words go together and why?
+
+88
+00:04:15,600 --> 00:04:20,680
+OK, letters, words, sentences, dictionary, and grammar.
+
+89
+00:04:20,680 --> 00:04:23,360
+But of course, this is all just a metaphor for something
+
+90
+00:04:23,360 --> 00:04:25,600
+mind-numbingly complex.
+
+91
+00:04:25,600 --> 00:04:30,080
+Let's dive a little deeper to catch a glimpse of reality.
+
+92
+00:04:30,080 --> 00:04:33,120
+How dead proteins make life.
+
+93
+00:04:33,120 --> 00:04:35,240
+Now that we have some basic principles,
+
+94
+00:04:35,240 --> 00:04:38,000
+we have a chance to understand how dead things make life
+
+95
+00:04:38,000 --> 00:04:39,080
+together.
+
+96
+00:04:39,080 --> 00:04:41,160
+And for that, we need a fundamental force
+
+97
+00:04:41,160 --> 00:04:44,360
+of the universe, electromagnetism.
+
+98
+00:04:44,360 --> 00:04:46,080
+The elementary particles that make up
+
+99
+00:04:46,080 --> 00:04:48,280
+atoms, which make up amino acids,
+
+100
+00:04:48,280 --> 00:04:51,880
+have different charges that attract or repel each other.
+
+101
+00:04:51,880 --> 00:04:55,080
+The 21 different amino acids all have slightly different
+
+102
+00:04:55,080 --> 00:04:56,360
+charges.
+
+103
+00:04:56,360 --> 00:05:00,120
+Some are more negative, others more positive.
+
+104
+00:05:00,120 --> 00:05:02,040
+When your cells build proteins, they
+
+105
+00:05:02,040 --> 00:05:04,560
+put different amino acids together in chains,
+
+106
+00:05:04,560 --> 00:05:06,560
+basically long strings.
+
+107
+00:05:06,560 --> 00:05:09,120
+Now because of the different charges of the amino acids
+
+108
+00:05:09,120 --> 00:05:12,680
+used, these strings begin to fold in on themselves.
+
+109
+00:05:12,680 --> 00:05:14,840
+This folding process is so complex
+
+110
+00:05:14,840 --> 00:05:16,680
+that we still haven't completely understood
+
+111
+00:05:16,680 --> 00:05:18,360
+how exactly it works.
+
+112
+00:05:18,360 --> 00:05:23,360
+But in a nutshell, 1D strings become 3D structures.
+
+113
+00:05:23,360 --> 00:05:26,280
+Proteins are basically 3D puzzle pieces
+
+114
+00:05:26,280 --> 00:05:28,400
+with a very specific shape.
+
+115
+00:05:28,400 --> 00:05:31,360
+In the world of proteins, shape is everything.
+
+116
+00:05:31,360 --> 00:05:34,280
+Because its 3D shape determines which areas of a protein
+
+117
+00:05:34,280 --> 00:05:36,520
+are charged in which way, and this
+
+118
+00:05:36,520 --> 00:05:40,080
+determines how it can interact with other proteins.
+
+119
+00:05:40,080 --> 00:05:42,400
+All of these differently charged puzzle pieces
+
+120
+00:05:42,400 --> 00:05:45,320
+can snap together or repel each other.
+
+121
+00:05:45,320 --> 00:05:47,240
+When they snap together, their charge
+
+122
+00:05:47,240 --> 00:05:50,280
+changes, which can make them change their shape, which then
+
+123
+00:05:50,280 --> 00:05:54,840
+makes them a new protein, a new tool that can do new things.
+
+124
+00:05:54,840 --> 00:05:58,280
+This is what makes proteins so incredibly powerful.
+
+125
+00:05:58,280 --> 00:06:00,760
+You can do basically everything with them.
+
+126
+00:06:00,760 --> 00:06:02,920
+They can snap together like LEGO pieces
+
+127
+00:06:02,920 --> 00:06:04,920
+to build complex structures.
+
+128
+00:06:04,920 --> 00:06:06,720
+They can dismantle things.
+
+129
+00:06:06,720 --> 00:06:08,960
+They can form complex micro machines
+
+130
+00:06:08,960 --> 00:06:11,480
+that use energy to do work.
+
+131
+00:06:11,480 --> 00:06:15,240
+And maybe most stunningly, they can convey information.
+
+132
+00:06:15,240 --> 00:06:18,400
+Let's say there's a toxic chemical entering your cell.
+
+133
+00:06:18,400 --> 00:06:21,640
+There may be a protein shaped to snap to that toxin.
+
+134
+00:06:21,640 --> 00:06:25,400
+If the protein finds that toxin, it changes its shape.
+
+135
+00:06:25,400 --> 00:06:28,520
+With that new shape, it can now snap into a different protein
+
+136
+00:06:28,520 --> 00:06:30,400
+that changes its shape again.
+
+137
+00:06:30,400 --> 00:06:32,840
+This new protein activates a micro machine
+
+138
+00:06:32,840 --> 00:06:35,560
+that directly binds to your DNA to order
+
+139
+00:06:35,560 --> 00:06:37,880
+the production of a special protein which acts
+
+140
+00:06:37,880 --> 00:06:40,120
+as an antidote to the toxin.
+
+141
+00:06:40,160 --> 00:06:42,640
+This cascade of interaction is the pathway
+
+142
+00:06:42,640 --> 00:06:44,760
+we spoke about earlier, a sentence
+
+143
+00:06:44,760 --> 00:06:46,960
+in the language of life.
+
+144
+00:06:46,960 --> 00:06:49,280
+So without a single active thought,
+
+145
+00:06:49,280 --> 00:06:53,040
+proteins have fixed a problem and saved the cell's life.
+
+146
+00:06:53,040 --> 00:06:55,560
+In reality, these pathways can have dozens
+
+147
+00:06:55,560 --> 00:06:57,760
+to hundreds of steps.
+
+148
+00:06:57,760 --> 00:07:01,720
+How life operates is so incredibly awe inducing.
+
+149
+00:07:01,720 --> 00:07:04,640
+Somehow, mind numbingly complex interactions
+
+150
+00:07:04,640 --> 00:07:08,640
+between dumb and dead proteins create a less dumb and less
+
+151
+00:07:08,640 --> 00:07:10,000
+dead cell.
+
+152
+00:07:10,000 --> 00:07:12,640
+Somewhere around here, life happens.
+
+153
+00:07:12,640 --> 00:07:15,760
+But we still don't know what life is.
+
+154
+00:07:15,760 --> 00:07:18,840
+How dumb things are smart together.
+
+155
+00:07:18,840 --> 00:07:20,200
+We need another analogy.
+
+156
+00:07:20,200 --> 00:07:22,200
+So let's talk about ants.
+
+157
+00:07:22,200 --> 00:07:24,800
+Ants share a fundamental property with cells.
+
+158
+00:07:24,800 --> 00:07:26,520
+They are really dumb.
+
+159
+00:07:26,520 --> 00:07:29,320
+A single ant will just stumble around uselessly.
+
+160
+00:07:29,320 --> 00:07:31,160
+But if you put a lot of ants together,
+
+161
+00:07:31,160 --> 00:07:34,320
+they exchange information and do amazing things.
+
+162
+00:07:34,320 --> 00:07:37,600
+Constructing complex structures, organizing themselves,
+
+163
+00:07:37,600 --> 00:07:40,600
+caring for broods, or attacking enemies.
+
+164
+00:07:40,600 --> 00:07:43,240
+Although dumb individually, together, they
+
+165
+00:07:43,240 --> 00:07:45,240
+become something greater.
+
+166
+00:07:45,240 --> 00:07:49,480
+This phenomenon occurs all over nature and is called emergence.
+
+167
+00:07:49,480 --> 00:07:51,080
+It's the observation that entities
+
+168
+00:07:51,080 --> 00:07:55,560
+have properties and abilities that their parts do not have.
+
+169
+00:07:55,560 --> 00:07:58,160
+This is how everything in your body works.
+
+170
+00:07:58,160 --> 00:08:02,160
+Your cells are bags of proteins guided by chemistry.
+
+171
+00:08:02,160 --> 00:08:04,200
+But together, these proteins form
+
+172
+00:08:04,200 --> 00:08:08,520
+a living being that can do a lot of really sophisticated things.
+
+173
+00:08:08,520 --> 00:08:12,240
+Cells are mindless robots that are even dumber than ants.
+
+174
+00:08:12,240 --> 00:08:15,240
+But many of them acting together form specialized tissue
+
+175
+00:08:15,240 --> 00:08:18,600
+and organ systems, from muscles that make your heart beat
+
+176
+00:08:18,600 --> 00:08:21,360
+to brain cells that make you think.
+
+177
+00:08:21,360 --> 00:08:24,080
+If you look outside at the incredible dimension
+
+178
+00:08:24,080 --> 00:08:28,400
+and scale of space, a place where forever is a real thing,
+
+179
+00:08:28,400 --> 00:08:31,600
+it's almost impossible not to feel a bit small.
+
+180
+00:08:31,600 --> 00:08:33,120
+Not special.
+
+181
+00:08:33,120 --> 00:08:35,920
+But if you look inside into what you really are,
+
+182
+00:08:35,920 --> 00:08:39,600
+you just discover almost indescribable complexity,
+
+183
+00:08:39,600 --> 00:08:44,200
+the beautiful language of life.
+
+184
+00:08:44,200 --> 00:08:47,720
+Almost everything in the universe reveals hidden layers of complexity
+
+185
+00:08:47,720 --> 00:08:51,440
+if you look closer and if you have the knowledge to understand it.
+
+186
+00:08:51,440 --> 00:08:53,640
+To help you with that, we've created a series
+
+187
+00:08:53,640 --> 00:08:57,200
+of lessons to take your scientific knowledge to the next level.
+
+188
+00:08:57,200 --> 00:08:59,920
+Made in collaboration with our friends at brilliant.org,
+
+189
+00:08:59,920 --> 00:09:01,840
+these lessons give you a deeper understanding
+
+190
+00:09:01,840 --> 00:09:04,080
+of the topics from our most popular videos,
+
+191
+00:09:04,080 --> 00:09:09,400
+from rabies and mammalian metabolism to climate science and black holes.
+
+192
+00:09:09,400 --> 00:09:11,680
+Brilliant is an interactive learning tool
+
+193
+00:09:11,680 --> 00:09:14,240
+that makes maths, science, and computer science
+
+194
+00:09:14,240 --> 00:09:16,800
+accessible with a hands-on approach.
+
+195
+00:09:16,800 --> 00:09:21,000
+Because we know that to really learn something, you've got to do it.
+
+196
+00:09:21,000 --> 00:09:25,520
+Think of each lesson as a one-on-one tutoring version of a Kurzgesagt video.
+
+197
+00:09:25,520 --> 00:09:28,560
+Brilliant has thousands of other lessons to explore as well,
+
+198
+00:09:28,560 --> 00:09:31,640
+from maths-based topics like algebra and probability
+
+199
+00:09:31,640 --> 00:09:35,360
+to the concepts behind algorithms and artificial intelligence.
+
+200
+00:09:35,360 --> 00:09:38,040
+If you liked the biology discussed in this video,
+
+201
+00:09:38,040 --> 00:09:40,600
+Brilliant's course on computational biology
+
+202
+00:09:40,600 --> 00:09:43,040
+teaches you many important key concepts.
+
+203
+00:09:43,040 --> 00:09:47,360
+You'll learn about DNA instructions, RNA, and protein folding,
+
+204
+00:09:47,360 --> 00:09:50,600
+then learn how those concepts are used to tackle modern challenges
+
+205
+00:09:50,600 --> 00:09:53,400
+like genome sequencing and human health.
+
+206
+00:09:53,400 --> 00:09:55,640
+To get hands-on with Kurzgesagt lessons
+
+207
+00:09:55,640 --> 00:09:57,800
+and explore everything Brilliant has to offer,
+
+208
+00:09:57,800 --> 00:10:00,200
+you can start your free 30-day trial
+
+209
+00:10:00,200 --> 00:10:03,280
+by signing up at brilliant.org slash nutshell.
+
+210
+00:10:03,280 --> 00:10:06,120
+There's even an extra perk for Kurzgesagt viewers.
+
+211
+00:10:06,120 --> 00:10:08,120
+The first 200 people to use the link
+
+212
+00:10:08,120 --> 00:10:11,640
+get 20% off an annual membership once their trial ends.
+
+213
+00:10:11,640 --> 00:10:15,200
+We love seeing how the gears interlock with our search.
+
+214
+00:10:15,200 --> 00:10:19,920
+Brilliant gives you the tools to understand how everything fits together.
+
+215
+00:10:19,920 --> 00:10:23,960
+The story of the human cell continues with our human cell poster,
+
+216
+00:10:23,960 --> 00:10:25,880
+a visually stunning deep dive
+
+217
+00:10:25,880 --> 00:10:29,480
+into the intricate workings of the smallest unit of life.
+
+218
+00:10:29,480 --> 00:10:31,640
+Like all the sciency things in our shop,
+
+219
+00:10:31,640 --> 00:10:34,320
+it's designed with love and produced with care
+
+220
+00:10:34,320 --> 00:10:37,160
+by us here at Kurzgesagt.
+

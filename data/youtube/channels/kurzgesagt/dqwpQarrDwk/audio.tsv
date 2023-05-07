@@ -1,0 +1,87 @@
+start	end	text
+0	6720	Getting to space is hard. Right now, it's like going up a mountain on a unicycle with
+6720	12240	a backpack full of explosives. Incredibly slow, you can't transport a lot of stuff,
+12240	18560	and you might die. A rocket needs to reach a velocity of about 40,000 km an hour to escape
+18560	24280	from Earth. To get to that speed, rockets are mostly containers for fuel, with a tiny
+24280	29400	tip of payload. This is bad if you want to go to other planet, because you need a lot
+29400	35440	of heavy stuff if you want to survive and maybe even come back. So is there a way to
+35440	48840	get to space with less fuel and more payload?
+48840	54680	A nice thing that solved most of our transport problems on Earth is what you call infrastructure.
+54680	59600	Whether it's roads for cars, ports for ships, or rails for trains, we've made it easier
+59600	66140	to get to places. We can apply the same solution to space travel. Space infrastructure will
+66140	73240	make getting into orbit and out to the Moon, Mars, and beyond easier and cheaper. Great,
+73240	78600	but what exactly is space infrastructure? Unlike an Earth space elevator, which is currently
+78600	84640	science fiction, there is a simple yet promising technology that does not require new science
+84640	89960	or magic materials or huge investments and that has been tested successfully in orbit
+89960	98240	already. A cable and a weight, known as a tether. The concept is so simple, it's surprising.
+98240	103640	What if we put tethers, hundreds or thousands of kilometers long, into space and had spacecraft
+103640	110480	use them as ladders to climb to higher altitudes and gain speed? This concept is known as the
+110480	115820	Skyhook. It works even better if we make it spin. The counterweight holds a long cable
+115820	121160	in place while it rotates around a circle. A rotating tether slows down its tip relative
+121160	126040	to the ground at the bottom and speeds it up at the top like a catapult. This means
+126040	130480	that you can transfer energy from the tether and get a massive boost when released, more
+130480	136320	or less for free, equal to twice the tether's rotation velocity. Specialized fibers already
+136320	141320	exist that can survive the extraordinary stresses a Skyhook would be faced with. To
+141320	146140	protect against cuts and collisions from debris and meteorites, we can thread our tether into
+146140	151720	a web of redundant fibers. Since our Skyhook would pass over the same spot many times a
+151720	157280	day, this would allow small reusable shuttles to catch up with it. Of course, it's not that
+157280	161800	easy. At its lowest point, the tether's tip is dashing through the atmosphere at around
+161800	166720	12,000 kilometers per hour. Because of Earth's atmosphere, we can't lower the Skyhook too
+166720	173000	much or it will get too hot from air friction. So it will dip to a height of 80 to 150 kilometers
+173000	179320	and no lower. To match this, we'll need specialized spacecraft that can get to the tether. While
+179320	184500	this isn't exactly easy, it's still much cheaper than getting a big tin can filled with rocket
+184500	190580	fuel to go 40,000 kilometers an hour. Catching the tip will be a challenge too. There's only
+190580	196100	a short time window of 60 to 90 seconds to find a tiny thing in the sky moving at Mach
+196100	201980	12. To make this easier, the tip could have a sort of fishing line a kilometer long with
+201980	206940	a navigation drone that helps the spacecraft connect. Another challenge is keeping our
+206940	212180	Skyhook in orbit. As more and more ships latch onto it and pull themselves up, they use up
+212180	217340	the momentum that keeps it in place. If we don't do anything, it will slow down and crash
+217340	224460	into the atmosphere. And here we can cheat the universe a bit. The Skyhook is a battery
+224460	230220	of orbital energy. It's possible to balance the payloads coming in and being sent off.
+230220	235300	Arriving ships bringing humans and materials home to Earth add energy to the tether, which
+235300	240260	it can give to other ships departing into space. This way, the tether doesn't lose any
+240260	245900	energy. The more we use it, the cheaper it gets. If we're still losing energy with each
+245900	250540	boost, we can recover it with small electric or chemical engines that regularly correct
+250540	255420	the tether's position. A set of tethers, one around Earth and one around Mars, could make
+255420	261060	trips between the planets fast, straightforward, and low-cost compared to rockets. The Earth
+261060	264860	tether would sit in low Earth orbit to grab people and payloads and fling them off to
+264860	270820	Mars. The Mars tether catches them and slows them down for a landing on the surface. In
+270820	274660	the opposite direction, the tether could pick up a vehicle traveling through Mars's thin
+274700	279640	atmosphere at only about 1,000 kilometers an hour, not much faster than our airliners
+279640	284940	on Earth, and fling it back to Earth to be caught and lowered down. The tethers could
+284940	290040	shorten trips between both planets from nine months down to five or even three and reduce
+290040	297100	the scale of the rockets required by between 84 and 96%. Even better, people may be able
+297100	302820	to travel in relative luxury as we could afford to invest in passenger comfort. Tether travel
+302820	308060	would be first-class seats to Mars. Together, tethers around Earth and Mars could provide
+308060	313900	the rapid and cost-efficient transportation backbone that would make space travel affordable.
+313900	318980	But let's go further. Starting from low Mars orbit, a tether could boost ships to the asteroid
+318980	324940	belt. The first craft sent to a new asteroid would need rockets to slow down at its destination.
+324940	330420	Subsequent arrivals might find a tether waiting to catch them and send them back for free.
+330420	335940	Going to asteroids cheaply is a major factor in opening up the resources of the solar system.
+335940	340020	Precious metals and valuable minerals could be delivered to Mars just weeks after they
+340020	345420	were cut out of their asteroid. They would be the perfect building blocks for our interplanetary
+345420	351820	civilization. But why stop here? Mars moons are very convenient. No other moons in the
+351820	357120	solar system orbit that close to their planet. Phobos is so heavy that we don't need to
+357120	361640	worry about slowing it down, making it the perfect attachment point for super tethers
+361640	367800	just under 6,000 km long. The lower tip would fly just over the surface of Mars and be very
+367800	373960	easy to catch. The upper tip can fling ships all the way to Jupiter and Saturn. The same
+373960	380000	super tether can also bring the inner solar system closer. Venus and Mercury are a single
+380000	386900	swing away. Unlike Mars, they're bursting with solar energy and are rich in minerals.
+386900	391780	In the long term, nothing is stopping humanity from constructing a zero-propellant transport
+391780	397460	network for the terrestrial planets centered on the Martian moons. Tethers are a comparably
+397460	402760	cheap and sustainable solution to making space travel affordable and the rest of the solar
+402760	408760	system accessible for exploitation and exploration. Considering that we have the technology to
+408760	414980	build them today, there's really no good excuse to wait any longer. Parts of the solar system
+414980	422680	are far away, but they could be very close. Speaking of stuff that's hard to reach but
+422680	428560	doesn't have to be, knowledge. Our friends from Brilliant can hook you up to a universe
+428560	435020	full of explosive ideas and fun courses. Brilliant is a website that helps you tackle science
+435020	440280	in a practical way with interactive problem-solving courses and daily problems in maths, logic
+440280	444940	and engineering. Each problem gives you all the tools you need to crack complex topics
+444940	450140	all by yourself. It's learning by doing, but with your brain instead of your hands.
+450140	454580	Use your curiosity to get to the bottom of puzzles and courses about things like classical
+454580	459900	mechanics, astronomy, gravitational physics and much more. If you click the link in the
+459900	465100	description or visit brilliant.org slash nutshell, you can sign up for free and learn more things
+465100	470660	than you can imagine. And there's an extra perk for Kurzgesagt viewers. The first 688
+470660	475300	people to use the link get 20% off their annual membership, which lets you view all
+475300	480420	the daily problems in the archives and unlock every course. Brilliant helps you end your
+480420	485180	day a little smarter. You might get hooked on the experience.
