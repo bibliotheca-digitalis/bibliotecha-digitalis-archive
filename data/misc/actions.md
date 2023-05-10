@@ -31,6 +31,19 @@ From now on, all videos will have [Audio Backup] appended to the title. This is
 to further distinguish my videos from the original ones. Again, the whole is not
 to compete with the original channel as much as possible.
 
+### Two videos have been removed due to "misinformation"
+
+Several days ago, two videos from the channel "potholer54" were removed due to
+misformation. The videos concerned the COVID-19 pandemic. I have chosen not to
+reupload them. The problems with this development is,
+
+1. The videos explicitly argue against misinformation. The videos are not
+   misinformation themselves but were apparently confused with the real thing.
+2. The videos are already on Youtube. They were uploaded relatively recently.
+
+I have chose not to fight this. I will not reupload the videos. If I encounter
+more of this in the future, I will have to make a sort of change log for these videos.
+
 ## GitHub
 
 ## Removing
