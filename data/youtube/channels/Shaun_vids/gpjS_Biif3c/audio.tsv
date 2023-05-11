@@ -1,0 +1,92 @@
+start	end	text
+0	5760	Hello there, guys. This is just a short video that I need to make to get out of my system
+5760	9200	so that I can get back to doing something actually productive.
+9200	13040	I'm going to be talking about a video on the TED-Ed channel.
+13040	18720	And now they put out little animations explaining different scientific and philosophical ideas,
+18720	23600	and sometimes they'll do a video explaining some mathematical or logical puzzle.
+23600	26600	It's a neat channel and I generally really like it.
+26680	29960	But the video I want to talk about is one I watched recently called
+29960	33080	Can You Solve the Frog Riddle? by Derek Abbott.
+33080	37080	And if you haven't seen it, I'd advise you pause this video here and go watch it.
+37080	41640	It's only four minutes long, so off you go. I'll see you in four minutes.
+41640	49960	["Can You Solve the Frog Riddle?" by Derek Abbott plays in the background.]
+49960	51000	Welcome back.
+51000	57480	Now, before I get started here, I just want to clarify that I am completely mathematically inept.
+57480	61640	I have no clue what I'm talking about generally when it comes to maths.
+61640	65000	I can't even remember the order of operations.
+65000	69800	And I understand the person who wrote the Frog Riddle is a university professor
+69800	73400	with a whole alphabet's worth of letters before his name,
+73400	77880	so if you're betting on this, I'd honestly go with me being wrong here.
+77880	81160	And a little disclaimer before we get started.
+81160	83960	When I got the sense this riddle was wrong, I googled,
+83960	88600	Is Ted Edd's Frog Riddle Wrong? and found pages and pages of discussion,
+88600	92440	all of which look like this, and none of which I understood.
+92440	96200	But I did find a video by the channel Mind Your Decisions,
+96200	101160	which again, it does look like this, but I think I understood enough of it
+101160	105320	to maybe get a mathematical understanding of why the riddle's wrong.
+105320	110920	So, full props to the Mind Your Decisions channel for doing what I'm going to assume and hope
+110920	117240	is the correct mathematical legwork, um, although I understand it's somewhat contentious.
+117240	124840	Now, all I can do with my video is try to translate this into something understandable
+124840	129320	by me and the rest of the mathematically inept people out there.
+129320	130840	So let's look at the riddle.
+130840	134840	You need to find a female frog or you'll die.
+134840	139240	And you're aware of a unique croak that only males of the species do.
+139240	143080	Otherwise, the males and females are indistinguishable.
+143080	147480	Now, if you see one frog alone on a stump and you don't hear it croak,
+147480	150680	that's a 50-50 chance of it being male or female.
+150680	153240	I'm with the riddle's reasoning so far.
+153240	155160	Then you hear a croak behind you.
+155160	158040	You turn around and you see two frogs.
+158040	163480	So you know that at least one frog of the pair is male, but you don't know which one.
+164120	167000	What's the chance that the pair contains a female?
+167000	171000	So the gut feeling on this is obviously, well, 50%.
+171000	172760	It doesn't matter which frog croaked,
+172760	177160	because the other one has a 50-50 chance of being male or female regardless.
+178280	182120	This is what the TED-Ed video calls wrong answer number one,
+182120	186280	and I actually accept their reasoning as to why it's wrong.
+186280	190120	You see, they write out the sample space of possible combinations.
+190840	194920	And they say hearing a croak eliminates the possibility of two females,
+194920	196200	so they end up with this.
+197000	201800	Now, I don't know why the male and female combination is counted twice here,
+201800	202920	but whatever.
+202920	206200	Enough people seem to accept that those are different possibilities,
+206200	208120	that I'm just gonna concede that point.
+208760	211560	I'm ignorant and I don't get why they're different,
+211560	213480	but okay, they're different.
+214040	218440	Now, my problem with the riddle is how we find out the additional information.
+219160	220440	The croaking.
+220440	224760	You see, I'd be willing to accept the riddle's logic if there was no croaking,
+224760	228440	but maybe, like, a sign near the frogs that said,
+228440	230600	at least one of these two frogs is male.
+231400	234280	You know, if we could trust a random sign in the jungle.
+234840	236920	But the croaking changes things.
+237560	239320	And here's my problem with it.
+239320	242760	We're not told why the frogs croak or how often,
+242760	248520	so we'll just assume that all male frogs croak, on average, at a similar rate.
+248520	253160	Now, logically, two male frogs will croak around twice as much
+253160	256680	over a given time period as one male frog.
+256680	259960	Which means if hearing a croak over a short time period
+259960	262680	is your only way of identifying a male,
+262680	266520	the middle possibility here becomes twice as likely,
+266520	268920	because either frog could have croaked.
+268920	271160	These are the only three possibilities,
+271160	273640	but because of how we find out the information,
+274200	278520	you know, a behavior which would occur twice as much with two males,
+278520	281720	they're not all equally likely possibilities.
+281720	286040	And if we account for the increased likelihood of the middle possibility occurring,
+286040	289560	I'd put the odds of surviving back down at around 50%.
+290600	293080	And why only around and not exactly?
+293080	295160	Again, this is a gut feeling here,
+295160	298920	but I guess you need to account for the odds of hearing one male croak
+299560	301960	and not hearing the other male croak.
+301960	304680	But I am rapidly getting out of my depth here
+304680	307160	and sort of wandering back into this territory,
+307160	310040	so I'm just gonna leave that alone.
+311160	312280	So there we go.
+312280	314360	That's my take on the frog riddle.
+314360	315560	Do you agree?
+315560	316760	Am I wrong?
+316760	320200	If you think I'm wrong, please leave a comment explaining why I'm wrong
+320200	322520	so I can hopefully agree with you
+322520	324600	and then stop thinking about this entirely,
+324600	326680	because I've got things to do.

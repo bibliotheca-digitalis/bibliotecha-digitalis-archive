@@ -1,0 +1,956 @@
+1
+00:00:00,000 --> 00:00:04,600
+Hello, everyone. As you can see from the video game filler in the background there,
+
+2
+00:00:04,600 --> 00:00:08,600
+this is another Q&A video, but a little different this time.
+
+3
+00:00:08,600 --> 00:00:15,120
+You see, recently I put out a video in which I called for more people to start creating their own content on YouTube.
+
+4
+00:00:15,120 --> 00:00:22,680
+And now after I did that, my Twitter and Curious Cat accounts got minorly bombarded by questions from people who wanted to get started,
+
+5
+00:00:22,920 --> 00:00:24,320
+which is great.
+
+6
+00:00:24,320 --> 00:00:29,840
+So this is just a little video to answer a few of those questions and hopefully help people who are starting out.
+
+7
+00:00:30,520 --> 00:00:33,400
+I was asked a lot of similar questions multiple times,
+
+8
+00:00:33,400 --> 00:00:39,200
+so I'll be going over the most common ones here first before answering a few more specific ones at the end.
+
+9
+00:00:39,720 --> 00:00:45,960
+But before I start, I should say, I can only really go into detail about how I personally make videos.
+
+10
+00:00:46,080 --> 00:00:50,640
+Everyone has different approaches and finds different things helpful, and like anything else,
+
+11
+00:00:50,640 --> 00:00:57,840
+I'd say the best way to learn about it is by doing it. With that said, first up, I'll answer the various technical questions
+
+12
+00:00:57,880 --> 00:01:03,160
+I was asked about equipment and software and so on, and I'll talk about pricing first, I guess.
+
+13
+00:01:03,160 --> 00:01:10,160
+So one question I've been asked is, is it worth me starting out making content before I have an expensive microphone
+
+14
+00:01:10,680 --> 00:01:13,120
+like you have? Which made me laugh.
+
+15
+00:01:13,680 --> 00:01:19,760
+So this is the microphone I still use, a Behringer XM1800S.
+
+16
+00:01:19,760 --> 00:01:23,960
+As you can see there, it is free for £31 on Amazon.
+
+17
+00:01:24,240 --> 00:01:31,360
+Now, I have that running into a BTEC BT26 preamp, which is £25 on Amazon,
+
+18
+00:01:31,360 --> 00:01:33,520
+and for additional audio equipment,
+
+19
+00:01:33,520 --> 00:01:36,880
+I have a couple of microphone stands that were about £10 each,
+
+20
+00:01:37,240 --> 00:01:40,080
+a bunch of sound paneling to reduce the echo in the room,
+
+21
+00:01:40,080 --> 00:01:44,960
+but the price for that will vary depending on how much of it you need, that's if you need it at all.
+
+22
+00:01:45,400 --> 00:01:49,160
+And of course, you'll need the various wires and things to connect all that together.
+
+23
+00:01:50,040 --> 00:01:57,640
+All in all, I'd estimate you could replicate my current audio setup for about £100, or about $140.
+
+24
+00:01:57,920 --> 00:02:01,400
+Though this is assuming you already have a computer to record on,
+
+25
+00:02:01,720 --> 00:02:04,800
+and I will point out that if you want to actually appear in your videos,
+
+26
+00:02:04,800 --> 00:02:10,400
+you'll need to add a camera and probably lighting to that as well. I can't really help you there, unfortunately.
+
+27
+00:02:11,200 --> 00:02:15,480
+So that's my basic audio setup there. Now, is it great?
+
+28
+00:02:16,360 --> 00:02:23,320
+No, it's not. It's next on the list of things I need to upgrade, actually. However, it's also not that bad.
+
+29
+00:02:23,360 --> 00:02:26,240
+You know, you can hear my voice fine, it's listenable,
+
+30
+00:02:26,240 --> 00:02:30,720
+it's not too echoey, and I've managed to get to this point without having to change it.
+
+31
+00:02:31,040 --> 00:02:36,800
+Now, obviously, if you have the income to spare, you can buy better and more expensive versions of all the things
+
+32
+00:02:36,800 --> 00:02:43,000
+I just mentioned, but if you don't, it's perfectly possible to start out with something similar to my bare bones setup there.
+
+33
+00:02:43,240 --> 00:02:50,120
+My one piece of possibly snobbish audio advice I'll hand out is to stay away from USB audio devices,
+
+34
+00:02:50,600 --> 00:02:57,280
+microphones, headsets, and so on. Now, obviously, different people will tell you different things, but I'm not a fan, personally.
+
+35
+00:02:57,280 --> 00:03:03,240
+They don't sound the best, and even a cheap XLR slash preamp setup will usually be superior.
+
+36
+00:03:03,560 --> 00:03:09,160
+That's in my experience, anyway. Now, software-wise, I record audio in Audacity,
+
+37
+00:03:09,200 --> 00:03:15,560
+I edit video in Lightworks, and I capture footage for videos with OBS, which is a streaming software,
+
+38
+00:03:15,560 --> 00:03:20,240
+but can also make local recordings. All of these are okay programs.
+
+39
+00:03:20,240 --> 00:03:23,360
+I mean, they get the job done, and they're all free.
+
+40
+00:03:23,360 --> 00:03:28,560
+I will say, if you're just starting out and you have access to a better video editor than Lightworks,
+
+41
+00:03:28,560 --> 00:03:33,000
+I'd recommend learning to edit in that instead, because Lightworks can be a bit finicky.
+
+42
+00:03:33,280 --> 00:03:37,720
+But if you don't have access to that, and you're not some sort of mega millionaire who can purchase
+
+43
+00:03:38,120 --> 00:03:43,800
+professional editing software on a whim, Lightworks is a perfectly passable free alternative,
+
+44
+00:03:43,840 --> 00:03:48,060
+so long as you're not looking to do anything too fancy very easily, anyway.
+
+45
+00:03:48,660 --> 00:03:54,260
+So that's hardware and software there. I'll go into a few production tips here, although, again,
+
+46
+00:03:54,320 --> 00:03:58,720
+the best way to learn is to do it for yourself. For recording audio,
+
+47
+00:03:59,320 --> 00:04:05,600
+firstly, make sure there's no echo. If you're recording in a room with big, flat, empty walls and an uncarpeted floor,
+
+48
+00:04:05,600 --> 00:04:09,640
+it is going to echo. Now, I have sound paneling now, but in the past,
+
+49
+00:04:09,640 --> 00:04:14,980
+I would hang a duvet or some sheets around near the microphone while I recorded, and that worked just as well.
+
+50
+00:04:15,320 --> 00:04:18,800
+When you're recording, sit up straight, take deep breaths,
+
+51
+00:04:19,080 --> 00:04:23,140
+try not to fiddle with things or speak animatedly with your hands too much.
+
+52
+00:04:23,600 --> 00:04:28,200
+Sit on a chair that doesn't creak when you move, like this one. Listen to this.
+
+53
+00:04:28,200 --> 00:04:34,680
+Try to record all your audio in a set position without moving around too much or
+
+54
+00:04:34,920 --> 00:04:38,920
+rearranging the microphone or different parts of your audio track will sound different.
+
+55
+00:04:38,920 --> 00:04:44,880
+I actually just record all my audio for each video in a single sitting to try to circumvent this problem.
+
+56
+00:04:45,240 --> 00:04:50,300
+Make sure you don't have a smartphone too close to your microphone or preamp or you'll get interference.
+
+57
+00:04:50,960 --> 00:04:55,860
+Try to record somewhere quiet. I guess that's the main piece of advice there.
+
+58
+00:04:55,860 --> 00:05:03,540
+I believe some libraries have recording booth bookings if your home environment is like completely unusable as far as audio goes,
+
+59
+00:05:03,540 --> 00:05:09,460
+so maybe look into that if you have to. Next up is audio editing, which is very important.
+
+60
+00:05:09,460 --> 00:05:16,540
+Now, obviously, as my recording setup is kind of cheap and basic, if I just record a track in Audacity and export it with no
+
+61
+00:05:16,540 --> 00:05:22,020
+editing, it would sound fairly rubbish. In fact, it would sound like this.
+
+62
+00:05:22,380 --> 00:05:26,640
+I'll read out the rest of this paragraph with no editing so you can see the difference.
+
+63
+00:05:26,740 --> 00:05:32,780
+So how do we stop our audio from sounding like this? Well, in Audacity, or your editor of choice,
+
+64
+00:05:32,780 --> 00:05:37,440
+I guess, we can apply different filters and effects. Now, the most important one
+
+65
+00:05:37,440 --> 00:05:44,100
+I always use is noise reduction. At the start of every track I record, I leave a brief period of total silence,
+
+66
+00:05:44,700 --> 00:05:46,700
+which looks like this,
+
+67
+00:05:46,740 --> 00:05:50,060
+so that I can let the microphone get a sample of the background noise.
+
+68
+00:05:50,420 --> 00:05:56,860
+Then if we select that part of the track, we can go to Effect, Noise Reduction, click Get Noise Profile,
+
+69
+00:05:57,020 --> 00:06:02,740
+which will tell Audacity what you want it to remove, hit Effect, Repeat Noise Reduction, and
+
+70
+00:06:02,980 --> 00:06:05,560
+say farewell to the background noise. There we go.
+
+71
+00:06:05,600 --> 00:06:12,660
+Now, obviously, you'll have to play around with the various settings to get it sounding the best, depending on your recording equipment and space.
+
+72
+00:06:13,180 --> 00:06:19,260
+I also use the normalize and equalize effects with particular settings relevant to my setup here,
+
+73
+00:06:19,260 --> 00:06:22,100
+but I had to play about with those to get the right numbers,
+
+74
+00:06:22,100 --> 00:06:24,480
+so experiment and see what works for you.
+
+75
+00:06:24,880 --> 00:06:32,460
+And the rest of the editing is just cutting the track down to the usable parts, you know, cutting flubbed lines or coughs, weird clicks,
+
+76
+00:06:33,340 --> 00:06:39,900
+shortening unusually long pauses, all that jazz. Now, I do this in Audacity before exporting the track,
+
+77
+00:06:39,900 --> 00:06:45,160
+but obviously this is different if you're editing audio that has to be fit to video footage of you speaking.
+
+78
+00:06:45,320 --> 00:06:51,440
+Any cuts there will have to match the video, or it will all be out of sync, so that's best done in the video editor.
+
+79
+00:06:51,880 --> 00:06:58,320
+So, video editing tips. Well, you know, don't ask me. I'm not the best, as I'm sure you've noticed.
+
+80
+00:06:58,320 --> 00:07:05,200
+I can do things, you know, I can make there be a picture of pyramids when I'm talking about pyramids.
+
+81
+00:07:05,800 --> 00:07:10,500
+I can make that picture of pyramids spin around if I wanted to, or like,
+
+82
+00:07:11,060 --> 00:07:16,000
+get really small and then slowly slide off the left of the screen.
+
+83
+00:07:16,460 --> 00:07:18,180
+You know, I can do it,
+
+84
+00:07:18,180 --> 00:07:26,060
+but mainly my video editing only extends to showing clips and pictures I happen to be talking about, and that's all fairly simple to learn,
+
+85
+00:07:26,060 --> 00:07:32,140
+which is cool. But for actual advice I can give, first off, make sure you have a good folder system.
+
+86
+00:07:32,140 --> 00:07:35,220
+I didn't know this at first, and everything got very messy.
+
+87
+00:07:35,580 --> 00:07:43,100
+So now every project has its own folder, and then within that are folders for pictures, video clips, audio, and so on.
+
+88
+00:07:43,620 --> 00:07:51,740
+In the actual editor, video editing for me boils down to dropping various clips and pictures onto the timeline at the right time.
+
+89
+00:07:52,460 --> 00:07:58,020
+I import the audio track first and then add visuals to it. Now, other people will do it differently again.
+
+90
+00:07:58,460 --> 00:08:00,780
+You'll have to see what works best for you.
+
+91
+00:08:00,900 --> 00:08:07,500
+I won't really go into any specifics here, as it will depend on what editor you're using and the type of content you're trying to make,
+
+92
+00:08:07,500 --> 00:08:11,640
+but there are plenty of great video editing tutorials here on YouTube,
+
+93
+00:08:11,640 --> 00:08:17,980
+so give those a look. And in future, when you see a YouTuber you like use an effect that you'd like to know how to do,
+
+94
+00:08:18,220 --> 00:08:24,460
+just have a Google of it and someone somewhere will have a tutorial for how to do it. Isn't the internet wonderful?
+
+95
+00:08:24,740 --> 00:08:29,220
+So I realized a lot of my technical advice there kind of boiled down to Google it and
+
+96
+00:08:29,780 --> 00:08:34,380
+experiment for yourself, so let's see if I'm any better at creative advice.
+
+97
+00:08:34,960 --> 00:08:38,720
+Now, I was asked two particular questions multiple times here.
+
+98
+00:08:38,980 --> 00:08:45,980
+How do I decide what to make videos about? And secondly, how do I know what I make will be worth watching?
+
+99
+00:08:46,460 --> 00:08:48,460
+So to the second question,
+
+100
+00:08:49,180 --> 00:08:54,300
+I don't know. You know, do you want to make the thing? You know, do you wish it existed?
+
+101
+00:08:54,300 --> 00:09:00,660
+Would you watch it yourself? If so, you know, it's worth creating. And that's rather simple, that one.
+
+102
+00:09:01,180 --> 00:09:05,100
+To the first question, how do I decide what to make videos about?
+
+103
+00:09:05,700 --> 00:09:07,700
+Well, there's two main answers here.
+
+104
+00:09:07,840 --> 00:09:12,040
+The first thing is something that you know about and you want to share with other people.
+
+105
+00:09:12,040 --> 00:09:16,340
+I get a lot of questions from academic-type folks saying things like,
+
+106
+00:09:16,340 --> 00:09:19,140
+I'm a historian or a biologist or whatever.
+
+107
+00:09:19,380 --> 00:09:24,840
+Do you think it's worth me making videos about my area of expertise? And the answer is yes.
+
+108
+00:09:25,500 --> 00:09:31,140
+More topics than you think can be video-ified, to use the accurate technical term there.
+
+109
+00:09:31,140 --> 00:09:37,620
+The second thing I'd advise making videos about is something that you don't have expert knowledge of, but would like to learn more about.
+
+110
+00:09:38,260 --> 00:09:43,360
+For instance, I learn a lot about each topic I cover as I'm putting the script together.
+
+111
+00:09:43,620 --> 00:09:48,660
+It's a great learning experience by itself, and I've found it's good for the old mental health,
+
+112
+00:09:48,780 --> 00:09:52,540
+to be working on some sort of ongoing creative project.
+
+113
+00:09:52,680 --> 00:09:58,380
+So make videos about either things you do know about, or things you don't know about.
+
+114
+00:09:59,180 --> 00:10:01,180
+That encompasses everything,
+
+115
+00:10:02,060 --> 00:10:09,880
+doesn't it? I am terrible at giving advice. I've realized far too late in the production of this video though, so whatever. I'm pressing on.
+
+116
+00:10:10,780 --> 00:10:15,420
+So I'll give a few creative tips relating to how I make videos here. Now again,
+
+117
+00:10:15,420 --> 00:10:18,940
+these might be useless to someone with a different approach, but here we are.
+
+118
+00:10:19,260 --> 00:10:22,700
+So first off, I keep a list of ideas on the go. Now,
+
+119
+00:10:22,700 --> 00:10:29,580
+this is a .txt file on my computer with a list of video ideas, and I make notes on my phone or in a notebook
+
+120
+00:10:29,580 --> 00:10:33,820
+if something comes to me when I'm on the train or whatever. Now, it seems simple,
+
+121
+00:10:33,820 --> 00:10:38,340
+but if you don't do this, you will definitely forget that great idea you had yesterday.
+
+122
+00:10:38,780 --> 00:10:43,780
+So keep a pen and paper handy. This advice extends to each project too.
+
+123
+00:10:43,860 --> 00:10:50,820
+Write everything even vaguely useful down as you go, and you can always cut out the unnecessary parts later. Now,
+
+124
+00:10:50,820 --> 00:10:54,660
+I personally write scripts by, over the course of a week to a few weeks,
+
+125
+00:10:55,260 --> 00:11:01,460
+making a big jumbled list of phrases and keywords and sentence fragments that are stand-ins for full paragraphs,
+
+126
+00:11:02,180 --> 00:11:05,180
+written down as I think or read about the topic.
+
+127
+00:11:05,820 --> 00:11:11,660
+Talking your ideas through with someone else can be really helpful too, as they will ask questions or raise additional points,
+
+128
+00:11:11,660 --> 00:11:15,940
+and you can get a bit of a preview of how an audience is going to respond to what you're saying.
+
+129
+00:11:16,300 --> 00:11:22,020
+So anyway, I have my big jumbled mess. Now, after I run out of material or
+
+130
+00:11:22,660 --> 00:11:28,700
+things to research or when I decide to stop because otherwise my video will be four hours long,
+
+131
+00:11:28,700 --> 00:11:31,700
+I take the mess and I start editing it.
+
+132
+00:11:31,700 --> 00:11:37,900
+I first cut and paste relevant sections together until they're structured in some sort of narrative order.
+
+133
+00:11:38,380 --> 00:11:42,780
+I write an introduction with leading questions that will be answered in the rest of the video.
+
+134
+00:11:42,780 --> 00:11:47,400
+I cut out any parts that don't fit or I decide aren't worth the time to go into.
+
+135
+00:11:47,900 --> 00:11:54,500
+So then when it finally comes time to actually write the script out fully, it's a simple process of fleshing out the skeleton structure
+
+136
+00:11:54,500 --> 00:12:02,020
+that's already there. Now, this is all fairly basic essay writing advice aimed at making a particular type of video.
+
+137
+00:12:02,260 --> 00:12:05,340
+But there are lots of different approaches for different types of videos.
+
+138
+00:12:05,620 --> 00:12:10,900
+Some people work better when they're less structured, but I like to have everything written out.
+
+139
+00:12:11,420 --> 00:12:17,300
+So again, experiment and see what works for you. I realize I'm saying that a lot today, but oh well.
+
+140
+00:12:17,340 --> 00:12:23,580
+I'll move on to answering some more specific questions here, which are more about the culture of YouTube, I guess.
+
+141
+00:12:23,820 --> 00:12:26,140
+So a curious cat user asked,
+
+142
+00:12:36,340 --> 00:12:42,420
+How do you deal with the intense amount of backlash related to being left-wing and pro-feminist on YouTube?
+
+143
+00:12:42,420 --> 00:12:46,660
+And this question was echoed by a few other people, including someone who says,
+
+144
+00:12:46,660 --> 00:12:52,100
+I've been considering making a political YouTube channel, but I am afraid of doxxing and the likes.
+
+145
+00:12:52,100 --> 00:12:59,700
+I feel especially exposed to it because of the various minority groups I'm part of. Not straight, not a man, etc.
+
+146
+00:13:00,260 --> 00:13:06,480
+Any safety advice or uplifting pep talk? So okay, brigading videos,
+
+147
+00:13:07,060 --> 00:13:14,860
+abuse, doxxing and the likes. It happens, it sucks, and there isn't a short or easy way around it, unfortunately.
+
+148
+00:13:15,500 --> 00:13:22,100
+Now, I'm not too worried about down-voting campaigns. They're actually good for your channel, strictly numbers-wise.
+
+149
+00:13:22,100 --> 00:13:24,240
+It brings in a lot of views and interaction.
+
+150
+00:13:25,100 --> 00:13:29,940
+Likewise, in my experience, the false flagging of my videos has worked out pretty well for me.
+
+151
+00:13:30,260 --> 00:13:34,740
+The one time a group of angry lads got a video of mine taken down through mass flagging,
+
+152
+00:13:34,740 --> 00:13:41,580
+I saw a big increase in subscribers and views. And then, of course, because the flagging was not warranted, the video was then
+
+153
+00:13:41,940 --> 00:13:46,100
+reinstated, so I didn't lose anything, and it actually worked out okay.
+
+154
+00:13:46,540 --> 00:13:50,260
+Now, there isn't really a nice side to the abuse itself, unfortunately.
+
+155
+00:13:51,220 --> 00:13:54,580
+And I actually get it pretty easy, all things considered.
+
+156
+00:13:54,580 --> 00:14:00,900
+All I'd say is don't feel bad about blocking or muting people who are arguing in bad faith.
+
+157
+00:14:01,920 --> 00:14:08,340
+Particularly starting out, you're gonna be reading all your YouTube comments and messages and the likes, but that gets old very fast.
+
+158
+00:14:08,540 --> 00:14:12,980
+You shouldn't waste your time engaging with trolls who are only there to annoy you.
+
+159
+00:14:13,460 --> 00:14:19,820
+Now, the worst of the things that happens is the doxxing and attempting to mess with your personal life somehow.
+
+160
+00:14:20,540 --> 00:14:24,660
+Luckily, it is only a very small minority of people who engage in this sort of behavior,
+
+161
+00:14:25,300 --> 00:14:28,980
+but it does happen. If you develop enough of a presence online,
+
+162
+00:14:28,980 --> 00:14:32,940
+there will be people who try to find out your address or guess your passwords.
+
+163
+00:14:33,740 --> 00:14:39,820
+Social engineer their way into getting the reset question for your backup email that you haven't logged into in five years,
+
+164
+00:14:39,820 --> 00:14:45,940
+you know, all that sort of thing. So before starting out, I'd say prepare yourself for that to happen.
+
+165
+00:14:46,780 --> 00:14:53,540
+Create a fresh email address for your channel and associated other social media accounts. Use a new, long,
+
+166
+00:14:54,220 --> 00:14:58,780
+complicated password, and be aware of your previous history on the internet.
+
+167
+00:14:58,780 --> 00:15:05,400
+You know, did you used to have a DeviantArt account where you drew Mario licking Sonic's feet or something?
+
+168
+00:15:05,620 --> 00:15:12,380
+If you don't do anything about that, the first person you piss off is going to find it and email it to your parents.
+
+169
+00:15:12,580 --> 00:15:19,800
+So any old social media accounts you don't use, log into them and deactivate them, and put the ones you do use on the highest
+
+170
+00:15:20,160 --> 00:15:27,500
+security settings. If there's something you've done in the past that would be embarrassing to be revealed about you, be upfront about it early on.
+
+171
+00:15:27,740 --> 00:15:34,000
+Part of the reason why I keep mentioning I was a little shithead troll years ago is if anyone ever finds a bunch of
+
+172
+00:15:34,000 --> 00:15:40,300
+posts of mine where I've said some air quotes edgy racist or sexist crap, which I did frequently,
+
+173
+00:15:40,820 --> 00:15:47,000
+I've already addressed that. For tips on trying to avoid this kind of extreme negative attention,
+
+174
+00:15:47,000 --> 00:15:49,500
+I'd just say mainly be boring.
+
+175
+00:15:49,500 --> 00:15:56,100
+You know, don't give them what they want. The people who engage in this sort of behavior just want a target, and they don't really
+
+176
+00:15:56,100 --> 00:16:02,300
+care who it is. If you give them the attention they want, they will follow you around and try to make you do it again.
+
+177
+00:16:02,620 --> 00:16:06,380
+So just hammer that mute button, I guess. Let's move on.
+
+178
+00:16:06,860 --> 00:16:08,180
+Another user asks,
+
+179
+00:16:08,180 --> 00:16:13,100
+How do you get past the fear that your videos won't be good enough or as good as you want them to be?
+
+180
+00:16:13,620 --> 00:16:19,340
+And the answer to that is you don't, or at least I don't. I see the flaws in everything
+
+181
+00:16:19,340 --> 00:16:24,860
+I make, and they'll never be as good as I want them to be, but that fear is not a good reason to stop.
+
+182
+00:16:25,500 --> 00:16:28,580
+Just try to make the next thing better than the last thing was.
+
+183
+00:16:29,060 --> 00:16:30,140
+Someone else asks,
+
+184
+00:16:30,140 --> 00:16:35,140
+How do you decide when you have something worth saying or maybe more accurately worth listening to?
+
+185
+00:16:35,300 --> 00:16:40,660
+I've thought about trying out getting going on YouTube, but it's hard to know if I'd have anything of value to share.
+
+186
+00:16:41,380 --> 00:16:47,380
+First off, I'm sure you do have something of value to share, but for me this process happens topic by topic.
+
+187
+00:16:48,180 --> 00:16:54,260
+There are videos I've abandoned if I realize that the approach I'm taking doesn't work, or there isn't enough material,
+
+188
+00:16:54,300 --> 00:16:59,580
+or whatever else. You know, you won't know until you try, I guess I'm saying. Someone else asks,
+
+189
+00:16:59,580 --> 00:17:02,020
+Hey Sean, I'm currently setting up a YouTube channel.
+
+190
+00:17:02,020 --> 00:17:09,300
+My first video happens to be about a popular YouTube skeptic spreading misinformation about the Holocaust and bordering denial.
+
+191
+00:17:09,300 --> 00:17:15,220
+I keep asking myself if I should touch this topic at all, or if there are certain things that should be off-limits
+
+192
+00:17:15,700 --> 00:17:19,180
+even when correcting Holocaust deniers. What are your thoughts on this?
+
+193
+00:17:19,620 --> 00:17:24,180
+So this is something I've been thinking about a lot lately, and here's where I'm at with it right now.
+
+194
+00:17:24,700 --> 00:17:32,700
+You can make a video countering something like Holocaust denial or some other similarly difficult subject, as long as you're kind of careful.
+
+195
+00:17:33,300 --> 00:17:36,660
+First off, I'd say you should aim upwards in terms of audiences.
+
+196
+00:17:36,660 --> 00:17:39,020
+You know, if you have a million subscribers,
+
+197
+00:17:39,020 --> 00:17:46,220
+it might be irresponsible to expose them to some obscure Holocaust deniers arguments, even for the purposes of debunking them.
+
+198
+00:17:46,260 --> 00:17:50,700
+So probably only respond to people with a larger audience than yourself,
+
+199
+00:17:50,700 --> 00:17:55,660
+and you can debunk an argument without providing a platform to any one person.
+
+200
+00:17:55,660 --> 00:17:58,020
+So talk about fascists all you want,
+
+201
+00:17:58,020 --> 00:18:05,500
+but don't have them on the show for a friendly chat. And if you ever make a video trying to explain their views and arguments,
+
+202
+00:18:05,700 --> 00:18:08,260
+include very clear and unambiguous
+
+203
+00:18:08,780 --> 00:18:14,380
+refutations to those arguments. You know, don't give them an inch, basically, or you'll be doing their job for them.
+
+204
+00:18:14,580 --> 00:18:15,940
+Another user asks,
+
+205
+00:18:23,940 --> 00:18:25,940
+To answer that, just dive right in.
+
+206
+00:18:26,940 --> 00:18:28,820
+Well, that was an easy one.
+
+207
+00:18:28,820 --> 00:18:30,260
+Another user asks,
+
+208
+00:18:44,380 --> 00:18:52,020
+So I'd say the big issue here is your concern about your videos no longer being relevant,
+
+209
+00:18:52,020 --> 00:18:58,100
+and you shouldn't be worried about that, really, unless you're making a channel that reacts to daily news or something.
+
+210
+00:18:58,100 --> 00:19:03,180
+I made a video about the shooting of Trayvon Martin, like, five years after it happened.
+
+211
+00:19:03,260 --> 00:19:07,820
+I'm working on a video about the Charlottesville Unite the Right rally right now.
+
+212
+00:19:07,820 --> 00:19:11,820
+You know, there's something to be said for missing the immediate response window,
+
+213
+00:19:11,860 --> 00:19:14,860
+and instead just getting the last word and later on.
+
+214
+00:19:15,300 --> 00:19:21,460
+So maybe try being less concerned about staying current, or develop content that is just timeless.
+
+215
+00:19:21,460 --> 00:19:26,620
+You know, I've made videos about Roman history, for instance. It doesn't really matter when they came out, you know.
+
+216
+00:19:26,780 --> 00:19:28,100
+Another user asks,
+
+217
+00:19:35,700 --> 00:19:37,100
+I find this comes with time.
+
+218
+00:19:37,500 --> 00:19:43,500
+You know, if you pick any YouTuber who sounds confident now and scroll to their old videos, they'll probably all sound totally different.
+
+219
+00:19:43,700 --> 00:19:47,780
+So make ten videos and then see if you still sound nervous, I guess.
+
+220
+00:19:48,380 --> 00:19:49,500
+Someone else asks,
+
+221
+00:19:57,500 --> 00:20:00,020
+And yes, that's completely fine.
+
+222
+00:20:00,020 --> 00:20:04,420
+You know, you can just put out political content and ignore all the rest of the rubbish if you like.
+
+223
+00:20:04,460 --> 00:20:08,740
+It'd probably be good for your mental health in the long run as well, so, yeah, go for it.
+
+224
+00:20:09,180 --> 00:20:14,140
+Finally, I was also asked a few questions about how to get views and subscribers and all that.
+
+225
+00:20:14,140 --> 00:20:16,860
+Now, I'm probably not the best person to answer this.
+
+226
+00:20:17,420 --> 00:20:22,420
+For me, it was about two years of producing video content before I broke a thousand subscribers.
+
+227
+00:20:22,980 --> 00:20:26,980
+Before doing political stuff, I was making kinda rubbish game videos.
+
+228
+00:20:27,220 --> 00:20:30,380
+And then before that, I had another YouTube channel that I ran for a year,
+
+229
+00:20:30,740 --> 00:20:34,220
+and that never really saw a sizeable audience of any kind.
+
+230
+00:20:34,900 --> 00:20:37,420
+I kept up with making videos because I found it fun.
+
+231
+00:20:37,420 --> 00:20:41,420
+It's an enjoyable hobby for me, so just keep on trucking, basically.
+
+232
+00:20:41,660 --> 00:20:47,140
+If you enjoy it, then just focus on improving, and eventually, if you're kinda lucky,
+
+233
+00:20:47,140 --> 00:20:54,540
+like I was, you'll eventually hit some sort of self-perpetuating snowball increase that will leave you very confused.
+
+234
+00:20:55,220 --> 00:21:03,220
+For more active advice, though, get a Twitter account and interact a bunch with the sorts of people who you think might like and share your videos.
+
+235
+00:21:03,540 --> 00:21:07,860
+The first step to getting a big audience is getting a little audience.
+
+236
+00:21:08,340 --> 00:21:10,140
+That's gonna be all from me today, folks.
+
+237
+00:21:10,140 --> 00:21:13,140
+Thanks a lot, I hope I answered all of your questions.
+
+238
+00:21:13,140 --> 00:21:19,700
+If there's anything you really want to know that I missed, just head over to Twitter or Curious Cat and send me a question.
+
+239
+00:21:20,220 --> 00:21:22,700
+Okay, thanks folks, and I'll see you next time.
+

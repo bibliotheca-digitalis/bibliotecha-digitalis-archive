@@ -1,0 +1,2886 @@
+Hello, everyone. Today, we're going to be talking about The Bell Curve.
+The Bell Curve is a 1994 book by psychologist Richard J. Herrnstein and political scientist Charles Murray,
+and by way of an introduction here, I'll read the description of the book that's on the back of my copy.
+Breaking new ground and old taboos, Richard J. Herrnstein and Charles Murray tell the story of a society in transformation.
+At the top, a cognitive elite is forming in which the past key to the best schools and the best jobs is no longer social background,
+but high intelligence.
+At the bottom, the common denominator of the underclass is increasingly low intelligence rather than racial or social disadvantage.
+The Bell Curve describes the state of scientific knowledge about questions that have been on people's minds for years,
+but have been considered too sensitive to talk about openly.
+Among them, IQ's relationship to crime, unemployment, welfare, child neglect, poverty, and illegitimacy,
+ethnic differences in intelligence, trends in fertility among women with different levels of intelligence,
+and what policy can do and cannot do to compensate for differences in intelligence.
+Brilliantly argued and meticulously documented, The Bell Curve is the essential first step in coming to grips with the nation's social problems.
+Even though it is now 25 years old, The Bell Curve's ideas have had quite the lasting impact.
+Richard Herrnstein passed away shortly before The Bell Curve was released,
+but the other author, Charles Murray, has in recent years, among other things, been on an episode of Making Sense with Sam Harris.
+He's been interviewed on Stefan Molyneux's YouTube channel,
+had his ideas discussed on the Joe Rogan podcast,
+and regular viewers of my channel will remember The Bell Curve being cited in a recent Steven Crowder video.
+At the time of the book's release, the backlash against it in certain sections of the media and scientific community was furious.
+Dozens of articles were written by scientists and journalists attacking the book,
+studies were conducted to debunk its claims, whole books were written to debunk its claims, actually,
+and these criticisms were often phrased very harshly.
+Columnist Bob Herbert, writing for the New York Times, described the book as
+as a scabrous piece of racial pornography masquerading as serious scholarship.
+Mr. Murray can protest all he wants, wrote Herbert.
+His book is just a genteel way of calling someone the N-word.
+This controversy ignited by The Bell Curve has also had quite the lasting impact.
+When Charles Murray is invited to speak at college campuses, for instance,
+people turn out in protest, often with angry cries of racist, eugenicist, and so on.
+And from the enraged reaction to The Bell Curve, a new reader might expect the book to be blatant and unapologetic racist propaganda.
+A neo-Nazi screed arguing for the supremacy of the high IQ white race and such things as that.
+However, when we actually sit down and read the book, things aren't quite that simple.
+Consider the following quotes.
+If tomorrow you knew beyond a shadow of a doubt that all the cognitive differences between races were 100% genetic in origin,
+nothing of any significance should change.
+The knowledge would give you no reason to treat individuals differently than if ethnic differences were 100% environmental.
+In any case, you are not going to learn tomorrow that all cognitive differences between races are 100% genetic in origin
+because the scientific state of knowledge, unfinished as it is, already gives sample evidence that environment is part of the story.
+If the reader is now convinced that either the genetic or environmental explanation has won out to the exclusion of the other,
+we have not done a sufficiently good job of presenting one side or the other.
+It seems highly likely to us that both genes and the environment have something to do with racial differences.
+What might the mix be?
+We are resolutely agnostic on that issue.
+As far as we can determine, the evidence does not justify an estimate.
+For virtually all the topics we will be discussing, cognitive ability accounts for only small to middling proportions of the variation among people.
+It almost always explains less than 20% of the variance, to use the statistician's term, usually less than 10% and often less than 5%.
+What this means in English is that you cannot predict what a given person will do from his IQ score.
+So what's going on here?
+It seems, from these quotes anyway, that the bell curve is actually a fairly reasonable piece of work.
+These are all relatively mild, middle-of-the-road statements here, so this hardly seems like a scabrous piece of racial pornography so far.
+Charles Murray has used quotes from the bell curve, such as we have just read, to defend himself and his work against accusations of racism.
+Murray and other defenders of the bell curve cast the attacks on the book as resulting from a cowardly reluctance to discuss what they see as difficult scientific truths.
+In particular, a reluctance to discuss possible differences in intelligence across designated racial groups.
+So this is what we're gonna talk about today.
+We're gonna take a look at some of the arguments in the bell curve, discuss some of the most common counterarguments, and see if we can figure out what all the fuss is about.
+Did the bell curve deserve its harsh criticism, or is it the case that its critics simply cannot handle the truth?
+Before we get to all that, though, as you can see, this video is rather long.
+I expect people may have to watch this one in multiple parts, so firstly here, let's just take a second to lay out the format of the video today.
+First off, we're gonna briefly talk about intelligence and intelligence testing,
+and quickly mention a few concepts that are gonna be important going forward, such as Spearman's G and Factor Analysis.
+Then we're gonna introduce the bell curve and summarize the arguments of each of its four main sections as fairly as we can.
+After that, we'll move on to counterarguments in sections primarily concerned with the concept of a general intelligence,
+the possible problems with IQ testing, the bell curve's calculation of IQ versus environmental factors,
+and finally, the political arguments and policy proposals found within the book.
+I will include time codes to all of these sections below so you can drop out and come back as needed.
+Right then, let's get started.
+And if we're going to be reading a book that is about intelligence, we should start off by briefly talking about exactly what that is.
+Let's imagine that we want to design an intelligence test from scratch.
+And to do this, we first have to answer two difficult questions.
+The first is, how exactly do we define intelligence?
+And this is a particularly tricky thing to do, as we'll see.
+Let's start with the dictionary definition of intelligence, which is as good a place to start as any, I suppose.
+And this is from the Oxford English Dictionary.
+Intelligence is the ability to acquire and apply knowledge and skills.
+Now, our first problem here is that this definition is rather broad.
+Think about all the activities and groups of activities that could fall under this definition of intelligence.
+Is one's ability to solve complicated mathematical sums governed by intelligence?
+How about the ability to solve a difficult chess puzzle?
+I'd imagine we'd say those things are associated with intelligence, right?
+Well, how about the ability to write a great novel or compose a great piece of music?
+Are those things influenced by intelligence, or would we merely call that creativity?
+Is knowing whether to pass or shoot in a game of basketball or football influenced by intelligence, or would we merely call that talent?
+Or are all of these things some mix of intelligence, talent, and creativity?
+We can certainly imagine a novel that is written intelligently, for instance.
+Could we say this is some sort of creative intelligence, or are intelligence and creativity strictly two entirely different concepts?
+Is there a difference between memorizing and applying a mathematical function, say,
+and memorizing and carrying out a piano piece or a dance routine or a set of football plays?
+If there is a difference, what is it?
+By what metric are we declaring some of those things to be governed by intelligence and others not?
+Are there such things as social and emotional intelligence?
+What we might call the ability to read a room, to be aware of the emotions of others,
+and to react appropriately in interactions with them.
+Is intelligence involved there, or should we just call that something like being sociable?
+All the various things I just mentioned can be argued to fall under the umbrella of acquiring and applying knowledge and skills, right?
+Defining exactly what intelligence is is a very difficult thing to do,
+and there is a wide range of opinions among scientists and academics about the best way to go about it.
+Following the publication of The Bell Curve and inspired by the harsh criticism it received,
+a public statement entitled,
+Mainstream Science on Intelligence, was written by Professor Linda Gottfredson and published in the Wall Street Journal.
+The statement sets out to outline,
+conclusions regarded as mainstream among researchers on intelligence,
+in particular on the nature, origins, and practical consequences of individual and group differences in intelligence.
+The statement was sent to 131 researchers of whom 52 signed it,
+many of whom are themselves cited in The Bell Curve.
+Important for us here is that mainstream science on intelligence gives the following definition of intelligence.
+Intelligence is a very general mental capability that, among other things, involves the ability to reason, plan, solve problems,
+think abstractly, comprehend complex ideas, learn quickly, and learn from experience.
+It is not merely book learning, a narrow academic skill, or test taking smarts.
+Rather, it reflects a broader and deeper capability for comprehending our surroundings,
+catching on, making sense of things, or figuring out what to do.
+My favorite part of this definition is, among other things,
+because intelligence is apparently all of this and some other stuff too.
+My point here is that even among researchers who are cited in The Bell Curve
+and would put their name to a defense of its ideas, intelligence is a very broadly defined concept.
+And even if we can agree on a definition of intelligence,
+the second difficult question we have to answer is this.
+How exactly do we measure it?
+It's not as simple as testing for some other human abilities.
+We can measure how fast someone is by using units of time and distance,
+and we can measure how strong someone is by using units of weight.
+But what do you use to quantify how smart someone is?
+What we need here is an intelligence unit.
+We need a way to express someone's intelligence as a number.
+Now, most people today will recognize IQ as the most common intelligence unit,
+and let's briefly talk a little about how that came to be.
+So way back in the old days, if we wanted to determine someone's personality traits and abilities,
+we could measure their skull, calculate the volume of their brain,
+or simply look at their facial features.
+Phrenology, however, has fallen out of favor with scientists of late,
+although it should be noted the technology sector is currently in the process of reinventing it.
+Now, I won't be going all that deeply into the history of intelligence testing today,
+so I'll just start off here by saying that researchers eventually,
+for the most part anyway, stopped measuring people's skulls
+and started trying to measure what was going on inside them.
+The first practical IQ test was invented by French psychologist Alfred Binet in 1905.
+This test set out to determine the mental age of school children
+and was designed with the purpose of identifying those children
+who were underperforming compared to their peers so they could be given extra help.
+Such noble beginnings here.
+Now, Binet, for his part, stressed that intelligence was affected by environmental factors,
+was not expressible as a singular fixed numerical value,
+and was not exclusively genetic in origin.
+His test was designed to identify those who were struggling in school
+and not to rank people into some sort of eugenic hierarchy.
+Binet died in 1911 and has since spent the majority of his time spinning in his grave
+due to everything else we're going to talk about today.
+An American psychologist called Henry H. Goddard
+translated Binet's intelligence test into English in 1908
+and distributed thousands of copies of the test across the United States.
+And in 1916, another American psychologist named Louis Terman,
+working for the Stanford Graduate School of Education,
+revised the test into what we know today as the Stanford-Binet IQ test.
+Both Goddard and Terman also worked together with other psychologists
+to create the Army Alpha and Army Beta tests,
+which were intelligence tests administered to US military recruits during World War I.
+Before we go any further, I'd like to pause for a second
+and propose a question about our intelligence tests here.
+How do we know that they are actually measuring intelligence?
+They're called intelligence tests, sure,
+but that doesn't necessarily mean they are actually measuring intelligence, does it?
+As we discussed earlier, intelligence is a very broad concept.
+How do we know we're not merely measuring a tiny segment of it?
+Well, in the early 20th century, English psychologist Charles Spearman
+used a statistical technique called factor analysis
+to identify what he called the G factor.
+Spearman noticed that people's test results across a range of subjects
+were positively correlated, and reasoned that this was because
+of an underlying general intelligence factor, which he dubbed G.
+And this G factor supposedly underlies all mental performance,
+so no matter the subject being tested,
+they are all influenced by this one general intelligence factor.
+And psychometricians claim that IQ tests measure this G factor,
+psychometricians being people concerned with psychological measurement there.
+Now, G answers both of our difficult questions, if you'd noticed.
+Thanks to the G factor, the vast range of potential human intelligence
+is no longer a barrier to us testing for it,
+because it's supposedly all linked to a single underlying factor
+that is able to be measured and expressed as a single numerical value.
+It's very handy, isn't it, this general intelligence factor?
+Suspiciously handy, one might say,
+but we'll talk more about G and Spearman's factor analysis later on.
+Now, before we conclude our little history lesson here,
+there is something else that must be noted,
+and it's that early proponents of IQ testing in America and elsewhere
+were not motivated solely by some neutral scientific curiosity.
+They were eugenicists.
+They wanted to use what they could learn from intelligence testing
+as a way to improve the genetic quality of the human population
+through what amounts to selective breeding.
+Henry Goddard, who translated Binet's intelligence test,
+proposed segregating the so-called feeble-minded into colonies
+separate from the rest of society.
+And Lewis Turman, author of the Stanford-Binet test,
+wrote the following in a 1916 work called The Uses of Intelligence Tests.
+Thus far, intelligence tests have found their chief application
+in the identification and grading of the feeble-minded.
+It is safe to predict that in the near future,
+intelligence tests will bring tens of thousands of these high-grade defectives
+under the surveillance of society.
+This will ultimately result in curtailing the reproduction of feeble-mindedness
+and in the elimination of an enormous amount of crime,
+pauperism, and industrial inefficiency, end quote.
+And tens of thousands of Americans were forcibly sterilized during the last century,
+and low IQ test results were used to justify many of those sterilizations.
+The eugenics movement lost a lot of momentum as a result of the Second World War,
+during which eugenics became irrevocably associated
+with many of the worst crimes of Nazi Germany.
+And in the following decades,
+many countries distanced themselves from eugenics policies,
+and many scientists became more suspicious of not just eugenics itself,
+but also the extent of the worth of intelligence testing as a concept.
+Now, not to spoil the end of my video here,
+but this is a good chunk of the reason that the reaction to the bell curve was so harsh.
+The idea that we can use intelligence test results
+in order to inform political policy was only half a lifetime before the book was written,
+getting people sent to gas chambers.
+So it's not surprising that people would be rather suspicious about it.
+Let's just say that anyone attempting to resurrect this idea
+needs to be incredibly aware of and respectful of
+exactly where what they're proposing can lead.
+So people are fleeing eugenics in droves
+simply because it was used to justify an indefensible crime against humanity,
+and scientists are increasingly skeptical of the extent of the usefulness of intelligence testing
+and IQ and efforts to rank people according to biology in general.
+And all this brings us to the bell curve.
+The empire strikes back.
+And in this book,
+Herrnstein and Murray come to the defense of IQ and say now,
+everyone calm down.
+Don't throw the baby out with the bath water here.
+Intelligence testing and IQ are important and useful concepts,
+and crucially, what we can learn from IQ testing should inform our politics
+and be used to change our society.
+So, you know, eugenics, but nice this time.
+And since we've now arrived at the bell curve, I think it's time for us to read it.
+Not all of it, right now, we'd be here all day,
+but I will briefly summarize it here,
+for the most part using the introductions that precede each chapter.
+In the introduction to the book,
+Herrnstein and Murray begin by talking about intelligence.
+They offer Spearman's definition of intelligence as
+a person's capacity for complex mental work,
+and argue that general intelligence can be measured by IQ tests,
+saying,
+Furthermore, the classicists point out,
+the best standardized tests, such as a modern IQ test,
+do a reasonably good job of measuring IQ.
+When properly administered, the tests are not measurably biased
+against socioeconomic, ethnic, or racial subgroups.
+They predict a wide variety of socially important outcomes.
+They also defend the practice of IQ testing
+from critics within the scientific community,
+notably evolutionary biologist Stephen Jay Gould,
+whose 1981 book, The Mismeasure of Man, was,
+quoting the back of my copy here,
+immediately hailed as a masterwork,
+the ringing answer to those who would classify people,
+rank them according to their supposed genetic gifts and limits.
+In this book, Gould is highly critical of everything from
+phrenology and craniometry to modern IQ testing.
+He argues against the concept of a single general intelligence,
+and he highlights cases where eugenicists and psychometricians
+had relied upon bad data and flawed statistical techniques,
+including the case of Cyril Berth,
+an early proponent of the use of twin studies
+for examining the heritability of intelligence,
+who, after he died, was revealed to have just been making up his research data.
+That's one way to do it, I suppose.
+The bell curve was written with the Mismeasure of Man in mind,
+and is in some ways a response to its claims.
+A newer edition of the Mismeasure of Man was printed
+with an extra chapter responding to the claims of the bell curve,
+and a newer edition of the bell curve was printed
+with an extra chapter responding in part to Stephen Jay Gould.
+Gould and Murray probably should have just met up and had a fight at this point.
+On pages 22 and 23,
+Hans-Nina Murray summarized their main claims about intelligence,
+which are the following.
+One, there is such a thing as a general factor of cognitive ability
+on which human beings differ.
+Two, all standardized tests of academic aptitude or achievement
+measure this general factor to some degree,
+but IQ tests expressly designed for that purpose measure it most accurately.
+Three, IQ scores match, to a first degree,
+whatever it is that people mean when they use the word
+intelligent or smart in ordinary language.
+Four, IQ scores are stable,
+although not perfectly so over much of a person's life.
+Five, properly administered IQ tests are not demonstrably biased
+against social, economic, ethnic, or racial groups.
+And six, cognitive ability is substantially heritable,
+apparently no less than 40% and no more than 80%.
+And on that last point,
+Hans-Nina Murray later writes in a section titled
+How Much Is IQ a Matter of Genes?
+For purposes of this discussion,
+we will adopt a middling estimate of 60% heritability,
+which by extension means that IQ is about 40% a matter of environment.
+So, on to part one of the bell curve,
+which is titled The Emergence of a Cognitive Elite,
+and introduces Hans-Nina Murray's theory
+of the cognitive partitioning of society.
+Since World War II, they argue,
+colleges in the United States have increasingly admitted people by test score
+rather than things like social standing or familial connections.
+Where you could once expect to attend a prestigious college
+if your father had gone there, for instance,
+increasingly you now need to have competitive test scores.
+This has led to high IQ people being found disproportionately
+in the top institutions and geographically close together.
+The job market is also increasingly IQ focused,
+as low IQ jobs are replaced by automation,
+and the best jobs have apparently become more selective of high IQ candidates.
+IQ is also apparently a very good predictor of job performance.
+These high IQ people,
+economically and geographically segregated from the rest of society,
+are increasingly partnering with each other,
+and since we're assuming IQ is largely genetic,
+are producing high IQ offspring.
+Society is thus stratifying itself into some sort of intelligence-based caste system.
+At the end of part one,
+Hans-Nina Murray summarized their claims by saying,
+One, the cognitive elite is getting richer in an era
+when everyone else is having to struggle to stay even.
+Two, the cognitive elite is increasingly segregated physically from everyone else
+in both the workplace and the neighborhood.
+And three, the cognitive elite is increasingly likely to intermarry.
+Part two of the bell curve is titled
+Cognitive Classes and Social Behavior,
+and here, Hans-Nina Murray make the case that
+intelligence is tied to behavior and predictably determines various things,
+such as the likelihood of being poor, a criminal, a high school dropout,
+unemployed, an unwed mother, on welfare, and so on.
+In order to argue this,
+Hans-Nina Murray first introduced the source of their data,
+which is the Armed Forces Qualifying Test, or AFQT.
+This test was taken as part of the 1979 National Longitudinal Survey of Youth.
+The subjects of this survey were aged 14 to 22,
+and were administered the Armed Forces Qualifying Test in 1980.
+Researchers then interviewed the group over the following decade,
+asking them various questions about themselves.
+Hans-Nina Murray used the respondents' scores on the AFQT
+to determine the IQ of each person,
+and then used their later interview answers to calculate to what degree
+a high IQ is correlated with positive life outcomes,
+and to what degree a low IQ is correlated with negative outcomes.
+Throughout the rest of this section of the bell curve,
+Hans-Nina Murray go further than simply arguing
+for the correlation between low IQ and those negative life outcomes.
+They make the case that one's AFQT score correlates with them more strongly
+than socioeconomic status does.
+Hans-Nina Murray compare the AFQT scores of each respondent
+against their calculation of the socioeconomic status of the respondent's parents.
+So, as the book Inequality by Design puts it,
+roughly in the bell curve statistical comparisons,
+the parent's class represents nurture, and the AFQT score represents nature.
+Looking at various negative life outcomes,
+like being in poverty, being in jail, being unemployed, and so on,
+Hans-Nina Murray repeatedly find that for the young respondents to the survey,
+AFQT score and by proxy IQ score is a more accurate predictor of life outcomes
+than a parent's socioeconomic status.
+Hans-Nina Murray conclude this section by stating that
+a smarter population is more likely to be
+and more capable of being made into a civil citizenry.
+Part three of the bell curve is titled The National Context
+and is where things start getting especially controversial.
+This is the section of the book where they discuss differences
+in cognitive ability across designated racial groups.
+They review published literature on differences in racial IQ scores
+and find substantial differences between the various groups.
+They discuss the ways in which tests can be biased,
+culturally and otherwise, but ultimately conclude
+that these group differences cannot be explained away by bias.
+In chapter 15, Hans-Nina Murray talk about how they think
+cognitive ability in the West is declining, stating,
+Throughout the West, modernization has brought falling birth rates.
+The rates fall faster for educated women than the uneducated.
+Because education is so closely linked with cognitive ability,
+this tends to produce a dysgenic effect
+or a downward shift in the ability distribution.
+Furthermore, education leads women to have their babies later,
+which alone also produces additional dysgenic pressure.
+Have you ever seen the movie Idiocracy?
+Because this is just that, basically.
+Lower IQ people have more children than higher IQ people,
+so therefore average IQ scores are going down.
+However, Hans-Nina Murray run into a problem here,
+which is that IQ scores had been going up, not down,
+in the decades prior to the publication of the bell curve.
+This is known as the Flynn Effect,
+named for intelligence researcher James R. Flynn, who documented it,
+and we will talk more about the bell curve's attempt
+to account for the Flynn Effect later on.
+Part four of the bell curve is titled
+Living Together and is Concerned with Social Policy.
+This is where Hans-Nina Murray start proposing political solutions
+to the various problems they outlined in the previous chapters.
+They discuss, and ultimately brand as ineffective,
+all contemporary attempts to help disadvantaged children succeed in life.
+Things like better nutrition, better schooling, a better home environment,
+all these things can possibly, temporarily make people smarter, to a degree.
+But in the end, Hans-Nina Murray conclude that they will all eventually
+run into a genetic limit that cannot be worked around.
+Far more money is spent in ineffective attempts to help the disadvantaged
+than is spent on the gifted, Hans-Nina Murray contend,
+and we should thus directly shift the resources upwards
+to support our best and brightest.
+And this quote is from the introduction to Chapter 18.
+Some federal funds now so exclusively focused on the disadvantaged
+should be reallocated to programs for the gifted.
+Affirmative action in schools, as it stands, should be scrapped, of course.
+Hans-Nina Murray argue for a sort of race-blind, score-based affirmative action.
+They still support colleges accepting applicants from disadvantaged backgrounds,
+but only if they have comparable test scores to the other applicants.
+Affirmative action in the job market should also be scrapped,
+with Hans-Nina Murray arguing that in pursuit of equality,
+we have actually already overshot it,
+and that black people actually attain better quality jobs than white people,
+once you account for their IQs, of course.
+Hans-Nina Murray argue for encouraging low IQ parents
+to have fewer children in a couple of different ways.
+Firstly, they argue for making marriage a prerequisite for parental rights,
+and they also support cutting off welfare for low-income mothers,
+stating that we urge generally that these policies,
+represented by the extensive network of cash and services
+for low-income women who have babies, be ended.
+They also argue more generally in favor of individualism,
+concluding Chapter 21 by writing,
+Individualism is not only America's heritage, it must be its future.
+Hans-Nina Murray conclude this part of the bell curve with the following.
+Inequality of endowments, including intelligence, is a reality.
+Trying to pretend that inequality does not really exist has led to disaster.
+Trying to eradicate inequality with artificially manufactured outcomes has led to disaster.
+It is time for America to once again try living with inequality as life is lived,
+understanding that each human being has strengths and weaknesses and so on.
+This is the end of the main text of the bell curve.
+Then follows seven appendices explaining various things,
+about the data and statistical methods used in the book, among other things.
+Additionally, newer versions of the bell curve contain an afterword written in response
+to various criticisms directed at the book by various scientists and journalists,
+and we will be quoting from that at several points later on.
+So then, that was the bell curve.
+And before we carry on here, I think it would be worthwhile
+to attempt to summarize the general argument of the book.
+So here is my understanding of it in four points.
+One, general intelligence, or G, exists.
+General intelligence is to some degree heritable, innate,
+unable to be significantly changed and unevenly distributed,
+both within and across population groups.
+Two, IQ tests measure G fairly and accurately.
+Three, one's IQ is more important than one's social background
+in determining one's life outcomes.
+And four, given what we can learn from these points,
+we should implement conservative social policies,
+such as limiting welfare, incentivizing marriage,
+abandoning affirmative action, and more broadly,
+we should promote a return to a more individualistic society.
+Now, I'm sure someone could disagree with the conservative adjective
+in this last point and argue that Herrnstein and Murray
+merely promote whatever policies seem to best address the problems they discuss.
+They propose better access to birth control, for instance,
+which is not typically a conservative policy.
+Overall, though, their policy recommendations
+definitely lean heavily to the right.
+So it's now time to begin looking at the counter arguments,
+and we will begin with point one on this list
+and talk about general intelligence.
+So if we want to understand general intelligence,
+we first need to understand the statistical technique
+by which it is calculated, factor analysis.
+And if we want to understand factor analysis,
+we first need to talk about correlation and causation.
+Starting with correlation, then.
+Correlation is basically statistical association.
+Stephen Jay Gould in The Mismeasure of Man
+describes it in the following way.
+Correlation assesses the tendency of one measure
+to vary in concert with another.
+As a child grows, for example, both its arms and legs get longer.
+This joint tendency to change in the same direction
+is called a positive correlation.
+Not all parts of the body display such positive correlation during growth.
+Teeth, for example, do not grow after they erupt.
+The relationship between first incisor length and leg length
+from, say, age 10 to adulthood would represent zero correlation.
+Legs would get longer while teeth changed not at all.
+Other correlations can be negative.
+One measure increases while the other decreases.
+We begin to lose neurons at a distressingly early age
+and they are not replaced.
+Thus, the relationship between leg length and number of neurons
+after mid-childhood represents negative correlation.
+Leg length increases while number of neurons decreases.
+And Gould also includes this handy illustration
+of some example correlation graphs here.
+Now, of course, leg length and arm length are positively correlated
+because they share an underlying cause,
+which is simply general biological growth.
+However, we can think of plenty of things
+that are positively correlated and do not share a cause.
+You might be familiar with the following examples
+from the page Spurious Correlations, which I will link below.
+Per capita cheese consumption correlates with number of people who died
+by becoming tangled in their bedsheets.
+Number of letters in winning word of Scripps National Spelling Bee
+correlates with number of people killed by venomous spiders, and so on.
+Obviously, these things have nothing to do with each other.
+Probably.
+So some correlations are just chance.
+It would be an error to assume a shared cause there.
+Correlation does not imply causation, is the saying.
+Now, in addition to assuming a shared cause when there is not one,
+another common mistake here is to ignore a shared cause when there is one.
+For example, when considering arm and leg length
+to ignore the underlying biological growth
+and assume that legs are getting longer because arms are, or vice versa.
+There are lots of different ways to misrepresent correlations, basically.
+I agree with Gould when he writes the invalid assumption that correlation implies cause
+is probably among the two or three most serious and common errors of human reasoning.
+Anyway, one result of us calculating the correlation between arm and leg lengths
+is that we have simplified the data somewhat.
+The strong correlation between the two variables means we can basically express them as one,
+so long as we don't mind losing a little information along the way.
+But what if instead of just two variables,
+we wanted to compare correlations between the size of, say, 50 different body parts?
+Plotting two measurements in a graph is fairly easy.
+With the addition of a third measurement, though, things start getting a little trickier.
+This figure from the Mismeasure of Man, where Gould introduces head measurements into the mix,
+needs another dimension in order to convey the information.
+And with more variables added in, the data quickly gets too complex
+to display with a mere three dimensions.
+And this brings us to factor analysis.
+Similar to how we simplified arm and leg length to a single dimension,
+factor analysis can be used to reduce a complex system of correlated variables
+to a smaller number of underlying factors.
+And you might find that just a few underlying factors explain the vast majority of the
+variations in a larger number of variables.
+And furthermore, you could identify which factor explained the majority of the variation.
+I won't be going into the exact specifics of how factor analysis works.
+I couldn't if I wanted to, to be honest, but this is basically how it is used.
+To quote Gould again,
+factor analysis is a mathematical technique for reducing a complex system of correlations
+into fewer dimensions.
+So you might be wondering, what does all this have to do with intelligence?
+Well, factor analysis is how psychologist Charles Spearman came up with the concept of the G factor.
+Spearman looked at a big mass of data showing that people scores on various intelligence tests
+were positively correlated, carried out a little factor analysis,
+and identified the most important underlying statistical factor.
+He then called this G, or general intelligence.
+So this G is the underlying general mental ability that we are supposedly measuring with IQ tests.
+However, there are a few problems with this G factor.
+One is, as the bell curve itself points out,
+that it's based on statistical analysis rather than direct observation.
+We are inferring its existence from the data rather than measuring it directly, basically.
+It is the result of a particular statistical method.
+Secondly, simplifying the majority of the data down to a single factor
+can actually obscure a lot of useful information.
+What if the data shows that people who do well on tests of numerical ability
+tend to do well on other tests of numerical ability,
+and people who do well on tests of their language ability
+tend to do better on other tests of language ability?
+We can imagine two people who are determined to be statistically as smart as each other,
+but who excel in completely different areas, right?
+And there are several different intelligence theories
+identifying different clusters of mental abilities.
+Verbal, logical, spatial, mathematical, whatever else.
+You can go and read about all of those if you're very bored.
+But what can we take away from our little chat about correlation and factor analysis here?
+Well, first of all, factor analysis tells us nothing about causation.
+It deals with correlations.
+It can show that there might be common factors underlying different variables,
+but it does not identify for us why those variables vary.
+As a comparison here, let's say you take a sample of 10,000 random members of the public
+and you test their athletic performance at various physical tests.
+Amount of weight lifted, length jumped, speed at running various distances,
+sit-ups completed, whatever.
+And let's say that what you find is that people who perform well on one test relative to the group
+tend to perform well on the other tests relative to the group
+and vice versa for those who perform poorly.
+Now you could, if you so fancied, subject this data to factor analysis.
+Identify numerically the most important underlying factor and name it F
+for general fitness or something.
+And you could probably further assign each person an FQ or fitness quotient.
+However, what you would not have done is explain why some people are fitter than others.
+You would have said nothing about the heritability of athletic performance,
+the degree to which genetics and environment contribute to athletic performance.
+You'd have said nothing about the causes of the data at all.
+It would be a leap of logic to assume that each person's FQ is innate and unchangeable.
+The data you have cannot tell you any such thing by itself.
+You may also find that your singular numerical fitness quotient
+obscures a lot of useful information.
+For instance, you might find people who are better at strength exercises
+tend to be better at other strength exercises and so on.
+So the mere existence of a general factor of cognitive ability
+would not explain why there are differences between people.
+In fact, the G factor is perfectly consistent
+with a 100% environmental approach to understanding intelligence.
+We could play devil's advocate here and say,
+yes, a general factor of intelligence exists and is important,
+but the variance in G between people is explained entirely by environmental factors.
+Childhood nutrition, socioeconomic status, school quality, and so on.
+Absolutely nothing happens in the factor analysis process
+to tell us about what the causes are for people having different measurable levels of intelligence.
+And even if we accept a single general intelligence factor exists,
+that would not necessarily imply a genetic causation.
+And speaking of genetics, let's next talk about the word heritability.
+When the bell curve says,
+cognitive ability is substantially heritable,
+apparently no less than 40% and no more than 80%,
+what does that mean exactly?
+If we average it for 60%, like they do,
+are we therefore to assume that each person's individual IQ
+is 60% determined by heritable genetics and 40% by the environment?
+Well, no.
+Heritability is unfortunately one of those awkward words
+which has a common use understanding and a scientific understanding
+which differ in a few important ways.
+The common use understanding is something like
+the ability of a thing to be passed down genetically, right?
+You can inherit being tall or having red hair,
+but you can't inherit a scar or a finger lost in an accident, say.
+The technical academic meaning of heritability is rather different.
+Heritability is a numerical concept used to estimate
+the contribution of genetic variance to overall variance of a trait within a group.
+So basically, heritability estimates the degree to which
+the variance of a trait within a group is due to genetics.
+Height is thus a heritable trait.
+Taller parents will generally have taller offspring, for example,
+and this is measurable against a population group.
+Having two arms, however, is not a heritable trait
+because almost everyone has two arms.
+And for people who don't have two arms,
+that variance is usually environmental in nature.
+Having two arms is genetically determined,
+but it is not a heritable trait if you follow
+because genes account for very little of the variance
+within the population group.
+Something that is very highly heritable,
+we would say has a heritability of one.
+Something that is not heritable at all,
+we would say has a heritability of zero.
+If we say something has a heritability of 0.6,
+then what we mean there is that 60% of the variance of the trait
+in a population group will be due to genetic factors.
+What it does not mean is that 60% of the trait in one individual
+is due to their genes and 40% due to the environment.
+Heritability tells us about variance within a group,
+not the makeup of individuals.
+It is a population statistic.
+You cannot meaningfully ask what the heritability of your IQ is.
+So where am I going with this?
+Well, there's a couple of points that I'd like to make.
+The first is that a trait can be determined by your genes
+and be very lowly heritable, such as the presence of arms,
+and also the inverse of that.
+A trait could be very highly heritable
+and not directly genetically determined.
+One common example used to illustrate this is earrings.
+What would we say accounts for the variance
+in whether people wear earrings within a particular group?
+Well, depending on the group,
+most of the variance could be due, in one sense,
+to a genetic factor, biological sex.
+Wearing earrings would therefore be a heritable trait,
+but this does not mean that there is an earring gene
+that is being passed down generationally.
+The majority of people wearing earrings being women
+would be due to environmental factors, fashion and gender roles,
+which are subject to change over time.
+In more recent years, for example,
+men in the West have increasingly been wearing earrings.
+The heritability of the trait of wearing earrings is thus decreasing,
+because less of the variance is being accounted for by genetics.
+But crucially here,
+nothing is actually happening genetically on the earring front.
+The change in heritability is down to changing environmental factors.
+When we say something is due to genetics,
+we need to be very careful about exactly what we mean.
+A useful categorization here is
+direct versus indirect genetic determination.
+We need to be sure to differentiate between things
+that are directly genetically determined,
+as in your genes are directly causing some biochemical process
+to happen within you,
+and things that are indirectly genetically determined,
+as a result of your genes interacting with your environment.
+Women being more likely to wear earrings, for instance,
+is a heritable trait,
+but it is not directly genetically determined.
+This is relevant to us because IQ could be such a trait,
+where differences in IQ across designated racial groups
+are caused not by a direct genetic process,
+but instead by how our genetically determined characteristics
+interact with our environment,
+so as to affect our results on IQ tests.
+For example,
+let's imagine your genes cause you to have a particular skin color,
+and you live in a segregated society
+in which people with that skin color are discriminated against
+and do not have equal access to education.
+Now that group's lower results on IQ tests
+would be, in one sense, because of their genes.
+And scientists studying genetics
+might very well find a strong correlation
+between particular genes and lowered IQ test results,
+but if we don't take the environment into account,
+that by itself can't tell us anything.
+The point here is that a trait could be very highly heritable
+and correlated strongly with particular genes
+and still have zero direct genetic determination.
+Now the idea that wearing earrings
+can be more of a heritable trait than having ears
+is admittedly a bit of a difficult concept to grasp at first sight,
+and I would understand if it took a little time
+for someone to wrap their head around all this.
+Right now, though, what I want you to take away from this section,
+if nothing else,
+is the idea that something being heritable
+does not necessarily mean it is actually being directly caused by genetics.
+My next point is that heritability estimates the causes of variants
+within a group.
+It cannot tell us about reasons for differences across groups.
+And to illustrate this,
+we will paraphrase a thought experiment by geneticist Richard Lewontin.
+Let's say we take a packet of seeds
+and plant them in fertilized soil in a controlled laboratory environment,
+and we ensure that the growing plants have sufficient
+and equal amounts of water and light.
+And doesn't that sound nice?
+Now height in plants is a heritable trait, just like in humans,
+and the plants would thus grow to a range of different heights.
+Height in this experiment would be very highly heritable,
+because the fact we're ensuring the plants have an equal environment
+means that the variance in heights in the group
+is solely down to genetics.
+Next, let's say we do that experiment again,
+only this time we plant the seeds in bad soil
+and give them less but equal within the group amounts of water and light.
+The thing to understand here is that height in this second experiment
+would be exactly as heritable as in the previous experiment.
+All of the plants from the second group have the same group environment,
+meaning that, again, the group variance in heights
+would be solely down to genetics.
+The poor environment will produce smaller plants,
+but since they are all subject to that environment equally,
+heritability remains high.
+The problems arise when we start trying to compare these two groups.
+Let's say the second group of plants has an average height
+that is 15% shorter than the first group, for instance.
+The heritability of height tells us nothing about why that is.
+Heritability was the same across both groups.
+If you're trying to figure out why one group of plants grew larger than the other,
+saying height is heritable tells us nothing useful.
+The difference between the groups was entirely down to environmental factors,
+and heritability, despite being high, played no part.
+The two points we can take from this thought experiment are,
+firstly, the heritability of traits does not account for group differences,
+and secondly, a trait having a high heritability
+does not mean that trait is immutable or unaffected by the environment.
+For another example of this, height in humans is a highly heritable trait,
+but the average human height increased substantially over the last century,
+and this was due to environmental changes,
+such as better health care and nutrition.
+Or for another example,
+North Koreans are, on average, a few inches shorter than South Koreans,
+and this is down to the different material conditions in those two countries,
+not some recent radical divergence in genetics.
+Height is heritable in both North and South Korea,
+but it's the environment that is the cause of the variance between the groups.
+This is something that the bell curve crucially misunderstands
+when talking about the heritability of intelligence and IQ.
+On page 109, they say,
+even a heritability of 0.6 leaves room for considerable change
+if the changes in environments are commensurably large,
+the implication here being that higher heritabilities
+would be less affected by changes in the environment,
+and this is just not how it works.
+IQ could be 100% heritable
+and still massively affected by changes in the group environment.
+Professor Ned Block from New York University
+makes several of these points about heritability
+in an article entitled How Heritability Misleads About Race,
+and then goes on to say,
+I hope these points remove the temptation exhibited in the bell curve
+to think of the heritability of IQ as a constant, like the speed of light.
+Heritability is a population statistic,
+just like birth rate or number of TVs,
+and can be expected to change with changing circumstances.
+These issues are pathetically misunderstood by Charles Murray.
+In a CNN interview reported in the New Republic,
+Murray declared,
+when I, when we, say 60% heritability,
+it's not 60% of the variation,
+it is 60% of the IQ in any given person.
+Later, he repeated that for the average person,
+60% of the intelligence comes from heredity,
+and added that this was true of the human species,
+missing the point that heritability makes no sense for an individual
+and that heritability statistics are population relative.
+So if you don't quite understand all this stuff about heritability,
+don't feel too bad because Charles Murray doesn't understand it either.
+Or at least he didn't 25 years ago,
+he may have done his homework since then, who knows.
+Looking again at the bell curve's list of claims about intelligence,
+the only one on here that could be said to be making a point about genetics is number six.
+Cognitive ability is substantially heritable.
+However, as we've seen,
+a trait being heritable does not necessarily mean a direct genetic cause.
+It does not tell us anything about the heritability of a particular individual's intelligence,
+and it cannot tell us the reason for differences between groups of people.
+Those differences between people could be caused by environmental factors,
+because, twist, environments are heritable too.
+As the bell curve itself points out,
+non-genetic characteristics can nonetheless run in families.
+For practical purposes, environments are heritable too.
+So to summarize this section,
+we have considered the method by which a general intelligence factor is determined,
+and also claims about its heritability.
+But we can conclude from neither of these things
+that the variance in intelligence between groups of people has a direct genetic cause.
+The cause could simply be directly due to the environment,
+or indirectly by way of how genes are interacting with that environment.
+So why am I listing off all the ways in which
+Hanstein and Murray do not prove a genetic cause for cognitive ability, you might ask.
+Their later comparisons of IQ and environmental factors
+assume that IQ is largely genetic in origin,
+so presumably they do prove it at some point, right?
+Well, to put it bluntly, no.
+In their section, How Much Is IQ a Matter of Genes?,
+they estimate the heritability of IQ scores by talking about twin studies.
+We can use studies of identical twins, non-identical twins, and regular siblings
+to estimate the extent of genetic effects upon IQ
+by noting the differences in correlations between their scores on intelligence tests.
+However, there are a few problems with this.
+Most importantly for us here being that in attempting to learn about
+genetic cognitive ability via intelligence test scores,
+we have to make the assumption that intelligence tests
+are an accurate measure of cognitive ability.
+But more on that in a moment.
+Even if we assume that the tests do give an accurate representation of cognitive ability,
+attempts to use these correlations to construct a simple genetic model for IQ
+run into several issues.
+Firstly, the IQs of identical twins do not perfectly correlate,
+as we would expect them to, given their nearly identical genetics.
+The correlation of siblings who were raised apart is weaker
+than the correlation of siblings who were raised together.
+And probably most troublesome for a purely genetic model here
+is that there is also some correlation between parents and adopted children.
+Their scores correlate to some degree,
+despite there being no immediate genetic link beyond being the same species, of course.
+So in our search for exactly how much genetics affects cognitive ability,
+these observations are only ever going to get us so far.
+It's very difficult to disentangle the genetic effects from the environmental ones.
+What we really need here is genetics research to advance to the point
+where we understand exactly which genes influence intelligence
+and to which degree they influence intelligence.
+When the bell curve was published, the evidence was not there.
+As Herndstein and Murray admit,
+the state of knowledge does not permit a precise estimate.
+And in 2019, 25 years later, the evidence is still not there.
+If anything, with regards to the claims in the bell curve,
+particularly its claims about racial differences,
+the genetic story has only gotten more complicated.
+The reason I say designated racial groups instead of racial groups during this video
+is because on a genetic level,
+our skin color folk understanding of racial groups can be unhelpful.
+There can be greater genetic differences
+within our socially constructed racial groups than between them.
+I doubt anyone would be so naive as to expect us to one day identify
+the singular gene that controls both skin color and intelligence.
+Someone having dark skin and thus being identified and identifying as black
+could have a whole range of genetic history.
+You can't read someone's genes by looking at their skin color.
+This is important for us because the authors of the bell curve
+use our socially constructed racial groups in their book.
+Talking about this, they say,
+what does it mean to be black in America in racial terms
+when the word black or African-American can be used
+for people whose ancestry is more European than African?
+How are we to classify a person whose parents hail from Panama
+but whose ancestry is predominantly African?
+Is he a Latino, a black?
+The rule we follow here is to classify people
+according to the way they classify themselves.
+It would be a leap of logic to assume genetic explanations
+for characteristics of self-identified groups,
+given that those groups could have a wide range of genetic makeups.
+My point with all this is that the bell curve's direct evidence
+of a genetic basis for IQ is missing.
+Charles Murray's attitude towards this problem
+in the years since the publication of the book
+has been to kick the can down the road,
+assuming that he and Herrnstein were prematurely right,
+to borrow a phrase from his afterword to the bell curve,
+and that the accumulating genetic evidence will prove him right
+if everyone just waits a little longer.
+And it remains his tactic more than two decades later.
+In October of this year, Professor Ewan Birney,
+the director of the European Bioinformatics Institute,
+published a blog post titled
+Race, Genetics and Pseudoscience, an explainer,
+which discusses, among other things,
+how our traditional racial categorizations
+are not reflected in actual patterns of genetic variation,
+how distinct groups within Africa can be as distinct from each other
+as they are with non-Africans,
+how race is not a useful or accurate term for geneticists,
+and it says that it is often suggested that geneticists
+who emphasize the biological invalidity of race
+are under the form of political correctness,
+forced to suppress their real opinions
+in order to maintain their positions in the academy.
+Such accusations are unfounded
+and betray a lack of understanding of what motivates science.
+Charles Murray responded to this post on Twitter a few days later,
+saying,
+I can't understand why people are so eager to go public
+with positions for which the weight of the accumulating evidence
+is so unwelcome
+and that will be definitively settled within a few years.
+So it seems the evidence for Murray is still just a few years away.
+With regards to the bell curve, however,
+it is possible we are being a little unfair
+when we criticize it for basing much of its analysis
+on relatively crude estimations.
+After all, they do admit the evidence is not there,
+and they say,
+if the reader is now convinced that either the genetic or environmental explanation
+has won out to the exclusion of the other,
+we have not done a sufficiently good job of presenting one side or the other.
+We should not criticize scientists for saying,
+the evidence isn't there yet, but here's a rough guess.
+Presenting such estimates and attempting to disprove them
+is a key part of the scientific process.
+Problems arise when we get to part four of the bell curve, however.
+While it is fine to say,
+the evidence isn't there yet, but here's a rough guess,
+it is not so fine to say,
+the evidence isn't there yet,
+here's a rough guess.
+And based upon this rough guess,
+you should immediately suspend welfare programs
+for underprivileged children.
+But we'll talk more about this later
+when we discuss the politics of the bell curve.
+For now, though, let's address the assumption I mentioned earlier
+when talking about twin studies.
+We have been in this section
+assuming that we can measure native intelligence accurately.
+If we cannot measure native intelligence accurately,
+then much of what we've talked about thus far is irrelevant.
+So it's now time to talk about IQ tests.
+So I summarized the bell curve's claims about IQ tests
+as IQ tests measure G fairly and accurately.
+I wrote fairly because of their statement,
+properly administered IQ tests are not demonstrably biased
+against social, economic, ethnic, or racial groups.
+And I wrote the word accurately because of their statement
+that all standardized tests of academic aptitude or achievement
+measure this general factor to some degree,
+but IQ tests expressly designed for that purpose
+measure it most accurately.
+So firstly here, we're going to discuss
+a few of the possible problems with IQ tests,
+starting with the various ways
+in which they can deliver biased results.
+Now, direct cultural bias in IQ test items
+is discussed by Herrnstein and Murray in chapter 13.
+They use an example of a question that includes the word regata,
+which is a word that might bias the results
+towards certain cultural and economic groups.
+And certain historical so-called intelligence test questions
+have actually been much worse than this.
+Some of them amounted to nothing more than general knowledge questions.
+The army alpha test used in World War I
+asked army recruits to identify
+what particular celebrities were famous for,
+in which cities certain cars were manufactured,
+and the products produced by certain brands.
+Questions like these obviously have very little to do
+with any native intellectual ability,
+they're just testing whether or not
+you happen to already know the answer.
+There's no opportunity to work it out,
+so any psychometricians constructing intelligence tests
+certainly need to be careful
+to not include biased test items like these ones.
+Tests can also be biased for instruction.
+And what do we mean by instruction here?
+Well, simply whether or not you've been taught
+the meaning of a word
+or the best method for solving a maths problem
+is going to matter a lot on a test
+that requires you to draw upon your mathematical
+and language abilities.
+As an example here,
+I'm gonna assume that we all agree
+it would be unfair to expect a random teenager
+to, by themselves, during a test,
+invent trigonometry.
+If you include trigonometry questions
+on your intelligence test,
+what you'll be testing for there
+will not solely be the intelligence of the respondent,
+but also whether or not they've been taught
+trigonometry before,
+how recently they were taught it,
+and how well they were taught it.
+This is relevant for us here
+because the Armed Forces Qualifying Test,
+which is the primary source of intelligence test data
+in the bell curve,
+had as one of its four sections
+a mathematics test which included questions
+examining knowledge of classroom trigonometry and algebra.
+This is more of a test of scholastic aptitude
+than native intelligence,
+and is also testing by proxy
+the quality of the teaching at the different schools
+that the AFQT respondents went to.
+We can't assume that to be equal
+across thousands of different people, can we?
+This is one of a few problems with the AFQT
+that has roots in the fact
+that it was not designed as an IQ test,
+but more on that in a second.
+Another way that IQ tests can be biased is for speed.
+Think of the definitions of intelligence
+we've seen so far.
+A capacity for complex mental work,
+catching on, making sense of things,
+and figuring out what to do.
+And simply because of the way IQ tests
+are administered,
+we have to add the words
+within the time constraints of an academic test
+to all of those things.
+IQ tests are by their nature
+biased towards how fast you can think
+and away from other important qualities
+which contribute to overall cognitive ability
+such as stamina, determination, and discipline.
+Similar to that point,
+IQ tests have a more general bias
+towards familiarity with an academic environment.
+People unfamiliar with taking tests
+are going to fare worse
+than people who are very used to it
+simply due to being in an unfamiliar environment.
+Things like anxiety and stress
+come into play here.
+Those can affect intelligence test results
+despite having nothing directly
+to do with intelligence themselves.
+Herrnstein and Murray
+are particularly aware of that last point,
+and we need to briefly discuss
+the Flynn effect here.
+So when IQ tests are constructed,
+they're standardized using a sample of test takers.
+Now what that means in practice
+is the testers will test some people,
+work out the average score,
+and set that to correspond to 100.
+This is why we recognize an IQ of 100 as the average.
+When those IQ tests are later revised
+or when new IQ tests are designed,
+they're also standardized on new groups of people
+and their average is set again to 100.
+However, researchers noticed
+that when newer test subjects
+take the older versions of a test,
+their IQ scores are on average higher.
+So IQ scores have gone up over time, basically,
+meaning if you believe that IQ tests measure intelligence,
+then people must be getting more intelligent, right?
+This is troublesome for Herrnstein and Murray
+because they argue the opposite,
+that cognitive ability is deteriorating.
+And this brings us back to our point
+about bias towards an academic environment.
+Addressing the Flynn effect,
+Herrnstein and Murray write the following.
+There is a further question to answer.
+Does a 15-point IQ difference
+between grandparents and their grandchildren
+mean that the grandchildren are 15 points smarter?
+Some experts do not believe that the rise is holy,
+perhaps not even partly a rise in intelligence,
+but in the narrower skills
+involved in intelligence test-taking per se.
+So this, if it were true,
+would mean that people are actually getting less intelligent,
+but at the same time,
+they are getting better at taking IQ tests.
+Now, you might say, isn't that a huge contradiction?
+Aren't they basically admitting that IQ tests
+measure something other than inborn intelligence?
+After all, if IQ tests supposedly measure
+native cognitive ability accurately,
+how could scores be going up
+while cognitive ability is going down?
+However, to be fair to Herrnstein and Murray,
+it would be hasty to dismiss
+their dysgenics hypothesis outright.
+There is another possibility here,
+and it's that people are getting genetically less intelligent,
+but the environmental factors affecting intelligence
+have undergone such large changes
+that their positive effects upon IQ
+are more than accounting
+for the downward genetic ability shift.
+So roughly, we would have lost a genetic IQ point
+thanks to dysgenics,
+but gained two back thanks to a better environment.
+So what evidence does the bell curve produce
+in support of this downward trend
+in genetic cognitive ability?
+Well, unfortunately for Herrnstein and Murray,
+their main source of data,
+the National Longitudinal Survey of Youth,
+is not much use here.
+Ideally, what we want to do is give IQ tests
+to the children of women who took part in the AFQT,
+so we could directly compare child to parent
+and see if any downwards shift was happening.
+However, this would be a mistake,
+as since our data is coming
+from the National Longitudinal Survey of Youth,
+the respondents are, appropriately, young.
+People who wait longer to have children
+are typically wealthier and better educated,
+and thus tend to have children with higher IQs.
+Limiting ourselves to looking at only young mothers
+will skew the apparent IQ of the next generation downwards,
+so it would be an inaccurate thing to do.
+Herrnstein and Murray are, thankfully,
+well aware of this problem.
+Not that it stops them from trying, however.
+Herrnstein and Murray's dysgenics hypothesis
+is discussed in Intelligence, Genes, and Success,
+Scientists Respond to the Bell Curve,
+a 1997 book which responds to many of the points
+made in the Bell Curve.
+The authors of that book, for their part,
+find no direct empirical evidence,
+either for or against a dysgenic effect
+acting upon cognitive ability,
+stating that, insofar as we are aware,
+there is nothing but anecdotal evidence for dysgenics.
+Anyway, let's get back on track.
+Now, to illustrate another way IQ tests can be biased,
+I think it would be a good exercise for us all
+to briefly take a very simple one-question test together.
+So get your pencil and paper ready, folks.
+Here it is.
+Easy, right?
+An incredibly simple number sequence question there,
+the sort you'd expect nearly anyone to be able to work out.
+It's also a fair and unbiased question, of course.
+I mean, everyone was given the exact same question
+and the exact same amount of time to answer it, right?
+What could be more fair and unbiased than that?
+Now, of course, this question is not fair.
+It is biased in favor of Japanese people.
+And anime fans, I guess.
+The point here is that this question would,
+in any language, be biased against people
+who don't speak that language.
+A question in English is biased against people
+who don't speak English, isn't it?
+Now you might protest.
+This seems like a very obvious point.
+I mean, surely nobody is gonna give an IQ test in English
+to a group of people who are not fluent in English
+and then try to pass off those results as legitimate, right?
+Well, stay tuned, folks.
+One point not given due consideration by the bell curve
+during their discussion of testing bias
+is that even a completely unbiased test,
+were it possible to construct such a thing,
+would still deliver biased results
+if it were being carried out in a biased system.
+When Herrnstein and Murray say properly administered IQ tests
+are not demonstrably biased,
+they seemingly mean that the tests themselves
+do not contain words like regatta,
+not that the tests necessarily deliver fair results.
+So that is another potential problem with IQ tests to watch out for.
+Even if we eliminate as much cultural bias as possible from the test,
+we could still, thanks to the wider environment
+the tests are taking place in, be receiving biased results.
+For instance, if you carried out an IQ test
+in a racially segregated white supremacist state,
+that environment is obviously gonna affect the average IQ scores
+of different designated racial groups.
+Now you might protest.
+This also seems like a very obvious point.
+I mean, surely nobody's gonna carry out an IQ test
+in a racially segregated white supremacist state
+and then try to pass off those results as legitimate, right?
+Again, stay tuned, folks.
+Now keeping in mind all the various possible problems
+with IQ testing that we've just discussed,
+let's take a look at a few of the IQ tests
+that Herrnstein and Murray cite as evidence for claims in the bell curve.
+Surely they will be properly administered, right?
+After all, Herrnstein and Murray themselves
+discuss many of the same issues that we just have.
+It would follow that given their familiarity
+with these potential problems,
+they would of course endeavor to avoid them.
+So let's see how they do on that front.
+We'll take a look at a particular section of the bell curve now,
+see what the claims are,
+and then have a bit of a dig into the sources backing up those claims.
+And this is from a section titled
+How do African Americans compare with blacks in Africa on cognitive tests?
+And I quote,
+This question often arises in the context of black-white comparisons in America,
+the thought being that the African black population
+has not been subjected to the historical legacy
+of American black slavery and discrimination
+and might therefore have higher scores.
+Richard Lynn was able to assemble 11 studies
+in his 1991 review of the literature.
+He estimated the median black African IQ to be 75,
+approximately 1.7 standard deviations below the US overall population average,
+about 10 points lower than the current figure for American blacks.
+In summary, African blacks are, on average,
+substantially below African Americans in intelligence test scores.
+Psychometrically, there is little reason to think that these results
+mean anything different about cognitive functioning
+than they mean in non-African populations.
+For our purposes, the main point is that the hypothesis
+about the special circumstances of American blacks depressing their test scores
+is not substantiated by the African data.
+So this is Herrnstein and Murray's answer
+to those who point to the legacy of slavery and discrimination in the United States
+as an explanation for the differences in IQ scores
+between its black and white populations.
+They point to black people in Africa and say,
+hey, well, they also got lower scores.
+Black African people haven't been subject to discrimination in America after all,
+so doesn't this prove that discrimination in America
+can't be depressing black IQ scores?
+Well, not really.
+Herrnstein and Murray's decision to limit their concern here
+to American black slavery and discrimination is a huge oversight
+because there could also be discrimination in whichever parts of Africa
+they are talking about, if you follow.
+That could be, in a similar way, depressing the scores there, too.
+If that were the case, attempting to use the African data
+as some sort of control test for the American data
+would be fairly ridiculous, to say the least.
+America does not have a monopoly on discrimination and depression, does it?
+And so we need to ask, which parts of Africa are they talking about?
+They say that Richard Lin was able to assemble 11 studies
+in his 1991 review of the literature.
+Now, Herrnstein and Murray claiming the acknowledgments
+at the start of the bell curve to have benefited
+especially from the advice of this Richard Lin,
+who they elsewhere call a leading scholar of racial and ethnic differences,
+and they cite his work several times throughout the book.
+So let's take a look at Richard Lin's 1991 review of the literature,
+entitled, Race Differences in Intelligence, A Global Perspective,
+which was published in Mankind Quarterly,
+and remember the name of that journal, folks,
+as we'll be talking more about that later on.
+So the first thing we'll notice about this review
+is that it unfortunately designates people as either
+caucasoids, mongoloids, or negroids,
+including, quote, hybrids of those groups,
+for instance, caucasoid, negroid, hybrids, and so on.
+I can only apologize for having to read out this rubbish.
+So let's look at the 11 studies included in this review
+and see which areas of Africa we are concerned with.
+Well, there's one from what was then known as the Belgian Congo,
+one from Ghana, two from Nigeria, one from Uganda,
+one from Zambia, and five from South Africa.
+And there is rather a lot to comment on here,
+but how about we start with sample sizes?
+Some of them are rather small, you may have noticed.
+87 people for Nigeria, 50 people for Uganda, and so on.
+By far the most represented area here is South Africa.
+The number of people tested in South Africa
+was more than double the number of all the other subjects combined.
+And what's the significance of this?
+Well, this review was published in 1991.
+South African apartheid ended in 1994.
+Now, I don't want to get too deep into this right now,
+but for those who don't know,
+apartheid was an explicitly white supremacist system
+of enforced racial segregation.
+Non-white South Africans were openly discriminated against,
+forced from their homes, forbidden to live in certain areas
+and hold certain jobs, and most importantly for us here,
+had to attend segregated schools,
+which were massively underfunded compared to the schools
+that the white South Africans went to,
+many being without electricity or even running water.
+And just so we know the sort of education system we're dealing with here,
+I'll quickly quote some relevant passages from South Africa,
+a country study from the Library of Congress.
+The Bantu Education Act of 1953
+widened the gaps in educational opportunities
+for different racial groups.
+Two of the architects of Bantu education,
+Dr. W.M. Iselin and Dr. Hendrik F. Ferwerd,
+had studied in Germany and adopted many elements
+of National Socialist, Nazi, philosophy.
+The concept of racial purity in particular
+provided a rationalization for keeping black education inferior.
+Ferwerd, then Minister of Native Affairs,
+said that black Africans should be educated
+for their opportunities in life
+and that there was no place for them
+above the level of certain forms of labor.
+The Bantu Education Act helped pave the way
+for labor strife in the 1980s and 1990s
+by institutionalizing a plan to restrict black workers
+to low-paid jobs through deliberately inferior education.
+During the 1960s and 1970s,
+per capita spending on white pupils
+was about ten times greater than educational spending
+on black pupils.
+By the early 1990s, the gap had been reduced by half,
+but in general, standards for teacher qualifications
+and facilities in black schools
+continued to be inferior to those in white schools.
+The discrepancies in education among racial groups were glaring.
+Teacher-pupil ratios in primary schools
+averaged 1 to 18 in white schools,
+1 to 24 in Asian schools,
+1 to 27 in colored schools,
+and 1 to 39 in black schools.
+Moreover, whereas 96% of all teachers in white schools
+had teaching certificates,
+only 15% of teachers in black schools were certified.
+Secondary school pass rates for black pupils
+in the nationwide standardized high school graduation exams
+were less than one-half the pass rate for whites.
+You get the point, I think.
+So what Hernstein and Murray have done here
+in attempting to prove that a history of racial discrimination
+in America is not depressing black IQ scores
+is point to a study citing similar scores
+in a system of open racial discrimination.
+This is utterly ridiculous, obviously.
+Anyway, we're now gonna take a look at some of these studies
+compiled by Richard Lin,
+and we'll start with this one, Woburn 1969,
+which apparently reported an IQ score of 86 from Nigeria.
+And here it is, the meaning and stability
+of Raven's matrices test among Africans,
+and let's read a little of that.
+This paper aims to clarify our understanding of factors
+affecting African scores on ability tests,
+Raven's matrices in particular.
+Though the main burden is theoretical,
+some fresh data from Nigeria will be shown.
+During 1965, a testing program was carried out
+among factory workers in Nigeria.
+The results from 86 men will be reported here.
+They were tested individually in English or Pidgin
+by the author with the aid of a trained Nigerian assistant.
+Among the test battery were Raven's progressive matrices
+and an adapted embedded figures test,
+which with an index of educational attainment
+are explained by Woburn.
+Six months after the tests,
+each man was given the matrices again.
+There was no intervening coaching,
+and the test was given as though it was to be a new experience
+with full instructions repeated
+and evidently equally necessary in most cases as previously.
+Men were not overtly asked to pit their presence
+against their previous efforts.
+Results were presented in table one.
+The relation between retested matrices and EFT
+is significantly greater
+than between the initial matrices testing and EFT,
+even though in the former comparisons,
+the tests were done six months apart.
+Table one shows that the overall differences in retesting
+were significant and suggests that improvements
+were found particularly among the lower initial scorers.
+Taken with the improved EFT correlation in table two,
+a strong case can be made that the second testing
+gave a distinctly more valid measure
+of whatever abilities the matrices and EFT involve.
+So to quickly summarize, in 1965,
+researchers gave 86 Nigerian factory workers
+the Raven's Progressive Matrices Test
+and then gave it to them again six months later.
+The second time they took the test,
+they performed better overall,
+and the results better correlated
+with another test they took called the EFT.
+And table one here shows both mean results,
+15.9 the first time, increasing to 18.73 the second time.
+What is missing here, you may have noticed, is an IQ score.
+This study does not report an IQ score
+for anyone involved in the test.
+It reports their scores on the matrices test.
+So why then does Lin's review cite Wober 1969
+as having reported an IQ score of 86?
+Well, looking at table one, 86 men took the test.
+Do you see?
+Now, most likely here, this is a simple typographical error,
+and Lin, or whoever typed up his data,
+accidentally wrote the number of test subjects
+in the IQ field.
+Regardless, though, Lin's review is not accurately
+reporting the IQ score from Wober 1969
+because there wasn't one.
+Lin cites Wober 1969 again in his later book,
+IQ and the Wealth of Nations,
+where he says in 1965, norms for the standard
+progressive matrices were collected by Wober 1969
+for a sample of 86 adult men.
+Their mean score was 15.9.
+And then he later claims that this equates
+to an IQ of 64.
+Now, there are several lies by omission here.
+Firstly, Wober 1969 did not report a mean score of 15.9.
+It reported a mean score of 15.9
+and a mean score of 18.73.
+It showed how scores go up with retesting.
+And additionally, it claims that a strong case
+can be made that the second testing
+gave a distinctly more valid measure
+of whatever abilities the matrices and EFT involve.
+Lin intentionally chooses to only report
+the lower score here.
+Another lie by omission here is that Lin declines
+to mention that the sample of 86 adult men
+were not randomly drawn from the general Nigerian population.
+They were not an accurate representation
+of the society where they lived,
+and nor were they intended to be.
+They were all factory workers.
+Reporting the test results of only 86 men
+who are all employed in the same job
+as representative of a country,
+which at the time had a population of 50 million people,
+is... rubbish.
+Just rubbish.
+Next up, let's talk about this result,
+an IQ of 75 for people in Zambia,
+cited from Pons 1974 and Crawford Nutt 1976.
+So the 1976 paper from Crawford Nutt is titled
+Are Black Scores on Raven's Standard Progressive Matrices
+an Artifact of Test Presentation?
+And opens by saying that previous research has shown that
+when the method of test presentation ensures
+that testees understand adequately the requirements
+of the test situation,
+when the method also makes certain that the testees know
+how items of the test are to be responded to,
+and when the method reduces the anxiety of the subjects
+about being tested,
+then the results obtained from the administration of the test
+are remarkably different from those that result
+from administration in which the same test is presented
+in the same way to all testees,
+regardless of their cultural origin.
+It goes on to detail how a researcher named Pons
+gave the Raven's Standard Progressive Matrices test
+to a group of Zambian copper miners in 1962,
+using the standard method of delivery.
+Then later, Pons administered the test again to another group,
+only this time using a different method of test presentation.
+As table one shows,
+the second group showed a rather dramatic difference in score.
+Now, the thinking behind all this might be
+that a group of Zambian copper miners
+aren't necessarily going to be all that familiar
+with taking academic tests, not to generalize,
+and if you want more accurate results,
+it might be worth taking the time to actually explain to them
+what it is that they're being expected to do.
+Now, Crawford Knott claims
+that the different method of presentation
+did not alter anything about the test itself
+and is based upon suggestions found in the 1960 guide
+to the standard progressive matrices written by John C. Raven,
+AKA the guy what invented the Raven's Progressive Matrices test.
+After reporting the findings of Pons,
+Crawford Knott takes things one step further
+and tests a selection of pupils from a long-established high school
+situated in the black residential area of Soweto near Johannesburg,
+a school that is described as having high standards
+and whose students would be used to being tested.
+Crawford Knott tested two samples of these schoolchildren
+using the same presentation method as described by Pons,
+and the results received were actually slightly higher
+than the equivalent age range of the white group
+on whom the test was normalized.
+Now, you might say, what has Crawford Knott actually proved there?
+Test results go up the closer you get to a good school, I suppose.
+This shouldn't be surprising anyone.
+If you test a relatively uneducated group of copper miners,
+you get one result.
+Do that same test in a competitive academic institution
+and you will get a higher result.
+By changing the method of test presentation
+and changing the group which you are testing,
+you can get a whole range of results.
+This is why researchers don't usually test people
+in just one area, one workplace, or one school
+and then try to pass off that singular result
+as representative of the entire country that they live in.
+That would be a remarkably ignorant thing to do.
+Speaking of, back to Richard Lin and his claimed IQ of 75 for Zambia,
+which cites both Pons and Crawford Knott
+as the source of the data there.
+So how did that happen?
+Well, what Lin does is, he cites the much lower results
+from the research carried out by Pons,
+which are presented in Crawford Knott's paper,
+and then completely ignores Crawford Knott's experiment in the school,
+which reported results above the white norm.
+The entire point of Crawford Knott's paper goes totally unmentioned by Lin,
+who simply extracts the data that he wants and discards the rest.
+He had data showing a black African test score
+that was above the white norm,
+and he simply decided to ignore it.
+Also, like the previous paper we discussed,
+this study did not report IQ scores for the testees.
+Those are simply concocted by Lin
+out of the Raven's progressive matrices data,
+using a sophisticated statistical technique called guessing.
+So to understand what Lin has done here,
+we need to talk a little about IQ test construction and standardization.
+And let's start with the bell curve.
+Not the book this time, but the statistical distribution.
+Now, IQ tests, as we know, return this bell curve, or normal distribution.
+This means that the majority of the scores are clustered around the middle
+and taper off towards the ends of the curve in a symmetrical way.
+But why, you might ask, do they actually return this distribution?
+Well, it's because that's how they're designed.
+Psychometricians design IQ tests so that their results match the bell curve.
+If the test they design is too easy,
+then the bell curve will lean to the right,
+as too many people will get high scores.
+If the test is too hard, it will lean to the left,
+as too many people get low scores.
+And if the test doesn't differentiate between people to the right degree,
+then too many people could be at either end of the curve.
+So the test designers tinker with the difficulty of the test
+until the results match the bell curve.
+So why do psychometricians do this?
+Well, it's because that's how they assume intelligence is distributed
+throughout the human population.
+Emphasis on assume here,
+because we do not actually know how intelligence is distributed
+throughout the human population.
+Unless you specifically design for it,
+tests do not necessarily return a bell curve distribution.
+For example here,
+the armed forces qualifying test used in the bell curve
+did not return a bell curve distribution.
+It was, after all, designed to test readiness to join the armed forces, not IQ.
+As a result, it does not differentiate between people to a large enough degree,
+so Hernstein and Murray, to make the results conform to a bell curve,
+recalculated the scores.
+Here is a graph of the raw AFQT scores overlaid with Hernstein and Murray's
+recalculated bell curve scores from the book Inequality by Design.
+And as we can see, too many people scored too highly on the test
+and there isn't enough differentiation between people
+on the upper end of the scale in particular.
+So yes, that's right.
+In the book The Bell Curve,
+the principal intelligence test the authors use as a source
+did not return a bell curve distribution.
+To transform these results into a bell curve,
+Hernstein and Murray exaggerated the slight differences at the end of the scale.
+They basically gave extra credit for being near the tails of the bell curve
+and less for being in the middle.
+They did this as they explain in Appendix 2 to correct for skew.
+But remember, in relation to how intelligence is distributed
+throughout the human population,
+these results are only actually skewed
+if we assume that intelligence is distributed in a bell curve to begin with.
+This is circular logic.
+We are assuming the result that we are going to get beforehand
+and then designing the test or just manipulating the data
+in order to reach that conclusion.
+Anyway, to get back on track here,
+what does all this have to do with Richard Lin and the Raven's progressive matrices test?
+Well, that test also does not return a bell curve distribution.
+The results are not symmetrically distributed around their mean,
+to quote an article by psychologist Leon Kamin.
+That article also notes that the test's developer, John Raven,
+always insisted that the progressive matrices scores cannot be converted into IQs.
+Here is an example of the distribution of matrix test scores
+from Raven's paper, Standardization of Progressive Matrices 1938.
+And as you can see, those are some very wobbly bell curves right there.
+What the test does give is raw scores which correspond to percentile scores.
+So you can know from your raw score how you compare percentile-wise
+to the group on which the test was normalized.
+But these percentiles will not be distributed evenly around their mean in a bell curve.
+To calculate IQ, Richard Lin takes the average of these raw scores,
+converts them to a percentile score,
+and then gives what the IQ of that percentile score would correspond to
+if the results were in a bell curve distribution.
+Basically, Lin is assuming a bell curve exists where there demonstrably isn't one
+and is forcing the data to fit it.
+Another issue here is that in the decades since the Second World War,
+scores on the Raven's matrices test similar to IQ test scores had been changing.
+Accordingly, the test had been standardized several times.
+So when we're comparing the African results with Western norms,
+we need to identify what norm group we're using
+because comparisons with different groups from different times could give different results.
+Particularly sharp-eyed viewers would have noticed that Lin does exactly this
+in the quote from his 2002 book,
+IQ and the Wealth of Nations, which I showed earlier,
+where he discusses Nigerian IQs, quote,
+in terms of the British 1979 standardization.
+Identifying this standardization is important,
+as using a different one could lead to a different Nigerian IQ being calculated.
+In his 1991 review of the literature cited in the bell curve, however,
+Lin does not identify what standardization he's using for the various tests he is comparing.
+What this means is that there is a gap in Lin's calculations
+that can only be filled by faith in his academic honesty,
+which Hearnstein and Murray clearly have,
+but I must confess that I do not.
+Anyway, if you think what Lin did to those last two studies was bad,
+strap in, because this next one is a real bastard.
+South Africa IQ of 69, attributed to Owen, 1989,
+which Lin calls the single best study of the Negroid Intelligence.
+So this is test and item bias,
+the suitability of the junior aptitude tests as a common test battery
+for white, Indian, and black pupils in standard 7.
+Owen is not one for catchy names, apparently.
+The abstract to this study starts out,
+This study was undertaken to shed light on problems
+concerning the construction and use of a common test battery
+for various South African population groups.
+You see, this study is testing a test,
+the Junior Aptitude Test, or JAT,
+which was standardized for white pupils in South Africa
+and determining whether it's also a good test to give to non-white groups.
+The study selected various schools in South Africa for white, Indian, and black students.
+Although it should be mentioned,
+it was not able to use the majority of the selected black schools,
+quote,
+and thus they had to test black schools in the KwaZulu region,
+one of the areas designated for black inhabitants of South Africa under apartheid.
+I mention the unrest situation here as a reminder that,
+yes, these tests are being carried out under apartheid,
+and protests and demonstrations against the segregated school system were ongoing.
+So anyway, the study examined pupils' performances
+on the various sub-tests comprising the JAT,
+and what were the findings?
+Well, the thing I think we should mention first here
+is that the tests were given to the black students in KwaZulu in English only,
+and several test sections of the JAT relied very heavily upon language ability.
+Now, Owen expected language ability not to matter in the tests
+because the black students in the KwaZulu region
+had ostensibly been learning English in their schools.
+Owen apparently either doesn't know or disregards
+that these schools often didn't have necessary teaching equipment,
+only a small amount of their teachers were certified,
+and that pupil-teacher ratios were more than double that of the white schools.
+And to quote the study,
+language was not expected to play a significant role in test performance in this investigation.
+However, the results showed that this assumption was completely wrong.
+In fact, language played such an important role,
+and the knowledge of English of the majority of black testees was so poor
+that certain tests, for example the JAT-4 synonyms
+and the JAT-8 memory paragraph, proved to be virtually unusable.
+And let me just quote that again.
+Certain tests proved to be virtually unusable.
+Owen also writes elsewhere,
+the results of the current investigation clearly show that language played a prominent role
+in all the tests containing language items,
+which is a wonderful multiple stab wounds shown to shorten life expectancy,
+bit of academic obviousness there.
+Language ability was not the only way in which the Junior Aptitude Test was biased, however.
+In a section entitled Item Bias in the Tests of the JAT,
+Owen notes several ways in which the tests were culturally and economically biased.
+For example, he here lists several test items on the first test in the JAT and states,
+A common element in most of these items was that they presuppose knowledge
+or a degree of knowledge on the part of the testee,
+and mentions such things as electrical appliances,
+microscopes, and Western types of ladies' accessories.
+Going on to write,
+Thus in the case of both the Indian and Black testees,
+it seems that the single largest cause of bias lay in the fact that the pupils
+were not familiar with the objects represented by the pictures.
+Cultural and socioeconomic status factors probably also played a role in this regard.
+So this test is biased, then.
+The study examining it says it is biased,
+but according to Richard Lin,
+this is the single best study of the Negroid Intelligence.
+This is the best one.
+The one that tests segregated school children in a non-native language
+and calls its own results virtually unusable.
+In Lin's review,
+this is the most important study for his estimates of Black African IQ.
+Writing about it, he says,
+The mean IQ of the sample in comparison with Caucasoid South African norms is 69.
+It is also around the median of the studies listed in Table 3.
+It is proposed, therefore, to round this figure up to 70.
+Why?
+And take this as the approximate mean for pure Negroids.
+God damn.
+What Lin has done here is ridiculous.
+He has taken 11 studies from a period between 1929 and 1991,
+with vastly different sample sizes reporting data from different tests,
+most of which didn't even report IQ scores,
+transformed the data into what he reckons the equivalent IQ scores were
+using some unknown standardization,
+picked one that was sort of near the middle,
+and said that's the average Black African IQ.
+This is outrageous.
+It is a crime.
+It might actually be a crime, and if it's not, it should be.
+Now, I am far from the first person to criticize
+the Bell Curve's reliance upon Richard Lin as a source.
+Various academics were already well aware of Lin and his dodgy data,
+so when Herrnstein and Murray cited him,
+they were immediately attacked with accusations of bias and racism.
+Charles Murray responds to these attacks in the afterword to the Bell Curve,
+and his defense is laughable.
+His first defense is to say that the topic of African IQ
+is a tiny piece of the Bell Curve, three paragraphs on pages 288 to 89,
+and in regards to this, two responses jump to mind immediately.
+The first is to say, well, maybe you should have spent longer on it then, Charles.
+We were wrong very quickly.
+Isn't a defense against being wrong, is it?
+Maybe if you put a little more effort in,
+you would have seen that Lin's paper was a load of rubbish.
+Secondly, this part of the Bell Curve is far more important than Murray makes out.
+He uses Lin's paper to dismiss the arguments
+that black-white differences in IQ are caused by environmental factors,
+such as a history of oppression,
+which is the single most common counterargument
+to one of the principal claims in the entire book.
+At no point does Murray actually address any specific criticisms of Lin's work
+or any of its various errors.
+He mainly just seems outraged that anyone dares to have criticized him at all, to be honest.
+And it's exactly this sort of academic laziness
+that fed much of the angry response to the Bell Curve.
+Murray refuses to admit that citing Lin was a mistake,
+and simply throws out some newer studies that supposedly show he was right anyway.
+So there.
+This speaks to a couple of things.
+Firstly, it is a fatal underestimation of exactly how badly this damages
+the faith that a reader of the Bell Curve can have in its authors.
+After all, this is not the only time they cite Richard Lin.
+He has more than 20 citations in their bibliography,
+and they thank him specifically in the acknowledgments.
+If this is the sort of data that Charles Murray is willing to accept as legitimate,
+how can we trust anything he says anywhere in the book?
+How can we trust the new studies he brings up to defend Richard Lin?
+Personally, I think it would be a mistake to even look at these new studies.
+Murray's response to having his previous sources called into question
+is to simply throw out new sources.
+His response to having these called into question would no doubt be to throw out more.
+The responsibility for checking whether his sources are trustworthy or accurate
+has been moved from Murray to his critics.
+They're the ones doing the reading and the fact-checking,
+whereas he never gets held to account.
+So long as we all understand that, however, I suppose we can take a brief peek.
+So, Murray says,
+Let me turn to two studies post-dating Richard Lin's review that we cite on page 289.
+One was a South African study led by Kenneth Owen,
+published in the refereed British journal Personality and Individual Differences.
+So this was the suitability of Raven's standard progressive matrices
+for various groups in South Africa,
+a paper that was published in 1992.
+So we are still in apartheid South Africa.
+And this study tested black students from the KwaZulu region,
+the same as one of the studies from Richard Lin's review.
+It even has the same author.
+So this is not a great showing with the first study here.
+Murray introduces the other study by saying,
+The second example of a recent careful study
+was conducted by a black scholar, Fred Cindy, and published in The Psychologist.
+It matched 204 black Zimbabwean pupils
+and 202 white English students from London inner-city schools
+for age, 12 to 14 years old, sex, and educational level,
+both samples being characterized as working class,
+and then goes on to say that the white students from London
+got higher test results than the black students from Zimbabwe.
+However, Murray takes the cue from Richard Lin and leaves out all the context.
+The main thing here being that Zimbabwe was a British colony known as Rhodesia
+until it gained independence in 1980, following a 15-year civil war.
+Rhodesia was a discriminatory racially segregated state.
+12 to 14-year-olds in 1994 would have been born around the time of Zimbabwe's independence
+to parents who were raised and educated in a segregated British colony.
+Which makes the comparison to the children of London as all the more ridiculous here.
+The children of the colonized country are being measured
+against the children of the colonizing country.
+Fred Cindy, the professor who offered the study,
+more recently spoke about his earlier work in the following way.
+For many years, African countries have depended upon the use
+of Western-designed psychometric instruments
+such as Raven's progressive matrices and some others.
+Such tests, standardized in Western cultures using Western cultural values,
+have been found to be useful to a certain extent.
+In many cases, interpretation of results from Western-designed tests
+have however been distorted to suit Western stereotypes about other nations.
+Cindy 1994.
+A very important point which Lin and Murray would do well to take on board.
+Murray reveals a misunderstanding of the criticisms raised against the bell curve
+when he goes on to say that the problem is not as often alleged
+that such studies are written by racists.
+In the two instances just cited,
+a charge belied by Owen's scholarly reputation and by Cindy's race,
+but that the African story is still so incomplete.
+What Murray gets wrong here,
+beyond the implication that a scholarly reputation
+could not also be accompanied by racism,
+is that the allegation is not that these studies are written by racists.
+It's that the studies are being deliberately misinterpreted
+and misrepresented by racists.
+Racists like Richard Lin,
+who stripped from the studies all context and analysis
+and used them to push a racist worldview.
+Murray fails to see that the problem is not that it is impossible
+to find other studies that have similar results to the ones cited in the bell curve.
+It's that he's willing to treat data collected in a segregated white supremacist state
+as a legitimate source to inform us about inherent racial differences.
+That is the issue here.
+On a more general note,
+what Murray writes in the afterword and how he writes it
+shows us exactly how little respect he has
+for what should be treated as a sensitive topic.
+The subject of his writing is potential differences
+in native ability between racial groups,
+and discussing that requires a level of tact and consideration
+that is totally absent here.
+You cannot half-ass the science with this stuff.
+Murray's refusal to respond directly to criticism of his sources here
+exposes him as a fraud.
+We're going to move on now and consider how the bell curve measures intelligence
+against socioeconomic status in determining one's life outcomes.
+But I'd like you to keep in mind, if possible,
+several of the things we've talked about so far.
+The difficulty in defining intelligence.
+The difficulties in testing for intelligence.
+The bell curve's missing genetic evidence for IQ.
+And of course, the incredibly shoddy sources
+that Hernstein and Murray are apparently willing to accept.
+When we see a graph measuring intelligence against environment,
+we should not be fooled into thinking that that intelligence
+was legitimately or accurately calculated.
+Anyway, to the claim.
+One's IQ is more important than one's social background
+in determining one's life outcomes.
+To address this claim, we first need to define the terms.
+We know by now how Hernstein and Murray have been determining
+the IQ of the people they're examining
+by using their scores on the Armed Forces Qualifying Test.
+But in order to make comparisons to their IQ,
+how is the bell curve determining those people's socioeconomic status?
+Let's take as an example poverty from Chapter 5 of the bell curve titled Poverty.
+Hernstein and Murray want to compare low intelligence
+with low socioeconomic status as causes for poverty
+to figure out which is more important.
+They use the survey respondents' AFQT scores as their data for intelligence,
+and they use socioeconomic information provided by the respondents
+to build what they call an index of socioeconomic status.
+Both of these are then compared with the likelihood of the respondents
+being below the poverty line a decade later.
+And of course, Hernstein and Murray find that intelligence
+is the better predictor of poverty.
+So I guess we'd better examine exactly how Hernstein and Murray
+constructed their index of socioeconomic status.
+But before we get to that, I'd like to propose a question for us to answer.
+What environmental factors would you deem important
+with regards to the likelihood of a young person being in poverty?
+And let's discuss a few possibilities here.
+First up, parental socioeconomic status,
+which is usually defined as their level of education, occupation, and income.
+I think we'd all agree that is fairly important.
+Families that have a larger income are less likely to be in poverty.
+Better educated parents are more likely to have better jobs
+and therefore less likely to have children in poverty.
+This is rather straightforward.
+Family composition is important.
+A family with a particular income and living space
+stretched to take care of six children, say,
+is gonna have a harder time than a family with the same income and living space
+but only one child to take care of.
+So number of siblings is important,
+as is whether or not the individual was raised in a two-parent family.
+Two parents typically means more resources
+and therefore less chance of being in poverty.
+The area where someone lives is very important.
+One family with a particular income might have a very different living experience
+to another family with the same income that lives in a different area.
+And this could be for a variety of reasons.
+Average living expenses like rent, food, and other costs that vary from place to place,
+the average crime rate, the unemployment rate,
+that can be very important for determining one's chance of being in poverty.
+Seems fairly obvious to mention,
+but you're gonna have an easier time finding an income
+in an area with many jobs than an area with few jobs.
+Another reason the area someone lives is important to us here is school quality,
+which should be particularly noteworthy,
+given that we're measuring all of this against performance on an academic test.
+How long someone stays in school is also important,
+and how many years of education they completed
+both before and after taking the armed forces qualifying test.
+Familial wealth is important, and this is a separate issue to income.
+One person with a particular income,
+whose rich parents bought them a house and a car and paid their way through college,
+is gonna have a different experience to a person on the same income,
+but who has to pay off debt related to all of those things.
+Overall, economic trends can be very important.
+You are more likely to be in poverty during a recession.
+The reason that the poverty rate increases during recessions
+is not because everyone collectively loses a few IQ points, is it?
+And the effects of recession are felt unequally across economic classes
+and different geographical areas.
+One's gender is important.
+Women, for example, are more likely to be in poverty than men are.
+Now, whether you believe this is because women have lower genetic IQs than men do,
+or you're sensible and you believe it's because of environmental reasons,
+it is the case.
+I should note here that I'm excluding race
+because this chapter of the bell curve concerns itself
+with only the white respondents to the AFQT.
+Your health is important, of course.
+People with disabilities, for instance, are more likely to be in poverty,
+and particularly in the US, the cost of medical care and health insurance
+can massively affect someone's likelihood of being in poverty.
+And we could go on listing things, but we will arbitrarily stop here.
+I trust you get the point by now.
+There are lots of different things to consider
+when attempting to determine how someone's environment
+might contribute to them being in poverty.
+Which brings us back to the bell curve.
+Which of the various factors on this list
+did Hernstein and Murray think were important
+with regards to the likelihood of a young person being in poverty?
+The first one.
+Yep, that's all.
+Hernstein and Murray's consideration of environmental factors
+extends to parental education, income, and occupation.
+That's all.
+As far as they're concerned,
+with regards to the determining predictors of poverty,
+all the other things on this list have no effect.
+Your family's wealth has no effect.
+Family composition, the area where you live,
+the quality of the school you went to, the crime rate, all irrelevant.
+What they have done here is substitute environmental factors
+for parental socioeconomic status,
+which is a much narrower category of variables.
+They simply add together parental education, income, and occupation,
+call that parental socioeconomic status, and plot it against IQ.
+And this is the graph they come up with.
+The comparative roles of IQ and parental SES
+in determining whether young white adults are below the poverty line.
+It shows that people with low IQs are more likely to be in poverty
+than people whose parents had a low SES.
+And also the reverse.
+High IQ people are less likely to be in poverty
+than people whose parents had a high SES.
+Cognitive ability is more important
+than parental socioeconomic status in determining poverty, they say.
+But of course, as we have seen,
+their consideration of environmental factors here is laughably narrow.
+They only want to consider as valid things
+that fall under their definition of parental SES.
+And they ignore all the other relevant environmental factors.
+What would happen to this graph if we also considered the various other things
+that Hernstein and Murray leave out of their analysis?
+Now, I don't know how to do regression analysis, unfortunately,
+but the book Inequality by Design was written by some people
+who do know how to do regression analysis,
+and they do exactly what we're looking for here.
+Firstly, they recreate Hernstein and Murray's calculations using their data.
+They then use the National Longitudinal Survey of Youth Responses
+to add more environmental data to the analysis.
+Their first updated graph changes parental SES to parental home environment,
+adding for consideration things like the number of siblings
+and whether the household has two parents.
+As we can see, AFQT score is still more important than parental home environment,
+but now the two are much closer together.
+Next up, they add community environment to home environment,
+considering the region where the respondent lived when they took the test
+and the school that they attended.
+Doing this, we see that AFQT score and social environment are now equal.
+Next, they add for consideration the number of years of education
+of the respondents to the survey.
+And by now, the AFQT score has slipped
+below the combined environmental factors in importance.
+Using the same statistical methods and data set as the bell curve,
+Inequality by Design's analysis shows that environmental factors
+are more important than AFQT score
+in determining the probability of being in poverty.
+And this is shown using only the limited data available
+in the National Longitudinal Survey of Youth, remember.
+Inequality by Design adds to the analysis only a few
+of the conceivable socioeconomic factors that are ignored by Hernstein and Murray.
+If we were to continue adding in available factors to consider,
+the effect of IQ would get weaker and weaker.
+And lest you think Inequality by Design's analysis was a one-off,
+the authors of Intelligence, Genes, and Success also reanalyzed the NLSY data,
+and with regards to how much cognitive ability
+accounts for differences in wages between people, say the following.
+However, our results conflict with the predictions of Hernstein and Murray.
+Ability factors other than G are economically useful.
+Compared with education, family background, and region of residence,
+G explains little of the variance in wages.
+If there exists some X factor that can explain the large residuals
+common in wage regressions, it is not measured cognitive ability.
+In summary, our re-analyses of the NLSY data originally analyzed by Hernstein and Murray
+show measured cognitive ability is correlated with wages,
+but explains little of the variance in wages across individuals and time.
+Later in this chapter, Hernstein and Murray use this same narrowly defined parental SES
+to consider which young people will drop out of school, get a college degree,
+be unemployed, have children out of wedlock, be on welfare, and so on.
+To be fair, sometimes they do add other factors to consider,
+but again, only when they personally, subjectively, decide those factors are important.
+All their comparisons between IQ and SES that inform their later policy proposals
+are based upon this calculated decision to not consider
+the full range of relevant environmental factors.
+And there's two other important points that we have to keep in mind here.
+The first is that we have been assuming that AFQT score
+is a legitimate stand-in for cognitive ability,
+which, given all the potential problems with intelligence testing we've already discussed,
+is a bit of a stretch.
+The second thing we need to remember is that Hernstein and Murray's estimation of IQ
+is that it is only 60% genetically heritable.
+That would mean, according to their flawed understanding of heritability anyway,
+that 40% of the IQ score in their calculations originated from environmental factors.
+Considering all these things together, the case for IQ here is looking incredibly flimsy.
+So as we've seen, once you add more factors to consider, environment trumps IQ.
+So we now have to ask, is this a legitimate thing to do, statistically speaking?
+The bell curve anticipates being criticized in this manner.
+In a section titled, But What About Other Explanations?, they write,
+We can already hear critics saying, if only they'd added this other variable to the analysis,
+they would have seen that intelligence has nothing to do with x.
+At this point, however, statistical analysis can become a bottomless pit.
+It is not uncommon in technical journals to read articles built around the estimated effects
+of a dozen or more independent variables.
+Sometimes the entire set of variables is loaded into a single regression equation.
+Sometimes sets of equations are used, modeling even more complex relationships
+in which all the variables can exert mutual effects on one another.
+Why should we not press forward?
+Why not also ask if religious background has an effect on the decision to go on welfare, for example?
+It's an interesting question, as are 50 others that might come to mind.
+This is the first of two defenses by Hanstein and Murray,
+where they argue that it would just be too complicated to consider all the factors.
+Why there could be 50 environmental variables affecting someone's likelihood of being in poverty,
+that's just too many.
+It would be too complex.
+Our graph wouldn't make any sense if we did that.
+So instead of 50, we're just gonna consider, I don't know, two.
+This is a result of treating the method of investigation
+as more important than getting accurate results.
+If you can't use regression analysis to fairly compare IQ
+to all the relevant environmental factors, don't.
+You know, you don't actually have to do this.
+Hanstein and Murray's second defense is even more telling than the first.
+Our principle was to explore additional dynamics
+when there was another factor that was not only conceivably important,
+but for clear logical reasons might be important
+because of dynamics having little or nothing to do with IQ.
+This last proviso is crucial,
+for one of the most common misuses of regression analysis
+is to introduce an additional variable
+that in reality is mostly another expression of variables that are already in the equation.
+So what Hanstein and Murray are saying is that they dismissed variables
+if they deemed them to merely be mostly expressions of IQ,
+which is already in the equation.
+They only considered additional factors
+when they had little or nothing to do with IQ
+and were, quote, conceivably important.
+Which should lead us to ask a question.
+How are Hanstein and Murray deciding which variables are conceivably important?
+And how are they deciding how much they have to do with IQ?
+And the answer, of course, is subjectively.
+They're only considering things that they reckon are important.
+You see, the problem with Hanstein and Murray dismissing variables
+that they have subjectively decided are merely expressions of cognitive ability here
+is that they think that socioeconomic status itself is an expression of cognitive ability.
+Later in the book, when criticizing the practice of controlling for SES between racial groups,
+they write,
+the difficulty comes in interpreting what it means to control for socioeconomic status.
+Matching the status of the groups is usually justified on the grounds
+that the scores people earn are caused to some extent by their socioeconomic status.
+So if we want to see the real or authentic difference between them,
+the contribution of status must be excluded.
+The trouble is that socioeconomic status is also a result of cognitive ability,
+as people of high and low cognitive ability
+move to correspondingly high and low places in the socioeconomic continuum.
+Now, this is circular logic.
+Hanstein and Murray claim to be limiting which factors they're considering
+to avoid including those which are merely expressions of other factors,
+but their main comparison here is between cognitive ability and socioeconomic status,
+which they elsewhere argue is a result of cognitive ability.
+Using this framework, where cognitive ability determines both IQ and socioeconomic status,
+the whole series of comparisons from this chapter of the bell curve
+seems cynical and unnecessary.
+Hanstein and Murray have already decided what conclusion they're gonna come to,
+that cognitive ability is more important than all the other variables,
+and all their statistical comparisons read as them just going through the motions
+to get that result.
+In simply declaring socioeconomic status the result of cognitive ability,
+the bell curve brings to mind the chicken and egg problem here.
+You see, a lot of disagreements over IQ
+stem from different interpretations of the same data.
+Let's say you do a study which proves a strong positive correlation
+between the amount of time someone has spent in education and their IQ,
+and you present those findings to two groups of people.
+One group that favors environmental explanations
+and one that favors genetic explanations.
+Now, of course, the environmentalists will say,
+this result makes perfect sense.
+The longer you're in education, the more things you learn,
+the better you get at answering the sorts of questions that show up on IQ tests,
+the more familiar you are with taking academic tests in the first place.
+IQ clearly stems from environment.
+The genetic-minded folks, on the other hand, will say,
+of course, this result makes perfect sense.
+People with higher IQs favor an academic environment,
+and they're more likely to stay in school longer
+because that's the smarter thing to do.
+Since they have higher IQs to begin with,
+they will naturally make better choices.
+Environment clearly stems from IQ.
+So which came first, the chicken or the egg?
+Environment or cognitive ability?
+We can phrase this two ways.
+A parent's higher cognitive ability leads to a better environment,
+which again leads to a higher cognitive ability in their children.
+Or we can say that a better environment
+leads to a parent's higher cognitive ability,
+which then produces a better environment for their children.
+But both of these ways of phrasing are merely presenting
+a segment of the overall environment-cognitive ability logic chain.
+The bell curve solves the conundrum of whether
+cognitive ability or environment should come first by saying...
+cognitive ability.
+That's first.
+We like that one the most, so that's the one that comes first.
+But of course, this is completely arbitrary,
+and also, ultimately, incorrect.
+To understand this, we need to talk about another of the main problems
+with the scientific arguments of the bell curve,
+which is that Herrnstein and Murray are conspicuously uninterested
+in the causes of the things that they're talking about.
+Much of the bell curve, for instance, is concerned with proving
+that there are substantial differences in cognitive ability
+between different designated racial groups.
+But what Herrnstein and Murray never seriously concern themselves with
+is why this supposed divergence happened.
+Population groups don't evolve to be different for no reason, do they?
+If one group developed better cognitive skills than another group,
+there would have to be some mechanism there
+that was leading to higher cognitive ability in that group,
+or, I suppose, leading to lower cognitive ability in the other group.
+Now, this could simply be direct evolutionary pressure,
+as in different levels of cognitive ability in different groups
+are being directly selected for.
+Or it could be an indirect, unintended effect
+of a different trait being selected for,
+or some sort of genetic drift,
+as generations of different population groups
+are isolated enough from each other
+to develop in significantly different ways.
+Whatever the reason, though, there would have to be a reason.
+And we should expect a scientist attempting to argue
+for a substantial difference in ability between different groups
+to therefore maybe be interested in exactly why this difference came about, right?
+One of the only times that Herrnstein and Murray
+show any interest in this question
+is in Appendix Five, where they discuss the work
+of Canadian psychologist J. Philippe Rushton,
+who wrote the book Race, Evolution, and Behavior in 1995.
+Rushton alleges that brain and genital size are inversely related,
+and that larger genitals correlate with an increased fertility.
+So at some point, different designated racial groups diverged from one another
+and developed different traits according to some sort of trade-off system.
+So it's like a computer game where you have limited points
+to put into your starting stats,
+only here the starting stats are int and genital size.
+In 1988, Rushton was reprimanded by the University of Western Ontario
+for carrying out two particular studies.
+He surveyed first-year psychology students
+and then male customers at a Toronto shopping mall,
+asking them questions about their sex lives,
+the size of their penises,
+and the exact distance that they ejaculate.
+Now, I can only speak for myself here,
+but I can't say I've ever measured.
+One therefore wonders how reliable this self-reported data could be.
+Or, who knows, maybe I'm the anomaly here.
+Maybe all you penis-havers out there are keeping detailed daily statistics.
+I don't know.
+One also wonders about exactly how distance is supposed to come into play here.
+For want of a better phrase.
+What does this Rushton guy think is going on in the bedroom?
+Does he think you have to hit a moving target or something?
+I don't know.
+Rushton's work also uses the same caucasoid, mongoloid,
+negroid categorization that Richard Limb uses.
+And to quote a response to Rushton's theories
+by Canadian psychologist Zach Cenovsky,
+some of Rushton's references to scientific literature
+with respects to racial differences and sexual characteristics
+turned out to be references to a non-scientific semi-pornographic book
+and to an article in the penthouse forum.
+I am mentioning Rushton and his weird genital theories here,
+not just because they're funny to relate, which they certainly are,
+but because he and his research are defended in the bell curve.
+Herrnstein and Murray relay his ideas before stating,
+However, Rushton's work is not that of a crackpot or a bigot,
+as many of his critics are given to charging.
+But they're wrong there, of course.
+He is a crackpot and a bigot.
+Or he was, anyway. He's dead now.
+As for why Herrnstein and Murray seem so disinterested
+in examining causes for the things that they're discussing,
+I can only speculate here.
+But I suspect it's because, at least with regards to the bell curve, anyway,
+Herrnstein and Murray are not scientists.
+They didn't even submit the bell curve for peer review prior to its publication.
+They are here to advance a conservative social and political agenda,
+and all the air quotes science is just window dressing for that agenda.
+And that's what we're going to talk about next.
+So then, the politics of the bell curve.
+And I'd like to first talk a bit more about why the bell curve was so controversial.
+And there's one main reason comprised of two, uh, sub reasons.
+The first is that Herrnstein and Murray spend a large part of their book
+asserting differences in intelligence between designated racial groups.
+And we have to wonder why they even did this,
+because it isn't important at all for their overall point.
+Their main argument is that IQ is the most important factor
+determining success or failure in life,
+and they seemingly don't need the racial element at all to make this point.
+Or do they?
+In a section titled How Ethnic Differences Fit Into the Story,
+they write the following.
+In part one, we described the formation of a cognitive elite.
+Given the cognitive differences among ethnic and racial groups,
+the cognitive elite cannot represent all groups equally,
+a statement with implications that we will develop in part four.
+Part four being the section of the book comprised of their policy proposals,
+and it is these policy proposals that are the second part of the reason
+for the bell curve being such a controversial book.
+More than either of these things individually being controversial,
+it's how they interact that really produces the controversy.
+You see, for all Herrnstein and Murray's posturing about how brave they're being,
+speaking out and breaking taboos and all that,
+it is not actually controversial in the scientific community
+to simply acknowledge group differences in IQ.
+Let's imagine that instead of the bell curve,
+Herrnstein and Murray had simply published a list of IQ test results
+showing differences in IQ in different countries.
+Nobody would have cared.
+Researchers from across the political spectrum
+work with intelligence test data all the time.
+Some environment-minded researchers,
+because they acknowledge that the group differences exist,
+but they want to prove that environmental factors
+are the key to understanding them.
+Nor is it controversial to assert that differences in cognitive ability
+in general are partially due to genetics.
+There are a whole host of genetic conditions that can affect someone's cognitive ability.
+Right-wingers who characterize lefties as die-hard,
+100% environmentalists miss the point here,
+as we'd actually be hasty to point out the ableism
+in denying the effects of those genetic conditions.
+So it's not simply that Herrnstein and Murray are breaking the supposed taboo
+of discussing IQ differences that sparked the backlash.
+It's that they explicitly link those differences to a set of policy proposals.
+This is why the bell curve is controversial, because of its political ideas.
+So let's talk about those.
+First off, the enormous glaring problem
+with the vast majority of Herrnstein and Murray's policy proposals
+is that they absolutely do not logically follow
+from any of their previous claims in the bell curve.
+And if it sounds like I'm exaggerating there, trust me, I am not.
+Take, for instance, their account of programs like Head Start
+that are designed to help disadvantaged kids.
+Herrnstein and Murray acknowledge that these programs
+can have temporary positive effects,
+but they argue that these positive effects fade over time
+and become statistically insignificant by the time those children leave school.
+This is taken by Herrnstein and Murray as proof
+that there is ultimately nothing to be done to help these kids.
+Any temporary positive effects will simply fade away
+due to their inferior genetics.
+So we should stop wasting money on them
+and instead give it to the naturally gifted children.
+This does not follow, however.
+There is an alternative interpretation of this situation,
+which is perfectly consistent
+with a majority environmental understanding of childhood development.
+We can argue that these programs produce a positive effect
+because they are changing the children's environment.
+Any diminished effects after the programs stop
+are because the programs stopped,
+thus changing the environment back to the norm.
+So instead of abandoning these programs,
+we should instead take them as proof
+that environmental changes can produce positive effects
+and then expand them, increase their funding,
+have equivalent programs for every stage of school life.
+Any later diminished effects are proof that we aren't trying hard enough,
+not that what we're trying to do is impossible.
+Nearly every policy proposal in the bell curve
+has this sort of alternative explanation.
+One of their proposals for dissuading low IQ mothers from having children
+is to stop the welfare programs that support them.
+But as we know, richer people tend to have fewer children,
+and birth rates are lower in countries with comprehensive welfare programs.
+Making these women poorer will not make them have fewer children.
+And besides, Hernstein and Murray are arguing
+that these women are resolutely unintelligent.
+So if that were true,
+why would we be expecting them to be able to plan ahead
+and reason logically that having fewer children is a good idea?
+That they're not supposed to be able to plan well for the future
+is kind of the whole point, right?
+What Hernstein and Murray could have done here
+is some very basic comparisons between the United States and other countries.
+They scaremonger about the possible effects of welfare programs
+which exist in Europe in abundance, for instance.
+But since those European welfare programs
+have not led to the sort of utter catastrophe
+that Hernstein and Murray prophesize,
+they instead choose to focus only on the United States.
+Even if Hernstein and Murray had proven
+that some groups were genetically less intelligent than others,
+cutting welfare would not follow from that.
+Rather, one could make the argument that those groups would deserve more welfare
+because they would have an unfair disadvantage in school and in work
+that would not be their fault.
+And even worse than Hernstein and Murray's logic simply not following,
+their proposals sometimes actually directly contradict with their previous analysis.
+For example, let's talk about affirmative action.
+As mentioned earlier, Hernstein and Murray really don't like affirmative action.
+And as we've also seen, they are very worried
+about the supposed cognitive stratification of society.
+And let's briefly quote them talking about that.
+In this penultimate chapter, we speculate about the impact
+of cognitive stratification on American life and government.
+Predicting the course of society is chancy,
+but certain tendencies seem strong enough to worry about.
+An increasingly isolated cognitive elite,
+a merging of the cognitive elite with the affluent,
+a deteriorating quality of life for people
+at the bottom end of the cognitive ability distribution.
+Unchecked, these trends will lead the US towards something resembling a caste society
+with the underclass mired ever more firmly at the bottom
+and the cognitive elite ever more firmly anchored at the top,
+restructuring the rules of society
+so that it becomes harder and harder for them to lose.
+Among the other casualties of this process
+would be American civil society as we have known it.
+Like other apocalyptic visions, this one is pessimistic, perhaps too much so.
+On the other hand, there is much to be pessimistic about.
+Now what Hernstein and Murray fail to spot here
+is that a policy of aggressive affirmative action
+would directly work to check the cognitive partitioning
+that they call frightening and apocalyptic.
+If Harvard or some other fancy school
+decided they were gonna admit a certain percentage of applicants
+based upon some characteristic other than test scores,
+then there would be that same number of applicants with higher test scores
+who would therefore not get into Harvard
+and have to go to their next choice of college.
+And the next smartest people who would have gone to that college
+will now not get in and have to go to their next choice
+and so on down the line.
+And if this ruthless affirmative action policy
+was adopted by the group of colleges as a whole,
+the cognitive elite would be forced to spread out
+throughout the whole college pool,
+which would have the added effect of spreading them out geographically too.
+Hernstein and Murray really should have spotted this,
+since earlier in the book they talk fondly
+about Harvard's policy of admitting legacy applicants,
+those usually being people whose fathers had graduated from Harvard.
+They also mention applicants being considered for things like
+his potential as a quarterback or stroke for the eight-man shell
+and other non-academic qualities.
+Curiously, Hernstein and Murray do not criticize
+Harvard's practice of admitting people for non-academic reasons.
+When it comes to affirmative action, however,
+Hernstein and Murray are very clear about that being unfair,
+and I quote,
+"...to what extent is a society fair
+when people of similar ability and background
+are treated as differently as they are now?"
+In 1964, the answer would have been unambiguous.
+Such a society is manifestly unfair.
+The logic was right then, and right now.
+So colleges admitting applicants for non-academic reasons,
+such as their father having gone there, that's okay.
+It's counteracting the dreaded cognitive partitioning of society, after all.
+But colleges admitting applicants because of affirmative action,
+well that is, rather dramatically,
+leaking a poison into the American soul.
+So how do we account for this apparent contradiction
+on behalf of Hernstein and Murray?
+Well, what would you imagine to be the most likely difference
+between a legacy Harvard applicant and an affirmative action applicant?
+I will leave it to you to ponder that one.
+Instead of the unfair and poisonous racial affirmative action,
+Hernstein and Murray argue instead for a race-blind version of affirmative action
+based, bizarrely, on test scores.
+And I say bizarrely here because this idea would actually accelerate
+the supposedly apocalyptic cognitive partitioning.
+They say that in the case of two candidates
+who are fairly closely matched otherwise,
+universities should give the nod to the applicant from the disadvantaged background.
+Now, I agree with this in isolation here.
+I do think that if you have two similar candidates,
+you should admit the less privileged one.
+But with regards to Hernstein and Murray's fears of cognitive partitioning, though,
+this is exactly what they were worried about.
+College is becoming better at collecting all of society's high IQ people together
+and funneling them into high IQ jobs in high IQ areas.
+They've basically said,
+here's an apocalyptic problem and now here's how to make it happen faster.
+And actually, regarding the concept of affirmative action,
+their logic is all wrong there.
+At the start of the chapter titled Affirmative Action in Higher Education,
+Hernstein and Murray recount an affirmative action controversy from 1991
+where a law student at Georgetown University, quote,
+surreptitiously compiled the entrance statistics
+for a sample of applicants to Georgetown's law school
+and then published the results of his research in the law school student newspaper.
+He revealed that the mean on the law school aptitude test
+differed by a large margin for accepted black and white students.
+Hernstein and Murray dubbed this difference
+the ethnic premium or edge that minority applicants
+are supposedly being afforded in the admissions process
+and go on to detail how they've looked at the college admissions data
+from 26 colleges and found that in the classes entering those in 1991 and 92,
+the average SAT scores of the black students
+were below the average SAT scores of the white students.
+Hernstein and Murray take this as proof
+that black students have an unfair edge in the college admissions process.
+Quote, the summary statement about affirmative action in undergraduate institutions
+is that being either a black or a Latino
+is worth a great deal in the admissions process
+at every undergraduate school for which we have data.
+However, this method of measuring the supposed results of affirmative action
+is entirely incorrect.
+There is a crucial flaw in the logic here
+and it begins with Hernstein and Murray's decision to begin their analysis
+by looking at the college entrance data instead of earlier
+by thinking about the wider pool of college applicants.
+So black people have historically had lower SAT scores than white people.
+Now whether you believe this is due to some fixed genetically originated lower IQ
+or you're sensible and you believe it's down to environmental reasons,
+it is the case.
+So in any random group of students applying to a college in the United States,
+we would expect the scores of the black students to be on average
+lower than the white students if you follow.
+So what happens next is the college takes a look at this group of applicants
+and decides to omit some of them using certain criteria.
+So test scores but usually various other things
+like extracurricular activities and whatever else.
+So all the accepted students get in
+and all the denied students go off to apply somewhere else, right?
+Then Hernstein and Murray come along to the college
+and they notice that the scores of the black students
+are on average below the white students
+and thus start decrying the terrible unfairness of affirmative action.
+But what they've missed here is that this discrepancy
+between the average black and white scores would still exist
+even if the college admissions process only considered test scores and nothing else.
+And let's think about this.
+Imagine an American college in 1991
+with a certain amount of positions to fill
+and they get a larger group of students applying for those positions, right?
+So they have to let some in and not others.
+In that group of applicants there will be a range of test scores
+and the black applicants will have on average lower scores than the white applicants.
+And let's say this college only admits people via test scores
+so if they have 1,000 positions to fill
+they only accept the top 1,000 SAT scores and they send everyone else packing.
+Now in this group of 1,000 successful applicants
+there will still be both black and white people
+but of those black people who scored high enough to get in
+they will be on average towards the lower end of the range.
+Meaning the black group average will still be lower than the white group average
+even though they all scored high enough to get in.
+Even in a world without affirmative action
+and even with a totally racially blind admissions policy
+and accepting Hearnstein and Murray's positions regarding racial IQ scores
+a disparity between black and white SAT scores in college intake groups would still exist.
+The only way we could fairly expect the two averages to be the same
+is if the black and white students in that 1991 applicant pool
+also had on average the same scores.
+And since Hearnstein and Murray have just spent a huge section of their book
+arguing for black people's lower cognitive ability
+I don't know why they'd be expecting that.
+Moving on from affirmative action I'd like to ask a question.
+Can the politics of the bell curve be described as eugenics?
+And I mean yes, right?
+They're arguing for policies with the agenda of changing birth rates
+for particular groups of people.
+They want lower IQ mothers to have fewer children.
+Hearnstein and Murray stop short of openly embracing eugenics however.
+They pull a rhetorical trick by saying they're simply worried about dysgenics.
+Dysgenics being the opposite of eugenics there.
+So we're not necessarily for it but we are anti the opposite of it.
+You know, it's very clever.
+One telling quote here is when Hearnstein and Murray talking about the Nazis say the following
+followed by the terrors of Nazism and its perversion of eugenics
+that effectively wiped the idea from public discourse in the West.
+Now the phrase perversion of eugenics should set off some alarm bells there
+implying apparently that there is a good sort of eugenics
+and the Nazis just did it wrong or took it too far or something.
+Or maybe there was just something uniquely evil about Nazi eugenics
+that wasn't present in the supposedly good eugenics.
+Is that true?
+Well, let's find out.
+The footage you're seeing here is from a movie called Herb Crank.
+In English, the Hereditary Defective.
+This is a 1936 propaganda film produced by the Nazi party's racial policy office.
+It features video shots at German psychiatric hospitals
+of people with various types of disabilities
+interspersed with text informing the audience, among other things,
+of the expense of caring for these people.
+Going on to argue that the prevention of hereditarily sick offspring is a moral duty.
+Now I'm not actually showing the images of the people in the video here
+as they almost certainly did not consent to be in a film
+which was used to propagandize in favor of their sterilization
+and I would feel uncomfortable including that footage in my video.
+Herb Crank is available online though if you prefer to watch it unedited.
+The film ends with the quote,
+the farmer who prevents the overgrowth of the weed promotes the valuable.
+The purpose of this film was obviously to increase public support
+for the involuntary sterilization of people with disabilities,
+a Nazi program that would escalate into outright mass murder just a few years later.
+Adolf Hitler was reportedly a fan of Herb Crank
+and encouraged the production of a sequel titled
+Victims of the Past, The Sin Against Blood and Race
+which was shown in cinemas throughout Nazi Germany in 1937.
+So why am I talking about Herb Crank here?
+Is this simply a slippery slope argument perhaps?
+Look where all this eugenics rubbish leads to the Nazis and the Holocaust.
+Now although I think that would be a fair point to make actually,
+no this particular movie has a much more direct link to what we're talking about today.
+Now something that might come as a shock to you
+and it certainly did to me in the process of researching this video
+is the extent of the international eugenics movement prior to World War II.
+Nazi eugenicists were not operating in a bubble
+and most importantly for us here is that they had a reciprocal relationship
+with American eugenicists.
+You see Herb Crank had another big fan in addition to Hitler.
+So this guy is Harry H. Loughlin, an American eugenicist,
+director of the Eugenics Record Office
+and founding member of the American Eugenics Society.
+He likes eugenics if you didn't pick up on that.
+Now in 1922 Harry Loughlin published a book titled
+Eugenical Sterilization in the United States
+which included a chapter titled Model Eugenical Sterilization Law.
+This model law begins
+an act to prevent the procreation of persons socially inadequate from defective inheritance
+by authorizing and providing for the eugenical sterilization
+of certain potential parents carrying degenerate hereditary qualities.
+This law designates a socially inadequate person
+as someone who fails chronically in comparison with normal persons
+to maintain himself or herself
+as a useful member of the organized social life of the state.
+These socially inadequate people were not just the ill
+but also for example the criminalistic, the inebriate and the dependent
+including orphans, ne'er-do-wells, the homeless, tramps and paupers.
+18 US states passed laws based upon Loughlin's model
+and between them sterilized tens of thousands of people.
+And in 1933 somewhere else passed a law which was based upon Loughlin's model.
+The law for the prevention of hereditarily diseased offspring
+which actually was slightly more moderate than what the model law proposed
+if you can believe it.
+This was of course Nazi Germany.
+Loughlin was later awarded an honorary degree by the University of Heidelberg
+for his work on behalf of the quote,
+science of racial cleansing.
+Loughlin was also an open Nazi party supporter
+writing enthusiastically about Nazi Germany's eugenics laws
+in a publication titled Eugenic News.
+And why shouldn't he be excited about them?
+I mean, he wrote them.
+In addition to inspiring Nazi party policy
+Loughlin also helped to disseminate their propaganda.
+In 1936 he purchased an English translation of Erbcrank
+and raised funds to have it shown in American high schools,
+which it was.
+That's right, just a couple of years before the Nazis
+started systematically murdering people with disabilities
+this Nazi eugenics movie was actually shown in American schools
+and this event was reported on favorably in the Nazi press.
+Loughlin raised the funds to distribute the film
+by writing to Wycliffe Draper
+who was another American eugenicist and racist
+and importantly for Loughlin, a millionaire.
+Together in 1937 Loughlin and Draper founded the Pioneer Fund
+the purpose of which was to promote the genetic stock of people quote,
+deemed to be descended predominantly from white persons
+who settled in the original 13 states prior to the adoption of the constitution.
+Now besides subjecting school children to Nazi propaganda
+the Pioneer Fund set about supporting massive air quotes
+research into race betterment
+giving enormous grants to any researcher willing to push a pro-eugenics agenda
+and here, dear video watchers, is where we rejoin the bell curve.
+Richard Lin, you remember, the guy who thinks the single best study
+of the quote, negroid intelligence was carried out under apartheid.
+He's received over $600,000 from the Pioneer Fund
+and currently, as in now, currently today, is the head of the Pioneer Fund
+because it is still going and he is still alive.
+Mankind Quarterly, the journal which published Lin's work
+that is cited in the bell curve, is funded by the Pioneer Fund.
+Mankind Quarterly includes among its founders Henry Garrett
+an American psychologist who testified in favor of segregated schools
+during Brown versus Board of Education
+Corrado Gini, who was president of the Italian Genetics and Eugenics Society
+in Fascist Italy
+and Othmar Freiherr von Verschuer
+who was director of the Kaiser Wilhelm Institute of Anthropology
+Human Heredity and Eugenics in Nazi Germany
+was a member of the Nazi Party
+and, believe it or not, the mentor of Joseph Mengele.
+Joseph Mengele, of course, being the physician at the Auschwitz concentration camp
+infamous for performing human experimentation on the prisoners.
+During World War II, Mengele provided Verschuer with human remains from Auschwitz
+to use in his research into eugenics.
+That is who founded Mankind Quarterly.
+Editor of The New Republic, Charles Lane, writing about the bell curve in 1994
+noted that five articles from the journal, that's Mankind Quarterly,
+are actually cited in the bell curve's bibliography
+but the influence on the book from scholars linked to Mankind Quarterly is more significant.
+No fewer than 17 researchers cited in the bibliography of the bell curve
+have contributed to Mankind Quarterly.
+Ten are present or former editors or members of its editorial advisory board.
+J. Philippe Rushton, the guy wandering around asking people how far they can ejaculate
+he was president of the Pioneer Fund from 2002 to 2012
+received hundreds of thousands of dollars from it
+and he used Pioneer Funds to mail 40,000 copies of his book
+Race, Evolution and Behavior to various social scientists.
+Another Pioneer Fund recipient was American anthropologist Donald Swan.
+Now in 1966, Donald Swan was arrested on charges of mail fraud.
+When the police investigated Swan's apartment
+they found an assortment of illegal weapons, a stash of racist literature,
+Nazi memorabilia including flags and a helmet
+and photographs of Swan with members of the American Nazi Party.
+Oops.
+Do you remember Linda Gottfriedsen, the author of the public statement
+defending the bell curve's claims about intelligence
+that I mentioned way back at the start of the video?
+Well as of 1994, she'd received $267,000 from the Pioneer Fund.
+And speaking of that public statement actually,
+the Southern Poverty Law Center notes that more than 20 of the 52 signatories
+were themselves Pioneer Fund recipients.
+And crucially for us here, the Pioneer Fund wanted to fund Richard Herrnstein.
+The head of the fund prior to J. Philippe Rushton was a lawyer called Harry F. Weyer
+and in 1994, the year that the bell curve came out,
+he told a journalist interviewing him that regarding Herrnstein
+we'd have funded him at the drop of a hat but he never asked.
+Now the fact that the bell curve includes among its sources
+a bunch of people who receive money from the Nazi Fund
+and publish papers in the Nazi journal
+was understandably cause for concern for many when it was published
+and this was used frequently to dismiss the book's arguments.
+So Murray includes a very short defense of the Pioneer Fund
+in his afterword to the bell curve which reads as follows.
+The relationship between the founder of the Pioneer Fund and today's Pioneer Fund
+is roughly analogous to that between Henry Ford and today's Ford Foundation.
+So he's saying, you know, it may have been founded by pro-Nazi eugenicists
+but today it's completely different.
+The trouble is, Murray includes absolutely no evidence to back this statement up.
+He treats it as a given.
+But actually, the Pioneer Fund has been unwavering in its support for eugenics over the years.
+Richard Lynn, the current head of the fund,
+works with the explicitly white supremacist publication American Renaissance
+and speaks at their conferences.
+The white supremacist editor of American Renaissance, Jared Taylor,
+who viewers of my other videos will remember, is funded by the Pioneer Fund.
+So I don't buy Charles Murray just saying it has changed.
+He doesn't give evidence for why he thinks that
+and there is ample evidence against it.
+Anyway, it's about time to wrap this video up with a few final thoughts, I think.
+But let's first briefly summarize our main counter-arguments to the bell curve.
+Firstly, the bell curve does not prove that genetics are the primary reason
+for differences in intelligence.
+The authors are not geneticists, they're a psychologist and a social scientist.
+Their estimates of the importance of genes are based on suppositions and guesses.
+After failing to make the case that IQ is genetic in origin,
+they compare that IQ not to one's social background,
+as the back cover of the book promises,
+but a much more narrowly defined index of parental socioeconomic status,
+which includes only a few of the relevant variables.
+The main source of their data is more a test of academic achievement than intelligence
+and since it did not return a normal bell curve distribution,
+Hernstein and Murray manipulated the data
+to exaggerate what were previously much smaller differences.
+After a completely unnecessary section making the case for racial IQ differences,
+they include a set of policy proposals,
+most of which do not follow logically from their previous analysis
+and some of which contradict it.
+And of course, Hernstein and Murray's willingness to quote highly questionable data
+from even more questionable sources should be very worrisome,
+even if you happen to agree with them otherwise.
+Having now read a lot of criticism of the bell curve,
+I think I've identified a particular difficulty that people have in arguing against it.
+And it's a tendency to argue with not the opinions that Hernstein and Murray claim to hold,
+but the opinions that they would have to hold
+in order to support the policy proposals which they do.
+For example, it makes no sense to claim that IQ
+explains only a tiny amount of the variance between people
+and that you cannot know what someone will do from their IQ,
+as Hernstein and Murray do,
+and then move on to claim that IQ is one of the best ways
+of determining an employee's individual productivity
+and employers should pick applicants with the highest IQs.
+A passing critic of the bell curve who hears this latter claim might then respond,
+but that makes no sense.
+IQ explains only a tiny amount of the variance between people.
+You can't know what someone will do from their IQ.
+To which defenders of the bell curve respond,
+aha, you didn't read the book because they say that in there.
+Now this gotcha tactic, as satisfying as it might be,
+does not actually explain the contradiction, however.
+This is the main rhetorical trick of the bell curve.
+They pretend to concede to mainstream scientific opinion,
+but then propose a set of conservative and eugenicist political policies
+as if they hadn't.
+Anyone who genuinely believed all the moderate hedging quotes
+that Hernstein and Murray put in the bell curve
+would not be able to propose the policies that they do.
+So the critics of the bell curve see these policies
+and start arguing against the opinions
+that they assume Hernstein and Murray would therefore have to hold.
+Thus the repeated defense of the bell curve
+is that the authors can't be racist or biased or bigoted,
+as their critics claim,
+because in their book they say that they're not.
+The critics must therefore have not read the book.
+This is not the airtight defense they think it is.
+We care about their political proposals,
+not how moderate they pretended to be
+in order to camouflage their approach to those political proposals.
+One could, if one wanted, go through my video
+and find corresponding quotes in the bell curve
+for pretty much all of my counterarguments.
+See, they also worry about the dangers of social engineering.
+They also paraphrase Lewontin's thought experiment with the plants.
+They also talk about the various problems with IQ testing.
+They also call the existence of G arguable.
+They say all this in the book,
+so therefore they've addressed it
+and your counterarguments are nullified, right?
+The problem is, putting all that in the book
+didn't stop them from advocating for the political policies that they do,
+and it should have.
+If, with regards to how much genes influence intelligence,
+you spend a whole book saying things like
+the state of knowledge does not permit a precise estimate,
+but then you go on to propose a set of policies
+that only make sense if intelligence is definitely primarily genetic in origin,
+you are contradicting yourself.
+You don't actually care that the state of knowledge
+does not permit a precise estimate.
+That apparently isn't going to stop you from acting as if it does.
+I'm guilty myself of several times arguing against the point
+that Herrnstein and Murray should have made
+instead of the one that they did make.
+Only a minute ago I said
+the bell curve does not prove that genetics
+are the primary reason for differences in intelligence,
+to which the offense is, of course,
+that they never set out to do such a thing.
+But they should have.
+If you don't prove that,
+then the rest of the argument doesn't work.
+Now, they couldn't have proved that if they wanted to, of course,
+because the data is inconclusive.
+Herrnstein and Murray acknowledged the data is inconclusive,
+but then just keep on trucking,
+assuming firstly that later genetics research will prove them correct,
+which it hasn't.
+The data is still inconclusive 25 years later.
+And secondly, assuming that any data which trends against their position
+is due to strictly temporary effects.
+Rising IQ scores are thus explained away
+as being due to an increase in test-taking ability or elsewhere,
+as due to the data being distorted by the baby boom.
+Rising standards of living can raise a country's average IQ,
+but only to a point, it is assumed.
+Black and white IQ scores are converging,
+but they may be expected to stop,
+and the gap could even begin to widen again.
+So predicting the future on this issue is little more than guesswork at this point.
+All the trends that contradict what the authors of the bell curve
+would quite clearly like to be true are assumed to be time-limited.
+You get the sense that Herrnstein and Murray are implying
+that once we get to the end of history,
+once things stop happening to make the data look like we're wrong,
+then you'll see.
+You'll all see.
+In just a few more years, you'll see that we were right all along.
+Of course, to a reader in 2019,
+all this, as with much of the rest of the book,
+comes off as rather quaint.
+A relic of the 90s, maybe.
+Like pogs.
+You see, today, of course, we have social media
+and daily get to see just how cognitively elite
+the supposed cognitive elite are.
+Herrnstein and Murray's theory of intellectual inequality
+is, of course, just economic inequality with the license plates changed.
+And I can think of no better illustration of this
+than the college admissions bribery scandal from earlier this year.
+This was a criminal conspiracy organized by William Rick Singer
+to doctor exam results and bribe college officials
+in order to ensure children of rich parents
+get into several top universities.
+Singer testified that he'd helped more than 750 families
+get children into college this way,
+and he furthermore claimed that some of the tactics he used to inflate test scores
+were widespread outside of his particular scheme.
+The problem, of course, is not that the rich are getting smarter,
+it's that the rich are getting richer
+and can increasingly rig the system to their own benefit.
+The fact that the rich definitely aren't cognitively elite
+is increasingly becoming a problem, thanks to our imbalanced economies.
+In 2008, this cognitive elite caused an economic crash
+and had to be bailed out by all the middle bell curve average people.
+Lastly here, I'd like to say that the bell curve proves, if anything,
+that any apprehension the scientific community might have
+about discussing possible differences in racial cognitive ability
+would be very well justified.
+Because what you shouldn't want to happen,
+as a scientist presenting inconclusive evidence for such,
+is for someone hearing that inconclusive evidence
+to then start using it as a justification
+to propose eugenicist political policies.
+The bell curve is all this in one package.
+Inconclusive evidence and eugenicist politics.
+The bell curve has stuck around not because it breaks new ground
+or presents new ideas,
+but because it is a useful pseudo-scientific justification
+for conservatives looking to cut welfare programs
+and racists looking to feel justified in their racism.
+It is a scabrous piece of racial pornography.
+Thanks for watching, folks.
+This one took a bit of time to put together.
+I'm sure you've noticed.
+26,000 words, this is.
+Thank you, as always, to my patrons for supporting me
+so that I can keep making ridiculous videos like this one.
+If you'd like to join this list of lovely people,
+I will put a link in the video description below
+that you can check out if you like.
+And I'd like to give an extra thank you to my patrons this time
+for fact-checking a previous draft of this video for me
+and making some very useful suggestions.
+This video would not be half as good as it is
+without all of your excellent feedback,
+so I am very grateful for that.
+I'd also like to thank the people who were able to source
+a few difficult-to-find studies for me.
+Some folks were even kind enough to physically go and photograph
+or scan things that were not available online,
+so thank you so much for helping me out there.
+Thank you also to the editors who helped me out with this video.
+Your contributions and suggestions were fantastic.
+Now, with any project of this length,
+you inevitably end up with a lot of unused material at the end,
+and there is so much that I left out here,
+usually for time reasons,
+because it would just take too long to explain,
+or because it was too complicated and beyond my ability
+to present the information in a way that made sense.
+If you'd like to look into the various subjects mentioned today
+in more depth than I do in the video,
+I would recommend checking out the sources and reading list below.
+Righty-ho, that's all from me today, folks.
+I'll see you next time.

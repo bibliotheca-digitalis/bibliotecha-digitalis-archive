@@ -1,0 +1,1844 @@
+1
+00:00:00,000 --> 00:00:04,840
+Hello, everyone. So, today, I want to talk about white identity.
+
+2
+00:00:04,840 --> 00:00:08,120
+Now, one question I get a lot on my Curious Cat page is,
+
+3
+00:00:08,120 --> 00:00:14,520
+are you worried about the prevalence of white nationalist rhetoric among younger white men online?
+
+4
+00:00:14,520 --> 00:00:17,240
+And my answer is always, yes, I am.
+
+5
+00:00:17,240 --> 00:00:22,080
+But today, I thought I'd flesh that answer out a bit and discuss these young white guys
+
+6
+00:00:22,080 --> 00:00:26,080
+and their increasing familiarity with open white nationalism.
+
+7
+00:00:26,080 --> 00:00:28,080
+And we're gonna tell a bit of a story.
+
+8
+00:00:28,080 --> 00:00:33,520
+We're gonna talk about how this identity coalesced and gained steam during Gamergate,
+
+9
+00:00:33,520 --> 00:00:40,000
+and how it transformed into the Pepe avatar alt-right Trump-supporting mess it is today.
+
+10
+00:00:40,000 --> 00:00:45,760
+And the reason I really want to talk about this now is that I've been noticing a certain dissatisfaction with Trump
+
+11
+00:00:45,760 --> 00:00:50,080
+among a lot of the frogs, and many of them, understandably, don't seem too happy
+
+12
+00:00:50,080 --> 00:00:54,160
+with the general level of ineptitude he's displayed since coming to office.
+
+13
+00:00:54,160 --> 00:00:58,880
+And many others are even openly expressing regret for even having voted for him.
+
+14
+00:00:58,880 --> 00:01:05,600
+You know, you've got the usual Pepe avatar people, the folks using the frog emoji in their Twitter names,
+
+15
+00:01:05,600 --> 00:01:13,520
+and Trump's also apparently lost the support of Darth Vader, Frankenstein's monster, and Skeletor.
+
+16
+00:01:13,520 --> 00:01:19,040
+So I also want to ask, how did all of these chumps get hoodwinked so easily?
+
+17
+00:01:19,040 --> 00:01:23,600
+And once they all wake up to the fact that Trump was just using them all along,
+
+18
+00:01:23,840 --> 00:01:25,840
+where are they gonna go next?
+
+19
+00:01:25,840 --> 00:01:28,720
+Now, a few disclaimers before we start.
+
+20
+00:01:28,720 --> 00:01:34,720
+Unlike some people, I don't think Gamergate caused Trump to become president or anything, you know?
+
+21
+00:01:34,720 --> 00:01:38,480
+While there was a small swing away from the Democrats among younger people,
+
+22
+00:01:39,120 --> 00:01:41,680
+and of course Trump was definitely favored by white men,
+
+23
+00:01:42,240 --> 00:01:48,560
+I don't really think any of these Pepe memes or the likes really affected the outcome of the election that much.
+
+24
+00:01:48,560 --> 00:01:52,480
+We're giving them too much credit, I think, when we suggest that.
+
+25
+00:01:52,560 --> 00:01:53,760
+Another disclaimer.
+
+26
+00:01:53,760 --> 00:01:56,240
+This video is not a defense of these guys.
+
+27
+00:01:56,240 --> 00:02:01,600
+When I ran this idea past Jen, she thought it sounded like I was making excuses for them.
+
+28
+00:02:02,320 --> 00:02:03,600
+And I don't want to do that.
+
+29
+00:02:03,600 --> 00:02:09,120
+I'd like to try and explain their behavior and motivations, but not excuse their actions.
+
+30
+00:02:09,120 --> 00:02:11,200
+So I thought I'd just make that clear here.
+
+31
+00:02:11,760 --> 00:02:15,120
+I apologize if it seems like I'm giving them an easy ride.
+
+32
+00:02:15,120 --> 00:02:17,360
+And a final thing before we start.
+
+33
+00:02:17,360 --> 00:02:21,120
+I'd like to say hello to any of these people who are watching.
+
+34
+00:02:21,840 --> 00:02:22,560
+Hello there.
+
+35
+00:02:23,440 --> 00:02:28,000
+Thanks for stopping by to hit dislike and call me a cuck, and so on.
+
+36
+00:02:28,000 --> 00:02:30,160
+But once you're done with that though,
+
+37
+00:02:30,160 --> 00:02:35,600
+I would encourage you to stick around and watch the rest of the video just for a change of pace, if nothing else.
+
+38
+00:02:36,640 --> 00:02:40,960
+Right now, you won't agree with anything I say, and you'll think I'm an idiot.
+
+39
+00:02:40,960 --> 00:02:45,360
+But it'll plant a few seeds in your head that will slowly come to fruition.
+
+40
+00:02:45,360 --> 00:02:50,480
+And eventually, in about two or three years, you'll realize that I was right about everything.
+
+41
+00:02:51,120 --> 00:02:52,640
+That's the hope, anyway.
+
+42
+00:02:52,640 --> 00:02:54,480
+Anyway, let's get to it.
+
+43
+00:02:54,480 --> 00:02:55,840
+So let's set the stage.
+
+44
+00:02:56,480 --> 00:02:59,120
+Who are these people who we're talking about?
+
+45
+00:02:59,120 --> 00:03:06,800
+Well, they're nerds on the internet who are typically straight, white, cis, young, and male.
+
+46
+00:03:07,840 --> 00:03:10,880
+Not exclusively, granted, you know.
+
+47
+00:03:10,880 --> 00:03:14,480
+For every one of those identifiers, you can find a few outliers,
+
+48
+00:03:14,480 --> 00:03:17,200
+but broadly, that's who we're dealing with.
+
+49
+00:03:17,200 --> 00:03:20,800
+And to start off, let's try and get inside their mindset.
+
+50
+00:03:20,800 --> 00:03:22,640
+Now, this is something easy for me,
+
+51
+00:03:22,640 --> 00:03:26,720
+because I used to be one of these people until I grew out of it, you know?
+
+52
+00:03:26,720 --> 00:03:29,600
+If my parents had met five to ten years later,
+
+53
+00:03:29,600 --> 00:03:36,240
+I'd probably be watching alt-right YouTube videos and tweeting about Kekistan, whatever that's supposed to be.
+
+54
+00:03:36,240 --> 00:03:38,400
+And that's a scary thought, you know?
+
+55
+00:03:38,400 --> 00:03:41,200
+There but for the grace of God, go I.
+
+56
+00:03:41,200 --> 00:03:45,360
+And here's the world according to the frog people.
+
+57
+00:03:45,360 --> 00:03:49,360
+First off, institutionalized prejudice is a thing of the past.
+
+58
+00:03:49,440 --> 00:03:54,480
+And indeed, if prejudice against minorities even exists at all anymore,
+
+59
+00:03:54,480 --> 00:03:56,800
+it's purely on an individual level.
+
+60
+00:03:56,800 --> 00:04:01,520
+It's a personal choice informed in no way by wider society.
+
+61
+00:04:01,520 --> 00:04:04,560
+And legality trumps all arguments here, you know?
+
+62
+00:04:04,560 --> 00:04:08,720
+Minorities have the vote now, and business discrimination is technically illegal.
+
+63
+00:04:09,280 --> 00:04:13,680
+Therefore, it doesn't happen outside of a few bad eggs.
+
+64
+00:04:14,640 --> 00:04:16,960
+Secondly, we live in a meritocracy.
+
+65
+00:04:17,600 --> 00:04:21,920
+If women get paid less than men, that's because they can't compete.
+
+66
+00:04:21,920 --> 00:04:25,520
+If black people get arrested and incarcerated disproportionately,
+
+67
+00:04:25,520 --> 00:04:28,400
+that's because they're more likely to be criminals.
+
+68
+00:04:29,200 --> 00:04:32,080
+Everyone is on equal footing now, you see.
+
+69
+00:04:32,080 --> 00:04:37,600
+And if anyone can't keep up with straight white men, well, that's just because they're not as good.
+
+70
+00:04:37,600 --> 00:04:41,360
+Now, most of them know not to say it this directly in the open, of course,
+
+71
+00:04:41,360 --> 00:04:44,000
+but basically this is what they believe.
+
+72
+00:04:44,080 --> 00:04:48,720
+And it stems, in part, I think, from a misunderstanding of history.
+
+73
+00:04:48,720 --> 00:04:53,280
+If you don't know too much about history, it's hard to contextualize a lot of this stuff,
+
+74
+00:04:53,280 --> 00:04:55,440
+especially if you're a younger person.
+
+75
+00:04:55,440 --> 00:05:01,680
+Everything that happened before they were born took place sort of nebulously a long time ago,
+
+76
+00:05:01,680 --> 00:05:04,160
+and now it's all the same as ancient history.
+
+77
+00:05:04,160 --> 00:05:08,800
+It has no bearing at all on the modern day, or so it seems to them.
+
+78
+00:05:08,800 --> 00:05:12,080
+For example, it was not that long ago in my own life that I realized
+
+79
+00:05:12,080 --> 00:05:15,680
+how relatively recent legal slavery was in the West,
+
+80
+00:05:15,680 --> 00:05:19,920
+and the effects of that system are not something that disappear overnight, obviously.
+
+81
+00:05:20,720 --> 00:05:23,280
+Similarly with women's suffrage and so on.
+
+82
+00:05:23,280 --> 00:05:28,320
+Speaking in terms of the span of human history, this all happened yesterday.
+
+83
+00:05:28,320 --> 00:05:31,280
+And another factor here is just the natural tendency
+
+84
+00:05:31,280 --> 00:05:34,160
+to want to see arguments break in your favor.
+
+85
+00:05:34,160 --> 00:05:36,880
+You know, it's much easier to believe in a meritocracy
+
+86
+00:05:36,880 --> 00:05:39,600
+if you're someone who is already doing okay.
+
+87
+00:05:40,560 --> 00:05:44,240
+Or rather, and it gets a little complicated here,
+
+88
+00:05:44,240 --> 00:05:48,720
+someone who is not doing okay, but feels like they should be,
+
+89
+00:05:48,720 --> 00:05:54,480
+and blames the fact that they're not on the enemies of the imaginary meritocracy.
+
+90
+00:05:54,480 --> 00:05:57,840
+You know, if the playing field is naturally already level,
+
+91
+00:05:57,840 --> 00:06:01,440
+then any attempt to advocate for any type of social minority
+
+92
+00:06:01,440 --> 00:06:06,080
+is coming directly and unfairly at the expense of straight white men.
+
+93
+00:06:06,720 --> 00:06:09,520
+You know, when is White History Month?
+
+94
+00:06:09,520 --> 00:06:12,080
+Why can't we have a straight Pride parade?
+
+95
+00:06:12,080 --> 00:06:14,800
+When is International Men's Day?
+
+96
+00:06:14,800 --> 00:06:19,040
+You see, to these young white guys, it seems like everyone else but them
+
+97
+00:06:19,040 --> 00:06:22,640
+has an identity that they're allowed to be openly proud of.
+
+98
+00:06:23,280 --> 00:06:26,720
+And that doesn't make sense if we're supposed to be on a level playing field.
+
+99
+00:06:26,720 --> 00:06:29,760
+You know, why is it that a black person or a gay person
+
+100
+00:06:29,760 --> 00:06:31,760
+can take pride in those identities,
+
+101
+00:06:31,760 --> 00:06:36,800
+but I'm not allowed to openly take pride in my race or my sexuality?
+
+102
+00:06:36,800 --> 00:06:37,840
+That's not fair.
+
+103
+00:06:38,400 --> 00:06:42,880
+Now, as a straight white man myself, I understand the answers to those questions,
+
+104
+00:06:42,880 --> 00:06:49,200
+but that understanding came at the tail end of a lot of learning and reading and contextualizing.
+
+105
+00:06:49,200 --> 00:06:54,960
+Perhaps more learning and contextualizing than it's reasonable to expect a teenager to have done,
+
+106
+00:06:54,960 --> 00:06:59,680
+especially considering the state of the education system in a lot of these places in the States,
+
+107
+00:06:59,680 --> 00:07:03,440
+but, you know, that's just the younger ones, I want to make clear.
+
+108
+00:07:03,440 --> 00:07:08,160
+Some of these guys are in their 30s and older, so I've got no sympathy at all for them.
+
+109
+00:07:08,720 --> 00:07:12,960
+Anyway, with these minority identities come narratives.
+
+110
+00:07:13,680 --> 00:07:18,880
+Narratives that include being oppressed and working to overcome that oppression.
+
+111
+00:07:18,880 --> 00:07:22,240
+And now, if we don't consider all the negatives of oppression,
+
+112
+00:07:22,880 --> 00:07:26,000
+you know, if we take the actual oppression out of oppression,
+
+113
+00:07:26,880 --> 00:07:28,960
+it can seem quite romantic.
+
+114
+00:07:28,960 --> 00:07:34,880
+You know, succeeding despite being the underdog is a lot more exciting and heroic,
+
+115
+00:07:34,880 --> 00:07:40,720
+narratively speaking, than succeeding when society expects you to succeed.
+
+116
+00:07:41,280 --> 00:07:44,640
+And among these young white men, there's definitely an unvoiced
+
+117
+00:07:44,640 --> 00:07:50,080
+and perhaps even subconscious jealousy of being left out of that narrative.
+
+118
+00:07:50,080 --> 00:07:54,560
+In fact, they share their identity with the oppressors in all of these narratives,
+
+119
+00:07:54,560 --> 00:08:00,720
+you know, white over black, straight over gay, cis over trans, men over women, and so on.
+
+120
+00:08:00,720 --> 00:08:04,880
+So it seems to them that they've been unfairly cast as the bad guy
+
+121
+00:08:04,880 --> 00:08:08,800
+without actually having done anything wrong as an individual.
+
+122
+00:08:08,800 --> 00:08:12,880
+So society, rather than being biased against people who aren't them,
+
+123
+00:08:13,440 --> 00:08:17,040
+is actually therefore biased against straight white men
+
+124
+00:08:17,040 --> 00:08:20,480
+who are not allowed to have an identity or a narrative.
+
+125
+00:08:20,480 --> 00:08:24,640
+And I'd just like to reiterate at this point that I don't agree with any of this,
+
+126
+00:08:24,640 --> 00:08:28,480
+and this is happening primarily in their own heads.
+
+127
+00:08:28,480 --> 00:08:31,440
+That's just to clarify for Jen if she's listening.
+
+128
+00:08:32,000 --> 00:08:36,480
+Now, let's first position ourselves in time a couple of years ago,
+
+129
+00:08:36,480 --> 00:08:39,760
+and we've got a bunch of angry young white dudes on the internet
+
+130
+00:08:39,760 --> 00:08:44,640
+without much historical, economic, or political context with which to understand the world,
+
+131
+00:08:45,360 --> 00:08:47,600
+and they're feeling increasingly left out.
+
+132
+00:08:47,600 --> 00:08:52,800
+If something unfair or embarrassing or upsetting or disappointing happens to them,
+
+133
+00:08:52,800 --> 00:08:58,000
+they can't say, well, it's probably because I'm white or straight or a man.
+
+134
+00:08:58,000 --> 00:09:02,000
+You know, there's no socially acceptable explanatory narrative at hand
+
+135
+00:09:02,000 --> 00:09:05,760
+for them to rationalize the negative aspects of their lives.
+
+136
+00:09:05,760 --> 00:09:09,680
+In fact, society is constantly signaling to them the opposite,
+
+137
+00:09:09,680 --> 00:09:13,920
+that they should be doing great, you know, you're the best, you should be on top,
+
+138
+00:09:13,920 --> 00:09:16,640
+but that's not how it feels to them.
+
+139
+00:09:16,640 --> 00:09:22,160
+And they can't openly bemoan the fate of straight white guys without being called idiot racists,
+
+140
+00:09:22,160 --> 00:09:23,600
+so what do they do?
+
+141
+00:09:24,240 --> 00:09:29,600
+Well, they displace their anger and frustration onto the one other identity
+
+142
+00:09:29,600 --> 00:09:32,560
+that pretty much all young white men on the internet share.
+
+143
+00:09:33,440 --> 00:09:34,640
+They're all gamers.
+
+144
+00:09:35,200 --> 00:09:36,880
+They all play video games.
+
+145
+00:09:38,160 --> 00:09:41,760
+So, gamergate, where the gamers finally said,
+
+146
+00:09:42,400 --> 00:09:44,400
+We're not gonna take this anymore.
+
+147
+00:09:45,040 --> 00:09:46,240
+And everyone else said,
+
+148
+00:09:48,240 --> 00:09:50,080
+Take what anymore?
+
+149
+00:09:50,800 --> 00:09:52,160
+And the gamers replied,
+
+150
+00:09:53,120 --> 00:09:56,800
+We're not gonna take this anymore, but louder.
+
+151
+00:09:57,360 --> 00:10:00,880
+So I'm gonna say some things about gamers here, so full disclaimer,
+
+152
+00:10:00,880 --> 00:10:02,320
+I play video games.
+
+153
+00:10:03,040 --> 00:10:04,640
+I play video games.
+
+154
+00:10:04,640 --> 00:10:07,600
+I play too many video games.
+
+155
+00:10:07,600 --> 00:10:12,080
+But I've never really cared when someone insults capital-G gamers,
+
+156
+00:10:12,080 --> 00:10:15,600
+because video games are just a hobby for me, you know?
+
+157
+00:10:15,600 --> 00:10:18,720
+They're something I do for fun in my spare time.
+
+158
+00:10:18,720 --> 00:10:21,120
+Being a gamer is not my identity,
+
+159
+00:10:21,120 --> 00:10:24,720
+I don't define myself by the fact I play video games,
+
+160
+00:10:24,720 --> 00:10:27,680
+and nor should anyone else, but that's just me.
+
+161
+00:10:28,480 --> 00:10:30,480
+Anyway, gamergate.
+
+162
+00:10:30,480 --> 00:10:34,640
+Now, my own experience of gamergate was to sit on the sidelines heckling
+
+163
+00:10:34,640 --> 00:10:37,520
+and metaphorically throwing rotten fruit at people.
+
+164
+00:10:37,520 --> 00:10:43,200
+Now, my guilty pleasure was going on Reddit or 4chan or something awful and asking,
+
+165
+00:10:43,200 --> 00:10:47,200
+Hey, so what's this gamergate thing everyone's talking about?
+
+166
+00:10:47,200 --> 00:10:51,680
+You know, just to make everyone type huge text walls about what they thought gamergate was.
+
+167
+00:10:52,480 --> 00:10:58,160
+So for the blessedly uninitiated, what is gamergate?
+
+168
+00:10:58,160 --> 00:10:59,920
+Well, briefly, hopefully,
+
+169
+00:11:00,720 --> 00:11:06,640
+In mid-2014, independent game developer Zoe Quinn was the subject of a blog post
+
+170
+00:11:06,640 --> 00:11:11,040
+published by a former boyfriend that accused her of cheating on him with various men,
+
+171
+00:11:12,000 --> 00:11:17,520
+including a games journalist who had previously written about her and a video game she made.
+
+172
+00:11:18,080 --> 00:11:21,920
+So what does this incident have to do with anything?
+
+173
+00:11:21,920 --> 00:11:26,480
+Who does it affect outside of the people directly personally involved?
+
+174
+00:11:27,280 --> 00:11:30,160
+The answers are nothing and nobody.
+
+175
+00:11:30,160 --> 00:11:33,360
+Of course, a couple had a messy breakup, basically,
+
+176
+00:11:33,360 --> 00:11:36,560
+but hey, something had to light this trash fire
+
+177
+00:11:36,560 --> 00:11:39,040
+and it wasn't going to be something legitimate, was it?
+
+178
+00:11:39,040 --> 00:11:41,280
+So we're stuck with this nonsense.
+
+179
+00:11:41,280 --> 00:11:47,040
+And if you think about it, the Zoe Quinn incident is sort of the perfect storm in a teacup,
+
+180
+00:11:47,040 --> 00:11:48,560
+to mix my idioms there.
+
+181
+00:11:49,120 --> 00:11:54,400
+It's a minor incident, but it's got a lot of contextual multipliers acting on it.
+
+182
+00:11:54,400 --> 00:11:57,520
+It's about a woman, which is a good start.
+
+183
+00:11:57,520 --> 00:12:02,640
+A woman game developer, so a woman trespassing in the No Women Treehouse.
+
+184
+00:12:03,360 --> 00:12:10,000
+She had sex, which is usually a frightening concept in and of itself for self-described gamers.
+
+185
+00:12:10,000 --> 00:12:11,920
+She allegedly cuckolded a man,
+
+186
+00:12:12,480 --> 00:12:18,000
+and of course, the most frightening type of sex a woman can have is sex that is not with me.
+
+187
+00:12:18,000 --> 00:12:21,360
+And there's implicit fraud and deception proving true
+
+188
+00:12:21,360 --> 00:12:26,640
+all my suspicions about women being duplicitous harlots who'll deceive me at every turn.
+
+189
+00:12:26,640 --> 00:12:31,280
+And all of these multipliers act to make this remarkably trivial and stupid incident
+
+190
+00:12:31,280 --> 00:12:34,320
+actually significant in the minds of certain people.
+
+191
+00:12:34,320 --> 00:12:41,040
+And so they proceeded to organize on sites like Reddit, 4chan, 8chan and so on,
+
+192
+00:12:41,040 --> 00:12:46,560
+and built a movement primarily concerned with endless complaining about Zoe Quinn
+
+193
+00:12:46,560 --> 00:12:50,800
+and various other game developers and journalists who were apparently conspiring
+
+194
+00:12:50,800 --> 00:12:56,080
+to maliciously ruin video games for everyone using feminism.
+
+195
+00:12:56,080 --> 00:13:01,040
+Really though, Gamergate wasn't about Zoe Quinn or Anita Sarkeesian
+
+196
+00:13:01,040 --> 00:13:03,840
+or ethics in video game journalism,
+
+197
+00:13:03,840 --> 00:13:09,520
+which I think became a joke roughly five seconds after the first person even dared to suggest it.
+
+198
+00:13:09,520 --> 00:13:12,000
+It wasn't even really about video games.
+
+199
+00:13:12,000 --> 00:13:16,800
+It was about young, straight white men and their lack of an identity.
+
+200
+00:13:16,800 --> 00:13:18,320
+In my opinion, anyway.
+
+201
+00:13:18,880 --> 00:13:24,240
+Gaming was the one area of entertainment that they felt was still created for them.
+
+202
+00:13:24,240 --> 00:13:28,320
+Of course, that's not true, but they felt it was true, which is the important thing.
+
+203
+00:13:28,320 --> 00:13:33,920
+You know, gaming, being the relative newcomer among television, films, books and the likes,
+
+204
+00:13:33,920 --> 00:13:38,240
+has been lagging behind somewhat in its representation of minorities.
+
+205
+00:13:38,240 --> 00:13:42,160
+And it's only fairly recently that people have been talking and writing about games
+
+206
+00:13:42,160 --> 00:13:47,200
+as if they're a real art form subject to real, thoughtful criticism.
+
+207
+00:13:47,200 --> 00:13:51,600
+Once almost exclusively the domain of young, white male nerds,
+
+208
+00:13:51,600 --> 00:13:56,960
+gaming's in the process of opening up to all sorts of players and all sorts of game developers
+
+209
+00:13:56,960 --> 00:14:03,120
+and all sorts of people writing about games and what they're like and what they could and should be.
+
+210
+00:14:03,120 --> 00:14:07,360
+And game developers are listening to all these people and games are changing.
+
+211
+00:14:07,360 --> 00:14:09,520
+Slowly, obviously, but they are.
+
+212
+00:14:10,240 --> 00:14:16,160
+Which poses a problem for the folks who had taken on Gamer as a surrogate identity.
+
+213
+00:14:16,160 --> 00:14:19,360
+You know, for young white guys, video games were a safe space
+
+214
+00:14:19,360 --> 00:14:24,320
+where you didn't have to deal with all these other people and all their different opinions and narratives
+
+215
+00:14:24,320 --> 00:14:31,520
+and now here they come, insisting that the thing you've adopted as the central pillar of your identity,
+
+216
+00:14:31,520 --> 00:14:39,360
+the only aspect of your identity that you feel comfortable actually openly enjoying, needs to change.
+
+217
+00:14:39,360 --> 00:14:44,160
+And they respond to this with a hysterical ferocity that can seem inexplicable
+
+218
+00:14:44,160 --> 00:14:49,600
+if you don't realize that in their heads they are a genuinely maligned minority.
+
+219
+00:14:49,600 --> 00:14:54,960
+It's every bit as serious to them as they imagine the civil rights marches were for black people
+
+220
+00:14:54,960 --> 00:14:57,120
+or the suffragette movement was for women.
+
+221
+00:14:57,840 --> 00:15:02,880
+It's ridiculous, obviously, but lacking an easily identifiable oppressor,
+
+222
+00:15:02,880 --> 00:15:06,480
+these young white men have simply fabricated one.
+
+223
+00:15:06,480 --> 00:15:10,480
+They've constructed a movement and us versus them.
+
+224
+00:15:10,560 --> 00:15:16,400
+Their narrative has become us versus the people who won't let us have a narrative.
+
+225
+00:15:16,400 --> 00:15:20,720
+Social justice warriors, feminists, whatever you want to call them.
+
+226
+00:15:20,720 --> 00:15:23,840
+They won't even let us play video games in peace anymore.
+
+227
+00:15:24,480 --> 00:15:30,720
+They hate us and want to change us just for being who we are, which means we're oppressed.
+
+228
+00:15:31,440 --> 00:15:32,080
+Finally.
+
+229
+00:15:33,040 --> 00:15:38,880
+So these communities exist now and they're backed into a corner in their own heads, you know.
+
+230
+00:15:39,520 --> 00:15:43,840
+Their gamer identities eroding under the horrific onslaught of
+
+231
+00:15:43,840 --> 00:15:49,600
+walking simulators about lesbians and relatively unobjectionable women saying they think
+
+232
+00:15:49,600 --> 00:15:53,520
+female soldiers should wear more than a bikini in a battle.
+
+233
+00:15:53,520 --> 00:15:55,840
+And it raises an interesting point.
+
+234
+00:15:55,840 --> 00:16:00,720
+It's always the minorities that get accused of being obsessed with feminism
+
+235
+00:16:00,720 --> 00:16:07,920
+and identity politics and so on, but in reality those things ultimately exist to level the playing field.
+
+236
+00:16:07,920 --> 00:16:11,200
+They're a means to an end, that end being equality.
+
+237
+00:16:11,200 --> 00:16:14,560
+Now, ostensibly, you'd think these straight white men
+
+238
+00:16:14,560 --> 00:16:18,320
+don't have to be concerned with all this stuff if they don't want to be, you know.
+
+239
+00:16:18,320 --> 00:16:20,800
+They don't have to go on about feminists online.
+
+240
+00:16:20,800 --> 00:16:23,520
+There's nothing keeping them here, really.
+
+241
+00:16:23,520 --> 00:16:25,440
+They can go and be free.
+
+242
+00:16:25,440 --> 00:16:30,480
+Become Randian supermen, you know, genius alpha male CEOs
+
+243
+00:16:30,480 --> 00:16:34,400
+or whatever it is they imagine they'd be in an ideal world.
+
+244
+00:16:34,480 --> 00:16:36,160
+But that's not happening, is it?
+
+245
+00:16:36,160 --> 00:16:37,840
+Because of course it's not.
+
+246
+00:16:37,840 --> 00:16:40,160
+We don't live in this ideal world.
+
+247
+00:16:40,160 --> 00:16:42,960
+We live in an often rubbish world.
+
+248
+00:16:42,960 --> 00:16:44,960
+So let's talk politics.
+
+249
+00:16:45,600 --> 00:16:48,560
+If you're age 18 to 26 in the United States,
+
+250
+00:16:48,560 --> 00:16:55,360
+then the only president you've known during your adult life has been until very recently Barack Obama.
+
+251
+00:16:55,360 --> 00:16:58,640
+The Bush administration is a distant memory by now.
+
+252
+00:16:58,640 --> 00:17:01,840
+If you voted for the first time you're able to in 2016,
+
+253
+00:17:01,840 --> 00:17:04,560
+then you were five when the Iraq war broke out.
+
+254
+00:17:05,600 --> 00:17:07,280
+That's scary, isn't it?
+
+255
+00:17:07,280 --> 00:17:10,400
+So a Democrat's been at the helm for eight years,
+
+256
+00:17:10,400 --> 00:17:14,080
+and yet there are all these problems still in society.
+
+257
+00:17:14,080 --> 00:17:17,520
+And of course there are excuses for the existence of all of these problems.
+
+258
+00:17:18,400 --> 00:17:21,200
+Perfectly legitimate excuses, even.
+
+259
+00:17:21,200 --> 00:17:25,840
+Obama came to power shortly after one of the worst economic downturns in a century.
+
+260
+00:17:26,560 --> 00:17:30,720
+You can blame Republican obstructionism, corporate lobbying,
+
+261
+00:17:30,720 --> 00:17:33,520
+the news media, capitalism in general.
+
+262
+00:17:34,240 --> 00:17:39,200
+And there's at least some merit in all of these factors, especially the economic ones.
+
+263
+00:17:39,200 --> 00:17:42,480
+There's something about huge layoffs and wage freezes
+
+264
+00:17:42,480 --> 00:17:47,040
+and bailouts that gets everybody down, societally speaking.
+
+265
+00:17:47,040 --> 00:17:50,960
+So what does this mean for our fresh-faced young white men?
+
+266
+00:17:50,960 --> 00:17:55,520
+Well, they don't want to be told that this is as good as it gets.
+
+267
+00:17:55,520 --> 00:17:58,080
+You know, tons of things suck under Obama,
+
+268
+00:17:58,080 --> 00:18:01,200
+but at least he's not doing as bad as a Republican.
+
+269
+00:18:01,200 --> 00:18:03,840
+You know, it's not much of a carrot, really, is it?
+
+270
+00:18:03,840 --> 00:18:08,720
+It's true, in a sense, but nobody's getting all that excited about it.
+
+271
+00:18:08,720 --> 00:18:13,920
+It's certainly not motivating a bunch of young white gamer dudes to go and vote for a woman,
+
+272
+00:18:13,920 --> 00:18:14,720
+that's for sure.
+
+273
+00:18:14,720 --> 00:18:17,840
+I mean, they haven't seen enough political cycles yet
+
+274
+00:18:17,840 --> 00:18:20,720
+to understand the only choice they have.
+
+275
+00:18:20,720 --> 00:18:26,320
+They've got the Republicans who have the image of being old, religious, stuffy, and uncool,
+
+276
+00:18:26,320 --> 00:18:30,480
+and the only other option seems to them to just be more of the same.
+
+277
+00:18:30,480 --> 00:18:33,760
+And in the boom years, the system can get away with this.
+
+278
+00:18:33,760 --> 00:18:37,600
+You know, people have jobs, they're earning money, things are ticking over.
+
+279
+00:18:38,320 --> 00:18:41,600
+But then inevitably, you get the bust years,
+
+280
+00:18:41,600 --> 00:18:46,880
+where suddenly young people's expectations and possibilities start diminishing.
+
+281
+00:18:46,880 --> 00:18:48,720
+You know, compared to their parents,
+
+282
+00:18:48,720 --> 00:18:53,360
+which is one of the main parameters by which their success in life is going to be judged,
+
+283
+00:18:54,000 --> 00:18:58,000
+it's more expensive to go to school, it's harder to get a job,
+
+284
+00:18:58,000 --> 00:19:02,320
+that job won't pay as much money, it's harder to afford a house.
+
+285
+00:19:02,320 --> 00:19:03,920
+And then when it comes voting time,
+
+286
+00:19:03,920 --> 00:19:08,000
+you have to choose between the people who are actively encouraging all of this
+
+287
+00:19:08,000 --> 00:19:10,880
+and the people who keep promising to fix it all,
+
+288
+00:19:10,880 --> 00:19:13,680
+but never actually seem to get around to doing it.
+
+289
+00:19:13,680 --> 00:19:18,480
+And both parties are staffed largely by people funded by the corporations
+
+290
+00:19:18,480 --> 00:19:21,200
+who have a stake in nothing being done.
+
+291
+00:19:21,200 --> 00:19:22,880
+This is not much of a choice.
+
+292
+00:19:23,600 --> 00:19:25,440
+Now, a little disclaimer here,
+
+293
+00:19:25,440 --> 00:19:28,240
+I'm not saying both parties are the same.
+
+294
+00:19:28,240 --> 00:19:28,960
+They're not.
+
+295
+00:19:28,960 --> 00:19:31,760
+Particularly if you're anything but a straight white man,
+
+296
+00:19:31,760 --> 00:19:36,080
+it is massively in your interest to vote against the Republicans.
+
+297
+00:19:36,080 --> 00:19:41,360
+The Democrats' action on minority rights is rather lackluster, actually, in my opinion,
+
+298
+00:19:41,360 --> 00:19:44,560
+but it's better than the open hostility of the Republicans.
+
+299
+00:19:45,200 --> 00:19:50,880
+For straight white men, however, it is easy to see why so many were suckered in by Trump.
+
+300
+00:19:50,880 --> 00:19:52,560
+You know, there's the obvious.
+
+301
+00:19:52,560 --> 00:19:55,920
+He positioned himself as an anti-establishment candidate
+
+302
+00:19:55,920 --> 00:20:00,960
+in a year where establishment candidates were incredibly unpopular.
+
+303
+00:20:00,960 --> 00:20:04,240
+He attacked the usual stable of Republicans running,
+
+304
+00:20:04,240 --> 00:20:07,120
+said he was gonna drain the swamp, and so on.
+
+305
+00:20:07,920 --> 00:20:10,800
+Rarely, though, for our young white guys we're talking about,
+
+306
+00:20:10,800 --> 00:20:14,240
+I don't think that Trump's political positions were all that important
+
+307
+00:20:14,240 --> 00:20:16,800
+compared to what Trump represented.
+
+308
+00:20:16,800 --> 00:20:18,720
+He was a fantasy, in a sense,
+
+309
+00:20:18,720 --> 00:20:22,960
+because he was a white man who said whatever he wanted to,
+
+310
+00:20:22,960 --> 00:20:24,160
+and he got away with it.
+
+311
+00:20:24,720 --> 00:20:27,760
+He would openly pander to bigoted white people,
+
+312
+00:20:27,760 --> 00:20:30,960
+and there's a big market for that lately, as it turns out.
+
+313
+00:20:30,960 --> 00:20:34,800
+His ideas are all laughable, practically speaking, anyway.
+
+314
+00:20:34,800 --> 00:20:38,160
+A Muslim ban, a big wall to keep foreigners out.
+
+315
+00:20:38,160 --> 00:20:43,440
+It's cartoonish and ridiculous, clearly, but none of that matters.
+
+316
+00:20:43,440 --> 00:20:47,280
+Trump was a white man sticking up for white men
+
+317
+00:20:47,280 --> 00:20:49,600
+when it seemed like no one else would.
+
+318
+00:20:49,600 --> 00:20:51,280
+Make America Great Again.
+
+319
+00:20:51,840 --> 00:20:54,160
+You know, when? When was it great?
+
+320
+00:20:54,160 --> 00:20:58,000
+If you're not a straight white guy, then the further you go into America's past,
+
+321
+00:20:58,000 --> 00:20:59,520
+the worse it gets.
+
+322
+00:20:59,520 --> 00:21:03,360
+Make America Great Again is a threat to most people.
+
+323
+00:21:03,920 --> 00:21:07,760
+Now, I spend a fair bit of time listening in on the Discord server
+
+324
+00:21:07,760 --> 00:21:10,960
+for the Reddit page for Donald Trump supporters.
+
+325
+00:21:10,960 --> 00:21:13,520
+That's r slash The Donald.
+
+326
+00:21:13,520 --> 00:21:16,880
+And I won't go into it too much right now, but, you know,
+
+327
+00:21:16,880 --> 00:21:21,040
+as you can see here, well, you get the picture.
+
+328
+00:21:21,040 --> 00:21:26,640
+The talk is openly racist, worrying about the future of the white race,
+
+329
+00:21:27,440 --> 00:21:30,160
+using all the racial slurs under the sun.
+
+330
+00:21:30,160 --> 00:21:31,680
+And I've had a few people tell me,
+
+331
+00:21:31,680 --> 00:21:34,080
+oh, well, this isn't serious, you know.
+
+332
+00:21:34,080 --> 00:21:37,840
+They just like his policies and all this race talk is just a joke.
+
+333
+00:21:37,840 --> 00:21:41,200
+But, honestly, get a grip.
+
+334
+00:21:41,200 --> 00:21:44,640
+If you think this is just a joke, then you've been tricked.
+
+335
+00:21:44,640 --> 00:21:48,560
+It's amazing, I know, but racism actually still exists,
+
+336
+00:21:49,120 --> 00:21:51,440
+and it's coming back in fashion.
+
+337
+00:21:51,440 --> 00:21:55,840
+Now, over the course of Trump's term, or terms, in office,
+
+338
+00:21:56,720 --> 00:21:59,520
+a lot of these kids are gonna drift away from supporting him
+
+339
+00:21:59,520 --> 00:22:02,560
+as they realize he actually is just a politician
+
+340
+00:22:02,560 --> 00:22:05,440
+who spun them a bunch of crap in order to get elected.
+
+341
+00:22:05,440 --> 00:22:07,840
+And this brings us back around to where we started
+
+342
+00:22:07,840 --> 00:22:09,920
+with the first bunch of suckers
+
+343
+00:22:09,920 --> 00:22:12,480
+slowly coming around to the fact that they've been conned.
+
+344
+00:22:13,120 --> 00:22:14,480
+So, what's next?
+
+345
+00:22:15,120 --> 00:22:17,360
+What's gonna happen from here on out?
+
+346
+00:22:17,360 --> 00:22:23,840
+Well, it's not enough for these people to just stop supporting Trump anymore.
+
+347
+00:22:23,840 --> 00:22:27,440
+You know, the legitimization of Trump's rhetoric has already happened.
+
+348
+00:22:27,440 --> 00:22:31,760
+Trump won't be the last, regardless of how he performs in office.
+
+349
+00:22:31,760 --> 00:22:35,840
+A lot of potential future candidates will have been watching his rise to power
+
+350
+00:22:35,840 --> 00:22:37,440
+and taking notes.
+
+351
+00:22:37,440 --> 00:22:38,560
+And if I were doing that,
+
+352
+00:22:38,560 --> 00:22:43,200
+then point 1A on my list of tips to get elected would say,
+
+353
+00:22:43,200 --> 00:22:45,520
+you do not have to hide it anymore.
+
+354
+00:22:45,520 --> 00:22:48,240
+You know, the fascists have come out of the woodwork now.
+
+355
+00:22:48,240 --> 00:22:52,720
+The white nationalist narrative is running at full steam online,
+
+356
+00:22:52,720 --> 00:22:55,760
+and many young white guys are flocking to it.
+
+357
+00:22:55,760 --> 00:22:57,920
+You know, we are past that point by now.
+
+358
+00:22:57,920 --> 00:22:59,360
+I hope we can all agree.
+
+359
+00:23:00,240 --> 00:23:03,280
+A cleverer person than me could write an interesting paper
+
+360
+00:23:03,280 --> 00:23:06,720
+about how memes and icons and emojis
+
+361
+00:23:06,720 --> 00:23:11,280
+have taken the place of the uniform, the pin and the armband and so on
+
+362
+00:23:11,280 --> 00:23:14,560
+as the signifiers of a political movement.
+
+363
+00:23:14,560 --> 00:23:18,640
+Now, these people will mostly all abandon Trump eventually,
+
+364
+00:23:18,640 --> 00:23:21,280
+not because they've had a change of heart necessarily,
+
+365
+00:23:21,280 --> 00:23:24,160
+but because they'll find him a disappointment.
+
+366
+00:23:24,160 --> 00:23:28,080
+He won't drain the swamp or make America great again,
+
+367
+00:23:28,080 --> 00:23:30,320
+and they'll all move on to someone else,
+
+368
+00:23:30,320 --> 00:23:33,280
+promising the same things, but even bigger.
+
+369
+00:23:33,280 --> 00:23:37,840
+So my question going forward is, what can we do about these people, you know?
+
+370
+00:23:37,840 --> 00:23:42,160
+How can we break them out of the spell of this resurgent white nationalism
+
+371
+00:23:42,160 --> 00:23:46,640
+with its easy, racialized answers for all the world's problems?
+
+372
+00:23:46,640 --> 00:23:48,160
+Because that's the thing.
+
+373
+00:23:48,160 --> 00:23:49,120
+It is easy.
+
+374
+00:23:49,120 --> 00:23:53,280
+It's comparatively difficult to learn about the economy, for instance,
+
+375
+00:23:53,280 --> 00:23:54,560
+and how that operates,
+
+376
+00:23:54,560 --> 00:23:59,520
+but white nationalists look at complicated systemic problems like that
+
+377
+00:23:59,520 --> 00:24:02,320
+and make them simple racial problems.
+
+378
+00:24:02,320 --> 00:24:04,960
+You know, it's not our banking system that's broken.
+
+379
+00:24:04,960 --> 00:24:07,120
+It's the Jews, for example.
+
+380
+00:24:07,120 --> 00:24:08,720
+It's not the justice system.
+
+381
+00:24:08,720 --> 00:24:10,800
+It's a problem with black people.
+
+382
+00:24:10,800 --> 00:24:14,320
+It's not immigration law or foreign policy.
+
+383
+00:24:14,320 --> 00:24:15,840
+It's the Muslims.
+
+384
+00:24:15,840 --> 00:24:18,720
+You know, if we just get rid of X type of person,
+
+385
+00:24:18,720 --> 00:24:20,960
+then the relevant problem will go away.
+
+386
+00:24:21,600 --> 00:24:24,000
+And combating this is difficult.
+
+387
+00:24:24,000 --> 00:24:27,840
+It requires more effort to properly understand these issues
+
+388
+00:24:27,840 --> 00:24:30,320
+than it does to believe the easy lie.
+
+389
+00:24:30,320 --> 00:24:33,200
+So we're starting out on the back foot here,
+
+390
+00:24:33,200 --> 00:24:36,000
+and you'd have to have some inhuman amount of belief
+
+391
+00:24:36,000 --> 00:24:38,080
+in the fundamental goodness of humanity
+
+392
+00:24:38,080 --> 00:24:42,000
+to think that all of these guys could simply be talked down
+
+393
+00:24:42,000 --> 00:24:44,080
+from the white nationalist ledge.
+
+394
+00:24:44,080 --> 00:24:46,960
+Though on the other hand, I'm sure a lot can,
+
+395
+00:24:46,960 --> 00:24:49,200
+and I'm sure many will grow out of it,
+
+396
+00:24:49,200 --> 00:24:52,880
+and I'd argue that as they become increasingly disillusioned with Trump
+
+397
+00:24:52,880 --> 00:24:54,160
+over the next four years,
+
+398
+00:24:54,160 --> 00:24:58,960
+it's a prime opportunity to try and change their minds.
+
+399
+00:24:58,960 --> 00:25:02,160
+Though honestly, I don't blame anyone who doesn't have the patience
+
+400
+00:25:02,160 --> 00:25:05,200
+to argue endlessly with the little pricks.
+
+401
+00:25:05,200 --> 00:25:07,520
+It's like running on a treadmill, you know?
+
+402
+00:25:07,520 --> 00:25:09,280
+It feels like you get nowhere.
+
+403
+00:25:09,280 --> 00:25:12,720
+Now I don't know how to ultimately solve this problem,
+
+404
+00:25:12,720 --> 00:25:15,600
+but I do have one suggestion I think could help.
+
+405
+00:25:16,400 --> 00:25:21,120
+They could really use another political narrative to get behind.
+
+406
+00:25:21,120 --> 00:25:24,640
+You know, the popularity of Bernie Sanders, say,
+
+407
+00:25:25,440 --> 00:25:31,120
+definitely proved at least the desire for a more left-leaning platform from the Democrats,
+
+408
+00:25:31,120 --> 00:25:34,720
+which the Democrats themselves are now ignoring as much as possible
+
+409
+00:25:34,720 --> 00:25:36,720
+instead of capitalizing on.
+
+410
+00:25:36,720 --> 00:25:40,320
+There are even some people who swapped from supporting Sanders
+
+411
+00:25:40,320 --> 00:25:42,960
+to supporting Trump when Sanders dropped out,
+
+412
+00:25:42,960 --> 00:25:47,360
+which seems like an inexplicable position if you're focused on policy.
+
+413
+00:25:48,080 --> 00:25:51,440
+It's ridiculous, but it actually kind of makes sense
+
+414
+00:25:51,440 --> 00:25:55,680
+if you think in terms of the narrative of the political outsider.
+
+415
+00:25:55,680 --> 00:25:59,120
+There's a hunger for politics that differ from the mainstream,
+
+416
+00:25:59,120 --> 00:26:02,560
+and the actual specifics of how they differ from the mainstream
+
+417
+00:26:02,560 --> 00:26:05,040
+seems not to matter to some people.
+
+418
+00:26:05,040 --> 00:26:10,400
+And there's a way, I feel, to appeal directly to the part of these young white guys
+
+419
+00:26:10,400 --> 00:26:14,560
+that subconsciously maybe wants to be part of an oppressed movement.
+
+420
+00:26:14,560 --> 00:26:19,440
+And it's ironic because, economically, the answer's right there in front of them.
+
+421
+00:26:19,440 --> 00:26:23,760
+They have no choice but to take part in an impressive economic system
+
+422
+00:26:23,760 --> 00:26:26,880
+that's heavily biased in favor of the rich.
+
+423
+00:26:26,880 --> 00:26:30,560
+The lack of a political identity that some young white men feel
+
+424
+00:26:30,560 --> 00:26:33,760
+could ideally be filled with a class identity.
+
+425
+00:26:33,760 --> 00:26:36,160
+You know, still talking about real problems,
+
+426
+00:26:36,160 --> 00:26:39,200
+but through an actually helpful economic lens
+
+427
+00:26:39,200 --> 00:26:42,480
+instead of a misleading and bigoted racial one.
+
+428
+00:26:42,480 --> 00:26:47,840
+Criticizing capitalism is kind of a hard sell in the States, though, I understand.
+
+429
+00:26:47,920 --> 00:26:49,680
+And I'll throw it open to the comments.
+
+430
+00:26:49,680 --> 00:26:55,920
+You know, what else can we do to re-educate these people out of their white nationalism?
+
+431
+00:26:55,920 --> 00:27:00,080
+And yes, I said re-educate. I want to re-educate you.
+
+432
+00:27:00,080 --> 00:27:03,360
+You gave it a go by yourself, but you fucked up,
+
+433
+00:27:03,360 --> 00:27:07,200
+and now your brain is wrong and needs to be reprogrammed.
+
+434
+00:27:07,200 --> 00:27:11,920
+Because ultimately, if this doesn't stop, it's gonna come to blows.
+
+435
+00:27:11,920 --> 00:27:15,280
+And I don't mean a street scuffle between a group of anti-fascists
+
+436
+00:27:15,280 --> 00:27:17,040
+and a group of white nationalists,
+
+437
+00:27:17,040 --> 00:27:22,800
+but potentially, you know, well, if this movement doesn't fizzle out by itself,
+
+438
+00:27:22,800 --> 00:27:25,600
+it'll eventually end up being stamped out.
+
+439
+00:27:25,600 --> 00:27:29,840
+And it'd be better to solve all this with words before it comes to that.
+
+440
+00:27:29,840 --> 00:27:34,240
+Because the white nationalists will definitely lose that fight if it happens,
+
+441
+00:27:34,240 --> 00:27:35,760
+just like they did last time.
+
+442
+00:27:35,760 --> 00:27:38,880
+It's an ideology that is destined to lose.
+
+443
+00:27:39,600 --> 00:27:41,680
+So I'll leave you today with a warning
+
+444
+00:27:41,680 --> 00:27:44,960
+for any of my fellow straight white gamer dudes who are listening.
+
+445
+00:27:44,960 --> 00:27:53,200
+It honestly really is in your best interests to stay away from the old fascism there.
+
+446
+00:27:53,200 --> 00:27:56,240
+It never turns out like they say it will, I promise.
+
+447
+00:27:57,280 --> 00:27:59,440
+Thanks a lot for watching, everyone.
+
+448
+00:27:59,440 --> 00:28:01,520
+Let me know what you think in the comments, please.
+
+449
+00:28:01,520 --> 00:28:03,600
+I'd like to hear your feedback on this one.
+
+450
+00:28:03,600 --> 00:28:08,080
+And you can get in touch with me on Twitter or Curious Cat if you want to ask a question.
+
+451
+00:28:08,080 --> 00:28:12,320
+If you liked this video and would like to help me make more videos,
+
+452
+00:28:12,320 --> 00:28:14,880
+consider pledging me a dollar on Patreon.
+
+453
+00:28:14,880 --> 00:28:17,840
+I don't run advertisements on my videos at all,
+
+454
+00:28:17,840 --> 00:28:20,240
+and ideally, I'd like to keep it that way.
+
+455
+00:28:20,240 --> 00:28:24,240
+However, sadly, I do still need to eat.
+
+456
+00:28:24,240 --> 00:28:27,440
+And it turns out they don't let you opt out of paying for food
+
+457
+00:28:27,440 --> 00:28:29,760
+just because you don't like capitalism.
+
+458
+00:28:29,760 --> 00:28:32,560
+If you're broke right now and you can't afford to pledge anything,
+
+459
+00:28:33,280 --> 00:28:37,760
+I also accept payment in the form of photographs of genitals.
+
+460
+00:28:37,760 --> 00:28:45,040
+I'm really kidding.
+
+461
+00:28:45,040 --> 00:28:48,560
+Please do not send me photographs of your genitals.
+

@@ -1,0 +1,267 @@
+Hello, everyone. Today, I'd like to talk about privatization,
+but more particularly about the difficulty of implementing the idea of privatization
+in a tightly controlled and regulated system.
+Now, fair warning here, this video is going to be relatively simple.
+Most of my regular viewers, I imagine, will already know most of this stuff.
+But this video is going to be the first, I hope, of a larger, semi-regular series
+in which I'll be giving a basic overview of various problems with capitalist economies.
+So I think it's best if we start off with some simpler concepts
+with clear real-world examples we can point to.
+So we're going to be talking about privatization and nationalization today.
+And so we should explain what those are.
+And very quickly here, to privatize a national system
+means to take a system that is owned and operated nationally
+and transfer that ownership and operation to private organizations.
+And nationalization is, of course, the reverse of that,
+to bring privately owned and operated services under state control.
+And so what are the benefits of privatizing a service?
+Well, the on-paper best-case-scenario pitch for privatization is as follows.
+Nationalized services are bloated and slow.
+The lack of competition means that there's no direct incentive
+to cut costs or deliver better services, since they have a monopoly.
+Privatized services, on the other hand, have a need to compete
+and therefore will offer the best service they can at the best price they can
+in order to maintain their share of the market.
+Privatization drives down operating costs
+and results in a blossoming of innovation and healthy profit-driven competition.
+That's what they say, anyway.
+This ideal runs into not insignificant problems
+when being brought into reality, however.
+And that's what we're going to talk about today.
+Now, I could just list all of the negative results
+of the privatization of British Rail right here,
+but that wouldn't be enough, really.
+We'll get to those later on.
+For now, with an eye towards the benefits of privatization that I just mentioned,
+how would you go about privatizing a rail network?
+So first off, let's think about the trains themselves.
+It's a good place to start as any, I suppose.
+The trains in the UK are not owned by the companies that run the trains,
+you might be surprised to hear.
+They're owned by what are called rolling stock companies,
+and these companies lease the trains to the train operating companies.
+And what's the problem with that, you might be thinking?
+That's just yet another wonderful level of free market choice.
+If the operating companies have different competing leasing companies
+vying to be the ones to lease the trains to them,
+that'll drive down costs and increase innovation
+and all the other things that are so great about privatization in theory, right?
+Well, it's a nice idea, but only that, unfortunately.
+The main problem here is that certain trains
+only work on certain parts of the rail network.
+There's no point in leasing high-speed trains
+if you only operate a small part of the network
+where those trains could never get up to full speed.
+If you own a high-speed track,
+there's no point running slow trains down it as they'll block the whole system.
+There's no point leasing big freight trains if you operate a passenger line.
+Certain electric trains use a faired rail.
+Others use overhead power lines.
+And obviously, you don't want to be leasing electric trains
+if your company operates an unelectrified section of track.
+And even the various faired rail and overhead lines in the country
+have different power configurations.
+All this means that the train operating companies
+don't really have much of a choice.
+It would be pointless for them to lease trains
+that do not work on the sections of track that they control.
+You know, they pretty much have to lease the one type of train
+that they can use on their tracks.
+So, welcome to the free markets.
+But, by the way, you're only able to buy one specific thing.
+Next up, let's consider the tracks.
+So, how would you go about running competing services
+on a freshly privatized rail network?
+Now, I don't like to do this,
+but I'm gonna make an assumption here.
+I'm going to assume that everyone watching this,
+even the most libertarian-minded among us,
+understand why running competing train services
+down the same tracks with no oversight would be a bad idea.
+And I'll probably include some footage of trains running into each other here,
+just to make the point a little more emphatically.
+But, yes, trains are big, heavy metal objects
+that carry soft, squishy, unsecured humans around very fast.
+You can't just have some company decide to start operating a train
+between two points and slip one onto the rail network, you know?
+So, how do we get around this problem?
+Well, the system in place in the UK is that various train operating companies
+bid to operate services on certain routes.
+And then, once that service has been claimed for a certain period,
+the operating company runs it exclusively.
+Now, the big problem with this method of running things
+is that it makes local competition virtually impossible.
+And since competition is supposed to be a main feature
+of this free-market privatization thing,
+that's kind of a major bug there.
+But what about innovation?
+That's supposed to be the other main feature, of course.
+The profit motive will drive innovation.
+The private companies will take one look at all the inherent problems
+in running a privatized rail network,
+and they'll just innovate their way around it.
+You know, these Randian supermen will find whole new ways to operate rail lines,
+ways impossible to think of in a sluggish, lazy, nationalized system.
+Now, the big problem here, if you can call it a problem, is regulation.
+The rail network is very heavily regulated.
+The railway rulebook is thick with mandates and controls,
+and for a very good reason.
+Without them, lots of people die.
+You know, this isn't mere red tape.
+Anyone thinking about getting into the train operating game
+will have to comply with these rules exactly.
+So what's the result here?
+Well, we have a system where operating companies are locked into providing
+a very specific service in a specific area for a specific time
+with no possibility for local competition or innovation.
+We've created a local monopoly here.
+A series of local monopolies, in fact, which,
+besides being counter to the free-market ideas
+behind the privatization in the first place,
+create a few other wider problems as well.
+So let's talk about those.
+First of all, slowdown.
+Now, slowdown, I hear you cry in shock.
+I thought it was the bloated, nationalized system
+with no profit motive to cut costs and times that was subject to slowdown.
+You know, instead of making money,
+they only had the weak, pathetic motive of operating a good service that benefits society.
+And well, regardless of the validity of that sentiment,
+when talking about railways specifically, the privatized system is no better.
+And I'll throw you a couple of scenarios here.
+Let's say a country with a nationalized rail service
+funded by taxes needs to make some change to the system.
+This can be in terms of maintenance, replacing and upgrading tracks,
+closing or moving stations, implementing new regulations, you know, whatever.
+Now, since the system is controlled by the government,
+they can relatively simply just go ahead and make the changes.
+In a privatized system, however, making changes is much more complex.
+Because of the fragmented nature of the privatized network,
+implementing a change means the government interfacing
+with potentially dozens of different private companies
+all responsible for different parts of the system,
+and all motivated not by making the process go smoothly or quickly, but by profit.
+This unnecessary level of complexity makes what should be relatively simple changes
+cost far more and run for far longer than they need to.
+And this problem doesn't stop with the railways either.
+Trains are just one part of a national transport system
+and they factor into decisions made regarding airports, cars, buses, and so on.
+A new track construction between two cities could affect the road network, for instance.
+New train stops need to be integrated with bus and tram systems.
+You know, when deciding upon long-term developments and allocating funds for them,
+all these different systems need to be considered together.
+Cost and time overruns in the rail network ripple out and affect the transport network at large.
+So it's not looking too good there for our hypothetical rail network.
+But let's turn now to our real-world example, British Rail.
+What have been the effects of the British government privatizing British Rail?
+Well, firstly, as it stands, the UK's rail network is incredibly expensive.
+This is both on the consumer end, where we're subjected to constantly increasing fare rises.
+A book I read while writing this video called The Transport Debate by John Shaw and Ian Doherty
+notes that a Glasgow to Edinburgh season ticket costs as much as buying an equivalent pass in
+Germany for the entire rail network.
+But this costliness is also on the state end,
+where we now spend much more money subsidizing the private rail network
+than it ever cost to run British Rail in its entirety.
+Which is pretty amazing, isn't it?
+You know, all this free market competition was supposed to drive down costs,
+and instead we have rising fares and subsidies.
+The Transport Debate also notes that it's very telling that our method of privatizing our rail
+network has not been adopted by any other EU country that studied it.
+You know, as you'd imagine it would be if it led to a better service or decreased costs.
+Now a big part of the current cost to the taxpayer is the budget for network rail,
+and I should briefly explain just what network rail is.
+After the UK rail system was privatized, the infrastructure of Britain's railways,
+that is, the tracks, the signalling system, tunnels, bridges and all that,
+it was all owned by Railtrack, which was a group of private companies created to oversee
+and maintain the rail infrastructure.
+I'm talking about Railtrack in the past tense here because, to make a long story short,
+they were rubbish at their jobs and they kept crashing the trains.
+Maintaining a rail network is a difficult and expensive undertaking,
+and Railtrack failed spectacularly,
+most publicly in the wake of the Hatfield rail crash on 17th of October of the year 2000,
+which killed four people and injured more than 70.
+The subsequent nationwide speed restrictions, safety inspections, rail replacements,
+not to mention the over 700 million pound bill for the costs and compensation associated
+with the Hatfield crash was the end of Railtrack, and it was replaced by Network Rail.
+Now, Network Rail is a nationalized company owned by the government,
+responsible for doing all the jobs that Railtrack was rubbish at.
+So, less than a decade after handing over the reins of railway management to private companies,
+the British government had to take them back in shame.
+The British taxpayer now pays through government subsidies to maintain the system
+on which the private companies run overpriced trains, all for their own profit.
+It's a pretty good swindle they have going on, to be honest.
+And perhaps the most shameful aspect to all this is that several of these companies
+running overpriced British trains in the UK are foreign state-owned train companies.
+For example, the trains that I regularly take from the station near my house are ran by Mersey Rail,
+which is a company owned by Dutch state-owned rail transport company Nederlandse Spoorwegen.
+Yikes, I butchered that.
+Um, elsewhere, Areva trains are owned by German Deutsche Bahn.
+The French own a large part of Southern Rail.
+Southwestern Railway is partly owned by the MTR Corporation,
+also known as Hong Kong Railway Corporation Limited.
+There's no prizes for guessing where they're from.
+Under this system, millions of pounds are flowing out of our country via these foreign companies,
+understandably exploiting our totally ridiculous decision to privatize the rail network.
+So I have a question.
+The problems with privatization seem obvious.
+Railways are inherently uncompetitive, and there is no way to prevent local monopolies forming.
+So why was the system privatized in the first place?
+Now, I could just say money here and end the video.
+That would be pretty funny.
+But it's a little deeper than that, actually.
+The privatization of British Rail was just one part of an ideological push
+towards an idea of free market individualism,
+typical of the era of Ronald Reagan and Margaret Thatcher.
+Which is why she got on Jen's wonderful thumbnail for this video,
+even though British Rail was actually privatized a few years later under John Major.
+It was privatization as ideology.
+Whether the changes actually made sense to implement or not
+didn't really matter.
+The individual is everything, and society...
+Well, society doesn't even exist, actually.
+Margaret Thatcher once said,
+There is no such thing as society.
+There are individual men and women, and there are families.
+Now, the problem with this line of thinking, obviously,
+is that it's a load of old shit.
+But it's not hard to see why people who think like that
+would be against public transportation and instead favor heavily the car.
+Yeah, which is very individualistic indeed.
+So that's my relatively obvious conclusion there.
+Privatizing the rail network was an ideologically driven attempt
+to enforce market conditions where they cannot exist.
+I'm hesitant to lay the blame at any one individual's feet, however,
+though there is a lot of blame to go around, you know.
+The Conservatives deserve blame for actually, you know, doing it.
+New Labour deserve blame for not undoing it.
+The rolling stock and train operating companies
+deserve their share of the blame as well.
+But there exists a larger problem than any one greedy CEO or corrupt politician,
+and it's a systemic problem.
+I've mentioned the profit motive a few times today,
+and that will probably factor into my next video in this vein.
+The need for private companies to profit and grow,
+and the need for the whole capitalist system to grow in turn,
+that deserves a closer look.
+Because as you run out of growth elsewhere,
+the privatization of public services starts to look more and more viable.
+So tune in next time where we'll be talking about capitalism's growth problem.
+Thanks a lot for watching everyone,
+and thanks for listening to me waffle about trains for a while.
+Another possible route for continuing the line of thought in this video,
+apart from talking about profit and growth,
+is to talk about the current state of the NHS,
+the UK's universal healthcare provider,
+which the current government is not so sneakily attempting to privatize,
+one slice at a time.
+So let me know what you think there.
+If you want more videos like this, shorter, more politics-oriented videos,
+let me know.
+Thanks as always to my supporters over on Patreon,
+who are all very nice.
+Look at all those amazing names there.
+So hop over and check out my Patreon if you like.
+Also you can send me a question on Curious Cat,
+or you could follow me on Twitter and retweet everything I ever say.
+That's it from me today folks.
+See you next time.

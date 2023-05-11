@@ -1,0 +1,2672 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello, everyone. Today, we're going to be talking about the death penalty, or capital punishment.
+
+2
+00:00:05,000 --> 00:00:06,600
+And we all know what that is, right?
+
+3
+00:00:06,600 --> 00:00:10,900
+When someone is killed by the state as punishment for a criminal act.
+
+4
+00:00:10,900 --> 00:00:13,500
+And I want to talk about this for a few reasons.
+
+5
+00:00:13,500 --> 00:00:18,300
+Firstly, while most countries around the world have either abolished capital punishment outright,
+
+6
+00:00:18,300 --> 00:00:22,000
+or only use it in very specific and rare circumstances,
+
+7
+00:00:22,000 --> 00:00:26,400
+much of the world's population still lives in countries that retain the death penalty.
+
+8
+00:00:26,400 --> 00:00:30,500
+Also, in countries that have abolished the death penalty, it can remain popular,
+
+9
+00:00:30,500 --> 00:00:33,000
+and its reintroduction is often argued for.
+
+10
+00:00:33,000 --> 00:00:39,400
+A 2017 YouGov survey found that more than half of Brexit Leave voters in the UK, for instance,
+
+11
+00:00:39,400 --> 00:00:42,100
+think that the death penalty should be brought back.
+
+12
+00:00:42,100 --> 00:00:46,800
+Another reason I want to talk about the death penalty today is because I've noticed that frequently,
+
+13
+00:00:46,800 --> 00:00:52,100
+when discussing the pros and cons of the death penalty, people tend to have the wrong argument.
+
+14
+00:00:52,100 --> 00:00:56,700
+And for an example of this, we're going to take a look at a typical pro-death penalty argument,
+
+15
+00:00:56,700 --> 00:01:01,100
+such as the one offered by Dennis Prager of PragerU in his video,
+
+16
+00:01:01,100 --> 00:01:05,900
+Is the Death Penalty Ever Moral, which I will link below in the video description.
+
+17
+00:01:05,900 --> 00:01:12,300
+In this video, Dennis Prager argues that criminals who do sufficiently horrible things should be put to death.
+
+18
+00:01:12,300 --> 00:01:17,900
+And he uses as an example the 2007 Cheshire, Connecticut home invasion murders,
+
+19
+00:01:17,900 --> 00:01:24,400
+during which two criminals broke into a family's house and murdered three people in a particularly brutal manner.
+
+20
+00:01:24,400 --> 00:01:29,000
+Dennis Prager's argument in favor of executing these men is an emotional argument,
+
+21
+00:01:29,000 --> 00:01:35,100
+and he appeals directly to the feelings of his audience, talking about things like a sense of justice,
+
+22
+00:01:35,100 --> 00:01:38,400
+the pain inflicted on the loved ones of those murdered,
+
+23
+00:01:38,400 --> 00:01:45,200
+and asks whether torturers, rapists, murderers, and evil men like them deserve to keep their lives.
+
+24
+00:01:45,200 --> 00:01:51,000
+And this sort of appeal to emotion is the main thrust of many pro-death penalty arguments.
+
+25
+00:01:51,000 --> 00:01:57,200
+Now, whether someone can forfeit the right to life with a sufficiently horrible action or series of actions
+
+26
+00:01:57,200 --> 00:02:04,600
+is a moral question, it's a philosophical question, and it's not a question that I'm going to be answering today.
+
+27
+00:02:04,600 --> 00:02:09,300
+If you believe that people who commit terrible crimes, such as Dennis Prager describes,
+
+28
+00:02:09,300 --> 00:02:14,700
+deserve in turn to lose their lives, I am not going to argue with you here.
+
+29
+00:02:14,700 --> 00:02:18,700
+In fact, we can proceed as if that is definitely true, if you like,
+
+30
+00:02:18,700 --> 00:02:25,700
+because regardless of how you feel about that question, it doesn't actually have anything to do with what we'll be talking about today,
+
+31
+00:02:25,700 --> 00:02:31,200
+which is whether the death penalty, as a practical process, should actually be carried out.
+
+32
+00:02:31,200 --> 00:02:39,500
+Is it possible for someone to lose the right to life is a different question to should society have the death penalty.
+
+33
+00:02:39,500 --> 00:02:43,500
+And I'm going to be arguing that no matter how you feel about the former question,
+
+34
+00:02:43,500 --> 00:02:46,600
+the answer to the latter question is no.
+
+35
+00:02:46,600 --> 00:02:53,200
+And if you disagree with that right now, all I ask is that you stick around for the rest of the video and hear me out.
+
+36
+00:02:53,200 --> 00:02:59,200
+Now, before we start, it is worth pointing out that many anti-death penalty arguments also appeal to emotion,
+
+37
+00:02:59,200 --> 00:03:02,700
+and I'm going to be trying to avoid those arguments going forward.
+
+38
+00:03:02,700 --> 00:03:07,400
+Reading or watching anti-death penalty arguments, you will often hear about, for example,
+
+39
+00:03:07,400 --> 00:03:13,300
+how the difficulty of securing the chemicals for lethal injections means that inferior chemicals can be used,
+
+40
+00:03:13,300 --> 00:03:17,900
+which can lead to drawn-out and painful or botched executions and so on.
+
+41
+00:03:17,900 --> 00:03:20,800
+Now, regardless of how any individual feels about that,
+
+42
+00:03:20,800 --> 00:03:26,600
+I don't see it being all that much of a convincing argument to someone who is currently in favor of the death penalty.
+
+43
+00:03:26,600 --> 00:03:30,500
+Since if you think a criminal did something so bad that they should be killed,
+
+44
+00:03:30,500 --> 00:03:34,900
+you probably don't care too much if they get hurt on the way out, right?
+
+45
+00:03:34,900 --> 00:03:41,300
+So as much as possible today, I'm going to be trying to avoid the emotional arguments and stick to the facts.
+
+46
+00:03:41,300 --> 00:03:45,300
+And to begin with here, let's stay with Dennis Prager's video for a while.
+
+47
+00:03:45,300 --> 00:03:51,300
+He opens his video by asserting that he just doesn't understand people who oppose the death penalty.
+
+48
+00:03:51,300 --> 00:03:57,400
+The gulf is unbridgeable, he says, between those of us who believe that some murderers should be put to death,
+
+49
+00:03:57,400 --> 00:04:00,900
+and those who believe that no murderer should ever be put to death.
+
+50
+00:04:00,900 --> 00:04:05,500
+Later, at the end of the video, he calls back to this opening paragraph, stating,
+
+51
+00:04:05,500 --> 00:04:11,300
+But if you really do believe these people deserve to keep their lives, well, as I said at the outset,
+
+52
+00:04:11,300 --> 00:04:13,100
+I don't understand you.
+
+53
+00:04:13,100 --> 00:04:18,500
+Now, these two quotes illustrate perfectly the disconnect I talked about a minute ago.
+
+54
+00:04:18,500 --> 00:04:23,100
+In the opening, Dennis Prager is talking about the process of people being put to death,
+
+55
+00:04:23,100 --> 00:04:29,500
+but at the end, he's talking about the philosophical question of whether those people deserve to keep their lives.
+
+56
+00:04:29,500 --> 00:04:33,300
+Two different questions, which he's treating as if they're the same.
+
+57
+00:04:33,300 --> 00:04:39,100
+In doing this, what Dennis Prager is missing is the possibility that someone could believe that criminals
+
+58
+00:04:39,100 --> 00:04:43,900
+who do the sorts of evil things he describes do deserve to lose their lives,
+
+59
+00:04:43,900 --> 00:04:48,700
+but that the death penalty is, separately to that, still a bad idea.
+
+60
+00:04:49,300 --> 00:04:54,700
+Oh! Well, the first thing is, there's crimes that the proper penalty is obviously death.
+
+61
+00:04:55,100 --> 00:04:58,900
+Obviously. Like, and I've read a lot about serial killers, for example.
+
+62
+00:04:58,900 --> 00:05:01,300
+I've read a lot of brutal material, you know.
+
+63
+00:05:01,300 --> 00:05:06,100
+I was very interested in criminology and antisocial behaviour, as well as political pathology.
+
+64
+00:05:06,100 --> 00:05:11,100
+It's like, there are guys like, I think it was John Wayne Gacy, who, yeah, you don't want to know about him.
+
+65
+00:05:11,700 --> 00:05:14,500
+I think he begged the judge for the death penalty.
+
+66
+00:05:14,500 --> 00:05:17,500
+He knew himself as like, there was no coming back from where he went.
+
+67
+00:05:17,500 --> 00:05:18,100
+Hmm.
+
+68
+00:05:18,100 --> 00:05:20,700
+So, but that's not the issue for me.
+
+69
+00:05:20,700 --> 00:05:24,900
+The issue is, do you give the state that much power?
+
+70
+00:05:24,900 --> 00:05:28,100
+And I would say, practically, no.
+
+71
+00:05:28,100 --> 00:05:30,300
+I think this is a very callous way of looking.
+
+72
+00:05:30,300 --> 00:05:33,500
+I think, in the United States, it costs $20 million to put someone to death.
+
+73
+00:05:33,500 --> 00:05:34,900
+It's like, why?
+
+74
+00:05:34,900 --> 00:05:38,500
+Well, because the state shouldn't just be able to do that easily.
+
+75
+00:05:38,500 --> 00:05:41,300
+And they make mistakes. Like, a lot of mistakes.
+
+76
+00:05:41,900 --> 00:05:45,300
+And so, maybe you just never want the state to have that much power.
+
+77
+00:05:45,300 --> 00:05:47,100
+And I think that's a reasonable argument.
+
+78
+00:05:47,100 --> 00:05:48,100
+Yeah, that's where...
+
+79
+00:05:48,100 --> 00:05:48,900
+I'm not comfortable with that.
+
+80
+00:05:48,900 --> 00:05:52,100
+That's where I'm at with it. I just don't want to give the state that power.
+
+81
+00:05:52,100 --> 00:05:58,500
+That was Jordan Peterson there, expressing to Dave Rubin his opinion that people can deserve to be killed,
+
+82
+00:05:58,700 --> 00:06:02,500
+but that he just doesn't trust the state to wield that much power.
+
+83
+00:06:02,500 --> 00:06:08,100
+And this is a common anti-death penalty argument made by anti-big government folks.
+
+84
+00:06:08,100 --> 00:06:13,900
+I picked a clip of Jordan Peterson there because he has been the narrator of multiple PragerU videos.
+
+85
+00:06:13,900 --> 00:06:18,300
+So if Dennis Prager would like to understand an anti-death penalty argument,
+
+86
+00:06:18,300 --> 00:06:21,100
+I suppose he could just ask Jordan Peterson.
+
+87
+00:06:21,100 --> 00:06:25,700
+Peterson's argument also reveals a contradiction in Prager's position,
+
+88
+00:06:25,700 --> 00:06:29,100
+and it's to do with the size and role of the government.
+
+89
+00:06:29,100 --> 00:06:32,900
+We all know how PragerU feels about the government, right?
+
+90
+00:06:32,900 --> 00:06:37,500
+And by the way, when does the government do a good job at fixing anything?
+
+91
+00:06:37,500 --> 00:06:40,900
+The bigger the government, the smaller the citizen.
+
+92
+00:06:40,900 --> 00:06:43,300
+Why is the government so bad at healthcare?
+
+93
+00:06:43,300 --> 00:06:45,700
+The government is killing small businesses.
+
+94
+00:06:45,700 --> 00:06:50,300
+Killing them with excessive taxes, over-regulation, and complicated compliance.
+
+95
+00:06:50,300 --> 00:06:55,500
+The worst environmental offenders have been big, repressive, socialist governments.
+
+96
+00:06:55,700 --> 00:07:00,300
+People in government will sell government influence for personal and political gain.
+
+97
+00:07:00,300 --> 00:07:03,300
+It's mired in bureaucracy, and it's fraught with waste.
+
+98
+00:07:03,300 --> 00:07:07,300
+The more a government tightens its grip, the less an economy grows.
+
+99
+00:07:07,300 --> 00:07:09,300
+So what's the solution?
+
+100
+00:07:09,300 --> 00:07:11,300
+Less government, not more.
+
+101
+00:07:11,300 --> 00:07:17,700
+Yes, the government is big, bloated, slow, corrupt, mired in red tape and regulations.
+
+102
+00:07:17,700 --> 00:07:22,300
+It's not fit to run the DMV, let alone a healthcare system.
+
+103
+00:07:22,300 --> 00:07:28,500
+And this is the government that Dennis Prager trusts to competently decide who deserves to live and die?
+
+104
+00:07:29,100 --> 00:07:30,300
+Why?
+
+105
+00:07:30,300 --> 00:07:35,300
+The same state bureaucracy that his other videos describe as inefficient and corrupt
+
+106
+00:07:35,300 --> 00:07:39,700
+is suddenly perfectly competent when it comes to sentencing the death penalty.
+
+107
+00:07:39,700 --> 00:07:46,100
+Is having the power to end the lives of its citizens not the ultimate example of big government?
+
+108
+00:07:46,100 --> 00:07:48,100
+Not to wonder off-topic too much here,
+
+109
+00:07:48,100 --> 00:07:53,500
+but this is an example of how most of the time, when people complain about the size of the government,
+
+110
+00:07:53,500 --> 00:07:58,700
+their arguments usually have very little to do with the actual size of the government.
+
+111
+00:07:58,700 --> 00:08:03,100
+In a less silly world, if someone claimed to be against big government,
+
+112
+00:08:03,100 --> 00:08:07,700
+we might assume that they support things like decreasing military spending,
+
+113
+00:08:07,700 --> 00:08:13,300
+ending wars, demilitarizing the police, reducing the number of people in prison,
+
+114
+00:08:13,300 --> 00:08:17,100
+and relevant for us here, being against the death penalty.
+
+115
+00:08:17,100 --> 00:08:20,300
+If you don't trust the government and want it to be smaller,
+
+116
+00:08:20,300 --> 00:08:23,900
+you probably shouldn't also want it to have an enormous army,
+
+117
+00:08:23,900 --> 00:08:28,500
+an armed police force, and power of life and death over its citizens.
+
+118
+00:08:28,500 --> 00:08:33,300
+Too often, though, people who complain about big government love all that stuff,
+
+119
+00:08:33,300 --> 00:08:40,100
+and what they actually mean when they say big government is solely government healthcare and welfare programs.
+
+120
+00:08:40,100 --> 00:08:41,900
+Anyway, to get back on track,
+
+121
+00:08:41,900 --> 00:08:45,300
+Dennis Prager has decided to break with PragerU tradition
+
+122
+00:08:45,300 --> 00:08:51,900
+and now totally trusts the government to judge and implement the death penalty fairly and accurately.
+
+123
+00:08:51,900 --> 00:08:57,700
+He says the number of innocent people who might be wrongly executed is infinitesimally small
+
+124
+00:08:57,700 --> 00:09:01,700
+thanks to DNA testing and other advanced forensic tools,
+
+125
+00:09:01,700 --> 00:09:05,700
+which make executing an innocent person virtually impossible.
+
+126
+00:09:05,700 --> 00:09:08,700
+The chance of executing an innocent person is, of course,
+
+127
+00:09:08,700 --> 00:09:13,500
+one of the most common and strongest arguments against the death penalty.
+
+128
+00:09:13,500 --> 00:09:18,100
+Because, obviously, if it comes to light that someone was wrongfully imprisoned,
+
+129
+00:09:18,100 --> 00:09:19,900
+they can be let out of prison,
+
+130
+00:09:19,900 --> 00:09:23,300
+but if it comes to light that someone was wrongfully executed,
+
+131
+00:09:23,300 --> 00:09:25,300
+that's it. They're dead.
+
+132
+00:09:25,300 --> 00:09:29,700
+Dennis Prager steps around this argument by saying our modern forensic tools
+
+133
+00:09:29,700 --> 00:09:33,900
+make it virtually impossible to execute an innocent person,
+
+134
+00:09:33,900 --> 00:09:35,900
+but he's missing something there.
+
+135
+00:09:35,900 --> 00:09:38,500
+He's making a rather big assumption.
+
+136
+00:09:38,500 --> 00:09:41,900
+Now, before we get into exactly what he is missing here,
+
+137
+00:09:41,900 --> 00:09:45,500
+let's first imagine an airtight murder case.
+
+138
+00:09:45,500 --> 00:09:48,700
+Let's say a husband and wife are walking down the street
+
+139
+00:09:48,700 --> 00:09:51,700
+when they're approached by a mugger armed with a gun.
+
+140
+00:09:51,700 --> 00:09:56,100
+And in the process of robbing the couple, he shoots and kills the wife.
+
+141
+00:09:56,100 --> 00:10:01,100
+The police are called, and based upon the description of the criminal given to the police by the husband,
+
+142
+00:10:01,100 --> 00:10:04,300
+they pick up a suspect near the scene of the crime.
+
+143
+00:10:04,300 --> 00:10:08,500
+When they bring the suspect to the husband, he says yes, that's him.
+
+144
+00:10:08,500 --> 00:10:11,100
+He's the person who shot my wife.
+
+145
+00:10:11,100 --> 00:10:14,700
+The police then arrest the suspect, and when they later question him,
+
+146
+00:10:14,700 --> 00:10:18,300
+he admits to the crime and signs a written confession saying,
+
+147
+00:10:18,300 --> 00:10:21,700
+yes, I did it. I'm the person who shot that woman.
+
+148
+00:10:22,300 --> 00:10:24,300
+So, case closed, right?
+
+149
+00:10:24,300 --> 00:10:27,100
+We have a positive identification of the murderer
+
+150
+00:10:27,100 --> 00:10:29,900
+from a witness who was a foot away when the crime was committed,
+
+151
+00:10:29,900 --> 00:10:34,500
+and a signed written confession from the murderer saying that they did it.
+
+152
+00:10:34,500 --> 00:10:37,100
+Few cases get more clear-cut than that.
+
+153
+00:10:37,100 --> 00:10:39,500
+So this case was an actual case.
+
+154
+00:10:39,500 --> 00:10:42,300
+The crime happened in May of the year 2000.
+
+155
+00:10:42,300 --> 00:10:46,500
+Two tourists from Georgia, that's the state, not the country,
+
+156
+00:10:46,500 --> 00:10:49,700
+were staying at a Ramada Inn in Jacksonville, Florida.
+
+157
+00:10:49,700 --> 00:10:52,700
+Outside of their hotel, they were approached by a criminal
+
+158
+00:10:52,700 --> 00:10:57,300
+who, in the process of mugging them, shot and killed Mary Ann Stevens.
+
+159
+00:10:57,300 --> 00:11:00,900
+Her husband, James Stevens, identified Brenton Butler,
+
+160
+00:11:00,900 --> 00:11:03,700
+who was picked up nearby by the police as the killer,
+
+161
+00:11:03,700 --> 00:11:06,900
+and Butler confessed to the murder during questioning.
+
+162
+00:11:06,900 --> 00:11:09,700
+However, as I imagine many of you already suspect,
+
+163
+00:11:09,700 --> 00:11:12,500
+there is more to this case than meets the eye.
+
+164
+00:11:12,500 --> 00:11:15,500
+Firstly, the husband of the victim was mistaken
+
+165
+00:11:15,500 --> 00:11:17,500
+in his identification of the criminal.
+
+166
+00:11:17,500 --> 00:11:19,300
+He just got the wrong guy.
+
+167
+00:11:19,300 --> 00:11:20,700
+And this is a thing that happens.
+
+168
+00:11:20,700 --> 00:11:22,500
+Witnesses make mistakes,
+
+169
+00:11:22,500 --> 00:11:26,900
+particularly witnesses who were just involved in a very traumatic experience.
+
+170
+00:11:26,900 --> 00:11:31,300
+But why, you might wonder, did the wrong guy confess to the crime?
+
+171
+00:11:31,300 --> 00:11:33,900
+Well, during the trial, Brenton Butler alleged
+
+172
+00:11:33,900 --> 00:11:37,100
+that the police physically abused him into confessing.
+
+173
+00:11:37,100 --> 00:11:41,700
+They allegedly, again, my lawyers reminding me to say,
+
+174
+00:11:41,700 --> 00:11:44,700
+physically intimidated him and hit him several times
+
+175
+00:11:44,700 --> 00:11:46,700
+until he confessed to the crime.
+
+176
+00:11:46,700 --> 00:11:49,700
+This is all the subject of a very interesting documentary
+
+177
+00:11:49,700 --> 00:11:51,700
+called Murder on a Sunday Morning,
+
+178
+00:11:51,700 --> 00:11:55,300
+which I would highly recommend if you want to know more about this case.
+
+179
+00:11:55,300 --> 00:11:57,500
+The film follows Butler's defense team,
+
+180
+00:11:57,500 --> 00:12:01,100
+two public defenders called Patrick McGinnis and Ann Finnell,
+
+181
+00:12:01,100 --> 00:12:03,900
+as they put together the case for Butler's innocence.
+
+182
+00:12:03,900 --> 00:12:06,700
+And they rarely tear the police apart in the courtroom
+
+183
+00:12:06,700 --> 00:12:10,100
+and expose their awful and incompetent investigation,
+
+184
+00:12:10,100 --> 00:12:12,100
+which is very satisfying to watch.
+
+185
+00:12:12,100 --> 00:12:15,700
+The police, for example, didn't even search Brenton Butler's house
+
+186
+00:12:15,700 --> 00:12:18,100
+looking for the items he supposedly stole
+
+187
+00:12:18,100 --> 00:12:21,500
+or interview his family members with regards to his whereabouts
+
+188
+00:12:21,500 --> 00:12:23,500
+at the time of the crime.
+
+189
+00:12:23,500 --> 00:12:26,100
+You knew you didn't have a gun.
+
+190
+00:12:26,100 --> 00:12:28,300
+You knew you didn't have a purse.
+
+191
+00:12:28,300 --> 00:12:30,300
+You knew you didn't have any money.
+
+192
+00:12:30,300 --> 00:12:33,300
+You knew you didn't have a fisherman's hat, right?
+
+193
+00:12:33,300 --> 00:12:34,500
+That's all correct.
+
+194
+00:12:34,500 --> 00:12:36,500
+Okay.
+
+195
+00:12:36,500 --> 00:12:38,500
+Did you ask Brent,
+
+196
+00:12:38,500 --> 00:12:40,500
+can I go search your house, your room?
+
+197
+00:12:40,500 --> 00:12:42,300
+No, sir, I did not.
+
+198
+00:12:42,300 --> 00:12:44,300
+Did you get a search warrant for his house?
+
+199
+00:12:44,300 --> 00:12:46,300
+No, sir, I did not.
+
+200
+00:12:46,300 --> 00:12:48,300
+You wanted to find a gun and a purse
+
+201
+00:12:48,300 --> 00:12:50,300
+and bloody clothes and everything else, right?
+
+202
+00:12:50,300 --> 00:12:52,300
+Yes, sir, it would have been nice.
+
+203
+00:12:52,300 --> 00:12:55,300
+So why not get a search warrant?
+
+204
+00:12:55,300 --> 00:12:57,300
+Well, we just didn't get a search warrant.
+
+205
+00:12:57,300 --> 00:12:59,300
+And it's not that hard to imagine
+
+206
+00:12:59,300 --> 00:13:02,300
+what allegedly happened here.
+
+207
+00:13:02,300 --> 00:13:05,300
+A tourist was shot and killed outside a hotel.
+
+208
+00:13:05,300 --> 00:13:09,300
+That is not a great headline for attracting more tourists to your town.
+
+209
+00:13:09,300 --> 00:13:11,300
+So there's a lot of pressure on the police
+
+210
+00:13:11,300 --> 00:13:14,300
+to solve that particular crime very quickly.
+
+211
+00:13:14,300 --> 00:13:17,300
+And here you have an eyewitness who has already identified someone
+
+212
+00:13:17,300 --> 00:13:20,300
+in your custody who they say did the crime.
+
+213
+00:13:20,300 --> 00:13:22,300
+And that someone is a teenager
+
+214
+00:13:22,300 --> 00:13:25,300
+who you just need to get to sign a piece of paper
+
+215
+00:13:25,300 --> 00:13:27,300
+to put this case away quickly.
+
+216
+00:13:27,300 --> 00:13:30,300
+So you make him sign the paper.
+
+217
+00:13:30,300 --> 00:13:32,300
+Allegedly.
+
+218
+00:13:32,300 --> 00:13:34,300
+And you don't go around investigating other things
+
+219
+00:13:34,300 --> 00:13:37,300
+that you know will make the case against him weaker.
+
+220
+00:13:37,300 --> 00:13:39,300
+So you don't search his house for the stolen items
+
+221
+00:13:39,300 --> 00:13:41,300
+that you know aren't there.
+
+222
+00:13:41,300 --> 00:13:43,300
+You don't interview potential alibis
+
+223
+00:13:43,300 --> 00:13:45,300
+who could get him off the hook.
+
+224
+00:13:45,300 --> 00:13:47,300
+You just pin everything on the witness ID
+
+225
+00:13:47,300 --> 00:13:49,300
+and the confession and hope that that's enough
+
+226
+00:13:49,300 --> 00:13:51,300
+to get the case across the line.
+
+227
+00:13:51,300 --> 00:13:54,300
+So you might ask why I'm talking about this particular case
+
+228
+00:13:54,300 --> 00:13:56,300
+in a video about the death penalty.
+
+229
+00:13:56,300 --> 00:13:59,300
+Butler was too young to be given the death penalty anyway,
+
+230
+00:13:59,300 --> 00:14:01,300
+even if he was found guilty,
+
+231
+00:14:01,300 --> 00:14:03,300
+so that wouldn't apply here.
+
+232
+00:14:03,300 --> 00:14:05,300
+And even if he was found guilty,
+
+233
+00:14:05,300 --> 00:14:07,300
+the real killer was later caught
+
+234
+00:14:07,300 --> 00:14:09,300
+when someone tipped the police off to who it was.
+
+235
+00:14:09,300 --> 00:14:12,300
+So Butler probably would have been let out anyway,
+
+236
+00:14:12,300 --> 00:14:14,300
+even if he was wrongly convicted.
+
+237
+00:14:14,300 --> 00:14:16,300
+But my point here is to show a case
+
+238
+00:14:16,300 --> 00:14:18,300
+in which the criminal justice system, or part of it,
+
+239
+00:14:18,300 --> 00:14:20,300
+in this case the police force,
+
+240
+00:14:20,300 --> 00:14:23,300
+could have a motivation to deliberately allow
+
+241
+00:14:23,300 --> 00:14:25,300
+an innocent person to be convicted
+
+242
+00:14:25,300 --> 00:14:27,300
+of a crime they did not commit.
+
+243
+00:14:27,300 --> 00:14:29,300
+This is what Dennis Prager misses
+
+244
+00:14:29,300 --> 00:14:31,300
+when discussing investigative techniques
+
+245
+00:14:31,300 --> 00:14:32,300
+and forensic tools.
+
+246
+00:14:32,300 --> 00:14:34,300
+Because yes, in many cases
+
+247
+00:14:34,300 --> 00:14:36,300
+we do have very powerful forensic tools.
+
+248
+00:14:36,300 --> 00:14:38,300
+But you also have to be able to trust
+
+249
+00:14:38,300 --> 00:14:40,300
+the people with those tools
+
+250
+00:14:40,300 --> 00:14:42,300
+not to lie.
+
+251
+00:14:42,300 --> 00:14:46,300
+And also to actually use the tools, I suppose.
+
+252
+00:14:46,300 --> 00:14:49,300
+What Prager leaves out is the human element.
+
+253
+00:14:49,300 --> 00:14:51,300
+The police will sometimes,
+
+254
+00:14:51,300 --> 00:14:53,300
+for example, plant evidence.
+
+255
+00:14:53,300 --> 00:14:55,300
+There was a case just recently in New York
+
+256
+00:14:55,300 --> 00:14:57,300
+where an officer was caught on camera
+
+257
+00:14:57,300 --> 00:14:59,300
+appearing to plant drugs in a car.
+
+258
+00:14:59,300 --> 00:15:01,300
+And this is similar to a case from last year
+
+259
+00:15:01,300 --> 00:15:03,300
+when a Florida police officer was arrested
+
+260
+00:15:03,300 --> 00:15:05,300
+after an investigation showed he repeatedly
+
+261
+00:15:05,300 --> 00:15:08,300
+planted meth on people during traffic stops.
+
+262
+00:15:08,300 --> 00:15:11,300
+Police will sometimes take bribes from criminals.
+
+263
+00:15:11,300 --> 00:15:13,300
+They will lie in court,
+
+264
+00:15:13,300 --> 00:15:15,300
+cover up for the crimes of other officers,
+
+265
+00:15:15,300 --> 00:15:18,300
+beat confessions out of innocent people, and so on.
+
+266
+00:15:18,300 --> 00:15:20,300
+Even if all cops are bastards
+
+267
+00:15:20,300 --> 00:15:22,300
+is a little too absolutist for you,
+
+268
+00:15:22,300 --> 00:15:24,300
+you have to admit that sometimes
+
+269
+00:15:24,300 --> 00:15:26,300
+some cops are bastards,
+
+270
+00:15:26,300 --> 00:15:29,300
+and some judges are bastards,
+
+271
+00:15:29,300 --> 00:15:31,300
+and some lawyers,
+
+272
+00:15:31,300 --> 00:15:33,300
+a lot of lawyers, are bastards.
+
+273
+00:15:33,300 --> 00:15:37,300
+Or incompetent, or lazy, or corrupt,
+
+274
+00:15:37,300 --> 00:15:39,300
+or just apathetic.
+
+275
+00:15:39,300 --> 00:15:41,300
+The accuracy of a particular
+
+276
+00:15:41,300 --> 00:15:43,300
+investigative technique or forensic method
+
+277
+00:15:43,300 --> 00:15:45,300
+is only one part of the calculation
+
+278
+00:15:45,300 --> 00:15:47,300
+we have to do when determining odds
+
+279
+00:15:47,300 --> 00:15:49,300
+of someone being innocent.
+
+280
+00:15:49,300 --> 00:15:51,300
+We also have to trust the justice system
+
+281
+00:15:51,300 --> 00:15:53,300
+not to lie, or cheat,
+
+282
+00:15:53,300 --> 00:15:55,300
+or just have made a mistake.
+
+283
+00:15:55,300 --> 00:15:58,300
+You can say DNA analysis of a piece of evidence
+
+284
+00:15:58,300 --> 00:16:00,300
+is almost perfectly accurate,
+
+285
+00:16:00,300 --> 00:16:02,300
+but it cannot tell you whether or not
+
+286
+00:16:02,300 --> 00:16:04,300
+that piece of evidence was planted
+
+287
+00:16:04,300 --> 00:16:05,300
+at the scene of a crime.
+
+288
+00:16:05,300 --> 00:16:07,300
+Now I'm not saying that's necessarily
+
+289
+00:16:07,300 --> 00:16:09,300
+going to be a very common occurrence,
+
+290
+00:16:09,300 --> 00:16:12,300
+don't get me wrong, but it is a possibility.
+
+291
+00:16:12,300 --> 00:16:14,300
+We have an imperfect justice system
+
+292
+00:16:14,300 --> 00:16:16,300
+run by imperfect people.
+
+293
+00:16:16,300 --> 00:16:20,300
+No one type of evidence is ever going to be flawless.
+
+294
+00:16:20,300 --> 00:16:22,300
+Even video evidence.
+
+295
+00:16:22,300 --> 00:16:24,300
+Dennis Prager in his video says
+
+296
+00:16:24,300 --> 00:16:26,300
+opponents of capital punishment
+
+297
+00:16:26,300 --> 00:16:28,300
+oppose the death penalty even when
+
+298
+00:16:28,300 --> 00:16:31,300
+there is absolute proof of the murderer's guilt.
+
+299
+00:16:31,300 --> 00:16:33,300
+If there were a video of a man
+
+300
+00:16:33,300 --> 00:16:34,300
+burning a family alive,
+
+301
+00:16:34,300 --> 00:16:36,300
+opponents of capital punishment
+
+302
+00:16:36,300 --> 00:16:38,300
+would still oppose taking that man's life.
+
+303
+00:16:38,300 --> 00:16:40,300
+Now the implication there is that
+
+304
+00:16:40,300 --> 00:16:42,300
+a video would be absolute proof of guilt.
+
+305
+00:16:42,300 --> 00:16:44,300
+But is it really?
+
+306
+00:16:44,300 --> 00:16:46,300
+This is a statement that's going to be
+
+307
+00:16:46,300 --> 00:16:48,300
+less and less true over time,
+
+308
+00:16:48,300 --> 00:16:50,300
+and that's simply because technological
+
+309
+00:16:50,300 --> 00:16:52,300
+advances mean that video is getting
+
+310
+00:16:52,300 --> 00:16:54,300
+easier and easier to fake.
+
+311
+00:16:54,300 --> 00:16:56,300
+It is getting harder to spot videos
+
+312
+00:16:56,300 --> 00:16:58,300
+that are authentic and videos
+
+313
+00:16:58,300 --> 00:17:00,300
+that were created in a computer.
+
+314
+00:17:00,300 --> 00:17:02,300
+Many of you will remember this video
+
+315
+00:17:02,300 --> 00:17:05,300
+from a few years ago of a fake Barack Obama
+
+316
+00:17:05,300 --> 00:17:07,300
+that was created in a computer
+
+317
+00:17:07,300 --> 00:17:09,300
+using an AI video tool.
+
+318
+00:17:09,300 --> 00:17:12,300
+Now the more observant folks in the audience
+
+319
+00:17:12,300 --> 00:17:15,300
+might still be able to tell this is fake,
+
+320
+00:17:15,300 --> 00:17:18,300
+you can see something seems a little off about it, right?
+
+321
+00:17:18,300 --> 00:17:23,300
+However, it is already eerily similar to the real thing, is it not?
+
+322
+00:17:23,300 --> 00:17:26,300
+And before long, it's going to be very difficult indeed
+
+323
+00:17:26,300 --> 00:17:28,300
+to tell the difference between authentic videos
+
+324
+00:17:28,300 --> 00:17:31,300
+and fake videos like this one.
+
+325
+00:17:31,300 --> 00:17:33,300
+And if you were led by my prompting there
+
+326
+00:17:33,300 --> 00:17:36,300
+to believe that this is a fake video of Barack Obama,
+
+327
+00:17:36,300 --> 00:17:38,300
+then we are already at that moment
+
+328
+00:17:38,300 --> 00:17:41,300
+because this is not a fake video of Barack Obama.
+
+329
+00:17:41,300 --> 00:17:43,300
+This is a real video of Barack Obama.
+
+330
+00:17:43,300 --> 00:17:47,300
+I just put a real video under the headline describing the fake one.
+
+331
+00:17:47,300 --> 00:17:50,300
+Anyway, me being a smart-ass aside,
+
+332
+00:17:50,300 --> 00:17:52,300
+while faked videos aren't a huge problem
+
+333
+00:17:52,300 --> 00:17:54,300
+for the legal system right now,
+
+334
+00:17:54,300 --> 00:17:58,300
+as the technology gets both more advanced and easier to use,
+
+335
+00:17:58,300 --> 00:18:01,300
+it very well could be a problem in the future.
+
+336
+00:18:01,300 --> 00:18:04,300
+And even with a non-fake video,
+
+337
+00:18:04,300 --> 00:18:07,300
+we can still imagine perfectly possible scenarios
+
+338
+00:18:07,300 --> 00:18:09,300
+in which executing a man based on video evidence
+
+339
+00:18:09,300 --> 00:18:13,300
+of him committing a crime would be a bad idea.
+
+340
+00:18:13,300 --> 00:18:16,300
+What if the man had off-screen accomplices in his crime?
+
+341
+00:18:16,300 --> 00:18:20,300
+If you kill him, you've got less of a chance of finding them, right?
+
+342
+00:18:20,300 --> 00:18:23,300
+What if the person doing the crime was someone who was coerced
+
+343
+00:18:23,300 --> 00:18:26,300
+or forced into it by some other person?
+
+344
+00:18:26,300 --> 00:18:28,300
+What if someone threatened to murder his family
+
+345
+00:18:28,300 --> 00:18:31,300
+unless he did the horrible thing on their behalf?
+
+346
+00:18:31,300 --> 00:18:34,300
+Again, as with a bribed judge or planted evidence,
+
+347
+00:18:34,300 --> 00:18:37,300
+I'm not saying that these things would be happening every day,
+
+348
+00:18:37,300 --> 00:18:39,300
+just that it is a possibility.
+
+349
+00:18:39,300 --> 00:18:43,300
+And no matter how unlikely, if you execute enough people,
+
+350
+00:18:43,300 --> 00:18:45,300
+you will eventually kill an innocent person.
+
+351
+00:18:45,300 --> 00:18:48,300
+So the pro-death penalty argument has to be
+
+352
+00:18:48,300 --> 00:18:53,300
+that killing the occasional innocent person is an acceptable risk,
+
+353
+00:18:53,300 --> 00:18:55,300
+because that risk is outweighed by the positives
+
+354
+00:18:55,300 --> 00:18:58,300
+that come from having the death penalty.
+
+355
+00:18:58,300 --> 00:19:02,300
+So, what are the positives to having the death penalty?
+
+356
+00:19:02,300 --> 00:19:05,300
+One you will often see proposed is cost.
+
+357
+00:19:05,300 --> 00:19:09,300
+Why should the taxpayer pay to feed and clothe some horrible murderer
+
+358
+00:19:09,300 --> 00:19:12,300
+who might live for another however many decades, right?
+
+359
+00:19:12,300 --> 00:19:16,300
+It would be better and cheaper to just kill them outright.
+
+360
+00:19:16,300 --> 00:19:19,300
+Well, in practice, this isn't actually true.
+
+361
+00:19:19,300 --> 00:19:21,300
+In the United States, for instance,
+
+362
+00:19:21,300 --> 00:19:25,300
+it is vastly more expensive to execute people than to imprison them for life.
+
+363
+00:19:25,300 --> 00:19:30,300
+Executing someone is a very complicated and slow legal process.
+
+364
+00:19:30,300 --> 00:19:34,300
+Some inmates spend more than 20 years on death row before being executed.
+
+365
+00:19:34,300 --> 00:19:38,300
+It's so slow because there are various stages of review and appeal
+
+366
+00:19:38,300 --> 00:19:41,300
+before the death penalty can actually be carried out.
+
+367
+00:19:41,300 --> 00:19:44,300
+Now, the obvious counterargument to this is to say,
+
+368
+00:19:44,300 --> 00:19:47,300
+well, what if we just sped that process up a little?
+
+369
+00:19:47,300 --> 00:19:51,300
+If we just executed people right after they were found guilty,
+
+370
+00:19:51,300 --> 00:19:53,300
+that massive expense would not exist, right?
+
+371
+00:19:53,300 --> 00:19:56,300
+And execution would be the cheaper option.
+
+372
+00:19:56,300 --> 00:19:59,300
+And the counterargument to this counterargument is that
+
+373
+00:19:59,300 --> 00:20:03,300
+the slow appeal and review process exists for a very good reason.
+
+374
+00:20:03,300 --> 00:20:06,300
+If you thought my proposed scenarios a minute ago
+
+375
+00:20:06,300 --> 00:20:09,300
+as to how an innocent person could end up being executed
+
+376
+00:20:09,300 --> 00:20:12,300
+sounded like ridiculous million-to-one shots,
+
+377
+00:20:12,300 --> 00:20:16,300
+then what you need is a real-life example.
+
+378
+00:20:16,300 --> 00:20:20,300
+So let's talk about the rather infamous case of Timothy Evans,
+
+379
+00:20:20,300 --> 00:20:23,300
+something I imagine some of you will know about already.
+
+380
+00:20:23,300 --> 00:20:28,300
+So, Timothy Evans was a Welshman who lived in London in 1949
+
+381
+00:20:28,300 --> 00:20:30,300
+with his wife and child.
+
+382
+00:20:30,300 --> 00:20:33,300
+And in November of 1949, he went to the police
+
+383
+00:20:33,300 --> 00:20:37,300
+and informed them that his wife, Beryl Evans, had died.
+
+384
+00:20:37,300 --> 00:20:40,300
+And the story he told police was that his wife was pregnant,
+
+385
+00:20:40,300 --> 00:20:44,300
+but since the couple thought they could not support another child,
+
+386
+00:20:44,300 --> 00:20:47,300
+they had taken up the proposal of their downstairs neighbor,
+
+387
+00:20:47,300 --> 00:20:51,300
+John Christie, who had offered to perform an abortion.
+
+388
+00:20:51,300 --> 00:20:53,300
+Christie apparently botched the abortion
+
+389
+00:20:53,300 --> 00:20:55,300
+and accidentally killed Beryl Evans.
+
+390
+00:20:55,300 --> 00:20:58,300
+Christie then persuaded Timothy Evans
+
+391
+00:20:58,300 --> 00:21:00,300
+to go and stay with relatives in Wales
+
+392
+00:21:00,300 --> 00:21:02,300
+while he disposed of Beryl Evans' body
+
+393
+00:21:02,300 --> 00:21:06,300
+and made arrangements for a couple to look after their daughter.
+
+394
+00:21:06,300 --> 00:21:08,300
+So, Timothy Evans went to Wales,
+
+395
+00:21:08,300 --> 00:21:11,300
+only to a few weeks later decide to go to the police
+
+396
+00:21:11,300 --> 00:21:14,300
+and tell them what had happened.
+
+397
+00:21:14,300 --> 00:21:17,300
+Only, when he first told the story to the police,
+
+398
+00:21:17,300 --> 00:21:19,300
+he left Christie out of it,
+
+399
+00:21:19,300 --> 00:21:22,300
+saying that he himself had been the one to dispose of his wife's body
+
+400
+00:21:22,300 --> 00:21:26,300
+and the one who arranged for his daughter to be looked after.
+
+401
+00:21:26,300 --> 00:21:29,300
+In response to this account, the police searched the place
+
+402
+00:21:29,300 --> 00:21:31,300
+where Evans said he had disposed of the body,
+
+403
+00:21:31,300 --> 00:21:34,300
+which was in a sewer drain, only to find there was no body there
+
+404
+00:21:34,300 --> 00:21:36,300
+and that lifting the drain cover
+
+405
+00:21:36,300 --> 00:21:39,300
+would have been physically impossible for a single man.
+
+406
+00:21:39,300 --> 00:21:42,300
+So Evans, when re-questioned, changed his story
+
+407
+00:21:42,300 --> 00:21:44,300
+and this time included Christie,
+
+408
+00:21:44,300 --> 00:21:47,300
+stating that he had previously been trying to protect Christie
+
+409
+00:21:47,300 --> 00:21:49,300
+by not mentioning him.
+
+410
+00:21:49,300 --> 00:21:52,300
+So Evans told the police that Christie was the one who hid the body
+
+411
+00:21:52,300 --> 00:21:55,300
+and arranged for his daughter to be looked after.
+
+412
+00:21:55,300 --> 00:21:57,300
+In response to this new account,
+
+413
+00:21:57,300 --> 00:22:00,300
+police searched the building where both Evans and Christie lived
+
+414
+00:22:00,300 --> 00:22:03,300
+and discovered in the wash house in the back garden
+
+415
+00:22:03,300 --> 00:22:05,300
+the bodies of not just Beryl Evans,
+
+416
+00:22:05,300 --> 00:22:08,300
+but also her daughter with Timothy Evans.
+
+417
+00:22:08,300 --> 00:22:10,300
+Both had been strangled to death.
+
+418
+00:22:10,300 --> 00:22:13,300
+When he was informed that his wife and daughter had been strangled,
+
+419
+00:22:13,300 --> 00:22:17,300
+Timothy Evans confessed to the crime.
+
+420
+00:22:17,300 --> 00:22:19,300
+Or... did he?
+
+421
+00:22:19,300 --> 00:22:22,300
+His questioning by the police produced a confession,
+
+422
+00:22:22,300 --> 00:22:25,300
+though he later stated in court that this confession was made
+
+423
+00:22:25,300 --> 00:22:28,300
+because he feared being subjected to violence by the police.
+
+424
+00:22:28,300 --> 00:22:31,300
+So, from the perspective of the police here,
+
+425
+00:22:31,300 --> 00:22:33,300
+a man came in and said his wife was dead
+
+426
+00:22:33,300 --> 00:22:37,300
+and then he told them multiple contradictory accounts of how it happened.
+
+427
+00:22:37,300 --> 00:22:40,300
+Most of the time, he is going to be the killer.
+
+428
+00:22:40,300 --> 00:22:43,300
+However, Timothy Evans was not the killer.
+
+429
+00:22:43,300 --> 00:22:46,300
+His wife and daughter were killed by John Christie.
+
+430
+00:22:46,300 --> 00:22:49,300
+There was no botched abortion or arranging for the daughter
+
+431
+00:22:49,300 --> 00:22:51,300
+to be sent elsewhere to be looked after.
+
+432
+00:22:51,300 --> 00:22:55,300
+John Christie murdered them both because he was a serial killer.
+
+433
+00:22:55,300 --> 00:22:59,300
+The things he told Timothy Evans about what had happened were lies.
+
+434
+00:22:59,300 --> 00:23:05,300
+However, John Christie was also a former War Reserve police officer.
+
+435
+00:23:05,300 --> 00:23:10,300
+This, coupled with the police clearly believing that Timothy Evans was obviously the killer,
+
+436
+00:23:10,300 --> 00:23:14,300
+led them to carry out an incredibly lazy investigation.
+
+437
+00:23:14,300 --> 00:23:16,300
+They know it's Timothy Evans,
+
+438
+00:23:16,300 --> 00:23:20,300
+so there's no need to investigate the crime scene all that well,
+
+439
+00:23:20,300 --> 00:23:25,300
+and we can take John Christie at his word since he used to be a copper just like us.
+
+440
+00:23:25,300 --> 00:23:28,300
+And if Timothy Evans won't confess to the crime,
+
+441
+00:23:28,300 --> 00:23:32,300
+we can just persuade him to confess to the crime,
+
+442
+00:23:32,300 --> 00:23:34,300
+if you know what I mean.
+
+443
+00:23:34,300 --> 00:23:35,300
+Wink.
+
+444
+00:23:35,300 --> 00:23:40,300
+This led the police to missing that John Christie had bodies of his prior victims
+
+445
+00:23:40,300 --> 00:23:44,300
+buried in shallow graves in his back garden,
+
+446
+00:23:44,300 --> 00:23:48,300
+so shallow that a dog was able to dig up one of the skulls,
+
+447
+00:23:48,300 --> 00:23:52,300
+and a thigh bone was later apparently found propping up his fence.
+
+448
+00:23:52,300 --> 00:23:56,300
+He also had multiple criminal convictions for theft and assault,
+
+449
+00:23:56,300 --> 00:23:59,300
+including attacking a woman with a cricket bat,
+
+450
+00:23:59,300 --> 00:24:02,300
+which was seemingly overlooked by the police.
+
+451
+00:24:02,300 --> 00:24:05,300
+Because of the police's rubbish investigation
+
+452
+00:24:05,300 --> 00:24:08,300
+and Timothy Evans' temporary confession to the crime,
+
+453
+00:24:08,300 --> 00:24:10,300
+however that came about,
+
+454
+00:24:10,300 --> 00:24:14,300
+Evans was put on trial for murder on the 11th of January 1950,
+
+455
+00:24:14,300 --> 00:24:16,300
+and was found guilty.
+
+456
+00:24:16,300 --> 00:24:20,300
+Executed on the 9th of March, less than three months later.
+
+457
+00:24:20,300 --> 00:24:23,300
+So the state executed an innocent man.
+
+458
+00:24:23,300 --> 00:24:27,300
+And this sounds like a ridiculous million-to-one shot, right?
+
+459
+00:24:27,300 --> 00:24:29,300
+What if it wasn't the husband,
+
+460
+00:24:29,300 --> 00:24:33,300
+and the downstairs neighbor is actually a scheming serial killer?
+
+461
+00:24:33,300 --> 00:24:38,300
+It sounds like paranoid fiction, and it is incredibly unlikely.
+
+462
+00:24:38,300 --> 00:24:40,300
+But things like this do happen,
+
+463
+00:24:40,300 --> 00:24:44,300
+and there are multiple things we should take into account regarding this case.
+
+464
+00:24:44,300 --> 00:24:50,300
+Firstly, it is a very good example of why it is an incredibly bad idea to execute people quickly.
+
+465
+00:24:50,300 --> 00:24:56,300
+All those slow reviews and appeals exist to catch exactly these sorts of mistakes.
+
+466
+00:24:56,300 --> 00:25:00,300
+Christie was caught three years later in 1953, for instance,
+
+467
+00:25:00,300 --> 00:25:04,300
+at which point, if Timothy Evans had not already been executed,
+
+468
+00:25:04,300 --> 00:25:06,300
+he could have been let out of prison.
+
+469
+00:25:06,300 --> 00:25:10,300
+So yes, the justice system could kill people faster,
+
+470
+00:25:10,300 --> 00:25:13,300
+but if you do that, you're going to make more mistakes.
+
+471
+00:25:13,300 --> 00:25:16,300
+So you have to be okay with killing more innocent people,
+
+472
+00:25:16,300 --> 00:25:19,300
+in order to make the process cheaper, I guess.
+
+473
+00:25:19,300 --> 00:25:24,300
+So you're basically killing innocent people for money at that point,
+
+474
+00:25:24,300 --> 00:25:28,300
+which sounds like the opposite of something the justice system should be doing.
+
+475
+00:25:28,300 --> 00:25:33,300
+Next up, killing an innocent person is only half the crime here.
+
+476
+00:25:33,300 --> 00:25:35,300
+Because the justice system got the wrong guy,
+
+477
+00:25:35,300 --> 00:25:37,300
+the actual killer was still out there,
+
+478
+00:25:37,300 --> 00:25:41,300
+and John Christie killed four more people before he was caught.
+
+479
+00:25:42,300 --> 00:25:44,300
+Timothy Evans could have been a witness
+
+480
+00:25:44,300 --> 00:25:48,300
+that helped to bring Christie to justice years earlier than he was.
+
+481
+00:25:48,300 --> 00:25:53,300
+Instead, he was wrongfully executed, and Christie went on to kill again.
+
+482
+00:25:53,300 --> 00:25:56,300
+So this is my answer to the cost of the death penalty.
+
+483
+00:25:56,300 --> 00:25:59,300
+You can do it quick, cheap, and bad,
+
+484
+00:25:59,300 --> 00:26:02,300
+or you can do it slow and expensive.
+
+485
+00:26:02,300 --> 00:26:07,300
+The question is how many innocent people you're willing to risk accidentally killing.
+
+486
+00:26:07,300 --> 00:26:10,300
+According to the Death Penalty Information Center,
+
+487
+00:26:10,300 --> 00:26:12,300
+in the United States, for instance,
+
+488
+00:26:12,300 --> 00:26:15,300
+more than 160 people on death row
+
+489
+00:26:15,300 --> 00:26:19,300
+were later found to be wrongfully convicted and were exonerated.
+
+490
+00:26:19,300 --> 00:26:21,300
+And they're just the ones who have been found.
+
+491
+00:26:21,300 --> 00:26:24,300
+Remember, the actual number of wrongfully convicted people
+
+492
+00:26:24,300 --> 00:26:26,300
+is likely much higher than that.
+
+493
+00:26:26,300 --> 00:26:29,300
+And let's look at some of the reasons for those exonerations.
+
+494
+00:26:29,300 --> 00:26:32,300
+False or misleading forensic evidence,
+
+495
+00:26:32,300 --> 00:26:36,300
+official misconduct, perjury or false accusation,
+
+496
+00:26:36,300 --> 00:26:40,300
+inadequate legal defense, mistaken witness identification,
+
+497
+00:26:40,300 --> 00:26:46,300
+these supposedly very unlikely scenarios happen much more often than we might like to admit.
+
+498
+00:26:46,300 --> 00:26:52,300
+Anyway, the next pro-death penalty argument I want to take a look at is deterrence.
+
+499
+00:26:52,300 --> 00:26:55,300
+The death penalty is worth its various downsides.
+
+500
+00:26:55,300 --> 00:26:57,300
+It's argued because it deters crime.
+
+501
+00:26:57,300 --> 00:27:02,300
+Now, the big problem with this argument is that there isn't any evidence for it.
+
+502
+00:27:02,300 --> 00:27:07,300
+For instance, comparing between states within the US that have the death penalty and those that don't,
+
+503
+00:27:07,300 --> 00:27:13,300
+there is no positive correlation between having the death penalty and a lowered rate of crime.
+
+504
+00:27:13,300 --> 00:27:16,300
+And for countries that have abolished the death penalty,
+
+505
+00:27:16,300 --> 00:27:20,300
+there is no evidence that doing so caused the crime rate to rise.
+
+506
+00:27:20,300 --> 00:27:24,300
+So that's it for this argument, right? There's no evidence.
+
+507
+00:27:24,300 --> 00:27:27,300
+However, leaving things there would be a bit of a mistake.
+
+508
+00:27:27,300 --> 00:27:33,300
+There is a relatively good death penalty argument to be made here with regard to deterrence.
+
+509
+00:27:33,300 --> 00:27:35,300
+And I compiled this from various sources,
+
+510
+00:27:35,300 --> 00:27:41,300
+but primarily from the pro-death penalty arguments contained within the book debating the death penalty.
+
+511
+00:27:41,300 --> 00:27:45,300
+So let's do the relatively good death penalty argument.
+
+512
+00:27:45,300 --> 00:27:48,300
+And if I appeared on camera during these videos,
+
+513
+00:27:48,300 --> 00:27:54,300
+this is the point where I'd burst through the door wearing a hat and a fake mustache and proceed to argue with myself in character.
+
+514
+00:27:55,300 --> 00:27:59,300
+But since I'm not much of an actor, we'll all just have to use our imaginations.
+
+515
+00:27:59,300 --> 00:28:01,300
+So, the argument goes like this.
+
+516
+00:28:01,300 --> 00:28:05,300
+The death penalty deters crime, to which the response is,
+
+517
+00:28:05,300 --> 00:28:08,300
+no it doesn't, there's no evidence for that.
+
+518
+00:28:08,300 --> 00:28:16,300
+But, we respond, the death penalty would deter crime, it would, had it not been so weakened.
+
+519
+00:28:16,300 --> 00:28:20,300
+There's no evidence of deterrence under our current system, sure,
+
+520
+00:28:20,300 --> 00:28:25,300
+but under our current system, only very small amounts of crimes are eligible for the death penalty,
+
+521
+00:28:25,300 --> 00:28:30,300
+only a very small number of those cases actually result in a death penalty sentence,
+
+522
+00:28:30,300 --> 00:28:32,300
+many of those are later overturned,
+
+523
+00:28:32,300 --> 00:28:36,300
+and the legal process between arrest and execution takes years.
+
+524
+00:28:36,300 --> 00:28:39,300
+Of course, that system isn't deterring anyone,
+
+525
+00:28:39,300 --> 00:28:47,300
+because the odds of getting executed are too low, it happens too slowly, it's too abstract to be a good deterrent.
+
+526
+00:28:47,300 --> 00:28:55,300
+If we want the death penalty to discourage anyone, it needs to be used more often, faster, and for a wider variety of crimes.
+
+527
+00:28:55,300 --> 00:28:59,300
+For instance, we'll execute someone for killing one other person in a robbery,
+
+528
+00:28:59,300 --> 00:29:02,300
+but not a banker who defrauds thousands of people,
+
+529
+00:29:02,300 --> 00:29:06,300
+or a politician who starts a war that kills hundreds of thousands.
+
+530
+00:29:06,300 --> 00:29:11,300
+Now, the obvious response to increased use of the death penalty, as we talked about just previously,
+
+531
+00:29:11,300 --> 00:29:14,300
+is that you're gonna execute more innocent people,
+
+532
+00:29:14,300 --> 00:29:16,300
+and to that, we say,
+
+533
+00:29:16,300 --> 00:29:19,300
+the state accidentally kills innocent people all the time.
+
+534
+00:29:19,300 --> 00:29:26,300
+If we build a new fire station, then on a long enough timescale, someone is eventually gonna be hit by one of its fire trucks and killed.
+
+535
+00:29:26,300 --> 00:29:31,300
+If we build a new motorway between two cities, there will inevitably be a fatal traffic accident on it.
+
+536
+00:29:31,300 --> 00:29:35,300
+The innocent people killed by the death penalty are no different,
+
+537
+00:29:35,300 --> 00:29:40,300
+to which the response is that those things provide useful societal benefits.
+
+538
+00:29:40,300 --> 00:29:44,300
+We accept the downsides because they're outweighed by the positives,
+
+539
+00:29:44,300 --> 00:29:47,300
+to which we say, so will the death penalty.
+
+540
+00:29:47,300 --> 00:29:54,300
+With all the crime, it will definitely deter if only you loosen up a little and start using it appropriately,
+
+541
+00:29:54,300 --> 00:29:56,300
+by which we mean a lot.
+
+542
+00:29:56,300 --> 00:30:03,300
+I like this argument because it's at least honest about the fact that the death penalty will kill innocent people,
+
+543
+00:30:03,300 --> 00:30:06,300
+and I find the bit about the bankers particularly persuasive.
+
+544
+00:30:07,300 --> 00:30:12,300
+Unfortunately, it falls apart upon examination, so here's why I don't agree with it.
+
+545
+00:30:12,300 --> 00:30:17,300
+The more substantial response to the accidental societal deaths argument is that,
+
+546
+00:30:17,300 --> 00:30:21,300
+with regards to the potential benefits of the death penalty,
+
+547
+00:30:21,300 --> 00:30:25,300
+the burden of proof is on the people arguing for it.
+
+548
+00:30:25,300 --> 00:30:31,300
+It's easy to prove that having a fire department, for instance, is a good idea with obvious societal benefits.
+
+549
+00:30:31,300 --> 00:30:35,300
+If we want the death penalty to be seen in the same way, it's on us to prove it.
+
+550
+00:30:35,300 --> 00:30:39,300
+With something so final as the state killing a person,
+
+551
+00:30:39,300 --> 00:30:44,300
+you can't just say it might have benefits without the evidence to back that up.
+
+552
+00:30:44,300 --> 00:30:50,300
+And faced with a lack of evidence, we may as well take the course of action that is later reversible,
+
+553
+00:30:50,300 --> 00:30:52,300
+rather than the one that is permanent.
+
+554
+00:30:52,300 --> 00:30:57,300
+We can let innocent people out of prison, but we can't raise the dead.
+
+555
+00:30:57,300 --> 00:31:03,300
+Additionally, another big problem with the deterrence argument is that it assumes a lucid murderer.
+
+556
+00:31:03,300 --> 00:31:10,300
+The sort of calculating criminals you see killing for personal profits in shows like Columbo and so on.
+
+557
+00:31:10,300 --> 00:31:14,300
+In reality, though, not many would-be killers are sitting in front of a spreadsheet
+
+558
+00:31:14,300 --> 00:31:18,300
+working out the odds of getting caught and the punishment they're likely to face
+
+559
+00:31:18,300 --> 00:31:21,300
+versus the benefits of doing a murder.
+
+560
+00:31:21,300 --> 00:31:25,300
+Hitmen, maybe, but they're not actually all that common.
+
+561
+00:31:25,300 --> 00:31:31,300
+Most murders are unplanned and carried out impulsively without thought for the future.
+
+562
+00:31:31,300 --> 00:31:36,300
+And for many of the worst criminals, say mass killers, serial killers and the likes,
+
+563
+00:31:36,300 --> 00:31:40,300
+they either fully expect to be killed by the police or themselves,
+
+564
+00:31:40,300 --> 00:31:45,300
+or they think they'll never be caught, or they don't care about being caught.
+
+565
+00:31:45,300 --> 00:31:48,300
+No legal punishment is going to deter those people.
+
+566
+00:31:48,300 --> 00:31:52,300
+If we do assume a lucid calculating criminal, though,
+
+567
+00:31:52,300 --> 00:31:54,300
+the sort of criminal who would think,
+
+568
+00:31:54,300 --> 00:31:58,300
+well, I don't mind doing life in prison, but I really don't want the death penalty,
+
+569
+00:31:58,300 --> 00:32:04,300
+then we run into a contradiction when we propose expanding the death penalty to crimes other than murder.
+
+570
+00:32:04,300 --> 00:32:07,300
+And it's a rather dangerous contradiction.
+
+571
+00:32:07,300 --> 00:32:12,300
+You see, the problem is, if we make the penalty for robbery, say, the same as for murder,
+
+572
+00:32:12,300 --> 00:32:15,300
+then our calculating criminal who just rubbed someone will think,
+
+573
+00:32:15,300 --> 00:32:21,300
+well, since the punishment is the same either way, I may as well just murder them now
+
+574
+00:32:21,300 --> 00:32:27,300
+because I have less chance of getting caught if the witness can't identify me on account of being dead.
+
+575
+00:32:27,300 --> 00:32:32,300
+Expanding the death penalty to other crimes will turn a lot of those crimes into murders,
+
+576
+00:32:32,300 --> 00:32:35,300
+assuming our calculating criminals exist anyway.
+
+577
+00:32:35,300 --> 00:32:38,300
+Hardly anyone thinks like this, of course,
+
+578
+00:32:38,300 --> 00:32:44,300
+but the fact that hardly anyone thinks like this is why the deterrence argument doesn't really work.
+
+579
+00:32:44,300 --> 00:32:51,300
+Most murderers aren't thinking logically about the future, because most murderers aren't thinking logically.
+
+580
+00:32:51,300 --> 00:32:54,300
+If they were, they probably wouldn't be murdering someone.
+
+581
+00:32:54,300 --> 00:33:00,300
+There is also a problem with the idea of expanding the death penalty to financial and corporate crimes,
+
+582
+00:33:00,300 --> 00:33:02,300
+as nice as that might sound.
+
+583
+00:33:02,300 --> 00:33:04,300
+And the problem is wealth inequality.
+
+584
+00:33:04,300 --> 00:33:07,300
+Money can buy better legal representation.
+
+585
+00:33:07,300 --> 00:33:10,300
+You can say this or that crime should have the death penalty,
+
+586
+00:33:10,300 --> 00:33:15,300
+but it's still the poor who are gonna be the ones receiving the majority of the death penalties.
+
+587
+00:33:15,300 --> 00:33:19,300
+Remedying that problem would take doing away with economic inequality,
+
+588
+00:33:19,300 --> 00:33:25,300
+which funnily enough would definitely do a lot more to lower the crime rate than any possible punishment would do.
+
+589
+00:33:25,300 --> 00:33:30,300
+More equal societies have a lower crime rate, after all.
+
+590
+00:33:30,300 --> 00:33:33,300
+Anyway, to loop back to Dennis Prager here,
+
+591
+00:33:33,300 --> 00:33:38,300
+he doesn't make the cost argument in his video, nor does he make the deterrence argument,
+
+592
+00:33:38,300 --> 00:33:41,300
+and that is a smart decision on his part.
+
+593
+00:33:41,300 --> 00:33:46,300
+Both of those arguments are easily countered with evidence, after all.
+
+594
+00:33:46,300 --> 00:33:51,300
+The death penalty is very expensive, and there is no evidence of it deterring crime.
+
+595
+00:33:51,300 --> 00:33:55,300
+These are things that you can show with, like, statistics.
+
+596
+00:33:55,300 --> 00:34:03,300
+So Dennis Prager wisely pins his whole case for the death penalty on the one argument which is difficult to disprove with statistics,
+
+597
+00:34:03,300 --> 00:34:06,300
+which is, how do you feel about it?
+
+598
+00:34:06,300 --> 00:34:13,300
+When someone does something terrible, don't you feel like they should face some equally terrible consequence?
+
+599
+00:34:13,300 --> 00:34:17,300
+And what about the pain inflicted on the loved ones of those murdered?
+
+600
+00:34:17,300 --> 00:34:22,300
+For most people, their suffering is immeasurably increased,
+
+601
+00:34:22,300 --> 00:34:25,300
+knowing that the person who murdered their family member or friend,
+
+602
+00:34:25,300 --> 00:34:33,300
+and who in many cases inflicted unimaginable terror, is alive and being cared for.
+
+603
+00:34:33,300 --> 00:34:37,300
+Of course, putting the murderer to death doesn't bring back their loved one,
+
+604
+00:34:37,300 --> 00:34:40,300
+but it sure does provide some sense of justice.
+
+605
+00:34:40,300 --> 00:34:45,300
+So, this is the other argument for the death penalty, the closure argument.
+
+606
+00:34:45,300 --> 00:34:52,300
+The death penalty provides the victim's loved ones with a sense of justice, or closure, or healing, or so on.
+
+607
+00:34:52,300 --> 00:34:54,300
+But is this actually true?
+
+608
+00:34:54,300 --> 00:34:57,300
+Now, you can't speak for every victim's family and friends, of course.
+
+609
+00:34:57,300 --> 00:34:59,300
+Different people are going to react differently.
+
+610
+00:34:59,300 --> 00:35:06,300
+Dennis Prager uses the example of one man who wants the death penalty for the men who killed his family members, for instance.
+
+611
+00:35:06,300 --> 00:35:12,300
+On the other hand, it is trivial to find examples of murder victims' families who oppose the death penalty.
+
+612
+00:35:12,300 --> 00:35:18,300
+For instance, the organization Murder Victims' Families for Human Rights, who...
+
+613
+00:35:18,300 --> 00:35:20,300
+Well, you know, you get it from the title, I imagine.
+
+614
+00:35:20,300 --> 00:35:24,300
+They're family members of murder victims who oppose the death penalty.
+
+615
+00:35:24,300 --> 00:35:26,300
+And that organization's website says,
+
+616
+00:35:27,300 --> 00:35:29,300
+Having all suffered a tragic loss,
+
+617
+00:35:29,300 --> 00:35:33,300
+murder victims' families for human rights members have come in different ways and times
+
+618
+00:35:33,300 --> 00:35:37,300
+to the understanding that the death penalty does not help us heal,
+
+619
+00:35:37,300 --> 00:35:40,300
+and is not the way to pursue justice for victims.
+
+620
+00:35:40,300 --> 00:35:45,300
+The death penalty, as a sentence, does not provide closure.
+
+621
+00:35:45,300 --> 00:35:49,300
+It's not carried out for a very long time, for a start.
+
+622
+00:35:49,300 --> 00:35:53,300
+Someone sentenced today might not be killed until 2040.
+
+623
+00:35:53,300 --> 00:35:58,300
+That's decades of them being alive and cared for, as Dennis Prager put it.
+
+624
+00:35:58,300 --> 00:36:01,300
+And rather than providing a sense of finality,
+
+625
+00:36:01,300 --> 00:36:06,300
+it is easier to imagine a death penalty sentence giving a sense of uncertainty.
+
+626
+00:36:06,300 --> 00:36:10,300
+Because it isn't a certain thing that the murderer will be executed.
+
+627
+00:36:10,300 --> 00:36:14,300
+Many sentences are later changed to life imprisonment, after all.
+
+628
+00:36:14,300 --> 00:36:21,300
+And remember that lengthy review and appeal process where the case is reexamined and often retried?
+
+629
+00:36:21,300 --> 00:36:25,300
+How would you imagine loved ones of murder victims are gonna feel about that?
+
+630
+00:36:25,300 --> 00:36:31,300
+Particularly if they were witnesses to the crime, which means they're gonna have to be directly involved in that whole process.
+
+631
+00:36:31,300 --> 00:36:35,300
+Having all the details brought up over and over again and so on.
+
+632
+00:36:35,300 --> 00:36:41,300
+With a sentence of life in prison, the families of victims know where they're at immediately.
+
+633
+00:36:41,300 --> 00:36:44,300
+But with the death penalty, they really don't.
+
+634
+00:36:44,300 --> 00:36:48,300
+They're in for years of wondering what's actually going to happen.
+
+635
+00:36:48,300 --> 00:36:53,300
+Rather than providing a sense of closure, the death penalty actually delays that closure.
+
+636
+00:36:53,300 --> 00:36:57,300
+And I'd like to briefly mention a study just to back this up somewhat.
+
+637
+00:36:57,300 --> 00:37:04,300
+Assessing the impact of the ultimate penal sanction on homicide survivors, a two-state comparison.
+
+638
+00:37:04,300 --> 00:37:07,300
+And let's briefly read the summary of that study.
+
+639
+00:37:07,300 --> 00:37:11,300
+Numerous studies have examined the psychological...
+
+640
+00:37:13,300 --> 00:37:17,300
+...ramifications that result from the murder of a loved one.
+
+641
+00:37:17,300 --> 00:37:25,300
+Except for the death penalty, however, sparse attention has been paid to the impact of the murderous sentence on homicide survivors' well-being.
+
+642
+00:37:25,300 --> 00:37:31,300
+Given the steadfastness of the public's opinion that the death penalty brings satisfaction and closure to survivors,
+
+643
+00:37:31,300 --> 00:37:39,300
+it is surprising that there has been no systematic inquiry directly with survivors about whether obtaining the ultimate punishment affects their healing.
+
+644
+00:37:39,300 --> 00:37:51,300
+This study used in-person interviews with a randomly selected sample of survivors from four time periods to examine the totality of the ultimate penal sanction process and its longitudinal impact on their lives.
+
+645
+00:37:51,300 --> 00:38:03,300
+Moreover, it assessed the differential effect of two types of UPS by comparing survivors' experiences in Texas, a death penalty state, and Minnesota, a life without the possibility of parole state.
+
+646
+00:38:03,300 --> 00:38:12,300
+Comparing states highlights differences primarily during the post-conviction stage, specifically with respect to the appeals process and in regard to survivor well-being.
+
+647
+00:38:12,300 --> 00:38:19,300
+In Minnesota, survivors of adjudicated cases showed higher levels of physical, psychological, and behavioral health.
+
+648
+00:38:19,300 --> 00:38:23,300
+This study's findings have implications for trial strategy and policy development.
+
+649
+00:38:23,300 --> 00:38:31,300
+So, at least in the case of this study, it looks like the death penalty is not providing the sense of closure that people might expect it to.
+
+650
+00:38:31,300 --> 00:38:35,300
+And I'll post a link to this below in case anyone wants to read it in more detail.
+
+651
+00:38:35,300 --> 00:38:42,300
+Dennis Prager ends his video by saying that he does not understand the other side of the death penalty argument,
+
+652
+00:38:42,300 --> 00:38:45,300
+which, you know, should have gone without saying, really.
+
+653
+00:38:45,300 --> 00:38:50,300
+But I'd like to end today by saying that I do understand the pro-death penalty argument.
+
+654
+00:38:50,300 --> 00:38:58,300
+I understand the desire for some sense of ultimate justice with regards to the sorts of awful murderers we've been talking about.
+
+655
+00:38:58,300 --> 00:39:01,300
+I live in England, where we do not have the death penalty.
+
+656
+00:39:01,300 --> 00:39:11,300
+But I imagine that if someone murdered my family or friends, I would, in that moment, want that person to suffer every possible punishment, up to and including the death penalty.
+
+657
+00:39:11,300 --> 00:39:14,300
+But that's just what I would personally want in the moment.
+
+658
+00:39:14,300 --> 00:39:19,300
+Nothing would have changed with regards to anything else we've been talking about today.
+
+659
+00:39:20,300 --> 00:39:29,300
+Instituting the death penalty because I want it in the one case would set the precedent for the state to execute people for other reasons that I might not agree with.
+
+660
+00:39:29,300 --> 00:39:35,300
+And it would reopen the door to the possibility of innocent people being wrongfully executed.
+
+661
+00:39:35,300 --> 00:39:41,300
+And that is ultimately a worse crime than me, as an individual, not getting what I want.
+
+662
+00:39:42,300 --> 00:39:44,300
+Thanks a lot for watching, folks.
+
+663
+00:39:44,300 --> 00:39:46,300
+What do you think about the death penalty?
+
+664
+00:39:46,300 --> 00:39:54,300
+Be sure to scroll down to the comment box and write all of your opinions in a YouTube comment, which I will definitely be sure to read.
+
+665
+00:39:54,300 --> 00:40:00,300
+Thanks, as always, to my backers over on Patreon, some of whom should be scrolling by right now.
+
+666
+00:40:00,300 --> 00:40:06,300
+Thanks to them not only for their financial support, but also for all of their very useful feedback.
+
+667
+00:40:06,300 --> 00:40:13,300
+And if you'd like to help me out in making more videos like this, consider having a peek at the Patreon link I will leave below.
+
+668
+00:40:13,300 --> 00:40:17,300
+Right, that's all from me today, folks. I'll see you next time.
+

@@ -1,0 +1,1412 @@
+1
+00:00:00,000 --> 00:00:05,960
+Hello, everyone. This is a review of the Ghostbusters reboot movie that came out this year.
+
+2
+00:00:05,960 --> 00:00:11,240
+Now, I just watched this movie recently, and it was a little bit rubbish, to be honest.
+
+3
+00:00:11,240 --> 00:00:14,060
+Was it the worst movie ever made?
+
+4
+00:00:14,800 --> 00:00:23,260
+No. It had a lot of problems, but there were a few things I liked about it, too, so I guess overall I'd call it mediocre.
+
+5
+00:00:23,260 --> 00:00:26,600
+And that's not a good place to be for a comedy movie.
+
+6
+00:00:26,600 --> 00:00:33,200
+I mean, something either makes you laugh, or it doesn't, and for the most part, this movie just didn't make me laugh.
+
+7
+00:00:33,700 --> 00:00:37,600
+Now, the original 1984 Ghostbusters movie was really good,
+
+8
+00:00:37,600 --> 00:00:44,100
+and the new movie is, in most respects, just a remake of that one, so I thought it'd be interesting to compare the two.
+
+9
+00:00:44,400 --> 00:00:48,800
+Now, in a lot of ways, discussing comedy can be quite difficult, you know.
+
+10
+00:00:48,800 --> 00:00:52,800
+People have different senses of humor, and they find different things funny.
+
+11
+00:00:52,900 --> 00:00:59,200
+Some people like understated, character-driven comedies, and some people are objectively wrong.
+
+12
+00:00:59,800 --> 00:01:03,700
+So, to save myself from saying, in my opinion, roughly a hundred times,
+
+13
+00:01:03,700 --> 00:01:09,000
+I'll just leave a disclaimer here that all my declarative sentences about what is and is not funny,
+
+14
+00:01:09,600 --> 00:01:12,000
+they're my own opinions. You're free to disagree.
+
+15
+00:01:12,400 --> 00:01:18,200
+And I annoyingly have to make a brief note here about the controversy surrounding the release of the movie.
+
+16
+00:01:18,600 --> 00:01:24,800
+The internet was pretty mad about this movie before it even came out, and a lot of dumb people said a lot of dumb things.
+
+17
+00:01:25,200 --> 00:01:30,200
+So, let's first off list some points which are not the reason that the movie isn't good.
+
+18
+00:01:30,500 --> 00:01:32,500
+One, because it's got women in it.
+
+19
+00:01:33,200 --> 00:01:35,200
+No, that doesn't matter at all.
+
+20
+00:01:35,500 --> 00:01:39,500
+Two, because of Leslie Jones or any other actor or actors.
+
+21
+00:01:40,200 --> 00:01:44,100
+No, everyone who's in the movie is at least a capable actor.
+
+22
+00:01:44,600 --> 00:01:50,100
+Missed cast, maybe, arguable, but this wasn't the fault of the actors.
+
+23
+00:01:50,700 --> 00:01:56,100
+Three, because of how poorly it was marketed, the awful trailer, or anything else.
+
+24
+00:01:56,100 --> 00:02:01,100
+And there's a lot to talk about there, but I'm only interested in what's actually in the movie right now.
+
+25
+00:02:01,300 --> 00:02:03,300
+So, what were the actual reasons?
+
+26
+00:02:03,700 --> 00:02:06,500
+Well, after quickly googling how to analyze movies,
+
+27
+00:02:06,500 --> 00:02:12,400
+I've identified a few key areas where I think the reboot underperforms compared to the original.
+
+28
+00:02:13,200 --> 00:02:14,600
+Firstly, the script.
+
+29
+00:02:15,000 --> 00:02:19,200
+Certain things are missing, and certain things are in there that don't need to be.
+
+30
+00:02:19,800 --> 00:02:21,600
+Secondly, the characters.
+
+31
+00:02:22,200 --> 00:02:27,400
+Characterization's very patchy, and the characters break character too easily.
+
+32
+00:02:28,200 --> 00:02:28,800
+Character.
+
+33
+00:02:29,400 --> 00:02:32,800
+And thirdly, the editing, and this is the big one for me personally.
+
+34
+00:02:33,400 --> 00:02:39,600
+The movie was edited by someone who, I'm sorry to say, is not good at identifying things which are funny.
+
+35
+00:02:40,200 --> 00:02:45,000
+Now, the main problem with the comedy in this comedy movie is that it appears to have been written,
+
+36
+00:02:45,000 --> 00:02:48,400
+directed, and edited with the following principle in mind.
+
+37
+00:02:50,800 --> 00:02:55,200
+Jokes are funny, right? So, the more jokes you do, the funnier it is.
+
+38
+00:02:56,000 --> 00:02:58,000
+Comedy doesn't work that way, I'm afraid.
+
+39
+00:02:58,400 --> 00:03:04,000
+The movie has a lot of funny moments, but they're stifled by the surrounding unfunny moments.
+
+40
+00:03:04,400 --> 00:03:09,000
+Comedy, to a large extent, relies on establishing and maintaining a mood.
+
+41
+00:03:09,400 --> 00:03:13,400
+And it's better to have no joke at all than a bad joke that kills the mood.
+
+42
+00:03:14,000 --> 00:03:17,000
+Bad jokes prey on good jokes and eat them.
+
+43
+00:03:17,600 --> 00:03:19,600
+But we'll talk more about that in a little while.
+
+44
+00:03:20,000 --> 00:03:22,400
+Let's first talk briefly about the story.
+
+45
+00:03:23,000 --> 00:03:27,400
+Now, both the new movie and the original broadly follow the same basic plot.
+
+46
+00:03:27,800 --> 00:03:32,000
+Some scientists who believe in ghosts get kicked out of their college or colleges,
+
+47
+00:03:32,400 --> 00:03:34,400
+develop technology to catch ghosts,
+
+48
+00:03:34,800 --> 00:03:36,800
+start a ghost-catching business,
+
+49
+00:03:36,800 --> 00:03:40,200
+and then they have to face off against some larger paranormal threat,
+
+50
+00:03:40,600 --> 00:03:42,200
+and they end up saving the city.
+
+51
+00:03:42,400 --> 00:03:46,800
+Now, the new Ghostbusters makes a few changes to the particulars of the storyline,
+
+52
+00:03:46,800 --> 00:03:50,800
+some of which are fine, but some of which I think actively harm the story.
+
+53
+00:03:51,400 --> 00:03:55,400
+Now, the worst of these for me was having the government already know about the ghosts
+
+54
+00:03:55,400 --> 00:03:57,800
+and engaging in a conspiracy to cover them up.
+
+55
+00:03:58,200 --> 00:04:00,200
+And we're not frauds, we are legitimate scientists.
+
+56
+00:04:00,200 --> 00:04:01,800
+Let me interrupt you. We know you're not frauds.
+
+57
+00:04:02,200 --> 00:04:05,200
+Because we have been monitoring the situation quite closely.
+
+58
+00:04:05,200 --> 00:04:08,200
+Agents Hawkins and Rourke are with Homeland Security,
+
+59
+00:04:08,200 --> 00:04:12,200
+so we've been investigating this extremely quietly.
+
+60
+00:04:12,200 --> 00:04:16,200
+You see, this kind of robs the Ghostbusters as their unique thing for me.
+
+61
+00:04:16,200 --> 00:04:18,200
+You know, the ghost thing.
+
+62
+00:04:19,200 --> 00:04:24,200
+In the old Ghostbusters, the government, represented by the mayor and Walter Peck,
+
+63
+00:04:24,200 --> 00:04:27,200
+they don't believe in ghosts, and they've got to be convinced of it.
+
+64
+00:04:28,200 --> 00:04:31,200
+In the new movie, when the Ghostbusters meet the mayor, he's like,
+
+65
+00:04:31,600 --> 00:04:33,600
+Yeah, ghosts. We know.
+
+66
+00:04:33,600 --> 00:04:37,200
+And it's like, oh, well, I guess people already know about ghosts,
+
+67
+00:04:37,200 --> 00:04:40,200
+then that kind of makes the Ghostbusters less special.
+
+68
+00:04:40,200 --> 00:04:44,200
+And I'm just gonna quickly run through some other structural or storyline changes
+
+69
+00:04:44,200 --> 00:04:46,200
+that I felt were detrimental.
+
+70
+00:04:46,200 --> 00:04:49,200
+Patty joins the Ghostbusters for no reason.
+
+71
+00:04:49,200 --> 00:04:53,200
+In the first movie, Winston just walked in looking for a job.
+
+72
+00:04:53,200 --> 00:04:57,200
+In the new movie, Patty is one of the Ghostbusters' first customers.
+
+73
+00:04:57,200 --> 00:05:00,200
+And that's fine by itself, there's nothing wrong with that.
+
+74
+00:05:00,200 --> 00:05:03,200
+I might even like that more than the original,
+
+75
+00:05:03,200 --> 00:05:07,200
+if they gave Patty a solid reason to actually want to join the Ghostbusters.
+
+76
+00:05:08,200 --> 00:05:12,200
+It feels like there was a scene cut where Patty got fired over the ghost thing,
+
+77
+00:05:12,200 --> 00:05:15,200
+you know, maybe she keeps telling customers about the ghost,
+
+78
+00:05:15,200 --> 00:05:20,200
+or her boss fires her for bringing the Ghostbusters there or something like that.
+
+79
+00:05:20,200 --> 00:05:25,200
+So then she joins the Ghostbusters because they're the only ones who believe her about the ghost.
+
+80
+00:05:25,200 --> 00:05:29,200
+Instead, she just turns up and demands a job for no clear reason.
+
+81
+00:05:29,200 --> 00:05:33,200
+She even complains about the job later on in the movie.
+
+82
+00:05:33,200 --> 00:05:38,200
+I had a good job at the MTA. Was it perfect? No, of course it wasn't perfect.
+
+83
+00:05:38,200 --> 00:05:41,200
+But I tell you what, everybody was alive.
+
+84
+00:05:41,200 --> 00:05:46,200
+And the audience is thinking, well, why did you leave the old job again?
+
+85
+00:05:46,200 --> 00:05:51,200
+It wouldn't surprise me if there's a deleted scene of Patty getting fired, to be honest.
+
+86
+00:05:51,200 --> 00:05:53,200
+No money issues.
+
+87
+00:05:53,200 --> 00:05:58,200
+In the original Ghostbusters, Venkman talks Stance into ta- Stance?
+
+88
+00:05:59,200 --> 00:06:03,200
+Stance? Stance? Is that how you say that?
+
+89
+00:06:03,200 --> 00:06:07,200
+I've written it here, I've never said it out loud. Stance.
+
+90
+00:06:07,200 --> 00:06:11,200
+In the original Ghostbusters, Bill Murray talks Dan Aykroyd
+
+91
+00:06:11,200 --> 00:06:15,200
+into taking out an extra mortgage on his house to finance the start of the business,
+
+92
+00:06:15,200 --> 00:06:18,200
+and they're basically broke when they get their first real job.
+
+93
+00:06:18,200 --> 00:06:22,200
+And I like this finance element, it's largely missing from the new movie.
+
+94
+00:06:22,200 --> 00:06:26,200
+They don't even bill the theater guy for catching the demon ghost thing there,
+
+95
+00:06:26,200 --> 00:06:31,200
+and there's no explanation for how they're able to finance developing all the ghost tech.
+
+96
+00:06:31,200 --> 00:06:34,200
+No getting famous montage.
+
+97
+00:06:34,200 --> 00:06:39,200
+In the original movie, there's a montage scene of the Ghostbusters in the media,
+
+98
+00:06:39,200 --> 00:06:43,200
+completing more jobs, and generally showing the passage of time.
+
+99
+00:06:43,200 --> 00:06:49,200
+In the new movie, they catch one ghost and they're immediately, like, immediately on the news and famous,
+
+100
+00:06:49,200 --> 00:06:52,200
+and I don't know, it just felt a bit rushed.
+
+101
+00:06:52,200 --> 00:06:55,200
+Too much action near the end of the movie.
+
+102
+00:06:55,200 --> 00:07:01,200
+And this is in turn a problem with the structure, the editing, and just the overall general direction,
+
+103
+00:07:01,200 --> 00:07:03,200
+but whatever, I'm putting it here.
+
+104
+00:07:03,200 --> 00:07:10,200
+In the original Ghostbusters, what action there was always served the needs of the story or the comedy.
+
+105
+00:07:10,200 --> 00:07:14,200
+The action seen near the end of the new movie goes on entirely too long
+
+106
+00:07:14,200 --> 00:07:18,200
+and serves no real purpose beyond showing off a bunch of special effects.
+
+107
+00:07:18,200 --> 00:07:24,200
+That and there's a few genuinely embarrassing moments featuring Holtzmann, but we'll get to her in a bit.
+
+108
+00:07:24,200 --> 00:07:29,200
+Now all of these are flaws, but none of them are really movie killers.
+
+109
+00:07:29,200 --> 00:07:32,200
+They'd all be excusable if the movie were funnier.
+
+110
+00:07:32,200 --> 00:07:35,200
+So let's talk about why it wasn't.
+
+111
+00:07:35,200 --> 00:07:40,200
+And here's what I think is the most glaring problem with the comedy in the new Ghostbusters movie.
+
+112
+00:07:40,200 --> 00:07:43,200
+Everyone tries to be funny.
+
+113
+00:07:43,200 --> 00:07:49,200
+Almost every single character, large or small, is played for laughs in a very overstated way.
+
+114
+00:07:49,200 --> 00:07:56,200
+Now in the original Ghostbusters movie, the only character to intentionally crack jokes at any point,
+
+115
+00:07:56,200 --> 00:07:59,200
+I think, is Venkman.
+
+116
+00:07:59,200 --> 00:08:02,200
+Every single other character is played pretty much straight.
+
+117
+00:08:02,200 --> 00:08:07,200
+Scenes with Venkman and one other character resemble a classic double act routine,
+
+118
+00:08:07,200 --> 00:08:12,200
+with Venkman as the comic and the other character, whoever it is, as the straight man.
+
+119
+00:08:12,200 --> 00:08:17,200
+Not that the other characters aren't funny. Jeanine is funny. Egon is funny.
+
+120
+00:08:17,200 --> 00:08:24,200
+This hotel attendant trying to hide the ghosts from the guests is funny, but they're not trying to be funny.
+
+121
+00:08:24,200 --> 00:08:28,200
+The humor comes from their characters and the situation that they're in.
+
+122
+00:08:28,200 --> 00:08:32,200
+The contrast of characters can be a funny joke in and of itself.
+
+123
+00:08:32,200 --> 00:08:38,200
+Stance walks out of the elevator, tense and serious, and Venkman follows calmly.
+
+124
+00:08:38,200 --> 00:08:43,200
+Now, neither is funny by itself, but together the contrast gets a laugh.
+
+125
+00:08:43,200 --> 00:08:51,200
+Or, consider Venkman's introductory scene, where Venkman is lying to the two students about the results of an ESP test.
+
+126
+00:08:51,200 --> 00:08:58,200
+Now, no one is trying to be funny in this scene. No one's saying funny things. It's just a funny situation.
+
+127
+00:08:58,200 --> 00:09:05,200
+We're learning about Venkman's character. He's manipulative, he's selfish, he doesn't take his work seriously.
+
+128
+00:09:05,200 --> 00:09:12,200
+And the humor comes from the simple, dramatic irony of the audience being able to see the cards while the students can't.
+
+129
+00:09:12,200 --> 00:09:20,200
+Now, in the new Ghostbusters movie, well, all the Ghostbusters are played funny nearly all the time, for a start.
+
+130
+00:09:20,200 --> 00:09:23,200
+But so is almost every other character.
+
+131
+00:09:23,200 --> 00:09:30,200
+This tour guide has to be funny. The FBI guy has to be funny. The college dean has to be funny.
+
+132
+00:09:30,200 --> 00:09:34,200
+The food delivery man, even, has to be funny.
+
+133
+00:09:34,200 --> 00:09:37,200
+Even the antagonist has to be funny.
+
+134
+00:09:37,200 --> 00:09:45,200
+And then the world shall bend tomorrow. Okay. I apologize, that looks nastier than I intended.
+
+135
+00:09:45,200 --> 00:09:52,200
+One of the only characters to be played straight is the old-fashioned dean of Columbia University, played by Charles Dance,
+
+136
+00:09:52,200 --> 00:09:57,200
+who, not so coincidentally, says probably my favorite line in the movie.
+
+137
+00:09:57,200 --> 00:10:07,200
+Dr. Bronston saw this on Reddit. It was reblogged from a site entitled Ghost News. Not a publication I'd heard of.
+
+138
+00:10:07,200 --> 00:10:13,200
+Now, the derision with which he says reblogged from a site entitled Ghost News is funny,
+
+139
+00:10:13,200 --> 00:10:19,200
+because we know his character from earlier and understand that he would hate to say that sentence.
+
+140
+00:10:19,200 --> 00:10:25,200
+At no point does Charles Dance break character and start riffing and telling awful jokes.
+
+141
+00:10:25,200 --> 00:10:29,200
+And speaking of, let's talk about the Ghostbusters themselves.
+
+142
+00:10:29,200 --> 00:10:34,200
+Now, the early scenes in the new Ghostbusters actually gave me hope that it was gonna be really good.
+
+143
+00:10:34,200 --> 00:10:38,200
+The opening conflict between Erin and Abby is completely fine, in my opinion.
+
+144
+00:10:38,200 --> 00:10:42,200
+I feel like we get a sense of who these characters are at the start of the movie.
+
+145
+00:10:42,200 --> 00:10:50,200
+You know, Erin is high-strung, she takes herself and her work seriously, she believes in ghosts but doesn't want anyone to know.
+
+146
+00:10:51,200 --> 00:10:57,200
+Abby is less serious, believes in ghosts and wants to prove it, and she's angry at Erin for a perceived betrayal.
+
+147
+00:10:57,200 --> 00:11:03,200
+You know, it's not Hamlet by any means, but the original Ghostbusters characters weren't Hamlet either.
+
+148
+00:11:03,200 --> 00:11:07,200
+You know, they're fine characters for a comedy movie about ghosts.
+
+149
+00:11:07,200 --> 00:11:11,200
+They're even given a pretty deep personal reason to want to prove ghosts exist.
+
+150
+00:11:11,200 --> 00:11:16,200
+When I was eight years old, the mean old lady that lived next door died.
+
+151
+00:11:16,200 --> 00:11:26,200
+And that night, I woke up and she was standing at the foot of my bed, just staring at me.
+
+152
+00:11:28,200 --> 00:11:32,200
+She did that every night for almost a year.
+
+153
+00:11:32,200 --> 00:11:37,200
+Which I thought was a bit serious and probably overkill, but, you know, I'm not really complaining.
+
+154
+00:11:37,200 --> 00:11:42,200
+And early on, there's some okay to actually pretty good moments with these characters.
+
+155
+00:11:42,200 --> 00:11:47,200
+I like when Erin's arguing with this guy and pretending that she didn't write the book.
+
+156
+00:11:47,200 --> 00:11:51,200
+I like her trying to hide her monitor from Charles Dance.
+
+157
+00:11:51,200 --> 00:11:54,200
+I like Abby and Erin arguing about the book.
+
+158
+00:11:54,200 --> 00:11:58,200
+You know, it's not hilarious or anything, but it's fine character building.
+
+159
+00:11:58,200 --> 00:12:04,200
+Now, the big letdown for me is how quickly the movie was willing to completely abandon these characters.
+
+160
+00:12:04,200 --> 00:12:10,200
+For example, at one point, a paranormal skeptic played by a very tired-looking Bill Murray
+
+161
+00:12:10,200 --> 00:12:12,200
+comes to see the ghosts they captured.
+
+162
+00:12:12,200 --> 00:12:20,200
+Then Erin, because she wants to prove ghosts exist so much, lets the ghost out and it murders Bill Murray.
+
+163
+00:12:20,200 --> 00:12:25,200
+So the Ghostbusters essentially kill a man, which is weird enough by itself, to be honest,
+
+164
+00:12:25,200 --> 00:12:27,200
+but then not ten seconds later.
+
+165
+00:12:28,200 --> 00:12:29,200
+Who tore him out the window?
+
+166
+00:12:29,200 --> 00:12:31,200
+A ghost threw him out the window.
+
+167
+00:12:31,200 --> 00:12:34,200
+Oh, you mean like Patrick Swayze? Like he's sitting behind you making some pottery?
+
+168
+00:12:34,200 --> 00:12:36,200
+Yeah, like Patrick Swayze. That's it.
+
+169
+00:12:36,200 --> 00:12:43,200
+And then we were all dancing at a summer camp in the Catskills, and then we sat down and he was behind me and we made a vase.
+
+170
+00:12:43,200 --> 00:12:44,200
+Oh, you're combining the two.
+
+171
+00:12:44,200 --> 00:12:46,200
+I combined a couple of Swayze.
+
+172
+00:12:46,200 --> 00:12:47,200
+Oh, you know what was a good one? Roadhouse.
+
+173
+00:12:47,200 --> 00:12:48,200
+I loved Roadhouse.
+
+174
+00:12:48,200 --> 00:12:49,200
+It was a point break?
+
+175
+00:12:49,200 --> 00:12:51,200
+It was a point break.
+
+176
+00:12:51,200 --> 00:12:52,200
+Come on, at the end with a big wave?
+
+177
+00:12:52,200 --> 00:12:58,200
+Now, why are they doing a little Patrick Swayze movie riff bit with this police officer?
+
+178
+00:12:58,200 --> 00:13:00,200
+They just saw someone die.
+
+179
+00:13:01,200 --> 00:13:06,200
+And I'm thinking, well, they just caused the death of a man. Why don't they care about that?
+
+180
+00:13:06,200 --> 00:13:13,200
+All the early scenes established Erin as a self-serious person who was sensitive to what other people think about her,
+
+181
+00:13:13,200 --> 00:13:17,200
+but at the first chance to do some jokey jokes, that all gets tossed out.
+
+182
+00:13:17,200 --> 00:13:21,200
+And I mean, if they're not gonna bother trying to have consistent characterization,
+
+183
+00:13:21,200 --> 00:13:27,200
+they may as well just have characters with seemingly no motivation whatsoever who act completely randomly all the time.
+
+184
+00:13:27,200 --> 00:13:30,200
+And speaking of, let's talk about Holtzman.
+
+185
+00:13:30,200 --> 00:13:36,200
+Now, Holtzman isn't developed enough to even be called a character, really. She's a character trait.
+
+186
+00:13:36,200 --> 00:13:38,200
+She's wacky.
+
+187
+00:13:38,200 --> 00:13:44,200
+When she's introduced, she's not really given a clear motivation, but she seems pretty excited about going to see a ghost,
+
+188
+00:13:44,200 --> 00:13:49,200
+so I'm thinking, okay, she wants to see a ghost. That's her thing.
+
+189
+00:13:49,200 --> 00:13:51,200
+But when she does see a ghost...
+
+190
+00:13:59,200 --> 00:14:03,200
+So I'm thinking, oh, she doesn't care about seeing a ghost then?
+
+191
+00:14:03,200 --> 00:14:08,200
+But now she seems excited she saw a ghost again? Like, what is she doing?
+
+192
+00:14:09,200 --> 00:14:11,200
+What is this character ever doing?
+
+193
+00:14:11,200 --> 00:14:18,200
+In fact, almost every time Holtzman was on screen when I watched this movie, I was solely wondering what she was doing and why.
+
+194
+00:14:18,200 --> 00:14:23,200
+She's like a character void. It's impossible to have an opinion about Holtzman.
+
+195
+00:14:23,200 --> 00:14:31,200
+And the sad thing here is that all it would have taken was a few lines of exposition at her introduction to give her some grounding in reality.
+
+196
+00:14:31,200 --> 00:14:35,200
+You know, you can do the wacky scientist thing, and well.
+
+197
+00:14:35,200 --> 00:14:38,200
+I mean, Egon in the original movie was that to an extent,
+
+198
+00:14:38,200 --> 00:14:44,200
+but underneath all the wackiness, you still need to have an actual identifiable human.
+
+199
+00:14:44,200 --> 00:14:50,200
+Of course, Holtzman is given a few lines of humanizing dialogue in the movie that ground her a little.
+
+200
+00:14:50,200 --> 00:14:53,200
+I didn't think that I would ever really have a friend until I met Abby,
+
+201
+00:14:53,200 --> 00:14:57,200
+and then I feel like I have a family, I have my own, and I love you. Thank you.
+
+202
+00:14:57,200 --> 00:14:59,200
+Thank you.
+
+203
+00:14:59,200 --> 00:15:02,200
+I mean, that was a real thing right there. That was, like, so real.
+
+204
+00:15:02,200 --> 00:15:05,200
+And Patty's right. That was so real right there.
+
+205
+00:15:05,200 --> 00:15:10,200
+If only something like that could have came near the start of the movie instead of five minutes from the end,
+
+206
+00:15:10,200 --> 00:15:14,200
+so I didn't waste two hours wondering if Holtzman was human or not.
+
+207
+00:15:14,200 --> 00:15:19,200
+And as for Patty, I don't have too much to say about her, to be honest.
+
+208
+00:15:19,200 --> 00:15:25,200
+She's fine overall, except, oddly enough, for everything that they put in the trailer.
+
+209
+00:15:25,200 --> 00:15:30,200
+She does break character, least often, out of any of the Ghostbusters, so she gets a point for that.
+
+210
+00:15:30,200 --> 00:15:37,200
+And speaking of Holtzman and characters who aren't really characters, Kevin, who is stupid.
+
+211
+00:15:37,200 --> 00:15:41,200
+So stupid as to not even be a human, actually.
+
+212
+00:15:41,200 --> 00:15:44,200
+I mentioned earlier that I think Hemsworth was miscast.
+
+213
+00:15:44,200 --> 00:15:49,200
+Not because he's not funny, though he isn't in this.
+
+214
+00:15:49,200 --> 00:15:53,200
+I mean, he might be a funny guy elsewhere, but in this, he's dreadful.
+
+215
+00:15:53,200 --> 00:15:56,200
+No, I think he's miscast because he's too famous,
+
+216
+00:15:56,200 --> 00:16:01,200
+and he thus gets way too much screen time for what should be a minor character.
+
+217
+00:16:01,200 --> 00:16:04,200
+You can have a minor character who's incredibly stupid, that's fine,
+
+218
+00:16:04,200 --> 00:16:10,200
+but having several scenes that focus solely on that character where the only joke is that they are stupid,
+
+219
+00:16:10,200 --> 00:16:14,200
+well, that gets tedious very quickly.
+
+220
+00:16:14,200 --> 00:16:17,200
+And maybe it's just me, but a lot of the jokes where the punchline is,
+
+221
+00:16:17,200 --> 00:16:21,200
+Kevin is stupid, are a little... stupid.
+
+222
+00:16:21,200 --> 00:16:26,200
+Would it be okay if I bring my cat to work sometimes? He has major anxiety problems.
+
+223
+00:16:26,200 --> 00:16:32,200
+You know what, I would love to let your cat live here with you, but I have a pretty severe cat allergy.
+
+224
+00:16:32,200 --> 00:16:36,200
+Oh, I don't have a cat. He's a dog. His name's my cat.
+
+225
+00:16:36,200 --> 00:16:39,200
+Your dog's name is my cat?
+
+226
+00:16:39,200 --> 00:16:40,200
+Mike Hat.
+
+227
+00:16:40,200 --> 00:16:43,200
+Your dog's name is Mike, last name Hat.
+
+228
+00:16:43,200 --> 00:16:45,200
+Well, his full name is Michael Hat.
+
+229
+00:16:45,200 --> 00:16:48,200
+What the hell are they even talking about, honestly?
+
+230
+00:16:48,200 --> 00:16:52,200
+Just because he's dumb doesn't mean the writing has to be dumb.
+
+231
+00:16:52,200 --> 00:16:56,200
+You can have a cleverly constructed joke about a character being stupid.
+
+232
+00:16:56,200 --> 00:16:58,200
+Okay, one last time.
+
+233
+00:16:59,200 --> 00:17:05,200
+These are small, but the ones out there are far away.
+
+234
+00:17:13,200 --> 00:17:16,200
+Small, far away.
+
+235
+00:17:18,200 --> 00:17:22,200
+A character being stupid should really be the means by which a joke is told,
+
+236
+00:17:22,200 --> 00:17:25,200
+rather than the punchline in and of itself.
+
+237
+00:17:26,200 --> 00:17:30,200
+There's only one thing Kevin says in the movie that actually got a laugh out of me,
+
+238
+00:17:30,200 --> 00:17:33,200
+and that's just because it's a line lifted out of the original.
+
+239
+00:17:34,200 --> 00:17:36,200
+Ghostbusters, what do you want?
+
+240
+00:17:37,200 --> 00:17:39,200
+Ghostbusters, what do you want?
+
+241
+00:17:39,200 --> 00:17:42,200
+So just to be fair here, before I move on to talk about editing,
+
+242
+00:17:42,200 --> 00:17:46,200
+I'd like to point out some moments that I actually really enjoyed in the new movie.
+
+243
+00:17:47,200 --> 00:17:50,200
+I like when Erin's trying to warn the mayor about what's gonna happen.
+
+244
+00:18:03,200 --> 00:18:06,200
+I like when this thing starts spinning around really fast.
+
+245
+00:18:10,200 --> 00:18:15,200
+I like when the camera footage cuts to a YouTube video playing in Charles Dance's office.
+
+246
+00:18:15,200 --> 00:18:19,200
+I like when Abby goes to hit the bomb like a baseball and misses.
+
+247
+00:18:19,200 --> 00:18:23,200
+Although it's not edited very well, but whatever, I like the idea, so I'll give it a pass.
+
+248
+00:18:24,200 --> 00:18:28,200
+I like when Erin is having a tantrum and picks up the bomb to throw it,
+
+249
+00:18:28,200 --> 00:18:30,200
+and Abby and Holtzman freak out.
+
+250
+00:18:30,200 --> 00:18:32,200
+Maybe I just think bombs are funny, I don't know.
+
+251
+00:18:32,200 --> 00:18:35,200
+Now all of these at least got a smile out of me,
+
+252
+00:18:35,200 --> 00:18:39,200
+but if you notice something about all these moments, they're all physical comedy.
+
+253
+00:18:40,200 --> 00:18:44,200
+And the new movie is generally at its strongest when it keeps the humor non-verbal,
+
+254
+00:18:45,200 --> 00:18:51,200
+which is the nicer way around of saying that the movie's at its weakest when the characters talk.
+
+255
+00:18:52,200 --> 00:18:54,200
+And bugger me, do they talk.
+
+256
+00:19:04,200 --> 00:19:10,200
+And talk and talk until any actual comedy present's been run into the ground.
+
+257
+00:19:10,200 --> 00:19:16,200
+A few visuals actually get ruined to a certain degree because the characters just won't shut up for five seconds.
+
+258
+00:19:17,200 --> 00:19:22,200
+Let's look at one instance of the same joke that's in both the old Ghostbusters and the new.
+
+259
+00:19:41,200 --> 00:19:46,200
+The same visual joke, you know, recoiling from the Proton Pack being turned on,
+
+260
+00:19:46,200 --> 00:19:50,200
+has much less impact in the new movie because, for whatever reason,
+
+261
+00:19:50,200 --> 00:19:56,200
+someone involved in the production decided that Melissa McCarthy should be yelling over the top of it.
+
+262
+00:19:56,200 --> 00:19:59,200
+And the constant talking isn't just background noise,
+
+263
+00:19:59,200 --> 00:20:06,200
+the reluctance to edit it out or cut away from it artificially extends the runtime of a whole bunch of scenes
+
+264
+00:20:06,200 --> 00:20:08,200
+long past the point where the joke's dead.
+
+265
+00:20:08,200 --> 00:20:12,200
+And there's a lot of these scenes, but we're just gonna be looking at a select few.
+
+266
+00:20:12,200 --> 00:20:15,200
+First up is Patty delivering the hearse.
+
+267
+00:20:16,200 --> 00:20:20,200
+So, fundamentally, what, if anything, is the funny thing about this scene?
+
+268
+00:20:21,200 --> 00:20:24,200
+Well, on one level, it's a simple reversal of expectation.
+
+269
+00:20:24,200 --> 00:20:30,200
+The other Ghostbusters weren't expecting the car to be a hearse, and then the car is a hearse.
+
+270
+00:20:30,200 --> 00:20:36,200
+Now, as a British man, that's enough for me. I'm happy with that right there.
+
+271
+00:20:36,200 --> 00:20:43,200
+You've got your reversal of expectation, a little irony in the fact that the Ghostbusters drive a hearse.
+
+272
+00:20:43,200 --> 00:20:44,200
+Job done.
+
+273
+00:20:44,200 --> 00:20:50,200
+Now, the problem is, this premise isn't funny enough to sustain a full conversation about it.
+
+274
+00:20:50,200 --> 00:20:56,200
+Now, for all the non-British people in the audience, I'll allow the premise one more joke, maybe, like the following.
+
+275
+00:20:56,200 --> 00:20:59,200
+Hope you checked to see there wasn't a body in the back.
+
+276
+00:20:59,200 --> 00:21:02,200
+Uh, I don't think so. I don't really know.
+
+277
+00:21:02,200 --> 00:21:03,200
+You didn't check?
+
+278
+00:21:03,200 --> 00:21:07,200
+I mean, I was in a hurry. I checked to see if we had gas. That was more important.
+
+279
+00:21:07,200 --> 00:21:11,200
+Now, if I were editing this scene, I would have cut to the next scene right there.
+
+280
+00:21:11,200 --> 00:21:15,200
+Erin jokes that there might be a body in the back of the hearse,
+
+281
+00:21:15,200 --> 00:21:19,200
+and it turns out that Patty doesn't actually know if there's a body in the back of the hearse.
+
+282
+00:21:19,200 --> 00:21:26,200
+It's not exactly a knee-slapper, but it's good enough, that is, until the premise gets stretched way too thin.
+
+283
+00:21:26,200 --> 00:21:27,200
+So there is a body?
+
+284
+00:21:27,200 --> 00:21:29,200
+Let Hoseman check. She likes that type of stuff.
+
+285
+00:21:30,200 --> 00:21:33,200
+Yeah, I can think of seven good uses of a cadaver today.
+
+286
+00:21:33,200 --> 00:21:37,200
+No, Dr. Frankenstein. We gotta turn in the body if there's one in there.
+
+287
+00:21:37,200 --> 00:21:39,200
+Alright.
+
+288
+00:21:39,200 --> 00:21:40,200
+Don't do that.
+
+289
+00:21:40,200 --> 00:21:48,200
+Too many times when I was watching this movie, I was just waiting for the characters to stop talking so that the story would progress.
+
+290
+00:21:48,200 --> 00:21:54,200
+Let's look at another example like this, and while you're watching, have a think about where you would put the cut to the next scene.
+
+291
+00:21:55,200 --> 00:21:58,200
+This is an institution of higher learning.
+
+292
+00:21:58,200 --> 00:22:03,200
+And if you guys want to study ghosts, do it somewhere else, because I have two words for you.
+
+293
+00:22:03,200 --> 00:22:05,200
+Let me guess. Get out?
+
+294
+00:22:05,200 --> 00:22:08,200
+No, he's gonna say suck it. He's not gonna say suck it.
+
+295
+00:22:08,200 --> 00:22:10,200
+Suck it.
+
+296
+00:22:10,200 --> 00:22:11,200
+You were right.
+
+297
+00:22:11,200 --> 00:22:13,200
+Oh, my gosh.
+
+298
+00:22:13,200 --> 00:22:15,200
+I think it might be a ghost.
+
+299
+00:22:15,200 --> 00:22:17,200
+Oh, no, it's not. It's just a bird.
+
+300
+00:22:17,200 --> 00:22:19,200
+Bye. There's the door. Later days.
+
+301
+00:22:19,200 --> 00:22:21,200
+Can you hear this? Let me turn it up.
+
+302
+00:22:22,200 --> 00:22:24,200
+Oh, my God.
+
+303
+00:22:25,200 --> 00:22:27,200
+This is incredibly immature behavior.
+
+304
+00:22:30,200 --> 00:22:31,200
+Got it.
+
+305
+00:22:31,200 --> 00:22:33,200
+Just a minor setback.
+
+306
+00:22:33,200 --> 00:22:35,200
+No, guys, I think we can really do this.
+
+307
+00:22:35,200 --> 00:22:37,200
+Goes on a bit, doesn't it?
+
+308
+00:22:37,200 --> 00:22:40,200
+So, what's the comedic element to this scene?
+
+309
+00:22:40,200 --> 00:22:45,200
+It's that you'd expect the dean of a university to be very professional and mature.
+
+310
+00:22:45,200 --> 00:22:47,200
+A bit like Charles Dance, say.
+
+311
+00:22:47,200 --> 00:22:51,200
+But this dean is very unprofessional and immature.
+
+312
+00:22:51,200 --> 00:22:58,200
+So what you want to do, once the scene's fulfilled its narrative purpose, is cut on the most emphatic instance of that.
+
+313
+00:22:58,200 --> 00:23:00,200
+And if we do that...
+
+314
+00:23:00,200 --> 00:23:03,200
+This is an institution of higher learning.
+
+315
+00:23:03,200 --> 00:23:08,200
+And if you guys want to study ghosts, do it somewhere else, because I have two words for you.
+
+316
+00:23:08,200 --> 00:23:10,200
+Let me guess. Get out?
+
+317
+00:23:10,200 --> 00:23:13,200
+No, he's gonna say suck it. He's not gonna say suck it.
+
+318
+00:23:13,200 --> 00:23:15,200
+Suck it.
+
+319
+00:23:15,200 --> 00:23:16,200
+Just a minor setback.
+
+320
+00:23:16,200 --> 00:23:18,200
+No, guys, I think we can really do this.
+
+321
+00:23:18,200 --> 00:23:21,200
+And would you look at that? That's much better.
+
+322
+00:23:21,200 --> 00:23:24,200
+And let's look at another scene that's in desperate want of editing.
+
+323
+00:23:24,200 --> 00:23:28,200
+Erin gets fired by Charles Dance after he sees the YouTube video.
+
+324
+00:23:28,200 --> 00:23:36,200
+And then there's an awful, drawn-out scene of Erin walking down a hallway, pretending to not have been fired to everyone.
+
+325
+00:23:36,200 --> 00:23:41,200
+And it's unnecessary, and it's crap, and it goes on forever.
+
+326
+00:23:41,200 --> 00:23:45,200
+Now, in the original Ghostbusters, Stance and Venkman get fired by the Dean,
+
+327
+00:23:45,200 --> 00:23:48,200
+and we immediately cut to them drinking outside.
+
+328
+00:23:48,200 --> 00:23:51,200
+And we get it, they've been fired. We don't need it spelled out.
+
+329
+00:23:51,200 --> 00:23:54,200
+It's funnier if it happens off-screen.
+
+330
+00:23:54,200 --> 00:23:59,200
+You could cut the whole walking down the corridor riffing on being fired bit entirely,
+
+331
+00:23:59,200 --> 00:24:02,200
+and just go straight from Charles Dance to the next scene.
+
+332
+00:24:03,200 --> 00:24:06,200
+Well, I hope you're happy.
+
+333
+00:24:06,200 --> 00:24:09,200
+That video you posted got me fired.
+
+334
+00:24:09,200 --> 00:24:15,200
+Or you could go even further with it, and leave the entire firing just implied, with something like this.
+
+335
+00:24:15,200 --> 00:24:17,200
+Ghosts are real! Ghosts are real!
+
+336
+00:24:17,200 --> 00:24:20,200
+I believe in ghosts, because they deserve to be real!
+
+337
+00:24:22,200 --> 00:24:24,200
+Who is that?
+
+338
+00:24:25,200 --> 00:24:28,200
+Well, I hope you're happy.
+
+339
+00:24:28,200 --> 00:24:31,200
+That video you posted got me fired.
+
+340
+00:24:31,200 --> 00:24:36,200
+Sony, send me all the raw footage. I'll cut a good movie out of it, I promise.
+
+341
+00:24:36,200 --> 00:24:40,200
+It'll only be 40 minutes long, but it'll be really good.
+
+342
+00:24:40,200 --> 00:24:44,200
+Now, the first Ghostbusters movie was much more sparing with the dialogue,
+
+343
+00:24:44,200 --> 00:24:47,200
+and they knew how to cut away after a good line.
+
+344
+00:24:47,200 --> 00:24:49,200
+Do you have any hobbies?
+
+345
+00:24:51,200 --> 00:24:53,200
+I collect spores, moulds, and fungus.
+
+346
+00:24:54,200 --> 00:25:01,200
+If that line was in the new movie, they'd probably follow it with 45 seconds of awful improv riffing about fungus.
+
+347
+00:25:01,200 --> 00:25:04,200
+Now, I don't know where the problems with this movie originated,
+
+348
+00:25:04,200 --> 00:25:08,200
+in the writing, the direction, the acting, or wherever,
+
+349
+00:25:08,200 --> 00:25:14,200
+but if there's bad jokes in there, then it needed an editor with the ability to cut them out.
+
+350
+00:25:14,200 --> 00:25:16,200
+And that just didn't happen, I'm afraid.
+
+351
+00:25:16,200 --> 00:25:21,200
+Overall, I'd call Ghostbusters 2016 a spooktacular summer hit
+
+352
+00:25:21,200 --> 00:25:23,200
+that the whole family can enjoy.
+
+353
+00:25:23,200 --> 00:25:25,200
+Nine stars.
+

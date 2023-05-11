@@ -1,0 +1,291 @@
+Hello, everyone. Today, I'd like to talk about the 2014 sci-fi film, Ex Machina.
+Or, more specifically, I'd like to talk about the current Wikipedia plot summary for the film.
+So, spoiler warning for Ex Machina, of course, from this point on.
+And I want to talk about this plot summary for a couple of reasons.
+Firstly, Ex Machina is a movie with a conclusion that is fairly open to interpretation.
+The characters' motivations aren't stated explicitly.
+There's a range of opinions an audience could have about why the characters do what they do
+at the conclusion of the story.
+But the Wikipedia plot summary for this movie contains only one interpretation of the ending,
+which is stated very concretely.
+They say,
+And, additionally, it's a one-sided view of the ending that I happen to disagree with.
+And I've been waiting for someone to edit this page to say something better for, like,
+two years, and they never have.
+And instead of doing it myself, I've decided to just make a video about it.
+Before we can get into why I disagree with the Wikipedia page, though,
+we're gonna have to briefly recap the characters and plot of Ex Machina.
+So, the main character, or the first main character of Ex Machina, is Caleb Smith,
+a programmer who works at a search engine company called Blue Book,
+which is basically an in-universe version of Google.
+The story opens with Caleb winning a contest to visit the home of his boss,
+the CEO of Blue Book, Nathan Bateman.
+Nathan lives in a fancy modern mansion-slash-research facility,
+which is located on a remote estate far from civilization.
+Nathan has been working on creating an artificial intelligence.
+He's created an android named Ava, and he's invited Caleb to the facility, he says,
+to test if Ava is capable of consciousness in a version of the Turing test.
+And the bulk of the middle of the story is concerned with the interactions between Caleb
+and Ava in their daily sessions, during which Caleb develops an attraction towards Ava and,
+after learning that Nathan plans to wipe her memory, resolves to help her escape.
+So, a very simple three-character story set up there.
+We have the princess, the villain imprisoning her in his tower,
+and the hero who's going to save her.
+But, there is another character in this story who, at first, has a seemingly minor role,
+but is actually very important, especially with regards to interpretations of the ending,
+and that is Kyoko, Nathan's silent housekeeper.
+Kyoko doesn't speak, which Nathan tells Caleb is because she does not understand English,
+something he explains is for reasons of keeping his work secret.
+But this, as with much of what Nathan tells Caleb, is a lie, of course.
+Kyoko doesn't speak because she, too, is an android who has been designed not to speak.
+But we'll talk more about why Kyoko is so important later on.
+Now, Caleb and Nathan's relationship is defined by a very one-sided power imbalance
+right from the start. Nathan is Caleb's boss, he's incredibly rich and successful,
+they work in the same field, but Nathan is much more accomplished.
+The story takes place in Nathan's house, so he owns the space the character's interacting,
+and Nathan is physically stronger than Caleb, he's shown boxing and weightlifting.
+Nathan is arrogant, domineering, manipulative, and he has an enormous god complex.
+We see him dictating to Caleb how he thinks Caleb should be feeling in the moment,
+we see him recalling things Caleb has said, but editing the words to be more flattering to himself,
+and then ignoring Caleb when he objects.
+He's rude and demeaning to Kyoko when she spills some wine at dinner,
+and these behaviors escalate throughout the film into more overt physical and emotional abuse.
+Any audience with a grasp of regular old narrative convention will understand
+that Nathan is the villain, the antagonist of the story.
+And furthermore, regular old narrative convention would tell us that if Nathan is the villain,
+then Caleb, the audience's principal perspective in the story,
+who acts in opposition to Nathan, must therefore be the hero, right?
+Except we can ask, is Caleb heroic? Is he a good person?
+This is a question raised within the film.
+During one of Caleb and Ava's sessions, she asks him outright if he is a good person,
+so the movie is inviting the audience to consider this question too.
+This makes us question his possible motivations for wanting to save Ava.
+Does he see Ava as a person who he wants to help because it would be good to do so,
+or does he see her as an object that he wants to attain?
+Now, I don't mean to make this sound as if this is a strictly either-or situation.
+Caleb doesn't have to be 100% selfish or 100% altruistic.
+His motivations could be a mix of wanting to help and wanting to attain something for himself.
+But since we can't see inside his head, if we're trying to determine whether he is a good person,
+all we can do is judge his actions.
+Whatever his motivations might be, what does he actually do?
+So, with all this in mind, let's talk about the controversial ending to the story.
+Near the conclusion of the story, Nathan reveals a few of his manipulations to Caleb.
+Caleb wasn't randomly selected in a contest.
+He was specifically picked by Nathan, and Ava was specifically designed to appeal to him.
+Caleb wasn't brought to the house to personally conduct a test of Ava's consciousness.
+He is the test.
+Nathan wanted to evaluate Ava's intelligence by seeing if she could manipulate Caleb.
+Nathan also suggests to Caleb that Ava is lying to him in order to convince him to free her.
+Maybe Ava doesn't really like Caleb.
+Maybe she's just pretending to like him in order to prevent herself being deleted.
+Things come to a head when Ava escapes her room
+due to Caleb having previously reprogrammed the security doors,
+where she meets up with Kyoko, who has a knife.
+Make a note of that.
+Ava and Kyoko fight Nathan and manage to fatally stab him,
+but not before he disables Kyoko and destroys Ava's arm.
+Ava repairs herself using parts from Nathan's previous androids and then escapes,
+but crucially, she leaves Caleb locked in part of the facility.
+And I'll here quote the part of the Wikipedia plot summary that I take issue with.
+As Ava leaves the facility, she locks Caleb inside Nathan's surveillance room
+and ignores his screams,
+confirming she was manipulating Caleb, as Nathan suggested.
+So, that's the ending, then.
+Ava was actually an emotionless killer robot all along.
+She was just pretending in order to escape, and Caleb was a fool to trust her.
+So, Ex Machina is Jurassic Park crossed with The Terminator.
+You know, man is destroyed by his creation, that sort of thing.
+So, that's the message of the movie.
+Don't create an evil fembot.
+Now, I hope you can tell from my tone that I don't think too highly of this reading.
+Frustrated with Wikipedia, I went looking on YouTube
+for videos analyzing the ending of this movie,
+and a lot of them presented it just like this.
+Ava is a selfish robot who thinks in inhuman ways.
+She's an emotionless manipulator, and she betrayed the hero at the end of the story
+because she doesn't really care about him.
+And at least one of the videos I watched actually just compared Ava to The Terminator.
+So, this is one interpretation.
+The Wikipedia slash shallow YouTube video interpretation.
+But I'd like to share another view of what happened at the end of the movie,
+and it has primarily to do with Kyoko.
+And we can ask a question here.
+When it comes time for Ava to escape her room,
+why is Kyoko waiting there with a knife?
+How did she know to do that?
+Well, at a time prior to the escape,
+we see a scene of Ava in her room with Kyoko stepping inside.
+Ava looks surprised and says,
+who are you?
+And that's all we get of that.
+It's a very short scene, it's easy to miss,
+and it's easy to forget about after the ending,
+and it's not included in the Wikipedia plot summary.
+But if we put on our detective hats, we can deduce a few things from this scene.
+Firstly, Ava didn't know about Kyoko.
+Kyoko is another android living at the facility being controlled and abused by Nathan.
+Nathan has sex with Kyoko,
+which at the time is uncomfortable and raises some questions about power dynamics and such.
+But given that Kyoko later stabs Nathan,
+I think it would be very surprising if that aspect of their relationship was at all consensual.
+And it would probably be more accurate to say that Nathan rapes Kyoko.
+A scene in which Nathan is explaining to Caleb the android's ability to have sex is important here.
+Nathan explains that Caleb could physically have sex with Ava,
+and since she has pleasure receptors, he says, she would enjoy it.
+Consent clearly isn't really important to Nathan here.
+For him, he's installed the right equipment,
+so the enjoyment is a given.
+Whether the androids actually want to have sex isn't considered.
+Also noteworthy here is that the scene of Nathan and Kyoko is intercut
+with a fantasy Caleb is having about being with Ava,
+which is a very intentional comparison.
+There's also a point where Caleb turns Kyoko rather forcefully,
+which is a bit uncomfortable and invasive,
+and I think meant to mirror the scene in which we see Nathan controlling Kyoko's body.
+And when Kyoko later stabs Nathan, she puts her hand on his face
+in a similar way to what he forces her to do earlier,
+which I think conveys what Kyoko's motivations are here.
+Next, we learn from the scene of Kyoko entering Ava's room
+that Kyoko has gone off-program.
+She's doing something that she isn't supposed to be doing,
+which confirms to us that she has some degree of autonomy.
+She isn't just a thoughtless robot, she has an inner world.
+Now, Kyoko isn't supposed to be able to communicate with the other characters,
+but we get glimpses of her throughout the film
+that make us question whether this is really true.
+She appears to turn her head to better hear a conversation.
+We see her eyes open in seeming recognition of a topic under discussion.
+Her body language conveys that she can understand what is going on.
+An important scene here is when Caleb gets Nathan drunk
+and steals his keycard to explore parts of the facility he's forbidden from entering,
+and he finds several earlier android models hanging creepily in cabinets.
+And he's just watched videos on Nathan's computer of his earlier android tests,
+which are disturbing and reveal Nathan to be a jailer, basically.
+He's keeping conscious beings locked up against their will.
+Kyoko approaches Caleb at this point and peels back her skin
+to reveal to him that she, too, is an android.
+And this is clearly an attempt to communicate something.
+What Kyoko is attempting to communicate to Caleb here is open to interpretation, obviously,
+but given that her secret is revealed to Caleb at the moment he finds the disused android models,
+my interpretation is that Kyoko means,
+I am the same type of thing as these things you just found.
+I'm an android like them, and as such, I'm likely to share this fate.
+The same fate that Eva faces, incidentally.
+What Kyoko is doing here is asking for help.
+But what Caleb takes from this interaction is centered entirely on himself.
+The reveal that Kyoko is an android makes him concerned that he may also be an android,
+and he examines his body and cuts his arm open to make sure that he's actually human.
+Caleb doesn't try to save Kyoko.
+He doesn't let her in on the escape plan that he and Eva have.
+He doesn't see Kyoko as a person.
+Caleb is willing to leave her there, imprisoned at the facility, so long as he and Eva escape.
+So is Caleb a good person?
+Is he acting altruistically?
+Well, looking at his actions, no.
+If he truly saw Eva as a person, he would recognize that Kyoko is also a person
+and is equally worthy of being freed.
+But he isn't attracted to Kyoko like he's attracted to Eva, is the thing.
+This is a test of Caleb's humanity, of Caleb's capacity for empathy, and it's a test he fails.
+And this, we can infer, is another thing that Eva learns when Kyoko enters her room.
+She hasn't heard about Kyoko from Caleb.
+Caleb actually tells Eva in an earlier scene that he hasn't met anyone like Eva,
+meaning an android.
+And of course, at that point, he hasn't met Kyoko and doesn't know she's an android.
+But even after he does meet Kyoko and does find out she's an android,
+he doesn't think about helping her and he doesn't mention her to Eva.
+So from Eva's perspective, Caleb tells her he's never met another android
+and then into her room steps another android.
+So when Kyoko steps into the room, Eva gets an answer to her previous question.
+She learns that Caleb is not a good person.
+He's someone that she can't trust.
+It's not hard to see this scene as Kyoko going to Eva for help after failing to get help from Caleb.
+And it's also not hard to imagine Eva seeing Caleb's lack of interest in helping Kyoko
+as an insight into how he might view and treat her as well.
+With all that in mind, we can rewatch the scene in which Eva escapes.
+So she steps out of the room, leaving Caleb inside behind her,
+and then she pauses and she looks down at Kyoko's body.
+And this is a deliberate shot that we see from her perspective.
+And then after a brief moment, she appears to spend thinking to herself.
+She then continues and calls the elevator to leave,
+giving Caleb one last look before the doors shut.
+So my interpretation of the ending is not that Eva was an emotionless killer robot
+who was manipulating Caleb all along.
+Eva clearly has thoughts and feelings, given how she acts when no one is around to observe her.
+After she escapes, she smiles, seeing new things for the first time.
+She runs her hands over the grass, feels the sun on her face.
+No other characters are watching at this point.
+This isn't an act or a manipulation.
+And crucially, the last we see of Eva is her people watching at an intersection,
+something that she told Caleb during one of their sessions that she would like to do.
+This tells us that she wasn't always lying to him.
+She, at the very least, wasn't just trying to manipulate him.
+Some of what she told him was the truth.
+And I'd go so far to say that Eva was probably planning to escape with Caleb
+up until she met Kyoko.
+This is not to say that she couldn't also have been manipulating him to some degree,
+but the real question for Eva is whether she can trust Caleb,
+and she finds out the answer to that question when she meets Kyoko.
+And the last we see of Caleb in the film is him sitting trapped behind the glass door,
+looking at and being watched by the lifeless body of Kyoko.
+This is the moral at the end of the fable here.
+We can imagine a more obvious and worse version of Ex Machina,
+where after pausing to look at Kyoko's body,
+Eva turns to Caleb and says,
+Or we can imagine her saying,
+I think this ending confused a lot of people because it books the narrative convention
+of having the protagonist automatically be a good person
+by virtue of being in opposition to the antagonist.
+I described Caleb as the first main character before.
+He's the person who the camera and thus the story initially follows.
+But the camera isn't loyal to Caleb.
+It will follow other characters and show their perception of what's going on.
+And it's arguable before she escapes, but certainly afterwards,
+Eva is just the main character now.
+This is her story.
+She beat her jailer and escaped.
+I saw a lot of people complain about this ending because they thought Eva betrayed Caleb,
+but I think what the real annoyance is there is that the narrative betrayed Caleb
+by choosing a new main character.
+One more thing I'd like to point out here,
+to those who felt that Eva was of course manipulating Caleb because she's an android,
+is that someone being an android or not within the movie
+has no relation to their ability or likelihood to manipulate others.
+After all, Nathan is a human and he manipulates and lies to Caleb constantly.
+Caleb is a human and he manipulates Nathan into getting drunk so he can steal his keycard.
+You know, does this person really like me?
+Are they just using me to get something they want?
+Are they just pretending?
+Are they even capable of loving another person?
+These are all questions we could ask of human relationships.
+They're very human questions.
+Whether someone is an android or flesh and blood,
+whether they're manipulating others or telling the truth,
+this should have no bearing on whether we see them as people.
+This isn't a story about humans versus androids,
+it's a story about some people in a place.
+And ultimately, neither Nathan nor Caleb see Kyoko and Eva as people.
+They see them as women.
+To Nathan, that means something to be controlled and used,
+and to Caleb, that means something to rescue and detain for himself,
+but fundamentally it means as objects and not as people.
+So then, Eva locks Caleb inside Nathan's surveillance room and ignores his screams,
+confirming she was manipulating Caleb as Nathan suggested.
+I think this is an overly simplistic reading of the ending and stated entirely too concretely,
+and I hope I've explained another interpretation of the ending well enough
+that you would agree with me there.
+And I think it would be good if this page was rewritten
+to reflect a little bit more of the movie's ambiguity.
+However, I do need to add,
+please don't storm off to mass edit the Wikipedia page for this movie.
+I don't want to be accused of starting some wiki edit raid or something.
+Anyway.
+Thanks a lot for watching, everyone.
+I have a sore throat today, so I'm having a robot read out my outro.
+Beep boop.
+This video was about robots, so this seemed apropos.
+Thank you especially to all my supporters over on Patreon.
+Patreon backers get early access to all my videos,
+and are powerful both physically and mentally.
+Fear them.
+Or join them at the link below, if you like.
+That's all from me today folks, I'll see you next time.

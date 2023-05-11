@@ -1,0 +1,240 @@
+start	end	text
+0	4600	Hello, everyone. As you can see from the video game filler in the background there,
+4600	8600	this is another Q&A video, but a little different this time.
+8600	15120	You see, recently I put out a video in which I called for more people to start creating their own content on YouTube.
+15120	22680	And now after I did that, my Twitter and Curious Cat accounts got minorly bombarded by questions from people who wanted to get started,
+22920	24320	which is great.
+24320	29840	So this is just a little video to answer a few of those questions and hopefully help people who are starting out.
+30520	33400	I was asked a lot of similar questions multiple times,
+33400	39200	so I'll be going over the most common ones here first before answering a few more specific ones at the end.
+39720	45960	But before I start, I should say, I can only really go into detail about how I personally make videos.
+46080	50640	Everyone has different approaches and finds different things helpful, and like anything else,
+50640	57840	I'd say the best way to learn about it is by doing it. With that said, first up, I'll answer the various technical questions
+57880	63160	I was asked about equipment and software and so on, and I'll talk about pricing first, I guess.
+63160	70160	So one question I've been asked is, is it worth me starting out making content before I have an expensive microphone
+70680	73120	like you have? Which made me laugh.
+73680	79760	So this is the microphone I still use, a Behringer XM1800S.
+79760	83960	As you can see there, it is free for £31 on Amazon.
+84240	91360	Now, I have that running into a BTEC BT26 preamp, which is £25 on Amazon,
+91360	93520	and for additional audio equipment,
+93520	96880	I have a couple of microphone stands that were about £10 each,
+97240	100080	a bunch of sound paneling to reduce the echo in the room,
+100080	104960	but the price for that will vary depending on how much of it you need, that's if you need it at all.
+105400	109160	And of course, you'll need the various wires and things to connect all that together.
+110040	117640	All in all, I'd estimate you could replicate my current audio setup for about £100, or about $140.
+117920	121400	Though this is assuming you already have a computer to record on,
+121720	124800	and I will point out that if you want to actually appear in your videos,
+124800	130400	you'll need to add a camera and probably lighting to that as well. I can't really help you there, unfortunately.
+131200	135480	So that's my basic audio setup there. Now, is it great?
+136360	143320	No, it's not. It's next on the list of things I need to upgrade, actually. However, it's also not that bad.
+143360	146240	You know, you can hear my voice fine, it's listenable,
+146240	150720	it's not too echoey, and I've managed to get to this point without having to change it.
+151040	156800	Now, obviously, if you have the income to spare, you can buy better and more expensive versions of all the things
+156800	163000	I just mentioned, but if you don't, it's perfectly possible to start out with something similar to my bare bones setup there.
+163240	170120	My one piece of possibly snobbish audio advice I'll hand out is to stay away from USB audio devices,
+170600	177280	microphones, headsets, and so on. Now, obviously, different people will tell you different things, but I'm not a fan, personally.
+177280	183240	They don't sound the best, and even a cheap XLR slash preamp setup will usually be superior.
+183560	189160	That's in my experience, anyway. Now, software-wise, I record audio in Audacity,
+189200	195560	I edit video in Lightworks, and I capture footage for videos with OBS, which is a streaming software,
+195560	200240	but can also make local recordings. All of these are okay programs.
+200240	203360	I mean, they get the job done, and they're all free.
+203360	208560	I will say, if you're just starting out and you have access to a better video editor than Lightworks,
+208560	213000	I'd recommend learning to edit in that instead, because Lightworks can be a bit finicky.
+213280	217720	But if you don't have access to that, and you're not some sort of mega millionaire who can purchase
+218120	223800	professional editing software on a whim, Lightworks is a perfectly passable free alternative,
+223840	228060	so long as you're not looking to do anything too fancy very easily, anyway.
+228660	234260	So that's hardware and software there. I'll go into a few production tips here, although, again,
+234320	238720	the best way to learn is to do it for yourself. For recording audio,
+239320	245600	firstly, make sure there's no echo. If you're recording in a room with big, flat, empty walls and an uncarpeted floor,
+245600	249640	it is going to echo. Now, I have sound paneling now, but in the past,
+249640	254980	I would hang a duvet or some sheets around near the microphone while I recorded, and that worked just as well.
+255320	258800	When you're recording, sit up straight, take deep breaths,
+259080	263140	try not to fiddle with things or speak animatedly with your hands too much.
+263600	268200	Sit on a chair that doesn't creak when you move, like this one. Listen to this.
+268200	274680	Try to record all your audio in a set position without moving around too much or
+274920	278920	rearranging the microphone or different parts of your audio track will sound different.
+278920	284880	I actually just record all my audio for each video in a single sitting to try to circumvent this problem.
+285240	290300	Make sure you don't have a smartphone too close to your microphone or preamp or you'll get interference.
+290960	295860	Try to record somewhere quiet. I guess that's the main piece of advice there.
+295860	303540	I believe some libraries have recording booth bookings if your home environment is like completely unusable as far as audio goes,
+303540	309460	so maybe look into that if you have to. Next up is audio editing, which is very important.
+309460	316540	Now, obviously, as my recording setup is kind of cheap and basic, if I just record a track in Audacity and export it with no
+316540	322020	editing, it would sound fairly rubbish. In fact, it would sound like this.
+322380	326640	I'll read out the rest of this paragraph with no editing so you can see the difference.
+326740	332780	So how do we stop our audio from sounding like this? Well, in Audacity, or your editor of choice,
+332780	337440	I guess, we can apply different filters and effects. Now, the most important one
+337440	344100	I always use is noise reduction. At the start of every track I record, I leave a brief period of total silence,
+344700	346700	which looks like this,
+346740	350060	so that I can let the microphone get a sample of the background noise.
+350420	356860	Then if we select that part of the track, we can go to Effect, Noise Reduction, click Get Noise Profile,
+357020	362740	which will tell Audacity what you want it to remove, hit Effect, Repeat Noise Reduction, and
+362980	365560	say farewell to the background noise. There we go.
+365600	372660	Now, obviously, you'll have to play around with the various settings to get it sounding the best, depending on your recording equipment and space.
+373180	379260	I also use the normalize and equalize effects with particular settings relevant to my setup here,
+379260	382100	but I had to play about with those to get the right numbers,
+382100	384480	so experiment and see what works for you.
+384880	392460	And the rest of the editing is just cutting the track down to the usable parts, you know, cutting flubbed lines or coughs, weird clicks,
+393340	399900	shortening unusually long pauses, all that jazz. Now, I do this in Audacity before exporting the track,
+399900	405160	but obviously this is different if you're editing audio that has to be fit to video footage of you speaking.
+405320	411440	Any cuts there will have to match the video, or it will all be out of sync, so that's best done in the video editor.
+411880	418320	So, video editing tips. Well, you know, don't ask me. I'm not the best, as I'm sure you've noticed.
+418320	425200	I can do things, you know, I can make there be a picture of pyramids when I'm talking about pyramids.
+425800	430500	I can make that picture of pyramids spin around if I wanted to, or like,
+431060	436000	get really small and then slowly slide off the left of the screen.
+436460	438180	You know, I can do it,
+438180	446060	but mainly my video editing only extends to showing clips and pictures I happen to be talking about, and that's all fairly simple to learn,
+446060	452140	which is cool. But for actual advice I can give, first off, make sure you have a good folder system.
+452140	455220	I didn't know this at first, and everything got very messy.
+455580	463100	So now every project has its own folder, and then within that are folders for pictures, video clips, audio, and so on.
+463620	471740	In the actual editor, video editing for me boils down to dropping various clips and pictures onto the timeline at the right time.
+472460	478020	I import the audio track first and then add visuals to it. Now, other people will do it differently again.
+478460	480780	You'll have to see what works best for you.
+480900	487500	I won't really go into any specifics here, as it will depend on what editor you're using and the type of content you're trying to make,
+487500	491640	but there are plenty of great video editing tutorials here on YouTube,
+491640	497980	so give those a look. And in future, when you see a YouTuber you like use an effect that you'd like to know how to do,
+498220	504460	just have a Google of it and someone somewhere will have a tutorial for how to do it. Isn't the internet wonderful?
+504740	509220	So I realized a lot of my technical advice there kind of boiled down to Google it and
+509780	514380	experiment for yourself, so let's see if I'm any better at creative advice.
+514960	518720	Now, I was asked two particular questions multiple times here.
+518980	525980	How do I decide what to make videos about? And secondly, how do I know what I make will be worth watching?
+526460	528460	So to the second question,
+529180	534300	I don't know. You know, do you want to make the thing? You know, do you wish it existed?
+534300	540660	Would you watch it yourself? If so, you know, it's worth creating. And that's rather simple, that one.
+541180	545100	To the first question, how do I decide what to make videos about?
+545700	547700	Well, there's two main answers here.
+547840	552040	The first thing is something that you know about and you want to share with other people.
+552040	556340	I get a lot of questions from academic-type folks saying things like,
+556340	559140	I'm a historian or a biologist or whatever.
+559380	564840	Do you think it's worth me making videos about my area of expertise? And the answer is yes.
+565500	571140	More topics than you think can be video-ified, to use the accurate technical term there.
+571140	577620	The second thing I'd advise making videos about is something that you don't have expert knowledge of, but would like to learn more about.
+578260	583360	For instance, I learn a lot about each topic I cover as I'm putting the script together.
+583620	588660	It's a great learning experience by itself, and I've found it's good for the old mental health,
+588780	592540	to be working on some sort of ongoing creative project.
+592680	598380	So make videos about either things you do know about, or things you don't know about.
+599180	601180	That encompasses everything,
+602060	609880	doesn't it? I am terrible at giving advice. I've realized far too late in the production of this video though, so whatever. I'm pressing on.
+610780	615420	So I'll give a few creative tips relating to how I make videos here. Now again,
+615420	618940	these might be useless to someone with a different approach, but here we are.
+619260	622700	So first off, I keep a list of ideas on the go. Now,
+622700	629580	this is a .txt file on my computer with a list of video ideas, and I make notes on my phone or in a notebook
+629580	633820	if something comes to me when I'm on the train or whatever. Now, it seems simple,
+633820	638340	but if you don't do this, you will definitely forget that great idea you had yesterday.
+638780	643780	So keep a pen and paper handy. This advice extends to each project too.
+643860	650820	Write everything even vaguely useful down as you go, and you can always cut out the unnecessary parts later. Now,
+650820	654660	I personally write scripts by, over the course of a week to a few weeks,
+655260	661460	making a big jumbled list of phrases and keywords and sentence fragments that are stand-ins for full paragraphs,
+662180	665180	written down as I think or read about the topic.
+665820	671660	Talking your ideas through with someone else can be really helpful too, as they will ask questions or raise additional points,
+671660	675940	and you can get a bit of a preview of how an audience is going to respond to what you're saying.
+676300	682020	So anyway, I have my big jumbled mess. Now, after I run out of material or
+682660	688700	things to research or when I decide to stop because otherwise my video will be four hours long,
+688700	691700	I take the mess and I start editing it.
+691700	697900	I first cut and paste relevant sections together until they're structured in some sort of narrative order.
+698380	702780	I write an introduction with leading questions that will be answered in the rest of the video.
+702780	707400	I cut out any parts that don't fit or I decide aren't worth the time to go into.
+707900	714500	So then when it finally comes time to actually write the script out fully, it's a simple process of fleshing out the skeleton structure
+714500	722020	that's already there. Now, this is all fairly basic essay writing advice aimed at making a particular type of video.
+722260	725340	But there are lots of different approaches for different types of videos.
+725620	730900	Some people work better when they're less structured, but I like to have everything written out.
+731420	737300	So again, experiment and see what works for you. I realize I'm saying that a lot today, but oh well.
+737340	743580	I'll move on to answering some more specific questions here, which are more about the culture of YouTube, I guess.
+743820	746140	So a curious cat user asked,
+756340	762420	How do you deal with the intense amount of backlash related to being left-wing and pro-feminist on YouTube?
+762420	766660	And this question was echoed by a few other people, including someone who says,
+766660	772100	I've been considering making a political YouTube channel, but I am afraid of doxxing and the likes.
+772100	779700	I feel especially exposed to it because of the various minority groups I'm part of. Not straight, not a man, etc.
+780260	786480	Any safety advice or uplifting pep talk? So okay, brigading videos,
+787060	794860	abuse, doxxing and the likes. It happens, it sucks, and there isn't a short or easy way around it, unfortunately.
+795500	802100	Now, I'm not too worried about down-voting campaigns. They're actually good for your channel, strictly numbers-wise.
+802100	804240	It brings in a lot of views and interaction.
+805100	809940	Likewise, in my experience, the false flagging of my videos has worked out pretty well for me.
+810260	814740	The one time a group of angry lads got a video of mine taken down through mass flagging,
+814740	821580	I saw a big increase in subscribers and views. And then, of course, because the flagging was not warranted, the video was then
+821940	826100	reinstated, so I didn't lose anything, and it actually worked out okay.
+826540	830260	Now, there isn't really a nice side to the abuse itself, unfortunately.
+831220	834580	And I actually get it pretty easy, all things considered.
+834580	840900	All I'd say is don't feel bad about blocking or muting people who are arguing in bad faith.
+841920	848340	Particularly starting out, you're gonna be reading all your YouTube comments and messages and the likes, but that gets old very fast.
+848540	852980	You shouldn't waste your time engaging with trolls who are only there to annoy you.
+853460	859820	Now, the worst of the things that happens is the doxxing and attempting to mess with your personal life somehow.
+860540	864660	Luckily, it is only a very small minority of people who engage in this sort of behavior,
+865300	868980	but it does happen. If you develop enough of a presence online,
+868980	872940	there will be people who try to find out your address or guess your passwords.
+873740	879820	Social engineer their way into getting the reset question for your backup email that you haven't logged into in five years,
+879820	885940	you know, all that sort of thing. So before starting out, I'd say prepare yourself for that to happen.
+886780	893540	Create a fresh email address for your channel and associated other social media accounts. Use a new, long,
+894220	898780	complicated password, and be aware of your previous history on the internet.
+898780	905400	You know, did you used to have a DeviantArt account where you drew Mario licking Sonic's feet or something?
+905620	912380	If you don't do anything about that, the first person you piss off is going to find it and email it to your parents.
+912580	919800	So any old social media accounts you don't use, log into them and deactivate them, and put the ones you do use on the highest
+920160	927500	security settings. If there's something you've done in the past that would be embarrassing to be revealed about you, be upfront about it early on.
+927740	934000	Part of the reason why I keep mentioning I was a little shithead troll years ago is if anyone ever finds a bunch of
+934000	940300	posts of mine where I've said some air quotes edgy racist or sexist crap, which I did frequently,
+940820	947000	I've already addressed that. For tips on trying to avoid this kind of extreme negative attention,
+947000	949500	I'd just say mainly be boring.
+949500	956100	You know, don't give them what they want. The people who engage in this sort of behavior just want a target, and they don't really
+956100	962300	care who it is. If you give them the attention they want, they will follow you around and try to make you do it again.
+962620	966380	So just hammer that mute button, I guess. Let's move on.
+966860	968180	Another user asks,
+968180	973100	How do you get past the fear that your videos won't be good enough or as good as you want them to be?
+973620	979340	And the answer to that is you don't, or at least I don't. I see the flaws in everything
+979340	984860	I make, and they'll never be as good as I want them to be, but that fear is not a good reason to stop.
+985500	988580	Just try to make the next thing better than the last thing was.
+989060	990140	Someone else asks,
+990140	995140	How do you decide when you have something worth saying or maybe more accurately worth listening to?
+995300	1000660	I've thought about trying out getting going on YouTube, but it's hard to know if I'd have anything of value to share.
+1001380	1007380	First off, I'm sure you do have something of value to share, but for me this process happens topic by topic.
+1008180	1014260	There are videos I've abandoned if I realize that the approach I'm taking doesn't work, or there isn't enough material,
+1014300	1019580	or whatever else. You know, you won't know until you try, I guess I'm saying. Someone else asks,
+1019580	1022020	Hey Sean, I'm currently setting up a YouTube channel.
+1022020	1029300	My first video happens to be about a popular YouTube skeptic spreading misinformation about the Holocaust and bordering denial.
+1029300	1035220	I keep asking myself if I should touch this topic at all, or if there are certain things that should be off-limits
+1035700	1039180	even when correcting Holocaust deniers. What are your thoughts on this?
+1039620	1044180	So this is something I've been thinking about a lot lately, and here's where I'm at with it right now.
+1044700	1052700	You can make a video countering something like Holocaust denial or some other similarly difficult subject, as long as you're kind of careful.
+1053300	1056660	First off, I'd say you should aim upwards in terms of audiences.
+1056660	1059020	You know, if you have a million subscribers,
+1059020	1066220	it might be irresponsible to expose them to some obscure Holocaust deniers arguments, even for the purposes of debunking them.
+1066260	1070700	So probably only respond to people with a larger audience than yourself,
+1070700	1075660	and you can debunk an argument without providing a platform to any one person.
+1075660	1078020	So talk about fascists all you want,
+1078020	1085500	but don't have them on the show for a friendly chat. And if you ever make a video trying to explain their views and arguments,
+1085700	1088260	include very clear and unambiguous
+1088780	1094380	refutations to those arguments. You know, don't give them an inch, basically, or you'll be doing their job for them.
+1094580	1095940	Another user asks,
+1103940	1105940	To answer that, just dive right in.
+1106940	1108820	Well, that was an easy one.
+1108820	1110260	Another user asks,
+1124380	1132020	So I'd say the big issue here is your concern about your videos no longer being relevant,
+1132020	1138100	and you shouldn't be worried about that, really, unless you're making a channel that reacts to daily news or something.
+1138100	1143180	I made a video about the shooting of Trayvon Martin, like, five years after it happened.
+1143260	1147820	I'm working on a video about the Charlottesville Unite the Right rally right now.
+1147820	1151820	You know, there's something to be said for missing the immediate response window,
+1151860	1154860	and instead just getting the last word and later on.
+1155300	1161460	So maybe try being less concerned about staying current, or develop content that is just timeless.
+1161460	1166620	You know, I've made videos about Roman history, for instance. It doesn't really matter when they came out, you know.
+1166780	1168100	Another user asks,
+1175700	1177100	I find this comes with time.
+1177500	1183500	You know, if you pick any YouTuber who sounds confident now and scroll to their old videos, they'll probably all sound totally different.
+1183700	1187780	So make ten videos and then see if you still sound nervous, I guess.
+1188380	1189500	Someone else asks,
+1197500	1200020	And yes, that's completely fine.
+1200020	1204420	You know, you can just put out political content and ignore all the rest of the rubbish if you like.
+1204460	1208740	It'd probably be good for your mental health in the long run as well, so, yeah, go for it.
+1209180	1214140	Finally, I was also asked a few questions about how to get views and subscribers and all that.
+1214140	1216860	Now, I'm probably not the best person to answer this.
+1217420	1222420	For me, it was about two years of producing video content before I broke a thousand subscribers.
+1222980	1226980	Before doing political stuff, I was making kinda rubbish game videos.
+1227220	1230380	And then before that, I had another YouTube channel that I ran for a year,
+1230740	1234220	and that never really saw a sizeable audience of any kind.
+1234900	1237420	I kept up with making videos because I found it fun.
+1237420	1241420	It's an enjoyable hobby for me, so just keep on trucking, basically.
+1241660	1247140	If you enjoy it, then just focus on improving, and eventually, if you're kinda lucky,
+1247140	1254540	like I was, you'll eventually hit some sort of self-perpetuating snowball increase that will leave you very confused.
+1255220	1263220	For more active advice, though, get a Twitter account and interact a bunch with the sorts of people who you think might like and share your videos.
+1263540	1267860	The first step to getting a big audience is getting a little audience.
+1268340	1270140	That's gonna be all from me today, folks.
+1270140	1273140	Thanks a lot, I hope I answered all of your questions.
+1273140	1279700	If there's anything you really want to know that I missed, just head over to Twitter or Curious Cat and send me a question.
+1280220	1282700	Okay, thanks folks, and I'll see you next time.

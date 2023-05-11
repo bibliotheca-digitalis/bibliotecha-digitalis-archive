@@ -1,0 +1,275 @@
+WEBVTT
+
+00:00.000 --> 00:05.760
+Hello there, guys. This is just a short video that I need to make to get out of my system
+
+00:05.760 --> 00:09.200
+so that I can get back to doing something actually productive.
+
+00:09.200 --> 00:13.040
+I'm going to be talking about a video on the TED-Ed channel.
+
+00:13.040 --> 00:18.720
+And now they put out little animations explaining different scientific and philosophical ideas,
+
+00:18.720 --> 00:23.600
+and sometimes they'll do a video explaining some mathematical or logical puzzle.
+
+00:23.600 --> 00:26.600
+It's a neat channel and I generally really like it.
+
+00:26.680 --> 00:29.960
+But the video I want to talk about is one I watched recently called
+
+00:29.960 --> 00:33.080
+Can You Solve the Frog Riddle? by Derek Abbott.
+
+00:33.080 --> 00:37.080
+And if you haven't seen it, I'd advise you pause this video here and go watch it.
+
+00:37.080 --> 00:41.640
+It's only four minutes long, so off you go. I'll see you in four minutes.
+
+00:41.640 --> 00:49.960
+["Can You Solve the Frog Riddle?" by Derek Abbott plays in the background.]
+
+00:49.960 --> 00:51.000
+Welcome back.
+
+00:51.000 --> 00:57.480
+Now, before I get started here, I just want to clarify that I am completely mathematically inept.
+
+00:57.480 --> 01:01.640
+I have no clue what I'm talking about generally when it comes to maths.
+
+01:01.640 --> 01:05.000
+I can't even remember the order of operations.
+
+01:05.000 --> 01:09.800
+And I understand the person who wrote the Frog Riddle is a university professor
+
+01:09.800 --> 01:13.400
+with a whole alphabet's worth of letters before his name,
+
+01:13.400 --> 01:17.880
+so if you're betting on this, I'd honestly go with me being wrong here.
+
+01:17.880 --> 01:21.160
+And a little disclaimer before we get started.
+
+01:21.160 --> 01:23.960
+When I got the sense this riddle was wrong, I googled,
+
+01:23.960 --> 01:28.600
+Is Ted Edd's Frog Riddle Wrong? and found pages and pages of discussion,
+
+01:28.600 --> 01:32.440
+all of which look like this, and none of which I understood.
+
+01:32.440 --> 01:36.200
+But I did find a video by the channel Mind Your Decisions,
+
+01:36.200 --> 01:41.160
+which again, it does look like this, but I think I understood enough of it
+
+01:41.160 --> 01:45.320
+to maybe get a mathematical understanding of why the riddle's wrong.
+
+01:45.320 --> 01:50.920
+So, full props to the Mind Your Decisions channel for doing what I'm going to assume and hope
+
+01:50.920 --> 01:57.240
+is the correct mathematical legwork, um, although I understand it's somewhat contentious.
+
+01:57.240 --> 02:04.840
+Now, all I can do with my video is try to translate this into something understandable
+
+02:04.840 --> 02:09.320
+by me and the rest of the mathematically inept people out there.
+
+02:09.320 --> 02:10.840
+So let's look at the riddle.
+
+02:10.840 --> 02:14.840
+You need to find a female frog or you'll die.
+
+02:14.840 --> 02:19.240
+And you're aware of a unique croak that only males of the species do.
+
+02:19.240 --> 02:23.080
+Otherwise, the males and females are indistinguishable.
+
+02:23.080 --> 02:27.480
+Now, if you see one frog alone on a stump and you don't hear it croak,
+
+02:27.480 --> 02:30.680
+that's a 50-50 chance of it being male or female.
+
+02:30.680 --> 02:33.240
+I'm with the riddle's reasoning so far.
+
+02:33.240 --> 02:35.160
+Then you hear a croak behind you.
+
+02:35.160 --> 02:38.040
+You turn around and you see two frogs.
+
+02:38.040 --> 02:43.480
+So you know that at least one frog of the pair is male, but you don't know which one.
+
+02:44.120 --> 02:47.000
+What's the chance that the pair contains a female?
+
+02:47.000 --> 02:51.000
+So the gut feeling on this is obviously, well, 50%.
+
+02:51.000 --> 02:52.760
+It doesn't matter which frog croaked,
+
+02:52.760 --> 02:57.160
+because the other one has a 50-50 chance of being male or female regardless.
+
+02:58.280 --> 03:02.120
+This is what the TED-Ed video calls wrong answer number one,
+
+03:02.120 --> 03:06.280
+and I actually accept their reasoning as to why it's wrong.
+
+03:06.280 --> 03:10.120
+You see, they write out the sample space of possible combinations.
+
+03:10.840 --> 03:14.920
+And they say hearing a croak eliminates the possibility of two females,
+
+03:14.920 --> 03:16.200
+so they end up with this.
+
+03:17.000 --> 03:21.800
+Now, I don't know why the male and female combination is counted twice here,
+
+03:21.800 --> 03:22.920
+but whatever.
+
+03:22.920 --> 03:26.200
+Enough people seem to accept that those are different possibilities,
+
+03:26.200 --> 03:28.120
+that I'm just gonna concede that point.
+
+03:28.760 --> 03:31.560
+I'm ignorant and I don't get why they're different,
+
+03:31.560 --> 03:33.480
+but okay, they're different.
+
+03:34.040 --> 03:38.440
+Now, my problem with the riddle is how we find out the additional information.
+
+03:39.160 --> 03:40.440
+The croaking.
+
+03:40.440 --> 03:44.760
+You see, I'd be willing to accept the riddle's logic if there was no croaking,
+
+03:44.760 --> 03:48.440
+but maybe, like, a sign near the frogs that said,
+
+03:48.440 --> 03:50.600
+at least one of these two frogs is male.
+
+03:51.400 --> 03:54.280
+You know, if we could trust a random sign in the jungle.
+
+03:54.840 --> 03:56.920
+But the croaking changes things.
+
+03:57.560 --> 03:59.320
+And here's my problem with it.
+
+03:59.320 --> 04:02.760
+We're not told why the frogs croak or how often,
+
+04:02.760 --> 04:08.520
+so we'll just assume that all male frogs croak, on average, at a similar rate.
+
+04:08.520 --> 04:13.160
+Now, logically, two male frogs will croak around twice as much
+
+04:13.160 --> 04:16.680
+over a given time period as one male frog.
+
+04:16.680 --> 04:19.960
+Which means if hearing a croak over a short time period
+
+04:19.960 --> 04:22.680
+is your only way of identifying a male,
+
+04:22.680 --> 04:26.520
+the middle possibility here becomes twice as likely,
+
+04:26.520 --> 04:28.920
+because either frog could have croaked.
+
+04:28.920 --> 04:31.160
+These are the only three possibilities,
+
+04:31.160 --> 04:33.640
+but because of how we find out the information,
+
+04:34.200 --> 04:38.520
+you know, a behavior which would occur twice as much with two males,
+
+04:38.520 --> 04:41.720
+they're not all equally likely possibilities.
+
+04:41.720 --> 04:46.040
+And if we account for the increased likelihood of the middle possibility occurring,
+
+04:46.040 --> 04:49.560
+I'd put the odds of surviving back down at around 50%.
+
+04:50.600 --> 04:53.080
+And why only around and not exactly?
+
+04:53.080 --> 04:55.160
+Again, this is a gut feeling here,
+
+04:55.160 --> 04:58.920
+but I guess you need to account for the odds of hearing one male croak
+
+04:59.560 --> 05:01.960
+and not hearing the other male croak.
+
+05:01.960 --> 05:04.680
+But I am rapidly getting out of my depth here
+
+05:04.680 --> 05:07.160
+and sort of wandering back into this territory,
+
+05:07.160 --> 05:10.040
+so I'm just gonna leave that alone.
+
+05:11.160 --> 05:12.280
+So there we go.
+
+05:12.280 --> 05:14.360
+That's my take on the frog riddle.
+
+05:14.360 --> 05:15.560
+Do you agree?
+
+05:15.560 --> 05:16.760
+Am I wrong?
+
+05:16.760 --> 05:20.200
+If you think I'm wrong, please leave a comment explaining why I'm wrong
+
+05:20.200 --> 05:22.520
+so I can hopefully agree with you
+
+05:22.520 --> 05:24.600
+and then stop thinking about this entirely,
+
+05:24.600 --> 05:26.680
+because I've got things to do.
+

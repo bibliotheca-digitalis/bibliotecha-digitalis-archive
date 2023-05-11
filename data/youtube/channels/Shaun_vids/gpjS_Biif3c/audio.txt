@@ -1,0 +1,91 @@
+Hello there, guys. This is just a short video that I need to make to get out of my system
+so that I can get back to doing something actually productive.
+I'm going to be talking about a video on the TED-Ed channel.
+And now they put out little animations explaining different scientific and philosophical ideas,
+and sometimes they'll do a video explaining some mathematical or logical puzzle.
+It's a neat channel and I generally really like it.
+But the video I want to talk about is one I watched recently called
+Can You Solve the Frog Riddle? by Derek Abbott.
+And if you haven't seen it, I'd advise you pause this video here and go watch it.
+It's only four minutes long, so off you go. I'll see you in four minutes.
+["Can You Solve the Frog Riddle?" by Derek Abbott plays in the background.]
+Welcome back.
+Now, before I get started here, I just want to clarify that I am completely mathematically inept.
+I have no clue what I'm talking about generally when it comes to maths.
+I can't even remember the order of operations.
+And I understand the person who wrote the Frog Riddle is a university professor
+with a whole alphabet's worth of letters before his name,
+so if you're betting on this, I'd honestly go with me being wrong here.
+And a little disclaimer before we get started.
+When I got the sense this riddle was wrong, I googled,
+Is Ted Edd's Frog Riddle Wrong? and found pages and pages of discussion,
+all of which look like this, and none of which I understood.
+But I did find a video by the channel Mind Your Decisions,
+which again, it does look like this, but I think I understood enough of it
+to maybe get a mathematical understanding of why the riddle's wrong.
+So, full props to the Mind Your Decisions channel for doing what I'm going to assume and hope
+is the correct mathematical legwork, um, although I understand it's somewhat contentious.
+Now, all I can do with my video is try to translate this into something understandable
+by me and the rest of the mathematically inept people out there.
+So let's look at the riddle.
+You need to find a female frog or you'll die.
+And you're aware of a unique croak that only males of the species do.
+Otherwise, the males and females are indistinguishable.
+Now, if you see one frog alone on a stump and you don't hear it croak,
+that's a 50-50 chance of it being male or female.
+I'm with the riddle's reasoning so far.
+Then you hear a croak behind you.
+You turn around and you see two frogs.
+So you know that at least one frog of the pair is male, but you don't know which one.
+What's the chance that the pair contains a female?
+So the gut feeling on this is obviously, well, 50%.
+It doesn't matter which frog croaked,
+because the other one has a 50-50 chance of being male or female regardless.
+This is what the TED-Ed video calls wrong answer number one,
+and I actually accept their reasoning as to why it's wrong.
+You see, they write out the sample space of possible combinations.
+And they say hearing a croak eliminates the possibility of two females,
+so they end up with this.
+Now, I don't know why the male and female combination is counted twice here,
+but whatever.
+Enough people seem to accept that those are different possibilities,
+that I'm just gonna concede that point.
+I'm ignorant and I don't get why they're different,
+but okay, they're different.
+Now, my problem with the riddle is how we find out the additional information.
+The croaking.
+You see, I'd be willing to accept the riddle's logic if there was no croaking,
+but maybe, like, a sign near the frogs that said,
+at least one of these two frogs is male.
+You know, if we could trust a random sign in the jungle.
+But the croaking changes things.
+And here's my problem with it.
+We're not told why the frogs croak or how often,
+so we'll just assume that all male frogs croak, on average, at a similar rate.
+Now, logically, two male frogs will croak around twice as much
+over a given time period as one male frog.
+Which means if hearing a croak over a short time period
+is your only way of identifying a male,
+the middle possibility here becomes twice as likely,
+because either frog could have croaked.
+These are the only three possibilities,
+but because of how we find out the information,
+you know, a behavior which would occur twice as much with two males,
+they're not all equally likely possibilities.
+And if we account for the increased likelihood of the middle possibility occurring,
+I'd put the odds of surviving back down at around 50%.
+And why only around and not exactly?
+Again, this is a gut feeling here,
+but I guess you need to account for the odds of hearing one male croak
+and not hearing the other male croak.
+But I am rapidly getting out of my depth here
+and sort of wandering back into this territory,
+so I'm just gonna leave that alone.
+So there we go.
+That's my take on the frog riddle.
+Do you agree?
+Am I wrong?
+If you think I'm wrong, please leave a comment explaining why I'm wrong
+so I can hopefully agree with you
+and then stop thinking about this entirely,
+because I've got things to do.

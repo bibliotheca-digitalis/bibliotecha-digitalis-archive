@@ -1,0 +1,239 @@
+Hello, everyone. As you can see from the video game filler in the background there,
+this is another Q&A video, but a little different this time.
+You see, recently I put out a video in which I called for more people to start creating their own content on YouTube.
+And now after I did that, my Twitter and Curious Cat accounts got minorly bombarded by questions from people who wanted to get started,
+which is great.
+So this is just a little video to answer a few of those questions and hopefully help people who are starting out.
+I was asked a lot of similar questions multiple times,
+so I'll be going over the most common ones here first before answering a few more specific ones at the end.
+But before I start, I should say, I can only really go into detail about how I personally make videos.
+Everyone has different approaches and finds different things helpful, and like anything else,
+I'd say the best way to learn about it is by doing it. With that said, first up, I'll answer the various technical questions
+I was asked about equipment and software and so on, and I'll talk about pricing first, I guess.
+So one question I've been asked is, is it worth me starting out making content before I have an expensive microphone
+like you have? Which made me laugh.
+So this is the microphone I still use, a Behringer XM1800S.
+As you can see there, it is free for £31 on Amazon.
+Now, I have that running into a BTEC BT26 preamp, which is £25 on Amazon,
+and for additional audio equipment,
+I have a couple of microphone stands that were about £10 each,
+a bunch of sound paneling to reduce the echo in the room,
+but the price for that will vary depending on how much of it you need, that's if you need it at all.
+And of course, you'll need the various wires and things to connect all that together.
+All in all, I'd estimate you could replicate my current audio setup for about £100, or about $140.
+Though this is assuming you already have a computer to record on,
+and I will point out that if you want to actually appear in your videos,
+you'll need to add a camera and probably lighting to that as well. I can't really help you there, unfortunately.
+So that's my basic audio setup there. Now, is it great?
+No, it's not. It's next on the list of things I need to upgrade, actually. However, it's also not that bad.
+You know, you can hear my voice fine, it's listenable,
+it's not too echoey, and I've managed to get to this point without having to change it.
+Now, obviously, if you have the income to spare, you can buy better and more expensive versions of all the things
+I just mentioned, but if you don't, it's perfectly possible to start out with something similar to my bare bones setup there.
+My one piece of possibly snobbish audio advice I'll hand out is to stay away from USB audio devices,
+microphones, headsets, and so on. Now, obviously, different people will tell you different things, but I'm not a fan, personally.
+They don't sound the best, and even a cheap XLR slash preamp setup will usually be superior.
+That's in my experience, anyway. Now, software-wise, I record audio in Audacity,
+I edit video in Lightworks, and I capture footage for videos with OBS, which is a streaming software,
+but can also make local recordings. All of these are okay programs.
+I mean, they get the job done, and they're all free.
+I will say, if you're just starting out and you have access to a better video editor than Lightworks,
+I'd recommend learning to edit in that instead, because Lightworks can be a bit finicky.
+But if you don't have access to that, and you're not some sort of mega millionaire who can purchase
+professional editing software on a whim, Lightworks is a perfectly passable free alternative,
+so long as you're not looking to do anything too fancy very easily, anyway.
+So that's hardware and software there. I'll go into a few production tips here, although, again,
+the best way to learn is to do it for yourself. For recording audio,
+firstly, make sure there's no echo. If you're recording in a room with big, flat, empty walls and an uncarpeted floor,
+it is going to echo. Now, I have sound paneling now, but in the past,
+I would hang a duvet or some sheets around near the microphone while I recorded, and that worked just as well.
+When you're recording, sit up straight, take deep breaths,
+try not to fiddle with things or speak animatedly with your hands too much.
+Sit on a chair that doesn't creak when you move, like this one. Listen to this.
+Try to record all your audio in a set position without moving around too much or
+rearranging the microphone or different parts of your audio track will sound different.
+I actually just record all my audio for each video in a single sitting to try to circumvent this problem.
+Make sure you don't have a smartphone too close to your microphone or preamp or you'll get interference.
+Try to record somewhere quiet. I guess that's the main piece of advice there.
+I believe some libraries have recording booth bookings if your home environment is like completely unusable as far as audio goes,
+so maybe look into that if you have to. Next up is audio editing, which is very important.
+Now, obviously, as my recording setup is kind of cheap and basic, if I just record a track in Audacity and export it with no
+editing, it would sound fairly rubbish. In fact, it would sound like this.
+I'll read out the rest of this paragraph with no editing so you can see the difference.
+So how do we stop our audio from sounding like this? Well, in Audacity, or your editor of choice,
+I guess, we can apply different filters and effects. Now, the most important one
+I always use is noise reduction. At the start of every track I record, I leave a brief period of total silence,
+which looks like this,
+so that I can let the microphone get a sample of the background noise.
+Then if we select that part of the track, we can go to Effect, Noise Reduction, click Get Noise Profile,
+which will tell Audacity what you want it to remove, hit Effect, Repeat Noise Reduction, and
+say farewell to the background noise. There we go.
+Now, obviously, you'll have to play around with the various settings to get it sounding the best, depending on your recording equipment and space.
+I also use the normalize and equalize effects with particular settings relevant to my setup here,
+but I had to play about with those to get the right numbers,
+so experiment and see what works for you.
+And the rest of the editing is just cutting the track down to the usable parts, you know, cutting flubbed lines or coughs, weird clicks,
+shortening unusually long pauses, all that jazz. Now, I do this in Audacity before exporting the track,
+but obviously this is different if you're editing audio that has to be fit to video footage of you speaking.
+Any cuts there will have to match the video, or it will all be out of sync, so that's best done in the video editor.
+So, video editing tips. Well, you know, don't ask me. I'm not the best, as I'm sure you've noticed.
+I can do things, you know, I can make there be a picture of pyramids when I'm talking about pyramids.
+I can make that picture of pyramids spin around if I wanted to, or like,
+get really small and then slowly slide off the left of the screen.
+You know, I can do it,
+but mainly my video editing only extends to showing clips and pictures I happen to be talking about, and that's all fairly simple to learn,
+which is cool. But for actual advice I can give, first off, make sure you have a good folder system.
+I didn't know this at first, and everything got very messy.
+So now every project has its own folder, and then within that are folders for pictures, video clips, audio, and so on.
+In the actual editor, video editing for me boils down to dropping various clips and pictures onto the timeline at the right time.
+I import the audio track first and then add visuals to it. Now, other people will do it differently again.
+You'll have to see what works best for you.
+I won't really go into any specifics here, as it will depend on what editor you're using and the type of content you're trying to make,
+but there are plenty of great video editing tutorials here on YouTube,
+so give those a look. And in future, when you see a YouTuber you like use an effect that you'd like to know how to do,
+just have a Google of it and someone somewhere will have a tutorial for how to do it. Isn't the internet wonderful?
+So I realized a lot of my technical advice there kind of boiled down to Google it and
+experiment for yourself, so let's see if I'm any better at creative advice.
+Now, I was asked two particular questions multiple times here.
+How do I decide what to make videos about? And secondly, how do I know what I make will be worth watching?
+So to the second question,
+I don't know. You know, do you want to make the thing? You know, do you wish it existed?
+Would you watch it yourself? If so, you know, it's worth creating. And that's rather simple, that one.
+To the first question, how do I decide what to make videos about?
+Well, there's two main answers here.
+The first thing is something that you know about and you want to share with other people.
+I get a lot of questions from academic-type folks saying things like,
+I'm a historian or a biologist or whatever.
+Do you think it's worth me making videos about my area of expertise? And the answer is yes.
+More topics than you think can be video-ified, to use the accurate technical term there.
+The second thing I'd advise making videos about is something that you don't have expert knowledge of, but would like to learn more about.
+For instance, I learn a lot about each topic I cover as I'm putting the script together.
+It's a great learning experience by itself, and I've found it's good for the old mental health,
+to be working on some sort of ongoing creative project.
+So make videos about either things you do know about, or things you don't know about.
+That encompasses everything,
+doesn't it? I am terrible at giving advice. I've realized far too late in the production of this video though, so whatever. I'm pressing on.
+So I'll give a few creative tips relating to how I make videos here. Now again,
+these might be useless to someone with a different approach, but here we are.
+So first off, I keep a list of ideas on the go. Now,
+this is a .txt file on my computer with a list of video ideas, and I make notes on my phone or in a notebook
+if something comes to me when I'm on the train or whatever. Now, it seems simple,
+but if you don't do this, you will definitely forget that great idea you had yesterday.
+So keep a pen and paper handy. This advice extends to each project too.
+Write everything even vaguely useful down as you go, and you can always cut out the unnecessary parts later. Now,
+I personally write scripts by, over the course of a week to a few weeks,
+making a big jumbled list of phrases and keywords and sentence fragments that are stand-ins for full paragraphs,
+written down as I think or read about the topic.
+Talking your ideas through with someone else can be really helpful too, as they will ask questions or raise additional points,
+and you can get a bit of a preview of how an audience is going to respond to what you're saying.
+So anyway, I have my big jumbled mess. Now, after I run out of material or
+things to research or when I decide to stop because otherwise my video will be four hours long,
+I take the mess and I start editing it.
+I first cut and paste relevant sections together until they're structured in some sort of narrative order.
+I write an introduction with leading questions that will be answered in the rest of the video.
+I cut out any parts that don't fit or I decide aren't worth the time to go into.
+So then when it finally comes time to actually write the script out fully, it's a simple process of fleshing out the skeleton structure
+that's already there. Now, this is all fairly basic essay writing advice aimed at making a particular type of video.
+But there are lots of different approaches for different types of videos.
+Some people work better when they're less structured, but I like to have everything written out.
+So again, experiment and see what works for you. I realize I'm saying that a lot today, but oh well.
+I'll move on to answering some more specific questions here, which are more about the culture of YouTube, I guess.
+So a curious cat user asked,
+How do you deal with the intense amount of backlash related to being left-wing and pro-feminist on YouTube?
+And this question was echoed by a few other people, including someone who says,
+I've been considering making a political YouTube channel, but I am afraid of doxxing and the likes.
+I feel especially exposed to it because of the various minority groups I'm part of. Not straight, not a man, etc.
+Any safety advice or uplifting pep talk? So okay, brigading videos,
+abuse, doxxing and the likes. It happens, it sucks, and there isn't a short or easy way around it, unfortunately.
+Now, I'm not too worried about down-voting campaigns. They're actually good for your channel, strictly numbers-wise.
+It brings in a lot of views and interaction.
+Likewise, in my experience, the false flagging of my videos has worked out pretty well for me.
+The one time a group of angry lads got a video of mine taken down through mass flagging,
+I saw a big increase in subscribers and views. And then, of course, because the flagging was not warranted, the video was then
+reinstated, so I didn't lose anything, and it actually worked out okay.
+Now, there isn't really a nice side to the abuse itself, unfortunately.
+And I actually get it pretty easy, all things considered.
+All I'd say is don't feel bad about blocking or muting people who are arguing in bad faith.
+Particularly starting out, you're gonna be reading all your YouTube comments and messages and the likes, but that gets old very fast.
+You shouldn't waste your time engaging with trolls who are only there to annoy you.
+Now, the worst of the things that happens is the doxxing and attempting to mess with your personal life somehow.
+Luckily, it is only a very small minority of people who engage in this sort of behavior,
+but it does happen. If you develop enough of a presence online,
+there will be people who try to find out your address or guess your passwords.
+Social engineer their way into getting the reset question for your backup email that you haven't logged into in five years,
+you know, all that sort of thing. So before starting out, I'd say prepare yourself for that to happen.
+Create a fresh email address for your channel and associated other social media accounts. Use a new, long,
+complicated password, and be aware of your previous history on the internet.
+You know, did you used to have a DeviantArt account where you drew Mario licking Sonic's feet or something?
+If you don't do anything about that, the first person you piss off is going to find it and email it to your parents.
+So any old social media accounts you don't use, log into them and deactivate them, and put the ones you do use on the highest
+security settings. If there's something you've done in the past that would be embarrassing to be revealed about you, be upfront about it early on.
+Part of the reason why I keep mentioning I was a little shithead troll years ago is if anyone ever finds a bunch of
+posts of mine where I've said some air quotes edgy racist or sexist crap, which I did frequently,
+I've already addressed that. For tips on trying to avoid this kind of extreme negative attention,
+I'd just say mainly be boring.
+You know, don't give them what they want. The people who engage in this sort of behavior just want a target, and they don't really
+care who it is. If you give them the attention they want, they will follow you around and try to make you do it again.
+So just hammer that mute button, I guess. Let's move on.
+Another user asks,
+How do you get past the fear that your videos won't be good enough or as good as you want them to be?
+And the answer to that is you don't, or at least I don't. I see the flaws in everything
+I make, and they'll never be as good as I want them to be, but that fear is not a good reason to stop.
+Just try to make the next thing better than the last thing was.
+Someone else asks,
+How do you decide when you have something worth saying or maybe more accurately worth listening to?
+I've thought about trying out getting going on YouTube, but it's hard to know if I'd have anything of value to share.
+First off, I'm sure you do have something of value to share, but for me this process happens topic by topic.
+There are videos I've abandoned if I realize that the approach I'm taking doesn't work, or there isn't enough material,
+or whatever else. You know, you won't know until you try, I guess I'm saying. Someone else asks,
+Hey Sean, I'm currently setting up a YouTube channel.
+My first video happens to be about a popular YouTube skeptic spreading misinformation about the Holocaust and bordering denial.
+I keep asking myself if I should touch this topic at all, or if there are certain things that should be off-limits
+even when correcting Holocaust deniers. What are your thoughts on this?
+So this is something I've been thinking about a lot lately, and here's where I'm at with it right now.
+You can make a video countering something like Holocaust denial or some other similarly difficult subject, as long as you're kind of careful.
+First off, I'd say you should aim upwards in terms of audiences.
+You know, if you have a million subscribers,
+it might be irresponsible to expose them to some obscure Holocaust deniers arguments, even for the purposes of debunking them.
+So probably only respond to people with a larger audience than yourself,
+and you can debunk an argument without providing a platform to any one person.
+So talk about fascists all you want,
+but don't have them on the show for a friendly chat. And if you ever make a video trying to explain their views and arguments,
+include very clear and unambiguous
+refutations to those arguments. You know, don't give them an inch, basically, or you'll be doing their job for them.
+Another user asks,
+To answer that, just dive right in.
+Well, that was an easy one.
+Another user asks,
+So I'd say the big issue here is your concern about your videos no longer being relevant,
+and you shouldn't be worried about that, really, unless you're making a channel that reacts to daily news or something.
+I made a video about the shooting of Trayvon Martin, like, five years after it happened.
+I'm working on a video about the Charlottesville Unite the Right rally right now.
+You know, there's something to be said for missing the immediate response window,
+and instead just getting the last word and later on.
+So maybe try being less concerned about staying current, or develop content that is just timeless.
+You know, I've made videos about Roman history, for instance. It doesn't really matter when they came out, you know.
+Another user asks,
+I find this comes with time.
+You know, if you pick any YouTuber who sounds confident now and scroll to their old videos, they'll probably all sound totally different.
+So make ten videos and then see if you still sound nervous, I guess.
+Someone else asks,
+And yes, that's completely fine.
+You know, you can just put out political content and ignore all the rest of the rubbish if you like.
+It'd probably be good for your mental health in the long run as well, so, yeah, go for it.
+Finally, I was also asked a few questions about how to get views and subscribers and all that.
+Now, I'm probably not the best person to answer this.
+For me, it was about two years of producing video content before I broke a thousand subscribers.
+Before doing political stuff, I was making kinda rubbish game videos.
+And then before that, I had another YouTube channel that I ran for a year,
+and that never really saw a sizeable audience of any kind.
+I kept up with making videos because I found it fun.
+It's an enjoyable hobby for me, so just keep on trucking, basically.
+If you enjoy it, then just focus on improving, and eventually, if you're kinda lucky,
+like I was, you'll eventually hit some sort of self-perpetuating snowball increase that will leave you very confused.
+For more active advice, though, get a Twitter account and interact a bunch with the sorts of people who you think might like and share your videos.
+The first step to getting a big audience is getting a little audience.
+That's gonna be all from me today, folks.
+Thanks a lot, I hope I answered all of your questions.
+If there's anything you really want to know that I missed, just head over to Twitter or Curious Cat and send me a question.
+Okay, thanks folks, and I'll see you next time.

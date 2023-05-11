@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:04,200
+Hello, everyone. Today's video is going to be about chess.
+
+2
+00:00:05,880 --> 00:00:12,380
+Okay, so for the five of you who are still here, welcome. Let's get on with it. So, chess.
+
+3
+00:00:13,020 --> 00:00:17,560
+Chess is a strategy game and one of the oldest games in existence.
+
+4
+00:00:18,420 --> 00:00:23,740
+Historians have determined that the first game of chess was played sometime in the early...
+
+5
+00:00:24,420 --> 00:00:29,780
+Okay, I'm just kidding, of course. So why do I want to talk about chess today?
+
+6
+00:00:30,060 --> 00:00:34,140
+Well, I was watching Black Pigeon Speaks. Do you remember him?
+
+7
+00:00:34,540 --> 00:00:38,360
+He's the little fascist bird that hates women. You know the guy.
+
+8
+00:00:38,720 --> 00:00:43,440
+By allowing women to fuck freely, the West has de facto entered a matriarchy.
+
+9
+00:00:43,840 --> 00:00:44,840
+Yeah, him.
+
+10
+00:00:45,040 --> 00:00:48,580
+Oh, I'm sorry. Is this what they call poisoning the well?
+
+11
+00:00:48,800 --> 00:00:52,980
+Poisoning the well by directly quoting things he said? Well, no.
+
+12
+00:00:53,240 --> 00:00:58,200
+I'm not doing that because it is, in fact, completely relevant to the topic of today's video,
+
+13
+00:00:58,200 --> 00:01:00,860
+which is about women chess players.
+
+14
+00:01:01,340 --> 00:01:05,860
+Now, I'm sorry that this is necessary, but we do have to watch a short clip from his video.
+
+15
+00:01:06,160 --> 00:01:11,100
+Although this is the only clip of his I'm going to show today, so just muddle through as best you can.
+
+16
+00:01:11,260 --> 00:01:15,600
+And moving down to Canada's Southern Neighbour, which has so many stories every week, it's hard to narrow them down,
+
+17
+00:01:15,600 --> 00:01:19,580
+but these are the ones that I found most interesting, and here they are.
+
+18
+00:01:19,740 --> 00:01:27,160
+As of publication of this video, the US Men's Chess Championship is currently underway with Grandmaster Wesley So,
+
+19
+00:01:27,160 --> 00:01:34,260
+who's 23, of Minnetonka, Minnesota, in a tie for first place with Daniel Narodiski.
+
+20
+00:01:34,460 --> 00:01:39,660
+But wait, something's not right here. Men's chess? Why are there no women competing in this tournament?
+
+21
+00:01:40,000 --> 00:01:44,360
+Which is a game solely reliant upon one's faculty, not body strength.
+
+22
+00:01:44,640 --> 00:01:47,280
+Why are chess tournaments separated by gender?
+
+23
+00:01:47,560 --> 00:01:49,600
+Women should play chess alongside men.
+
+24
+00:01:49,960 --> 00:01:54,700
+Chess isn't football or boxing. I've been told since childhood that women are every bit as smart as men,
+
+25
+00:01:54,700 --> 00:01:56,860
+and chess shouldn't be segregated like this.
+
+26
+00:01:57,060 --> 00:02:02,320
+But upon further investigation, it's not that women aren't allowed in the men's tournament,
+
+27
+00:02:02,680 --> 00:02:10,220
+but they don't have the skill to get into high-level competitions, and if it wasn't separate, no woman would ever win.
+
+28
+00:02:10,380 --> 00:02:14,280
+Like in sports, women aren't actually segregated by the rules.
+
+29
+00:02:14,580 --> 00:02:23,520
+It's just that women cannot compete against men and win in the mental game of chess, when it is the best of both genders facing off.
+
+30
+00:02:23,980 --> 00:02:27,120
+So that clip there was from the Black Pigeon Speaks video,
+
+31
+00:02:27,120 --> 00:02:33,020
+Merkling Mayhem, slash, Women Do Chess, and Sweden, Yes.
+
+32
+00:02:33,420 --> 00:02:36,820
+Sort of a random collection of letters there.
+
+33
+00:02:36,820 --> 00:02:41,120
+And that video is a bit like a poor man's version of a Sargon of Akkad,
+
+34
+00:02:41,120 --> 00:02:47,420
+this Week in Stupid type thing, where Black Pigeon Speaks features a bunch of seemingly random news stories,
+
+35
+00:02:47,420 --> 00:02:49,420
+and then says something horrible about them.
+
+36
+00:02:49,720 --> 00:02:58,720
+So what's the relevance of this particular news story about Grandmaster Wesley So having to play a tie-breaking match at the end of the US Chess Championship?
+
+37
+00:02:58,720 --> 00:03:00,720
+Well, nothing really.
+
+38
+00:03:01,020 --> 00:03:08,620
+Black Pigeon Speaks is just using the story to go off on a tangent about the fact that the US Chess Championship has a women's division,
+
+39
+00:03:08,620 --> 00:03:15,020
+and he uses that as proof that women can't compete with men at chess, and are therefore less intelligent.
+
+40
+00:03:15,320 --> 00:03:21,820
+And the logic goes that if women could compete with men, there would be no need to divide men and women into separate leagues.
+
+41
+00:03:22,120 --> 00:03:28,820
+So is Black Pigeon Speaks onto something here? Is it true that women can't compete with men at chess?
+
+42
+00:03:29,020 --> 00:03:35,020
+Well, I'd like to skip ahead at this point and share a news story from the 17th of this month from chess.com.
+
+43
+00:03:35,020 --> 00:03:41,920
+Hou Yi Fan, I think I'm saying that right, pressures Carlson, maintains lead at Grengke.
+
+44
+00:03:41,920 --> 00:03:49,520
+That's China's Hou Yi Fan, a woman pressuring Magnus Carlson, who, in addition to being a man,
+
+45
+00:03:49,520 --> 00:03:55,020
+is the world number one, the world chess champion, and the highest-rated player in history,
+
+46
+00:03:55,020 --> 00:03:59,720
+into a draw to maintain her lead at the Grengke chess classic.
+
+47
+00:03:59,720 --> 00:04:07,820
+Now, she was leading because she had previously defeated, in the first round of that tournament, Fabiano Caruana,
+
+48
+00:04:08,120 --> 00:04:14,420
+who is the third highest-rated player in history, behind only Magnus Carlson and Garry Kasparov.
+
+49
+00:04:14,820 --> 00:04:21,520
+And the interesting thing about Caruana here is that he was born in Miami, which means he's American, if you follow,
+
+50
+00:04:21,520 --> 00:04:28,820
+so he's eligible to play in the US Chess Championship, the very tournament that Black Pigeon Speaks was talking about,
+
+51
+00:04:29,120 --> 00:04:33,520
+which he did, coming in joint second behind Wesley So.
+
+52
+00:04:34,220 --> 00:04:38,920
+Now then, the incredibly sharp-eyed among you will have noticed something interesting here,
+
+53
+00:04:38,920 --> 00:04:46,820
+and this is just a minor point, but Black Pigeon Speaks said that Wesley So was tied for first place with Daniel Naroditsky.
+
+54
+00:04:47,620 --> 00:04:49,420
+Yes, he did. I can prove it.
+
+55
+00:04:49,420 --> 00:04:53,820
+Minnesota, in a tie for first place with Daniel Naroditsky.
+
+56
+00:04:53,820 --> 00:05:01,520
+See, but in this results table, we see that Daniel Naroditsky is, in fact, way down the table in joint fourth, so what happened there?
+
+57
+00:05:01,820 --> 00:05:07,520
+Well, the Star Tribune article that Black Pigeon Speaks took the headline from has a photograph of Wesley So,
+
+58
+00:05:07,520 --> 00:05:10,520
+which was taken during his game against Naroditsky.
+
+59
+00:05:10,920 --> 00:05:17,720
+So Black Pigeon Speaks saw that picture and incorrectly came to the conclusion that Naroditsky was So's playoff opponent,
+
+60
+00:05:17,720 --> 00:05:22,820
+when if you actually read the article, it's clear that it's a fellow called Alexander Anischuk.
+
+61
+00:05:22,820 --> 00:05:27,520
+So what does this error have to do with women chess players? Well, nothing, really.
+
+62
+00:05:27,520 --> 00:05:33,520
+I just thought it was a funny coincidence that while attempting to prove that women can't play chess properly,
+
+63
+00:05:33,520 --> 00:05:36,820
+Black Pigeon Speaks revealed that he can't read properly.
+
+64
+00:05:37,320 --> 00:05:40,820
+Anyway, back to Ho-Yi Fan at the Grenca Chess Classic.
+
+65
+00:05:40,820 --> 00:05:46,320
+Now then, according to Black Pigeon Speaks' logic, this situation should be impossible.
+
+66
+00:05:46,720 --> 00:05:47,520
+He says,
+
+67
+00:05:47,520 --> 00:05:54,320
+"...why are chess tournaments separated by gender? If it wasn't separate, no woman would ever win."
+
+68
+00:05:54,320 --> 00:05:59,820
+Yeah, but here we have a chess tournament that is not separated by gender, clearly, because it's got a woman in it,
+
+69
+00:05:59,820 --> 00:06:03,220
+and she's a woman who does have the skill to win.
+
+70
+00:06:03,220 --> 00:06:10,220
+Clearly, because she just beat the third highest-rated player in history and drew against the world chess champion.
+
+71
+00:06:10,220 --> 00:06:12,520
+So something funny is going on, isn't it?
+
+72
+00:06:12,820 --> 00:06:17,320
+Now, could it be that Black Pigeon Speaks doesn't actually know the first thing about chess
+
+73
+00:06:17,320 --> 00:06:20,520
+and is just bullshitting his audience into hating women?
+
+74
+00:06:20,920 --> 00:06:25,020
+Well, who knows? But let's give him the benefit of the doubt for now.
+
+75
+00:06:25,520 --> 00:06:29,220
+His video was published on the 11th of April of this year,
+
+76
+00:06:29,220 --> 00:06:33,820
+and the Grenca Chess Classic didn't start until the 15th, four days later.
+
+77
+00:06:33,820 --> 00:06:41,120
+So if Ho-Yi Fan is the first female chess player in history to ever play competitively against men at the top tournament level,
+
+78
+00:06:41,520 --> 00:06:43,520
+we can let Black Pigeon Speaks off here.
+
+79
+00:06:44,020 --> 00:06:45,720
+So... is she?
+
+80
+00:06:46,220 --> 00:06:48,020
+So who is this person?
+
+81
+00:06:48,020 --> 00:06:52,720
+Well, she's Hungarian chess grandmaster, Judit Polgar.
+
+82
+00:06:52,720 --> 00:06:57,020
+She was ranked in the top 100 players in the world by the time she was 12.
+
+83
+00:06:57,020 --> 00:07:04,220
+She achieved grandmaster status in 1991 at the age of 15, and was at the time the youngest grandmaster in history.
+
+84
+00:07:04,220 --> 00:07:12,920
+She's defeated 11 world champions, including Carlson, Karpov, Kramnik, Spassky, Topalov, Anand, and Garry Kasparov.
+
+85
+00:07:12,920 --> 00:07:16,220
+And at her peak rating, she was the world number eight.
+
+86
+00:07:16,220 --> 00:07:21,820
+Now, naturally, being one of the best players in the world, she won her fair share of tournaments.
+
+87
+00:07:21,820 --> 00:07:24,720
+Tournaments that had male players in them.
+
+88
+00:07:24,720 --> 00:07:29,420
+For example, she won the Hastings International Chess Congress in 1993,
+
+89
+00:07:29,420 --> 00:07:33,220
+she won the US Open Chess Championship in 1998,
+
+90
+00:07:33,220 --> 00:07:39,420
+one of her games at the Russia vs. Rest of the World tournament in 2002 is an interesting one.
+
+91
+00:07:39,420 --> 00:07:44,420
+And that tournament is as it sounds, you know, a bunch of Russians played a bunch of non-Russians.
+
+92
+00:07:44,420 --> 00:07:49,220
+So, Judit Polgar found herself matched against Garry Kasparov,
+
+93
+00:07:49,220 --> 00:07:55,520
+who's pictured here being accosted at a news conference by a remote-controlled dildo helicopter.
+
+94
+00:07:55,520 --> 00:07:58,620
+Now, he was at the time the world chess champion,
+
+95
+00:07:58,720 --> 00:08:03,520
+and also had a record of saying very disparaging things about female chess players.
+
+96
+00:08:03,520 --> 00:08:06,120
+And in fact, at once described Polgar by saying,
+
+97
+00:08:15,820 --> 00:08:18,120
+And then Judit Polgar beat him,
+
+98
+00:08:18,120 --> 00:08:23,020
+becoming the first woman to ever defeat the current world number one in competitive play.
+
+99
+00:08:23,020 --> 00:08:28,520
+And the Rest of the World team went on to narrowly beat the Russia team in that tournament.
+
+100
+00:08:28,820 --> 00:08:35,120
+A similar story here is that in 2015, British Grandmaster Nigel Short was taken to task
+
+101
+00:08:35,120 --> 00:08:39,920
+for saying that women were naturally hardwired to be worse at chess than men.
+
+102
+00:08:39,920 --> 00:08:44,520
+And critics of this sentiment were quick to point out that a couple of years previously,
+
+103
+00:08:44,520 --> 00:08:50,320
+Nigel Short had been beaten by Judit Polgar in Chess.com's Deathmatch tournament.
+
+104
+00:08:50,320 --> 00:08:56,320
+So I suppose his superior brain wiring must have been short-circuiting that day or something.
+
+105
+00:08:56,420 --> 00:08:59,720
+So then, to Black Pigeon Speaks, the question is not
+
+106
+00:08:59,720 --> 00:09:02,720
+can women compete at the highest levels of chess,
+
+107
+00:09:02,720 --> 00:09:07,720
+because players like Judit Polgar and Ho-Yi Fan have already settled that question.
+
+108
+00:09:07,720 --> 00:09:09,020
+They can.
+
+109
+00:09:09,020 --> 00:09:13,120
+No, the question is, why don't more women compete at that level?
+
+110
+00:09:13,120 --> 00:09:18,720
+Because that's the thing, only a relatively small amount of the world's current grandmasters are women.
+
+111
+00:09:18,720 --> 00:09:23,720
+So if women can do it, what's stopping more of them from doing it?
+
+112
+00:09:23,720 --> 00:09:26,020
+And that is an interesting question.
+
+113
+00:09:26,020 --> 00:09:31,820
+It's easy to say women can't pass a certain barrier in chess because of some biological factor.
+
+114
+00:09:31,820 --> 00:09:37,020
+But if you make a declaration about the limits of any one group of people based on biology,
+
+115
+00:09:37,020 --> 00:09:39,620
+time will eventually make a fool of you.
+
+116
+00:09:39,620 --> 00:09:43,820
+You know, there were people who said there will never be a female grandmaster,
+
+117
+00:09:43,820 --> 00:09:47,720
+and there were people who said a female chess player will never break the top 100,
+
+118
+00:09:47,720 --> 00:09:50,920
+and they'll never win a chess tournament against men,
+
+119
+00:09:50,920 --> 00:09:55,820
+they'll never break the top 10, they'll never defeat the world number one, etc.,
+
+120
+00:09:55,820 --> 00:09:59,220
+and eventually, of course, all of those things happened.
+
+121
+00:09:59,220 --> 00:10:03,420
+And today, there are people who say there'll never be a female world number one.
+
+122
+00:10:03,420 --> 00:10:04,420
+And there will.
+
+123
+00:10:04,420 --> 00:10:07,620
+Obviously, eventually, a woman will take the number one spot,
+
+124
+00:10:07,620 --> 00:10:10,420
+and then what will the goalpost movers say?
+
+125
+00:10:10,420 --> 00:10:15,020
+You know, there's only been one female number one so far.
+
+126
+00:10:15,020 --> 00:10:19,420
+The truth is that these biological arguments don't hold water.
+
+127
+00:10:19,420 --> 00:10:26,020
+Once any one woman proves it is biologically, physically possible for women to compete at that level,
+
+128
+00:10:26,020 --> 00:10:28,620
+that's the biology argument debunked.
+
+129
+00:10:28,620 --> 00:10:31,820
+So if we're asking why there aren't more female grandmasters,
+
+130
+00:10:31,820 --> 00:10:37,420
+we have to look beyond biology to possible social and psychological reasons.
+
+131
+00:10:37,420 --> 00:10:42,620
+And this is the exciting part where I get to talk about a fun study I read once,
+
+132
+00:10:42,620 --> 00:10:48,420
+Checkmate! The Role of Gender Stereotypes in the Ultimate Intellectual Sport.
+
+133
+00:10:48,420 --> 00:10:53,820
+Now, this study set out to test whether or not gender stereotypes affect chess ability.
+
+134
+00:10:53,820 --> 00:10:56,020
+And how did they do that?
+
+135
+00:10:56,020 --> 00:11:03,420
+Well, they took 42 female chess players and matched them with 42 male players of equivalent ability.
+
+136
+00:11:03,420 --> 00:11:06,820
+They then had them play a series of chess matches online.
+
+137
+00:11:06,820 --> 00:11:10,620
+However, the researchers did something very sneaky.
+
+138
+00:11:10,620 --> 00:11:14,620
+They misled the female group about the gender of their opponent,
+
+139
+00:11:14,620 --> 00:11:17,820
+such that some of the time they thought they were playing against men,
+
+140
+00:11:17,820 --> 00:11:20,820
+and some of the time they thought they were playing against women,
+
+141
+00:11:20,820 --> 00:11:23,820
+when actually they were only ever playing men.
+
+142
+00:11:23,820 --> 00:11:26,420
+Sometimes the exact same men.
+
+143
+00:11:26,420 --> 00:11:29,020
+And the results are very interesting.
+
+144
+00:11:29,020 --> 00:11:35,020
+When women falsely believed to be playing against another woman, they won about one game out of two.
+
+145
+00:11:35,020 --> 00:11:41,420
+However, these same women performed below chance when they knew they were playing against a male opponent.
+
+146
+00:11:41,420 --> 00:11:46,820
+Indeed, they performed more poorly against the same opponent when they knew they were playing against a male
+
+147
+00:11:46,820 --> 00:11:49,620
+than when they thought they were playing against a female.
+
+148
+00:11:49,620 --> 00:11:51,620
+In the experimental condition,
+
+149
+00:11:51,620 --> 00:11:56,820
+performance was reduced by about 50% when women were reminded of the stereotype
+
+150
+00:11:56,820 --> 00:12:00,420
+and when they were aware of the fact they were playing against a male opponent.
+
+151
+00:12:00,420 --> 00:12:03,820
+In this case, they won only one-fourth of the games.
+
+152
+00:12:03,820 --> 00:12:06,820
+Yet these same women were able to win half of the games
+
+153
+00:12:06,820 --> 00:12:10,820
+when they were misled into believing that the opponent was a female.
+
+154
+00:12:10,820 --> 00:12:13,820
+The difference in performance is particularly impressive
+
+155
+00:12:13,820 --> 00:12:17,420
+if one considers that the opponent was exactly the same.
+
+156
+00:12:17,420 --> 00:12:21,420
+And the study then goes into the particular ways in which the women's games differed
+
+157
+00:12:21,420 --> 00:12:24,620
+depending on what gender they thought their opponent was.
+
+158
+00:12:24,620 --> 00:12:26,620
+You can see why I like this one, right?
+
+159
+00:12:26,620 --> 00:12:28,220
+It's very fun, isn't it?
+
+160
+00:12:28,220 --> 00:12:32,820
+Although I like all studies where the researchers mislead the subjects.
+
+161
+00:12:32,820 --> 00:12:36,820
+So anyway, maybe it's not that women aren't as smart as men.
+
+162
+00:12:36,820 --> 00:12:40,820
+I mean, number of chess grandmasters is only one metric, isn't it?
+
+163
+00:12:40,820 --> 00:12:45,220
+I mean, women now outnumber men among college graduates in many places in the West,
+
+164
+00:12:45,220 --> 00:12:48,220
+so by that metric, things look different.
+
+165
+00:12:48,220 --> 00:12:53,220
+But instead, maybe it's more to do with gender roles and gender expectations.
+
+166
+00:12:53,220 --> 00:12:57,020
+And I'd like to briefly introduce two new characters here.
+
+167
+00:12:57,020 --> 00:13:01,220
+You see, Grandmaster Judith Polgar has two sisters.
+
+168
+00:13:01,220 --> 00:13:07,020
+Fellow Grandmaster Susan Polgar and International Master Sophia Polgar.
+
+169
+00:13:07,020 --> 00:13:09,820
+Now you might think, well, isn't that odd?
+
+170
+00:13:09,820 --> 00:13:14,220
+Three chess masters, all women, from the same family.
+
+171
+00:13:14,220 --> 00:13:15,820
+What's going on there?
+
+172
+00:13:15,820 --> 00:13:22,220
+Well, they're the daughters of a chess teacher and educational psychologist called Laszlo Polgar
+
+173
+00:13:22,220 --> 00:13:25,420
+who tutored all three in chess from a very early age.
+
+174
+00:13:25,420 --> 00:13:28,020
+And like anyone, man or woman,
+
+175
+00:13:28,020 --> 00:13:32,220
+if you spend several hours a day practicing at something for a very long time,
+
+176
+00:13:32,220 --> 00:13:34,820
+then eventually, you get to be very good at it.
+
+177
+00:13:34,820 --> 00:13:38,820
+And if women are put in that environment where they practice chess every day,
+
+178
+00:13:38,820 --> 00:13:43,620
+then they clearly turn out no differently than men do, as chess masters.
+
+179
+00:13:43,620 --> 00:13:46,820
+And the fact that not as many get into chess to start with
+
+180
+00:13:46,820 --> 00:13:49,620
+or stick with it long enough to compete at the top level
+
+181
+00:13:49,620 --> 00:13:52,620
+seemingly has little to do with biology
+
+182
+00:13:52,620 --> 00:13:55,820
+and much more to do with gender expectations.
+
+183
+00:13:55,820 --> 00:14:00,620
+So then, to the initial question, why are there women's chess leagues?
+
+184
+00:14:00,620 --> 00:14:04,620
+Well, it's actually a fairly divisive issue among women chess players, I believe.
+
+185
+00:14:04,620 --> 00:14:09,620
+Some people argue that these leagues are important for getting more women into the game to begin with.
+
+186
+00:14:09,620 --> 00:14:16,020
+On the other hand, some female players, Judit Polgar included, I believe, argue that at the top level,
+
+187
+00:14:16,020 --> 00:14:18,620
+these leagues can actually hold women back
+
+188
+00:14:18,620 --> 00:14:23,220
+and they should instead aim to challenge the men in tournaments that aren't divided by gender.
+
+189
+00:14:23,220 --> 00:14:26,220
+BlackPitch and Speaks ignored all of this, of course,
+
+190
+00:14:26,220 --> 00:14:30,620
+just like he ignored the existence of players like Judit Polgar and Hou Yi Fan,
+
+191
+00:14:30,620 --> 00:14:32,220
+because why bother?
+
+192
+00:14:32,220 --> 00:14:35,220
+You know, if you're speaking to a completely ignorant audience
+
+193
+00:14:35,220 --> 00:14:38,420
+and your intent is to mislead them even further,
+
+194
+00:14:38,420 --> 00:14:39,820
+you know, why not lie?
+
+195
+00:14:39,820 --> 00:14:42,020
+It's not like they're gonna go and check, is it?
+
+196
+00:14:42,020 --> 00:14:45,420
+Anyway, I'll leave BlackPitch and Speaks here with a challenge.
+
+197
+00:14:45,420 --> 00:14:49,420
+If better at chess equals more intelligent than,
+
+198
+00:14:49,420 --> 00:14:54,820
+how about I play you at chess to determine who's right in this argument?
+
+199
+00:14:54,820 --> 00:14:59,620
+If you apparently know so much about chess, you know, it shouldn't be too hard just to beat me, should it?
+
+200
+00:14:59,620 --> 00:15:01,220
+So, let's play!
+
+201
+00:15:01,220 --> 00:15:04,820
+I'll play white in the first game just to get us started,
+
+202
+00:15:04,820 --> 00:15:07,620
+and I'm gonna open with 1D4.
+
+203
+00:15:07,620 --> 00:15:12,420
+And I'll await your response over on Twitter, the link's in the description there.
+
+204
+00:15:12,420 --> 00:15:15,620
+Come and have a go, if you think you're hard enough.
+
+205
+00:15:15,620 --> 00:15:17,420
+Thanks a lot for watching, everyone.
+
+206
+00:15:17,420 --> 00:15:20,020
+It's a relatively short one today, eh?
+
+207
+00:15:20,020 --> 00:15:23,620
+Oh well, a change is as good as a rest, so they say.
+
+208
+00:15:23,620 --> 00:15:27,620
+Thanks, as always, to all my supporters over on Patreon.
+
+209
+00:15:27,620 --> 00:15:31,420
+There's quite a few more of them recently, which is rather exciting.
+
+210
+00:15:31,420 --> 00:15:34,420
+We're slowly building a little army over there.
+
+211
+00:15:34,420 --> 00:15:37,820
+And we're also rapidly closing in on our next Patreon goal,
+
+212
+00:15:37,820 --> 00:15:42,420
+where our plans for world domination will finally enter Phase 2.
+
+213
+00:15:42,420 --> 00:15:44,220
+So come along and join us.
+
+214
+00:15:44,220 --> 00:15:46,820
+It might be the only thing that saves you.
+
+215
+00:15:46,820 --> 00:15:48,420
+I'm kidding, of course.
+
+216
+00:15:48,420 --> 00:15:49,220
+Or am I?
+
+217
+00:15:49,220 --> 00:15:52,020
+You know, it's better to be safe than sorry, isn't it?
+
