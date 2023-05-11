@@ -79,6 +79,7 @@ TODO
 
 - [ ] Add a channel TODO list
 - [ ] Add synced subtitles to videos
+- [ ] Find a way to deal with massive amount of "misinformation" strikes
 
 ## Channels Fully Archived and Uploaded
 
