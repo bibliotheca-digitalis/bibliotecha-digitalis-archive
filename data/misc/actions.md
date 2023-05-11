@@ -44,6 +44,10 @@ reupload them. The problems with this development is,
 I have chose not to fight this. I will not reupload the videos. If I encounter
 more of this in the future, I will have to make a sort of change log for these videos.
 
+### Video ' [Audio Backup] Stefan Molyneux's Native American Genocide - A Response | Shaun' has been removed due to "misinformation"
+
+Another video has been flagged for misinformation. This time, it is a video from shaun.
+
 ## GitHub
 
 ## Removing
